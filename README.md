@@ -23,7 +23,7 @@ To publish: **Settings → Pages → Build and deployment → Deploy from a bran
 
 ## Rules updates
 
-Approved rule changes are announced in [the Ember Corps Discord](https://discord.com/channels/1538632131402793080/1542862638663344289). This site has no separate changelog.
+Approved rule changes are announced in [the Ember Corps Discord](https://discord.com/channels/1538632131402793080/1542862638663344289). The [6 October 2026 clan technique changelog](updates/2026-10-06-clan-techniques.md) records the latest clan update.
 
 ## Contributing
 

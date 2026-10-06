@@ -1465,19 +1465,22 @@ After a battle, the Swarm Pool returns to maximum after 1 hour if at least 1 poi
 
 **Type:** Ninjutsu, Rank D  
 **Chakra:** 14  
-**Damage:** 5d10+Xd4  
+**Damage:** 5d10 + Xd4  
 **Range:** 15  
 **Area:** 8  
 **Speed:** 10  
 **Seal Speed:** 10  
-**Special:** Immobilization 2  
 **Tags:** Attack, AoE, Environmental
 
 **Effects**
 
-As part of casting this Jutsu, you may expend Swarm HP in intervals of 10, with each 10 spent increasing X by 1
+Choose how much Swarm Pool HP to spend: 0, 10, 20, 30 or 40, leaving at least 1. X = 1 + HP spent/10. Pay this cost and Chakra when releasing the Jutsu, then attack a visible ground Area within Range.
 
-On a hit, apply Immobilization X/2. The affected Area remains sticky for X\*30 IC; moving through it by anything other than the Move Action at half speed costs X extra AP per 2 yards moved.
+On a hit, apply Immobilization equal to half X, rounded up, reduced for Partial Defense. After the Attack, the ground becomes Honey Mire for 20+10X IC. It affects all creatures touching it, including allies and you. Targets above the ground avoid its terrain effects.
+
+Entering the Mire or travelling 2 yards within it adds 1 to its Immobilization on that creature, maximum 3, once per 5 IC. Use one Honey Mire total per caster even where fields overlap. A Move Action at half the creature’s current movement rate avoids this additional buildup; forced movement does not.
+
+Clean Honey — Speed 5 Utility Action: remove 1 Severity from yourself or a willing creature within Melee reach. The status ends after 10 IC outside all of your Mire or when the last field affecting it expires. Use only the strongest Immobilization when combined with other sources.
 
 **C-Rank**
 
@@ -1573,31 +1576,41 @@ You can Target multiple people with the Kagemane and Kagenui Techniques. Every p
 {:#kagemane-no-jutsu-shadow-imitation-technique}
 
 **Type:** Ninjutsu, Rank D  
-**Chakra:** 16 \+ X\*2  
+**Chakra:** 16 + 2X  
 **Upkeep:** 5  
-**Accuracy:** \-6  
-**Range:** CHA/5 (Doubled in Dusk/Dawn)  
+**Accuracy:** −6  
+**Range:** CHA/5; doubled at dusk or dawn  
 **Speed:** 16  
 **Seal Speed:** 12  
-**Tags:** Attack
+**Tags:** Attack, Control
 
 **Effects**
 
-X is the number of times you’ve previously hit with this jutsu in the present battle. For as long as you maintain this jutsu, they stop acting on their own IC and being tracked in initiative all together.
+Extend your shadow to a creature’s shadow within Range and make a Ninjutsu Attack. The shadows need a continuous surface path; measure Range along that path. X is your prior successful Kagemane castings plus prior Shadow Sewing castings this battle. Fix X before paying costs; count each casting once, even with several targets.
 
-While caught, the following effects apply:
+Any failed defense establishes possession, including a Partial Success. Begin Upkeep when the first victim is caught. Multiple Shadow Bind supplies its normal extra targets, costs and Upkeep. A new casting may add victims; a creature can be held by only one Kagemane at a time.
 
-Anyone caught by this technique is treated as being in a Clinch using 20 \+ CHA/4 \+ CC/10 \- X\*2 to determine your own Grapple TN. Once every 15 IC or whenever they advance a fatigue level they may attempt a free Break Clinch check. For every time the target has attempted to break out of this technique they gain a \+2 bonus.
+While caught, a victim has no independent turns. It may speak, gains AP on normal IC ticks, and resolves timed effects and Fatigue normally. It copies your Actions as described below. Its periodic escape checks continue even while it is Stunned or Pinned.
 
-Any time you move (including forced movement), your target is moved in an equal amount mirrored to you (if you move west away from them they will move east the same amount, if you then move north they will also move north).
+Escape TN = 20 + CHA/4 + Chakra Control/10 − 2X, rounded down. Record it for each capture. Each 15 IC after capture, and after each Fatigue category the victim gains, it makes a free Grapple Defense check against that TN. Add +2 per earlier failed escape from this capture. These checks cost no Action, Stamina or Delay and do not gain Break Clinch’s optional X bonus. Success releases the victim.
 
-Any time you take an action they will immediately copy you performing the action with the exact same Speed, Fatigue Cost, Accuracy, etc (and pay the fatigue cost normally). This includes actions like Drop Weapon even if you aren’t holding a weapon). If you use any action that requires a free hand whilst the victim is holding something in their hands, they drop the item in their hands before mimicking the seals you are performing.
+For Shadow Neck-Binding, your shadow begins at Control 5 and the victim at 0. Linked Grapple Jutsu change Control normally; other copied Actions and damage to your body do not change this shadow Control. Control modifies the victim’s normal Grapple Defense, but is not added to the recorded escape TN. The victim counts as Clinched for linked techniques and for the +2 Base Speed of Dodge and Parry.
 
-If they are forced to use a jutsu they haven’t learned its Fatigue cost increases by \+2, with an additional \+3 if they would be unable to learn the jutsu. If they are forced to perform a jutsu they cannot physically do (like a clan jutsu or drawing a weapon they don’t have) they mimic your actions but perform nothing.
+Movement: mirror your displacement, including forced movement. Fix the mirror line halfway between you at capture: moving toward or away from each other reverses direction, while sideways movement keeps the same direction. Use your actual distance without a second Clinch reduction. The victim stops at obstacles; you may finish your own movement. Terrain affects the victim along its actual route. Forced movement applied directly to it moves only it.
 
-Attacking the target directly causes them to attack back. Using any single target attack causes them to attack the same target with a \-3 accuracy. Any areas have their center mirrored similar to how movement works. If the target or center is outside of their normal range (such as different sized weapons or lower Improved Area) then they get a \-1 accuracy for every 2 Yards gap.
+The connection ends if its surface path is blocked or exceeds twice the Range recorded at capture. Ordinary changes in lighting do not end it. Your shadow cannot be damaged as a separate object. An escape effect must end shadow control or possession to remove this connection; escaping a physical Grapple alone does not.
 
-Anytime your Victim is attacked, you can partially relax this Technique long enough for them to defend themselves. Alternatively, you can force them into taking no Defense in which case they immediately attempt a Break Clinch against this jutsu, with an additional \+5 bonus to whatever other bonuses they had already accrued.
+Copying: whenever you perform a non-Interrupt Action or Offensive Interrupt, the victim attempts it simultaneously, using your declared Speed, Accuracy and Fatigue costs, with its own damage statistics and equipment. It pays its own Chakra or Stamina and special resources. An unknown Jutsu adds 2 to each listed Fatigue cost, or 5 if it also fails the learning requirements. If it lacks required anatomy, bloodline, equipment or expendable resources, it copies only the motion, with no cost or effect.
+
+Copy handseals when you form them and release the Jutsu when you release it. A held object blocking a required hand is dropped first. Discard Weapon can be copied even if your hand is empty. A copied maintained Jutsu uses the victim’s own Upkeep; its player may end that Upkeep normally. Your Defensive Interrupts copy only their movement; the victim chooses its own defense when allowed below. Copies never trigger further possession copies.
+
+Copied Actions do not advance a separate IC. Resolve a copied Action before its Fatigue-triggered escape checks. A victim unable to act because of Stun copies only the motion; reduce its remaining Stun by the copied Action’s Final Speed, minimum 0. Each copied non-Interrupt Action counts toward effects lasting until its next Action.
+
+Copied attacks: if you attack a victim directly, that victim attacks you. Otherwise, it attacks the same single target at −3 Accuracy. Reflect an Area’s centre using the capture’s mirror line. A target beyond the victim’s normal Range imposes −1 Accuracy per 2 full yards of shortfall; the Attack still needs a clear path. If it cannot reach through an obstruction, the victim performs the motion without an Attack. Declare all copied targets before resolving defenses.
+
+When a victim is attacked, choose Relax or Hold. Relax allows one normal legal Defensive Interrupt. Hold gives an immediate escape check with +5; success frees it before impact and lets it defend, while failure leaves it with passive mitigation only. Each failed check grants the usual +2 on later escapes. A victim’s defense costs its own resources and does not delay your IC. While it remains held, it has no independent IC to advance.
+
+Release one or all victims as Speed 0, ending their share of Upkeep. Release also occurs if you become unconscious or stop maintaining the Jutsu. Return the victim to initiative at current IC +1, then apply any remaining Stun. If it escapes before an incoming Attack and then declares a defense, add that Interrupt’s Speed normally. Other ongoing effects retain their remaining durations.
 
 **C-Rank**
 
@@ -1605,33 +1618,40 @@ Anytime your Victim is attacked, you can partially relax this Technique long eno
 {:#kage-nui-no-jutsu-shadow-sewing-technique}
 
 **Type:** Ninjutsu, Rank C  
-**Chakra:** 10 \+ X\*2  
+**Chakra:** 10 + 2X  
 **Upkeep:** X  
-**Accuracy:** \+2  
-**Damage:** (X\*3)d10  
+**Damage:** (3X)d10  
+**Accuracy:** +2  
 **Range:** CHA/5  
 **Speed:** 12  
 **Seal Speed:** 14  
-**Tags:** Attack, Piercing
+**Special:** Immobilization X  
+**Tags:** Attack, Piercing, Control
 
 **Effects**
 
-X has a maximum of 6\. This technique ends if its Upkeep is broken or the target is over double the range of this jutsu away from you.
+Choose X from 1–6 and attack within Range. A hit deals the listed damage and Immobilization X, reduced for Partial Defense. Track the Severity actually applied. Begin Upkeep only for a creature restrained by the hit.
 
-Using this Jutsu counts as a "Use" for Kagemane No Jutsu. When targeting anyone affected by this jutsu with Kagemane No Jutsu, that technique has its Accuracy penalty reduced by X. Should Kagemane No Jutsu successfully hit, this jutsu ends.
+Break Needles — Speed 5 Utility Action: the victim rolls Resistance against your Chakra Control roll. On success remove 2 Severity, plus 1 per full 5 points it wins by. At 0 Severity the restraint ends. It also ends when its Upkeep ends or the victim moves beyond twice casting Range.
 
-### Kagebuki Shibari no Jutsu - Shadow Neck-Binding Technique
+Each casting increases Kagemane’s escalating-use value once, hit or miss. When you use Kagemane on a creature restrained by your Shadow Sewing, reduce its −6 Accuracy penalty by that restraint’s current Severity, minimum 0. If possession attaches, release that creature’s needles. Multiple Shadow Bind uses one shared Upkeep X for the casting; the last victim’s release ends it. A new application replaces your previous needles on the same creature rather than stacking.
+
+### Kagebuki Shibari no Jutsu — Shadow Neck-Binding Technique
 {:#kagebuki-shibari-no-jutsu-shadow-neck-binding-technique}
 
 **Type:** Ninjutsu, Rank C  
-**Chakra:** \+5  
-**Speed:** \+2  
-**Requires:** Target trapped in Kagemane No Jutsu  
-**Tags:** Link
+**Chakra:** +5  
+**Speed:** +2  
+**Tags:** Link, Control  
+**Requires:** Target controlled by your Kagemane; a known compatible Grapple Jutsu
 
 **Effects**
 
-This technique is added on to any Grapple Jutsu with the Trapping, Ground Fighting, or Submission tags replacing its Stamina cost with a Chakra Cost (with the \+5 increase). The technique is performed by your Shadow Imitation Technique against the trapped target.
+Link to a Grapple Jutsu you know with Trapping, Takedown, Ground Fighting or Submission. Target one of your Kagemane victims. Replace its Stamina cost with an equal Chakra cost, add Chakra 5 and Speed 2, and pay its Control cost. Retain any other costs. Your shadow supplies the required limbs.
+
+Use the shadow’s recorded Control and the linked technique’s positional requirements. Begin in a Clinch; a successful Takedown establishes a Pin for later Ground Fighting or Submission. The victim rolls Grapple Defense against Kagemane’s escape TN. On success it avoids this linked technique, but possession remains; on failure apply the linked effects in full. Use CHA for STR and NDB for PDB when the linked technique calculates damage or strength.
+
+The linked technique follows its own repeat-use and ending rules. Only this opposed check defends against it; Kagemane’s Hold-or-Relax choice is not used. While Pinned by your shadow, the victim remains stationary when you move; its usual Kagemane escape checks still apply. Ending possession ends all shadow holds and Submissions. A Submission ending adds 5 IC to your next Action, and lingering Suffocation fades normally.
 
 **B-Rank**
 
@@ -1643,19 +1663,23 @@ This technique is added on to any Grapple Jutsu with the Trapping, Ground Fighti
 **Upkeep:** 6  
 **Range:** CHA/3  
 **Speed:** 16  
-**Tags:** Utility
+**Tags:** Utility, Preparation
 
 **Effects**
 
-Every 10 IC you can use your shadow tendrils to grab onto things (or people) or attack. You pay 1 AP for every 2 Speed of the action you wish your Shadows to make, and can pay more AP to reduce the effective Speed of their action further if you wish. You use your NDB in place of PDB for Damage and gain a \+4 Grapple TN:
+Create shadow tendrils extending along visible, unobstructed paths within Range. While maintained, choose one option after activation and then at least 10 IC after your previous option. Announce it before Actions are declared on that IC; resolve it simultaneously with them. On your own turn, you may use it immediately before or after your Main Action. You must be conscious, unstunned and free to direct the tendrils; you cannot use an option during handseals, a delayed Action or another Action requiring continuous attention.
 
-* Retrieve Object (X AP) \- Your shadows pick up X unattended objects on the battlefield that are within range; if it’s ever relevant, you can pick up (and hold onto) up to CHA/8 objects this way at once
+Options cost AP and do not advance your IC. Calculate their effective Speed for defenses and damage as if they were normal Actions, including Paralysis. For variable AP, pay half that Speed, rounded up. Extra AP can reduce effective Speed normally and is paid in addition. Defenders advance IC normally. Options receive no Links or Move-with-Attack movement. Recasting preserves the 10-IC timer.
 
-* Grab (5 AP) \- As per the E-Rank Grapple jutsu
+- Retrieve — 1 AP per object: pick up unattended objects or draw objects from your own inventory. Tendrils hold at most CHA/8 objects, rounded down, and can support Small or Medium weapons. Declare each object’s position; moving an object within Range is another Retrieve option.
 
-* Bind (Variable AP) \- You can have your Shadows use any Grapple jutsu you know
+- Grab — 5 AP: attack one creature within Range using Grab’s Accuracy +2 and effective Base Speed 12. A full hit establishes a Clinch with one tendril. Determine Control normally using your Grapple statistics, CHA for STR and RES, and +4 Grapple Offense. The tendril supplies the required limbs. You may hold one creature at a time; its position is the tendril’s origin for Bind.
 
-* Attack (Variable AP) \- Using a weapon it is holding or can get access to (including Multithrows)
+- Bind — variable AP: perform a known Grapple Jutsu or basic Grapple Action through the hold. AP replaces Stamina and IC advancement; pay Chakra, Control and other costs normally. Use CHA for STR and NDB for PDB. Meet the usual Clinch or Pin requirement. Track Control using the tendril’s options and the victim’s Actions; your unrelated Actions and damage do not change it. The victim may Break Clinch or Escape Pin normally. The hold halves its movement, but does not drag you. A pinned victim remains stationary.
+
+- Attack — variable AP: make one Basic Weapon Attack or Multi-Throw using objects held by the tendrils. AP replaces Stamina; use your weapon Accuracy and NDB for PDB. Weapon Focus does not apply. Every target must be within both the weapon’s Range from its declared tendril position and this Jutsu’s Range from you. WDP accrues using the Attack’s normal Stamina cost.
+
+Tendrils have no separate HP; physical damage can hit held weapons but not the shadows themselves. They retract when their path is blocked or their end leaves Range, dropping the object or releasing the victim. Ending Upkeep retracts all tendrils. Ending a tendril Submission adds 5 IC to your next Action normally.
 
 # Samsara
 {:#samsara}
@@ -1787,13 +1811,16 @@ Created weapons use ordinary equipment profiles and gain no free upgrades.
 **Range:** 25  
 **Speed:** 16  
 **Seal Speed:** 22  
-**Tags:** Attack, Energy
+**Tags:** Attack, Energy  
+**Requires:** Destruction mode
 
 **Effects**
 
-Requires Destruction mode. Against Barriers, Clones, Summons, or created objects, double base dice before damage bonuses.
+Attack one target within Range. Roll 25d10 + NDB × Final Speed against an ordinary target, or 50d10 + NDB × Final Speed against a Barrier, Clone, Summon or created object. Destruction mode applies normally. Held weapons and worn equipment use the ordinary damage pool.
 
-Against living non-summoned targets, this attack bypasses any barriers, Clones or Summons \- Anything such as an Earth Wall, a Block with a Weapon, ect. Any defences that aren’t specifically your target’s body moving to block or dodge are entirely ignored.
+When a qualifying creation intercepts the Attack, use the larger pool against it. If it breaks and its rules pass leftover damage onward, halve that leftover before it reaches an ordinary target; keep it unchanged against another qualifying creation. The reduction is made once when crossing from a qualifying creation to an ordinary target. Use the actual defense’s rules for how much damage reaches each target; do not roll a new pool.
+
+A barrier that negates or reduces an Attack without using HP resolves that effect normally. Successful Parry or Dodge still protects its target. Resolve any legal defense declared for overflow before applying the remaining damage; breaking an interceptor grants no additional defense. Effects other than damage pass through only when the interceptor’s rules permit them.
 
 # Silverhand
 {:#silverhand}
@@ -2394,17 +2421,21 @@ Additionally, the Aburame gets access to the following actions:
 
 **E-Rank**
 
-### Hijutsu: Konchū no Bōdō - Hidden Technique: Insect Insurrection
+### Hijutsu: Konchū no Bōdō - Insect Insurrection
 {:#hijutsu-konchu-no-bodo-hidden-technique-insect-insurrection}
 
 **Type:** Ninjutsu, Rank E  
-**Speed:** \+2  
-**Delay:** 5  
+**Speed:** +2; +5 on an Area Attack  
+**Delay:** 5 after the hit, for insect placement only  
 **Tags:** Link
 
 **Effects**
 
-This add-on modifies any attack  increasing to Speed \+5 if the attack su has an Area. If the attack hits, the Aburame places a female insect on the opponent after the delay ends. They are hidden with a Stealth TN of 25 \+ your stealth bonus. This isn't affected by and doesn’t contribute to the penalties for attempting Stealth multiple times per combat. If the person with the Bugs spots them, they may remove them with a Speed 5 action increased by 1 per every extra female insect currently on them.
+Link to one Attack. After it hits a creature, an insect lands on that creature 5 IC later. A multi-hit Attack places one insect per target through this Link. The parent Attack uses its own normal timing; only insect placement is delayed. Placement remains scheduled if the target moves, but is cancelled if the target or insect is destroyed before it occurs.
+
+The insect is hidden at Stealth TN 25 + your Stealth bonus and may be found with Search. This placement does not use Hide. Placement triggers Predatory Cycle normally. Its Proliferation insect arrives 5 IC after that placement and does not trigger Predatory Cycle again.
+
+Remove Insects — Speed 5 Utility Action: after discovering your infestation, the creature removes up to two of your female insects from itself. This also ends effects supplied by those removed insects.
 
 ### Hijutsu: Mushiyose - Secret Technique: Bug Gathering
 {:#hijutsu-mushiyose-secret-technique-bug-gathering}
@@ -2421,37 +2452,46 @@ This grants the Aburame a \+5 bonus on relevant Survival, Awareness, and Researc
 
 **D-Rank**
 
-### Hijutsu: Kikaichu Mushikui - Hidden Technique: Destruction Bug Bite
+### Hijutsu: Kikaichū Mushikui - Destruction Bug Bite
 {:#hijutsu-kikaichu-mushikui-hidden-technique-destruction-bug-bite}
 
 **Type:** Ninjutsu, Rank D  
 **Chakra:** 15  
-**Area:** As Parasitic Destruction Insect Technique \- Kikaichu no Jutsu  
 **Speed:** 8  
-**Accuracy:** \+X/4  
+**Area:** As Kikaichū no Jutsu  
 **Tags:** Attack, Self
 
 **Effects**
 
-X is the number of female insects on the target. The target makes a Chakra roll against TN 8 \+ X × 2, to a maximum TN of 10 \+ your Chakra Control. On hit, the target takes irreducible HP damage equal to 10 \+ 3X, to a maximum of 30\. If the Chakra roll fails, increase that damage by 50%. Until the end of the target's next Action, its next Chakra Exhaustion roll suffers a penalty equal to X, maximum \-3. Any female insects already on the target increase their Stealth Level by 1, to a maximum of 3\.
+Choose one creature inside your Swarm carrying at least one of your female insects. X is the number on it when you declare the Action. Pay Chakra, then the target makes the roll below.
+
+The target rolls 1d20 + its current Chakra Exhaustion modifier against TN 8+2X, capped at 10 + your Chakra Control bonus. Apply its existing exhaustion, Upkeep and Fatigue modifiers. This defensive roll neither spends Chakra nor changes Fatigue, and is the only defense against this technique.
+
+The target loses 10+3X HP, maximum 30. On a failed roll, increase that loss by 50%, rounded down. This flat HP loss ignores mitigation and causes no Wounds. Its next actual Chakra Exhaustion roll within 10 IC suffers −X, maximum −3; this and Predatory Cycle’s Feeding have a combined maximum penalty of −3.
+
+Your insects already on the target gain one Stealth Level, maximum 3. Their Stealth TN is unchanged, and insects already discovered remain discovered. Apply Living Colony’s recovery normally, once within its own trigger interval.
 
 **C-Rank**
 
-### Hijutsu: Mushidama - Hidden Technique: Bug Sphere
+### Hijutsu: Mushidama - Bug Sphere
 {:#hijutsu-mushidama-hidden-technique-bug-sphere}
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 24  
 **Upkeep:** 4  
 **Speed:** 16  
-**Accuracy:** \+X/3  
-**Tags:** Attack, Self, Piercing
+**Accuracy:** +X/3  
+**Tags:** Attack, Self, Control
 
 **Effects**
 
-X is the number of female insects on a target. Target one person inside your Swarm but calculate their Dodge penalties based on the Swarm’s area. If it hits, the Swarm surrounds the target (losing its Area) and cannot be used for anything besides Hijutsu: Kikaichu Mushikui \- Hidden Technique: Destruction Bug Bite targeting only the one surrounded. While in the Swarm, the opponent gains a \-2 Immobilization penalty. Every 10 IC spent in the Swarm applies another female insect to the target. If the opponent moves, the Swarm will automatically chase them at a rate of CHA/30 Yards per IC.
+Choose one creature within your Swarm. X is the female insects you have on it. Make a Ninjutsu Attack at +X/3 Accuracy, rounded down. Determine its AoE Dodge penalty using the Swarm’s radius before it contracts.
 
-You can end this jutsu with a Return action either reverting the swarm back to normal or returning them to your body as usual.
+On any hit, the Swarm encloses the target and applies Immobilization 2, reduced by Partial Defense. Begin Upkeep. The target counts as inside the Swarm; other creatures do not. Every 10 IC enclosed, place one female insect and resolve Predatory Cycle. A successful initial defense leaves the Swarm unchanged.
+
+The enclosed Swarm occupies the victim’s space. An Area Attack containing that space covers the entire Swarm for its normal damage rules. For gradual movement, it follows at CHA/30 yards per IC. For an instantaneous movement Action, it follows up to CHA/30 × that Action’s Final Speed yards along the route. Movement without an Action has Speed 0 for this purpose. Teleportation or movement beyond that allowance breaks the enclosure at the last reachable point.
+
+While enclosed, use the Swarm only for Bug Bite against that target, Insect Screen protecting a creature sharing its space, or Return. Ending Upkeep restores its previous radius around its current position and removes this Immobilization. Return uses its normal Speed and Range to bring the Swarm into you. Destruction of the Swarm ends the Jutsu. The same Swarm can enclose only one target.
 
 ### Hijutsu: Mushikabe - Insect Screen
 {:#hijutsu-mushikabe-insect-screen}
@@ -2637,28 +2677,18 @@ X has a maximum of AGI/2. You subtract X points from your AGI, and add X/2 to yo
 **Chakra:** 20  
 **Upkeep:** 2  
 **Speed:** 6  
-**Requires:** Baika no Jutsu or Cho Baika no Jutsu active  
-**Tags:** Utility
+**Requires:** Baika no Jutsu or Chō Baika no Jutsu active  
+**Tags:** Utility, Movement
 
 **Effects**
 
-When you activate this jutsu you are considered to be rolling in place. While this Jutsu is active, the following characteristics which apply to you:
+Begin Rolling and maintain Upkeep 2. You are treated as Prepare Blocking throughout the form, including during movement and Rolling Crush. You may choose the normal Speed 0 Block against each incoming Attack instead of another Defensive Interrupt.
 
-* You are considered to be always Blocking
+While Rolling, you may Move, use Rolling Crush, defend, attempt Break Clinch or Escape Pin, or end the form. Dodge remains available; Parry, held weapons, new Grapples and handseals do not. Apply −5 Awareness. Drop held items when entering the form.
 
-* You can use the Dodge action.
+Release any Grapple you control on activation. Against a Grapple holding you, gain +10 on Break Clinch and Escape Pin. External physical Immobilization below 10 is suppressed; Severity 10 or higher ends Rolling. Suppressed effects keep their remaining durations and return when the form ends.
 
-* You cannot use the Parry action.
-
-* You cannot use any jutsu that requires handseals.
-
-* You have a \-5 penalty to Awareness.
-
-* You cannot grapple and your break Clinch, Break Grapple, and Escape Grapple actions all get a \+10 bonus.
-
-* You ignore Immobilization penalties of less than 10\. If you are ever affected by an immobilization penalty of 10 or more, this technique ends automatically.
-
-* You cannot use any Taijutsu except for the following:
+Ending Upkeep is Speed 0 and ends Rolling. Losing Baika or Chō Baika also ends it. You can replace Baika with Chō Baika without interrupting Rolling when the new size form takes effect in the same Action.
 
 ### Rolling Crush
 {:#rolling-crush}
@@ -2667,12 +2697,18 @@ When you activate this jutsu you are considered to be rolling in place. While th
 **Stamina:** 15  
 **Damage:** (STR/15)d8  
 **Speed:** 15  
-**Requires:** Nikudan Sensha active  
-**Tags:** Attack, AoE, Blunt
+**Range:** Melee  
+**Area:** As the active size technique grants this Unarmed Attack  
+**Requires:** Human Bullet Tank or Spiked Human Bullet Tank active  
+**Tags:** Attack, AoE, Blunt, Movement
 
 **Effects**
 
-You roll forward in a line until you smash into a target or an obstacle, crushing it with your massive weight enhanced by the rotational force of your charge. You can Move With Attack up to the full speed of this attack (instead of half as normal). If you move at least 5 yards in the same direction while attacking, your Damage Bonus for this attack is doubled. Parries have a \-3 Penalty against this attack, or a \-5 penalty if you moved at least 5 yards towards your target before reaching it.
+Choose one creature or object in a straight, traversable path. Move toward it up to AGI × Final Speed/50 yards, applying your current movement modifiers. Stop within Unarmed reach and resolve one impact centred on the chosen target. Its Area is the radius granted to this Unarmed Attack by your active size technique. You are excluded; everyone else in that Area defends normally.
+
+If this charge covers at least 5 yards in one direction, double your base PDB for the Attack. Temporary DB bonuses are added afterward. Parry is at −3, or −5 after a qualifying charge. Apply Mass Is Momentum normally. Obstacles stop the charge; to strike one, declare it as the target.
+
+Rolling Crush leaves the rolling form active, hit or miss. It grants only the movement used to approach the impact; a miss does not create another charge or attack.
 
 **C-Rank**
 
@@ -2693,21 +2729,18 @@ This is added on to any Taijutsu Attack. During that attack your STR is increase
 
 **Type:** Taijutsu, Rank C  
 **Chakra:** 30  
-Upkeep 4
-
+**Upkeep:** 4  
 **Speed:** 6  
-**Requires:** Baika no Jutsu or Cho Baika no Jutsu active  
-**Tags:** Utility
+**Requires:** Baika no Jutsu or Chō Baika no Jutsu active; 30 prepared kunai on wire  
+**Tags:** Utility, Movement
 
 **Effects**
 
-Using Nikudan Hari Sensha requires at least 30 specially prepared kunai, which may be used repeatedly for this technique and are unable to be used for any other purpose. This functions the same as Nikudan Sensha, with the following exceptions:
+Enter a spiked rolling form using Human Bullet Tank’s rules, with Chakra 30 and Upkeep 4. It replaces ordinary Human Bullet Tank without interrupting Rolling. Commit the 30 prepared kunai until the form ends; they remain reusable afterward.
 
-* Anyone hitting you with an unarmed attack, suffers Piercing damage equal to your current DR.
+Choose Blunt or Piercing when declaring Rolling Crush. It remains Unarmed Taijutsu for your bonuses, but its defender treats it as a Weapon Attack for Block and Parry. Your own Block reduces Weapon Attack damage by 50%. After an Unarmed Melee Attack hits you, retaliate once against its attacker for Piercing damage equal to the DR value you applied against that Attack, before penetration. This retaliation cannot Wound or trigger further retaliation.
 
-* If you Block a Weapon, you block 50% of the damage (instead of the normal 25%).
-
-* You cannot use any Taijutsu except for the following:
+You may turn freely on a later Move Action. Each Rolling Crush still requires its own straight approach and impact.
 
 **B-Rank**
 
@@ -2744,22 +2777,24 @@ When active, the following effects are applied:
 
 * You are immune to any environmental effect with an area of X/5 or less.
 
-### Chodan Bakugeki - Butterfly Bullet Bombing
+### Chōdan Bakugeki - Butterfly Bullet Bombing
 {:#chodan-bakugeki-butterfly-bullet-bombing}
 
 **Type:** Taijutsu, Rank B  
 **Chakra:** 40  
-**Accuracy:** X/5  
-**Damage:** (STR/5+RES/5+X)d20  
+**Accuracy:** +X/5  
+**Damage:** (STR/5 + RES/5 + X)d20  
 **Speed:** 25  
-**Area:** X\*2  
+**Area:** 2X  
 **Tags:** Attack, AoE, Blunt
 
 **Effects**
 
-You can spend X Calories on this technique, losing them for the remainder of the day. You must spend at least 15 Calories to use this technique and can go to a minimum of \-5 Calories for this purpose.
+Choose X from 15–30, or 10–30 while Butterfly Mode is active. Spend X CP as an additional cost. If you run out of CP, Calorie Conversion may fund the remainder at 4 HP each; retain at least 1 HP. CP spent here cannot also reduce Chakra or pay for Butterfly Mode’s damage bonus. Spend any CP for those purposes separately.
 
-You add your physical and ninjutsu damage bonuses together to determine its damage bonus. The primary target takes full damage; anyone else caught in the area takes half of that damage. This jutsu cannot be used while maintaining Baika no Jutsu or Cho Baika no Jutsu.
+After Move-with-Attack movement, strike a primary target within Unarmed reach and centre Area 2X on it. Use PDB + NDB as one Damage Bonus. The primary target receives the normal damage pool; other creatures in the Area receive half that pool before their own defenses and mitigation. You are excluded, but allies are not. Baika and Chō Baika must be inactive when this Attack is declared.
+
+Pay Chakra after applying Calorie Conversion, using the resulting cost for the exhaustion roll. If reduced to 0, no Chakra Exhaustion roll is required. Resolve CP recovery under Calorie Conversion normally.
 
 ### Chō Chakra Mode - Butterfly Mode
 {:#cho-chakra-mode-butterfly-mode}
@@ -4270,35 +4305,23 @@ Fire a compressed droplet from one fingertip. It ignores 20% Armor Absorption. I
 **Chakra:** 8  
 **Upkeep:** 2  
 **Speed:** 4  
-**Tags:** Utility, Interrupt
+**Tags:** Utility, Self, Interrupt
 
 **Effects**
 
-You enter a Hydration Form where you become a semi-liquid mass that’s gelatinous in consistency. Your Hydration Form is extremely resistant to physical forces and grants you unique elemental interactions. You can exit your Hydration Form as a Speed 5 Action.
+Become a liquid body. Your equipment is absorbed and inaccessible until you re-form. Activate normally or use the Defensive Interrupt below. Pay Chakra before starting Upkeep. You can maintain one Hydration Form.
 
-Your Hydration Form grants you the effects mentioned below:
+Re-form — Speed 5: end Hydration and restore your equipment. Choosing to end its Upkeep uses this Action. If another effect ends Hydration, re-form immediately without that Action; Demon Fishwave and Drowning Water Blob end with it.
 
-* Any Armor, Weapons, or Gear you were holding/wearing are absorbed into you, you do not gain any of their benefits and you cannot “hold” anything as you have no hands to hold things with. When you exit your Hydration Form, your Armor and Weapons are automatically worn once again. Your Equipment are inaccessible to everybody until you exit Hydration Form.
+As a Speed 4 Defensive Interrupt against a non-AoE physical Attack, enter Hydration before it hits. This uses your one defense and makes no defensive roll. Apply the form’s damage multiplier and passive mitigation, then advance your next IC by the Interrupt’s Final Speed.
 
-* Your Movement speed is halved, and any Jutsus or Effects that move you only move you half the normal Distance.
+Halve your movement distances and increase modified Seal Speed by 50%, rounded up. You may perform handseals with your liquid limbs. Taijutsu deals half damage, except Crashing Tsunami. Physical Grapples involving you end and cannot be established while you remain liquid. External Immobilization still applies until removed; seals and shadow possession affect you normally.
 
-* You can still perform Jutsu, but any Seal Speed the Jutsu has is considered to be 50% higher while you’re in Hydration Form.
+Use one Hydration damage multiplier: Raiton ×1; Doton ×1.5; Katon ×0.5; Suiton ×0.25; other non-AoE Blunt, Slashing or Piercing Attacks ×0.25; all other damage ×1. If several elemental entries apply, use the highest multiplier. Apply it at the percentage-reduction step before DR. Any Paralysis inflicted by a Raiton Attack ends Hydration after that Attack resolves.
 
-* You can still perform Taijutsu, but the Total Damage of any Taijutsu Attack is reduced by 50%.
+Suppress Poison and Burns while Hydrated; their durations and normal expiry conditions still progress. Remove Ignite when entering the form. These statuses can be applied while liquid but have no effect until you re-form, except Ignite, which is immediately extinguished.
 
-* You take only 10% damage from Suiton and Taijutsu attacks.
-
-* You take 50% damage from Katon and any Element Suiton is strong against
-
-* You take 150% damage from Doton and any Element Suiton is weak against
-
-* You take normal damage from Raiton, but if you receive any paralysis from a Raiton Ninjutsu, you are removed from Hydration.
-
-* You cannot be grappled or grapple other people, and if you were in a Grapple when you enter Hydration Form, you automatically escape.
-
-* You cannot be burnt, poisoned, or ignited, and ignore the effects of those statuses until you completely reform; their durations still decrease normally (and Ignite automatically ends).
-
-When you learn this jutsu you always have an additional 10 gallons of water to use with Suiton jutsu, which nobody else may access. This water is never used up, or considered to be added to the battlefield (If you figure out why, you get a cookie). But for every Gallon you use for a Jutsu, you take 5 unreducible Damage to your Vitality (Or HP). You cannot use this water if you are suffering from a Paralysis effect caused by a Raiton jutsu.
+You may fuel Suiton from Water Reserve while Hydrated. Remove all invested gallons from your internal reserve; the Jutsu consumes one quarter, rounded up, and deposits the rest at its point of resolution as battlefield water. Water Reserve recovers only through its own recovery rules. Keep these gallons separate from Demon Fishwave mass.
 
 **C-Rank**
 
@@ -4308,51 +4331,57 @@ When you learn this jutsu you always have an additional 10 gallons of water to u
 **Type:** Suiton Ninjutsu, Rank C  
 **Chakra:** 22  
 **Upkeep:** 8  
-**Speed:** 14  
-**Tags:** Utility
+**Speed:** 12  
+**Tags:** Utility, Self, Transformation  
+**Requires:** Suika no Jutsu active
 
 **Effects**
 
-You cannot Dodge while maintaining the Upkeep of this Jutsu. You absorb up to CHA/3 Gallons of Water into yourself from the Battlefield and/or your containers (Meaning you can’t use the 10 Gallons that you always have inside of you). You can use the water you've absorbed into yourself in Suiton Ninjutsu, though you lose it permanently after. You cannot use any regular Taijutsu while in this form, though you get \+Gallons/20 to your PDB and NDB. Additionally, and far more importantly, Whilst in this form you gain Gallons/2 DR and you are considered prep blocking with a 50% dmg reduction this percentage can't be increased in any way and doesn't stack with other forms of blocking
+Absorb up to CHA/3 available gallons within 1 yard into Hydration Form, maximum CHA held. This absorbed mass is separate from Water Reserve. Water inside your absorbed equipment remains inaccessible. Record mass as it enters or leaves your body.
 
-If you are hit by a Suiton Ninjutsu whilst in this form, you take no damage and any gallons used in the Technique are absorbed into you to a max of your CHA.
+You may invest absorbed mass in Suiton: subtract all invested gallons before resolving the Jutsu, recalculate your bonuses, then leave its unconsumed water on the battlefield normally. Ending Fishwave deposits the remaining mass at your position.
 
-Damage from Raiton based techniques passes straight through your bonus DR and your auto block.
+While maintained, gain +1 PDB and NDB per full 20 gallons held and DR equal to half the held gallons, rounded down. You cannot Dodge. Your available Taijutsu are Basic Unarmed Attacks and Crashing Tsunami; Ninjutsu and other legal defenses remain available. Starting Fishwave again replaces the previous form and deposits its mass before absorbing new water.
 
-Damage from Doton Techniques halfs your DR and block percentage from this technique.
+A Suiton-only Attack that hits you deals no damage, but its other effects resolve normally. Absorb up to your available capacity from the water still present after that Jutsu’s normal consumption; place any remainder on the battlefield. If the Attack hits several eligible Fishwaves, divide its remaining gallons equally among them, rounding down and capping each share at its available capacity. Leave all unabsorbed water on the battlefield. Against Doton, halve Fishwave’s DR; Raiton ignores it. Mixed-element Attacks use Hydration’s damage table and do not feed Fishwave.
 
 ### Crashing Tsunami
 {:#crashing-tsunami}
 
 **Type:** Suiton Taijutsu, Rank C  
-**Chakra:** 20  
-**Stamina:** 20  
-**Damage:** 5d10+50  
-**Area:** NDB  
-**Speed:** 20  
-**Requires:** Masakana Namiochiru active  
-**Tags:** Attack, Melee, Blunt
+**Stamina:** 18  
+**Damage:** (CHA/10)d12  
+**Speed:** 14  
+**Range:** Melee  
+**Requires:** Demon Fishwave active  
+**Tags:** Attack, Melee, Blunt, Movement
 
 **Effects**
 
-You can move up to CHA/2 yards when you use this attack, and you can collect up to CHA/5 additional gallons into yourself during this movement, assuming they are present on the battlefield, but not above your maximum amount. This technique is treated as Unarmed Taijutsu for both Attack and Defense, so (For instance) it may benefit from Sudden Attack, and is able to be parried.
+Make one Unarmed Taijutsu Attack using PDB. Hydration does not halve this technique’s damage. Declare a legal route toward a target within reach of your movement below.
+
+Move your normal Move-with-Attack allowance, already halved by Hydration, plus CHA/5 yards. The additional distance is not halved. Along the route, absorb up to CHA/5 available battlefield gallons, within Fishwave’s cap. Recalculate its PDB before rolling damage. This movement and absorption are part of the Attack and resolve before the strike; terrain along the route applies normally.
 
 **B-Rank**
 
 ### Gōsuiwan no Jutsu - Great Water Arm
 {:#gosuiwan-no-jutsu-great-water-arm}
 
-**Type:** Ninjutsu, Rank B  
-**Chakra:** 20 \+ 3X  
+**Type:** Suiton Ninjutsu, Rank B  
+**Chakra:** 20 + 3X  
 **Upkeep:** X  
 **Speed:** 8  
 **Tags:** Utility, Self
 
 **Effects**
 
-Enlarge one limb with hydraulic pressure. Increase Physical Damage Bonus by X, maximum CHA/30. The bonus doubles against structures and barriers. This technique is suppressed while fully hydrated, but Partial Hydrification does not end it. While active, your unarmed and taijutsu attacks gain “Special: Knockback X/2” , and you may wield any and all weapons in one hand, regardless of size category or rules, with no downsides, treating it still as if you were holding the weapon with both hands for the purposes of determining any bonuses or extra effects that you would gain.
+Choose X from 1 to CHA/30, rounded down, with a minimum upper limit of 1. Enlarge one arm. Attacks using it gain +X PDB, or +2X against unattended objects, barriers and structures. Use the normal bonus against creatures, Puppets, Clones and worn equipment.
 
-### Obomizu Katamari No Jutsu - Drowning Water Blob Technique
+Unarmed and Taijutsu Attacks using this arm gain Knockback X/2, rounded down, reduced for Partial Defense normally. The arm may wield a two-handed weapon one-handed, using its two-handed profile and normal size and proficiency requirements. The enlarged arm may still form handseals.
+
+Maintain only one Great Water Arm. Hydration suppresses its benefits while its Upkeep remains payable; ending Hydration restores them. Partial Hydrification does not suppress it. Ending Great Water Arm restores the arm; if your weapon then requires a second hand, occupy that hand or drop the weapon.
+
+### Obomizu Katamari no Jutsu - Drowning Water Blob Technique
 {:#obomizu-katamari-no-jutsu-drowning-water-blob-technique}
 
 **Type:** Suiton Ninjutsu, Rank B  
@@ -4360,28 +4389,36 @@ Enlarge one limb with hydraulic pressure. Increase Physical Damage Bonus by X, m
 **Upkeep:** 10  
 **Speed:** 16  
 **Range:** 3  
-**Requires:** Hydration or Demon Fishwave to be active.  
-**Tags:** Attack, Melee
+**Special:** Immobilization 6  
+**Tags:** Attack, Melee, Control  
+**Requires:** Hydration or Demon Fishwave active
 
 **Effects**
 
-This Jutsu uses your Taijutsu Accuracy. If the jutsu hits, the Target’s arms and legs will be treated as if they are held by either the Arm Bar or Knee Bar Technique, though you are not actually in a Grapple with them. Despite that, they can still escape this Jutsu through the Break Grapple Action. If they attempt the Break Grapple Action, then you use your CHA in place of your STR to determine the Grapple TN they have to beat. Additionally, this Jutsu is automatically ended if the Target is ever moved out of the Range.
+Choose one creature within 3 yards and make a Ninjutsu Attack. On a hit, surround it with body-water and apply Immobilization 6, reduced for Partial Defense. Begin Upkeep when it is caught. You remain at your own position, and the victim retains its Actions. You may maintain one Blob at a time.
 
-For every 10 ICs that pass while the Target is under the effects of this Jutsu, they will receive Suffocation of Severity 1 as they slowly begin to drown.
+Every 10 IC held, add Suffocation 1 and resolve the normal Suffocation Stamina roll.
+
+Break Free — Speed 6 Utility Action: the victim rolls Athletics or Resistance against your Chakra Control roll. Success removes 3 of this Blob’s Immobilization; success by 10 removes all. Add +2 per previous failed Break Free attempt against this casting.
+
+End the Blob when its Immobilization reaches 0, the victim moves more than 3 yards from you, or you end Upkeep or Hydration. Its Immobilization then ends and Suffocation begins fading normally. The water is part of your body: Attacks directed at it target you from its location and use your defenses and Hydration. One Area Attack covering both you and the Blob damages you only once.
 
 ### Suika Bunretsu - Liquefaction Split
 {:#suika-bunretsu-liquefaction-split}
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 30  
-**Speed:** 12  
+**Speed:** 8  
 **Tags:** Interrupt, Utility, Movement  
-**Requires:** Suika no Jutsu active  
-**Gallons:** 0\>10
+**Requires:** Suika no Jutsu active
 
 **Effects**
 
-When Grappled, Restrained, or struck by a single-target Attack, burst into two bodies of water that flow up to 6 yards apart and recombine at a point you choose within a space that you could reach within an attack move of this Jutsu. End one Grapple or physical Immobilization effect on yourself. If used against an Attack, make a Ninjutsu Parry roll against that attack, gaining a \+G to the roll. This cannot parry Doton or Raiton effects.
+Choose G from 0–5 available gallons in Water Reserve and spend them with Chakra. As a Main Action, remove one external physical Immobilization and flow to a legal point within max(2, 2G) yards. As a Defensive Interrupt against one non-AoE, non-Genjutsu Attack, use the Parry below. Doton and Raiton cannot be Parried with this technique.
+
+Choose a continuous route through openings at least 1 inch wide. The listed movement distance is already adjusted for Hydration; sealed barriers stop it. Gallons spent are consumed. Removed restraints are left behind, while internal conditions, sealing effects and shadow possession remain.
+
+Make a Ninjutsu Parry with +1 per full 2 gallons spent. On success, negate the Attack, remove one eligible restraint and move. On Partial Success, take the Attack’s reduced effects at your starting point, then remove the restraint and move if you remain able to act. On a full failure, remain in place. Hydration’s passive mitigation applies to damage you take. Ending Hydration during the hit cancels the escape and movement.
 
 # Hyūga
 {:#hyuga}
@@ -4937,41 +4974,36 @@ Your body begins each combat with 1 Sage Charge (SC) and gains 1 SC every 20 IC,
 ### Kassokuken - Piston Fist
 {:#kassokuken-piston-fist}
 
-**Type:** E Rank \- Taijutsu  
-**Stamina:** As Basic Attack \+ X  
-**Damage:** As Basic Attack \+ Xd\*  
-**Speed:** As Basic Attack  
-**Tags:** Attack, Melee, Blunt
+**Type:** Taijutsu, Rank E  
+**Stamina:** +5  
+**Damage:** +2d8  
+**Speed:** +2  
+**Tags:** Link, Melee, Blunt
 
 **Effects**
 
-This jutsu may be activated immediately after you hit with a Basic Attack or any Taijutsu that doesn't explicitly mention your legs (except for this one). X has a maximum of your levels of power attack.
+Link to one Basic Unarmed Attack or Unarmed/Combo Taijutsu that uses an arm. Declare it with that Attack and add the listed Stamina, Speed and dice once. A temporary piston forms on the striking arm for the Attack; it uses no separate Shape Change Action or body region.
+
+The Attack gains Knockback 4, increased to 6 if Jet Booster is active on that arm or your back. Reduce this Knockback for Partial Defense normally. The piston retracts after the Attack.
 
 **D-Rank**
 
 ### Masakari - Weapon Form
 {:#masakari-weapon-form}
 
-**Type:** D Rank \- Taijutsu  
-**Chakra:** 10 \+ X/2  
-**Upkeep:** 1 \+ X/10 (Rounded Up)  
-**Speed:** 10  
-**Seal Speed:** 10  
+**Type:** Taijutsu, Rank D  
+**Chakra:** 12  
+**Upkeep:** 2  
+**Speed:** 6  
 **Tags:** Utility, Self, Creation
 
 **Effects**
 
-You craft a Melee Weapon upgrading it using X Artisan Points up to your Chakra Control \- 5\. You can choose to double the Base Speed and Upkeep of this Technique to create a second Weapon in your other hand during the activation of this Technique and both weapons gain the dual property.
+Turn one arm into a Small or Medium Melee Weapon. Choose its unmodified size and weapon-class profile from Equipment, using that profile’s dice, Speed, Stamina, Reach, Delay and damage type. This transformation is part of the activation. It lasts while Upkeep is maintained.
 
-The Weapon(s) gains the following effects:
+The limb is a Chakra-Reinforced natural weapon and qualifies for Bukijutsu of its chosen class. It uses PDB when attacking. It has no separate WDP or Durability; attacks against it affect you. The transformed hand is occupied, and a two-handed profile also needs your other hand when attacking. It cannot share a body region with Carapace. Crafted Components and material upgrades are not included in the profile.
 
-Whenever you take damage while maintaining this weapon the next attack made with this weapon is increased by 1% for every 1% of vitality or hp lost.
-
-The Weapon lasts until you end this Technique’s Upkeep
-
-You can perform Handseals for jutsu by increasing the Seal Speed by 4 per weapon
-
-The weapon has its normal Durability and counts as Chakra Reinforced while you wield it
+Reshape — Speed 2: change the weapon’s profile or transfer it to your other arm. This fixed Speed cannot be reduced. Ending Upkeep restores the limb as Speed 0. A hand needed for handseals must first be restored.
 
 **C-Rank**
 
@@ -5028,28 +5060,33 @@ Grow a reinforced shell. Gain DR 20 and \+3 Resistance against Knockback, Stun, 
 ### Saibō Kyūin - Cellular Regeneration Absorption
 {:#saibo-kyuin-cellular-regeneration-absorption}
 
-**Type:** B Rank \- Taijutsu  
+**Type:** Taijutsu, Rank B  
 **Stamina:** 24  
-**Damage:** As Basic Attack \+ (Your Control)dX  
+**Damage:** As Basic Unarmed + (Control)d8  
 **Speed:** 12  
-**Tags:** Submission, Control 5
+**Special:** Control 5  
+**Tags:** Submission, Healing
 
 **Effects**
 
-After applying this submission every consecutive use has its Stamina reduced by 5, automatically hits, and does not reduce your control. Your opponent takes the listed damage (not including speed \* db) you regain 1% of that damage as Vitality every IC for the next 10 IC (or until the pin is broken).
+Use while pinning a living target. Spend Control 5 and make the normal Submission check. On success, deal your Basic Unarmed base dice + d8 equal to your remaining Control, minimum 0, then add PDB × Final Speed. Use one of your free hands as the feeding organ.
 
-### Saibō Kyūin - Cellular Regeneration Ejection
+Recover half the Vitality and HP actually removed by this damage, rounded down, maximum RES × 2 Vitality and no higher than your maximum. This heals only you and works on living creatures, including living Summons. Each repeat costs Stamina 24 and Control 5 and makes a new check. Breaking contact ends the Submission and adds the normal 5 IC to your next Action.
+
+### Saibō Haishutsu - Cellular Regeneration Ejection
 {:#saibo-kyuin-cellular-regeneration-ejection}
 
-**Type:** B Rank \- Taijutsu  
+**Type:** Ninjutsu, Rank B  
 **Chakra:** 24  
 **Speed:** 10  
-**Delay:** 10  
-**Tags:** Utility
+**Range:** Touch  
+**Tags:** Utility, Healing
 
 **Effects**
 
-This can only be used on a willing target (besides yourself obviously). For the next 10 IC you lose 1% of your max HP every IC and the target regains that much.
+Touch a willing living creature other than yourself and choose 1–3 SC. Pay Chakra, spend the charges and lose RES/2 HP per charge, rounded up. Restore RES × 2 Vitality per charge to the target, up to its maximum. Choose a number of charges you can pay while retaining at least 1 HP. This HP expenditure is a cost rather than Attack damage.
+
+Spending 3 SC also suppresses the penalties of one Major or Severe Blunt, Slashing or Piercing Wound for 20 IC. Choose the Wound when casting. Its injury and any missing body part remain; only penalties imposed by that Wound are suppressed. A further application to that Wound refreshes the duration. Critical Wounds are unaffected.
 
 ### Saibō Saisei - Cellular Rebirth
 {:#saibo-saisei-cellular-rebirth}
@@ -5068,34 +5105,29 @@ Spend up to 3 SC. Recover RES x 2 Vitality per SC. If you spend 3 SC, you can in
 ### Senninka - Sage Transformation
 {:#senninka-sage-transformation}
 
-**Type:** A Rank \- Ninjutsu  
+**Type:** Ninjutsu, Rank A  
 **Chakra:** 20  
-Special Upkeep: 10
-
+**Special Upkeep:** 10  
 **Speed:** 10  
-**Delay:** 10  
-**Tags:** Link
+**Tags:** Utility, Self, Transformation
 
 **Effects**
 
-Passively over the course of a fight your body gathers a raw form of Sage Chakra or SC which has a max cap equal to your Current Willpower. The X in this jutsu’s cost is equal to the amount of SC you have at any given time. If your SC ever falls to 0 this jutsu ends. Your body produces 1 SC every 20 IC which occurs whether you have used this jutsu in the fight or not. While maintaining this jutsu you instead gain 1 SC every 10 IC which you can spend to use one of the upgraded forms below:
+Enter Sage Transformation after paying Chakra. Gain 2 SC, up to your current Willpower; gain these activation charges only once per combat. Maintain Special Upkeep 10. The form remains active at 0 SC and follows Instinct Surge normally.
 
-Weapon Form | X SC
+Track progress toward your next passive SC from the start of combat: each IC contributes 1 progress normally or 2 while Senninka is active. At 20 progress, gain 1 SC and subtract 20 progress, even if your SC pool is already full. Changing forms preserves progress.
 
-When you make an attack with your Weapon Form you can spend X SC to temporarily increase its artisan cost by X \* 4 artisan points for that attack
+Natural Mutation has 4 ranks while transformed, and one Speed 2 Shape Change can alter two regions. On ending Senninka, return to 3 ranks and recalculate existing mutations at that limit.
 
-Jet Booster (Burst) | Rank of Jutsu /2 SC (rounded up)
+Temporary SC from Mutation Library expires after your second non-Interrupt Action after gaining it. It still counts toward your SC maximum. While Senninka is active, you may use these upgrades; each requires its underlying technique to be active.
 
-This is added on to your regular boost action and causes it to instead halve the speed of the attack and increases your move with attack by an additional \+5\*Rank.
+Weapon Surge: when declaring a Weapon Form Attack, spend 1–3 SC and add 2d8 base damage per SC.
 
-Jet Booster (Jump) | 1 SC
+Sage Burst: add Jet Booster’s Burst to a Taijutsu Attack and spend SC equal to half its Rank, rounded up. Halve that Attack’s Speed instead of Burst’s usual −2, obeying the normal minimum Speed. Keep Burst’s Delay 4. Calculate Move-with-Attack using the Attack’s Speed before this halving, plus 10 + five times its Rank.
 
-This increases the speed of your jump action by X and the chakra cost by 3 \*X where X has a max of your current SC. You jump X times and while moving you become immune to any Ground-Based effects. You can also choose to add a delay of up to X in between each jump.
+Sage Jump: spend J SC, where J is at least 1. Use a Speed 2+J, Chakra 10+3J Action to make J consecutive leaps of up to NDB yards each. Choose the entire route when declaring. Ground terrain affects only landing points. As a Link to Dodge, it instead adds Speed 3+J and the same Chakra cost; check the combined Interrupt Speed normally.
 
-Jet Booster (Lotus) | X SC
-
-You fire X lotus cannons in a row. The total speed becomes X \* 5 but each individual attack is treated as being Speed 3 for damage calculation. You roll Chakra for each shot individually but its cost is reduced to 10\.
-
+Lotus Volley: spend L SC and choose a target within 40 yards for each of L shots. This is a Speed 5L, Delay 5 Action. The shots resolve 5, 10, 15 IC and so on after declaration. Roll Chakra 10 separately as each shot fires. Each is a Speed 5 Projectile Energy Attack using your current Ninjutsu Accuracy and dealing your Basic Unarmed base dice + NDB × 5. Each target defends separately. Your next Action is 5+5L IC after declaration, plus Interrupt costs. This Action’s Speed and shot intervals are fixed; you may defend while firing. Losing Jet Booster, Senninka or consciousness cancels unfired shots. Ending the volley early leaves your scheduled next IC unchanged.
 
 # Kazekage Clan / Jiton
 {:#kazekage-clan-jiton}
@@ -5205,21 +5237,19 @@ This Ability grants no authority over other characters.
 {:#suna-no-yoroi-sand-armor}
 
 **Type:** Jiton Ninjutsu, Rank D  
-**Chakra:** 10 \+ X/2  
-**Upkeep:** 1 \+ X/10 (Rounded Up)  
-**Speed:** 10  
-**Seal Speed:** 10  
+**Chakra:** 18  
+**Upkeep:** 4  
+**Speed:** 8  
+**Gallons:** 8 Sand  
 **Tags:** Utility, Self, Creation
 
 **Effects**
 
-You craft any number of Armor pieces spending a collective of X Artisan Points up to your Chakra Control \- 5\. These are automatically worn and disappear into sand after being broken.
+Commit 8 available gallons of your controlled Sand within 1 yard to armour around your body. Gain DR 12, increased to 18 against Piercing damage or Projectile Weapon Attacks. This layer is a Jutsu, not worn equipment; it works alongside ordinary armour without changing that armour’s Absorption or Durability.
 
-The Armor Piece(s) gains the following effects:
+The 8 gallons remain committed while Upkeep is maintained and cannot fuel another effect. They travel with you and are not consumed by ordinary hits. End Upkeep as Speed 0 to drop them at your position. If an effect removes committed Sand, the armour ends when fewer than 8 gallons remain, releasing the remainder.
 
-Its Absorption is tripled
-
-Its Durability is reduced to a third
+Maintain one Sand Armor at a time. It has no separate HP and cannot be targeted independently of you. Apply Jiton’s normal activation modifiers; its defensive DR itself has no polarity modifier.
 
 **C-Rank**
 
@@ -5235,24 +5265,31 @@ Its Durability is reduced to a third
 
 Add this to a damaging Jiton Attack. On hit, consume 4 gallons of Sand and apply Immobilization equal to 2 \+ the Rank of the linked technique (E=1 through A=5), maximum 7\. If the Jiton already applies Immobilization, instead increase that status by 2\. Sand used this way remains attached to the target until the Immobilization ends, then returns to the battlefield.
 
-### Mujona Kaiho - Merciless World Order
+### Mujona Kaihō - Merciless World Order
 {:#mujona-kaiho-merciless-world-order}
 
 **Type:** Jiton Ninjutsu, Rank C  
-**Chakra:** 10  
+**Chakra:** 20  
 **Area:** CHA/2  
 **Upkeep:** 4  
-**Speed:** 4
+**Speed:** 8  
+**Tags:** Utility, Environmental
 
 **Effects**
 
-As a Speed 5 Action, you can magnetize up to CHA\*2 weapons in the area that aren’t occupied. This gives them a Negative or Positive Charge of Severity 1\. If they are used in some form of an attack against somebody with the Magnetize Status Effect, then they will gain double the normal ACC bonus or Penalty depending on the charge. They, however, do not gain other effects such as the Speed Reduction or Increase.
+Gather up to CHA/2 unattended Small metallic Projectile Weapons within Area CHA/2. They orbit within 1 yard of you and travel with you. Give the group Positive or Negative Charge 1. Choose the polarity on activation.
 
-Every 10 IC, you can take a Speed 0 action to spend AP to make any number of attacks with these magnetized weapons. These weapons don't benefit from weapon-specific abilities but you can multi-throw using the normal rules to do so. After being used to attack a weapon loses its magnetism.
+Regather — Speed 4: gather more eligible weapons within the same radius, up to the total limit, and optionally change the group’s polarity. Weapons carried by someone else are not eligible.
 
-This costs 1 AP per 2 Speed it would normally cost to attack with the weapon; the weapon uses its base Speed for damage purposes. This uses your CHA instead of DEX for Accuracy with a \-3 penalty, CHA for determining damage/damage bonus, and replaces the normal Stamina cost of the attack with an equivalent Chakra cost.
+After activation, and then at least 10 IC after your last volley, make one Multi-Throw as a special AP Action. Declare it before other Actions are declared on that IC and resolve them simultaneously, or immediately before or after your own Main Action. You must be conscious, unstunned and not performing handseals or a delayed Action.
 
-Defenses declared against attacks from Merciless World Order do not advance initiative count, but the defense still needs to be speed legal to be used.
+Calculate the Multi-Throw’s effective Final Speed, minimum 5. Pay half that Speed in AP, rounded up, instead of advancing IC. Extra AP reductions are paid separately. Pay its normal Stamina amount as Chakra, making a Chakra Exhaustion roll. Each volley uses at least two weapons; if fewer remain, Regather first.
+
+Throw from your position using CHA/10 in place of DEX/10 for Accuracy, with −3, and NDB for damage. Use the normal Multi-Throw limit and +0.25 DB per weapon. You may activate Electromagnetic Dominance separately at its normal cost to use its larger weapon limit.
+
+Double only the Magnetize Accuracy bonus or penalty against the target. The volley receives no polarity-based Speed or Chakra discount. After a hit, update the target’s Magnetize once for the volley; after resolution, its weapons lose this granted Charge and land at the target’s position. Weapon-specific abilities do not modify these volleys.
+
+Use the volley’s effective Speed for damage bonus and defense legality. Defenders pay normal costs, but their defenses against these volleys do not advance IC. Ending Upkeep drops unused weapons at your position and removes their granted Charge. Only one group and volley timer may be maintained; recasting does not refresh that timer.
 
 **B-Rank**
 
@@ -5344,14 +5381,17 @@ Elements that are strong against Mokuton are treated as dealing twice the amount
 {:#jukai-shinshoku-sea-of-trees-erosion}
 
 **Type:** Mokuton Ninjutsu, Rank D  
-**Chakra:** 10 \+ X/3  
-**Speed:** Variable  
+**Chakra:** 10 + 2X  
+**Speed:** 6 + X  
 **Seal Speed:** 12  
-**Tags:** Utility
+**Range:** NDB x 5  
+**Tags:** Utility, Environmental, Ground-Based
 
 **Effects**
 
-Choose an instance of Sea of Trees on the battlefield. You move that Environmental Effect X Yards at a rate of CHA/80 Yards per IC spent using this jutsu. For every Yard moved, this increases the Yard count of anyone inside the Sea of Thorns for applying Immobility only. However, this method cannot increase Yards moved past Immobility 3\.
+Choose X from 1–5 and an exposed edge of your Sea of Thorns within Range. Extend that edge up to X yards across connected ground, choosing the new squares when casting. All new squares must be within Range. The growth has the normal Sea of Thorns HP and remains until cleared.
+
+A creature standing in newly grown squares adds X yards to its Sea of Thorns movement tally, once per casting, for Immobilization only. This adds no immediate damage and cannot raise Immobilization above 3 through growth alone. Later movement and Dodges use Sea of Thorns normally. Re-growing an occupied square that already contains your thorns does not add to its tally.
 
 **C-Rank**
 
@@ -5385,33 +5425,30 @@ Raise a curved wooden shell around yourself and allies within 3 yards. It has HP
 
 **B-Rank**
 
-### Mokuton: Jukai Koutan - Wood Release: Nativity of a Sea of Trees
+### Mokuton: Jukai Kōtan - Nativity of a Sea of Trees
 {:#mokuton-jukai-koutan-wood-release-nativity-of-a-sea-of-trees}
 
 **Type:** Mokuton Ninjutsu, Rank B  
-**Chakra:** 5 \+ X  
-**Range:** NDB\*5  
+**Chakra:** 10 + X  
+**Damage:** 8d10  
+**Range:** NDB x 5  
 **Area:** X  
-**Speed:** 8  
+**Speed:** 14  
 **Seal Speed:** 16  
-**Tags:** Attack, AoE, Environmental
+**Tags:** Attack, AoE, Blunt, Environmental, Ground-Based
 
 **Effects**
 
-This overwrites any terrain-based effects on the area it's used on. By changing the cost to 5 \+ X\*2, it can be used to create a one-story building. The complexity of this building is determined by your Chakra Control:
+Choose X from 5 to CHA/5, rounded down, with a minimum upper limit of 5. Centre Area X on visible ground within Range. Resolve one Blunt Area Attack, then fill that ground with Sea of Thorns. Initial Dodges occur before the new thorns grow.
 
-At 10 Chakra Control or less, it's more like a crude bundle of tree trunks and branches that will at least keep most of the rain out.
+The forest remains until destroyed and uses Sea of Thorns’ normal movement, damage and clearing rules. It replaces mundane loose ground cover and Rocky Terrain in the Area. Maintained Jutsu, buildings and barriers remain and keep their own effects; thorns grow only in open space around them. Creating the forest does not itself count as movement through it.
 
-From 11 \- 20, it's about as well-built as a log cabin, with up to three rooms.
-
-At 21 \- 30, it could actually pass for a real building, aside from the lack of anything made of metal.
-
-At 31+ Chakra Control, you can add a second story to the building.
+Alternatively, pay Chakra 10+2X to grow a wooden building within the same Area, without attacking. Its squares have CHA HP and use the Sea of Thorns clearing rules, but cause no thorn damage. With Chakra Control 10 or less it is a crude shelter; 11–20 allows a one-storey cabin of up to three rooms; 21–30 allows an ordinary one-storey wooden building; 31+ allows two storeys. Choose doors and windows when casting. Occupied spaces remain open.
 
 ### Mokuton: Mokuryū - Wood Dragon
 {:#mokuton-mokuryu-wood-dragon}
 
-**Type:** Ninjutsu, Rank B  
+**Type:** Mokuton Ninjutsu, Rank B  
 **Chakra:** 36  
 **Upkeep:** 6  
 **Speed:** 18  
@@ -5421,7 +5458,15 @@ At 31+ Chakra Control, you can add a second story to the building.
 
 **Effects**
 
-Create a wooden dragon that makes a Grapple attack using your Ninjutsu Accuracy and CHA in place of STR. On a successful grapple, the target suffers Immobilization 4\. At the end of each 10 IC it remains grappled, increase its next Chakra Exhaustion penalty by 2 and reduce the dragon's Upkeep by 1, minimum 2, as it feeds on the target's leaking chakra.
+Create a wooden dragon and make a Ninjutsu Attack against one creature within Range. A full hit establishes a Clinch and Immobilization 4. A partial hit applies only Immobilization 4 reduced by Partial Defense, lasting 10 IC, then the dragon crumbles. Begin Upkeep only if it establishes a Clinch.
+
+A holding dragon occupies the victim’s space. It has HP equal to CHA × 3 and DR equal to CHA/5, rounded down, fixed when created. It can be attacked separately and takes Area damage when its position is covered. It makes no defenses. At 0 HP, the hold ends.
+
+Use your Grapple statistics for the dragon, substituting CHA for STR and RES. Determine Control normally at capture and track it separately. The victim uses the normal Clinch and Break Clinch rules; you remain outside the Grapple. Movement carries the dragon with the victim and is halved by the Clinch. Only the dragon’s damage and the victim’s Actions affect their Control; your unrelated Actions do not. The dragon cannot take Actions or Pin.
+
+Every 10 IC held, the victim gains −1 to Chakra Exhaustion rolls, maximum −4. This penalty remains until the hold ends, even if Fatigue changes.
+
+Each actual Chakra Exhaustion failure by the victim reduces this casting’s Upkeep by 1, minimum 2. End the Jutsu when the victim escapes, the dragon is destroyed, you end Upkeep, or the victim moves more than 50 yards from you. Immobilization and the exhaustion penalty then end. You may maintain one Wood Dragon at a time.
 
 **A-Rank**
 
@@ -5647,28 +5692,42 @@ Failing a fatigue roll with this ability causes you to advance 1 less fatigue le
 ### Kingusari no Jutsu - Golden Chain Technique
 {:#kingusari-no-jutsu-golden-chain-technique}
 
-**Type:** D Rank \- Sealing  
-**Stamina:** As Weapon \+ 5  
-**Chakra:** \+5  
-**Delay:** As Weapon  
-**Accuracy:** As Weapon  
-**Tags:** Link
+**Type:** Fūinjutsu, Rank D  
+**Chakra:** +5  
+**Speed:** +2  
+**Tags:** Link, Sealing, Projectile  
+**Requires:** Adamantine Heritage
 
 **Effects**
 
-This is added on to any Sealing jutsu with the Mark Tag increasing its range to the base range of your Chain \+ 5\. This gives the jutsu the projectile tag (removing its melee tag if it had one). You do not need to perform handseals for this jutsu, instead increase the delay of this jutsu for every IC of handseals you would have to perform.
+Link to one single-target Sealing Jutsu with the Mark tag. Perform its handseals and pay its normal costs plus this Link. Your available Bonded Chain delivers the Mark along a visible, unobstructed path.
+
+Its Range becomes Chain Range +5 yards and its Melee tag becomes Projectile. Resolve the Mark’s normal Accuracy and defense; a hit applies the seal without a separate weapon strike. Apply its Chakra cost to the Chain’s WDP once. A Chain holding a creature or maintaining a Barrier is unavailable until released.
 
 ### Kusari Gitai - Chain Mimicry
 {:#kusari-gitai-chain-mimicry}
 
-**Type:** D Rank \- Bukijutsu  
-**Chakra:** 10 \+ X\*5  
-**Delay:** \+X\*3  
-**Tags:** Chain
+**Type:** Bukijutsu, Rank D  
+**Chakra:** 10 + 5X  
+**Speed:** At least 8; see Effects  
+**Delay:** Half the Bonded Chain’s Delay, rounded down  
+**Range:** Bonded Chain Range  
+**Tags:** Attack, Projectile  
+**Requires:** Adamantine Heritage; an available Bonded Chain
 
 **Effects**
 
-You temporarily create X additional copies of your chain to a maximum of Chakra Control Ranks / 10\. Then you make a Dual-Wield attack using all the Chains (including your base) with each treated as an individual weapon.
+Choose X from 1 to Chakra Control ranks/10, rounded down, with a minimum upper limit of 1. Create X temporary chains and choose up to 1+X different targets within Range. Declare which target receives the real Chain; each other target receives one copy. All use the real Chain’s physical profile and passive weapon modifiers.
+
+Choose one Action for the casting: Basic Weapon Attack, Disarm or Grab. Base Speed is at least 8, or the chosen Action’s Base Speed if higher. Pay this Jutsu’s Chakra instead of Stamina, retaining other resource costs. Use your normal Accuracy and CHA instead of STR for the Chain’s Grapple and Disarm calculations.
+
+Basic Weapon Attack: each target defends separately and takes 70% damage before its defense and mitigation.
+
+Disarm: use the Chain’s weapon Speed +4 and its normal Accuracy. The target defends against a non-damaging Weapon Attack; Parry is at −3. A hit knocks the held item up to CHA/10 yards, reduced for Partial Defense. Observe the normal size restrictions.
+
+Grab: use Base Speed 12 and Accuracy +2. On a full hit, establish a normal Clinch and determine Control. A copy’s hold ends when the Action resolves. Only the real Chain can maintain its Clinch, and it holds only that declared target.
+
+All attacks form one Action. Copies disappear after resolution and do not duplicate stored seals, ammunition or other expendable resources. Track any costs and WDP on the real Chain, once per casting rather than once per copy. Chain Mimicry has no Bukijutsu Chain value.
 
 **C-Rank**
 
@@ -5701,17 +5760,20 @@ Make a Grapple attack with a chain. On success, in addition to normal Grapple ef
 ### Kongō Kekkai - Adamantine Barrier
 {:#kongo-kekkai-adamantine-barrier}
 
-**Type:** C Rank \- Sealing  
-**Upkeep:** X\*3  
-**Delay:** As Weapon  
-**Accuracy:** As Weapon  
-**Tags:** Link
+**Type:** Fūinjutsu, Rank C  
+**Chakra:** +12  
+**Upkeep:** +4  
+**Speed:** +4  
+**Tags:** Link, Barrier, Sealing  
+**Requires:** Adamantine Heritage
 
 **Effects**
 
-X is the Rank of Jutsu linked. This is added on to any Sealing jutsu with the Barrier Tag increasing its range to the base range of your Chain \+ 5\. The chain substitutes its Seals cost and can account for up to Artisan Points /7 seals (+1 for large or extreme) which may be placed in any valid location connected to the original seal even if it’s outside the range of this jutsu. The maximum distance between each seal is half your normal amount. Even if the Seals provided by this jutsu is higher than the amount required, the Barrier applies to each seal equally.
+Link to a Barrier Jutsu or its Speed Cast. Add the listed Chakra, Upkeep and Speed. Your available Bonded Chain supplies up to two of its required environmental seals or prepared runes; choose which before casting and supply the remainder normally. Pay costs before the Upkeep begins.
 
-From its initial activation until it ends you must use a Variable Action to maintain this technique, and taking any other action aside from Moving at half Speed breaks it. You must remain within range of one edge of the Barrier. While this Barrier is maintained you lose access to your Bonded Chain.
+Place substituted anchor points within Chain Range. All anchors remain fixed after creation. Placement Range is the greater of the Barrier’s normal Range or Chain Range +5, while its normal shape, seal spacing and escape defense still apply. For an Interrupt Speed Cast, use the combined Speed and any applicable handseals when checking defense legality. Apply the total Chakra cost to the Chain’s WDP once.
+
+The Chain remains committed until this linked Barrier ends; you may use other Actions while sustaining it. Remain in contact with your Chain and within Chain Range of at least one Barrier edge. Losing either condition, ending Upkeep or losing the Barrier withdraws the Chain and ends the linked effect. Normal barrier damage and unsealing affect it. You may maintain only one Barrier through this Chain; release any creature it holds before casting.
 
 **A-Rank**
 
@@ -5808,34 +5870,39 @@ This is a Status Effect applied across its entire Area that lasts for 10 \+ Chak
 ### Caustic Passion
 {:#caustic-passion}
 
-**Type:** E Rank \- Yoton Ninjutsu  
+**Type:** Yōton Ninjutsu, Rank E  
 **Chakra:** 10  
+**Range:** CHA/2  
 **Speed:** 5  
-**Tags:** Utility
+**Tags:** Utility, Interrupt
 
 **Effects**
 
-You melt any unoccupied (Not carried or used by anybody) non-Chakra Reinforced (Such as from the Strengthening Seal) metallic or rocky object or material within CHA/2 yards. The size of this object can be no larger than 1 cubic foot.
+Choose up to 1 cubic foot of metal or stone within Range that you can see. Melt that volume into harmless slag. The material must be unattended and not Chakra Reinforced; a larger structure loses only the chosen volume.
 
-Or you can render up to CHA/10 Projectile Weapons you can see or know the location of useless, melting them just enough to be rendered ineffective. If the weapons are hidden, you'll need to discover their existence beforehand to destroy them. This power cannot work on Puppets or the Weapons held by Puppets as they are both considered Chakra Reinforced.
+As a Defensive Interrupt, instead defend against an Attack consisting entirely of ordinary metallic Projectile Weapons. Make a Ninjutsu Parry at −3. On success, melt the projectiles and negate the Attack. On Partial Success, resolve the Attack’s reduced effects, then melt the projectiles. On a full failure, the Attack and projectiles are unaffected. Use this option only against weapons you can see; chakra-created and Chakra-Reinforced weapons require another defense.
 
 **D-Rank**
 
 ### Lava Release: Gates of Brimstone
 {:#lava-release-gates-of-brimstone}
 
-**Type:** D Rank \- Yoton Ninjutsu  
-**Chakra:** \+4, \+1 per Rank  
-**Accuracy:** \-2  
-**Speed:** \+2  
-**Seal Speed:** \+4  
-**Tags:** Link, Environmental, Ground-Based
+**Type:** Yōton Ninjutsu, Rank D  
+**Chakra:** +4, plus the linked Jutsu’s Rank  
+**Accuracy:** −2  
+**Speed:** +2  
+**Seal Speed:** +4  
+**Tags:** Link, Environmental
 
 **Effects**
 
-This may be added to any Damage-Dealing Katon or Yoton Technique. The target has their DR reduced by the rank of jutsu this is linked to \+1 per severity of wounds applied. This lasts for 20 IC and the duration resets whenever the target is hit by a Yoton jutsu.
+Link to a damaging Katon or Yōton Jutsu. Use E=1, D=2, C=3, B=4 and A=5 for its Rank. After damage, each creature that lost Vitality or HP gains that Rank in Searing Residue, reduced by Partial Defense and rounded up. Residue lasts 20 IC. A further application increases your existing Residue by half the new application, rounded up, to a maximum of 8, and refreshes the duration.
 
-While a target’s DR is below 0, that negative amount is instead added to any damage dealt including damage which would normally ignore DR. So if a tick of Magma would normally deal 4 damage, someone with \-3 DR would take 7 damage per tick.
+Against your Yōton Attacks and Magma damage, reduce the creature’s DR by your Residue’s Severity, minimum 0. Apply this reduction before an effect ignores a fraction of DR. Residue begins after the linked Attack and therefore benefits later damage, not that Attack.
+
+Residue is clinging magma, caustic lime or adhesive rubber, matching your Volcanic Expression. Track one Residue total per caster. It causes no damage or Immobilization by itself.
+
+Clean Residue — Speed 5 Utility Action: remove 2 Severity from yourself or a willing creature within Melee reach. Residue ends when its Severity reaches 0 or its duration expires.
 
 **C-Rank**
 
@@ -5850,60 +5917,95 @@ While a target’s DR is below 0, that negative amount is instead added to any d
 
 **Effects**
 
-Coat your body in your chosen Yōton expression. Gain DR 15\. When a melee attacker hits you, it takes CHA Energy or Blunt damage according to your expression and suffers its expression rider. Rubber instead gives DR 25 but deals no retaliation damage.
+Coat yourself in your Volcanic Expression. Its effects begin after the activation’s Chakra Exhaustion roll and last while you maintain Upkeep. Only one Lava Armour may be active on you. A percentage reduction below applies once even when an Attack has both listed elements.
+
+- Magma: halve damage from Katon and Doton. After a creature hits you with an Unarmed Melee Attack, or maintains direct bodily contact with you for 5 IC, it takes CHA/10 Energy damage, ignoring DR. Resolve this retaliation once per creature per 5 IC; it causes no Wounds or expression riders.
+
+- Quicklime: halve damage from Katon and Raiton. After a creature hits you in Melee, make an opposed Chakra Control versus Resistance roll. If you win, add 2 to your Quicklime on it, maximum 8. This uses the same total and removal Action as Volcanic Expression. Quicklime supplied only by this armour expires 20 IC after its last application. Ordinary metallic projectiles that hit you melt after resolving their Attack; reinforced or chakra-created projectiles remain intact.
+
+- Rubber: gain CHA/2 DR, or CHA DR against Blunt damage. After a Melee attacker within your Melee reach hits you, you may push it up to 5 yards, redirecting the movement under Volcanic Expression. Each creature can be pushed this way once per 5 IC.
 
 **B-Rank**
 
 ### Lava Release: Nine Hells Erupting Armageddon
 {:#lava-release-nine-hells-erupting-armageddon}
 
-**Type:** B Rank \- Yoton Ninjutsu  
+**Type:** Yōton Ninjutsu, Rank B  
 **Chakra:** 36  
-Special Upkeep: 10
-
-**Damage:** 10d20\!\>8  
-**Range:** Special  
-**Area:** 15  
-**Speed:** 20, Delay 15  
+**Special Upkeep:** 10  
+**Damage:** 10d20!\>8 initially; 5d20!o\>16 on repeats  
+**Range:** 40  
+**Area:** 15 per vent  
+**Speed:** 20  
+**Delay:** 15  
 **Seal Speed:** 23  
-**Special:** Magma 8, Ignite 12
-
-**Tags:** Attack, AoE, Energy, Environmental
+**Tags:** Attack, AoE, Energy, Environmental, Ground-Based
 
 **Effects**
 
-You cause 3 spots in the battlefield that are no less than 20 yards away from each other to erupt into miniature volcanos of either flames or molten magma. Each of these eruptions is treated as its own attack that must be defended against individually. For the sake of techniques such as "Smokescreen" or "Gates of Brimstone" each chosen spot creates its own instance of that technique, though you only pay the cost for them once, not three times.
+After handseals, choose three visible points on exposed ground within Range, at least 20 yards apart. Mark the Areas and pay Chakra; Special Upkeep begins immediately. They erupt 15 IC later. Your next Action is 15 + Final Speed IC after release. The vents remain fixed. Ending Upkeep before the first eruption cancels it.
 
-So long as the upkeep is maintained, those three chosen spots will erupt again every 15 ICs later at no extra cost to you. These extra eruptions are treated as a Speed 15 Attack, use your base ACC at Fatigue 0, and deal 5d20\!o\>16. Each eruption reapplies the Magma but has its severity reduced by 2 each time. So the first eruption would be Magma 6, then 4, and 2\. When Magma is reduced to 0 this jutsu ends.
+Each vent attacks creatures touching its ground within Area 15. Resolve each vent separately, including defenses, damage and expression riders; a creature in overlapping Areas can be attacked by more than one vent. Use the casting’s declared Accuracy and Final Speed for the initial eruptions. Pay Links once for the casting and apply them to each initial vent.
+
+Repeat the eruptions 15, 30 and 45 IC after the first. Each repeat uses your current Ninjutsu Accuracy, effective Speed 15 and damage 5d20!o\>16 + NDB × 15. These repeats use no further Action, AP or Chakra roll; defenders use normal Interrupts and IC costs. Links apply only to the initial eruptions.
+
+For the initial dice, each result of 8–20 adds another d20, which can also explode. For repeat dice, each original result of 16–20 adds one extra d20; those extra dice do not explode.
+
+After the final repeat, end this Upkeep. You may end it earlier as Speed 0, cancelling future eruptions. You may maintain one casting at a time; recasting ends the earlier one. Leaving Range does not move or cancel established vents. Terrain already created remains for its stated duration.
+
+- Magma: initial eruptions create Magma 8; repeats replace it with Magma 6, 4 and 2. Each field lasts 30 + Chakra Control/5 IC from its latest eruption, rounded down. Apply the normal Magma creation tick and one tick per 5 IC afterward. Where fields overlap, use the highest Severity plus half the lower Severity for damage, as normal, and resolve one tick. A creation tick replaces any scheduled Magma tick on that IC.
+
+- Quicklime: eruptions apply Volcanic Expression normally. From the first eruption until the Upkeep ends, entering a vent’s Area or travelling 3 yards within it adds 1 to your Quicklime on that creature, maximum 8. This terrain application occurs once per creature per 5 IC across all vents and affects anyone except you. Use the normal Quicklime removal Action.
+
+- Rubber: eruptions apply Volcanic Expression normally. From the first eruption until the Upkeep ends, forced movement beginning in a vent’s Area gains up to 3 yards at your choice. Apply that bonus once per movement, using only the largest bonus if it also crosses your other Rubber fields.
 
 ### Yōton: Kazanryū - Volcanic Surge
 {:#yoton-kazanryu-volcanic-surge}
 
-**Type:** Ninjutsu, Rank B  
+**Type:** Yōton Ninjutsu, Rank B  
 **Chakra:** 34  
-**Speed:** 18  
-**Range:** 20  
+**Damage:** 10d12  
+**Range:** Self  
 **Area:** Line 6, 20  
-**Tags:** Attack, AoE, Ground-Based
+**Speed:** 18  
+**Tags:** Attack, AoE, Energy, Environmental, Ground-Based
 
 **Effects**
 
-Deal 10d12 damage appropriate to your expression and leave the line transformed for 20 IC. Magma becomes damaging terrain, Quicklime becomes Immobilizing terrain, and Rubber becomes elastic terrain that doubles forced movement and allows allies to bounce 5 yards as part of movement.
+Choose a direction and erupt a 6-yard-wide, 20-yard-long strip of ground starting at you. Attack each other creature touching the strip once. On a full hit, you may push it up to 5 yards away along the strip. Rubber uses this push or its normal Knockback, whichever is greater. Resolve the Attack before creating the terrain below.
+
+The strip lasts 20 IC. It follows the connected ground surface and stops at a solid wall or gap. Terrain effects apply to creatures touching it. Quicklime affects anyone except you; Rubber’s ally benefit applies only to willing creatures you choose.
+
+- Magma: the strip becomes Magma 4 for those 20 IC. Apply normal Magma entry, creation and 5-IC damage ticks, including overlapping-field rules.
+
+- Quicklime: entering the strip or travelling 3 yards within it adds 2 to your Quicklime, maximum 8, once per creature per 5 IC. Remove it with the normal Quicklime removal Action.
+
+- Rubber: forced movement along the strip gains up to 5 yards at your choice. Use only the largest extra-distance bonus from your Rubber fields. You and your chosen allies treat AGI as 25% higher while Moving along the strip; movement outside it uses normal AGI.
 
 **A-Rank**
 
 ### Yōton: Karyū Shōten - Eruption Ascendant
 {:#yoton-karyu-shoten-eruption-ascendant}
 
-**Type:** Ninjutsu, Rank A  
+**Type:** Yōton Ninjutsu, Rank A  
 **Chakra:** 48  
-**Speed:** 26  
+**Damage:** 12d12  
+**Range:** 30  
 **Area:** 15  
-**Tags:** Attack, AoE, Environmental
+**Speed:** 24  
+**Tags:** Attack, AoE, Energy, Environmental, Ground-Based
 
 **Effects**
 
-Erupt the battlefield beneath the target area, dealing 12d12 damage. For 30 IC the area remains an extreme version of your Expression: Magma inflicts 3d10 Energy on anyone moving through 3+ yards of it; Quicklime applies Immobilization 2 each 5 IC spent within; Rubber grants you control over knockback, allowing you to redirect any forced movement inside the area by up to 90 degrees.
+Choose a visible ground point within Range. Attack creatures touching the ground within Area 15, then turn that ground into an Ascendant Field for 30 IC. The field remains fixed; creating another ends your previous Ascendant Field. Resolve the initial Attack before applying its field benefits.
+
+When declaring a later Yōton Ninjutsu with a numeric Range, you may choose a visible point on this Field as its origin. Measure that Attack’s Range, Area and Cover from that point. Its target may be outside the Field, but you must perceive the target and have a clear attack path from the chosen origin. Pay the Action’s normal costs and handseals.
+
+- Magma: the Field is Magma 6 for 30 IC. For its damage ticks, add 2 Severity against a creature carrying your Searing Residue. Apply normal Magma ticks and overlapping-field rules; this bonus does not increase its movement penalty.
+
+- Quicklime: when your damaging Yōton hits a creature touching the Field, add 1 to the Quicklime Severity the hit would apply, then reduce it for Partial Defense. Your Quicklime total still has a maximum of 8 and uses its normal removal Action.
+
+- Rubber: forced movement beginning in the Field gains up to 5 yards at your choice. Your Rubber movement can be redirected by up to 180 degrees. Apply extra distance and redirection once per movement, using only the largest distance bonus from your Rubber fields.
 
 # Yuki
 {:#yuki}
@@ -5958,13 +6060,15 @@ Hyōton conversion costs are reduced by 2 Chakra, minimum \+1. Ice structures yo
 ### Suitenhoufukyuu - Water Sky Convergence
 {:#suitenhoufukyuu-water-sky-convergence}
 
-You can use any water scattered about the battlefield to fuel your Suiton or Hyouton techniques, even if it’s normally inaccessible. This does allow you to seize control of someone else's water or techniques. Even if it's in a container, or is infused with someone's chakra, it's not off limits
+**Type:** Heritage Technique / Passive
 
-You can take a Speed X action, with a Chakra cost of 5+2\*X, to freeze or liquify (CHA/30, minimum 1)\*X gallons of water on the battlefield. Ice may not be used in Suiton techniques; it can, however, be used to perform Hyouton (including Suiton jutsu which you have converted into Hyouton).
+**Effects**
 
-You can perform Suiton (but not Hyouton) jutsu without hand seals, by adding (the base Seal Speed \- CHA/10)/2, rounded up, to the action's base Speed. Normal alterations to Seal Speed (such as from Ninjutsu Specialist) do not apply to this ability.
+When using Suiton or Hyōton, you may draw water within the technique’s Range from ordinary containers, scattered pools or water infused with another creature’s Chakra. Water inside a creature or committed to a maintained Jutsu is unavailable until released. Water remains a counted resource and follows the casting’s consumption rules.
 
-There are even legends of Yuki once being able to drop rivers on people.
+Use Living Ice to freeze or liquefy water. Water Sky Convergence changes which water you can access; Living Ice supplies its own Range, amount and Action cost.
+
+For Suiton only, you may replace handseals with additional Base Speed. Add any Link’s Seal Speed to the listed Seal Speed, subtract CHA/10, then halve the result and round up, minimum 0. Increase Base Speed by that amount. Use CHA for this substitution and no other Seal Speed reductions. Then apply ordinary Action Speed modifiers. Hyōton still requires its listed handseals.
 
 ## Abilities
 {:#abilities-23}
@@ -6044,35 +6148,43 @@ Raise an ice shell around yourself or a point within 10 yards. It has HP equal t
 
 **B-Rank**
 
-### Hyouton: Jisarenhyo - Ice Release: Earthen Consecutive Chains of Ice
+### Hyōton: Jisarenhyō - Earthen Consecutive Chains of Ice
 {:#hyouton-jisarenhyo-ice-release-earthen-consecutive-chains-of-ice}
 
-**Type:** Hyoton Ninjutsu, Rank B  
+**Type:** Hyōton Ninjutsu, Rank B  
 **Chakra:** 28  
 **Upkeep:** 6  
 **Speed:** 14  
 **Seal Speed:** 16  
-**Tags:** Attack, Melee
+**Range:** 15  
+**Special:** Immobilization 5  
+**Tags:** Attack, Control
 
 **Effects**
 
-On a hit, you gain Upkeep 6 and this jutsu applies Immobilization 5 that is lowered by 1 every 10 IC the opponent goes without being hit by a Hyouton. So long as the upkeep is maintained, the ice particles on their body freeze them whenever their chakra fluctuates. If the opponent attempts a Chakra roll, their immobilization penalty is maintained as though they were hit by a Hyouton Ninjutsu. Further, they lose (Immobilization Penalty from Hyouton \+ Chakra TN/5)% of their current Vitality (or HP, if Vitality is depleted) plus their current Immobilization Penalty from Hyouton as damage that cannot be reduced.
+Attack one creature within Range. On a hit, apply Hyōton Immobilization 5, reduced for Partial Defense, and begin Upkeep. Use one temporary Hyōton Immobilization total per caster: a new application replaces it only if stronger and otherwise refreshes its fade timer. This hit’s Severity replaces the usual Hyōton rider. It fades by 1 every 10 IC since your last Hyōton hit or the victim’s last paid Chakra-costing Action.
 
-Creatures who can’t use Chakra that are affected by this jutsu freeze to death in 100 IC. The upkeep can be maintained for up to one day. If you can reduce the Seal Speed to 0, then you can apply this Jutsu with the slightest touch. Done covertly or out of combat, you can forgo the Immobilization penalty and apply the Upkeep portion of this Jutsu. If done covertly, the opponent may make an Awareness roll against your Espionage to realize what you have done.
+When the victim pays a positive Chakra cost for an Action, reset that fade timer. After the Action resolves, it loses Vitality equal to your NDB at casting × its current temporary Hyōton Immobilization, maximum NDB × 5. This flat loss ignores mitigation, stops at 0 Vitality and cannot Wound. It can occur once per 10 IC per victim across all castings of this technique. Passive Upkeep and rolls that only use a Chakra modifier do not trigger it.
+
+End the Jutsu when your temporary Hyōton Immobilization reaches 0, you end Upkeep, or the victim moves beyond twice casting Range. Remaining ice then fades normally, without Chakra reactions. Permanent Wound-replacement freezes do not sustain this Jutsu. Recasting on the same victim replaces your previous Upkeep and preserves its reaction timer.
 
 ### Hyōton: Sensatsu Kōri - Thousand Ice Needles
 {:#hyoton-sensatsu-kori-thousand-ice-needles}
 
-**Type:** Ninjutsu, Rank B  
+**Type:** Hyōton Ninjutsu, Rank B  
 **Chakra:** 32  
+**Damage:** 8d10 + Gd10  
 **Speed:** 15  
 **Range:** 25  
 **Area:** 8  
+**Gallons:** 0-10 Ice  
 **Tags:** Attack, AoE, Projectile, Piercing
 
 **Effects**
 
-Create or consume up to 10 gallons of Ice. Deal 8d10 plus 1d10 per gallon used, maximum 18d10. Targets hit suffer Immobilization 2\. Against a target already suffering your Frostbite/Immobilization, this attack gains \+2 Accuracy.
+Choose G from 0–10. Create G gallons of Ice or invest G available gallons of Ice within Range, then make one Area Attack. Creating the Ice is part of the listed Chakra cost. In either case the Attack consumes one quarter of G, rounded up; deposit the remainder in its Area afterward. Add Gd10 to its base dice. This is one Ninjutsu Attack rather than a Multi-Throw.
+
+Apply Immobilization 2 if G=0, or 4 if G is at least 1, reduced for Partial Defense. This replaces the usual Hyōton rider. With your other temporary Hyōton applications, use the highest Severity and refresh the 10-IC fade timer rather than adding Severities. Against a target already suffering at least 3 of your Hyōton Immobilization at declaration, gain +2 Accuracy.
 
 ### Makyō Reversal - Mirror Step
 {:#makyo-reversal-mirror-step}
@@ -7776,17 +7888,18 @@ Skeletal Modifications: Any two.
 **Chakra:** 15  
 **Upkeep:** 4  
 **Speed:** 6  
-**Tags:** Utility
+**Tags:** Utility, Preparation  
+**Skeletal Modifications:** Ossification, Blades, Spurs
 
 **Effects**
 
-While maintaining Dance of the Willow's Upkeep, you can use a Speed 0 Action to spend 4 AP to attack someone within 5 yards of you with a “Spinal Thrust” Attack. By raising the cost to 6 AP you improve this Attack to Target everyone within 5 yards of you (Though it does not count as an AoE Attack). Spinal Thrust is always considered to be a surprise attack.
+While maintained, you may use Spinal Thrust after activation and then at least 10 IC after the last thrust. Declare it before Actions are declared on that IC and resolve them simultaneously, or immediately before or after your Main Action. You must be conscious, unstunned and not performing handseals or a delayed Action. Recasting does not refresh the timer.
 
-Spinal Thrust only deals (Speed \* PDB) Damage and is treated as a Speed 10 Attack, though it does not allow you to move as part of the attack; you do not delay your next action because of this, but that Speed is used to determine viable defenses and damage bonus. You can spend additional AP to lower the effective Speed further. Parrying Dance of the Willow reduces its damage by half and prevents it from inflicting wounds, rather than defending against it fully.
+Spinal Thrust — 4 AP for one creature within 5 yards, or 6 AP for any chosen creatures within 5 yards. Each needs a clear path from you and defends separately. Use Taijutsu Accuracy, Piercing damage and effective Base Speed 10, modified by Paralysis normally. Damage is PDB × effective Final Speed, with no base dice. Extra AP may reduce effective Speed to its normal minimum. The thrust advances no IC and grants no movement; defenders advance IC normally.
 
-You acquire a Skeletal Modification every time you spend AP to activate Dance of the Willow’s Spinal Thrust Attack, but not when you first use the jutsu and pay its chakra cost.
+The first Spinal Thrust you use in a battle is a Surprise Attack against each chosen target. Later thrusts require ordinary Surprise conditions. A successful Parry halves damage and prevents Wounds; a failed Parry uses normal Partial Defense. Dodge and other defenses retain their normal effects.
 
-Skeletal Modifications: Ossification, Blades, Spurs
+After resolving a thrust, gain one Ossification, Blades or Spurs Modification, once for the Action. Activating the form grants none. This is the technique’s Clan Jutsu Modification gain; Wound-triggered gains apply separately. End the form as Speed 0 by ending Upkeep.
 
 **B-Rank**
 
@@ -7994,20 +8107,33 @@ While Sharingan is active, reduce penalties applied to a Multi-throw to a maximu
 {:#katon-hosenka-tsumabeni-phoenix-flower-crimson-nail}
 
 **Type:** Ninjutsu, Rank C  
-**Chakra:** 22+X\*2  
-**Damage:** 6d10\!o\>9  
+**Chakra:** 22 + 2X; also pay the Multi-Throw’s Stamina  
+**Damage:** 6d10!o\>9, then the Multi-Throw  
 **Range:** 25  
 **Area:** Up to 4 targets within 8 yards of one another  
-**Speed:** 14+X  
+**Speed:** 14 + X for the linked Action  
 **Seal Speed:** 10  
 **Special:** Ignite 3  
 **Tags:** Attack, Projectile, Katon, Weapon, Link  
-**Requires:** Sharingan active  
-**Note:** This attack does not use a static Accuracy, and instead makes attack rolls.
+**Requires:** Sharingan active
 
 **Effects**
 
-Launch a spread of fireballs concealing shuriken or senbon, this technique can be added as part of a Multithrow. First, make an attack roll (D20+Acc not including Base 10\) with this technique, where X is the number of weapons thrown within the Multithrow, on a partial success or full success, the target must then defend against the Multithrow, using it’s normal speed and Accuracy, on a partial success against this jutsu, it deals it’s normal damage following the Partial Damage rules. If this attack hits, it deals it’s full damage, and then includes the damage from the Multithrow. Any weapons used as part of this link are destroyed.
+Link this technique to a Multi-Throw of shuriken or senbon. X is the total number of weapons thrown, using the normal Multi-Throw limit and one weapon type. Divide them among up to four targets, assigning at least two weapons to each. All targets must be within 25 yards, within the weapons’ Range, and within 8 yards of one another. Declare the targets and weapon allocation before rolling.
+
+Perform the handseals, then pay this technique’s Chakra and the Multi-Throw’s normal Stamina, making both Fatigue rolls. The linked Action has Base Speed 14+X; advance your IC by its modified Final Speed once. Separately calculate each target’s Multi-Throw Speed using its assigned weapons and normal modifiers, minimum 5. Use those separate Speeds for the weapon stages’ damage and defense legality.
+
+Fire stage: roll 1d20 + your Ninjutsu Accuracy modifiers, omitting the usual base 10. Make one attack roll and compare it with each target’s defense. Each target declares one legal defense before the roll. Use the linked Action’s Final Speed for fire damage and defense legality.
+
+On a full defensive success, that target avoids both the fire and its concealed weapons. On a Partial Defense, apply the reduced fire damage and Ignite, then resolve the weapon stage. On a full defensive failure, apply full fire damage and Ignite, then resolve the weapon stage.
+
+Fire damage is 6d10!o\>9 + NDB × Final Speed. Each original die showing 9 or 10 adds one extra d10; extra dice do not explode. Apply Ignite 3 after a damaging fire hit, reduced for Partial Defense. Uchiha Fire Doctrine applies normally.
+
+Weapon stage: each target reached by the fire makes a second defense against its assigned Multi-Throw, using that Multi-Throw’s normal static Accuracy, Speed, weapon damage and bonuses. Declare this defense after the fire stage resolves, using the target’s resulting position, Fatigue and statuses. If the target has left the weapons’ Range or their path is blocked, resolve that obstruction or miss normally.
+
+Each stage allows one defense, with its own legality, costs and IC advancement. A fire-stage defense does not also defend against the weapons. Calculate each stage’s damage and mitigation separately; the fire’s Partial Defense does not reduce the weapon stage. Apply the normal Multi-Throw Wound reduction to weapon damage only.
+
+All weapons committed to this technique are destroyed when the Action resolves, including those stopped by the fire-stage defense. They cannot be recovered.
 
 ### Uchiha Ryū: Sōfūshasan no Tachi - Manipulated Windmill Triple Blade
 {:#uchiha-ryu-sofushasan-no-tachi-manipulated-windmill-triple-blade}
