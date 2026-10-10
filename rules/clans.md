@@ -7259,7 +7259,6 @@ Choose one mounted thrown weapon used with Ninja Wire. Once per 10 IC after an A
 
 * Bakuton users begin with Elemental Aptitude for Doton and Raiton and gain Elemental Affinity: Bakuton. Bakuton does not include Doton or Raiton in its Affinity and ordinary Doton or Raiton techniques cannot be converted into Bakuton unless a feature explicitly allows it. Damaging Bakuton techniques inflict Energy Wounds unless stated otherwise.
 * When Sudden Attack modifies a Bakuton Taijutsu, increase that technique's Chakra cost by 3 per stack of Sudden Attack applied.
-* When Sudden Attack modifies a Bakuton Taijutsu, increase that technique's Chakra cost by 3 per stack of Sudden Attack applied.
 
 ## Passives
 {:#passives-18}
