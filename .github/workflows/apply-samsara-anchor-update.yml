@@ -1,0 +1,50 @@
+name: Apply Samsara Anchor update
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/apply-samsara-anchor-update.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-samsara:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update Samsara Soul Anchor limit
+        shell: python
+        run: |
+          from pathlib import Path
+
+          path = Path('rules/clans.md')
+          text = path.read_text(encoding='utf-8')
+
+          old = "An Anchor is a prepared combination of seals, Chakra imprinting and whatever physical vessel or method your character uses to facilitate their return. You may only possess one active Soul Anchor at a time. Creating another destroys the previous Anchor. An Anchor is a physical thing somewhere in the world."
+          new = "An Anchor is a prepared combination of seals, Chakra imprinting and whatever physical vessel or method your character uses to facilitate their return. You may possess multiple active Soul Anchors at once, up to a maximum of 4 + (XP Earned / 1000), rounded down. You cannot establish another Soul Anchor while at this maximum unless one of your existing Anchors has first been consumed or destroyed. An Anchor is a physical thing somewhere in the world."
+
+          if old in text:
+              if text.count(old) != 1:
+                  raise SystemExit(f'Expected exactly one Samsara Anchor passage, found {text.count(old)}')
+              text = text.replace(old, new, 1)
+              path.write_text(text, encoding='utf-8')
+          elif new not in text:
+              raise SystemExit('Could not find the expected Samsara Anchor passage.')
+
+      - name: Commit update
+        run: |
+          if git diff --quiet -- rules/clans.md; then
+            echo "Samsara Soul Anchor rules already updated."
+            exit 0
+          fi
+          git config user.name "Ember Corps Rules Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add rules/clans.md
+          git commit -m "Clarify Samsara Soul Anchor limit"
+          git push origin HEAD:main
