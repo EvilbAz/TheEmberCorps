@@ -1,21 +1,22 @@
 name: Apply Bakuton update
 
 on:
-  push:
+  pull_request:
     branches: [main]
-    paths:
-      - '.github/workflows/apply-bakuton-update.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
   update-bakuton:
+    if: github.repository == 'EvilbAz/TheEmberCorps'
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Check out main
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: Apply Bakuton rules update
@@ -36,16 +37,25 @@ jobs:
               ('**Damage:** 25d10\\!\\>5', '**Damage:** 18d10\\!o\\>8'),
           ]
 
+          changed = False
           for old, new in replacements:
-              count = text.count(old)
-              if count != 1:
-                  raise SystemExit(f'Expected exactly one match for {old!r}, found {count}')
-              text = text.replace(old, new, 1)
+              if old in text:
+                  if text.count(old) != 1:
+                      raise SystemExit(f'Expected at most one match for {old!r}')
+                  text = text.replace(old, new, 1)
+                  changed = True
+              elif new not in text:
+                  raise SystemExit(f'Could not find expected old or new text for {old!r}')
 
-          path.write_text(text, encoding='utf-8')
+          if changed:
+              path.write_text(text, encoding='utf-8')
 
       - name: Commit update
         run: |
+          if git diff --quiet -- rules/clans.md; then
+            echo "Bakuton rules already updated."
+            exit 0
+          fi
           git config user.name "Ember Corps Rules Bot"
           git config user.email "actions@users.noreply.github.com"
           git add rules/clans.md
