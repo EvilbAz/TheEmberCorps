@@ -48,3 +48,5 @@ jobs:
           git add rules/clans.md
           git commit -m "Clarify Samsara Soul Anchor limit"
           git push origin HEAD:main
+
+# Touch: trigger updater after workflow exists on main.
