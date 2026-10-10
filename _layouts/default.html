@@ -36,6 +36,7 @@
               {% endfor %}
               <span class="core-side-label">QUICK REFERENCES</span>
               <a class="{% if page.wounds_reference %}active{% endif %}" href="{{ '/rules/wounds/' | relative_url }}">Wounds Reference ↗</a>
+              <a class="{% if page.hunting_reference %}active{% endif %}" href="{{ '/rules/hunting/' | relative_url }}">Hunting Reference ↗</a>
             </nav>
           {% elsif page.volume_slug == 'jutsu' %}
             <nav id="toc" class="toc jutsu-side-links" aria-label="Jutsu types">
