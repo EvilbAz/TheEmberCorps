@@ -27,20 +27,6 @@ if addition not in text:
         raise SystemExit('Missing launcher rules anchor')
     text = text.replace(anchor, addition, 1)
 
-standard = {
-    "Range 15 \\+ STR/4; Delay 1; Capacity 3; Reload 5; Durability 30\\.": "Range 15; Delay 1; Capacity 3; Volley Limit 3; Reload 5; Durability 30\\.",
-    "Range 15 \\+ STR/4; Delay 1; Capacity 5; Reload 5; Durability 30\\.": "Range 15; Delay 1; Capacity 5; Volley Limit 3; Reload 5; Durability 30\\.",
-    "Range 25 \\+ STR/4; Delay 1; Capacity 6; Reload 6; Durability 40\\.": "Range 30; Delay 1; Capacity 6; Volley Limit 5; Reload 6; Durability 40\\.",
-    "Range 20 \\+ STR/4; Delay 1; Capacity 10; Reload 6; Durability 40\\.": "Range 25; Delay 1; Capacity 10; Volley Limit 5; Reload 6; Durability 40\\.",
-    "Range 20 \\+ STR/4; Delay 1; Capacity 8; Reload 6; Durability 40\\.": "Range 25; Delay 1; Capacity 8; Volley Limit 5; Reload 6; Durability 40\\.",
-    "Range 20 \\+ STR/4; Delay 1; Capacity 10; Reload 6; Durability 40\\.": "Range 25; Delay 1; Capacity 10; Volley Limit 6; Reload 6; Durability 40\\.",
-    "Range 20 \\+ STR/4; Delay 1; Capacity 12; Reload 6; Durability 40\\.": "Range 25; Delay 1; Capacity 12; Volley Limit 6; Reload 6; Durability 40\\.",
-    "Range 30 \\+ STR/4; Delay 1; Capacity 8; Reload 6; Durability 40\\.": "Range 35; Delay 1; Capacity 8; Volley Limit 6; Reload 6; Durability 40\\.",
-    "Range 30 \\+ STR/4; Delay 2; Capacity 12; Reload 7; Durability 55\\.": "Range 40; Delay 2; Capacity 12; Volley Limit 4; Reload 7; Durability 55\\.",
-    "Range 30 \\+ STR/4; Delay 2; Capacity 10; Reload 7; Durability 55 (+10%).": "Range 40; Delay 2; Capacity 10; Volley Limit 4; Reload 7; Durability 55 (+10%).",
-}
-
-# Apply standard catalogue changes within the launcher catalogue only, avoiding unrelated weapons.
 start = text.index('##### Kunai Launchers\n{:#kunai-launchers-2}')
 end = text.index('##### Ready-Made Kunai and Shuriken', start)
 prefix, section, suffix = text[:start], text[start:end], text[end:]
@@ -58,3 +44,5 @@ section = section.replace("Reduce the additional Speed imposed by Volley by 1, m
 text = prefix + section + suffix
 
 path.write_text(text, encoding='utf-8')
+
+# one-shot trigger
