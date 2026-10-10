@@ -7,10 +7,84 @@ hunting_reference: true
 permalink: "/rules/hunting/"
 ---
 
+<style>
+.hunting-directory{position:relative;overflow:hidden;padding:34px 36px 30px!important;border:1px solid var(--line);background:linear-gradient(135deg,color-mix(in srgb,var(--surface) 92%,var(--accent) 8%),var(--surface));margin-bottom:28px}
+.hunting-directory:after{content:"HUNT";position:absolute;right:-8px;bottom:-42px;font:900 118px/1 'Barlow Condensed',sans-serif;letter-spacing:4px;color:var(--accent);opacity:.055;pointer-events:none}
+.hunting-directory .reference-kicker{display:flex;align-items:center;gap:10px;color:var(--accent);font:800 10px 'DM Sans',sans-serif;letter-spacing:2px;text-transform:uppercase}
+.hunting-directory .reference-kicker:before{content:"";width:28px;height:1px;background:var(--accent)}
+.hunting-directory h1{font:900 clamp(52px,7vw,82px)/.9 'Barlow Condensed',sans-serif!important;letter-spacing:.7px!important;border:0!important;padding:0!important;margin:18px 0 12px!important}
+.hunting-directory .reference-lead{max-width:700px;color:var(--muted);font-size:15px;line-height:1.8;margin-bottom:22px}
+.hunt-badges{display:flex;gap:8px;flex-wrap:wrap;margin:4px 0 22px}
+.hunt-badge{display:inline-flex;align-items:center;gap:7px;padding:6px 9px;border:1px solid var(--line);background:color-mix(in srgb,var(--surface2) 86%,transparent);font:800 9px 'DM Sans',sans-serif;letter-spacing:1.15px;text-transform:uppercase;color:var(--muted);border-radius:3px}
+.hunt-badge strong{color:var(--accent)}
+.hunting-directory .reference-jumps{display:flex;flex-wrap:wrap;gap:7px;position:relative;z-index:1}
+.hunting-directory .reference-jumps a{padding:7px 10px;border:1px solid var(--line);background:var(--surface2);border-radius:3px;text-decoration:none!important;color:var(--muted);font:700 10px 'DM Sans',sans-serif;letter-spacing:.3px;transition:.15s ease}
+.hunting-directory .reference-jumps a:hover{color:var(--text);border-color:var(--accent);transform:translateY(-1px)}
+.hunt-intro{padding:18px 20px;border-left:3px solid var(--accent);background:color-mix(in srgb,var(--surface) 88%,transparent);margin:0 0 24px}
+.hunt-intro p:last-child{margin-bottom:0}
+.hunt-flow{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;border:1px solid var(--line);background:var(--line);margin:25px 0 34px;overflow:hidden;border-radius:4px}
+.hunt-flow-step{background:var(--surface);padding:15px 13px;min-height:92px;position:relative}
+.hunt-flow-step span{display:block;color:var(--accent);font:900 22px 'Barlow Condensed',sans-serif;line-height:1;margin-bottom:8px}
+.hunt-flow-step strong{display:block;font:800 13px 'Barlow Condensed',sans-serif;text-transform:uppercase;letter-spacing:.5px}
+.hunt-flow-step small{display:block;color:var(--dim);font-size:10px;line-height:1.45;margin-top:4px}
+.hunt-section-note{display:flex;align-items:flex-start;gap:12px;padding:13px 15px;margin:12px 0 22px;border:1px solid var(--line);background:color-mix(in srgb,var(--surface) 90%,transparent);border-radius:4px;color:var(--muted)}
+.hunt-section-note b{color:var(--accent);font:900 20px 'Barlow Condensed',sans-serif;line-height:1}
+.hunt-card-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:17px 0 26px}
+.hunt-card{position:relative;padding:18px;border:1px solid var(--line);background:var(--surface);border-radius:4px;overflow:hidden}
+.hunt-card:before{content:"";position:absolute;left:0;top:0;bottom:0;width:2px;background:var(--accent);opacity:.7}
+.hunt-card .hunt-card-kicker{font:800 9px 'DM Sans',sans-serif;letter-spacing:1.4px;text-transform:uppercase;color:var(--dim);margin-bottom:3px}
+.hunt-card h3{margin:0 0 7px!important;color:var(--text)!important;font-size:24px!important}
+.hunt-card p{color:var(--muted);font-size:12.5px;line-height:1.7;margin-bottom:10px}
+.hunt-card p:last-child{margin-bottom:0}
+.hunt-result{display:inline-flex;padding:4px 7px;background:color-mix(in srgb,var(--accent) 13%,transparent);border:1px solid color-mix(in srgb,var(--accent) 35%,var(--line));border-radius:3px;color:var(--text);font-size:11px;font-weight:700}
+.intel-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:16px 0 24px}
+.intel-card{padding:16px;border:1px solid var(--line);background:var(--surface);border-radius:4px}
+.intel-card .intel-icon{font:900 28px/1 'Barlow Condensed',sans-serif;color:var(--accent);opacity:.9}
+.intel-card strong{display:block;margin:9px 0 4px;font:800 18px 'Barlow Condensed',sans-serif;text-transform:uppercase}
+.intel-card small{display:block;color:var(--muted);line-height:1.55}
+.intel-levels{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:4px;overflow:hidden;margin:18px 0 25px}
+.intel-level{background:var(--surface);padding:15px}
+.intel-level b{display:block;font:900 27px/1 'Barlow Condensed',sans-serif;color:var(--accent)}
+.intel-level strong{display:block;font:800 14px 'Barlow Condensed',sans-serif;margin:7px 0 3px;text-transform:uppercase}
+.intel-level small{color:var(--muted);font-size:10px;line-height:1.5}
+.wild-mechanics{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px;margin:20px 0 26px}
+.wild-mechanic{padding:15px 13px;border:1px solid var(--line);background:var(--surface);border-radius:4px;min-height:110px}
+.wild-mechanic span{font:900 26px/1 'Barlow Condensed',sans-serif;color:var(--accent)}
+.wild-mechanic strong{display:block;margin:8px 0 3px;font:800 15px 'Barlow Condensed',sans-serif;text-transform:uppercase}
+.wild-mechanic small{display:block;color:var(--muted);font-size:10px;line-height:1.45}
+.hunt-stat-row{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0 16px}
+.hunt-stat{display:inline-flex;align-items:baseline;gap:6px;padding:8px 10px;background:var(--surface);border:1px solid var(--line);border-radius:3px}
+.hunt-stat b{font:900 20px 'Barlow Condensed',sans-serif;color:var(--accent);line-height:1}
+.hunt-stat span{font:800 9px 'DM Sans',sans-serif;letter-spacing:1px;text-transform:uppercase;color:var(--muted)}
+.cling-actions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:15px 0 24px}
+.cling-action{padding:15px;border:1px solid var(--line);background:var(--surface);border-radius:4px}
+.cling-action h4{margin:0 0 8px!important;color:var(--text)}
+.cling-action .action-cost{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:9px}
+.cling-action .action-cost span{padding:3px 6px;border:1px solid var(--line);border-radius:3px;color:var(--muted);font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.7px}
+.cling-action p{font-size:11.5px;color:var(--muted);line-height:1.6;margin:0}
+.hunt-callout{margin:18px 0 24px;padding:18px 19px;border:1px solid color-mix(in srgb,var(--accent) 45%,var(--line));background:linear-gradient(90deg,color-mix(in srgb,var(--accent) 10%,var(--surface)),var(--surface));border-radius:4px}
+.hunt-callout .callout-label{font:800 9px 'DM Sans',sans-serif;letter-spacing:1.5px;text-transform:uppercase;color:var(--accent);margin-bottom:5px}
+.hunt-callout strong{font:800 18px 'Barlow Condensed',sans-serif}
+.capture-chain{display:grid;grid-template-columns:repeat(4,1fr);gap:7px;margin:17px 0 25px}
+.capture-step{padding:13px;border:1px solid var(--line);background:var(--surface);border-radius:3px;text-align:center}
+.capture-step b{display:block;color:var(--accent);font:900 19px 'Barlow Condensed',sans-serif}
+.capture-step span{display:block;color:var(--muted);font-size:10px;margin-top:4px}
+.hunt-loop-panel{border:1px solid var(--line);background:var(--surface);padding:20px;margin-top:18px;border-radius:4px}
+.hunt-loop-panel h3{margin-top:0!important}.hunt-loop-panel ol{margin-bottom:0}
+@media(max-width:900px){.hunt-flow{grid-template-columns:1fr}.hunt-card-grid,.intel-grid,.wild-mechanics,.cling-actions,.capture-chain{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.hunting-directory{padding:25px 20px 22px!important}.hunting-directory:after{font-size:82px}.hunt-card-grid,.intel-grid,.intel-levels,.wild-mechanics,.cling-actions,.capture-chain{grid-template-columns:1fr}.hunt-flow-step{min-height:0}.hunt-badges{gap:5px}}
+</style>
+
 <div class="reference-directory hunting-directory">
   <div class="reference-kicker">CORE RULES / FIELD REFERENCE</div>
   <h1>Hunting</h1>
   <p class="reference-lead">Track dangerous beasts, learn how they fight, prepare for the encounter, then bring them down—or bring them home alive.</p>
+  <div class="hunt-badges">
+    <span class="hunt-badge"><strong>01</strong> Up to 4 Hunters</span>
+    <span class="hunt-badge"><strong>02</strong> Downtime Activity</span>
+    <span class="hunt-badge"><strong>03</strong> Shared Intel</span>
+    <span class="hunt-badge"><strong>04</strong> Kill or Capture</span>
+  </div>
   <div class="reference-jumps">
     <a href="#starting-a-hunt">Starting a Hunt</a>
     <a href="#hunt-actions">Hunt Actions</a>
@@ -24,13 +98,18 @@ permalink: "/rules/hunting/"
   </div>
 </div>
 
-A core part of being a Hunter is actually **hunting**.
+<div class="hunt-intro">
+<p>A core part of being a Hunter is actually <strong>hunting</strong>.</p>
+<p>A <strong>Hunt</strong> is a special Downtime activity in which a small team tracks, studies, prepares for, and ultimately confronts a dangerous creature. The work your Team does before the fight can determine what you know, what advantages you begin with, and whether you are ready for what the monster can do.</p>
+</div>
 
-A **Hunt** is a special Downtime activity in which a small team tracks, studies, prepares for, and ultimately confronts a dangerous creature. A Hunt is not just a combat encounter: the work your team does before the fight can determine what you know, what advantages you begin with, and whether you are ready for what the monster can do.
-
-The usual flow is simple:
-
-**Find it → Learn about it → Prepare → Confront it → Kill, capture, drive off, or otherwise neutralise it.**
+<div class="hunt-flow" aria-label="The five stages of a Hunt">
+  <div class="hunt-flow-step"><span>01</span><strong>Find It</strong><small>Track the target and learn its territory.</small></div>
+  <div class="hunt-flow-step"><span>02</span><strong>Learn It</strong><small>Research its nature, habits and abilities.</small></div>
+  <div class="hunt-flow-step"><span>03</span><strong>Prepare</strong><small>Build the tools and advantages you need.</small></div>
+  <div class="hunt-flow-step"><span>04</span><strong>Confront It</strong><small>Choose when the Team knows enough to strike.</small></div>
+  <div class="hunt-flow-step"><span>05</span><strong>Finish It</strong><small>Kill, capture, drive off, or neutralise it.</small></div>
+</div>
 
 ---
 
@@ -45,50 +124,47 @@ Once the Hunt begins, the Team may spend Downtime gathering information and maki
 
 Intel and preparations gained during a Hunt belong to that Hunt and are available to the Hunting Team.
 
+<div class="hunt-section-note"><b>4</b><span><strong>Maximum Team Size.</strong> A Hunting Team can contain up to four players, and all Intel and Preparation earned for that Hunt is shared by the Team.</span></div>
+
 ---
 
 ## Hunt Actions
 {:#hunt-actions}
 
-While participating in an active Hunt, you gain access to special **Hunt Actions**.
-
-Each Hunt Action costs **1 Downtime Slot**.
+While participating in an active Hunt, you gain access to special **Hunt Actions**. Each Hunt Action costs **1 Downtime Slot**.
 
 The roll used for each action is determined by the monster's Hunt profile. Different creatures are found, understood, and prepared for in different ways, so each monster may call for different Skills or approaches.
 
-### Track
-
-Follow trails, chakra residue, disturbed terrain, witnesses, feeding grounds, discarded remains, or other signs of the creature.
-
-On a success, gain **Tracks Intel**.
-
-Tracks Intel tells you about where the creature is, where it travels, how it moves through its territory, and how best to approach it.
-
-### Research
-
-Study old records, field reports, remains, sightings, survivors, folklore, previous encounters, or similar sources.
-
-On a success, gain **Nature Intel**.
-
-Nature Intel tells you what kind of creature you are dealing with, how it behaves, and what it may be capable of.
-
-### Study Weakness
-
-Investigate the creature's anatomy, habits, injuries, feeding patterns, shed material, chakra, or previous fights in search of exploitable vulnerabilities.
-
-This action will often require some **Nature Intel** before it can be attempted.
-
-On a success, gain **Weakness Intel**.
-
-Weakness Intel tells you how to create openings, disable important parts, avoid dangerous abilities, or exploit a major vulnerability.
-
-### Prepare
-
-Create or arrange something specifically intended to help against the target: traps, bait, antidotes, seals, special ammunition, environmental preparations, escape routes, or similar measures.
-
-On a success, gain **1 Preparation**, to a maximum of **3 Preparation** for the Hunt.
-
-Preparation can be spent during the final encounter when the thing you prepared would appropriately help the Team. The exact benefit depends on what was prepared and the situation in which it is used.
+<div class="hunt-card-grid">
+  <div class="hunt-card">
+    <div class="hunt-card-kicker">Hunt Action · 1 Downtime</div>
+    <h3>Track</h3>
+    <p>Follow trails, chakra residue, disturbed terrain, witnesses, feeding grounds, discarded remains, or other signs of the creature.</p>
+    <span class="hunt-result">Success → Tracks Intel</span>
+    <p>Learn where the creature is, where it travels, how it moves through its territory, and how best to approach it.</p>
+  </div>
+  <div class="hunt-card">
+    <div class="hunt-card-kicker">Hunt Action · 1 Downtime</div>
+    <h3>Research</h3>
+    <p>Study old records, field reports, remains, sightings, survivors, folklore, previous encounters, or similar sources.</p>
+    <span class="hunt-result">Success → Nature Intel</span>
+    <p>Learn what kind of creature you are dealing with, how it behaves, and what it may be capable of.</p>
+  </div>
+  <div class="hunt-card">
+    <div class="hunt-card-kicker">Hunt Action · 1 Downtime</div>
+    <h3>Study Weakness</h3>
+    <p>Investigate the creature's anatomy, habits, injuries, feeding patterns, shed material, chakra, or previous fights in search of exploitable vulnerabilities. This will often require some <strong>Nature Intel</strong> first.</p>
+    <span class="hunt-result">Success → Weakness Intel</span>
+    <p>Learn how to create openings, disable important parts, avoid dangerous abilities, or exploit a major vulnerability.</p>
+  </div>
+  <div class="hunt-card">
+    <div class="hunt-card-kicker">Hunt Action · 1 Downtime</div>
+    <h3>Prepare</h3>
+    <p>Create or arrange something specifically intended to help against the target: traps, bait, antidotes, seals, special ammunition, environmental preparations, escape routes, or similar measures.</p>
+    <span class="hunt-result">Success → +1 Preparation · Max 3</span>
+    <p>Preparation can be spent during the final encounter when the thing you prepared would appropriately help the Team.</p>
+  </div>
+</div>
 
 Preparation should represent something established **before** the encounter. It is not a pool of undefined equipment that can become whatever the Team needs after the fight begins.
 
@@ -97,23 +173,21 @@ Preparation should represent something established **before** the encounter. It 
 ## Intel
 {:#intel}
 
-Intel is shared across the whole Hunting Team.
+Intel is shared across the whole Hunting Team. There are three Intel categories, each representing a different part of understanding the target.
 
-There are three Intel categories:
+<div class="intel-grid">
+  <div class="intel-card"><div class="intel-icon">⌖</div><strong>Tracks</strong><small>Where the monster is, where it travels, and how to approach it.</small></div>
+  <div class="intel-card"><div class="intel-icon">◈</div><strong>Nature</strong><small>What the monster is, how it behaves, and what it may be capable of.</small></div>
+  <div class="intel-card"><div class="intel-icon">✦</div><strong>Weakness</strong><small>Where the monster is vulnerable and how those vulnerabilities can be exploited.</small></div>
+</div>
 
-- **Tracks** — where the monster is and how to approach it.
-- **Nature** — what the monster is and how it behaves.
-- **Weakness** — where and how the monster can be exploited.
+Each category has **3 levels**. Higher levels include the information from lower levels.
 
-Each category has **3 levels**.
-
-| Intel | Level | What it means |
-|---|---|---|
-| **1** | **Rumors** | Basic information and early clues. |
-| **2** | **Reliable** | Useful, dependable information with mechanical value. |
-| **3** | **Hunter's Insight** | Critical information and an advantage when confronting the target. |
-
-Gaining a level of Intel reveals the information attached to that level for the current monster. Higher levels include the information from lower levels.
+<div class="intel-levels">
+  <div class="intel-level"><b>01</b><strong>Rumors</strong><small>Basic information and early clues.</small></div>
+  <div class="intel-level"><b>02</b><strong>Reliable</strong><small>Useful, dependable information with mechanical value.</small></div>
+  <div class="intel-level"><b>03</b><strong>Hunter's Insight</strong><small>Critical information and an advantage when confronting the target.</small></div>
+</div>
 
 ### Hunter's Insight
 
@@ -132,13 +206,11 @@ The exact information and advantage depend on the monster being hunted.
 ## Failed Hunt Actions
 {:#failed-hunt-actions}
 
-Hunting dangerous creatures is not risk-free.
-
-A failed Hunt Action may cause a **Complication**.
+Hunting dangerous creatures is not risk-free. A failed Hunt Action may cause a **Complication**.
 
 Complications can change the situation before the final encounter. The creature might relocate, become aware that it is being pursued, supplies may be lost, the terrain may worsen, or another threat may become involved.
 
-A failure does not automatically end the Hunt. It means the situation has become more difficult, urgent, or dangerous.
+<div class="hunt-callout"><div class="callout-label">Failure does not end the Hunt</div><strong>It changes the situation.</strong><br><span>A failed action means the Hunt has become more difficult, urgent, or dangerous—not that the Team automatically loses its chance to continue.</span></div>
 
 ---
 
@@ -169,14 +241,12 @@ Rare creatures may also provide unique materials, crafting components, trophies,
 
 Some Hunt targets are too large, resilient, or dangerous to fight like ordinary enemies. These creatures use additional **Wild Hunt** rules during their encounter.
 
-Wild Hunt combat revolves around four things:
-
-| Mechanic | What it represents |
-|---|---|
-| **Injury** | The creature's lasting deterioration across the fight. |
-| **Open Wounds** | Temporary opportunities to strike exposed anatomy. |
-| **Broken Parts** | Lasting damage that disables or weakens specific capabilities. |
-| **Exertion** | How tired the creature has become from fighting. |
+<div class="wild-mechanics">
+  <div class="wild-mechanic"><span>01</span><strong>Injury</strong><small>The creature's lasting deterioration as the Hunt goes on.</small></div>
+  <div class="wild-mechanic"><span>02</span><strong>Open Wounds</strong><small>Short-lived opportunities to strike exposed anatomy.</small></div>
+  <div class="wild-mechanic"><span>03</span><strong>Broken Parts</strong><small>Lasting damage that disables or weakens specific capabilities.</small></div>
+  <div class="wild-mechanic"><span>04</span><strong>Exertion</strong><small>How hard the monster has pushed itself and how tired it has become.</small></div>
+</div>
 
 Some large monsters can also be **Clung to**, allowing hunters to climb across their bodies to reach otherwise difficult locations.
 
@@ -187,17 +257,11 @@ Not every Hunt target uses every rule on this page. The creature's profile will 
 ## Clinging
 {:#clinging}
 
-**Clinging** is a special Grapple state used when you attach yourself to part of a large creature instead of attempting to wrestle its entire body.
-
-Clinging uses the normal **Grapple Control** system.
+**Clinging** is a special Grapple state used when you attach yourself to part of a large creature instead of attempting to wrestle its entire body. Clinging uses the normal **Grapple Control** system.
 
 A climbable monster has connected body locations, such as:
 
-**Forelegs ↔ Shoulders ↔ Back ↔ Head**
-
-with another connection such as:
-
-**Back ↔ Tail**
+<div class="hunt-callout"><div class="callout-label">Example Climb Route</div><strong>Forelegs ↔ Shoulders ↔ Back ↔ Head</strong><br><span>with <strong>Back ↔ Tail</strong> as another connection.</span></div>
 
 These locations determine where you can climb and which body parts you can easily reach. They do not have separate Vitality totals.
 
@@ -226,35 +290,11 @@ Normal Grapple Control losses still apply to your own actions, damage you receiv
 
 The creature attacking somebody else does **not** cause it to lose Control against you.
 
-### Secure Grip
-
-**Speed:** 5  
-**Stamina:** 5  
-**Control:** 0
-
-Make a Grapple Offense check against the creature's Grapple Defense.
-
-On a success, shift **3 Control** toward yourself.
-
-**Grip Fighting's Reposition Link** can be used with Secure Grip.
-
-### Clamber
-
-**Speed:** 6  
-**Stamina:** 8  
-**Control:** 2
-
-Move from your current Climbable Location to an adjacent location.
-
-You must have at least **2 Control in your favour** before paying the Control cost.
-
-You arrive Clinging to the new location.
-
-### Release
-
-**Speed:** 0
-
-End your Cling voluntarily on your action. Resolve any resulting movement or fall normally.
+<div class="cling-actions">
+  <div class="cling-action"><h4>Secure Grip</h4><div class="action-cost"><span>Speed 5</span><span>Stamina 5</span><span>Control 0</span></div><p>Make Grapple Offense against Grapple Defense. On success, shift <strong>3 Control</strong> toward yourself. Grip Fighting's Reposition Link can be used.</p></div>
+  <div class="cling-action"><h4>Clamber</h4><div class="action-cost"><span>Speed 6</span><span>Stamina 8</span><span>Control 2</span></div><p>Move to an adjacent Climbable Location. You must have at least <strong>2 Control in your favour</strong> before paying the cost.</p></div>
+  <div class="cling-action"><h4>Release</h4><div class="action-cost"><span>Speed 0</span></div><p>End your Cling voluntarily on your action. Resolve any resulting movement or fall normally.</p></div>
+</div>
 
 ### Attacking While Clinging
 
@@ -262,9 +302,9 @@ You may attack normally while Clinging, including using **Pummel** or other tech
 
 Your attacks affect Grapple Control normally. A climber therefore has to decide whether to secure their position, move, or risk spending their grip on another attack.
 
-When making a Called Shot against the body location you currently occupy, reduce its base Accuracy penalty from **−4 to −2**.
+<div class="hunt-stat-row"><div class="hunt-stat"><b>−2</b><span>Called Shot penalty against your occupied location</span></div><div class="hunt-stat"><b>0</b><span>Minimum penalty after other reductions</span></div></div>
 
-Apply other Called Shot reductions afterward, to a minimum penalty of 0.
+When making a Called Shot against the body location you currently occupy, reduce its base Accuracy penalty from **−4 to −2**. Apply other Called Shot reductions afterward, to a minimum penalty of 0.
 
 Clinging does not automatically turn attacks into weakspot hits. It gives you access and makes precise attacks easier.
 
@@ -272,14 +312,11 @@ Clinging does not automatically turn attacks into weakspot hits. It gives you ac
 
 Large creatures can normally attempt to throw climbers loose.
 
-**Speed:** 8  
-**Exertion:** +1
+<div class="hunt-stat-row"><div class="hunt-stat"><b>8</b><span>Speed</span></div><div class="hunt-stat"><b>+1</b><span>Exertion</span></div><div class="hunt-stat"><b>5</b><span>Monster Control to throw you off</span></div></div>
 
 The creature makes a Grapple Offense check against each Clinging hunter's Grapple Defense, resolving every climber separately.
 
-On a success, shift **3 Control** toward the creature.
-
-If this leaves the creature with at least **5 Control** against you, you are thrown off. Resolve any resulting fall normally.
+On a success, shift **3 Control** toward the creature. If this leaves the creature with at least **5 Control** against you, you are thrown off. Resolve any resulting fall normally.
 
 Some creatures have additional ways of threatening climbers, such as rolling, scraping against terrain, diving, taking flight, igniting their body, or attacking particular locations. These are listed in that creature's abilities.
 
@@ -310,9 +347,7 @@ Damage still matters normally, but major amounts of accumulated damage push the 
 | **Critical** | Its Exertion cannot recover below **6** and it can become Capture-Ready. |
 | **Felled** | It can no longer continue fighting. |
 
-These effects are cumulative.
-
-A sufficiently powerful attack may push a creature through more than one Injury stage at once.
+These effects are cumulative. A sufficiently powerful attack may push a creature through more than one Injury stage at once.
 
 Individual creatures may also change their behaviour as they become injured: a flying monster might remain grounded, a territorial creature might retreat toward its nest, or a wounded creature might begin protecting a damaged side.
 
@@ -320,15 +355,13 @@ Individual creatures may also change their behaviour as they become injured: a f
 
 Crossing an Injury Gate can create an **Open Wound** on the part of the creature that was struck. Particularly effective targeted attacks can also create Open Wounds without first crossing a Gate.
 
-An Open Wound lasts **20 IC**.
+<div class="hunt-stat-row"><div class="hunt-stat"><b>20 IC</b><span>Open Wound duration</span></div><div class="hunt-stat"><b>+25%</b><span>Final Damage when targeted</span></div><div class="hunt-stat"><b>1</b><span>Open Wound per location</span></div></div>
 
-It represents a temporary opportunity: cracked armour, exposed muscle, a damaged chakra organ, torn tissue, loosened scales, or another vulnerable piece of anatomy.
+An Open Wound represents a temporary opportunity: cracked armour, exposed muscle, a damaged chakra organ, torn tissue, loosened scales, or another vulnerable piece of anatomy.
 
 The wound closing does **not** mean the injury healed. It means the easy opening has passed.
 
-A targeted attack against an Open Wound deals **+25% Final Damage**, rounded down.
-
-Only attacks specifically directed at that location gain this bonus.
+A targeted attack against an Open Wound deals **+25% Final Damage**, rounded down. Only attacks specifically directed at that location gain this bonus.
 
 Each location can only have one Open Wound at a time, and further hits do not refresh its duration.
 
@@ -337,8 +370,6 @@ Each location can only have one Open Wound at a time, and further hits do not re
 Repeatedly exploiting an Open Wound can **Break** that body part before the opportunity closes.
 
 The creature's profile tells you the effect of breaking a particular part once that information has been discovered or becomes apparent.
-
-Examples include:
 
 | Broken Part | Possible Effect |
 |---|---|
@@ -358,9 +389,7 @@ Area attacks damage the creature normally but do not automatically exploit every
 ## Exertion
 {:#exertion}
 
-Wild Hunt Monsters use **Exertion** to represent how hard they are pushing themselves during the fight.
-
-Exertion ranges from **0 to 10**.
+Wild Hunt Monsters use **Exertion** to represent how hard they are pushing themselves during the fight. Exertion ranges from **0 to 10**.
 
 | Exertion | State | Effect |
 |---:|---|---|
@@ -388,9 +417,7 @@ Unless one of the creature's abilities says otherwise:
 | Heavy attack, major breath weapon, massive charge, powerful area attack | **+2** |
 | Exceptional signature technique | **+3**, when specifically listed |
 
-An attack generates Exertion whether it succeeds or fails.
-
-This means baiting a monster into wasting a charge, breath attack, or signature technique can be useful even if nobody damages it.
+An attack generates Exertion whether it succeeds or fails. This means baiting a monster into wasting a charge, breath attack, or signature technique can be useful even if nobody damages it.
 
 Ordinary defensive interrupts do not normally generate Exertion.
 
@@ -398,9 +425,7 @@ Ordinary defensive interrupts do not normally generate Exertion.
 
 A creature can attempt to recover during combat.
 
-**Catch Breath**  
-**Speed:** 10  
-**Delay:** 10
+<div class="hunt-stat-row"><div class="hunt-stat"><b>10</b><span>Speed</span></div><div class="hunt-stat"><b>10</b><span>Delay</span></div><div class="hunt-stat"><b>−3</b><span>Exertion on completion</span></div></div>
 
 When the Delay completes, remove **3 Exertion**, but never below the minimum imposed by the creature's Injury state.
 
@@ -413,7 +438,7 @@ Before Catch Breath completes, the recovery is spoiled if the creature:
 
 It may abandon the attempt using the normal Abort rules.
 
-Preventing a dangerous creature from successfully Catching Breath can be as important as damaging it.
+<div class="hunt-callout"><div class="callout-label">Pressure matters</div><strong>Stopping a monster from Catching Breath is progress.</strong><br><span>A hunter who keeps pressure on the creature can prevent it from undoing the Team's work even without landing the biggest attack.</span></div>
 
 ### Spent
 
@@ -442,6 +467,13 @@ Weakening a monster is not enough to capture it.
 
 A successful capture requires the Team to **injure it, exhaust it, restrain it, and secure the opportunity before it recovers or escapes**.
 
+<div class="capture-chain">
+  <div class="capture-step"><b>01</b><span>Push it to <strong>Critical</strong></span></div>
+  <div class="capture-step"><b>02</b><span>Reach <strong>8–10 Exertion</strong></span></div>
+  <div class="capture-step"><b>03</b><span>Hold it with an appropriate <strong>restraint</strong></span></div>
+  <div class="capture-step"><b>04</b><span>Complete <strong>Secure Capture</strong></span></div>
+</div>
+
 ### Capture-Ready
 
 A Wild Hunt Monster becomes **Capture-Ready** while both of these are true:
@@ -463,8 +495,7 @@ Ordinary Immobilization is not automatically enough to capture a Wild Hunt Monst
 
 ### Secure Capture
 
-**Speed:** 10  
-**Delay:** 10
+<div class="hunt-stat-row"><div class="hunt-stat"><b>10</b><span>Speed</span></div><div class="hunt-stat"><b>10</b><span>Delay</span></div></div>
 
 Requires:
 
@@ -489,22 +520,28 @@ Capture determines whether the creature is successfully taken alive. Any later a
 
 A successful Hunt is usually a chain of decisions rather than a race to empty a Vitality bar.
 
-**Before the encounter:**
+<div class="hunt-loop-panel">
+<h3>Before the Encounter</h3>
+<ol>
+<li><strong>Track it.</strong> Find the creature and learn how it moves through its territory.</li>
+<li><strong>Research it.</strong> Discover what it is and what it can do.</li>
+<li><strong>Study it.</strong> Learn what can be exploited.</li>
+<li><strong>Prepare.</strong> Build the traps, tools, routes, and countermeasures you want available.</li>
+<li><strong>Choose when to strike.</strong> More information costs more Downtime; starting sooner means accepting more unknowns.</li>
+</ol>
+</div>
 
-1. **Track it.** Find the creature and learn how it moves through its territory.
-2. **Research it.** Discover what it is and what it can do.
-3. **Study it.** Learn what can be exploited.
-4. **Prepare.** Build the traps, tools, routes, and countermeasures you want available.
-5. **Choose when to strike.** More information costs more Downtime; starting sooner means accepting more unknowns.
+<div class="hunt-loop-panel">
+<h3>During the Encounter</h3>
+<ol>
+<li><strong>Injure it.</strong> Push the creature through its Injury stages.</li>
+<li><strong>Create openings.</strong> Target important locations and watch for Open Wounds.</li>
+<li><strong>Exploit them.</strong> Coordinate attacks before those openings close.</li>
+<li><strong>Break important parts.</strong> Remove dangerous attacks, mobility, armour, or other capabilities.</li>
+<li><strong>Wear it down.</strong> Force Exertion and prevent it from successfully Catching Breath.</li>
+<li><strong>Climb when necessary.</strong> Reach locations that cannot safely be attacked from the ground.</li>
+<li><strong>Choose the ending.</strong> Fell the creature, drive it away, or hold it at Critical long enough to secure a capture.</li>
+</ol>
+</div>
 
-**During the encounter:**
-
-1. **Injure it.** Push the creature through its Injury stages.
-2. **Create openings.** Target important locations and watch for Open Wounds.
-3. **Exploit them.** Coordinate attacks before those openings close.
-4. **Break important parts.** Remove dangerous attacks, mobility, armour, or other capabilities.
-5. **Wear it down.** Force Exertion and prevent it from successfully Catching Breath.
-6. **Climb when necessary.** Reach locations that cannot safely be attacked from the ground.
-7. **Choose the ending.** Fell the creature, drive it away, or hold it at Critical long enough to secure a capture.
-
-A dangerous monster is more than a large pool of Vitality. A Hunt is about **learning the creature, changing the fight, and creating the opportunity to finish it on your terms.**
+<div class="hunt-callout"><div class="callout-label">The point of the system</div><strong>A dangerous monster is more than a large pool of Vitality.</strong><br><span>A Hunt is about learning the creature, changing the fight, and creating the opportunity to finish it on your terms.</span></div>
