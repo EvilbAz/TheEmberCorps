@@ -1698,7 +1698,7 @@ Samsara does not gain **Willpower.** And cannot access or use it in any way, sha
 
 A Samsara can prepare for their next life. By spending 1 Downtime Slot, you may establish a Soul Anchor.
 
-An Anchor is a prepared combination of seals, Chakra imprinting and whatever physical vessel or method your character uses to facilitate their return. You may only possess one active Soul Anchor at a time. Creating another destroys the previous Anchor. An Anchor is a physical thing somewhere in the world.
+An Anchor is a prepared combination of seals, Chakra imprinting and whatever physical vessel or method your character uses to facilitate their return. You may possess multiple active Soul Anchors at once, up to a maximum of 4 + (XP Earned / 1000), rounded down. You cannot establish another Soul Anchor while at this maximum unless one of your existing Anchors has first been consumed or destroyed. An Anchor is a physical thing somewhere in the world.
 
 It may be hidden. It may be moved. It may be found. And it may be destroyed.
 
