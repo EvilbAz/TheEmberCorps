@@ -7258,6 +7258,7 @@ Choose one mounted thrown weapon used with Ninja Wire. Once per 10 IC after an A
 **Starting Features**
 
 * Bakuton users begin with Elemental Aptitude for Doton and Raiton and gain Elemental Affinity: Bakuton. Bakuton does not include Doton or Raiton in its Affinity and ordinary Doton or Raiton techniques cannot be converted into Bakuton unless a feature explicitly allows it. Damaging Bakuton techniques inflict Energy Wounds unless stated otherwise.
+* When Sudden Attack modifies a Bakuton Taijutsu, increase that technique's Chakra cost by 3 per stack of Sudden Attack applied.
 
 ## Passives
 {:#passives-18}
@@ -7369,7 +7370,7 @@ Backblast cannot Link to itself.
 
 **Type:** Taijutsu, Rank E  
 **Chakra:** 8  
-**Damage:** 10d6\!\>5  
+**Damage:** 8d6\!o\>5  
 **Accuracy:** \+1  
 **Range:** Melee  
 **Speed:** 6  
@@ -7424,7 +7425,7 @@ On success the Attack is Parried and the attacker suffers this technique's Blast
 
 **Type:** Taijutsu, Rank D  
 **Chakra:** 16  
-**Damage:** 14d12\!\>8  
+**Damage:** 12d10\!o\>8  
 **Accuracy:** \+1  
 **Range:** Melee  
 **Speed:** 10  
@@ -7478,7 +7479,7 @@ Place up to five invisible explosive nodes in the area. Each has Stealth TN 20 \
 
 **Type:** Bakuton Ninjutsu, Rank C  
 **Chakra:** 22  
-**Damage:** 25d10\!\>5  
+**Damage:** 18d10\!o\>8  
 **Range:** 20  
 **Area:** 10  
 **Speed:** 15  
