@@ -17,7 +17,7 @@ Water (Suiton)
 
 Water is at a disadvantage among elemental jutsu in that it requires raw material to use (earth techniques do as well, but it's rare to find oneself in a situation without ground).Unless the fight is taking place near a river (a small stream won't cut it) or a lake, or, say, on a boat, it's not going to be from the environment.
 
-Accordingly, most water jutsu tend to be very weak or have limited effectiveness unless the shinobi supplies enough “Gallons of Water”, not to mention quite costly. However, using enough gallons of water can turn an ineffectual technique into quite a fearsome force. Even water, in enough quantity, can be turned into a destructive tsunami. 
+Accordingly, most water jutsu tend to be very weak or have limited effectiveness unless the shinobi supplies enough “Gallons of Water”, not to mention quite costly. However, using enough gallons of water can turn an ineffectual technique into quite a fearsome force. Even water, in enough quantity, can be turned into a destructive tsunami.
 
 Using “Gallons of Water” is quite easy, you simply mention how many Gallons you are investing into a Jutsu when you use it, and modify its “G” (Standing for, you guessed it, Water) variable according to how many Gallons you chose. Though it should be kept in mind that most Suiton Jutsus have a minimum and a maximum amount of Water you can invest into it (Typically displayed like this: 4 \> 12 Gallons of Water), anything more or less and the technique breaks down. If a Technique has a Gallon requirement of 0, that means you may use it without spending any Water on it, though that also means it’ll be quite weak.
 
@@ -25,7 +25,7 @@ Only one quarter of Gallons invested in a Suiton jutsu are consumed (rounded up)
 
 There are two primary ways to bring water into a battle where there otherwise is none: the first is to physically carry it, typically in a large gourd (see the Equipment chapter). The other is the D rank Water Creation Technique, which may add Gallons of Water to the Background, making those Gallons accessible to everybody in the battlefield until the Water is used up.
 
-Used water is typically scattered across the battlefield, or evaporates back into the atmosphere as pure chakra, meaning it cannot be used in a technique again--it is lost. 
+Used water is typically scattered across the battlefield, or evaporates back into the atmosphere as pure chakra, meaning it cannot be used in a technique again--it is lost.
 
 You can't use water someone else is carrying into battle (Like through a Container), but water in the Background or environment is fair game.
 
@@ -67,7 +67,7 @@ Speed: \+G
 Seal Speed: G\*3  
 Gallons Requirement: 1 \> 90  
 Tags: Link  
-Effects: This is used alongside a Dodge Interrupt, and provides it with a \+G bonus. After your first time using this in a Combat Encounter, your enemies begin to see it coming. Each time you wish to use it, make an opposed Espionage vs their Espionage, with a \+5 for each time they’ve made this check this combat, on a success apply the effects as normal, on a failure you instead gain \+G/2 to your dodge. Each time you fail for this combat the divisor of this increases by 1 (G/2, G/3, G/4, G/5…) 
+Effects: This is used alongside a Dodge Interrupt, and provides it with a \+G bonus. After your first time using this in a Combat Encounter, your enemies begin to see it coming. Each time you wish to use it, make an opposed Espionage vs their Espionage, with a \+5 for each time they’ve made this check this combat, on a success apply the effects as normal, on a failure you instead gain \+G/2 to your dodge. Each time you fail for this combat the divisor of this increases by 1 (G/2, G/3, G/4, G/5…)
 
 ## D-Rank
 {:#d-rank-9}
@@ -156,7 +156,7 @@ Seal Speed: 9
 Accuracy: \+X/4  
 Gallons Requirement: 2 \> 8  
 Tags: Attack, Projectile, Blunt  
-Effects: You fire G number of projectiles and can direct them at a single target or split them between any number of targets. The X for this jutsu is determined by the number of projectiles thrown at each individual target. 
+Effects: You fire G number of projectiles and can direct them at a single target or split them between any number of targets. The X for this jutsu is determined by the number of projectiles thrown at each individual target.
 
 #### Suiton: Teppoudama - Water Release: Liquid Bullet
 {:#suiton-teppoudama-water-release-liquid-bullet}
@@ -222,7 +222,7 @@ Gallons Requirement: 5\*X
 Tags: Utility, Clone  
 Effects: You create X clones following all Bushin rules with the following exceptions:
 
-A clone can be created with a Sword (From the Standard Equipment options) in hand by spending an additional 2 Gallons of Water on each clone. You may spend up to your Chakra Control \- 5 Artisan Points on upgrading these swords, splitting it between all of your clones. 
+A clone can be created with a Sword (From the Standard Equipment options) in hand by spending an additional 2 Gallons of Water on each clone. You may spend up to your Chakra Control \- 5 Artisan Points on upgrading these swords, splitting it between all of your clones.
 
 \[1 AP\] Dodge, or Parry.  
 \[Variable AP\] Move: The clone may move around the battlefield. This costs 1 AP per 2 IC it spends moving.  
@@ -299,7 +299,7 @@ Chakra: 22
 Speed: 7  
 Seal Speed: 12  
 Tags: Interrupt, Barrier, Suiton  
-Effects: 
+Effects:
 
 Make a Ninjutsu Parry against a damaging Melee, Projectile, or AoE attack. On full success, protect only yourself unless the technique's Area explicitly fits behind the wall.
 
@@ -336,7 +336,7 @@ Requires: 12 Chakra Control
 Tags: Attack, Melee  
 Effects: If this Jutsu hits, the victim is trapped inside a sphere of water. People inside cannot take actions, but they also cannot be affected by anything outside the prison; yes, that's right, the water can even stop giant swords. It makes sense, honestly, we promise, somehow.
 
-Anyone with a Chakra Control Rank of G\*2 or above is able to mold the chakra around them to allow themselves to siphon air through the prison, meaning they can still talk and breathe. Any target with less CC, however, suffers a Suffocation 1 status every 10 IC. 
+Anyone with a Chakra Control Rank of G\*2 or above is able to mold the chakra around them to allow themselves to siphon air through the prison, meaning they can still talk and breathe. Any target with less CC, however, suffers a Suffocation 1 status every 10 IC.
 
 To maintain the water prison, you must keep one hand on it. Dodging requires you to end the effect; if you take damage, you must make a Chakra Control check against a TN of 5+(damage taken)/10 or the prison ends. Although you can't move, you can still take most other actions that are possible one-handed while maintaining the prison's upkeep.
 
@@ -398,7 +398,7 @@ Range: 30
 Speed: 20  
 Seal Speed: 20  
 Tags: Attack, Projectile, Suiton  
-Effects: 
+Effects:
 
 Requires the target to be touching a body of wat	er containing at least 20 gallons. Make up to five attacks; divide the five damage groups among targets in the same connected water.
 
@@ -416,7 +416,7 @@ Range: 20
 Speed: 14  
 Seal Speed: 18  
 Tags: Attack, Projectile, Slashing, Suiton  
-Effects: 
+Effects:
 
 Requires 8 gallons of available water or \+5 Chakra to create it.
 
@@ -465,7 +465,7 @@ Chakra: 30
 Speed: 9  
 Seal Speed: 16  
 Tags: Interrupt, Barrier, Suiton  
-Effects: 
+Effects:
 
 Use against a Projectile Ninjutsu up to B-rank. Make a Ninjutsu Parry at \-2.
 
@@ -489,7 +489,7 @@ Tags: Attack, Projectile, Blunt
 #### Suiton: Takitsubo no Jutsu: Water Release: Waterfall Basin Technique
 {:#suiton-takitsubo-no-jutsu-water-release-waterfall-basin-technique}
 
-This technique drills a hole with existing water to an underground source of water and draws it forth, forming a geyser on the surface. The issue, however, as you may have guessed, is that you already need to have water on hand to make that hole, quite a bit in fact. Rocks tend to get quite tough to dig through once you reach the "Hidden sources of water" level. Gotta spend water to make water, just the way the world works, sorry. Aside from being useful for creating a spot to relax when resting or camping out, and ensuring you'll always have a source of clean water, it, like most ninjutsu, has combat applications. 
+This technique drills a hole with existing water to an underground source of water and draws it forth, forming a geyser on the surface. The issue, however, as you may have guessed, is that you already need to have water on hand to make that hole, quite a bit in fact. Rocks tend to get quite tough to dig through once you reach the "Hidden sources of water" level. Gotta spend water to make water, just the way the world works, sorry. Aside from being useful for creating a spot to relax when resting or camping out, and ensuring you'll always have a source of clean water, it, like most ninjutsu, has combat applications.
 
 Chakra: 22  
 Speed: 10  

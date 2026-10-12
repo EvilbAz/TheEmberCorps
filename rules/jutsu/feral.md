@@ -9,11 +9,7 @@ permalink: "/rules/jutsu/feral/"
 
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
 
-The old world had names for almost everything chakra could do. The Wastes have made some of those names useless.
-
-Hunters use Feral Element for chakra pushed beyond its ordinary nature. Some learn it from another Hunter. Some pull the method from a ruin, a monster, or an environment that has spent years trying to kill them.
-
-A Feral Element does more than change a technique. It scars the fight around it. Build that Scar, hold it long enough to make the battlefield yours, then spend the advantage before the world settles back into place.
+Feral Elements are chakra natures altered by the Bloom. Hunters learn them through teachers, recovered techniques, monsters and environments in the Wastes. Each Release leaves a lingering Scar on creatures or terrain.
 
 # AT A GLANCE
 {:#at-a-glance}
@@ -25,7 +21,6 @@ A Feral Element does more than change a technique. It scars the fight around it.
 * Scars have Severity 1–5 and a Fade timer. Reapplying a Scar refreshes that timer; neglected Scars fall away.  
 * Severity 5 is Overrun. An unanchored Overrun Scar begins collapsing after 10 IC.  
 * Feral Jutsu with Upkeep Anchor the Scars they sustain, freezing their Fade timer while the Upkeep remains.  
-* Every Release follows the same combat rhythm: Establish, Build, Overrun, Exploit, Collapse, Rebuild.  
 * After three Developments, Feral Dominion unlocks alongside the Apex Mutation of your chosen Release.
 
 
@@ -34,7 +29,7 @@ A Feral Element does more than change a technique. It scars the fight around it.
 
 ***Capability Talent***
 
-Feral Elements come from rare knowledge and stranger environments. A Source can be another Feral user, a recovered technique, a monster specimen, a ruined training record, or a researched phenomenon from beyond Haven Ember. Once you have a suitable Source, learn the Talent through the normal Capability Talent rules.
+Learn this Talent from a suitable Source under the [Capability rules]({{ "/rules/talents/#enhancements-and-capabilities" | relative_url }}).
 
 ## Core Talent
 {:#core-talent}
@@ -83,11 +78,13 @@ Each Scar has Severity 1–5. Applying the same Scar again increases its Severit
 ## Scar States
 {:#scar-states}
 
-**Scarred — Severity 1–2** — The Release has established itself and begins rewarding continued pressure.
+| State | Severity |
+| :--- | :--- |
+| Scarred | 1–2 |
+| Feral | 3–4 |
+| Overrun | 5 |
 
-**Feral — Severity 3–4** — The Scar becomes a major part of the fight and unlocks the Release's stronger bonuses.
-
-**Overrun — Severity 5** — The Release has completely taken hold. Overrun effects are the strongest payoff and the shortest-lived state without an Anchor.
+Use the effects printed under that state on the relevant Release page.
 
 ## Fade
 {:#fade}
@@ -135,25 +132,10 @@ A Jutsu that changes this order states the timing in its own Effects.
 Scars belong to the battlefield. Any character with rules for the matching Feral Element can build, consume or exploit them.
 
 
-# FERAL COMBAT FLOW
+# FERAL FIELDS
 {:#feral-combat-flow}
 
-Feral Elements reward momentum rather than permanent setup. A fight naturally moves through the same six beats.
-
-**Establish** — Land the first Scar or place a Feral Field.
-
-**Build** — Reapply the Scar before Fade runs out and push it into Severity 3–4.
-
-**Overrun** — Reach Severity 5 and unlock the Release's strongest state.
-
-**Exploit** — Use an empowered Attack, Arc, Shatter, pull, ignition or Null payoff while the Scar is at its peak.
-
-**Collapse** — Spend the Scar or let Fade pull it back down.
-
-**Rebuild** — Move the fight, establish a new field, or start the same cycle again.
-
-Feral Fields are the main way to hold territory. Their Upkeep Anchors a Scar and gives the Release time to reach Overrun. Ending the field sends those Scars back into Fade.
-
+Feral Fields sustain their Scars through Upkeep. Ending the field resumes Fade. For the order of application, consumption and decay, use the Rules Reference below.
 
 ## Choose your Feral Release
 {:#choose-your-feral-release}
@@ -215,7 +197,7 @@ The first converted Jutsu you Feralize during each Action has its additional Cha
 * Calculate the Jutsu's normal costs, then add its additional Chakra cost for being Feralized.  
 * Check Scars already present for Accuracy, Damage, Wounding and other bonuses.  
 * Resolve the Attack, defenses, Damage, Status Conditions and immediate effects.  
-* Resolve any Scar consumption or cash-out written into the Jutsu.  
+* Resolve any Scar consumption written into the Jutsu.  
 * Apply the Jutsu's new Scar and set or refresh Fade.
 
 ## Scar Checks

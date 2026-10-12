@@ -23,8 +23,8 @@ If any Medical Ninjutsu technique has a listed Upkeep, that Upkeep is paid by th
 
 D: 5 Chakra Control, 5 Medicine, Medical Training (talent)  
 C: 10 Chakra Control, 15 Medicine, Medical Training (talent)  
-B: 20 Chakra Control, 25 Medicine, Advanced Medical Training (ability)  
-A: 30 Chakra Control, 35 Medicine, Advanced Medical Training (ability)
+B: 20 Chakra Control, 25 Medicine, Advanced Medical Training or Chakra Surgeon  
+A: 30 Chakra Control, 35 Medicine, Advanced Medical Training or Surgeon of the Corps
 
 ### Willing
 {:#willing}
@@ -44,7 +44,7 @@ Range: Touch
 Speed: Variable  
 Requires: Flawless Diagnosis, Willing Target  
 Tags: Utility  
-Effects: For the duration of this technique, you must keep your hands on its recipient. If you are stunned, or knocked away, it is Aborted automatically. 
+Effects: For the duration of this technique, you must keep your hands on its recipient. If you are stunned, or knocked away, it is Aborted automatically.
 
 For every IC which passes, you heal 1% of the recipient's lost Hit Points. This will not restore lost Vitality, though it will restore a person in negative Hit Points to consciousness.
 
@@ -92,7 +92,7 @@ Range: Touch
 Speed: 8  
 Seal Speed: 12  
 Tags: Utility, Medical  
-Effects: 
+Effects:
 
 A willing target ignores the penalties of one Minor or Major Wound for 30 IC. The Wound still exists for all other purposes.
 
@@ -189,7 +189,7 @@ Speed: 18
 Seal Speed: 20  
 Special: Poison 5  
 Tags: Attack, AoE, Medical, Environmental  
-Effects: 
+Effects:
 
 On a failed status Resistance roll, the target suffers Poison 5 for 15 IC. The mist remains in the Area for 15 IC; entering or beginning an action inside it requires a new Resistance roll if that creature is not already affected by this Poison Mist.
 
@@ -221,7 +221,7 @@ Area: 12
 Speed: 14  
 Seal Speed: 18  
 Tags: Utility, Medical, AoE  
-Effects: 
+Effects:
 
 All willing creatures in the Area reduce Bleed they gain by 1, minimum 0, and gain \+3 Resistance against effects that worsen an existing Wound.
 
@@ -255,7 +255,7 @@ Speed: 14
 Seal Speed: 18  
 Special: Confusion  
 Tags: Attack, Medical, Melee  
-Effects: 
+Effects:
 
 On a full hit, for 20 IC whenever the target declares a physical Action involving movement or attack, roll 1d4: 1 no change, 2 Movement is reduced 50%, 3 Accuracy \-3, 4 Action Speed \+3.
 
@@ -344,7 +344,7 @@ Speed: 20
 Delay: 10  
 Seal Speed: 28  
 Tags: Utility, Medical  
-Effects: 
+Effects:
 
 A willing target restores Vitality equal to CHA×3 and may temporarily ignore one Major Wound for 50 IC.
 

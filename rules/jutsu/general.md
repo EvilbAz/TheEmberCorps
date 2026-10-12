@@ -75,7 +75,7 @@ A basic fieldcraft technique that uses a correctly patterned cloak, sheet, or pi
 Stamina: 4  
 Speed: 6  
 Tags: Utility, Self, Stealth  
-Effects: 
+Effects:
 
 Requires a suitable cloak or improvised camouflage. While stationary and adjacent to scenery the camouflage can plausibly match, gain \+4 Stealth against checks that rely on sight.
 
@@ -103,7 +103,7 @@ A foundational escape method taught alongside the academy's other survival basic
 Stamina: 5  
 Speed: 6  
 Tags: Utility, Self  
-Effects: 
+Effects:
 
 Gain \+5 on the Athletics or Espionage roll used to escape mundane rope, wire, handcuffs, or a comparable physical restraint. You may use this technique while bound even if the restraint would normally prevent handseals.
 
@@ -151,7 +151,7 @@ Upkeep: 0
 Speed: 8  
 Seal Speed: 10  
 Tags: Utility, Self, Stealth  
-Effects: 
+Effects:
 
 While maintained, chakra-based Search and sensory checks against you suffer \-4. Ordinary sight, smell, sound, and footprints are unaffected.
 
@@ -166,7 +166,7 @@ Chakra: 10 \+ X
 Speed: 8  
 Seal Speed: 5  
 Tags: Utility  
-Effects: This can be done on yourself, or someone else, but you must be able to touch the other person when performing the jutsu. This allows the person it's used on to make another roll against a Genjutsu affecting them, with a bonus of X. X has a limit of (5+XP/300). You also gain an additional \+2 for every time you’ve used genjutsu kai in a row. 
+Effects: This can be done on yourself, or someone else, but you must be able to touch the other person when performing the jutsu. This allows the person it's used on to make another roll against a Genjutsu affecting them, with a bonus of X. X has a limit of (5+XP/300). You also gain an additional \+2 for every time you’ve used genjutsu kai in a row.
 
 Against an Area Genjutsu, the user instead rolls Genjutsu Defense against the caster's original Genjutsu Offense. On success, the Area Genjutsu is dispelled in its entirety. This can be attempted on behalf of an affected ally even before that ally Realizes the illusion.
 
@@ -207,7 +207,7 @@ Speed: 2
 Tags: Utility, Link  
 Effects: You move as far as you could in a Speed X move action, where X is how many AP you choose to spend on this technique. There is no limit on how many AP you may spend.
 
-You may use this in addition to normal movement to help dodge an area-of-effect technique by increasing its Speed by 2\. Used this way the AP cost is doubled, and the movement is added onto your regular movement for determining AoE penalties. 
+You may use this in addition to normal movement to help dodge an area-of-effect technique by increasing its Speed by 2\. Used this way the AP cost is doubled, and the movement is added onto your regular movement for determining AoE penalties.
 
 #### Utsusemi no Jutsu - Cicada Shell Technique
 {:#utsusemi-no-jutsu-cicada-shell-technique}
@@ -276,7 +276,7 @@ Range: Weapon Range
 Speed: 14  
 Seal Speed: 10  
 Tags: Attack, Projectile, Weapon  
-Effects: 
+Effects:
 
 Requires a Large thrown weapon and either wire or a second concealed thrown weapon.
 
@@ -352,7 +352,7 @@ Speed: 10
 Seal Speed: 12  
 Special: Immobilization 2  
 Tags: Attack, Mental  
-Effects: 
+Effects:
 
 Resolve against Resistance. On a full hit apply Immobilization 2 for 20 IC. This is a fear-based effect.
 
@@ -395,7 +395,7 @@ Upkeep: 5
 Speed: 10  
 Seal Speed: 14  
 Tags: Utility, Self, Stealth  
-Effects: 
+Effects:
 
 While touching a wall, ceiling, floor, large tree, or similar surface, you may immediately Hide with \+5 Stealth.
 
@@ -446,7 +446,7 @@ Range: CHA
 Speed: 12  
 Seal Speed: 18  
 Tags: Utility, Sensory, Self  
-Effects: 
+Effects:
 
 Perform a Search using Chakra Control with \+5 against creatures that possess chakra in Range. This counts as a search, and gains all benefits that a Ninja would normally gain to their searches.
 

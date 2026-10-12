@@ -9,8 +9,6 @@ permalink: "/rules/talents/"
 
 Milestone talents and rank benefits for long-term character growth.
 
-“Experience does not merely make a hunters stronger. It changes what they are capable of becoming.”
-
 # Talents, Ranks & Hunter Classes
 {:#talents-rank-benefits}
 
@@ -20,29 +18,14 @@ Milestone talents and rank benefits for long-term character growth.
 ### Introduction
 {:#introduction}
 
-Talents are things which differentiate your character from the rank-and-file hunter. Jutsu, skills, and abilities are all things which are fairly common. True, most hunter won't know A ranked Suiton jutsu--but knowing them is less a sign that one is "special", and more an indication that you're an advanced hunter.
-
-Talents are somewhere between uniques and abilities. They're not fundamental aspects of your character--they're things you've learned or developed over time that are genuinely hard to come by in an average hunters.
-
-Talents are a way of gaining rare, exclusive abilities for your character. They do not cost XP.
+Talents grant rare training or exceptional aptitude. Spend Talent Points to learn a Core Talent or develop one you already possess. Talents do not cost XP.
 
 ### Acquiring Talents
 {:#acquiring-talents}
 
-You get talent points automatically as your character gains experience. You get talents at the following XP milestones:
+Gain one Talent Point at **1,000, 2,500, 4,000, 5,000 and 6,500 total XP**, then every 1,500 XP thereafter. A character at 3,000 XP has two Talent Points. Unspent points may be saved.
 
-1000  
-2500  
-4000  
-5000  
-6500  
-And every 1500 XP afterwards (8000, 9500, etc.)
-
-Thus, a 3000 XP character would have two talents!
-
-You don't have to choose talents as soon as they're accessible. If you get to 1000 XP and aren't sure what you want, it's perfectly alright to hold off until later. There are no penalties for waiting until later to pick talents. You can take "Enhancement" talents repeatedly, whereas most "Capability" talents can only be taken once.  
-  
-All Capabilities require a mentor to teach you the ways of that talent. Follow the Downtime chapter on how to discover mentors.
+Learn each Talent once unless its entry explicitly allows multiple selections. Further points normally purchase Developments.
 
 ### Learning and Deepening Talents
 {:#learning-and-deepening-talents}
@@ -55,13 +38,13 @@ Deepen a Talent — Choose one Development from a Talent you already possess. Un
 
 When you possess three Developments from the same Talent, you automatically gain that Talent's Mastery. Mastery does not cost an additional Talent Point.
 
-A Talent should normally provide at least two of the following: permission to use something rare, a new Action or technique, an interaction with an existing system, or somewhere meaningful for the Talent to progress.
+Talent-granted Actions follow the normal Speed, cost and timing rules unless they state an explicit exception. A Development’s listed minimum does not waive the ordinary half-base-Speed or minimum-3 limits.
 
 ### Enhancements and Capabilities
 {:#enhancements-and-capabilities}
 
-Enhancements represent exceptional aptitude, conditioning, instinct, or personal development. They do not require a mentor or external source.
+**Enhancements** represent aptitude, conditioning or personal development. They require no external Source.
 
-Capabilities represent rare bodies of knowledge. To learn the Core Talent of a Capability, you must have a suitable Source. A Source might be a mentor, recovered manual, old training record, breeder, trained specimen, faction, ruin, captured technique, or another discovery made during play. Once you have a valid Source, the Talent itself should not require bespoke staff design unless it explicitly says otherwise.
+**Capabilities** require a suitable Source of knowledge or training. This may be a mentor, recovered manual, training record, specimen, faction or discovery relevant to that Talent. A GM confirms that the Source meets its requirements. Use [Mentoring]({{ '/rules/core/#mentoring' | relative_url }}) to find a teacher through Downtime.
 
-Developments may be learned from the same Source unless their text establishes a new requirement.
+The same Source may teach Developments unless an entry requires additional training or another discovery.

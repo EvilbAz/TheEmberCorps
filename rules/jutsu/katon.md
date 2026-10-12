@@ -130,7 +130,7 @@ Effects: You craft a Polearm upgrading it using X Artisan Points up to your Chak
 The Polearm(s) gains the following effects and Upgrade:  
 The Polearm lasts until you let go of it or end this Technique’s Upkeep  
 You may perform Handseals for Katon jutsu by increasing the Seal Speed by 4 per weapon  
-The weapon has a third of its normal Durability 
+The weapon has a third of its normal Durability
 
 (3) Your weapon gains a Ignite 2 or \+1 to Ignite from this weapon. Max 1
 
@@ -234,7 +234,7 @@ Speed: 12
 Seal Speed: 14  
 Special: Ignite 3  
 Tags: Attack, Projectile, Energy  
-Effects: 
+Effects:
 
 Before rolling Accuracy, you may pay \+4 Chakra to split the prepared oil into a second Flame Bullet. The second bullet must target a different creature within 10 yards of the first target, uses the same Accuracy roll at \-2, and deals 75% of the listed damage.
 
@@ -253,7 +253,7 @@ Speed: 14
 Seal Speed: 14  
 Special: Ignite 4  
 Tags: Attack, AoE, Energy, Katon  
-Effects: 
+Effects:
 
 Flammable unattended objects in the Area ignite after the Attack resolves.
 
@@ -272,7 +272,7 @@ Speed: 14
 Seal Speed: 16  
 Special: Ignite 4  
 Tags: Attack, AoE, Environmental, Katon  
-Effects: 
+Effects:
 
 The ash cloud persists for 30 IC and gives \-2 Visibility inside.
 
@@ -354,7 +354,7 @@ Speed: 12
 Seal Speed: 20  
 Special: Ignite X/2  
 Tags: Attack, Projectile, Energy  
-Effects: X is your Cremation upkeep which is increased as you cast this jutsu and has a max of 10\. When used consecutively it does not require handseals. After using Instant Cremation, you gain or increase your Cremation Upkeep by 2 which you may end as a Speed 0 action, or immediately after using Instant Cremation. This Cremation Upkeep does not interact with Uniques or Wounds which affect normal Upkeeps. 
+Effects: X is your Cremation upkeep which is increased as you cast this jutsu and has a max of 10\. When used consecutively it does not require handseals. After using Instant Cremation, you gain or increase your Cremation Upkeep by 2 which you may end as a Speed 0 action, or immediately after using Instant Cremation. This Cremation Upkeep does not interact with Uniques or Wounds which affect normal Upkeeps.
 
 For example, if you had used Instant Cremation three times, you would have an Upkeep 6, and your next use of it would increase it to 8 for 8d20\!\>12 damage.
 
@@ -368,7 +368,7 @@ Damage: 8d10\!o\>8
 Speed: 8  
 Seal Speed: 12  
 Tags: Interrupt, Katon, Energy  
-Effects: 
+Effects:
 
 Parry an incoming damaging Melee or Projectile attack using Ninjutsu Accuracy. This works against elements neutral to Katon up to B-rank, weak to Katon up to A-rank, and strong against Katon only up to C-rank.
 
@@ -420,7 +420,7 @@ Speed: 20
 Seal Speed: 22  
 Special: Ignite 5  
 Tags: Attack, Projectile, Energy, Katon  
-Effects: 
+Effects:
 
 X may be 1 to 3\. Make a separate Accuracy Roll for each flame and divide the listed Base Damage dice evenly between the flames selected.
 
@@ -493,7 +493,7 @@ Damage: 50d12\!\>10
 Speed: 20  
 Seal Speed: 30  
 Tags: Attack, Melee, Energy  
-Effects: Whoever you hit with this technique becomes a living bomb but it initially does not deal any damage. When you place this technique, you also set a timer, between 10 IC and (your Chakra Control skill ranks)\*5 IC. At that point, they will detonate. 
+Effects: Whoever you hit with this technique becomes a living bomb but it initially does not deal any damage. When you place this technique, you also set a timer, between 10 IC and (your Chakra Control skill ranks)\*5 IC. At that point, they will detonate.
 
 You may also perform a Speed 5, Seal Speed 20 action to detonate someone immediately. When a person is detonated, they make a Chakra 30 roll; whether they pass or fail has no effect on the technique, though as normal they might advance in Fatigue.
 

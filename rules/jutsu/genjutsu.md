@@ -54,7 +54,7 @@ Additionally, each time a genjutsu is successfully used against you in combat, y
 ### Breaking Genjutsu
 {:#breaking-genjutsu}
 
-By their nature, it's hard to realize that one is suffering from the effects of a genjutsu technique. It's possible to be afflicted by a genjutsu that you know and use frequently, with obvious 'tells', and still mistake it for reality--such is the nature of delusions. 
+By their nature, it's hard to realize that one is suffering from the effects of a genjutsu technique. It's possible to be afflicted by a genjutsu that you know and use frequently, with obvious 'tells', and still mistake it for reality--such is the nature of delusions.
 
 Every combat Genjutsu states when its victim Realizes the illusion. For Realizes entries, X means the margin by which the user's Genjutsu Offense beat that target's Genjutsu Defense, unless the entry defines another variable. Realization cannot occur later than the technique's remaining Duration; if its Duration ends first, the illusion ends without a separate Realize action. Once the target Realizes, they may attempt Genjutsu Kai or any special escape method explicitly listed by that technique. Merely realizing an illusion does not end it.
 
@@ -103,11 +103,11 @@ Realizes: 5 \+ X IC
 
 This jutsu allows a ninja to conceal small (or sometimes not so-small) items on their person or in their grasp. This is a fantastic technique for smuggling items or transporting them in secrecy, its utility counteracted only by its vulnerabilities.
 
-Chakra: 10   
-Upkeep: 2   
-Speed: 10   
-Seal Speed: 8   
-Duration: 1 Hour   
+Chakra: 10  
+Upkeep: 2  
+Speed: 10  
+Seal Speed: 8  
+Duration: 1 Hour  
 Tags: Utility, Self, Indirect  
 Effects: This completely hides an object from casual observation. For the entire duration the object must remain close to you (like held or in a belt holster). Against a detailed search, it gives a \+5 bonus to any rolls to keep it hidden, and allows the object to hide in plain sight. If the object interacts with the rest of the world (such as being touched, taking a swing with a weapon, or using a key to open a door) the concealment ends.
 
@@ -237,7 +237,7 @@ Speed: 14
 Seal Speed: 16  
 Special: Perceived Range ±3 yards  
 Tags: Attack, Direct, Genjutsu, Visual  
-Effects: 
+Effects:
 
 On a full hit, for 20 IC the target treats all hostile creatures as 3 yards farther from or closer to them, chosen when cast, for Range and Move-with-Attack calculations.
 
@@ -256,7 +256,7 @@ Speed: 12
 Seal Speed: 14  
 Special: Stun 4  
 Tags: Attack, Direct, Genjutsu, Tactile  
-Effects: 
+Effects:
 
 Choose Head, Torso, Arm, or Leg. On a full hit, for 20 IC the target suffers the effect of a Minor Wound in that location without actually receiving a Wound.
 
@@ -361,7 +361,7 @@ Speed: 16
 Seal Speed: 20  
 Special: Stun 5  
 Tags: Attack, Direct, Genjutsu, Auditory  
-Effects: 
+Effects:
 
 On a full hit, apply Stun 5\. For 25 IC, the victim suffers \-4 Awareness when relying on sound, \+3 Final Seal Speed on techniques requiring handseals, and \+3 Final Speed on its first defensive Interrupt against each incoming hostile Action. These Speed increases do not override expressly stated minimums. Echo Chamber cannot affect creatures unable to hear its initial sound.  
 Realizes: 8 \+ X IC
@@ -373,12 +373,12 @@ If they are completely deaf or inside an effect that prevents sound from reachin
 
 This genjutsu makes its unfortunate victim believe that a large tree has suddenly grown behind them through the use of some manner of ninjutsu, and pinned them against its trunk by exceptionally-strong, chakra-animated branches.
 
-Chakra: 32    
-Upkeep: 5    
-Range: 20     
-Speed: 25    
-Seal Speed: 25    
-Duration: 80 IC    
+Chakra: 32  
+Upkeep: 5  
+Range: 20  
+Speed: 25  
+Seal Speed: 25  
+Duration: 80 IC  
 Tags: Attack, Direct  
 Effects: On a full hit, inflict Immobilization 10\. Beginning once the victim Realizes the illusion, it may attempt Genjutsu Defense against the caster's original Offense every 20 IC; each attempt after the first gains a cumulative \+3. A success ends Tree Binding. Effects that normally reduce Immobilization penalties do not reduce this technique's Immobilization.
 
@@ -396,7 +396,7 @@ Speed: 18
 Seal Speed: 22  
 Special: Stun 6, Immobilization 4, illusory Suffocation 2  
 Tags: Attack, Direct, Genjutsu, Visual, Tactile  
-Effects: 
+Effects:
 
 On a full hit, apply Stun 6, Immobilization 4 (fear-based) and illusory Suffocation 2 for 20 IC. Until the illusion ends, whenever the victim declares an Attack or a Jutsu requiring handseals, that Action gains \+2 Final Speed and its illusory Suffocation increases by 1, maximum 6\. Before declaring an Action, the victim may instead spend a Speed 6 Utility Action to regain composure and reduce illusory Suffocation by 2\. This illusion imposes ordinary Suffocation penalties but does not represent actual loss of oxygen. Genjutsu Kai works normally once Realized.
 
@@ -524,7 +524,7 @@ Seal Speed: 40
 Tags: Indirect  
 Effects: This may only be used on a helpless or willing subject. No matter how extreme this technique is, it can't alter one's subconscious. You cannot forget abilities, jutsu, or your name. You might forget a person you met, but they'd always be slightly familiar.
 
-On a willing recipient, the technique is incredibly potent. It can suppress virtually any amount of a person's memories, and can even be used to alter existing memories or create wholly fabricated ones. 
+On a willing recipient, the technique is incredibly potent. It can suppress virtually any amount of a person's memories, and can even be used to alter existing memories or create wholly fabricated ones.
 
 On a helpless but unwilling target, make Genjutsu Offense against its Genjutsu Defense. Let M be your margin of success; on failure no memories change. On success, set X \= 1 \+ (M/3 rounded down), maximum 24\. You may erase or alter up to X hours of memories from within the past X days. You must identify the events targeted, and cannot erase secret details you do not know exist. Memories outside that window are unaffected.
 

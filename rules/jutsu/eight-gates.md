@@ -29,15 +29,15 @@ As mentioned, there are eight gates, but learning how to open each one is an end
 
 When the gates are opened, you have access to a special, second pool of Action Points, starting at 0 and with a maximum of half your normal AP maximum (in other words, AGI/4), called Gate Action Points Pool (GAP Pool).
 
-AP provided by the gates (listed under "AP Gain" in their respective entries) goes into your GAP pool. GAP may only be spent on the following things: 
+AP provided by the gates (listed under "AP Gain" in their respective entries) goes into your GAP pool. GAP may only be spent on the following things:
 
-- Reducing the Speed of taijutsu attacks 
+- Reducing the Speed of taijutsu attacks
 
-- Abilities provided by the gates 
+- Abilities provided by the gates
 
-- The ability Principle of Motion 
+- The ability Principle of Motion
 
-- The ability Surge (though if improving Accuracy, only for unarmed attacks) 
+- The ability Surge (though if improving Accuracy, only for unarmed attacks)
 
 Your regular AP may still be spent normally, as well as on abilities provided by the gates.
 
@@ -48,7 +48,7 @@ Once you're able to access the gates, you gain the following two actions:
 
 (Speed 5 \+ 3 \* X, Stamina 15 \+ 5 \* X) You open one or more of the eight gates. By default, this opens only a single gate; you may choose to open several at once, for a total of 1 \+ X gates. Doing this, however, drastically increases the strain put upon your body, causing you to immediately suffer X wounds (as described in Wounding, below). If you are in stealth this reduces your TN by 10 per gate open.
 
-For example, if you had three gates open, and wanted to open two more, it would be a Speed (5 \+ 3\*2) 11 action, with a Stamina cost of (15 \+ 5\*2) 25, and you'd suffer 2 wounds.
+For example, opening two additional Gates uses X = 1: Speed 8, Stamina 20 and one immediate self-inflicted Wound.
 
 #### Close Gates
 {:#close-gates}
@@ -62,9 +62,9 @@ As mentioned above, using the gates is devastating, in no small part because doi
 
 (5 \* (gate opened) \+ (final speed) \+ (AP used))%
 
-For example, say you had opened the second gate and used a basic unarmed attack (Speed 8), and spent 4 AP to reduce it down to Speed 4\. After performing your action you'd roll 1d100, and on a roll of (4\*2 \+ 4 \+ 4\) \= 16 or lower, you'd immediately suffer a wound.
+For example, with Gate 2 open, a Speed 8 unarmed attack reduced to Speed 4 by spending 4 AP gives a self-wounding chance of (5 × 2) + 4 + 4 = 18%. Roll 1d100; a result of 18 or lower inflicts a Wound.
 
-These wounds cannot be prevented or reduced in severity. The gates inflict Blunt wounds. When you suffer one, roll for location.
+These Wounds cannot normally be prevented or reduced in severity. Perfected Release explicitly permits one reduction per battle for Gate 6 or lower. The gates inflict Blunt wounds. When you suffer one, roll for location.
 
 The first wound you suffer on a given location in a single week (real-world day) from the gates is a Minor wound. The second is a Major, the third a Severe, and the fourth a Critical.
 

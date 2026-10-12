@@ -21,7 +21,7 @@ permalink: "/rules/jutsu/bow/"
 #### Marking Shot
 {:#marking-shot}
 
-The first arrow is used to establish a sightline rather than chase immediate damage. Once the mark is in place, the next Bow Chain 2 has a clearer reference for where the target is moving.
+The first arrow is used to establish a sightline rather than chase immediate damage.
 
 Rank: E  
 Stamina: \+3  
@@ -34,7 +34,7 @@ Effects: Bow only. On a full hit, apply your Bow Mark to the target for 20 IC. Y
 #### Pinning Shot
 {:#pinning-shot}
 
-The arrow is aimed to catch cloth, gear, or flesh against the environment. The technique gets stronger near solid terrain because the shot has something physical to pin the target against.
+The arrow is aimed to catch cloth, gear, or flesh against the environment.
 
 Rank: E  
 Stamina: \+3  
@@ -47,7 +47,7 @@ Effects: Bow only. Resolve the Immobilization Special normally. Against a target
 #### Angle Shot
 {:#angle-shot}
 
-The release is chosen for a route the defender was not guarding—high, oblique, or around partial cover. It also tests whether the opponent keeps reaching for the same defensive answer.
+The release is chosen for a route the defender was not guarding—high, oblique, or around partial cover.
 
 Rank: E  
 Stamina: \+5  
@@ -59,7 +59,7 @@ Effects: If the target uses the Cover Interrupt against this Attack, reduce Cove
 #### Multiple Shot
 {:#multiple-shot}
 
-The bow is used as a platform for several distinct releases in one action. The user decides how many arrows matter and where they go, trading concentrated Speed×PDB for multiple wound checks that combine only when appropriate.
+The bow is used as a platform for several distinct releases in one action.
 
 Rank: E  
 Stamina: \+8  
@@ -96,7 +96,7 @@ Effects: Fire a volley; attack all chosen creatures in Area. Each target takes w
 #### Twin Arrow
 {:#twin-arrow}
 
-Two arrows share one draw and release timing but remain separate attacks. The target has to solve both trajectories while the user accepts that each arrow carries less of the total force.
+Two arrows share one draw and release timing but remain separate attacks.
 
 Rank: D  
 Stamina: \+8  
@@ -107,7 +107,7 @@ Effects: Fire two arrows at the same target, each at 60% final damage. Roll sepa
 #### Precision Shot
 {:#precision-shot}
 
-The final arrow is chosen for penetration and wound placement. A previous mark can be deliberately spent to turn the finisher into a more accurate shot instead of leaving the setup unused.
+The final arrow is chosen for penetration and wound placement.
 
 Rank: D  
 Stamina: \+11  
@@ -120,7 +120,7 @@ Effects: \+10% Wounding. Reduce the target Armor’s Absorption by 10% for this 
 #### Cutting Arrow
 {:#cutting-arrow}
 
-An arrow is fired at another projectile rather than the attacker. It is an expensive kind of parry because the ammunition is spent either way, but it lets a bow answer threats most ranged weapons cannot.
+An arrow is fired at another projectile rather than the attacker.
 
 Rank: D  
 Stamina: 6  
@@ -131,7 +131,7 @@ Effects: Fire at an incoming Ranged Taijutsu projectile and Parry it with \+1. T
 #### Held Draw
 {:#held-draw}
 
-The bow is held in a disciplined firing posture, the sightline settling more firmly each moment the target remains predictable. Large movements force the user to rebuild that alignment.
+The bow is held in a disciplined firing posture, the sightline settling more firmly each moment the target remains predictable.
 
 Rank: D  
 Stamina: 9  
@@ -198,7 +198,7 @@ Effects: Requires solid terrain within 2 yards of the target. On a full hit, anc
 #### Sightline
 {:#sightline}
 
-The user spends a moment reading sightline, cover, air, and target movement before firing. The payoff is temporary certainty: better information turns into ignored Visibility or Cover penalties and a longer effective range.
+The user spends a moment reading sightline, cover, air, and target movement before firing.
 
 Rank: B  
 Stamina: 9  

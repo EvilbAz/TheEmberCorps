@@ -38,7 +38,7 @@ Range and Movement: A Weapon Grapple does not cause the wielder and target to au
 #### Casting Lash
 {:#casting-lash}
 
-The chain is cast past the target and tensioned back through them, so Range and pull are part of the same action. The goal is to make the opponent fight the line you chose, not the one they began on.
+The chain is cast past the target and tensioned back through them, so Range and pull are part of the same action.
 
 Rank: E  
 Stamina: \+3  
@@ -50,7 +50,7 @@ Effects: Gain \+4 Range. On a full hit, initiate a Weapon Grapple with the targe
 #### Ankle Catch
 {:#ankle-catch}
 
-The lowest loop of the chain is used to attack footing rather than flesh. The user can trade damage for a trip or short Immobilization depending on whether immediate posture or continued movement matters more.
+The lowest loop of the chain is used to attack footing rather than flesh.
 
 Rank: E  
 Stamina: \+3  
@@ -63,7 +63,7 @@ Effects: On a full hit, you may deal 20% less final damage and initiate a Weapon
 #### Reel and Strike
 {:#reel-and-strike}
 
-The chain does not go slack after the first contact. It reels the target toward the user, and if the target cannot be moved the stored tension is converted into extra impact instead.
+The chain does not go slack after the first contact.
 
 Rank: E  
 Stamina: \+5  
@@ -89,7 +89,7 @@ Effects: Called Shot to Head/Neck with its penalty reduced by 1\. Apply Stun 2 n
 #### Moving Coil
 {:#moving-coil}
 
-The chain is kept alive around the body like a moving perimeter. It buys both projectile defense and extra threat range, but a badly failed parry can collapse the whole pattern.
+The chain is kept alive around the body like a moving perimeter.
 
 Rank: E  
 Stamina: 5  
@@ -101,7 +101,7 @@ Effects: While maintained, gain \+1 Parry against Ranged Taijutsu and \+3 Range 
 #### Wide Lash
 {:#wide-lash}
 
-The chain sweeps across a lane instead of hunting one body. A strong hit can pull a target toward the centre of that lane, shaping the group rather than only damaging it.
+The chain sweeps across a lane instead of hunting one body.
 
 Rank: E  
 Stamina: \+6  
@@ -118,7 +118,7 @@ Effects: Attack all chosen enemies in the line. Resolve the Knockback Special se
 #### Cross Snare
 {:#cross-snare}
 
-Two lines of chain close around one limb. The user decides whether taking away an arm’s clean Accuracy or a leg’s movement is more valuable than trying to control the entire body at once.
+Two lines of chain close around one limb.
 
 Rank: D  
 Stamina: \+8  
@@ -144,7 +144,7 @@ Effects: Requires the target to be in your Weapon Grapple. This technique gains 
 #### Side Anchor
 {:#side-anchor}
 
-Scenery becomes part of the weapon. By routing the chain around an anchor, the user can attack from an angle cover was not protecting and make line-of-effect a tactical choice.
+Scenery becomes part of the weapon.
 
 Rank: D  
 Stamina: 5  
@@ -155,7 +155,7 @@ Effects: Anchor the chain around scenery or change its attack angle. Your next C
 #### Coiled Guard
 {:#coiled-guard}
 
-The weapon is coiled into a defensive orbit close enough to parry melee attacks while still threatening at range. A clean defense can be turned into a small positional correction on the attacker.
+The weapon is coiled into a defensive orbit close enough to parry melee attacks while still threatening at range.
 
 Rank: D  
 Stamina: 9  
@@ -183,7 +183,7 @@ Effects: Requires the target to be in your Weapon Grapple. This technique gains 
 #### Slip Step
 {:#slip-step}
 
-The user moves through their own slack instead of dragging the weapon behind them. The next cast begins from a longer, stranger line because the chain was never allowed to settle.
+The user moves through their own slack instead of dragging the weapon behind them.
 
 Rank: C  
 Stamina: 7  
@@ -194,7 +194,7 @@ Effects: Move up to 4 yards while keeping the chain in motion. This movement doe
 #### Tension Line
 {:#tension-line}
 
-Tension is fixed to the environment and used as movement, leverage, or retrieval. The same technique can pull the user through space or bring an unattended object to them, including vertically.
+Tension is fixed to the environment and used as movement, leverage, or retrieval.
 
 Rank: C  
 Stamina: 11  
@@ -219,7 +219,7 @@ Effects: Parry a Ranged Taijutsu or Projectile Attack with \+2. On a full succes
 #### Snap Return
 {:#snap-return}
 
-This is the recovery skill that separates a chain fighter from somebody who merely owns a chain. The weapon snaps back into control before a disarm, drop, or long cast can end the style.
+This is the recovery skill that separates a chain fighter from somebody who merely owns a chain.
 
 Rank: B  
 Stamina: 9  

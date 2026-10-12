@@ -18,7 +18,7 @@ permalink: "/rules/jutsu/combo/"
 
 Opener: If it hits, this jutsu begins a combo on the target (expanded on below). Note most Openers are located in the Unarmed section. It includes the Attack tag.
 
-Combo: It includes the Attack tag. By default these jutsu are treated as links to any Basic Attack and modifies it to be treated as a combo jutsu at the rank of the jutsu linked instead of a Basic Attack. Each attack can only have 1 jutsu with the Combo tag linked to it at a time. For jutsu with this tag dD is the die size of your unarmed attack. 
+Combo: It includes the Attack tag. By default these jutsu are treated as links to any Basic Attack and modifies it to be treated as a combo jutsu at the rank of the jutsu linked instead of a Basic Attack. Each attack can only have 1 jutsu with the Combo tag linked to it at a time. For jutsu with this tag dD is the die size of your unarmed attack.
 
 Finisher X: This must be used at the end of a combo with a counter X or greater. It includes the Attack tag.
 

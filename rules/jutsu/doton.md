@@ -68,7 +68,7 @@ You inject your own chakra through your hands into a natural surface to allow it
 Chakra: 5  
 Speed: 8  
 Seal Speed: 5  
-Tags: Utility, Ground-Based   
+Tags: Utility, Ground-Based  
 Effects: You can shape the surface of a rock, or mold it in your hands like clay. If you use this before climbing an earthen surface (be it a cliff face or a castle wall) you gain a \+5 bonus to Athletics checks associated with climbing it, by making hand- and footholds (for yourself only). This doesn't work if you're, say, climbing up the side of a cliff face using a rope. I really shouldn't have needed to say that, but, yanno.
 
 #### Yurokensei - Tremorsense
@@ -143,7 +143,7 @@ Range: 8
 Speed: 10  
 Seal Speed: 12  
 Tags: Utility, Interrupt, Environmental, Ground-Based  
-Effects: 
+Effects:
 
 Raise a wall up to 4 yards long and 2 yards high with HP equal to 50 \+ (NDB×5). It lasts 50 IC or until destroyed.
 
@@ -289,9 +289,9 @@ Speed: 12
 Seal Speed: 16  
 Special: Mass \+3  
 Tags: Attack, Utility, Doton  
-Effects: 
+Effects:
 
-On a full hit, Movement is reduced by 20% and all non-Search Actions have Base Speed \+1 for 20 IC. This stacks with itself, replacing the duration and increasing the severity of it’s effects. 
+On a full hit, Movement is reduced by 20% and all non-Search Actions have Base Speed \+1 for 20 IC. This stacks with itself, replacing the duration and increasing the severity of it’s effects.
 
 A target may spend Speed 6 and pass Resistance vs your Chakra Control to end it early. This does not stack with itself.
 
@@ -306,7 +306,7 @@ Range: Touch
 Speed: 10  
 Seal Speed: 16  
 Tags: Utility  
-Effects: 
+Effects:
 
 A willing target gains \+20% Movement and reduces falling damage by 75%.
 
@@ -391,7 +391,7 @@ Damage: 64d6
 Line: 5, Up to Chakra Control Yards  
 Speed: 20  
 Seal Speed: 20  
-Tags: Attack, Blunt, AoE, Ground-Based   
+Tags: Attack, Blunt, AoE, Ground-Based  
 Effects: Any damage from this technique is tripled against any structures.
 
 #### Doton: Domu - Earth Release: Iron Skin
@@ -449,7 +449,7 @@ Upkeep: 8
 Speed: 20  
 Seal Speed: 24  
 Tags: Utility, Creation, Ground-Based  
-Effects: 
+Effects:
 
 Create one golem with HP CHA×4, DR NDB×2, Movement equal to half yours, and Basic Unarmed Attack using your Ninjutsu Accuracy for 24d8 Blunt damage.
 
@@ -460,7 +460,7 @@ Only one Earth Golem from you may exist at a time.
 #### Doton: Iwagakure no Jutsu - Earth Release: Hidden Among Rocks Technique
 {:#doton-iwagakure-no-jutsu-earth-release-hidden-among-rocks-technique}
 
-This technique allows you to blend into rocks and remain hidden. Even the texture of your body takes on that of the stones, and it's quite possible (indeed, more than a few experienced jonin have embarrassing stories about it) to have an enemy physically sit on you without realizing you're there.
+This technique allows you to blend into rocks and remain hidden. Even the texture of your body takes on that of the stones, and it's quite possible (indeed, more than a few experienced Huntsman have embarrassing stories about it) to have an enemy physically sit on you without realizing you're there.
 
 Chakra: 28  
 Upkeep: 12  
@@ -481,7 +481,7 @@ Speed: 18
 Seal Speed: 24  
 Special: Immobilization 5  
 Tags: Attack, AoE, Environmental, Ground-Based  
-Effects: 
+Effects:
 
 On a full hit apply Immobilization 5, reduced by 1 every 15 IC after leaving the Area.
 
@@ -544,7 +544,7 @@ Speed: 22
 Seal Speed: 28  
 Special: Rocky Terrain 4  
 Tags: Attack, AoE, Ground-Based, Piercing  
-Effects: 
+Effects:
 
 After the initial attack the Area becomes Rocky Terrain 4 for 40 IC.
 

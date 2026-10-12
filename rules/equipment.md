@@ -8,17 +8,6 @@ permalink: "/rules/equipment/"
 
 *Crafting, weapons, tools, pharmaceuticals and exploding tags.*
 
-*“Kunai, wire, medicine, steel, seals: preparation is simply another form of power.”*
-
-| Volume | Book | Primary Use |
-| :---- | :---- | :---- |
-| I | Core Rules | Character creation, attributes, skills, advancement, abilities, combat, wounds and downtime. |
-| II | Uniques | Character-defining traits, upgrade chains and expanded playstyle options. |
-| III | Clans & Lineages | The Five Great Villages, canon clans, bloodlines, traditions and rare paths. |
-| IV | Jutsu Compendium | Jutsu rules, techniques, Eight Gates, Shadow Clones, summoning, natural chakra and hyper elements. |
-| V | Talents & Rank Benefits | Milestone talents and rank benefits for long-term character growth. |
-| VI | Equipment & Crafting | Crafting, weapons, tools, pharmaceuticals and exploding tags. |
-
 # Crafting
 {:#crafting}
 
@@ -719,7 +708,7 @@ The Black Rain has Capacity 10 for ordinary Shuriken and a separate Fūma Cradle
 
 It may fire a single Shuriken, fire a Volley, or launch its loaded Fūma Shuriken using Fūma Launch. The ordinary magazine and Fūma chamber are Reloaded separately.
 
-## 
+##
 
 ## Armor
 {:#armor}
@@ -741,10 +730,10 @@ Designed out of padded clothing or hardened leather, and barely considered armor
 
 Durability: 100 / Absorption: 5% / Penalty: \-1 Immobilization and \-1 to Stealth rolls
 
-Protective (0):   
+Protective (0):  
 Mostly designed out of chainmail or half plate, this type of armor is the most popular amongst Hunters as it offers the perfect balance between all important aspects of a piece of armor.
 
-Durability: 200 / Absorption: 10% / Penalty: \-2 Immobilization and \-2 to Stealth rolls 
+Durability: 200 / Absorption: 10% / Penalty: \-2 Immobilization and \-2 to Stealth rolls
 
 Encased(2):  
 Full steel plates and the such are the staple of this type of armor. Heavily favored by the average soldier who actually would rather not die in a fight, thank you very much. As well as by the legendary and fearsome samurai.
@@ -882,7 +871,7 @@ Armor Immobilization and Stealth penalties stack across all worn pieces. Reduce 
 ## Craftsman
 {:#craftsman}
 
-You may not want to supply arms in the form of weapons, but there are plenty of other useful tools for hunter. From flash bombs and lockpicks to kunai and bows you want to supply basically everything else in a hunters’s toolkit.
+You may not want to supply arms in the form of weapons, but there are plenty of other useful tools for hunter. From flash bombs and lockpicks to kunai and bows you want to supply basically everything else in a hunter’s toolkit.
 
 Upon gaining 1 Rank in the Artisan (Craftsman) Skill, you gain the ability to create equipment from the gear and exploding tags category. This requires you to spend a Downtime Slot on an “Equipment Crafting” Action, rolling your Artisan Skill vs a TN of the Artisan Points (explained below) determined by the item. You may pool your rolls until you amass enough to match the TN, which may take a number of Slots and/or Downtime Cycles.
 
@@ -919,7 +908,7 @@ When countering a specific poison you must have a sample or have been poisoned b
 
 If you are forming a general counter, choose any Poison effect from Poison crafting besides Potent. You can create a specific formula to counteract those symptoms. The TN equals whatever the TN for that Poison would be at that tier times 1.5 (rounded down) and the cost would be half that amount. Following the Poison Point cost guide you can only make antidotes up to your Artisan Ranks /4.
 
-For example if you wanted to make a Lethality 2 Antidote: The base cost is 10k and its Poison TN is 8 with a scale of 5 so TN 21\. So at 2nd rank your antidote would be 1.5x the TN for 31 and 5k Ryo. 
+For example if you wanted to make a Lethality 2 Antidote: The base cost is 10k and its Poison TN is 8 with a scale of 5 so TN 21\. So at 2nd rank your antidote would be 1.5x the TN for 31 and 5k Ryo.
 
 Antidotes that act quickly enough to be useful in emergencies, such as combat, aren't gentle on the body, applying a \-2 penalty to your Accuracy and all d20 rolls for 100 IC. However, for that duration you are immune to the poison in question. Antidotes used in succession do not stack the penalties, but they do refresh the duration.
 
@@ -961,7 +950,7 @@ But that imposes its own complications, most techniques for cultivating deadly v
 
 As mentioned before, making poisons is difficult, even if you have all of the ingredients and an inexhaustible amount of money. There is only so much an amateur can do before they end up just making a useless mush of foul smelling liquids. You have (Toxicology/4) Poison Points, no specific Poison you make can have more than this many Poison Points worth of effects.
 
-Furthermore, Poisons tend to take a while to make. As your skills progress, you’ll figure out better techniques to distill the ingredients and brew your venoms, but the more complex a Poison you make, the more time it’ll take to finish brewing it. Brewing Poisons requires a Poison TN, a Target Number you must reach using Toxicology rolls during Downtime Actions. The Poison TN is determined by the individual effects that the Poison has. All effects have a base increase to Poison TN, and a scaling increase should the effect be taken again. For example, Severity has a base increase to Poison TN of 3, and a scale of 2\. Meaning the first time it is taken, it increase the base Poison TN of 10 to 13, but if Severity were taken again for the same Poison, it gains an extra 5 (Base 3+2) to TN, becoming a Poison TN of 18, if Severity was taken a third time, the TN increase is 7 (5+2) making the final Poison TN a 25\. 
+Furthermore, Poisons tend to take a while to make. As your skills progress, you’ll figure out better techniques to distill the ingredients and brew your venoms, but the more complex a Poison you make, the more time it’ll take to finish brewing it. Brewing Poisons requires a Poison TN, a Target Number you must reach using Toxicology rolls during Downtime Actions. The Poison TN is determined by the individual effects that the Poison has. All effects have a base increase to Poison TN, and a scaling increase should the effect be taken again. For example, Severity has a base increase to Poison TN of 3, and a scale of 2\. Meaning the first time it is taken, it increase the base Poison TN of 10 to 13, but if Severity were taken again for the same Poison, it gains an extra 5 (Base 3+2) to TN, becoming a Poison TN of 18, if Severity was taken a third time, the TN increase is 7 (5+2) making the final Poison TN a 25\.
 
 Toxicology rolls carry over to the next Downtime until you’ve reached the TN, however, any extra points leftover after that are completely gone.
 
@@ -1019,7 +1008,7 @@ Due to the care it takes to not poison yourself when throwing Shurikens and Kuna
 #### Resisting and Identifying Poisons
 {:#resisting-and-identifying-poisons}
 
-Overcoming Poisons isn’t simple, they’re kind of made to be deadly, but Hunter are known for being able to do the impossible. Having a supercharged immune system is the least of their talents. Whenever you have a Dose of Poison applied to you, you must roll Resistance against the Toxicology TN of the original creator.
+Overcoming Poisons isn’t simple, they’re kind of made to be deadly, but Hunters are known for being able to do the impossible. Having a supercharged immune system is the least of their talents. Whenever you have a Dose of Poison applied to you, you must roll Resistance against the Toxicology TN of the original creator.
 
 When you or someone else has been poisoned, it's possible to identify the venom just based on the symptoms. you can roll a Toxicology, or Medicine skill check (your preference) against the Poison’s Toxicology TN \-5. Success means you've identified the Poison and know its effects and can begin working on an Antidote so long as you have the proper Toolkit. Failure means, obviously, you do not. You cannot repeat this roll.
 
@@ -1192,9 +1181,6 @@ Reduces a Victim’s Attribute by 10% to a max of 50%. The Specific Attribute mu
 # EQUIPMENT
 {:#equipment}
 
-*“A legendary hunters with no wire, no medicine, and no plan is just a very expensive emergency.”*  
-*— field requisitions officer*
-
 # Equipment Core Rules
 {:#equipment-core-rules}
 
@@ -1305,7 +1291,7 @@ When you hit with a weapon jutsu or are parried the STM is added to your WDP and
 ## Armor Protection
 {:#armor-protection}
 
-All pieces of armor have Durability and Absorption. Durability can be seen as the HP of the armor, whilst Absorption is given as a percentage value and determines how much of an Attack’s Damage the armor actually protects you from. 
+All pieces of armor have Durability and Absorption. Durability can be seen as the HP of the armor, whilst Absorption is given as a percentage value and determines how much of an Attack’s Damage the armor actually protects you from.
 
 Whenever you receive Direct Damage to a location with armor, you reduce the Damage you’d have received by the Absorption percentage, and then take the amount the Damage was mitigated by, and reduce your armor’s Durability by that amount. Once a piece of armor has reached 0 Durability, it no longer Absorbs a part of an Attack’s Damage, nor does it provide any of the benefits of its Basic and Unique Features, only all of the penalties remain. It is broken for all intents and purposes, and can never be repaired or recovered. It’s best to remove a broken piece of armor as soon as possible if it happens in the middle of a fight, as it is just dead weight by that point
 
@@ -1534,11 +1520,11 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 
 **Edge-Honed Kunai — 4,500 Ryō. AP 2\.** Kunai frame. Speed 8; Stamina 8; Damage 3d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
 
-**Installed Components:** Reinforced Edge 1\. 
+**Installed Components:** Reinforced Edge 1\.
 
 **Precision Kunai — 10,000 Ryō. AP 5\.** Kunai frame. Speed 8; Stamina 8; Damage 3d6; Accuracy \+0 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 1\.
 
-**Installed Components:** Reinforced Edge 1, Calibrated Balance 1\. 
+**Installed Components:** Reinforced Edge 1, Calibrated Balance 1\.
 
 **Breacher Kunai — 13,000 Ryō. AP 6\.** Kunai frame. Speed 8; Stamina 9; Damage 3d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
 
@@ -1550,15 +1536,15 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 
 **Longwing Kunai — 13,000 Ryō. AP 6\.** Kunai frame. Speed 8; Stamina 9; Damage 3d6; Accuracy \+0 (+1 on single-projectile Attacks); Range 10 \+ STR/4; Delay 1\.
 
-**Installed Components:** Aerodynamic Profile 1, Calibrated Balance 1\. 
+**Installed Components:** Aerodynamic Profile 1, Calibrated Balance 1\.
 
 **Quickstar — 6,000 Ryō. AP 3\.** Shuriken frame. Speed 5; Stamina 5; Damage 1d6; Accuracy \+2 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 0\.
 
-**Installed Components:** Calibrated Balance 1\. 
+**Installed Components:** Calibrated Balance 1\.
 
 **Precision Star — 10,000 Ryō. AP 5\.** Shuriken frame. Speed 5; Stamina 5; Damage 2d6; Accuracy \+2 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 0\.
 
-**Installed Components:** Reinforced Edge 1, Calibrated Balance 1\. 
+**Installed Components:** Reinforced Edge 1, Calibrated Balance 1\.
 
 **Razor Star — 14,000 Ryō. AP 7\.** Shuriken frame. Speed 5; Stamina 6; Damage 2d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
 
@@ -1573,11 +1559,11 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 
 All prices below purchase one batch of ten identical Arrows or Bolts. Ammo AP is separate from Weapon AP and does not count toward wielding requirements. Each shot consumes one piece of ammunition; recovered ammunition may be reused where appropriate.
 
-**Standard Arrow — 5,000 Ryō per ten. Ammo AP 0\.** 10 Arrows; d12 Piercing. 
+**Standard Arrow — 5,000 Ryō per ten. Ammo AP 0\.** 10 Arrows; d12 Piercing.
 
 **Piercing Arrow — 5,000 Ryō per ten. Ammo AP 0\.** 10 Arrows; d8 Piercing. Ignore Armor.
 
-**Standard Bolt — 5,000 Ryō per ten. Ammo AP 0\.** 10 Bolts; d10 Piercing. 
+**Standard Bolt — 5,000 Ryō per ten. Ammo AP 0\.** 10 Bolts; d10 Piercing.
 
 **Bodkin Bolt — 8,000 Ryō per ten. Ammo AP 1\.** 10 Bolts; d8 Piercing. On a full hit, treat Armor Absorption as 10 percentage points lower, minimum 0%.
 
@@ -1668,9 +1654,9 @@ Cost: 15k Ryo
 #### Caltrops
 {:#caltrops}
 
-Small bits of metal that are basically just four short spikes attached at a center; no matter how they land, there'll always be a metal spike pointing upwards. The typical use is to scatter them across the ground to impede movement through an area. 
+Small bits of metal that are basically just four short spikes attached at a center; no matter how they land, there'll always be a metal spike pointing upwards. The typical use is to scatter them across the ground to impede movement through an area.
 
-You can deploy Caltrops as a Speed 5, Area 5, Range 5 action. 
+You can deploy Caltrops as a Speed 5, Area 5, Range 5 action.
 
 Anyone that moves as part of an attack into, within or out of the caltrops’ area, suffers Piercing damage equal to 5d4+25.
 
@@ -1731,7 +1717,7 @@ Cost: 1k Ryo per 5 Yards.
 #### Smoke Bomb
 {:#smoke-bomb}
 
-Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke that causes a \-6 visibility penalty to all people within its 5 yard radius, for 20 IC. Once 10 ICs have passed, the Visibility penalty of the Smoke Bomb is halved. 
+Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke that causes a \-6 visibility penalty to all people within its 5 yard radius, for 20 IC. Once 10 ICs have passed, the Visibility penalty of the Smoke Bomb is halved.
 
 Cost: 3k Ryo
 
@@ -1750,9 +1736,9 @@ Cost: 25k Ryo
 #### Compass
 {:#compass}
 
-A small, typically handheld device that has a needle inside a metal case (with a glass cover, so it can be seen) that points, approximately, to magnetic north when held level. These aren't exactly precise, but they're good enough most of the time. Notably, they can have trouble working underground or if they get zapped by a lightning jutsu. When trying to navigate the wilderness, having a compass gives a \+2 bonus to any Survival rolls. If you also have a map of the country you're in, this is raised to \+4. 
+A small, typically handheld device that has a needle inside a metal case (with a glass cover, so it can be seen) that points, approximately, to magnetic north when held level. These aren't exactly precise, but they're good enough most of the time. Notably, they can have trouble working underground or if they get zapped by a lightning jutsu. When trying to navigate the wilderness, having a compass gives a \+2 bonus to any Survival rolls. If you also have a map of the country you're in, this is raised to \+4.
 
-Cost- 2.5k Ryo 
+Cost- 2.5k Ryo
 
 #### Map
 {:#map}
@@ -1782,11 +1768,13 @@ Cost- 5k Ryo
 #### First Aid Kit
 {:#first-aid-kit}
 
-A collection of bandages, ointments, and antiseptics. First aid kits can be used to stop bleeding. They can also cure non-Wound Based Bleed and Burns, with a Speed of 2 per level of severity. A single first aid kit can do each of those once before being expended.
+Bandages, antiseptics and basic treatment supplies. Use a kit with [Stabilise]({{ '/rules/core/#stabilise' | relative_url }}) or a treatment listed by a Wound.
 
-Alternatively, it can treat a wound (in the sense of, "this wound has penalty X until treated, and then only penalty Y"). This is a Speed 15 action per wound category, and completely consumes the first aid kit.
+A kit can also end non-Wound Bleed or Burn. This is a Touch Utility Action with Speed equal to twice the effect’s Severity, minimum 3. A single kit can treat one Bleed and one Burn before it is expended.
 
-Cost: 2.5k Ryo
+Treating a Wound instead consumes the entire kit and takes Speed 15 per category: Minor 15, Major 30, Severe 45, Critical 60. Apply only the treatment benefits permitted by that Wound’s entry.
+
+Cost: 2,500 Ryō.
 
 #### Flare
 {:#flare}
@@ -1818,7 +1806,7 @@ Cost: 2k
 #### Oxygen Mask
 {:#oxygen-mask}
 
-This is a small 'mask' that covers the wearer's mouth and nose, and is held in place by elastic bands which form an airtight seal. Rather than filtering air out, it has two possible fixtures (usually one on each side of the mouth) for an oxygen tank to be attached. 
+This is a small 'mask' that covers the wearer's mouth and nose, and is held in place by elastic bands which form an airtight seal. Rather than filtering air out, it has two possible fixtures (usually one on each side of the mouth) for an oxygen tank to be attached.
 
 When wearing the mask, the user has a \-3 penalty to all Stamina rolls, as it takes a slight effort to breathe through it. Putting this on in combat is a Speed 5 action, or \+2 Speed if used as part of an Interrupt. Removing the mask is a Speed 5 action.
 
@@ -1903,9 +1891,6 @@ Cost: 10k Ryo5
 A soldier pill is not the only thing a modern hunters can swallow before doing something regrettable.
 
 Licensed clinics, field medics, black-market chemists, and village quartermasters sell combat pharmaceuticals across the hunters world. Drugs are ordinary purchasable gear. You do not need a clan, Talent, or medical background to use one. The trade-off is simple: the body gets the bill later.
-
-*“The label says 'do not combine with alcohol, genjutsu medication, or heroic self-confidence.' Nobody reads the third warning.”*  
-*— pharmacy clerk, Tanzaku Quarter*
 
 ### Drug Rules
 {:#drug-rules}
@@ -2023,7 +2008,7 @@ Crash: increase both penalties by 2\. A character without Kodon metabolism also 
 # Exploding Tags
 {:#exploding-tags}
 
-Rectangular slips of paper inscribed with special seals, centered around the kanji for "explode". They're infused with chakra, but normally inert. A tag can be "primed" by focusing a small amount of chakra into them, at which point they can stick to most surfaces (like walls, or the underside of bridges; even unsuspecting people) and will detonate on their own after some time. 
+Rectangular slips of paper inscribed with special seals, centered around the kanji for "explode". They're infused with chakra, but normally inert. A tag can be "primed" by focusing a small amount of chakra into them, at which point they can stick to most surfaces (like walls, or the underside of bridges; even unsuspecting people) and will detonate on their own after some time.
 
 Fire will not cause tags to explode, nor will they explode in a "chain reaction". A tag that is blown up or burnt, even a primed one, is just destroyed. Tags are destroyed if they receive any damage before exploding.
 
@@ -2036,13 +2021,13 @@ There are many ways to Prime a Tag, as described below. Tags are tied to their p
 #### Contact Detonation
 {:#contact-detonation}
 
-This means priming the Tag while you are holding it or touching it. 
+This means priming the Tag while you are holding it or touching it.
 
 Chakra: 5  
 Speed: 10  
-Prerequisites: Genin. All Genin are taught how to do this at the Academy.
+Prerequisite: Stray. Contact detonation is taught during Corps training.
 
-Effect: You can set the Detonation time between 10 IC and (10+Chakra Control Ranks) IC. 
+Effect: You can set the Detonation time between 10 IC and (10+Chakra Control Ranks) IC.
 
 #### Remote Detonation
 {:#remote-detonation}
@@ -2053,9 +2038,9 @@ Chakra: 10+3\*X
 Speed: 12  
 Seal Speed: 4+2\*X  
 Range CHA/10 yards  
-Prerequisites: Chuunin, or 10 Ranks in Chakra Control
+Prerequisites: Trailhand, or 10 Ranks in Chakra Control
 
-Effect: X is the number of Tags. You can set the Detonation time between  10 IC and (10+Chakra Control Ranks) IC. 
+Effect: X is the number of Tags. You can set the Detonation time between  10 IC and (10+Chakra Control Ranks) IC.
 
 #### Instant Remote/Triggered:
 {:#instant-remote-triggered}
@@ -2067,7 +2052,7 @@ Speed: 12
 Seal Speed: 6  
 Range CHA/10 yards
 
-Prerequisite: Jounin, or 20 Ranks in Chakra Control.
+Prerequisite: Huntsman, or 20 Ranks in Chakra Control.
 
 Effect: Y is distance to the Tag in yards. You can set the Detonation time between 0 IC and (10+Chakra Control Ranks) IC or On Trigger. The Trigger is a Distance between 0 and CHA/10 yards, whenever someone enters this radius, the Tag instantly detonates.
 
@@ -2077,29 +2062,27 @@ Attaching to a Weapon: As part of a ranged attack, multi-throw or jutsu that use
 
 Attaching after Failed defense: Against any type of Melee Attack that hits you, you can perform a Spd 1 Interrupt (after resolving the attack, but before advancing IC) to attach 1 Tag to your attacker (in the relevant part of their body or weapon). Anyone who has a Tag attached to them in this manner rolls the higher of Awareness or Survival vs the one who attached the Tag’s Espionage or Stealth whichever is higher, on a success, they realise the Tag is attached and immediately detach it, leaving it at the position that the attack took place. If this check fails, the attacker notices the Tag too late and it then requires a Spd 5 action to remove (removed Tags are dropped at the location they were removed, they cannot be thrown or reattached to something else). If a Tag explodes while still attached to someone, they cannot defend against it. Blocking does work against attached Tags, however.
 
-Requires: Genin Rank
+Requires: Stray Rank
 
 Cost: 5000 Ryo
 
 ### Exploding Tag, Type 2
 {:#exploding-tag-type-2}
 
-A more powerful version of the regular exploding tags, not given to genin because experience has shown, time and again, that genin really can't be trusted with high-end explosives. Chuunin, however, are more responsible--at least, in theory.
+Type 2 tags are issued to Trailhands trained to handle stronger explosives. Type 2 tags function identically to regular exploding tags in most regards, though they deal 10d10.open(5) damage and have an Area of 20\. Additionally, they deal double damage to inanimate objects (such as walls, including jutsu based defenses).
 
-Therefore, they get to play with the big explosions\! Type 2 tags function identically to regular exploding tags in most regards, though they deal 10d10.open(5) damage and have an Area of 20\. Additionally, they deal double damage to inanimate objects (such as walls, including jutsu based defenses).
-
-Requires: Chuunin Rank
+Requires: Trailhand Rank
 
 Cost: 15000 Ryo
 
 ### Exploding Tag, Type 3
 {:#exploding-tag-type-3}
 
-The end-all and be-all of 'mundane' explosives, reserved for jounin simply because of how difficult they are to produce, which is in turn reflected in how troublesome they are to get ahold of.
+The end-all and be-all of 'mundane' explosives, reserved for Huntsman simply because of how difficult they are to produce, which is in turn reflected in how troublesome they are to get ahold of.
 
 Type 3, like Type 2, deal double damage to inanimate objects. They deal 20d10.open(5) damage, and have an Area of 30\.
 
-Requires: Jounin Rank
+Requires: Huntsman Rank
 
 Cost: 30000 Ryo
 

@@ -24,7 +24,7 @@ E: Stray
 D: 5 Chakra Control, 5 Research  
 C: 12 Chakra Control, 15 Research, Seal Training (talent)  
 B: 20 Chakra Control, 25 Research, Seal Training (talent)  
-A: 30 Chakra Control, 35 Research, Advanced Seal Training
+A: 30 Chakra Control, 35 Research, Advanced Seal Training or Grand Formula
 
 ### Sealing-Related Tags (also this)
 {:#sealing-related-tags-also-this}
@@ -46,7 +46,7 @@ Below all barrier techniques you will find a section for speed cast like:
 
 Speed Cast (Speed 6, Chakra 15, Interrupt, Seals 4\)
 
-TThis is its own action and can be used as such paying the required Seals X from prepared runes (see Basic Seal). 
+TThis is its own action and can be used as such paying the required Seals X from prepared runes (see Basic Seal).
 
 ### Unsealing Difficulty
 {:#unsealing-difficulty}
@@ -74,7 +74,7 @@ Range: 15
 Speed: 15  
 Seal Speed: 30  
 Tags: Mark  
-Effects: 
+Effects:
 
 When you perform this Jutsu, you apply a Seal on a fixed object (Such as the ground or a tree) in melee distance. At any point someone with access to this jutsu may link a seal to any other seal in range as a Speed 5 Chakra 10 action. While casting this jutsu you may link it to other seals at no other cost. The Seals created by this Jutsu cannot be removed or destroyed without an Unsealing Jutsu. You cannot Link two Seals with each other if they are more than your NDB yards apart.
 
@@ -98,14 +98,14 @@ Multiple users may maintain String Light Formation on the same target. Each addi
 #### Basic Unseal
 {:#basic-unseal}
 
-The most common method of removing seal, accessible 
+The most common method of removing seal, accessible
 
 Chakra: 10  
 Speed: 10  
 Seal Speed: 15  
 Requires: 7 Chakra Control  
 Tags: Unseal  
-Effects: 
+Effects:
 
 Roll a chakra control roll vs 10 \+ the Chakra Control bonus of the caster of a Basic Seal. On a success you remove a seal made using Basic Seal. On a failure the seal has its TN permanently reduced by 3\. Any Sealing jutsu activated with that seal are maintained as long as at least 1 seal remains.
 
@@ -160,7 +160,7 @@ Chakra: 13
 Speed: 8  
 Seal Speed: 18  
 Tags: Barrier, Seals 2+  
-Effects: You conjure a barrier between the chosen fixed seals with a height of 3 Yards. It affects any jutsu that passes through this area. Attacks are immune to this barrier if they are ground based, originate from 5 Yards or higher, or have an Area which completely encompasses the barrier’s area. 
+Effects: You conjure a barrier between the chosen fixed seals with a height of 3 Yards. It affects any jutsu that passes through this area. Attacks are immune to this barrier if they are ground based, originate from 5 Yards or higher, or have an Area which completely encompasses the barrier’s area.
 
 This automatically parries any jutsu of D-Rank or lower that attempts to pass through. Any jutsu of C or B-Rank has its rank reduced by 1 for the purposes of defending and reduces the damage by 50%, after which the barrier is destroyed. A-Rank jutsu are unaffected by this barrier and automatically destroy it. After being destroyed the barrier is regenerated after 30 IC or after the jutsu is recast.
 
@@ -227,7 +227,7 @@ Chakra: 20
 Speed: 16  
 Seal Speed: 20  
 Tags: Utility, Storage, Fūinjutsu  
-Effects: 
+Effects:
 
 Create a storage seal that holds unattended nonliving items.
 
@@ -238,7 +238,7 @@ Living creatures, active Jutsu, and objects currently held by unwilling creature
 #### Chūsō Kaifū - Medium Unseal
 {:#chuso-kaifu-medium-unseal}
 
-The user focuses chakra through their fingers to break the structure of the targeted seal, usually with a forceful thrust. The middling tier of unsealing jutsu capable of ending a wider range of effects. 
+The user focuses chakra through their fingers to break the structure of the targeted seal, usually with a forceful thrust. The middling tier of unsealing jutsu capable of ending a wider range of effects.
 
 Chakra: 25  
 Speed: 16  
@@ -256,7 +256,7 @@ Area: Special
 Speed: 10, Delay 10  
 Seal Speed: 16  
 Tags: Barrier, Seals 3+  
-Effects: You conjure a barrier between the chosen fixed seals with a height of 15 Yards and a thickness of 1 Yard in diameter. This acts as a wall that has (NDB \* 50\) HP and (Research Ranks \* 5\) DR and is completely impassable. Attacks are immune to this barrier if they are ground based or originate from 20 Yards or higher. 
+Effects: You conjure a barrier between the chosen fixed seals with a height of 15 Yards and a thickness of 1 Yard in diameter. This acts as a wall that has (NDB \* 50\) HP and (Research Ranks \* 5\) DR and is completely impassable. Attacks are immune to this barrier if they are ground based or originate from 20 Yards or higher.
 
 If an Attack takes this Barrier down to 0 HP, then the leftover Damage (but no other Effects) will pass through to their intended Target. After being destroyed the barrier is regenerated after 50 IC or after the jutsu is recast.
 
@@ -292,11 +292,11 @@ Effects: X is the amount of Projectiles in the thrown scroll. Your Scroll is lau
 
 - It is unmodified by temporary status, wounds, and so on
 
-- It gains an area equal to this technique 
+- It gains an area equal to this technique
 
 - It does not increase your IC
 
-- You cannot use Willpower or AP 
+- You cannot use Willpower or AP
 
 #### Tsuiseki Fuuin - Tracking Seal
 {:#tsuiseki-fuuin-tracking-seal}
@@ -347,7 +347,7 @@ Chakra: 36
 Speed: 10  
 Seal Speed: 20  
 Tags: Mark  
-Effects: Choose one Fūinjutsu affecting the target. When the jutsu is cast or any time they enter combat they may spend a WP to have this seal suppress that Fūinjutsu for the remainder of that combat. They may also spend this out of combat to suppress the Fūinjutsu for 1 hour. 
+Effects: Choose one Fūinjutsu affecting the target. When the jutsu is cast or any time they enter combat they may spend a WP to have this seal suppress that Fūinjutsu for the remainder of that combat. They may also spend this out of combat to suppress the Fūinjutsu for 1 hour.
 
 #### Keiyaku Fuuin - Contract Seal
 {:#keiyaku-fuuin-contract-seal}
@@ -357,13 +357,13 @@ Implemented on a summoner, this removes any control the summoner has over their 
 Chakra: 40  
 Speed: 16  
 Seal Speed: 20  
-Tags: Mark   
+Tags: Mark  
 Effects: This temporarily severs the contract between a summoner and their summon forcibly de-summoning anything they've already summoned.
 
 #### Kōsō Kaifū -  Greater Unseal
 {:#koso-kaifu-greater-unseal}
 
-The user focuses chakra through their fingers to break the structure of the targeted seal, usually with a forceful thrust. The highest tier of generalist unsealing jutsu able to end all but the most powerful sealing jutsu. 
+The user focuses chakra through their fingers to break the structure of the targeted seal, usually with a forceful thrust. The highest tier of generalist unsealing jutsu able to end all but the most powerful sealing jutsu.
 
 Chakra: 35  
 Speed: 19  
@@ -396,7 +396,7 @@ Seal Speed: 20
 Tags: Barrier, Seals 4  
 Effects: You conjure a barrier between four seals with an enclosed area and a height of 20 Yards. Attacks are immune to this barrier if they originate from 30 Yards or higher, or have an Area which completely encompasses the barrier’s area. The barrier is separated into its four sides and after being destroyed a side is regenerated after 100 IC or after the jutsu is recast.
 
-This automatically parries any ranged taijutsu or jutsu of C-Rank or lower, that attempts to pass through. Any jutsu of B or A-Rank has its rank reduced by 1 for the purposes of defending and reduces the damage by 200 or 50% (whichever is higher). If 50% is used that side of the barrier is destroyed. 
+This automatically parries any ranged taijutsu or jutsu of C-Rank or lower, that attempts to pass through. Any jutsu of B or A-Rank has its rank reduced by 1 for the purposes of defending and reduces the damage by 200 or 50% (whichever is higher). If 50% is used that side of the barrier is destroyed.
 
 If a person would pass through the bounds of the barrier they may make a Speed 2 Interrupt to stop just outside the barrier. If the movement was forced they must make an Athletics check against a TN of 15+Knockback. Choosing to pass through the barrier deals (Research Ranks) \* (NDB) Energy Damage to the target and destroys that side of the barrier.
 
@@ -414,7 +414,7 @@ Area: Special
 Speed: 18  
 Seal Speed: 24  
 Tags: Utility, Barrier, Fūinjutsu  
-Effects: 
+Effects:
 
 Requires four prepared seals or four willing casters positioned at the corners of the intended Area. Form a barrier up to 25 yards per side and 20 yards high.
 
@@ -433,7 +433,7 @@ Speed: 20
 Delay: 10  
 Seal Speed: 28  
 Tags: Utility, Mark, Fūinjutsu  
-Effects: 
+Effects:
 
 Place on a willing creature, sealed object, or already-contained chakra source. Choose one active Upkeep, Host manifestation, curse-like Mark, or GM-approved internal chakra effect.
 
@@ -482,7 +482,7 @@ Speed: 100
 Delay: 50  
 Seal Speed: 100  
 Tags: Utility, Mark, Fūinjutsu  
-Effects: 
+Effects:
 
 Requires Four Symbols Seal and an appropriate contained chakra source, willing Host, or defeated/incapacitated entity as determined by the campaign.
 
@@ -502,7 +502,7 @@ Seal Speed: 24
 Tags: Barrier, Seals 5+  
 Effects: You conjure an oval shaped barrier completely enveloping an area encircled by X seals with a minimum of 5\. Nothing is able to pass through this barrier except its caster who can enter/exit as a Speed 5 action. This wall has a single hit point but a DR equal to your CHA \* X that cannot be reduced in any way (even damages that normally can’t be reduced).
 
-If an Attack takes this Barrier down to 0 HP, then the leftover Damage (but no other Effects) will pass through to their intended Target. 
+If an Attack takes this Barrier down to 0 HP, then the leftover Damage (but no other Effects) will pass through to their intended Target.
 
 Speed Cast (Speed 20, Chakra 40, Seals 5\)  
 By throwing 5 pre-inscribed seals you conjure a miniature version of the above barrier with X as 5 but after 100 IC its destroyed automatically.

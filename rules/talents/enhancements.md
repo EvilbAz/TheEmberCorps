@@ -13,7 +13,7 @@ permalink: "/rules/talents/enhancements/"
 ### Celerity
 {:#celerity}
 
-You are not merely fast on your feet. Your entire combat rhythm happens a fraction of a second ahead of everyone else's.
+Training has sharpened your reactions and shortened wasted movement.
 
 #### Core Talent
 {:#core-talent}
@@ -23,13 +23,13 @@ All of your Actions and Interrupts have their final Speed reduced by 1. This can
 #### Developments
 {:#developments}
 
-Quick Hands — Actions primarily involving drawing, stowing, reloading, manipulating equipment, or performing handseals have their final Speed reduced by an additional 1, minimum 1.
+Quick Hands — Actions primarily involving drawing, stowing, reloading, manipulating equipment, or performing handseals have their final Speed reduced by an additional 1, minimum 3.
 
 Quick Feet — After resolving a non-Movement Action, you may move up to 2 yards without AP or additional Speed. This is still movement and must follow a legal path.
 
 Quick Reflexes — Defensive Interrupts have their final Speed reduced by an additional 1, but cannot be reduced below 3 by this Development.
 
-Flow State — If your current non-Interrupt Action has a different primary purpose from your previous non-Interrupt Action — Attack, Defense, Utility, or Movement — reduce its final Speed by 1, minimum 1.
+Flow State — If your current non-Interrupt Action has a different primary purpose from your previous non-Interrupt Action — Attack, Defense, Utility, or Movement — reduce its final Speed by 1, minimum 3.
 
 #### Mastery
 {:#mastery}
@@ -39,7 +39,7 @@ Too Fast to Follow — The Core Talent reduction from Celerity becomes 2 instead
 ### Generalist
 {:#generalist}
 
-You have never been satisfied doing only one job. Somewhere along the way you picked up a worrying number of other people's tricks.
+You have trained across several Corps disciplines.
 
 #### Core Talent
 {:#core-talent-2}
@@ -65,12 +65,12 @@ Master of None — Gain one additional non-Automatic Rank Benefit you currently 
 ### Prodigy
 {:#prodigy}
 
-Some Hunters need years before a lesson becomes instinct. You have the irritating habit of arriving there first.
+You learn advanced techniques unusually quickly.
 
 #### Core Talent
 {:#core-talent-3}
 
-Gain one non-Automatic Rank Benefit from any Rank, including a Rank you have never held.
+Gain one non-Automatic Rank Benefit from any Rank, including a Rank you have never held. This grants the selected technique only; it does not change your Corps rank or authority.
 
 #### Developments
 {:#developments-3}
@@ -91,7 +91,7 @@ Ahead of the Curve — Gain one additional non-Automatic Rank Benefit from any R
 ### Skill Specialist
 {:#skill-specialist}
 
-You did not merely learn a skill. You kept going until everyone else started sending the difficult cases to you.
+You have devoted extensive practice to a particular field.
 
 #### Core Talent
 {:#core-talent-4}

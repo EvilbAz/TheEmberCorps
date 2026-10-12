@@ -13,25 +13,7 @@ permalink: "/rules/jutsu/rules/"
 # Guide
 {:#guide}
 
-**NARUTO WORLD: EMBER CORPS**
-
-**JUTSU COMPENDIUM**
-
-**VOLUME IV**
-
-*Jutsu rules, techniques, Eight Gates, Shadow Clones, summoning, natural chakra and hyper elements.*
-
-*“A jutsu is only a tool until somebody makes it unmistakably theirs.”*
-
-| Volume | Book | Primary Use |
-| :---- | :---- | :---- |
-| I | Core Rules | Character creation, attributes, skills, advancement, abilities, combat, wounds and downtime. |
-| II | Uniques | Character-defining traits, upgrade chains and expanded playstyle options. |
-| III | Clans & Lineages | The Five Great Villages, canon clans, bloodlines, traditions and rare paths. |
-| IV | Jutsu Compendium | Jutsu rules, techniques, Eight Gates, Shadow Clones, summoning, natural chakra and hyper elements. |
-| V | Talents & Rank Benefits | Milestone talents and rank benefits for long-term character growth. |
-| VI | Equipment & Crafting | Crafting, weapons, tools, pharmaceuticals and exploding tags. |
-
+Learning requirements, technique tags, elemental interactions and shared Jutsu rules.
 
 # Jutsu Rules
 {:#jutsu-rules}
@@ -39,11 +21,7 @@ permalink: "/rules/jutsu/rules/"
 ## Explanation
 {:#explanation}
 
-The core of a ninja's supernatural capabilities comes from their jutsu--meaning, literally, techniques. These use chakra, either projected outwards or used to amplify one's physical performance, to perform feats that would be literally impossible for a normal person.  
-These are divided into three broad categories: taijutsu, ninjutsu, and genjutsu.  
-Taijutsu, or body techniques, use the chakra flowing throughout a ninja's body to give them the exceptional speed or strength needed to perform the techniques. They are mostly physical attacks. This includes both unarmed combat, and weapon techniques.  
-Ninjutsu, or ninja techniques, use chakra to accomplish what those unfamiliar with them might call magic. These effects range from changing one's appearance to projecting balls of flame, to summoning water from thin air, to healing grievous injuries.  
-Genjutsu, or illusion techniques, use chakra to either construct illusions in the environment or to directly affect an enemy's mind and confuse their senses. Of the three, they are the most difficult to learn.
+Jutsu use chakra to perform extraordinary techniques. **Taijutsu** enhances physical attacks and movement; **Ninjutsu** shapes chakra into effects such as elements, transformations and constructs; **Genjutsu** interferes with perception and the senses.
 
 ## Rule
 {:#rule}
@@ -94,7 +72,7 @@ How many yards away the attack's target can be. In the case of area-of-effect te
 
 The area of a jutsu which can come in any of 3 forms below:  
 Area X: A radius plain and simple using the radius for dodge penalties  
-Line X, Y: A rectangle with a width of X and a length of Y using the lower of the 2 values for dodge penalties.   
+Line X, Y: A rectangle with a width of X and a length of Y using the lower of the 2 values for dodge penalties.  
 Cube X: A square X by X yards using X for dodge penalties
 
 When dodging an AoE Jutsu you must first find out if you are fast enough to escape it. Take the speed of the attack and compare how far you could move in that IC to the Area of the jutsu. If your speed is lower then you gain a penalty of \-2 per yard you fail to escape by.
@@ -184,13 +162,13 @@ Learning ninjutsu is a great deal of work; a ninja has to learn how to mold thei
 
 There are three ways you can qualify to learn ninjutsu of a given rank.
 
-The first is Chakra Control skill ranks: With sufficient control over your chakra it becomes easier to mold it efficiently, and mold the vast amounts of chakra used in higher-end techniques with the appropriate precision. Next is Research skill ranks. You can make up for 
+The first is Chakra Control skill ranks: With sufficient control over your chakra it becomes easier to mold it efficiently, and mold the vast amounts of chakra used in higher-end techniques with the appropriate precision. Next is Research skill ranks. You can make up for
 
  Fuuton: Wind Style
 
 poor chakra control by knowing how chakra behaves even when you can't control it, and understanding what the technique is trying to accomplish.
 
-Finally, character rank. Once you have enough pull in your village, you can bother the right people to teach you how to use techniques without getting brushed off for wasting their time.
+Corps rank can also qualify you for instruction in the techniques listed below.
 
 You only need to meet one of those requirements for a given jutsu rank to learn those jutsu. They are listed... below.
 
@@ -293,7 +271,7 @@ Unless a technique lists fixed Damage or Speed, an attacking Bukijutsu starts fr
 
 A weapon attack may only be modified or replaced by one Bukijutsu unless another technique explicitly has the Link tag. Chain tags are not Link tags.
 
-If your weapon has an innate delay, any Bukijutsu you cast gains a Delay equal to half your weapon’s delay. 
+If your weapon has an innate delay, any Bukijutsu you cast gains a Delay equal to half your weapon’s delay.
 
 If a Bukijutsu calls for an attack roll, that means a 1d20 \+ your Accuracy \- 10\.
 
@@ -361,7 +339,7 @@ E: Stray
 D: 5 Chakra Control, 5 Research  
 C: 12 Chakra Control, 15 Research, Seal Training (talent)  
 B: 20 Chakra Control, 25 Research, Seal Training (talent)  
-A: 30 Chakra Control, 35 Research, Advanced Seal Training
+A: 30 Chakra Control, 35 Research, Advanced Seal Training or Grand Formula
 
 ## Medical Ninjutsu
 {:#medical-ninjutsu}
@@ -373,8 +351,8 @@ If any Medical Ninjutsu technique has a listed Upkeep, that Upkeep is paid by th
 
 D: 5 Chakra Control, 5 Medicine, Medical Training (talent)  
 C: 10 Chakra Control, 15 Medicine, Medical Training (talent)  
-B: 20 Chakra Control, 25 Medicine, Advanced Medical Training (ability)  
-A: 30 Chakra Control, 35 Medicine, Advanced Medical Training (ability)
+B: 20 Chakra Control, 25 Medicine, Advanced Medical Training or Chakra Surgeon  
+A: 30 Chakra Control, 35 Medicine, Advanced Medical Training or Surgeon of the Corps
 
 
 # Monster Summoning

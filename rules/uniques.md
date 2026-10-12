@@ -6,23 +6,14 @@ volume_slug: "uniques"
 permalink: "/rules/uniques/"
 ---
 
-*Rare gifts, habits, talents, and training that make one hunters different from another.*
+*Rare gifts, habits, talents, and training that make onehunter different from another.*
 
-*“Two hunter can learn the same technique. They should never feel like the same person.”*
-
-| Volume | Book | Primary Use |
-| :---- | :---- | :---- |
-| I | Core Rules | Character creation, attributes, skills, advancement, abilities, combat, wounds and downtime. |
-| II | Uniques | Rare gifts, habits, talents, and training that make one shinobi different from another. |
-| III | Clans & Lineages | Haven Ember heritages, canon clans, bloodlines, traditions and rare paths. |
-| IV | Jutsu Compendium | Jutsu rules, techniques, Eight Gates, Shadow Clones, summoning, natural chakra and hyper elements. |
-| V | Talents & Rank Benefits | Milestone talents and rank benefits for long-term character growth. |
-| VI | Equipment & Crafting | Crafting, weapons, tools, pharmaceuticals and exploding tags. |
+*“Two hunters can learn the same technique. They should never feel like the same person.”*
 
 # Uniques
 {:#uniques}
 
-Uniques are unusual talents, habits, gifts, and kinds of training that set one hunters apart from another. They grant abilities and advantages that ordinary XP purchases usually cannot.
+Uniques are unusual talents, habits, gifts, and kinds of training that set onehunter apart from another. They grant abilities and advantages that ordinary XP purchases usually cannot.
 
 At character creation you receive 6 Unique Points (UP). Heritage Cost from Volume III is paid from this same pool. Any UP you do not spend may be saved.
 
@@ -30,7 +21,7 @@ Creation Uniques cost 1 UP each, may only be taken during character creation, an
 
 After character creation, gain 1 additional UP at 2,000, 3,000, 4,500, 6,000, and 7,000 total XP. UP cannot be spent during combat or an event.
 
-Some Uniques list Upgrades Into or Upgrades From. If you own the earlier Unique, you may replace it with the later one by paying only the difference in UP cost. The old Unique and its effects are removed and the new Unique takes its place. You never have to follow an upgrade path; if you can take the later Unique normally, you may buy it directly for its full cost. Buying a later Unique does not grant a Creation Unique you did not choose at character creation. 
+Some Uniques list Upgrades Into or Upgrades From. If you own the earlier Unique, you may replace it with the later one by paying only the difference in UP cost. The old Unique and its effects are removed and the new Unique takes its place. You never have to follow an upgrade path; if you can take the later Unique normally, you may buy it directly for its full cost. Buying a later Unique does not grant a Creation Unique you did not choose at character creation.
 
 Unless an entry says otherwise, a Unique may be taken only once.
 
@@ -55,7 +46,7 @@ Unless an entry says otherwise, a Unique may be taken only once.
 
 *Berserk Counter — Speed 0 Interrupt: when an enemy attacks you, you may take no Defense. If the Attack does not incapacitate you, immediately use a Taijutsu Attack you know against that attacker. The counter gains \+3 Accuracy, is made at half its normal final Speed, rounded up, to a minimum of 3, cannot have its Speed reduced further, and its Base Speed cannot exceed the Base Speed of the Attack that triggered it. Pay all normal costs.*
 
-*For every 25% of maximum Vitality you are missing, your Taijutsu deals \+5% Final Damage, maximum \+20%. When reduced to 10%  Vitality or blow, choose whether to surrender or keep fighting; if you keep fighting, you cannot willingly stop until every hostile creature you are fighting has been incapacitated or you are. Suffer \-5 Stealth.*
+*For every 25% of maximum Vitality you are missing, your Taijutsu deals \+5% Final Damage, maximum \+20%. When reduced to 10%  Vitality or below, choose whether to surrender or keep fighting; if you keep fighting, you cannot willingly stop until every hostile creature you are fighting has been incapacitated or you are. Suffer \-5 Stealth.*
 
 ### Chakra Sensitive
 {:#chakra-sensitive}
@@ -71,11 +62,7 @@ Unless an entry says otherwise, a Unique may be taken only once.
 ### Chosen One
 {:#chosen-one}
 
-*You were always special. **The** special , one could say \- no matter how much you may dream of normalcy.* 
-
-*You have something special about you \- and that’s always been clear. This Unique may be traded for a unique, special power that only your character has\! Discuss with the Storyteller team with what exactly you’re hoping for, and ensure you have open and clear communication with them regarding your expectations. The scope of this Unique should remain in the **Talent** power level, without becoming something overtly oppressive.* 
-
-*To apply for this Unique, write a story. Consider what makes your character special. It should be something immediately identifiable. Imagine your character is in a Manga or Anime, and this special ability / power / thing is what you think of when you think of the character.*
+*Your character possesses an unusual personal gift. Submit its origin and proposed mechanics to the Storyteller team before approval. The gift should be recognisable in play and comparable in scope to a Core Talent. This Unique grants only the approved effects; its story does not waive other prerequisites or restrictions.*
 
 ### Competitive
 {:#competitive}
@@ -84,14 +71,12 @@ Unless an entry says otherwise, a Unique may be taken only once.
 
 *Whenever you miss with an Attack, gain \+1 Accuracy and suffer \-1 on other d20 rolls, stacking to \+5 Accuracy and \-5 on other d20 rolls. Both reset when you hit with an Attack. Whenever your Fatigue level increases, gain 5 AP and \+5 on your next Stamina or Chakra Exhaustion roll before the end of your next Action.*
 
-### 
-
 ### Defender
 {:#defender}
 
-*You have trained to make hitting you a poor decision. Gain DR equal to RES/3 and Block becomes a Speed 4 Interrupt. Whenever a damage-dealing adjacent unarmed Attack hits you, the attacker takes RES/2 damage after its Attack resolves; this damage cannot Wound.* 
+*You have trained to make hitting you a poor decision. Gain DR equal to RES/3 and Block becomes a Speed 4 Interrupt. Whenever a damage-dealing adjacent unarmed Attack hits you, the attacker takes RES/2 damage after its Attack resolves; this damage cannot Wound.*
 
-*When you block an attack, if your last action was also a block against an attack of the same broad discipline, increase the block effectiveness by 10%, this stacks up to 5 times. If this would, for whatever reason, take you above 100% block effectiveness, any negative damage heals your VIT at 50% effectiveness. So at 110% damage reduction, if you blocked 100 Damage, you would recover 5 VIT. This cannot take you above 100% VIT.*
+*When you Block consecutive attacks of the same broad discipline, increase your Block percentage by 10 percentage points for each consecutive Block after the first, up to five increases. Changing your defensive response or the incoming discipline resets this bonus. Block cannot exceed 100%; excess reduction never restores Vitality.*
 
 *Treat damage you take as 10% lower when determining Wounds, or 25% lower when you Block. Your caution carries into your offense: your Attacks count as 10% lower for determining Wounds.*
 
@@ -109,7 +94,7 @@ Unless an entry says otherwise, a Unique may be taken only once.
 
 *Hunter techniques make sense to you in a way they simply do not to most people. Reduce the XP cost of Jutsu you learn by 25%, rounded up. You may learn Jutsu one Rank higher than your normal Rank limit, but this never bypasses a Talent, Ability, Aptitude, Heritage, or technique-specific requirement.*
 
-*Additionally, you gain advantage (2d20kh1) when rolling to make any roll relating to learning new things.* 
+*Additionally, you gain advantage (2d20kh1) when rolling to make any roll relating to learning new things.*
 
 *A Jutsu you could not use without Genius costs \+3 Chakra or Stamina each time you use it.*
 
@@ -141,7 +126,7 @@ Unless an entry says otherwise, a Unique may be taken only once.
 
 *You understand the living world better than books ever taught you. Increase maximum Survival ranks by 3 and gain \+3 to detect, disarm, or avoid traps. Use CHA/13 instead of CHA/18 for Ninjutsu Damage Bonus. Gain \+1 on Chakra Exhaustion rolls per Rank of the Jutsu being used. You also gain the ability to communicate simple ideas with beasts, creatures and natural animals such as birds and bears.*
 
-*When rolling checks related to studying non-human creatures, you gain advantage.* 
+*When rolling checks related to studying non-human creatures, you gain advantage.*
 
 *Survival may replace Research for prerequisites of ordinary Elemental Ninjutsu when field knowledge is relevant. Reduce maximum Research ranks by 3\.*
 
@@ -551,7 +536,7 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 
 *Requires: Primary Heritage: Karashi (Puppets)*
 
-*During construction, designate two installed Weapon Mounts, Mechanisms or compatible Attachments as concealed systems. The first Attack made by each concealed weapon or Mechanism after its reveal gains \+3 Accuracy and \-2 Final Speed. Once per battle, when your Primary fully defends an Attack, you may immediately reveal and activate one unspent concealed defensive Attachment as a Speed 0 Interrupt, paying all its normal resource costs. This attack uses it’s base speed for it’s damage calculations, and is considered a surprise attack.*
+*During construction, designate two installed Weapon Mounts, Mechanisms or compatible Attachments as concealed systems. The first Attack made by each concealed weapon or Mechanism after its reveal gains \+3 Accuracy and \-2 Final Speed. Once per battle, when your Primary fully defends an Attack, you may immediately reveal and activate one unspent concealed defensive Attachment as a Speed 0 Interrupt, paying all its normal resource costs. This attack uses its base speed for its damage calculations, and is considered a surprise attack.*
 
 ### Uchiha — Mirror-Eyed Prodigy
 {:#uchiha-mirror-eyed-prodigy}
@@ -945,15 +930,15 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 
 *Your control of elemental chakra has passed the point where ordinary categories are especially useful. Choose two basic elements; you may use them as if you possessed one rank of Elemental Aptitude, and Elemental Affinity applies to every basic element you can use.*
 
-*Your Elemental Shaping equals 1 for each basic element you can use, plus 1 for each Jutsu Rank (E, D, C, B, A) in which you know at least one Jutsu of that element. Count each Rank separately for each element. When you declare a damaging basic Elemental Ninjutsu, choose any combination of the following whose total cost does not exceed your Elemental Shaping:* 
+*Your Elemental Shaping equals 1 for each basic element you can use, plus 1 for each Jutsu Rank (E, D, C, B, A) in which you know at least one Jutsu of that element. Count each Rank separately for each element. When you declare a damaging basic Elemental Ninjutsu, choose any combination of the following whose total cost does not exceed your Elemental Shaping:*
 
-- *2 — \+2 yards Range;*   
-- *3 — \+1 Area or Radius;*   
-- *5 — \-1 Seal Speed;*   
-- *6 — \+1 Accuracy;*   
-- *8 — \+1 Damage Bonus;*   
-- *10 — add one elemental rider associated with a basic element you can use:*   
-  - *Katon, Ignite 1; Doton, Immobilization 1; Raiton, Paralysis 1; Suiton, Stun 1; Fūton, \+5% Wounding.* 
+- *2 — \+2 yards Range;*  
+- *3 — \+1 Area or Radius;*  
+- *5 — \-1 Seal Speed;*  
+- *6 — \+1 Accuracy;*  
+- *8 — \+1 Damage Bonus;*  
+- *10 — add one elemental rider associated with a basic element you can use:*  
+  - *Katon, Ignite 1; Doton, Immobilization 1; Raiton, Paralysis 1; Suiton, Stun 1; Fūton, \+5% Wounding.*
 
 *Status riders added this way apply on a hit and do not require a Status roll. The same option may be chosen more than once. Area and Range cannot increase by more than half the technique's printed value. Shaping never changes an element into an advanced element.*
 
@@ -996,9 +981,9 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Pinnacle
 {:#pinnacle}
 
-*Choose Taijutsu, Ninjutsu, or Genjutsu as your Pinnacle Specialty. If you reached Pinnacle by upgrading Specialist, use the same Specialty. Your Pinnacle Specialty gains \+1 Accuracy, or \+1 to Genjutsu offense, and \+2 on its relevant Stamina or Chakra Exhaustion rolls. At the start of each Specialty Action choose one Form:* 
+*Choose Taijutsu, Ninjutsu, or Genjutsu as your Pinnacle Specialty. If you reached Pinnacle by upgrading Specialist, use the same Specialty. Your Pinnacle Specialty gains \+1 Accuracy, or \+1 to Genjutsu offense, and \+2 on its relevant Stamina or Chakra Exhaustion rolls. At the start of each Specialty Action choose one Form:*
 
-- *Precision, \+3 Accuracy*   
+- *Precision, \+3 Accuracy*  
 - *Power, \+15% Final Damage and \+2 final Speed*  
 - *Economy, \+4 on the Exhaustion roll, \-2 to the Final Cost*  
 - *Guard, \+3 on your next Defensive roll before your following Action.*  

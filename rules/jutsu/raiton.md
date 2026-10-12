@@ -218,7 +218,7 @@ Speed: 8
 Seal Speed: 8
 
 Tags: Interrupt  
-Effects: You parry an incoming attack with a X\*2 Bonus. X begins at 1 and increases by 1 for every time you cast this jutsu to a max of 4\. X resets after you move more than 5 Yards from where you first used it, use any jutsu beside a lightning technique, or take an interrupt besides this one. 
+Effects: You parry an incoming attack with a X\*2 Bonus. X begins at 1 and increases by 1 for every time you cast this jutsu to a max of 4\. X resets after you move more than 5 Yards from where you first used it, use any jutsu beside a lightning technique, or take an interrupt besides this one.
 
 This works against elements that are weak to it up to A rank, elements that are strong to it up to C-rank, and all other Jutsu, up to B-rank.
 
@@ -267,7 +267,7 @@ Area: CHA
 Speed: 13  
 Seal Speed: 22  
 Tags: Utility, AoE, Self, Environmental  
-Effects: So long as you maintain this Jutsu's upkeep, you are afflicted by Immobility 10, which can not be reduced or removed by any means.  You can not end this Jutsu like normal; you must take a Speed 10, Delay 5 action to end this Jutsu's Upkeep. No actions can be performed so long as the Upkeep is maintained. Moving somehow or being forcibly moved causes this Jutsu to end. 
+Effects: So long as you maintain this Jutsu's upkeep, you are afflicted by Immobility 10, which can not be reduced or removed by any means.  You can not end this Jutsu like normal; you must take a Speed 10, Delay 5 action to end this Jutsu's Upkeep. No actions can be performed so long as the Upkeep is maintained. Moving somehow or being forcibly moved causes this Jutsu to end.
 
 Within the field, all chakra-based sensing (such as Byakugan's vision, chakra-sensory ninja, and the Yurokensei technique) receive \-10 to Awareness and Chakra Control. Electronic and electrical devices in this area are also useless (Including a magnetized compass made using Raiton).
 
@@ -321,7 +321,7 @@ Speed: 16
 Seal Speed: 18  
 Special: Paralysis 3 for 20 IC  
 Tags: Attack, Melee, Piercing, Energy, Raiton  
-Effects: 
+Effects:
 
 If you moved at least 5 yards toward the target as part of this Attack, increase Damage by 10% but suffer \-1 Defense until your next non-Interrupt Action.
 
@@ -339,7 +339,7 @@ Speed: 12
 Seal Speed: 16  
 Special: Paralysis 3 for 20 IC  
 Tags: Attack, AoE, Self, Energy, Raiton  
-Effects: 
+Effects:
 
 The Area is centered on you and does not affect you.
 
@@ -413,7 +413,7 @@ Effects: You create X clones up to a max of 2\. These function like regular buns
 
 - Raiton Ninjutsu: The clone must first perform the handseals costing AP equal to half the technique's modified Seal Speed. It then costs X AP, where X is half the technique's Speed. They cannot, however, use Raiton Bunshin.
 
-Anyone who destroys a Lightning Clone within a 1 yard range takes this technique's damage automatically (not including Speed\*NDB). 
+Anyone who destroys a Lightning Clone within a 1 yard range takes this technique's damage automatically (not including Speed\*NDB).
 
 Lightning Clones use your base Stamina and Chakra Exhaustion bonuses, as if they were a Fatigue 1 version of you without any temporary benefits (such as having eaten a Soldier Pill before creating them). If a clone fails a Fatigue roll, it vanishes just as if it had been struck.
 
@@ -447,7 +447,7 @@ Speed: 16
 Seal Speed: 20  
 Special: Paralysis 2 for 20 IC  
 Tags: Attack, AoE, Energy, Raiton  
-Effects: 
+Effects:
 
 Requires you and a willing ally, clone, weapon tether, or placed conductor within 30 yards. X is the distance between both endpoints.
 
@@ -484,7 +484,7 @@ Seal Speed: 24
 Special: Paralysis 4  
 Tags: Attack, Projectile, Piercing, Energy  
 Requires: Chidori  
-Effects: 
+Effects:
 
 Choose one target normally, or center the technique on a 4-yard Area. If used as an AoE, damage is reduced to 75% and the Accuracy bonus is lost.
 
@@ -504,7 +504,7 @@ Seal Speed: 40
 Tags: Utility, Energy, AoE, Environmental  
 Effects: Each Pillar has 300 HP and a DR of 20+CHA/5.
 
-This is a Cube 25, inside a Cube 50, inside a Cube 75, inside a Cube 100; thus, it's 25 yards from the edge of one layer to the next. This may be defended with by dodging escaping 1 layer for every 4 points they beat the accuracy. 
+This is a Cube 25, inside a Cube 50, inside a Cube 75, inside a Cube 100; thus, it's 25 yards from the edge of one layer to the next. This may be defended with by dodging escaping 1 layer for every 4 points they beat the accuracy.
 
 For each layer a person is inside they suffer \-2 Immobilize and 1 Paralyze. If a Pillar is destroyed, that layer is forcibly ended. Thus, someone at the center would be at \-8 Immobilize and Paralyze 4, until they managed to run 25 yards or destroy a pillar from one set; then they'd be at \-6 Immobilize and Paralyze 3, and so forth.
 
@@ -538,7 +538,7 @@ Speed: 20
 Seal Speed: 26  
 Special: Paralysis 6 for 30 IC  
 Tags: Attack, Projectile, Energy, Raiton  
-Effects: 
+Effects:
 
 On a full hit, if the target already has Raiton-induced Paralysis, increase Wounding Damage by 10%.
 
@@ -557,7 +557,7 @@ Speed: 18
 Seal Speed: 22  
 Special: Paralysis 4 for 25 IC  
 Tags: Attack, Melee, Piercing, Energy, Raiton  
-Effects: 
+Effects:
 
 Requires Chidori. Ignore 25% DR and 25% Armor effectiveness.
 

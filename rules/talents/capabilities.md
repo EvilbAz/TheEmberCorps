@@ -13,7 +13,7 @@ permalink: "/rules/talents/capabilities/"
 ### Eight Gates
 {:#eight-gates}
 
-The Eight Gates are physical limiters built into the body to prevent a shinobi from destroying themselves with their own strength. Learning to open them is less about gaining power than learning exactly how much damage you can survive in exchange for it.
+Opening the body’s chakra limiters grants extraordinary strength at the cost of injury.
 
 #### Core Talent
 {:#core-talent-5}
@@ -29,7 +29,7 @@ Explosive Entry — The first Taijutsu Attack you make after opening a higher Ga
 
 Iron Conditioning — Gain +3 on rolls made specifically to resist, survive, or remain conscious through the self-inflicted consequences of the Eight Gates. This does not prevent unavoidable consequences.
 
-Second Opening — Gain access to Gates 4 through 6. Use the improved Wounding equation currently associated with the second Eight Gates Talent: (4 × Gates Open + Final Speed + Half AP Spent)%.
+Second Opening — Gain access to Gates 4 through 6. Use this improved self-wounding chance: (4 × Gates Open + Final Speed + Half AP Spent)%.
 
 Final Opening — Requires Second Opening. Gain access to Gates 7 and 8.
 
@@ -41,7 +41,7 @@ Perfected Release — Once per battle, when opening or maintaining Gate 6 or low
 ### Kage Bunshin
 {:#kage-bunshin}
 
-Shadow Clones are not merely extra bodies. Their real danger is that a shinobi who learns to think through several versions of themselves can attack, scout, study, and deceive in ways an ordinary clone user cannot.
+Shadow Clones divide a shinobi’s effort between fighting, reconnaissance and training.
 
 #### Core Talent
 {:#core-talent-6}
@@ -69,7 +69,7 @@ Many as One — When one of your Kage Bunshin fully hits a creature, your next A
 ### Medical Training
 {:#medical-training}
 
-Medical Ninjutsu requires a level of Chakra control and anatomical knowledge that most Hunters never need. A trained medic is not simply someone who can restore HP; they are the person who can look at a body falling apart and know which failure matters first.
+Medical Ninjutsu combines precise chakra control with knowledge of anatomy and treatment.
 
 #### Core Talent
 {:#core-talent-8}
@@ -87,16 +87,16 @@ Combat Medic — When one of your Medical Ninjutsu restores HP to an ally during
 
 Anatomist — After successfully using Triage or a Medicine check to examine a living creature, gain +2 Accuracy on your next Attack against that creature before the end of the scene. This represents anatomical knowledge and does not apply when the creature's anatomy is completely alien to what you examined.
 
-Chakra Surgeon — Gain access to B-Rank Medical Ninjutsu, subject to the normal requirements for B-Rank techniques other than the Medical Training restriction.
+Chakra Surgeon — You may learn B-Rank Medical Ninjutsu without Advanced Medical Training. All other learning requirements still apply.
 
-Emergency Medicine — Once per battle, when a creature within reach is reduced to 0 HP but not killed outright, you may immediately perform a Speed 5 Interrupt to attempt whatever Medicine action the Core Rules use to stabilize that creature.
+Emergency Medicine — Once per battle, when a living creature within reach is reduced to 0 HP or lower without dying, you may use [Stabilise]({{ "/rules/core/#stabilise" | relative_url }}) as a Speed 5 Interrupt. Pay its normal equipment cost and make its Medicine check. This permits the Interrupt but does not restore HP.
 
-Field Pharmacy — During a Week's Rest, prepare two ordinary medical consumables you could normally create or purchase. These must be non-unique items permitted by the Equipment and Crafting rules.
+Field Pharmacy — During a Week’s Rest, prepare two doses of a non-unique medicine you can normally purchase or craft. Pay their normal Ryō and material costs. This preparation uses no Downtime Slot.
 
 #### Mastery
 {:#mastery-7}
 
-Surgeon of the Corps — Gain access to A-Rank Medical Ninjutsu if you otherwise meet their normal requirements. In addition, once per battle when you successfully stabilize or restore HP to a character at 0 HP, they may immediately ignore the numerical penalties of one physical Wound until the end of their next Action. The Wound is not removed.
+Surgeon of the Corps — You may learn A-Rank Medical Ninjutsu without Advanced Medical Training. All other learning requirements still apply. In addition, once per battle when you successfully stabilize or restore HP to a character at 0 HP, they may immediately ignore the numerical penalties of one physical Wound until the end of their next Action. The Wound is not removed.
 
 ### Natural Chakra
 {:#natural-chakra}
@@ -123,7 +123,7 @@ Perfect Communion — After three Natural Chakra Developments, reduce Gather Nat
 ### Exotic Venoms
 {:#exotic-venoms}
 
-Most poisoners work with substances a competent field medic has seen before. You have learned to find, preserve, identify, and weaponize things that should never have been put in a bottle.
+You study and prepare the unusual toxins found in monsters and the Wastes.
 
 #### Core Talent
 {:#core-talent-10}
@@ -157,7 +157,7 @@ Signature Toxin — During a Week's Rest, you may designate one poison you perso
 ### Seal Training
 {:#seal-training}
 
-Fūinjutsu is less about handseals than it is about understanding Chakra as language: boundaries, conditions, storage, suppression, and instructions written into the world.
+Fūinjutsu uses inscribed formulae to store, bind and direct chakra.
 
 #### Core Talent
 {:#core-talent-11}
@@ -182,12 +182,12 @@ Seal Architect — You may maintain two Prepared Formulae at once. Once per Miss
 #### Mastery
 {:#mastery-10}
 
-Grand Formula — Gain access to A-Rank Sealing Ninjutsu if you otherwise meet their normal requirements. During each Week's Rest, choose one of your Prepared Formulae as a Grand Formula. Its first use before your next Week's Rest reduces final Seal Speed by 5 and final Action Speed by 2, minimum 1, instead of the normal Prepared Formula reduction.
+Grand Formula — You may learn A-Rank Sealing Ninjutsu without Advanced Seal Training. All other learning requirements still apply. During each Week's Rest, choose one of your Prepared Formulae as a Grand Formula. Its first use before your next Week's Rest reduces final Seal Speed by 5 and final Action Speed by 2, minimum 1, instead of the normal Prepared Formula reduction.
 
 ### Master Artisan
 {:#master-artisan}
 
-A Master Artisan understands that the difference between scrap and treasure is often whether anyone present knows what they are looking at. At this level, materials other craftsmen treat as dangerous curiosities become ingredients.
+You work with rare materials recovered from monsters and old-world sites.
 
 #### Core Talent
 {:#core-talent-12}
@@ -203,19 +203,19 @@ Monsterwright — Gain +5 on Crafting checks where a meaningful Trophy or monste
 
 Efficient Workshop — Reduce the time required for your ordinary Crafting Downtime actions by 25%, minimum the shortest unit the Crafting rules normally permit. This does not reduce special story requirements or time gates on unique projects.
 
-Field Repair — Once per Mission or Hunt, you may perform emergency maintenance on a damaged ordinary weapon, armor piece, tool, puppet component, or similar crafted item you can reach. Gain +5 on the relevant Crafting check and perform the repair in the shortest practical scene-scale time the item allows.
+Field Repair — Once per Mission or Hunt, you may perform emergency maintenance on a damaged ordinary weapon, armor piece, tool, puppet component, or similar crafted item you can reach. Gain +5 on the relevant Crafting check and make one roll using the normal Repairing rules without a Downtime Slot. In combat, this is a Speed 15 Utility Action; outside combat, it takes ten uninterrupted minutes.
 
 Signature Work — Choose one permanent item you personally crafted. When modifying or repairing that item, gain +5 on the Crafting check and treat one failed Crafting roll per Week's Rest as though it had succeeded by the minimum required amount. This cannot create materials or properties you do not possess.
 
 #### Mastery
 {:#mastery-11}
 
-Magnum Opus — You may work with every Wondrous Material currently available to ordinary Master Artisans. You may also maintain one Magnum Opus: a permanent item you personally crafted which may support one additional minor special property when the Crafting rules and its materials could reasonably support that property. Creating or changing your Magnum Opus still requires the normal materials, Downtime, and crafting rolls.
+Magnum Opus — You may work with every Wondrous Material currently available to ordinary Master Artisans. You may also maintain one Magnum Opus: a permanent item you personally crafted which may contain a second Wondrous Material you have mastered. Both materials count toward its normal Property Load and crafting cost; all other item limits still apply. Creating or changing your Magnum Opus still requires the normal materials, Downtime, and crafting rolls.
 
 ### Elemental Mastery
 {:#elemental-mastery}
 
-Most shinobi learn an element as a language. You have spent enough time with one nature that it has become an accent in everything you do.
+You have specialised in shaping one chakra nature.
 
 #### Core Talent
 {:#core-talent-13}
@@ -249,7 +249,7 @@ True Nature — When using Elemental Control, apply both Efficient Moulding and 
 ### Interrogator
 {:#interrogator}
 
-Some people crack under threats. Others talk because somebody made them comfortable. The useful skill is knowing which person is sitting in front of you before you choose the tool.
+You assess a subject’s reactions and adapt your questioning to obtain useful information.
 
 #### Core Talent
 {:#core-talent-14}
@@ -291,7 +291,7 @@ Break the Story — Once per scene, after you have succeeded on at least two Rea
 ### Weapon Savant
 {:#weapon-savant}
 
-A weapon stops being equipment after enough years in your hands. Its weight becomes posture, its reach becomes distance, and the space around you starts being measured in cuts.
+Long practice has made your chosen weapon familiar in attack, defence and movement.
 
 #### Core Talent
 {:#core-talent-15}
@@ -321,7 +321,7 @@ Extension of the Body — When declaring an Attack with your chosen weapon famil
 ### Sensor Training
 {:#sensor-training}
 
-Most Hunters use their eyes until the world gives them a reason not to. Sensors learn to feel Chakra itself: presence, motion, pressure, and the faint signatures left behind when somebody thought they were gone.
+You detect chakra sources and learn to distinguish their signatures.
 
 #### Core Talent
 {:#core-talent-16}
@@ -355,7 +355,7 @@ Mind's Eye — While conscious, you passively sense unsuppressed Chakra sources 
 ### Chakra Suppression
 {:#chakra-suppression}
 
-The easiest Chakra signature to find is one that does not know it is shouting. You have learned to close the coils down, bury the pressure, and move through the world without advertising what you are.
+You conceal your chakra signature from trained sensors.
 
 #### Core Talent
 {:#core-talent-17}

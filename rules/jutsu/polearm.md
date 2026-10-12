@@ -21,7 +21,7 @@ permalink: "/rules/jutsu/polearm/"
 #### Passing Thrust
 {:#passing-thrust}
 
-The thrust is carried through a passing step so the point threatens beyond the weapon’s usual measure. The user can finish closer or farther away depending on where they want the next exchange to happen.
+The thrust is carried through a passing step so the point threatens beyond the weapon’s usual measure.
 
 Rank: E  
 Stamina: \+3  
@@ -33,7 +33,7 @@ Effects: Gain \+2 Reach for this Attack. You may use Move with an Attack either 
 #### Butt-End Check
 {:#butt-end-check}
 
-The rear of the weapon becomes a second striking end. A compact blunt check can create room, punish somebody who crowded the shaft, and immediately restore the distance where the polearm is strongest.
+The rear of the weapon becomes a second striking end.
 
 Rank: E  
 Stamina: \+3  
@@ -47,7 +47,7 @@ Effects: Treat the attack as Blunt. On a successful Special, you may immediately
 #### Threading Thrust
 {:#threading-thrust}
 
-The point is threaded through a small defensive window rather than swung around the guard. The technique makes late Interrupts harder and rewards a clean line by slipping part of the impact past DR.
+The point is threaded through a small defensive window rather than swung around the guard.
 
 Rank: E  
 Stamina: \+5  
@@ -73,7 +73,7 @@ Effects: Gain \+1 Reach for this Attack. \+5% Wounding.
 #### Set Spear
 {:#set-spear}
 
-The user stops chasing the opponent and makes the opponent enter the weapon instead. The polearm is already aligned before the approach begins, turning movement into the trigger for the counterattack.
+The user stops chasing the opponent and makes the opponent enter the weapon instead.
 
 Rank: E  
 Stamina: 5  
@@ -84,7 +84,7 @@ Effects: When a creature enters your Reach, make a Polearm Basic Weapon Attack a
 #### Rotation Strike
 {:#rotation-strike}
 
-The whole polearm is rotated through a controlled arc. It can claim space against several enemies, or the same mechanics can be tightened around one target for better Accuracy.
+The whole polearm is rotated through a controlled arc.
 
 Rank: E  
 Stamina: \+7  
@@ -100,7 +100,7 @@ Effects: Attack all chosen enemies in Reach. If only one creature is targeted, g
 #### Catch and Turn
 {:#catch-and-turn}
 
-The hook, blade, or shaft catches posture instead of simply striking it. Once contact is made, the user chooses whether to turn the target into a new space or sacrifice damage to put them on the ground.
+The hook, blade, or shaft catches posture instead of simply striking it.
 
 Rank: D  
 Stamina: \+8  
@@ -113,7 +113,7 @@ Effects: On a full hit, choose one: Turn — resolve Knockback 4, but you may ch
 #### Pinning Thrust
 {:#pinning-thrust}
 
-You brace the haft and drive the point through the target’s line with enough commitment that the impact itself disrupts their movement. The technique is dangerous because it gives up easy recovery in exchange for keeping the point exactly where the opponent least wants it.
+You brace the haft and drive the point through the target’s line with enough commitment that the impact itself disrupts their movement.
 
 Rank: D  
 Stamina: \+12  
@@ -127,7 +127,7 @@ Effects: This Attack deals Piercing wounds and gains \+10% Wounding. Immobilizat
 #### Haft Guard
 {:#haft-guard}
 
-The shaft receives an incoming attack across a broad, strong surface. A successful defense is used to choose the new measure, putting the attacker either uncomfortably close or back at the point.
+The shaft receives an incoming attack across a broad, strong surface.
 
 Rank: D  
 Stamina: 5  
@@ -138,7 +138,7 @@ Effects: Parry a Melee Attack with \+1. On full success, step 1 yard and choose 
 #### Extended Guard
 {:#extended-guard}
 
-The weapon is kept extended as a permanent obstacle. The stance is less about striking first than making an opponent spend more of their movement just getting to a place where they can threaten you.
+The weapon is kept extended as a permanent obstacle.
 
 Rank: D  
 Stamina: 9  
@@ -165,7 +165,7 @@ Effects: On a full hit, choose one held weapon. Choose Attack or Parry; the next
 #### Shaft Pivot
 {:#shaft-pivot}
 
-This is circular footwork performed around the weapon’s ideal measure. The user changes side without collapsing the distance or giving the target a clean line to answer from.
+This is circular footwork performed around the weapon’s ideal measure.
 
 Rank: C  
 Stamina: 6  
@@ -176,7 +176,7 @@ Effects: Move up to 5 yards around a creature in your Reach without leaving Reac
 #### Leaping Pole
 {:#leaping-pole}
 
-The shaft is planted and used as a lever for the body. The vault creates unusual vertical or lateral attack lines and rewards a follow-up made from above rather than serving as movement for its own sake.
+The shaft is planted and used as a lever for the body.
 
 Rank: C  
 Stamina: 12  
@@ -201,7 +201,7 @@ Effects: Parry a Ranged Taijutsu or Projectile Attack with \+2. On a full succes
 #### Sliding Measure
 {:#sliding-measure}
 
-The hands slide rather than the feet. By changing grip length, the user decides whether the next exchange values reach or a heavier striking die, making measure an active resource.
+The hands slide rather than the feet.
 
 Rank: B  
 Stamina: 9  

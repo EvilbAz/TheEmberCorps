@@ -13,9 +13,9 @@ permalink: "/rules/jutsu/natural-chakra/"
 # Natural Chakra
 {:#natural-chakra}
 
-Natural Chakra is the chakra of the living world: the pressure in the earth, the motion of water, the heat of the air and the life that refuses to die. A shinobi normally produces chakra from within. A Sage learns to become still enough that the world can answer back.
+Natural energy exists in the surrounding world. A Sage gathers it and balances it with their own physical and spiritual energy to form senjutsu chakra.
 
-Natural Chakra is a Capability Talent built around preparation and balance. You draw Natural Chakra into yourself, enter Sage Mode, then decide when to preserve that balance and when to spend it on Sage Arts.
+The Natural Chakra Talent grants a Sage Tradition, Gather Natural Chakra, Sage Mode and Sage techniques.
 
 
 # AT A GLANCE
@@ -79,7 +79,7 @@ Outside Sage Mode, Sage Chakra is unstable. If you take a Rest, leave the scene,
 
 \[Speed 10, Delay 8, Utility, Self, Abort\]
 
-You stop forcing chakra through your coils and allow the Natural Chakra around you to settle into them.
+You remain still and gather natural energy into your chakra network.
 
 Until this Action resolves, your Movement Speed is 0\. You cannot declare another non-Interrupt Action. If you voluntarily move or use an Interrupt, Gather Natural Chakra is aborted after that movement or Interrupt resolves.
 
@@ -137,7 +137,7 @@ Your Tradition changes what Natural Chakra rewards you for doing, but it does no
 
 Most shinobi are taught that chakra begins inside the body. Physical and spiritual energy are mixed, shaped through the coils and forced outward into the world. Natural Chakra asks for the opposite instinct. It is already there: in roots pushing through old stone, in rainwater trapped beneath the earth, in the heat rolling over ruined roads and in every living thing stubborn enough to keep growing.
 
-A Sage does not simply take that power. They learn to make room for it. The first lessons are often humiliatingly quiet: sitting until ordinary chakra circulation feels deafening, learning where the body ends and the environment begins, and recognising the moment Natural Chakra stops being background pressure and starts answering back.
+Sage training begins with stillness and careful balance. Too much natural energy overwhelms the body; too little cannot sustain Sage Mode.
 
 In the wilds around the Havens, this is not an abstract philosophy. The world is saturated with things that have survived too long, grown too large or adapted too completely to their surroundings. Great Beasts, ancient Summon Tribes, living forests, fungal colonies and stranger phenomena can all develop their own ways of balancing Natural Chakra. Those methods become Sage Traditions.
 

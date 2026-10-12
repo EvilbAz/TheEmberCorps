@@ -21,7 +21,7 @@ permalink: "/rules/jutsu/dual/"
 #### Double Cut
 {:#double-cut}
 
-Both weapons attack during the same entry, but they do not have to succeed together. The style begins its chain as soon as either hand finds a useful line.
+Both weapons attack during the same entry, but they do not have to succeed together.
 
 Rank: E  
 Stamina: \+4  
@@ -32,7 +32,7 @@ Effects: Make one Attack with each held weapon at 55% final damage each. Roll Ac
 #### Scissor Step
 {:#scissor-step}
 
-The two weapons close like shears while the feet circle the target. A parry against one line can leave the defender’s weapon committed in exactly the place the next paired attack wants it.
+The two weapons close like shears while the feet circle the target.
 
 Rank: E  
 Stamina: \+3  
@@ -45,7 +45,7 @@ Effects: Requires two weapons. After the Attack resolves, you may use any remain
 #### Alternating Cuts
 {:#alternating-cuts}
 
-The hands alternate in a broken rhythm, changing line and timing with every swing. The target has to reorient from one weapon to the other instead of settling into a single defensive cadence.
+The hands alternate in a broken rhythm, changing line and timing with every swing.
 
 Rank: E  
 Stamina: \+5  
@@ -57,7 +57,7 @@ Effects: If the immediately previous Chain 2 you used in this Chain was a differ
 #### Closing Pair
 {:#closing-pair}
 
-The finisher commits both hands to the same exchange. Hits are resolved separately for defense but brought together when the game asks how serious the combined wound is.
+The finisher commits both hands to the same exchange.
 
 Rank: E  
 Stamina: \+8  
@@ -68,7 +68,7 @@ Effects: Make one Attack with each weapon at 65% final damage each. Roll separat
 #### Off-Hand Catch
 {:#off-hand-catch}
 
-The off-hand weapon exists to solve the problems the leading weapon creates. A successful catch leaves either hand free to become the next attacker without wasting time on a formal lead change.
+The off-hand weapon exists to solve the problems the leading weapon creates.
 
 Rank: E  
 Stamina: 4  
@@ -94,7 +94,7 @@ Effects: Make one Accuracy roll with each weapon against every chosen enemy in A
 #### Split Guard
 {:#split-guard}
 
-Each weapon asks a separate defensive question. If the target answers both with the same action, the second line is deliberately timed to arrive when that repeated defense is least comfortable.
+Each weapon asks a separate defensive question.
 
 Rank: D  
 Stamina: \+8  
@@ -118,7 +118,7 @@ Effects: Requires two weapons. On a full hit, choose two different wound locatio
 #### Hand Feint
 {:#hand-feint}
 
-Two visible threats are used to split attention before the attack starts. The user chooses which defensive habit—Dodge or Parry—they are trying to make less reliable on the next Chain action.
+Two visible threats are used to split attention before the attack starts.
 
 Rank: D  
 Stamina: 5  
@@ -129,7 +129,7 @@ Effects: Opposed Espionage vs Awareness. On success, choose Dodge or Parry; that
 #### Paired Flow
 {:#paired-flow}
 
-The weapons settle into a shared rhythm, one hand recovering while the other remains live. The alternating cadence makes both parries and follow-up attacks tighter and more economical.
+The weapons settle into a shared rhythm, one hand recovering while the other remains live.
 
 Rank: D  
 Stamina: 9  
@@ -155,7 +155,7 @@ Effects: Make one Attack with each weapon at 60% final damage. The attacks must 
 #### Changing Lead
 {:#changing-lead}
 
-The style changes which weapon is “leading” without changing what is held. This lets the user decide which damage type and hand-specific penalties matter for the next few beats.
+The style changes which weapon is “leading” without changing what is held.
 
 Rank: C  
 Stamina: 5  
@@ -182,7 +182,7 @@ Effects: Requires two weapons. On a full hit, if the target used a weapon to Blo
 #### Counterpair
 {:#counterpair}
 
-A full parry with one hand opens the line for the other. Before the attacker can recover their weapon, the off-hand snaps through the space their attack just exposed.
+A full parry with one hand opens the line for the other.
 
 Rank: B  
 Stamina: 10  

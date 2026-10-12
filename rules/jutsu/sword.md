@@ -21,7 +21,7 @@ permalink: "/rules/jutsu/sword/"
 #### Rising Cut
 {:#rising-cut}
 
-The cut is meant to raise the opponent’s hands and eyes. A clean hit gives you the choice to press that lifted guard or take the outside angle before they can square up again.
+You cut upward beneath the target’s guard.
 
 Rank: E  
 Stamina: \+3  
@@ -33,7 +33,7 @@ Effects: On a full hit, choose one: Guard Lift — note the Defense used against
 #### Draw Cut
 {:#draw-cut}
 
-The sheath is used as part of the attack rather than as storage. You can spend the draw on raw timing, or let the same motion carry you past the target instead of stopping in front of them.
+You strike as the sword leaves its sheath.
 
 Rank: E  
 Stamina: \+4  
@@ -46,7 +46,7 @@ Effects: If the sword began sheathed, choose one before rolling: Flash Draw — 
 #### Descending Cut
 {:#descending-cut}
 
-This is the weight of the sequence coming down after the entry has already forced the guard upward. The user decides whether to cash that opening out as damage or smother the defender’s weapon line.
+You bring the blade down through the opening made by your previous strike.
 
 Rank: E  
 Stamina: \+5  
@@ -58,7 +58,7 @@ Effects: If your previous Chain attack was Chain 1, choose one when this Attack 
 #### Finishing Cut
 {:#finishing-cut}
 
-This is where the sword chain is meant to end. The user commits the hips and shoulders to a cut chosen for wound placement, not simply for making another contact.
+You commit to a precise cut through the exposed target.
 
 Rank: E  
 Stamina: \+8  
@@ -71,7 +71,7 @@ Effects: \+10% Wounding. You may make this a Called Shot; reduce that Called Sho
 #### Half-Step
 {:#half-step}
 
-The step changes the user’s relationship to the target without putting the sword away or letting the chain go neutral. It is footwork for changing shoulders, hips, and escape lanes while the blade remains live.
+You change position while keeping your blade between you and the target.
 
 Rank: E  
 Stamina: 4  
@@ -82,7 +82,7 @@ Effects: Move up to 3 yards without breaking your Chain. You may move around the
 #### Iaidō
 {:#iaido}
 
-A draw-cut performed from stillness, relying on timing and a clean line rather than a long wind-up. The sheath, hips, and first step all become part of the same motion, so the technique is strongest when used before the sword has already been brought into a wide exchange.
+You draw and strike in one motion from a still stance.
 
 Rank: E  
 Stamina: \+6  
@@ -97,7 +97,7 @@ Effects: Requires a sheathed sword. On the first use against a creature this com
 #### Reversing Cut
 {:#reversing-cut}
 
-The blade crosses the line the previous attack established, forcing the defender to decide whether to repeat a familiar answer or abandon it and give up position.
+You reverse the blade across the line of your previous attack.
 
 Rank: D  
 Stamina: \+8  
@@ -109,7 +109,7 @@ Effects: Read the Defense used against your previous Chain attack. If the target
 #### Reverse Edge
 {:#reverse-edge}
 
-The blade never truly resets after the previous exchange. A recovery that would normally bring the sword home is turned into a second cutting line, especially punishing a defense that only barely caught the first.
+You turn the blade’s recovery into a second cut.
 
 Rank: D  
 Stamina: \+10  
@@ -121,7 +121,7 @@ Effects: If the previous Chain attack was partially defended, treat the target's
 #### Bind and Recover
 {:#bind-and-recover}
 
-The incoming weapon is received on the strong of the blade, then guided rather than simply stopped. Good contact leaves your own edge pointed somewhere useful for the answer.
+You catch the attacking weapon and guide it aside.
 
 Rank: D  
 Stamina: 6  
@@ -160,7 +160,7 @@ Effects: Treat this Attack as Piercing. Reduce the target Armor’s Absorption b
 #### Broken Rhythm
 {:#broken-rhythm}
 
-The user sells one line with the eyes, shoulders, or early blade movement and attacks the reaction to it. The technique is strongest when the opponent believes they recognized the first intention.
+You feint with your shoulders and blade before striking along another line.
 
 Rank: C  
 Stamina: 7  
@@ -171,7 +171,7 @@ Effects: Opposed Espionage vs Awareness against your chained target. On success,
 #### Circular Draw
 {:#circular-draw}
 
-The draw opens into a broad arc that claims space rather than chasing one perfect guard. The user decides how much of the motion is spent threatening several bodies and how much remains for recovery.
+You sweep the blade from its sheath in a broad arc.
 
 Rank: C  
 Stamina: \+13  
@@ -187,7 +187,7 @@ Effects: Attack every chosen enemy in the line with one Accuracy roll; divide Sp
 #### Intercepting Draw
 {:#intercepting-draw}
 
-The draw and the defense are the same motion; the blade clears the sheath as it catches the incoming line.
+You draw your sword into the path of an incoming attack.
 
 Rank: B  
 Stamina: 12  
@@ -198,7 +198,7 @@ Effects: Requires a sheathed sword. Parry a Melee Attack with \+2. On a full suc
 #### Draw Reset
 {:#draw-reset}
 
-The sheath becomes a timing tool. A practiced resheath threatens another draw while preserving the rhythm of the current exchange instead of signalling that the fight has reset.
+You sheath the sword quickly, readying another draw.
 
 Rank: B  
 Stamina: 8  
@@ -212,7 +212,7 @@ Effects: Sheathe one sword you hold. Your next Sword Chain 1 before 20 IC has \-
 #### Final Measure
 {:#final-measure}
 
-You commit to the exact line the exchange has exposed, choosing whether to destroy the guard or carry the target through the cut.
+You drive a decisive cut through the opponent’s exposed guard.
 
 Rank: A  
 Stamina: \+24  
@@ -226,7 +226,7 @@ Effects: On a full hit, choose one: Sever Guard — if a weapon was used to Bloc
 #### Perfect Bind
 {:#perfect-bind}
 
-You catch the attacking weapon close to its strong and turn the opponent with the bind rather than simply stopping them.
+You catch the opposing weapon near its base and turn it aside.
 
 Rank: A  
 Stamina: 13  

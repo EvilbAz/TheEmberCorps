@@ -21,7 +21,7 @@ permalink: "/rules/jutsu/club/"
 #### Driving Blow
 {:#driving-blow}
 
-The blow is thrown through the target rather than at them. Its real payoff is deciding how far the impact carries the opponent and whether you chase into the space you just created.
+You drive a heavy blow through the target.
 
 Rank: E  
 Stamina: \+3  
@@ -34,7 +34,7 @@ Effects: On a successful Special, you may follow the target up to half the dista
 #### Rising Blow
 {:#rising-blow}
 
-The head of the weapon rises under the target’s posture, using shock to lift the chin, ribs, or guard. Against somebody already rattled, the same leverage can be spent on damage instead of more Stun.
+You swing upward beneath the target’s guard.
 
 Rank: E  
 Stamina: \+4  
@@ -48,7 +48,7 @@ Effects: Apply Stun 3 normally. If the target was already Stunned before this At
 #### Returning Swing
 {:#returning-swing}
 
-This swing uses the opponent’s recent aggression as information. The user lets the counterweight and return path of the club erase awkward angles that would normally spoil Accuracy, then turns that recovered structure into force.
+You use the club’s return swing to answer the opponent’s attack.
 
 Rank: E  
 Stamina: \+5  
@@ -60,7 +60,7 @@ Effects: If the target attacked you in the last 20 IC, ignore up to 1 point of A
 #### Overhead Blow
 {:#overhead-blow}
 
-This is a deliberately obvious commitment from above. The user accepts the risk of a missed heavy swing in exchange for putting the club where a head-level impact can matter immediately.
+You bring the weapon down in a committed overhead strike.
 
 Rank: E  
 Stamina: \+8  
@@ -74,7 +74,7 @@ Effects: Must be a Called Shot to the Head. \+5% Wounding. On a full miss, your 
 #### Brace
 {:#brace}
 
-The club is braced with the body behind it, turning the weapon into a short piece of mobile cover. The point is to survive the collision without sacrificing the tool to durability damage.
+You brace the club against an incoming blow.
 
 Rank: E  
 Stamina: 4  
@@ -85,7 +85,7 @@ Effects: Block or Parry a Melee Attack with \+1. The first time each Round the c
 #### Wide Swing
 {:#wide-swing}
 
-The weapon is allowed to travel through a wide arc and threaten several enemies at once. The user gives up some concentrated force in exchange for making nearby opponents respect the same swing.
+You sweep the weapon across several nearby opponents.
 
 Rank: E  
 Stamina: \+6  
@@ -102,7 +102,7 @@ Effects: Attack all enemies in reach. Divide Speed×PDB evenly among targets hit
 #### Rib Shot
 {:#rib-shot}
 
-The strike is aimed where breathing, posture, and balance meet. Depending on what matters more, the user can make the target’s next attack clumsy or simply rattle their frame with Stun.
+You strike the target’s ribs to disrupt their breathing and posture.
 
 Rank: D  
 Stamina: \+8  
@@ -114,7 +114,7 @@ Effects: On a full hit, choose one: Smother the Breath — the target takes \-2 
 #### Armor Crack
 {:#armor-crack}
 
-Instead of slipping around armor or a barrier, the club attacks the thing protecting the target. The technique is about putting mass through structure until the defense itself becomes damaged terrain.
+You direct the weapon’s weight into armour or a barrier.
 
 Rank: D  
 Stamina: \+12  
@@ -127,7 +127,7 @@ Effects: Before damaging the target, deal 65% of this Attack's final damage to o
 #### Body Check
 {:#body-check}
 
-The shoulder joins the weapon system. A body check can move an opponent without spending the club’s striking surface, preserving the weapon for the next beat while still changing distance.
+You drive your shoulder into the target.
 
 Rank: D  
 Stamina: 5  
@@ -139,7 +139,7 @@ Effects: If adjacent to your chained target, resolve the Knockback Special witho
 #### Head-Heavy Grip
 {:#head-heavy-grip}
 
-Grip and chakra bias the weapon toward the striking head, exaggerating leverage and reach. Each swing carries more of the weapon’s mass through the head, turning broad motion into crushing displacement.
+Chakra and a shifted grip increase the weapon’s leverage.
 
 Rank: D  
 Chakra: 14  
@@ -168,7 +168,7 @@ Effects: On a full hit, choose Knockback 4 or Prone, then resolve that Special n
 #### Short Grip
 {:#short-grip}
 
-A heavy weapon becomes dangerous to its owner when the grip gets too long, too short, or too awkward. This technique is the practiced reset that restores leverage without giving up the chain.
+You adjust your grip to regain control of the heavy weapon.
 
 Rank: C  
 Stamina: 6  
@@ -179,7 +179,7 @@ Effects: Remove up to 3 points of temporary Accuracy penalty affecting your next
 #### Wallbreaker
 {:#wallbreaker}
 
-This is the answer to doors, walls, armor, and anything else that assumes being hard is the same as being safe. The technique is built to keep meaningful damage on the target even when ordinary hits would be absorbed.
+You strike a wall or defence with the weapon’s full weight.
 
 Rank: C  
 Stamina: \+15  
@@ -195,7 +195,7 @@ Effects: Against Armor, Barriers and unattended objects, this Attack deals \+45%
 #### Guard Rattle
 {:#guard-rattle}
 
-You strike through the defending line hard enough that the weapon or arm catching the blow becomes the problem.
+You hit the defending weapon or limb hard enough to shake its hold.
 
 Rank: B  
 Stamina: \+15  
@@ -207,7 +207,7 @@ Effects: On a full hit, if the target used a weapon to Block or Parry, that weap
 #### Ground Shock
 {:#ground-shock}
 
-The ground is treated like another target. By spending the strike on terrain instead of a body, the user can make footing, approach lines, and movement worse for everybody forced through the area.
+You slam the weapon into the ground, sending an impact through nearby footing.
 
 Rank: B  
 Stamina: 10  

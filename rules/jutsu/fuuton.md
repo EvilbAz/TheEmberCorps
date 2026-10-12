@@ -19,7 +19,7 @@ Blocking reduces the damage of Wind techniques by only 25%.
 
 Using a fan you can rapidly manipulate wind and infuse it with chakra on any technique with the fan tag. When determining seal speed for jutsu with the Fan Tag, any hands wiedling a fan are treated as being open. (Meaning wielding 1 or even 2 fans would allow you to use your full seal speed on fan jutsu).
 
-Oh and if there’s no air or any gasses around (Even water has air in it), then you can’t use Fuuton, but… If you’re in a situation like that then you probably have bigger problems to worry about. 
+Oh and if there’s no air or any gasses around (Even water has air in it), then you can’t use Fuuton, but… If you’re in a situation like that then you probably have bigger problems to worry about.
 
 ## E-Rank
 {:#e-rank-6}
@@ -151,7 +151,7 @@ Effects: You craft a Fan upgrading it using X Artisan Points up to your Chakra C
 
 The Fan (s) gains the following effects and Upgrade:  
 The Fan lasts until you let go of it or end this Technique’s Upkeep  
-The weapon has a third of its normal Durability 
+The weapon has a third of its normal Durability
 
 (1) Your weapon gains a 5% wounding bonus. Max 5\.
 
@@ -197,7 +197,7 @@ Speed: 14
 Seal Speed: 14  
 Special: Knockback 4  
 Tags: Attack, AoE, Energy, Fuuton  
-Effects: 
+Effects:
 
 If at least two targets are fully hit, increase Knockback to 6 for all fully hit targets.
 
@@ -215,7 +215,7 @@ Speed: 12
 Seal Speed: 14  
 Special: Knockback 4  
 Tags: Attack, Projectile, Blunt  
-Effects: 
+Effects:
 
 Instead of making the listed Attack, you may link Gale Palm to one thrown-weapon Attack. That Attack gains \+10 Range and Knockback 2, and its final Speed for damage calculations is treated as 2 higher without changing when you next act.
 
@@ -231,7 +231,7 @@ Upkeep: 5
 Speed: 10  
 Seal Speed: 14  
 Tags: Utility, Self, Weapon, Fuuton  
-Effects: 
+Effects:
 
 Choose one held Melee Weapon. Its attacks gain 2 yards of Range and deal Slashing damage if they did not already.
 
@@ -334,7 +334,7 @@ Speed: 18
 Seal Speed: 22  
 Special: Knockback 8  
 Tags: Attack, AoE, Energy, Fuuton  
-Effects: 
+Effects:
 
 The Knockback originates from the Area's centre.
 
@@ -352,7 +352,7 @@ Area: 15
 Speed: 16  
 Seal Speed: 20  
 Tags: Utility, Environmental, Fuuton  
-Effects: 
+Effects:
 
 For 30 IC, creatures inside that use movement other than the Move Action at half speed take NDB×2 Slashing damage per 3 yards moved, maximum NDB×10 per Action.
 
@@ -476,7 +476,7 @@ Range: 40
 Speed: 26  
 Seal Speed: 28  
 Tags: Attack, Projectile, Slashing, Fan  
-Effects: This may target any number of people within range, and for the purposes of evading is considered to have an Area equal to its Range. 
+Effects: This may target any number of people within range, and for the purposes of evading is considered to have an Area equal to its Range.
 
 Scything Wind gains a \+50% wounding bonus.
 

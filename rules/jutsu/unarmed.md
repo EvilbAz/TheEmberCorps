@@ -25,11 +25,11 @@ You cause an opponent to fall down by knocking their legs out from under them. C
 
 Stamina: 8  
 Speed: 4  
-Accuracy: \+2   
+Accuracy: \+2  
 Special: Prone
 
 Tags: Attack, Melee  
-Effects: 
+Effects:
 
 If used while in a grapple its Special: is replaced by the following: Takedown, Control 8\.
 
@@ -65,7 +65,7 @@ When used while in a grapple this jutsu gains: Pummel, Control 1
 #### Dainamikku Entorii - Dynamic Entry
 {:#dainamikku-entorii-dynamic-entry}
 
-This technique is nothing more than a jumpkick at an opponent from hiding. The hiding part became required because of genin's tendency to shout out things like "HIYAH\!" as they did it.
+This technique is nothing more than a jumpkick at an opponent from hiding. The hiding part became required because of Strays's tendency to shout out things like "HIYAH\!" as they did it.
 
 Stamina: 16  
 Damage: (STR/4)d6  
@@ -91,7 +91,7 @@ Rather then a direct attack this jutsu involves stepping into close range with a
 
 Stamina: 8 \+ X\*3  
 Speed: 4  
-Tags: Interrupt   
+Tags: Interrupt  
 Effects: X is the rank of the jutsu being parried. This may be used to parry any weapon attack or attack ninjutsu performed in melee range. The speed of this interrupt cannot be reduced below 2\.
 
 #### Konoha Senpū - Leaf Whirlwind
@@ -106,7 +106,7 @@ Range: Melee
 Speed: 10  
 Special: Stun 3  
 Tags: Attack, Melee, Blunt, Opener  
-Effects: 
+Effects:
 
 On a full hit, you may choose to apply Knockback 2 or begin a Combo with this target.
 
@@ -202,7 +202,7 @@ Damage: (STR/7)d12
 Accuracy: \-3  
 Speed: 10  
 Tags: Attack, Blunt, Melee  
-Effects: This technique's damage is tripled when determining the severity of wounds it inflicts. 
+Effects: This technique's damage is tripled when determining the severity of wounds it inflicts.
 
 #### Chouyaku Kage Kaihi no Jutsu - Leaping Shadow Evasion Technique
 {:#chouyaku-kage-kaihi-no-jutsu-leaping-shadow-evasion-technique}
@@ -241,7 +241,7 @@ Range: Melee
 Speed: 14  
 Special: Stun 5  
 Tags: Attack, Melee, Blunt  
-Effects: 
+Effects:
 
 If the target is Prone or suffering Immobilization 3+, gain \+2 Accuracy but do not increase damage.
 
@@ -316,7 +316,7 @@ Area: 6
 Speed: 16  
 Special: \-6 Accuracy  
 Tags: Attack, Blunt, Melee  
-Effects: Your damage bonus is doubled for this attack. Effects of partial hits for this jutsu are extended and deal 10% per amount they succeed. 
+Effects: Your damage bonus is doubled for this attack. Effects of partial hits for this jutsu are extended and deal 10% per amount they succeed.
 
 For example on an accuracy 20 attack a defense of: 15-Full Hit, 16-90%, 17-80%, 18-70%, 19-60%, 20-50%, 21-40%, 22-30%, 23-20%, 24-10%, 25-Fully Defended
 
@@ -368,7 +368,7 @@ Accuracy: \-3
 Range: Melee  
 Speed: 20  
 Tags: Attack, Melee, Blunt  
-Effects: 
+Effects:
 
 You must begin at least 2 yards above the target or have moved at least 5 yards vertically during this Attack.
 
@@ -443,7 +443,7 @@ When you execute a Finisher, you may spend your banked Seal Progress on one Ninj
 
 If the Jutsu is an Attack, it must target your former Combo Target.
 
-#### 
+####
 
 #### Rariatto - Lariat
 {:#rariatto-lariat}
@@ -457,7 +457,7 @@ Range: Melee
 Speed: 18  
 Special: Knockback X  
 Tags: Attack, Melee, Blunt  
-Effects: 
+Effects:
 
 X equals the number of yards you moved toward the target as part of this Attack, maximum 10\.
 
@@ -491,7 +491,7 @@ A mixture of folk hero and mythical character, Benkei was a warrior monk known f
 Stamina: 10  
 Speed: \+0  
 Tags: Utility, Link, Variable Defensive Action  
-Effects: This may be added on to any dodge or parry. Until your next action, your defenses have a 1+X bonus, with X being the number of times you've rolled to defend yourself since activating Way of Benkei (including the defense it was activated with). 
+Effects: This may be added on to any dodge or parry. Until your next action, your defenses have a 1+X bonus, with X being the number of times you've rolled to defend yourself since activating Way of Benkei (including the defense it was activated with).
 
 You may use other defenses, but they do not receive its bonus or increase its X value. Way of Benkei ends when your take a non-Interrupt action, at which point you pay a secondary Stamina cost of 10 \+ 3\*X, to a maximum of 40\.
 
@@ -519,7 +519,7 @@ Range: Melee
 Speed: 18  
 Special: Piercing  
 Tags: Attack, Melee, Piercing, Raiton  
-Effects: 
+Effects:
 
 Requires Raiton Aptitude. Ignore 25% Armor effectiveness and 25% DR.
 

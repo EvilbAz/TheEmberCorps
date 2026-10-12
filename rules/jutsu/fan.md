@@ -21,7 +21,7 @@ permalink: "/rules/jutsu/fan/"
 #### Opening Gust
 {:#opening-gust}
 
-The first gust is modest but highly controllable. You can spend the airflow on driving the target away, or ride the return current yourself to change the angle of the exchange.
+The first gust is modest but highly controllable.
 
 Rank: E  
 Stamina: \+3  
@@ -36,7 +36,7 @@ Effects: On a full hit, choose one: Drive — resolve Knockback 4; or Ride the G
 #### Folding Edge
 {:#folding-edge}
 
-The fan snaps shut and is used like a short baton or edged frame. The sudden change from broad wind pressure to close weapon contact is meant to make a parrying defender late on the next answer.
+The fan snaps shut and is used like a short baton or edged frame.
 
 Rank: E  
 Stamina: \+3  
@@ -79,7 +79,7 @@ Effects: \+5% Wounding.
 #### Wind Screen
 {:#wind-screen}
 
-The fan catches a projectile in moving air instead of trying to meet it edge-on. A successful screen keeps enough momentum to let the user drift away from the original line of fire.
+The fan catches a projectile in moving air instead of trying to meet it edge-on.
 
 Rank: E  
 Chakra: 7  
@@ -90,7 +90,7 @@ Effects: Parry a Ranged Taijutsu or Projectile Attack with \+1. On full success,
 #### Broad Sweep
 {:#broad-sweep}
 
-The fan is used to claim a broad patch of battlefield with one sweep. The user gives up concentrated Speed×PDB so several enemies have to answer the same displacement at once.
+The fan is used to claim a broad patch of battlefield with one sweep.
 
 Rank: E  
 Stamina: \+6  
@@ -108,7 +108,7 @@ Effects: Attack all chosen enemies in Area. Speed×PDB is divided among targets 
 #### Backdraft
 {:#backdraft}
 
-The current is turned across the target rather than straight through them. The technique is as much about lateral placement as force, shifting both fighters into a new line for the rest of the chain.
+The current is turned across the target rather than straight through them.
 
 Rank: D  
 Stamina: \+8  
@@ -123,7 +123,7 @@ Effects: On a successful Knockback Special, choose a sideways direction for the 
 #### Dust Sweep
 {:#dust-sweep}
 
-The sweep is designed to clear a lane whether the attack connects cleanly or not. A full Dodge still has to respect the moving air, while a hit leaves the target fighting through disturbed visibility.
+The sweep is designed to clear a lane whether the attack connects cleanly or not.
 
 Rank: D  
 Stamina: \+10  
@@ -137,7 +137,7 @@ Effects: Targets that fully Dodge are moved to the Area edge; targets hit take V
 #### Wind Sense
 {:#wind-sense}
 
-Tiny changes in pressure, cloth, dust, hair, and projectile flight are read as information. The fan catches those currents and turns them into a clearer picture of movement through obscured space.
+Tiny changes in pressure, cloth, dust, hair, and projectile flight are read as information.
 
 Rank: D  
 Chakra: 7  
@@ -148,7 +148,7 @@ Effects: Make a Search using Chakra Control or Awareness with \+2. Until your ne
 #### Guided Wind
 {:#guided-wind}
 
-The fan is held as a stable channel for both weapon pressure and Fuuton. The user is choosing to make range their advantage, with a small burst of Knockback available when the timing matters most.
+The fan is held as a stable channel for both weapon pressure and Fuuton.
 
 Rank: D  
 Chakra: 15  
@@ -177,7 +177,7 @@ Effects: On a full hit, the attack path remains a tailwind until your next actio
 #### Crosswind Step
 {:#crosswind-step}
 
-The user lets the fan pull their body through a short movement while preserving the chain. Ending farther away stretches the next threat line and makes the weapon feel larger than it is.
+The user lets the fan pull their body through a short movement while preserving the chain.
 
 Rank: C  
 Stamina: 7  
@@ -188,7 +188,7 @@ Effects: Move up to 5 yards. If you end farther from your chained target than yo
 #### Closed Guard
 {:#closed-guard}
 
-The fan closes into a compact guard that can actually receive melee force. A clean block or parry leaves the weapon ready to reopen immediately into the first attack of a new fan sequence.
+The fan closes into a compact guard that can actually receive melee force.
 
 Rank: C  
 Stamina: 11  

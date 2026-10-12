@@ -21,7 +21,7 @@ permalink: "/rules/jutsu/thrown/"
 #### Double Cast
 {:#double-cast}
 
-Two compatible tools leave the hand on nearly the same line. A full hit rewards the double release, while a Partial Success still catches only one weapon cleanly and can establish the chain.
+Two compatible tools leave the hand on nearly the same line.
 
 Rank: E  
 Stamina: \+3  
@@ -32,7 +32,7 @@ Effects: Throw two compatible weapons on one line. One Accuracy roll; on a full 
 #### Needle Lead
 {:#needle-lead}
 
-The first small projectile is placed where a minor injury can matter tactically. The user chooses whether the hit should bleed or simply spoil the target’s next attack.
+The first small projectile is placed where a minor injury can matter tactically.
 
 Rank: E  
 Stamina: \+3  
@@ -45,7 +45,7 @@ Effects: Requires Kunai, Shuriken or Senbon. On a full hit choose one: Bleed —
 #### Manipulated Shuriken
 {:#manipulated-shuriken}
 
-Wire keeps a missed weapon relevant. Instead of accepting the first failed trajectory, the user spends the committed line to make the target answer a second, weaker approach.
+Wire keeps a missed weapon relevant.
 
 Rank: E  
 Stamina: \+5  
@@ -56,7 +56,7 @@ Effects: Requires Ninja Wire equal to Range. If your thrown Attack is successful
 #### Fuuma Barrage
 {:#fuuma-barrage}
 
-Fuuma shuriken are committed in sequence rather than as one oversized hit. Repeated misses help the user walk the line onto the target, while each successful heavy weapon contributes its own share of the finisher.
+Fuuma shuriken are committed in sequence rather than as one oversized hit.
 
 Rank: E  
 Stamina: \+8  
@@ -67,7 +67,7 @@ Effects: Fuuma Shuriken only. Throw 2 weapons in succession; one Accuracy roll s
 #### Hidden Mouth Needle
 {:#hidden-mouth-needle}
 
-A concealed senbon is produced without the ordinary draw that warns people a thrown attack is coming. The motion hides in breath, speech, and head movement until the needle is already in flight.
+A concealed senbon is produced without the ordinary draw that warns people a thrown attack is coming.
 
 Rank: E  
 Chakra: 6  
@@ -93,7 +93,7 @@ Effects: Make one multi-throw Accuracy roll against every chosen creature in Are
 #### Banked Throw
 {:#banked-throw}
 
-The throw is aimed at hard terrain on purpose. A banked angle can ignore some of the defense granted by cover and lets the user choose where the weapon finishes for later retrieval.
+The throw is aimed at hard terrain on purpose.
 
 Rank: D  
 Stamina: \+7  
@@ -116,7 +116,7 @@ Effects: Multi-throw up to 3 weapons beyond your normal limit. Split them among 
 #### Return Flick
 {:#return-flick}
 
-A missed or deflected weapon is treated as recoverable equipment rather than lost ammunition. The user reads the rebound or wire line and pulls the tool back before the fight moves on.
+A missed or deflected weapon is treated as recoverable equipment rather than lost ammunition.
 
 Rank: D  
 Stamina: 4  
@@ -127,7 +127,7 @@ Effects: After a thrown weapon misses or is deflected, retrieve one weapon withi
 #### Throwing Form
 {:#throwing-form}
 
-Years of throwing have stripped wasted motion from the draw, grip, and release. Several tools can be indexed between the fingers and launched without the hands tangling or the stance collapsing.
+Years of throwing have stripped wasted motion from the draw, grip, and release.
 
 Rank: D  
 Stamina: 9  
@@ -153,7 +153,7 @@ Effects: Throw one compatible weapon at each of two different creatures at 60% f
 #### Corner Wire
 {:#corner-wire}
 
-Ninja Wire is attached or routed before the next throw so the projectile can travel farther and turn a corner the hand alone could not produce. The line must still make physical sense on the battlefield.
+Ninja Wire is attached or routed before the next throw so the projectile can travel farther and turn a corner the hand alone could not produce.
 
 Rank: C  
 Stamina: 7  

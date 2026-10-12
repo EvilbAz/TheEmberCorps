@@ -140,7 +140,7 @@ Effects: After applying this submission every consecutive use has its Stamina re
 #### Knee Bar
 {:#knee-bar}
 
-Similar to an arm bar you push their knee up and pull the leg to cause pain 
+Similar to an arm bar you push their knee up and pull the leg to cause pain
 
 Stamina: As Basic Attack \+ 3  
 Damage: As Basic Attack \+ (5 \+ Your Control)dX  
@@ -208,7 +208,7 @@ Stamina: 20
 Speed: 10  
 Special: Control 9  
 Tags: Submission  
-Effects: After applying this submission every consecutive use has its Stamina reduced by 5, automatically hits, and does not reduce your control, your opponent gains \+1 suffocation and their control is reduced by 2\. 
+Effects: After applying this submission every consecutive use has its Stamina reduced by 5, automatically hits, and does not reduce your control, your opponent gains \+1 suffocation and their control is reduced by 2\.
 
 #### Guard
 {:#guard}
@@ -340,7 +340,7 @@ Stamina: 28
 Speed: 10  
 Special: Control 8  
 Tags: Submission, Trapping 10  
-Effects: Your opponent gains immobility 6 and you gain half as much. After applying this submission every consecutive use has its Stamina reduced by 10, Control reduced to 0, automatically hits and your opponent loses 5 Control. This may allow you to increase your control to double its normal maximum until this jutsu ends. 
+Effects: Your opponent gains immobility 6 and you gain half as much. After applying this submission every consecutive use has its Stamina reduced by 10, Control reduced to 0, automatically hits and your opponent loses 5 Control. This may allow you to increase your control to double its normal maximum until this jutsu ends.
 
 #### Mae Hadaka Jime: Guillotine Choke
 {:#mae-hadaka-jime-guillotine-choke}

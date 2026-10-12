@@ -6,17 +6,6 @@ volume_slug: "clans"
 permalink: "/rules/clans/"
 ---
 
-*“Blood remembers what the Chakra forgets”*
-
-| Volume | Book | Primary Use |
-| :---- | :---- | :---- |
-| I | Core Rules | Character creation, attributes, skills, advancement, abilities, combat, wounds and downtime. |
-| II | Uniques | Rare gifts, habits, talents, and training that make one shinobi different from another. |
-| III | Clans & Lineages | Haven Ember heritages, canon clans, bloodlines, traditions and rare paths. |
-| IV | Jutsu Compendium | Jutsu rules, techniques, Eight Gates, Shadow Clones, summoning, natural chakra and hyper elements. |
-| V | Talents & Rank Benefits | Milestone talents and rank benefits for long-term character growth. |
-| VI | Equipment & Crafting | Crafting, weapons, tools, pharmaceuticals and exploding tags. |
-
 ## Heritage Rules
 {:#heritage-rules}
 
@@ -42,12 +31,9 @@ Heritage Cost is paid from the 6 Unique Points granted at character creation. It
 # Clanless
 {:#clanless}
 
-**HERITAGE \- SELF-MADE**  
-*No bloodline taught you how to survive. No inherited technique promised that you would be strong enough. Everything you know was learned from the people beside you and the places that tried to kill you.*
+**HERITAGE — SELF-MADE**
 
-Haven Ember is full of hunters without famous names. Some come from families whose techniques were lost generations ago. Some are refugees, settlers, or children of people who never carried a hunters lineage at all. Others simply chose not to define themselves by whatever blood might run through them.
-
-Clanless hunters do not compete with the great lineages by secretly being better at everything. They survive by learning broadly, changing approach when something fails, and building a toolkit instead of inheriting one answer to every problem. They have no secret bloodline waiting to awaken; they become useful in as many situations as they can.
+Clanless Hunters come from families without a surviving bloodline or secret technique. Some are refugees or settlers; others have lost their ancestral teachings or chosen a different path. They build their skills through practice, shared instruction and experience in the Wastes.
 
 ## Passives
 {:#passives}
@@ -84,7 +70,7 @@ You cannot use Dig Deep if advancing Fatigue would Incapacitate you.
 
 ***CANON CLAN***
 
-*Fūma descendants brought an old weapon tradition into Haven Ember’s armouries: giant shuriken, chained steel, false trajectories, and attacks designed to make distance feel temporary. In the Ember Corps, the lineage is valued less for raw numbers than for making cover, range, and angles stop behaving the way an enemy expects.*
+*Fūma descendants preserve a weapon tradition built around giant shuriken, wire and deceptive trajectories. Haven Ember employs them in ranged combat and pursuit.*
 
 ## Passives
 {:#passives-12}
@@ -97,7 +83,7 @@ The Limit for the Quick Hands ability is DEX/18 instead of DEX/20 for you.
 ### Fūma Power
 {:#fuma-power}
 
-Whenever you would throw a Shuriken of any kind or size, or any shuriken-like object, you may use your DEX, AGI, STR or CHA for it’s damage bonus. Additionally, you ignore up to one singular penalty to the Accuracy of your Shuriken or Shuriken-like attacks. This could be a wound, or it could be a single level of Fatigue. Treat this like “Strong-Willed” in the way it works, as whenever something else would hinder the Accuracy of your Shuriken, you may swap to ignoring that, and take the new penalty that you would ignore. In relation to conditions, this could ignore all ranks of that Condition.
+Whenever you would throw a Shuriken of any kind or size, or any shuriken-like object, you may use your DEX, AGI, STR or CHA for its damage bonus. Additionally, you ignore up to one singular penalty to the Accuracy of your Shuriken or Shuriken-like attacks. This could be a wound, or it could be a single level of Fatigue. Treat this like “Strong-Willed” in the way it works, as whenever something else would hinder the Accuracy of your Shuriken, you may swap to ignoring that, and take the new penalty that you would ignore. In relation to conditions, this could ignore all ranks of that Condition.
 
 ### Fūma Mastery
 {:#fuma-mastery}
@@ -170,7 +156,7 @@ After the Attack resolves, the weapon returns along the same path if that route 
 
 ***CANON ANIME CLAN \- RARE***
 
-*Funato descendants brought an old maritime inheritance into Haven Ember: gill-like markings, comfort in open water, and chakra that answers the sea more readily than a conjured puddle. The Ember Corps uses that gift for patrol, pursuit, recovery, and battles where the horizon matters as much as the ground.*
+*Funato descendants retain the gill-like markings and maritime techniques of their ancestors. They patrol waterways, recover submerged supplies and hunt aquatic monsters.*
 
 ## Passives
 {:#passives-27}
@@ -239,7 +225,7 @@ Requires at least 20 gallons of water in the affected line. On a full hit, choos
 
 ***CANON ANIME CLAN \- RARE***
 
-*The Iburi can loosen their bodies into chakra-bound smoke, an extraordinary gift for infiltration and escape with an equally extraordinary failure state. Haven Ember training is built around that contradiction: use the freedom of a body without solid edges, while never forgetting what a hard wind can do to cohesion.*
+*The Iburi can transform their bodies into chakra-bound smoke. Their training emphasises infiltration and escape, alongside protection from winds that can disperse them.*
 
 ## Passives
 {:#passives-30}
@@ -329,7 +315,7 @@ On failure, resolve the attack normally and Smoke Body remains subject to its us
 
 ***CANON FAMILY***
 
-*The Karatachi name carries the memory of old Mist leadership, but no office follows the bloodline in Haven Ember. What remains is a family tradition of public service, discipline, and competence under pressure \- deliberately modest beside the stranger bloodlines around it, and useful for exactly that reason.*
+*Descendants of old Mist leadership, the Karatachi preserve a tradition of discipline and public service. Their family name grants no office in Haven Ember.*
 
 ## Passives
 {:#passives-26}
@@ -378,7 +364,7 @@ Once per combat, after rolling one of the above rolls or a roll to avoid Abortin
 
 ***RARE LINEAGE \- SETTING ORIGINAL***
 
-*The Ouyoku descend from observatory families whose Junsugan was built for distance, darkness, and impossible sightlines. In the Ember Corps they are prized as reconnaissance specialists: not because the eye knows everything, but because it can turn a bad angle, a distant silhouette, or a night horizon into actionable information.*
+*The Ouyoku descend from observatory families. Their Junsugan helps them see through darkness and across distant or difficult sightlines, making them valued reconnaissance specialists.*
 
 ## Passives
 {:#passives-20}
@@ -399,7 +385,7 @@ Once per combat, after rolling one of the above rolls or a roll to avoid Abortin
 
 **Effects**
 
-While active, gain 240-foot-equivalent Darkvision and 120-foot-equivalent Chakra Sight for narrative-scale perception. In combat, extend ordinary visual Search Range to the battlefield limit unless terrain blocks sight. With this you can see around corners, through invisible barriers such as glass, and off of reflections. This gives you utter visual knowledge of the battlefield from all angles. It does not automatically reveal people or chakra, simply extending your visual sight to everywhere. You can see everything on the battlefield that is not behind an opaque barrier or wall of some kind. 
+While active, gain 240-foot-equivalent Darkvision and 120-foot-equivalent Chakra Sight for narrative-scale perception. In combat, extend ordinary visual Search Range to the battlefield limit unless terrain blocks sight. With this you can see around corners, through invisible barriers such as glass, and off of reflections. This gives you utter visual knowledge of the battlefield from all angles. It does not automatically reveal people or chakra, simply extending your visual sight to everywhere. You can see everything on the battlefield that is not behind an opaque barrier or wall of some kind.
 
 Gain \+4 Search against targets 20 or more yards away and ignore the first \-3 Visibility penalty from distance, darkness, smoke, or weather.
 
@@ -428,7 +414,7 @@ This movement cannot pass through barriers, creatures, or sealed space. If used 
 # Sarutobi
 {:#sarutobi}
 
-*The Sarutobi name survived because its inheritance was never one miraculous bloodline. Haven Ember remembers generations of disciplined fundamentals, fire release, weapon work, teaching, and stubborn loyalty \- exactly the sort of broad competence the Ember Corps can build a squad around.*
+*Sarutobi families preserve fire techniques, weapon training and generations of teaching. Their broad training serves Haven Ember’s patrols and instructors.*
 
 ## Passives
 {:#passives-11}
@@ -450,7 +436,7 @@ This movement cannot pass through barriers, creatures, or sealed space. If used 
 
 Rank 1: Choose Accuracy, Dodge, Parry, or Chakra Exhaustion. Gain \+1 to the chosen value, this increases by \+1 for each rank you gain in this ability.
 
-Rank 2: Gain Elemental Affinity: Jutsu. This special Affinity applies to all Ninjutsu, Genjutsu and Taijutsu, following the normal rules for Affinity. Your ranks in this Affinity are equal to your XP/200, with a Maximum of 10\. This does not grant Aptitudes you don’t normally have access to, even if you have Affinity for Lightning, you may not learn Lightning Jutsu without the appropriate Aptitude. 
+Rank 2: Gain Elemental Affinity: Jutsu. This special Affinity applies to all Ninjutsu, Genjutsu and Taijutsu, following the normal rules for Affinity. Your ranks in this Affinity are equal to your XP/200, with a Maximum of 10\. This does not grant Aptitudes you don’t normally have access to, even if you have Affinity for Lightning, you may not learn Lightning Jutsu without the appropriate Aptitude.
 
 Rank 3: Using the **Mentor** downtime action, you can learn any Jutsu that you have witnessed, without the help of a teacher. This includes Jutsu that are limited to certain clans, and speciality jutsu that you would normally not apply for. For each rank above your normal limit this Jutsu is, increase it’s costs by 50% (including seal speed), and if that clan would require a special Clan feature that you don’t possess, such as a Sharingan, or a Kekkei Genkai that you don’t have, you also double any CE/STM penalties that Jutsu would give you.
 
@@ -502,7 +488,7 @@ You can detonate the cloud with any damaging Katon that touches it. When detonat
 
 ***CANON ANIME CLAN \- OLD SOUND***
 
-*Shiin memory techniques survive in Haven Ember as a small and closely watched hiden tradition. They do not grant broad mind control; they obstruct chosen routes through memory, making the lineage valuable to intelligence work and dangerous enough that Ember Corps instructors emphasise limits, consent, and mission authority.*
+*The Shiin preserve a closely guarded memory-altering tradition from the old Sound. Haven Ember watches its use in intelligence work and teaches strict limits on its deployment.*
 
 ## Passives
 {:#passives-31}
@@ -633,7 +619,7 @@ On a full hit, choose one specific event, face, place, or piece of information t
 
 ***CANON CLAN***
 
-*The Yotsuki bodyguard tradition has an obvious place in the Ember Corps. Old Cloud training survives as service, physical conditioning, and the instinct to put yourself where the impact is about to happen, turning personal durability into time and room for the rest of the squad.*
+*The Yotsuki preserve the bodyguard training of the old Cloud. They specialise in physical conditioning and protecting their companions from incoming attacks.*
 
 ## Passives
 {:#passives-13}
@@ -659,7 +645,7 @@ Gain \+1 per rank to Take the Hit rolls.
 
 When you successfully Take the Hit for an ally, regain 2 AP per rank, up to your normal maximum.
 
-After a successful Take the Hit, reduce the intercepted attack’s Final Damage against you by 5% per rank, counting after all other reductions and reductions. After that attack resolves, the protected ally may move up to 1 yard per rank without AP or Speed. 
+After a successful Take the Hit, reduce the intercepted attack’s Final Damage against you by 5% per rank, counting after all other reductions. After that attack resolves, the protected ally may move up to 1 yard per rank without AP or Speed.
 
 ## Jutsu
 {:#jutsu-12}
@@ -844,9 +830,9 @@ If this attack wounds a limb, that limb is destroyed. If this attack inflicts a 
 # Hoshigaki
 {:#hoshigaki}
 
-***CANON CLAN \- EXPANDED GAMEPLAY***
+***CANON CLAN***
 
-*Hoshigaki descendants are unmistakably suited to the maritime work Haven Ember cannot avoid: pursuit, boarding, underwater recovery, and ugly fights where water keeps accumulating. Their shark-like physiology and predatory style are old Water Country inheritances; their loyalty, like every other heritage in this book, belongs to the Ember Corps.*
+*Hoshigaki descendants retain the shark-like physiology and water techniques of their Water Country ancestors. They serve in boarding crews, underwater recovery and aquatic hunts.*
 
 ## Passives
 {:#passives-25}
@@ -918,9 +904,9 @@ While both you and a damaged target are inside, gain \+2 Accuracy against that t
 
 **WEAPON TRADITION \- SETTING ORIGINAL**
 
-*The Insect Glaive Corps began with Wastes hunters who discovered that some chakra-active insects could do more than track prey. Properly bred, fed, and bonded, they could taste the different ways chakra moved through a living body \- aggression in the limbs and jaws, motion through the legs and wings, stability through the torso and shell \- then carry that stolen rhythm back to a hunters.*
+*The Insect Glaive Corps began with Wastes hunters who discovered that some chakra-active insects could do more than track prey. Properly bred, fed, and bonded, they could taste the different ways chakra moved through a living body \- aggression in the limbs and jaws, motion through the legs and wings, stability through the torso and shell \- then carry that stolen rhythm back to a hunter.*
 
-The first glaives were practical hunting tools: long polearms for keeping claws and teeth away, hollowed through the haft so a bonded insect could launch, return, and nest against the wielder's arm. What began as monster-hunting fieldcraft became one of Haven Ember's strangest martial schools. Modern Corps hunters fight as a pair. The hunters creates openings, the Kinsect steals a fragment of the enemy's fighting rhythm, and the glaive turns that information into movement that should not be possible for a weapon that large.
+The first glaives were practical hunting tools: long polearms for keeping claws and teeth away, hollowed through the haft so a bonded insect could launch, return, and nest against the wielder's arm. What began as monster-hunting fieldcraft became one of Haven Ember's strangest martial schools. Modern Corps hunters fight as a pair. The hunter creates openings, the Kinsect steals a fragment of the enemy's fighting rhythm, and the glaive turns that information into movement that should not be possible for a weapon that large.
 
 Kinsects are not kikaichu. Each is a single cultivated chakra-active companion raised alongside its hunter. Most are beetles, moths, mantises, dragonflies, or things that only resemble those species after generations in the Wastes.
 
@@ -976,7 +962,7 @@ You gain the following action while holding your Insect Glaive and able to move:
 
 A technique with the Aerial tag may be used while Falling as the direct result of your own Vault or another Insect Glaive Corps technique. The Aerial tag has no rules on its own beyond identifying techniques for Corps abilities and effects.
 
-At Chuunin or 2,500 total XP, whichever comes first, the Corps will reforge the glaive around the hunter who has actually survived long enough to understand it. Your Bonded Insect Glaive gains 5 bonus Artisan Points that may only be spent on Weapon Features, not Structure or Special Properties. These bonus points count toward tier prerequisites and the weapon's total Artisan Points for wielding restrictions, but do not require you personally to possess the Artisan ranks needed to craft them; the Corps armourers perform the work. You may redesign these 5 bonus points with one Downtime Slot. Replacing a permanently lost Bonded Insect Glaive removes these points until the replacement is reforged with one Downtime Slot.
+At Trailhand or 2,500 total XP, whichever comes first, the Corps will reforge the glaive around the hunter who has actually survived long enough to understand it. Your Bonded Insect Glaive gains 5 bonus Artisan Points that may only be spent on Weapon Features, not Structure or Special Properties. These bonus points count toward tier prerequisites and the weapon's total Artisan Points for wielding restrictions, but do not require you personally to possess the Artisan ranks needed to craft them; the Corps armourers perform the work. You may redesign these 5 bonus points with one Downtime Slot. Replacing a permanently lost Bonded Insect Glaive removes these points until the replacement is reforged with one Downtime Slot.
 
 ## Abilities
 {:#abilities-35}
@@ -1021,7 +1007,7 @@ After you hit with an Aerial Insect Glaive Attack, you may move up to AGI/20 yar
 
 **Effects**
 
-You and your Kinsect have stopped behaving like a hunters issuing commands to an animal and started behaving like one fighting style with an inconvenient number of wings.
+You and your Kinsect have stopped behaving like a hunter issuing commands to an animal and started behaving like one fighting style with an inconvenient number of wings.
 
 Immediately after you hit the creature your Kinsect is currently Deployed against with an Insect Glaive Attack, you may resolve Recall Kinsect at Speed 0\. The Extract is gained after the triggering Attack fully resolves.
 
@@ -1093,7 +1079,7 @@ If you have White Extract, use your full Vault distance instead. If you finish t
 
 Twist around the haft and use the impact as another launch point. If the Attack hits, move up to AGI/20 yards in any direction after damage resolves. If at least 2 yards of this movement are upward, reset your current Falling IC and distance.
 
-If you have Red Extract, add two weapon damage dice. 
+If you have Red Extract, add two weapon damage dice.
 
 #### Hunter's Recall
 {:#hunter-s-recall}
@@ -1305,7 +1291,7 @@ Leaving the circle, losing the blood sample, or becoming unable to act ends the 
 
 ***RARE CURSED BLOODLINE***
 
-*The Jinrō carry a predatory transformation that feels less like a technique than sharing a body with hunger. Haven Ember does not pretend that danger disappears because someone joins the Corps; instead, Jinrō hunters are trained around discipline, squad trust, and knowing exactly how much of the beast they can afford to invite forward.*
+*The Jinrō inherit a predatory transformation that threatens their self-control. Corps training helps them manage its instincts and fight safely beside a crew.*
 
 ## Passives
 {:#passives-34}
@@ -1430,7 +1416,7 @@ While Beast Form is active, Bite attacks gain \+1 Accuracy, and the first Hunger
 
 ***CANON ANIME CLAN***
 
-*The Kamizuru brought an old bee-keeping combat tradition into Haven Ember: bred swarms, wax, honey, and explosives maintained as carefully as any weapon rack. Where an Aburame host carries the hive within, Kamizuru operators cultivate territory around the squad and make the battlefield itself feel occupied.*
+*The Kamizuru preserve a bee-keeping combat tradition. They breed swarms and prepare wax, honey and explosives for territory control and support.*
 
 ## Passives
 {:#passives-17}
@@ -1526,7 +1512,7 @@ Only one Beeswax Clone may exist at a time.
 # Nara
 {:#nara}
 
-*Nara shadow craft survives in Haven Ember as patient tactical doctrine: shape the ground, steal the safe route, and let the squad exploit the opening. Their strongest turns are rarely the loudest ones; they are the moment an opponent realises every sensible square has already been claimed.*
+*Nara families preserve shadow techniques and tactical training. They restrain opponents and create openings for their crews.*
 
 **Starting Features**
 
@@ -1535,22 +1521,36 @@ Only one Beeswax Clone may exist at a time.
 ## Passives
 {:#passives-6}
 
-**IQ of…**
+### Tactical Planning
+{:#iq-of}
 
-You may be a genius, but you sure do struggle to apply yourself. However, there are moments where your intelligence shines. You have a pool of IQ points equal to (XP/500). These IQ points can be used in the following ways. You regain IQ after a Week’s rest (1 OOC Day). When you activate an IQ ability, pay it’s IQ cost as well as any speed or Chakra costs involved.
+You have **IQ Points equal to total XP/500, rounded down**. Restore them after a Week’s Rest. Pay a plan’s IQ cost alongside its listed Action, Chakra, Stamina and AP costs. Each plan uses the following rules; planning never reverses the current IC or changes an event that has already resolved.
 
-* \[ 1 IQ Point \] : *Queen’s Plan* \- (Speed \+4, Interrupt, Link)  
-  * *This ability may link to any attack you, or an ally makes while that ally is within (Max IQ\*10) yards. You focus your mind, and work towards the endgame. For the purposes of determining damage, the linked attack is counted as its base speed \+4, ignoring any AP or other speed reductions such as Uniques or abilities. If this would cause a wound, you choose the location of the wound, regardless of any other abilities.*  
-* \[ 1 IQ Point \] : *Knight’s Plan* \- (Speed 4, CE 10, Clan Ninjutsu, Interrupt)  
-  * *You place the battlefield exactly as you wish it, and begin the dance of the Knight. Choose a location within Max IQ \* 3 yards, and create a sphere on that space, measure from it’s centre to you as it’s radius. Each creature of your choice within that sphere may immediately move a number of yards equal to the Diameter of the sphere you measure with this ability as a Speed 0 interrupt.*  
-* \[ 2 IQ Point \] : *Pawn’s Plan* \- (Speed 0, AP X)  
-  * *You know that battles are not always won by Knights and Queens. Oftentimes, it is the simple pawn that steps forward to Checkmate. Choose one creature you can see, if it hasn’t targeted you with an effect, measure the amount of IC you have gone untargeted, unaffected, or otherwise ignored by that creature to now. The creature must either have been actively ignoring you, or intentionally distracted in some way by your allies to apply for this. You then complete your plan \- You may take an amount of IC of actions equal to (X\*(1+(Y/5)) where Y is the amount of IC that you have been planning, to a maximum of your Maq IQ \* 5\.*   
-* \[ 3 IQ Point \] : *Flow of Battle* \- (Speed \-5, Action)  
-  * *You saw that right. You lock in, and find your moment to plan. You go back 5 IC, but cannot move until your IC catches up to your next action.*   
-* \[ 4 IQ Point \] : *Rook’s Plan* \- (Speed \+2, Interrupt, Link)  
-  * *As an attack turns towards you, you spin to declare it true \- You saw this coming, and it is not you that is in danger. Reduce the attacker’s damage bonus by your equivalent damage bonus (If they are using a NDB attack, reduce it by your NDB, ect). If this would reduce the DB to 0, or lower, you negate the attack entirely. Otherwise, apply damage as normal. This technique can be used as a defensive action in and of itself, or be linked to a defensive interrupt.*  
-* \[ 5 IQ Point \] : *Checkmate* \- (Speed 50, Delay 50, STM 50, CE 50, Action)  
-  * *Once this action resolves, you figure it out. The storyteller must grant you the answer to any one question relating to the situation you are in truthfully, regardless of the length or complexity of that question. If you manage to get this off in combat, the combat ends in a victory that you describe, within reason.*
+**Queen’s Plan — 1 IQ, Speed +4, Interrupt, Link**
+
+Link to an attack made by you or an ally within Max IQ × 10 yards. For Damage Bonus calculations, treat its Speed as its Base Speed +4. If it inflicts a Wound, choose a legal location for that damage type. Normal defensive and Wound-mitigation effects still apply.
+
+**Knight’s Plan — 1 IQ, Speed 4, Chakra 10, Clan Ninjutsu, Interrupt**
+
+Choose a point within Max IQ × 3 yards. Its distance from you is the radius of the affected sphere. Willing creatures in that sphere may immediately move up to its diameter in yards as Speed 0 Interrupts. They must follow legal paths, pay no AP for this movement, and remain subject to effects that prevent movement. Each creature may benefit from one Knight’s Plan per 10 IC.
+
+**Pawn’s Plan — 2 IQ, Speed 0, AP X**
+
+Choose an opponent you can see that has neither targeted nor affected you for at least 10 IC while engaged with another member of your crew. Spend X AP, up to Max IQ. Your next attack against it before your next non-Interrupt Action ends gains +X Accuracy. This does not grant additional Actions, change Surprise rules or stack with another Pawn’s Plan.
+
+**Flow of Battle — 3 IQ, Speed 0, Utility**
+
+Reduce your next non-Interrupt Action’s final Speed by 5, following the normal minimum and half-base-Speed limits. Use it before the end of your next non-Interrupt Action. This plan may be used once per 10 IC and cannot stack with itself. Your IC never moves backwards.
+
+**Rook’s Plan — 4 IQ, Speed +2, Interrupt, Link**
+
+Link to a valid defensive Interrupt against an incoming attack. Reduce the Damage Bonus used by that attack by your matching PDB or NDB, minimum 0. Resolve its dice, defence and other effects normally; reducing its Damage Bonus to 0 does not negate the attack.
+
+**Checkmate — 5 IQ, Speed 50, Delay 50, Stamina 50, Chakra 50, Utility**
+
+Study one opponent you can see. If it leaves your perception, you become Incapacitated, or you voluntarily end the Action, the plan fails. When the Delay resolves, identify one tactical opening supported by what you have observed. You and allies who can hear your instructions gain +3 Accuracy against that opponent and treat damage against it as 25% higher for Wounding for 50 IC. Multiple Checkmate plans do not stack. Attacks, defences and encounter objectives resolve normally.
+
+Outside combat, a completed Checkmate may instead ask the GM one question about the situation that your available evidence could answer. The GM supplies a truthful deduction from that evidence, or explains what information is missing.
 
 ## Abilities
 {:#abilities-5}
@@ -1686,7 +1686,7 @@ Tendrils have no separate HP; physical damage can hit held weapons but not the s
 
 ***RARE DŌJUTSU \- SETTING ORIGINAL***
 
-*Samsara is a rare ocular lineage known to Haven Ember through scattered case files rather than a great clan. Its users describe the world through opposing instincts of creation and destruction. The eye is not the Rinnegan; its power is narrower, stranger, and personal enough that the Ember Corps classifies the bearer before it ever pretends to classify the bloodline.*
+*Samsara is a rare ocular lineage documented in scattered Haven records. Its bearers wield opposing powers of creation and destruction; the eye is distinct from the Rinnegan.*
 
 ## Passives
 {:#passives-33}
@@ -1694,7 +1694,7 @@ Tendrils have no separate HP; physical damage can hit held weapons but not the s
 ### Soul Anchor
 {:#soul-anchor}
 
-Samsara does not gain **Willpower.** And cannot access or use it in any way, shape or form. They can use the **Limit Break** ability, and the XP cost for Limit Break is reduced by 50%. However, Samsara still carry the Will of a Hunter within them, and their powers over life, death, creation and destruction grant them unique abilities unlike anything else. 
+Samsara does not gain **Willpower.** And cannot access or use it in any way, shape or form. They can use the **Limit Break** ability, and the XP cost for Limit Break is reduced by 50%. However, Samsara still carry the Will of a Hunter within them, and their powers over life, death, creation and destruction grant them unique abilities unlike anything else.
 
 A Samsara can prepare for their next life. By spending 1 Downtime Slot, you may establish a Soul Anchor.
 
@@ -1706,9 +1706,9 @@ The exact appearance of an Anchor is chosen by the player and GM. One Samsara ma
 
 Regardless of appearance, all Soul Anchors function identically.
 
-Each Soul Anchor created has a TN of 15+(Soul Anchors Active \* 5 ) , and when creating one you must succeed this roll with either Chakra Control or Stealth. On a fail, the Downtime is wasted, and you do not create a soul anchor. 
+Each Soul Anchor created has a TN of 15+(Soul Anchors Active \* 5 ) , and when creating one you must succeed this roll with either Chakra Control or Stealth. On a fail, the Downtime is wasted, and you do not create a soul anchor.
 
-You may consume Soul Anchors to gain the normal benefits of Willpower destroying them forever, as well as **Turn the Wheel.** 
+You may consume Soul Anchors to gain the normal benefits of Willpower destroying them forever, as well as **Turn the Wheel.**
 
 ### Turn the Wheel
 {:#turn-the-wheel}
@@ -1796,7 +1796,7 @@ You cannot benefit from multiple Echoes on the same roll.
 
 **Effects**
 
-Requires Creation mode. Create a mundane object up to a 2-yard cube or a wall with HP CHA×3 and DR NDB. It lasts 50 IC. This can create anything mundane. You can create weapons with zero artisan points, or up to 50 units of ammunition with this. You cannot create poisons, pills, or kits. You can make ninja tools. 
+Requires Creation mode. Create a mundane object up to a 2-yard cube or a wall with HP CHA×3 and DR NDB. It lasts 50 IC. This can create anything mundane. You can create weapons with zero artisan points, or up to 50 units of ammunition with this. You cannot create poisons, pills, or kits. You can make ninja tools.
 
 Created weapons use ordinary equipment profiles and gain no free upgrades.
 
@@ -1827,7 +1827,7 @@ A barrier that negates or reduces an Attack without using HP resolves that effec
 
 ***RARE TRADITION \- SETTING ORIGINAL***
 
-*Silverhand is not a bloodline so much as a Haven Ember cultural inheritance: performers, rebels, hunters musicians, and public agitators who learned that chakra resonates differently when a whole crowd feels the same thing at once. In the Ember Corps, that becomes morale, disruption, signal, and occasionally a weapon loud enough to reshape a fight.*
+*Silverhand is a tradition of performers, musicians and agitators whose chakra resonates through sound and crowds. Corps practitioners use it for communication, morale and disruption.*
 
 ## Passives
 {:#passives-32}
@@ -1909,7 +1909,7 @@ Where other Corps traditions are built around a bloodline, a companion, or a pie
 
 A Vanguard is expected to know one truth above all others: the weapon is not the style. The hunt is. Every form below is a different answer to the same question — how do you survive inside a monster's reach long enough to put it down?
 
-## 
+##
 
 ## Passives
 {:#passives-37}
@@ -1925,8 +1925,6 @@ Morph mechanisms, shell chambers, bucklers and paired grips granted by a Vanguar
 
 All actions granted by this clan are counted as having the Chain X keyword, and Clan-Jutsu from this clan don’t break your Chain.
 
-### 
-
 ### Corps Refit
 {:#corps-refit}
 
@@ -1935,8 +1933,6 @@ At Trailhand or 2,500 total XP, whichever comes first, the Corps rebuilds your V
 Your Vanguard Arm gains 3 bonus Artisan Points that may only be spent on Weapon Features, not Structure or Special Properties. These bonus points may take the weapon beyond the normal 5 Artisan Point design limit, but do not increase the Artisan Point total used to determine whether you personally can wield your own Vanguard Arm.
 
 You may redesign these 3 bonus points during a Week's Rest by spending 1 Downtime Slot. If your Vanguard Arm is permanently lost or destroyed, the bonus points return after the replacement is rebuilt with 1 Downtime Slot.
-
-### 
 
 ### Hunter's Opening
 {:#hunter-s-opening}
@@ -1951,8 +1947,6 @@ Your next Melee Weapon Attack against that creature may consume the Opening to c
 
 An Opening is lost if you attack a different creature first, become unable to perceive the creature, or no longer wield your Vanguard Arm.
 
-### 
-
 ### Hunting Discipline
 {:#hunting-discipline}
 
@@ -1964,7 +1958,7 @@ Unless a Discipline says otherwise, its Charges, Spirit, Notes, Shells, Phials a
 
 Certain Disciplines grant Vanguard Guard. While you have Vanguard Guard, you may use \[Speed 6, Interrupt, Defense\] Vanguard Guard to reduce the Damage of the triggering Attack by 25%. This counts as a Block for effects that care about Blocking. If another rule already allows you to Block, you may use either version, but their Damage Reduction does not stack. You do not need the Weapon Block crafting Feature or any other Ability to use Vanguard Guard.
 
-## 
+##
 
 ## Vanguard Disciplines
 {:#vanguard-disciplines}
@@ -1982,8 +1976,6 @@ Great Sword hunters accept that they will not swing often. The entire style is b
 
 ● Shoulder Tackle — When an Attack hits you while you have at least Charge 1, you may spend 8 Stamina to reduce any hostile forced movement caused by that Attack by 3 yards and retain all Charge. If the Attack moves you 0 yards after this reduction, gain Charge 1 after it fully resolves, to a maximum of Charge 3\.
 
-### 
-
 ### Long Sword — Spirit Edge
 {:#long-sword-spirit-edge}
 
@@ -1997,8 +1989,6 @@ Long Sword hunters build rhythm rather than force. Every clean cut feeds the nex
 
 ● Spirit Roundslash — When declaring a Long Sword Attack at Spirit 3, you may consume all Spirit. The Attack gains \+3 Damage Dice, \+2 Stamina and \+2 Base Speed. If it hits, enter Red Spirit for 20 IC. While in Red Spirit, you may use Spirit Slash without spending Spirit. You cannot gain Spirit while Red Spirit is active.
 
-### 
-
 ### Sword & Shield — Hunter's Guard
 {:#sword-shield-hunter-s-guard}
 
@@ -2011,8 +2001,6 @@ The shield is not a wall. It is a fist, a wedge, a climbing hook and the half-se
 ● Free Hand — You may draw, stow, or use ordinary Small equipment without first sheathing your Vanguard Arm. This does not reduce the Speed or other cost of the item or Utility action.
 
 ● Shield Bash — When declaring a normal Vanguard Arm Attack, you may strike with the buckler instead. Change the Attack's Damage Type to Blunt, add \+1 Damage Die and \+2 Stamina. It remains a Weapon Attack and uses the sword's listed Speed, Accuracy and Delay.
-
-### 
 
 ### Dual Blades — Demon Mode
 {:#dual-blades-demon-mode}
@@ -2029,8 +2017,6 @@ For this Discipline the matched pair is treated as one Vanguard Arm. Attacks use
 
 ● Demon Dance — When declaring a normal Dual Blade Attack at Demon 3, consume all Demon. The Attack gains \+3 Damage Dice and \+2 Base Speed. After it fully resolves, Demon Mode ends.
 
-### 
-
 ### Hammer — Impact Charge
 {:#hammer-impact-charge}
 
@@ -2043,8 +2029,6 @@ Hammer hunters do not cut around a problem. They put enough force through it tha
 ● Charged Impact — When declaring a Hammer Attack, you may consume any amount of Impact Charge. Add \+1 Damage Die per Impact Charge consumed.
 
 ● Staggering Blow — When a Hammer Attack that consumed Impact Charge hits, increase that target's next Attack's Base Speed by the amount of Impact Charge consumed. If you consumed Impact Charge 3, the Hammer Attack also gains \+5% Wounding. Creatures immune to interruption or physical staggering may ignore the Base Speed increase at the GM's discretion.
-
-### 
 
 ### Hunting Horn — Echo Recital
 {:#hunting-horn-echo-recital}
@@ -2063,8 +2047,6 @@ The Hunting Horn is a blunt instrument with excellent acoustics. A practiced Van
 
 ● Pace Melody — The creature's next Move Action or Utility action with the Movement tag gains Final Speed \-1.
 
-### 
-
 ### Lance — Iron Counter
 {:#lance-iron-counter}
 
@@ -2077,8 +2059,6 @@ Lance hunters make a monster fight through the point of the weapon before it eve
 ● Counter Thrust — After you successfully Block an Attack with the Lance, your next Lance Attack against that attacker before the end of your next Action gains Final Speed \-2.
 
 ● \[Speed 4, Stamina 6, Utility, Movement\] Guard Advance — Move up to 3 yards. Until this action resolves, forced movement against you is reduced by 2 yards, minimum 0\. This movement cannot pass through creatures or solid barriers.
-
-### 
 
 ### Gunlance — Sealed Shelling
 {:#gunlance-sealed-shelling}
@@ -2093,9 +2073,7 @@ A Gunlance is not a firearm. Its 'shells' are close-range sealed blast chambers 
 
 ● \[Speed 5, Utility\] Reload Shells — Restore your Shell Chamber to Shell 3\. This is not a Ballistic Reload and cannot benefit from effects that modify Reload.
 
-● Wyvern Burst — When a Gunlance Attack hits, you may consume all remaining Shells, minimum 2\. Add \+1 Damage Die per Shell consumed and \+5% Wounding. 
-
-### 
+● Wyvern Burst — When a Gunlance Attack hits, you may consume all remaining Shells, minimum 2\. Add \+1 Damage Die per Shell consumed and \+5% Wounding.
 
 ### Switch Axe — Morph Gauge
 {:#switch-axe-morph-gauge}
@@ -2114,8 +2092,6 @@ A Switch Axe begins in Axe Mode. Its morph fittings have no Artisan Point cost a
 
 ● Zero-Sum Finish — When declaring a Sword Mode Attack while at Switch 3, you may instead consume all 3 Switch. This replaces Sword Mode's normal Switch cost and \+1 Damage Die. The Attack gains \+3 Damage Dice, \+2 Base Speed and \+5% Wounding. After it resolves, return to Axe Mode.
 
-### 
-
 ### Charge Blade — Phial Engine
 {:#charge-blade-phial-engine}
 
@@ -2133,7 +2109,7 @@ A Charge Blade begins in Sword Mode. Its shield and morph fittings have no Artis
 
 ● Guard Point — Immediately after you successfully Block in Sword Mode, you may Morph into Axe Mode at Speed 0 after the Block fully resolves.
 
-## 
+##
 
 ## Abilities
 {:#abilities-36}
@@ -2148,8 +2124,6 @@ Limit: 1
 
 When a Melee Weapon Attack with your Vanguard Arm damages Armor Durability, a physical Barrier, an object, or a destructible monster part, deal \+50% damage to that object's Durability. This bonus applies after the Attack's normal damage is determined.
 
-### 
-
 ### Adaptive Arsenal
 {:#adaptive-arsenal}
 
@@ -2161,8 +2135,6 @@ Limit: 1
 Choose a second Vanguard Discipline for which you own a qualifying weapon. At the beginning of a scene, choose either of your prepared Disciplines as your current Discipline without spending a Downtime Slot.
 
 Once per scene, while wielding a qualifying weapon for your other prepared Discipline, you may change to it with a \[Speed 5, Utility\] action. All resources from the previous Discipline are lost. Corps-specific fittings for both prepared weapons remain functional, but only your designated Vanguard Arm gains Corps Refit bonus Artisan Points.
-
-### 
 
 ### Veteran Hunter
 {:#veteran-hunter}
@@ -2177,7 +2149,7 @@ When you consume Hunter's Opening, you may take both benefits instead of choosin
 
 This does not create a second Opening.
 
-## 
+##
 
 ## Jutsu
 {:#jutsu-34}
@@ -2198,8 +2170,6 @@ Link to a Melee Weapon Attack with your Vanguard Arm. After the Attack fully res
 
 If the linked Attack consumed Hunter's Opening, increase this movement to 3 yards.
 
-### 
-
 ### C-Rank
 {:#c-rank-3}
 
@@ -2216,8 +2186,6 @@ Tags: Attack, Melee, Weapon
 Make a Melee Weapon Attack with your Vanguard Arm. It deals \+50% damage to Armor Durability, physical Barriers, objects and destructible monster parts.
 
 If Partbreaker also applies, these bonuses are additive rather than multiplicative.
-
-### 
 
 ### B-Rank
 {:#b-rank-3}
@@ -2236,8 +2204,6 @@ Requires: Hunter's Opening against the target
 Consume Hunter's Opening and make a Melee Weapon Attack against that creature.
 
 In addition to Punishing Draw's listed bonus Damage Dice, choose one normal Hunter's Opening benefit and apply it to this Attack. Veteran Hunter does not allow Punishing Draw to receive both Opening benefits.
-
-### 
 
 ### A-Rank
 {:#a-rank-3}
@@ -2262,7 +2228,7 @@ After Vanguard Execution resolves, all stored resources from your current Vangua
 # Yamanaka
 {:#yamanaka}
 
-*Yamanaka families fit naturally into the Ember Corps’ intelligence and command structure. Their techniques make information immediate, let squads coordinate without shouting, and cross the dangerous border between one mind and another; their best operators know that trust is as important as reach.*
+*Yamanaka families serve in intelligence and command. Their mind techniques allow silent communication, coordinated missions and dangerous intrusions into an opponent’s thoughts.*
 
 ## Passives
 {:#passives-10}
@@ -2358,7 +2324,7 @@ At the start of each of their turns they may spend 1 Willpower to ignore this ef
 # Aburame
 {:#aburame}
 
-*In Haven Ember, Aburame families preserve the old host-bond as a living inheritance rather than a village institution. Their kikaichū make them natural Ember Corps scouts and controllers: patient, information-hungry, and at their best when the enemy is forced to spend time solving the swarm.*
+*Aburame families preserve their bond with kikaichū. The insects share the host’s chakra and serve in reconnaissance, tracking and battlefield control.*
 
 **Starting Features**
 
@@ -2581,7 +2547,7 @@ This is a variable Speed defensive action declared like a Block. You can declare
 # Akimichi
 {:#akimichi}
 
-*Akimichi descendants in Haven Ember preserve calorie control as both family discipline and fieldcraft. In the Ember Corps they are dependable shock troops and protectors, turning stored energy into sudden mass, momentum, and the kind of commitment that can change a whole engagement.*
+*Akimichi families preserve techniques that turn stored calories into strength and enlarged bodies. They serve as shock troops and protectors.*
 
 ## Passives
 {:#passives-3}
@@ -2820,7 +2786,7 @@ Chakra vents from your back like wings. Your movement increases by 50%, your una
 
 The tradition began in the Ashen Anvil's Ballistics Annex, where recovered firearms and industrial launchers were rebuilt for Hunter combat. Their weapons are not mass-produced firearms. Every chamber is fitted, every recoil system tuned, and every load chosen for the thing the hunter expects to meet outside the walls.
 
-A Ballistic Corps hunter does not simply carry a weapon. They maintain a platform: changing magazines, rebuilding barrels, replacing seal plates and turning trophies from dead monsters into the next answer fired downrange.
+Ballistic Hunters maintain their own magazines, barrels and seal plates, adapting their weapons with materials recovered during hunts.
 
 ## Passives
 {:#passives-38}
@@ -4247,7 +4213,7 @@ You cannot use Steam Engine on a Jutsu that used Critical Pressure as part of th
 
 ***CANON CLAN***
 
-*Hōzuki Hydrification makes its inheritors natural infiltration, escape, and water-combat specialists within the Ember Corps. Flesh becomes water, restraint becomes negotiable, and ordinary physical assumptions stop being reliable \- right up until electricity, dehydration, or a badly chosen container reminds them that the technique has rules.*
+*Hōzuki inherit the ability to turn their bodies into water. This aids escape, infiltration and aquatic combat, though electricity and dehydration remain dangerous.*
 
 **Starting Features**
 
@@ -4423,7 +4389,7 @@ Make a Ninjutsu Parry with +1 per full 2 gallons spent. On success, negate the A
 # Hyūga
 {:#hyuga}
 
-*The Byakugan survived the politics that once surrounded it. In Haven Ember, Hyūga heritage is a family legacy rather than a claim to a clan hierarchy: extraordinary perception paired with Gentle Fist precision, close-range denial, and the burden of deciding which old customs deserve to survive with the bloodline.*
+*Hyūga families preserve the Byakugan and Gentle Fist. Their training combines close-range chakra strikes with the eye’s exceptional perception, while older clan customs vary between households.*
 
 ## Passives
 {:#passives-4}
@@ -4663,7 +4629,7 @@ When you land a hit with this technique, you may “activate” their Tenketsu p
 # Inuzuka
 {:#inuzuka}
 
-*Haven Ember’s Inuzuka are never trained as a single combatant. Hunters and ninken grow into an Ember Corps partnership built on tracking, mobility, trust, and coordinated pressure; the dog is family and squadmate before it is ever a weapon.*
+*Inuzuka Hunters and their ninken train together from an early age. Their partnership combines scent tracking, mobility and coordinated attacks.*
 
 ## Passives
 {:#passives-5}
@@ -4697,7 +4663,7 @@ In addition to this, every 400 XP you can select one of the following effects to
 
 * Tracker Hound: Your Ninken gains \+4 to survival checks.
 
-You can take each of these multiple times. 
+You can take each of these multiple times.
 
 ### Ninken
 {:#ninken}
@@ -4929,7 +4895,7 @@ Your combined form gains a third chakra-formed head. Increase movement by 50%, g
 
 ***CANON BLOODLINE \- RARE***
 
-*Some Haven Ember descendants of Jūgo’s unnamed bloodline absorb natural energy involuntarily. Their bodies answer with weapons, armour, jets, regeneration, and dangerous surges of instinct; the Ember Corps treats that potential as something to train, monitor, and survive rather than a reason to exile the person carrying it.*
+*Descendants of Jūgo’s bloodline absorb natural energy involuntarily. It reshapes their bodies into weapons and armour, but can also provoke violent instincts. The Corps trains and monitors its bearers.*
 
 ## Passives
 {:#passives-29}
@@ -5134,7 +5100,7 @@ Lotus Volley: spend L SC and choose a target within 40 yards for each of L shots
 
 ***CANON CLAN / JITON***
 
-*Kazekage is a historical family name in Haven Ember, not a modern office and not inherited authority. What survives is the bloodline’s feared Magnet Release and a household habit of reading battlefields as allocation problems: where force, cover, bodies, and metal need to be next.*
+*Families descended from the old Kazekage preserve Magnet Release. Their name grants no current office; their controlled sand and metal remain powerful tools of defence and restraint.*
 
 **Starting Features**
 
@@ -5326,7 +5292,7 @@ Consume 12 gallons of Sand and attack the entire area with needle-like metal gra
 # Senju
 {:#senju}
 
-*The Senju name survives in Haven Ember as scattered families, broad training, and unusually resilient chakra rather than a ruling house. Rare descendants still manifest Mokuton, giving the Ember Corps a lineage that can build cover, restrain movement, and turn an empty battlefield into living terrain.*
+*Scattered Senju families preserve resilient chakra and broad shinobi training. Rare descendants manifest Mokuton, shaping living wood into structures, restraints and cover.*
 
 **Starting Features**
 
@@ -5489,7 +5455,7 @@ Create a flowering forest. It counts as your Mokuton for Body of the Forest and 
 
 ***RARE KEKKEI GENKAI***
 
-*Scorch Release appears only rarely among Haven Ember families, combining Fire and Wind into murderous dry heat. Ember Corps doctrine treats Shakuton as a bloodline rather than a surname: a specialist inheritance built around penetration, dehydration, and controlling how long an enemy can keep spending resources in the heat.*
+*Scorch Release combines Fire and Wind into intense, drying heat. Its rare inheritors use it to penetrate defences and dehydrate opponents.*
 
 ## Passives
 {:#passives-16}
@@ -5515,7 +5481,7 @@ A creature at Dehydration 4 or higher cannot benefit from regeneration. At Dehyd
 ### Scorch Is Lethal
 {:#scorch-is-lethal}
 
-Against a target at Dehydration 3 or higher, damaging Shakuton counts as 10% higher for Wounding. Shakuton retains its normal strengths, weaknesses, and counterplay.
+Against a target at Dehydration 3 or higher, damaging Shakuton counts as 10% higher for Wounding. Shakuton retains its normal elemental strengths and weaknesses.
 
 ### Scorch Orbs
 {:#scorch-orbs}
@@ -5549,7 +5515,7 @@ Any Katon or Fuuton Technique may be converted to Shakuton, with the following e
 
 * Katon transformed Shakuton Techniques do not inflict Ignite or Burns. Instead, they deal \+5% more Wounding for every stack of Burn and \+10% for each stack of Ignite.
 
-* Fuuton transformed Shakuton Techniques do not have their inherent Wounding bonuses (The Wounding bonus from Shakuton, Uniques, and Abilities is still applied, however). Instead, those Techniques gain a Stun equal to (Wounding Bonus)%/15, rounded up. 
+* Fuuton transformed Shakuton Techniques do not have their inherent Wounding bonuses (The Wounding bonus from Shakuton, Uniques, and Abilities is still applied, however). Instead, those Techniques gain a Stun equal to (Wounding Bonus)%/15, rounded up.
 
 * If "Burning Spear Technique" or “Fan of Wind” is turned into a Shakuton Jutsu, then it gains the following Upgrade: (4) Your weapon gains a Dehydration \+(Rank of weapon jutsu used) from this weapon. Max 1
 
@@ -5638,7 +5604,7 @@ Consume all Scorch Orbs. Deal 10d12 Energy damage plus 4d12 per Orb consumed. Ap
 # Uzumaki
 {:#uzumaki}
 
-*Uzumaki bloodlines are prized in Haven Ember for the same reasons old powers feared and courted them: vitality, reserves, and sealing talent. Within the Ember Corps they are natural binders, ward-makers, jailers, and rescue specialists trusted with problems that become catastrophic if containment fails.*
+*Uzumaki descendants preserve strong vitality, chakra reserves and sealing traditions. Haven Ember relies on them for barriers, containment and rescue work.*
 
 **Starting Features**
 
@@ -5797,7 +5763,7 @@ Four chains anchor around the area and form a barrier with HP equal to CHA x 8 \
 
 ***RARE KEKKEI GENKAI***
 
-*Lava Release survives in Haven Ember in several expressions \- magma, molten stone, volcanic pressure, and heat driven through solid terrain. The Ember Corps treats Yōton users as dangerous terrain-makers first and simple firepower second: once they commit, the ground itself becomes part of the attack.*
+*Lava Release survives in several forms, including magma, molten stone and volcanic pressure. Its inheritors reshape terrain and drive heat through solid defences.*
 
 **Starting Features**
 
@@ -6012,7 +5978,7 @@ When declaring a later Yōton Ninjutsu with a numeric Range, you may choose a vi
 
 ***CANON CLAN \- RARE***
 
-*Yuki families in Haven Ember preserve Hyōton as a rare Water-and-Wind inheritance. Ember Corps users are taught to think in geometry: mirrors, frozen surfaces, projectiles, and temporary structures that alter sightlines and movement until the enemy is fighting the shape of the ice instead of the person who made it.*
+*Yuki families preserve Hyōton, the fusion of Water and Wind. Their techniques form ice mirrors, weapons and structures used for movement, concealment and attack.*
 
 **Starting Features**
 
@@ -6034,7 +6000,7 @@ Yuki have the ability to use one of the coolest advanced chakra natures: ice rel
 
 * Hyouton's damage for the purpose of wounding is considered 15% higher, which stacks additively with any existing increases on converted jutsu (50%+15% \= 65%).
 
-* When you would inflict a wound with a Hyouton technique, you may instead decide not to, and inflict a “Permanent” Freeze to the limb the wound affected. Each leg affected this way can hold up to Immob 3, each Hand may hold up to Immob 3, for a total of 12 Immob applied to a target. Applied to the head or torso, this applies Suffocation without a limit. When the wound is applied, compared the location to the relevant Freeze effect (Immob for Legs and Arms, Suffocation for Torso and Head), and apply a severity equal to the wound category (Major=1,Severe=2,Critical=3). The Legs can only ever give a total of 6 Immob, as well as the arms. The Suffocation applied this way can fade naturally, but the Frozen Arms and Leg immob remains until the creature spends atleast an hour in a hot area thawing. 
+* When you would inflict a wound with a Hyouton technique, you may instead decide not to, and inflict a “Permanent” Freeze to the limb the wound affected. Each leg affected this way can hold up to Immob 3, each Hand may hold up to Immob 3, for a total of 12 Immob applied to a target. Applied to the head or torso, this applies Suffocation without a limit. When the wound is applied, compared the location to the relevant Freeze effect (Immob for Legs and Arms, Suffocation for Torso and Head), and apply a severity equal to the wound category (Major=1,Severe=2,Critical=3). The Legs can only ever give a total of 6 Immob, as well as the arms. The Suffocation applied this way can fade naturally, but the Frozen Arms and Leg immob remains until the creature spends atleast an hour in a hot area thawing.
 
 * You can forgo rolling any or all damage dice when using a Hyouton Technique. Instead, treat those dice as though they rolled their average result, rounded down (IE; a d4 would be a 2, a D6 a 3…). You must make the decision of how many dice to convert before you roll damage.
 
@@ -6044,14 +6010,14 @@ Yuki have the ability to use one of the coolest advanced chakra natures: ice rel
 
 * Anything that creates Gallons of Water instead creates Gallons of Ice.
 
-* Hyouton that use Ice to pay for its cost, or that create Ice, that hit an opponent apply an Immobilize penalty based on its Rank (E \= 1, D \= 2, C \= 3, B \= 4, A \= 5). This penalty fades at a rate of 1 per 10 IC since the opponent was last hit with a Hyouton Jutsu. This only applies once per casting, even on persistent damage effects. 
+* Hyouton that use Ice to pay for its cost, or that create Ice, that hit an opponent apply an Immobilize penalty based on its Rank (E \= 1, D \= 2, C \= 3, B \= 4, A \= 5). This penalty fades at a rate of 1 per 10 IC since the opponent was last hit with a Hyouton Jutsu. This only applies once per casting, even on persistent damage effects.
 
 * If "Water-Cutting Blade" or “Fan of Wind” is turned into a Hyouton Jutsu, then it gains the following Upgrade: (3) Your weapon attacks count as Hyouton Jutsu for the purpose of fading Immobilize penalties.
 
 ### Living Ice
 {:#living-ice}
 
-As a Speed 1 Action, freeze or liquefy up to 2 gallons of water you can see within CHA/2 yards. This cannot directly damage a creature or destroy an attended object. 
+As a Speed 1 Action, freeze or liquefy up to 2 gallons of water you can see within CHA/2 yards. This cannot directly damage a creature or destroy an attended object.
 
 While within 2 yards of Ice you created, gain \+2 Dodge and \+20% movement. When you enter Ice you created, you can move an additional 3 yards without increasing your IC. Your own Ice never imposes difficult terrain or Immobilization on you unless a technique explicitly says it does.
 
@@ -6206,7 +6172,7 @@ When targeted by an Attack, move instantly from your current position into or ad
 
 ***PUPPET HERITAGE***
 
-*Karashi is Haven Ember’s name for a workshop lineage raised around puppet balance, chakra strings, hidden mechanisms, and the belief that a hunters’s reach should be limited by imagination rather than anatomy. Puppetry is not theirs alone, but Karashi characters begin inside the craft instead of approaching it from the outside.*
+*Karashi is Haven Ember’s workshop lineage of puppeteers. Its families teach chakra strings, balance and concealed mechanisms; other Hunters can also learn puppetry.*
 
 ## Passives
 {:#passives-15}
@@ -7253,7 +7219,7 @@ Choose one mounted thrown weapon used with Ninja Wire. Once per 10 IC after an A
 
 ***RARE KEKKEI GENKAI***
 
-*Bakuton inheritors are drilled hard by Ember Corps breaching and demolition teams because their chakra turns directly into abrupt expansion and pressure. Survivors remember the flash and call it fire; trained operators know the difference. Bakuton exists in the instant between contact and consequence, and mastery is deciding where that consequence is allowed to go.*
+*Bakuton inheritors turn chakra into explosive pressure. Corps demolition teams train them to direct blasts and breach defences without endangering their crews.*
 
 **Starting Features**
 
@@ -7660,7 +7626,7 @@ Fill the area with microscopic explosive clay. Creatures that remain in or enter
 
 ***CANON CLAN***
 
-*Kaguya descendants in Haven Ember inherit Shikotsumyaku without inheriting the old expectation that they exist only to be thrown into battle. Their skeletons become armour, ammunition, and weapons; Ember Corps training gives that frightening physiology discipline, squad doctrine, and somewhere to aim the instinct to keep escalating.*
+*Kaguya descendants inherit Shikotsumyaku, shaping their bones into armour, ammunition and weapons. Corps training helps them control its use and fight beside a crew.*
 
 **Starting Features**
 
@@ -7956,7 +7922,7 @@ Skeletal Modifications: Any three.
 
 ***CANON CLAN — 3 UP***
 
-*In Haven Ember, the Uchiha are heirs to a dangerous legacy rather than residents of a sovereign clan compound. Their strength is breadth under pressure: the Sharingan turns observation into prediction, prediction into imitation, and imitation into a fighting style that becomes harder to solve the longer the duel continues.*
+*Uchiha families preserve the Sharingan and their fire techniques. The eye lets them read movement, imitate techniques and anticipate an opponent’s actions.*
 
 **Starting Features**
 
@@ -7968,11 +7934,11 @@ Skeletal Modifications: Any three.
 ### The Curse of Hatred
 {:#the-curse-of-hatred}
 
-The Uchiha Clan have always had a strong connection to others. You are no different than the rest. Your emotions often overwhelm you, and you find yourself in places where you feel like the entire world is against you \- even when everything around you says otherwise. Whenever an ally within your line of sight suffers a Wound, you may designate the enemy responsible as the object of your hatred. Until that enemy is defeated, you gain \+2 Accuracy against them and your attacks against them deal \+10% Final Damage. However, you suffer \-2 Dodge against attacks from all other enemies. If the wounded ally is someone with whom you have an established in-character bond, your first attack against the responsible enemy also gains \-2 Final Speed, but counts as it’s base speed for the purposes of dealing damage.
+The Uchiha Clan have always had a strong connection to others. You are no different than the rest. Your emotions often overwhelm you, and you find yourself in places where you feel like the entire world is against you \- even when everything around you says otherwise. Whenever an ally within your line of sight suffers a Wound, you may designate the enemy responsible as the object of your hatred. Until that enemy is defeated, you gain \+2 Accuracy against them and your attacks against them deal \+10% Final Damage. However, you suffer \-2 Dodge against attacks from all other enemies. If the wounded ally is someone with whom you have an established in-character bond, your first attack against the responsible enemy also gains \-2 Final Speed, but counts as its base speed for the purposes of dealing damage.
 
 You may only have one object of hatred at a time.
 
-If you are the one that lands the final blow on your Object of Hatred, you begin an emotional surge. Until the end of the scene, your character begins to resent the ally that was wounded. Your mind betrays you, twisting your affection into resentment, your concern into blame, and your relief into an overwhelming sense of emptiness. 
+If you are the one that lands the final blow on your Object of Hatred, you begin an emotional surge. Until the end of the scene, your character begins to resent the ally that was wounded. Your mind betrays you, twisting your affection into resentment, your concern into blame, and your relief into an overwhelming sense of emptiness.
 
 When the scene ends, choose one:
 
@@ -7983,7 +7949,7 @@ When the scene ends, choose one:
 ### Sharingan - Copy Wheel Eye
 {:#sharingan-copy-wheel-eye}
 
-The Sharingan manifests as red irises marked by tomoe. It is a power one must unlock through suffering and pain. 
+The Sharingan manifests as red irises marked by tomoe. It is a power one must unlock through suffering and pain.
 
 Activating Sharingan is Speed 0, may be linked to another Action or Interrupt, and has Upkeep 2\. None of its abilities function while the Uchiha suffers a Visibility penalty of \-6 or worse or otherwise cannot clearly perceive the relevant creature.
 
