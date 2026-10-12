@@ -40,7 +40,15 @@ permalink: /timeline/
     </div>
   </section>
 
+  <section class="timeline-era">
+    <div class="timeline-era-head"><span>OCT 2026</span><h2>Beyond the Ruins</h2><p>Even while Ember rebuilds, the Wastes do not wait. Hunts resume, travellers arrive from distant Havens, and the Corps begins to learn what kind of world survived beyond its own walls.</p></div>
+    <div class="timeline-stream">
+      <article class="timeline-entry hunt"><time>10–12 OCT 2026</time><div><span class="timeline-tag">HUNT</span><h3>The Blackgate Tortoise</h3><p>Yuna Yuki, Banchō, Kōga Tenryū and Maya leave Ember to hunt the Blackgate Tortoise. Their absence stretches long enough for concern to spread through the Haven, but the party eventually returns dragging the monster's charred and shattered carcass behind them.</p><p>The victory is costly. Banchō is brought home unconscious, burned across almost his entire body and bearing a severe Dark Halo wound across his chest. Kōga returns with second-degree burns along his arms and a pronounced limp. Yuna and Maya escape serious injury, though both return exhausted from the fight.</p><p class="timeline-outcome">OUTCOME · Blackgate Tortoise slain · All four Hunters return to Ember alive</p></div></article>
+      <article class="timeline-entry haven"><time>12 OCT 2026</time><div><span class="timeline-tag">ARRIVAL</span><h3>The Hunter from the Ocean</h3><p>A traveller arrives in Ember from the south: a tall Hoshigaki Hunter claiming Haven Hakujona as his home. He carries monster trophies and unfamiliar weapons, trading them for food, supplies and information while sharing stories gathered across distant lands.</p><p>He makes little secret of his confidence in battle. During his stay he openly welcomes single-combat challengers, offering rewards to any Hunter capable of besting him.</p><p class="timeline-outcome">ARRIVAL · First recorded visitor from Haven Hakujona · Southern trade and stories reach Ember</p></div></article>
+    </div>
+  </section>
+
   <section class="timeline-present">
-    <span class="present-pulse"></span><div><small>30 SEP 2026 · AFTER THE CROWN</small><h2>EMBER ENDURES.</h2><p>Ember survives, wounded and rebuilding. Chōmei is free. The Crown Beneath is dead. Whoever built the Rhinestone Crown remains unknown.</p></div>
+    <span class="present-pulse"></span><div><small>12 OCT 2026 · REBUILDING</small><h2>EMBER LOOKS OUTWARD.</h2><p>The Haven still bears the Crown Beneath's scars, but its Hunters are once again ranging into the Wastes. The Blackgate Tortoise is dead, a stranger from Haven Hakujona has reached Ember, and the world beyond the ruins is beginning to feel closer.</p></div>
   </section>
 </div>
