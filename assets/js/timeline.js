@@ -54,6 +54,8 @@
         era.style.setProperty('--history-drift', `${Math.round(Math.max(-45, Math.min(45, (height * .5 - box.top) * .055)))}px`);
       }
     });
+    // The final chapter may be too short to reach the usual reading cursor.
+    if (bounds.bottom <= height + 2) active = eras[eras.length - 1];
     if (current !== active.id) {
       current = active.id;
       links.forEach(link => {
