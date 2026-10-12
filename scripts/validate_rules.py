@@ -33,6 +33,8 @@ assert 'combat ends in a victory' not in pages['/rules/clans/'][0]
 assert 'whatever Medicine action' not in pages['/rules/talents/capabilities/'][0]
 for route, (body, _, _) in pages.items():
     assert '[ HERE ]' not in body, route
+    if route in ('/rules/core/', '/rules/wounds/', '/rules/equipment/'):
+        assert not re.search(r'\{:#\d', body), f'{route}: numeric anchors need explicit HTML ids'
     # All new cross-volume Liquid links must resolve to an existing source/anchor.
     for match in re.finditer(r'\{\{\s*["\'](/[^"\']*)["\']\s*\|\s*relative_url\s*\}\}', body):
         target, _, fragment = match[1].partition('#')

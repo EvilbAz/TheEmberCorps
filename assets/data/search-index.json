@@ -2377,7 +2377,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#blunt-minor",
-    "text": ""
+    "text": "- (1 - 20) Ringing Noise (Head) For 25 IC you get a -1 penalty to all d20 rolls, aside from Genjutsu defenses; it's -2. Multiple applications stack and the duration applied by this Wound increases by 5 IC pe"
   },
   {
     "title": "- (1 - 20) Ringing Noise (Head)",
@@ -2419,7 +2419,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#blunt-major",
-    "text": ""
+    "text": "- (1 - 20) Dazed (Head) That one left you reeling. Once you're done seeing stars, you'll be... mostly okay. Everything seems just a little bit... off, about the world, though you can't quite place what. Soun"
   },
   {
     "title": "- (1 - 20) Dazed (Head)",
@@ -2461,7 +2461,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#blunt-severe",
-    "text": ""
+    "text": "- (1 - 20) Concussion (Head) This imposes a -5 penalty on all d20 rolls, and halves (round down) your Current and Maximum AP, and the amount of AP you gain from any source. Whenever you suffer a head wound, "
   },
   {
     "title": "- (1 - 20) Concussion (Head)",
@@ -2503,7 +2503,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#blunt-critical",
-    "text": ""
+    "text": "- (1 - 20) Fractured Skull (Head) Aside from a Stun 15, you suffer a -8 penalty to accuracy and all d20 rolls, doubled for skill checks. And your maximum AP pool becomes 0. Until this heals any time you suff"
   },
   {
     "title": "- (1 - 20) Fractured Skull (Head)",
@@ -2552,7 +2552,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#slashing-minor",
-    "text": ""
+    "text": "- (1 - 20) Profuse Bleeding (Head) You got a gash on your face, maybe a slice into your cheek. You’re bleeding a lot! Head injuries are like that. The blood loss isn’t the issue; the fact that that blood is "
   },
   {
     "title": "- (1 - 20) Profuse Bleeding (Head)",
@@ -2594,7 +2594,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#slashing-major",
-    "text": ""
+    "text": "- (1 - 20) Blood in the Eyes (Head) Oh no you’re bleeding from the face! Because fights must be dramatic, the attack has cut in such a way (maybe right across your eyelid, maybe over the forehead) that blood"
   },
   {
     "title": "- (1 - 20) Blood in the Eyes (Head)",
@@ -2636,7 +2636,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#slashing-severe",
-    "text": ""
+    "text": "- (1 - 20) Avulsed Ear (Head) If you have the Enhanced Hearing ability, you lose all benefits from it, as well as any abilities which depend on it (such as Blind Fighting). With blood pooling in the ear maki"
   },
   {
     "title": "- (1 - 20) Avulsed Ear (Head)",
@@ -2671,7 +2671,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#slashing-critical",
-    "text": ""
+    "text": "- (1 - 20) Cut Throat (Head) You start with a Suffocation 2. Every time you take an action with a Speed greater than 2, its severity is increased by 1 (notably, the \"Move\" action will not trigger this effect"
   },
   {
     "title": "- (1 - 20) Cut Throat (Head)",
@@ -2720,7 +2720,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#piercing-minor",
-    "text": ""
+    "text": "- (1 - 30) Incision (Torso) You've got a small but fairly deep incision from what struck you. The initial shock of pain was worse than the wound really is, though. You take a Stun 3, which increases by 2 for"
   },
   {
     "title": "- (1 - 30) Incision (Torso)",
@@ -2755,7 +2755,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#piercing-major",
-    "text": ""
+    "text": "- (1 - 30) Punctured Cavity (Torso) The body has several cavities, areas where specific internal organs are housed and kept together. One of them has been pierced and now has a hole in it, inflicting Needlin"
   },
   {
     "title": "- (1 - 30) Punctured Cavity (Torso)",
@@ -2790,7 +2790,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#piercing-severe",
-    "text": ""
+    "text": "- (1 - 30) Rib Spearing (Torso) The object that struck you did so in such a way as to cause your ribs not just to fracture, but to split entirely. Both ends are curved inward, making movement, breathing, and"
   },
   {
     "title": "- (1 - 30) Rib Spearing (Torso)",
@@ -2825,7 +2825,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#piercing-critical",
-    "text": ""
+    "text": "- (1 - 20) Kirk’d (Neck) Unfortunately, your neck is still full of fairly important things, and several of them have just become acquainted with the outside world. Breathing hurts, swallowing is worse, and t"
   },
   {
     "title": "- (1 - 20) Kirk’d (Neck)",
@@ -2867,7 +2867,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#energy-minor",
-    "text": ""
+    "text": "- (1 - 20) Sun Spots (Head) You were a little too slow in closing your eyes when hit, and now vague shapes resembling the oncoming blast seem to float around in front of you, obscuring your vision. It's anno"
   },
   {
     "title": "- (1 - 20) Sun Spots (Head)",
@@ -2909,7 +2909,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#energy-major",
-    "text": ""
+    "text": "- (1 - 20) Facial Burn (Head) There's now a nasty burn across your face, the flesh blistered and somewhat charred. This is disorienting, and you can't get the smell of burnt flesh out of your nostrils, or th"
   },
   {
     "title": "- (1 - 20) Facial Burn (Head)",
@@ -2951,7 +2951,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#energy-severe",
-    "text": ""
+    "text": "- (1 - 20) Blinded (Head) You take a -3 Visibility Penalty, which is reduced by 1 every 15 IC. It is not so bad by itself, until the next time you're hit by a jutsu that inflicts Energy wounds (regardless of"
   },
   {
     "title": "- (1 - 20) Blinded (Head)",
@@ -2993,7 +2993,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#energy-critical",
-    "text": ""
+    "text": "- (1 - 20) Eye Welded Shut (Head) Any ranks in the Enhanced Sight are lost until you recover, as are any abilities dependant upon it. That eye is effectively useless, putting you at a -5 visibility penalty a"
   },
   {
     "title": "- (1 - 20) Eye Welded Shut (Head)",
@@ -13500,7 +13500,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#shuriken-launchers",
-    "text": "Shuriken Launchers trade the hand-thrown Shuriken's extreme Speed for greater Range, magazine capacity, Volley, and heavy Fūma deployment."
+    "text": "Shuriken Launchers trade the hand-thrown Shuriken's extreme Speed for greater Range, magazine capacity, Volley, and heavy Fūma deployment. 3. Bow Frames"
   },
   {
     "title": "3. Bow Frames",
@@ -21389,7 +21389,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#blunt-minor",
-    "text": ""
+    "text": "- (1 - 20) Ringing Noise (Head) For 25 IC you get a -1 penalty to all d20 rolls, aside from Genjutsu defenses; it's -2. Multiple applications stack and the duration applied by this Wound increases by 5 IC pe"
   },
   {
     "title": "- (1 - 20) Ringing Noise (Head)",
@@ -21431,7 +21431,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#blunt-major",
-    "text": ""
+    "text": "- (1 - 20) Dazed (Head) That one left you reeling. Once you're done seeing stars, you'll be... mostly okay. Everything seems just a little bit... off, about the world, though you can't quite place what. Soun"
   },
   {
     "title": "- (1 - 20) Dazed (Head)",
@@ -21473,7 +21473,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#blunt-severe",
-    "text": ""
+    "text": "- (1 - 20) Concussion (Head) This imposes a -5 penalty on all d20 rolls, and halves (round down) your Current and Maximum AP, and the amount of AP you gain from any source. Whenever you suffer a head wound, "
   },
   {
     "title": "- (1 - 20) Concussion (Head)",
@@ -21515,7 +21515,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#blunt-critical",
-    "text": ""
+    "text": "- (1 - 20) Fractured Skull (Head) Aside from a Stun 15, you suffer a -8 penalty to accuracy and all d20 rolls, doubled for skill checks. And your maximum AP pool becomes 0. Until this heals any time you suff"
   },
   {
     "title": "- (1 - 20) Fractured Skull (Head)",
@@ -21564,7 +21564,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#slashing-minor",
-    "text": ""
+    "text": "- (1 - 20) Profuse Bleeding (Head) You got a gash on your face, maybe a slice into your cheek. You’re bleeding a lot! Head injuries are like that. The blood loss isn’t the issue; the fact that that blood is "
   },
   {
     "title": "- (1 - 20) Profuse Bleeding (Head)",
@@ -21606,7 +21606,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#slashing-major",
-    "text": ""
+    "text": "- (1 - 20) Blood in the Eyes (Head) Oh no you’re bleeding from the face! Because fights must be dramatic, the attack has cut in such a way (maybe right across your eyelid, maybe over the forehead) that blood"
   },
   {
     "title": "- (1 - 20) Blood in the Eyes (Head)",
@@ -21648,7 +21648,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#slashing-severe",
-    "text": ""
+    "text": "- (1 - 20) Avulsed Ear (Head) If you have the Enhanced Hearing ability, you lose all benefits from it, as well as any abilities which depend on it (such as Blind Fighting). With blood pooling in the ear maki"
   },
   {
     "title": "- (1 - 20) Avulsed Ear (Head)",
@@ -21683,7 +21683,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#slashing-critical",
-    "text": ""
+    "text": "- (1 - 20) Cut Throat (Head) You start with a Suffocation 2. Every time you take an action with a Speed greater than 2, its severity is increased by 1 (notably, the \"Move\" action will not trigger this effect"
   },
   {
     "title": "- (1 - 20) Cut Throat (Head)",
@@ -21732,7 +21732,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#piercing-minor",
-    "text": ""
+    "text": "- (1 - 30) Incision (Torso) You've got a small but fairly deep incision from what struck you. The initial shock of pain was worse than the wound really is, though. You take a Stun 3, which increases by 2 for"
   },
   {
     "title": "- (1 - 30) Incision (Torso)",
@@ -21767,7 +21767,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#piercing-major",
-    "text": ""
+    "text": "- (1 - 30) Punctured Cavity (Torso) The body has several cavities, areas where specific internal organs are housed and kept together. One of them has been pierced and now has a hole in it, inflicting Needlin"
   },
   {
     "title": "- (1 - 30) Punctured Cavity (Torso)",
@@ -21802,7 +21802,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#piercing-severe",
-    "text": ""
+    "text": "- (1 - 30) Rib Spearing (Torso) The object that struck you did so in such a way as to cause your ribs not just to fracture, but to split entirely. Both ends are curved inward, making movement, breathing, and"
   },
   {
     "title": "- (1 - 30) Rib Spearing (Torso)",
@@ -21837,7 +21837,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#piercing-critical",
-    "text": ""
+    "text": "- (1 - 20) Kirk’d (Neck) Unfortunately, your neck is still full of fairly important things, and several of them have just become acquainted with the outside world. Breathing hurts, swallowing is worse, and t"
   },
   {
     "title": "- (1 - 20) Kirk’d (Neck)",
@@ -21879,7 +21879,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#energy-minor",
-    "text": ""
+    "text": "- (1 - 20) Sun Spots (Head) You were a little too slow in closing your eyes when hit, and now vague shapes resembling the oncoming blast seem to float around in front of you, obscuring your vision. It's anno"
   },
   {
     "title": "- (1 - 20) Sun Spots (Head)",
@@ -21921,7 +21921,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#energy-major",
-    "text": ""
+    "text": "- (1 - 20) Facial Burn (Head) There's now a nasty burn across your face, the flesh blistered and somewhat charred. This is disorienting, and you can't get the smell of burnt flesh out of your nostrils, or th"
   },
   {
     "title": "- (1 - 20) Facial Burn (Head)",
@@ -21963,7 +21963,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#energy-severe",
-    "text": ""
+    "text": "- (1 - 20) Blinded (Head) You take a -3 Visibility Penalty, which is reduced by 1 every 15 IC. It is not so bad by itself, until the next time you're hit by a jutsu that inflicts Energy wounds (regardless of"
   },
   {
     "title": "- (1 - 20) Blinded (Head)",
@@ -22005,7 +22005,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#energy-critical",
-    "text": ""
+    "text": "- (1 - 20) Eye Welded Shut (Head) Any ranks in the Enhanced Sight are lost until you recover, as are any abilities dependant upon it. That eye is effectively useless, putting you at a -5 visibility penalty a"
   },
   {
     "title": "- (1 - 20) Eye Welded Shut (Head)",

@@ -23,8 +23,7 @@ A weapon's Final Artisan Points cannot exceed your Artisan ranks when you craft 
 
 Weapons still use the normal equipment restriction: you cannot wield a weapon with Final Artisan Points greater than Athletics \+10 without the normal over-limit penalties.
 
-#### 1. Structure
-{:#1-structure}
+<h4 id="1-structure">1. Structure</h4>
 
 Choose one Damage Type, one Size, one Heft, and one Shape. Your first choice in each category is free unless the option says otherwise.
 
@@ -66,8 +65,7 @@ Fan — Accuracy \-2, Parry \+1. May Parry Weapon and Unarmed Attacks and may ac
 
 Chain — Accuracy \+0, Parry \-1. A Basic Weapon Attack may be converted into a Ranged Weapon Taijutsu Attack to gain \+5 Range. Chain Bukijutsu use the normal Weapon Grapple rules.
 
-#### 2. Components
-{:#2-components}
+<h4 id="2-components">2. Components</h4>
 
 Components are ordinary workshop modifications purchased with Artisan Points. They replace the old Bottom, Middle, and Top Feature tiers.
 
@@ -242,8 +240,7 @@ Resonance Chamber — 4 AP. Requires Chakra Conduit. When a technique explicitly
 
 Chakra Insulation — 3 AP. Requires Chakra Conduit. Reduce additional WDP caused specifically by channeling Chakra through the weapon by 3, minimum 0.
 
-#### 3. Special Properties
-{:#3-special-properties}
+<h4 id="3-special-properties">3. Special Properties</h4>
 
 Special Properties are unusual constructions beyond ordinary Components. Unless another rule grants access, crafting a Special Property requires Master Artisan.
 
@@ -303,8 +300,7 @@ Black Jade — \+0.30 Property Load. Whenever you Block while wielding this weap
 
 Phaseglass — \+0.35 Property Load. Full hits with the weapon ignore 5 Damage Reduction. This does not bypass Blocking, Armor Absorption, or percentage-based mitigation.
 
-#### 4. Elemental Upgrades, Created Weapons & Reforging
-{:#4-elemental-upgrades-created-weapons-reforging}
+<h4 id="4-elemental-upgrades-created-weapons-reforging">4. Elemental Upgrades, Created Weapons &amp; Reforging</h4>
 
 Weapon upgrades granted by Jutsu, Clan, Heritage, or another rule spend Artisan Points at their listed cost and use the limits written by that effect.
 
@@ -324,8 +320,7 @@ Ranged Weapon Crafting lets you build bows, crossbows, launchers and reusable th
 
 Mechanical launchers and crossbows are not Firearms. They do not use Ballistic Damage Bonus, Ballistic Loads, Burst, Full Auto, Modification Points, specialist Ballistic ammunition, or Firearm-specific Talents unless a rule explicitly allows it.
 
-#### 1. Core Rules
-{:#1-core-rules}
+<h4 id="1-core-rules">1. Core Rules</h4>
 
 A ranged weapon's Final Artisan Points cannot exceed your Artisan ranks when you craft it. Crafting TN is 15 \+ (4 × Final Artisan Points).
 
@@ -346,8 +341,7 @@ Ammunition AP does not increase the weapon's Final Artisan Points, does not coun
 
 Reusable weapons such as Kunai and Shuriken are crafted as weapons rather than ammunition.
 
-#### 2. Weapon Families
-{:#2-weapon-families}
+<h4 id="2-weapon-families">2. Weapon Families</h4>
 
 ##### Bows
 {:#bows}
@@ -369,8 +363,7 @@ Kunai Launchers are compact projectile weapons built around utility, Ninja Wire,
 
 Shuriken Launchers trade the hand-thrown Shuriken's extreme Speed for greater Range, magazine capacity, Volley, and heavy Fūma deployment.
 
-#### 3. Bow Frames
-{:#3-bow-frames}
+<h4 id="3-bow-frames">3. Bow Frames</h4>
 
 ##### Yumi
 {:#yumi}
@@ -390,8 +383,7 @@ The ammunition determines dS. The Daikyu uses twice your normal Physical Damage 
 
 Aim \[Speed 10, Utility\]: Gain \+4 Accuracy on your next Daikyu Attack. You may Aim up to twice for the same Attack. Taking any action which requires movement, including Dodging, removes all accumulated Daikyu Aim bonuses.
 
-#### 4. Crossbow Frames
-{:#4-crossbow-frames}
+<h4 id="4-crossbow-frames">4. Crossbow Frames</h4>
 
 Crossbows store mechanical tension rather than relying on the wielder's Strength to determine their Damage Dice. The loaded Bolt determines the Damage Die size and Damage Type. Standard Bolts use d10.
 
@@ -417,8 +409,7 @@ The Heavy Arbalest must be operated with both hands and cannot be Reloaded while
 
 Crossbow Aim \[Speed 5, Utility\]: Your next Crossbow Attack gains \+2 Accuracy if you do not voluntarily move before declaring it. You may only benefit from one Crossbow Aim at a time. The bonus is lost after making a Crossbow Attack.
 
-#### 5. Reload
-{:#5-reload}
+<h4 id="5-reload">5. Reload</h4>
 
 Crossbows and Launchers have Capacity and Reload values. Reloading is a Utility action using the weapon's listed Reload Speed. Reload may refill any number of empty spaces in the weapon up to its Capacity, but partially Reloading still uses the full Reload Speed.
 
@@ -426,8 +417,7 @@ You must possess the ammunition or projectiles being loaded. A loaded weapon may
 
 A weapon cannot contain more projectiles than its Capacity. Reload Speed is not Attack Speed and does not increase the weapon's Damage.
 
-#### 6. Launcher Frames
-{:#6-launcher-frames}
+<h4 id="6-launcher-frames">6. Launcher Frames</h4>
 
 A Launcher supplies an attack's Speed, Stamina, Accuracy, Range, and Delay. The loaded projectile supplies Damage Dice, Damage Type, and projectile-specific effects. A launched Kunai or Shuriken does not also use its printed thrown Speed, Stamina, Range, or Delay.
 
@@ -461,8 +451,7 @@ Cost: 26,000 Ryō. \[Large, Two-Handed, Launcher, Shuriken, Projectile\]. Speed 
 
 The Heavy Shuriken Launcher possesses Volley and may purchase the Fūma Cradle Component. A Shuriken's printed \+2 Accuracy still applies when fired through it.
 
-#### 7. Launcher Volley
-{:#7-launcher-volley}
+<h4 id="7-launcher-volley">7. Launcher Volley</h4>
 
 Volley \[Attack, Projectile, Multi-Throw\]: A weapon with Volley may fire several loaded projectiles in a single Attack.
 
@@ -493,8 +482,7 @@ A Launcher may contain any mixture of compatible ordinary and crafted projectile
 
 Volley normally requires every projectile fired to use the same projectile pattern. Split Feed allows a Volley to contain up to two different loaded projectile patterns of the same projectile type.
 
-#### 8. Ranged Components
-{:#8-ranged-components}
+<h4 id="8-ranged-components">8. Ranged Components</h4>
 
 Ranged weapons may purchase any ordinary Weapon Component whose effect can function with that weapon. Components which require an unrelated Shape, Melee Reach, a Melee-only Attack, a Melee Parry, or another incompatible trait cannot be purchased for a ranged weapon.
 
@@ -545,8 +533,7 @@ Ranged Components count normally toward the every-6-Component-AP Damage Die and 
 
 Existing ordinary Components such as Sturdy, Reinforced Edge, Honed Geometry, Lightweight, Perfect Balance, Counterweight, Weighted Heft, and Chakra Conduit remain available when they have a valid interaction with the weapon. A Launcher does not gain access to Melee Components merely because the ammunition loaded into it can also function as a Melee weapon.
 
-#### 9. Fūma Cradle
-{:#9-fuma-cradle}
+<h4 id="9-fuma-cradle">9. Fūma Cradle</h4>
 
 **Fūma Cradle — 7 AP.** Heavy Shuriken Launcher only. The weapon gains a separate chamber capable of holding one Fūma Shuriken. This chamber does not consume ordinary Shuriken Capacity. Loading or Reloading the Cradle uses its own Reload action.
 
@@ -559,8 +546,7 @@ Use whichever Range is higher: the Heavy Shuriken Launcher's current Range or th
 
 Fūma Launch cannot Volley or Multi-Throw. Reloading the Fūma Cradle is a separate Speed 8 Utility action. The Fūma Cradle contains only one Fūma Shuriken and cannot satisfy a technique requiring multiple Fūma Shuriken unless another effect provides them.
 
-#### 10. Custom Kunai and Shuriken
-{:#10-custom-kunai-and-shuriken}
+<h4 id="10-custom-kunai-and-shuriken">10. Custom Kunai and Shuriken</h4>
 
 Kunai and Shuriken are reusable weapons rather than consumable ammunition. Throwing or launching one does not ordinarily destroy it. A crafted Kunai or Shuriken is an individually crafted weapon which can be thrown normally or loaded into a compatible Launcher.
 
@@ -617,8 +603,7 @@ Additional Damage Dice from Components apply only once to the entire Attack. The
 
 If several different crafted patterns contribute to the same Attack, use only the highest applicable Attack-wide bonus of each type. Effects which trigger from an individual projectile still require that projectile to meet their normal condition. A normal single-projectile Attack receives all of that weapon's crafting benefits normally.
 
-#### 11. Bow and Crossbow Ammunition
-{:#11-bow-and-crossbow-ammunition}
+<h4 id="11-bow-and-crossbow-ammunition">11. Bow and Crossbow Ammunition</h4>
 
 Bows and Crossbows use consumable ammunition patterns. Arrows and Bolts are purchased and crafted in batches of ten. Unless another effect says otherwise, firing an Arrow or Bolt consumes one piece of ammunition. Ammunition recovered after an encounter may be reused where appropriate.
 
@@ -666,8 +651,7 @@ When several separately resolved projectiles are created by a Bukijutsu, each pr
 
 Poisons use the normal poison-coating rules. Explosive Tags, elemental ammunition, chakra enhancements, sealing effects, monster trophies, and similar upgrades require whatever Jutsu, Talent, Clan feature, mission reward, or other rule normally provides them. Ordinary ranged crafting does not grant access to Ballistic Corps specialist ammunition.
 
-#### 12. Special Properties and Wondrous Materials
-{:#12-special-properties-and-wondrous-materials}
+<h4 id="12-special-properties-and-wondrous-materials">12. Special Properties and Wondrous Materials</h4>
 
 Crafted ranged weapons may gain compatible Special Properties through the normal Weapon Crafting rules. A Special Property which depends on an impossible interaction does not gain a new function merely because it is placed on a ranged weapon. Property Load and Final Artisan Points are calculated normally.
 
@@ -675,8 +659,7 @@ Crafted ranged weapons may use compatible Wondrous Materials after gaining the a
 
 If a Wondrous Material specifically depends on Parrying, Melee Attacks, weapon Reach, a certain Shape, or another incompatible function, it does not gain a replacement effect.
 
-#### 13. Bukijutsu Compatibility
-{:#13-bukijutsu-compatibility}
+<h4 id="13-bukijutsu-compatibility">13. Bukijutsu Compatibility</h4>
 
 Crafted ranged weapons use their current statistics when used with Bukijutsu. If a ranged weapon has innate Delay, attacking Bukijutsu gains Delay equal to half the weapon's current Base Delay, rounded down, unless the technique says otherwise. Additional Attack Delay from effects such as Weighted Heft is applied afterward.
 
@@ -694,8 +677,7 @@ A Kunai or Shuriken Launcher Attack counts as a Thrown Weapon Attack for compati
 
 The Launcher supplies its normal Attack statistics unless the Bukijutsu replaces them. The projectile continues to supply its relevant Damage Dice, Damage Type, and projectile effects. Fūma Launch cannot perform a technique which requires more Fūma Shuriken than are currently available.
 
-#### 14. Example Crafted Weapon
-{:#14-example-crafted-weapon}
+<h4 id="14-example-crafted-weapon">14. Example Crafted Weapon</h4>
 
 ##### The Black Rain
 {:#the-black-rain}
@@ -720,8 +702,7 @@ So… You want to create your own armor, huh? Maybe you’re too poor to afford 
 
 You can craft weapons with X Artisan Points up to a max of your Artisan Ranks which you can spend on its traits (see below). Weapons have a crafting TN of 15 \+ 3\*X and a cost of 5 \+ X thousand ryo. This consists of the cost for resources, tools, and any extra parts necessary.
 
-### 1. Structure
-{:#1-structure-2}
+<h3 id="1-structure-2">1. Structure</h3>
 
 Structure is, put simply, the general materials and processes used to craft your armor. Regardless of the actual details of its construction, all armor is divided into three simple categories of protectiveness, Mobile, Protective, and Encased. The more that the armor covers, and the more metal is used in its construction, the better it is at protecting its wearer. But that also comes with the downside of it becoming heavier and restricting its wearer’s movement.
 
@@ -740,8 +721,7 @@ Full steel plates and the such are the staple of this type of armor. Heavily fav
 
 Durability: 300 / Absorption: 15% / Penalty: \-3 Immobilization and \-3 to Stealth rolls
 
-### 2. Body Parts
-{:#2-body-parts}
+<h3 id="2-body-parts">2. Body Parts</h3>
 
 There are four different Body Parts that armor can protect: The Head, the Torso/Abdomen, the Arms, and the Legs. In the case of the Arms and Legs, your armor will cover both arms or legs if that is the Body Part chosen. It is important to determine which location on the body that piece of armor was built to protect, as this will determine its shape and surface area, providing unique benefits and penalties related to that location. The severity of the penalties will also be determined by the Structure you’ve chosen. If the Immobilization of your armor is reduced to 0 you halve all penalties inherent to the type of armor, rounded down potentially to nothing.
 
@@ -777,8 +757,7 @@ Mobile: \-10% Movement Speed, \-2 to Athletic Checks.
 Protective: \-15% Movement Speed, \-3 to Athletic Checks.  
 Encased: \-20% Movement Speed; \-5 to Athletic Checks.
 
-### 3. Basic Features
-{:#3-basic-features}
+<h3 id="3-basic-features">3. Basic Features</h3>
 
 Basic Features are the parts and enhancements to a piece of armor that truly distinguishes one from another and shows the true skills of its maker. Basic Features modify or add something to the base traits or stats of the Armor. They come in a few forms, but most either reduce some sort of penalty, or increase the defensive capability of the armor.
 
@@ -798,8 +777,7 @@ Basic Features are the parts and enhancements to a piece of armor that truly dis
 
 (2) This armor gains a \+1 bonus to Stealth. This can be taken to a max of 3\. The total Stealth bonus that all of your pieces of armor can give you cannot exceed \+5.
 
-### 4. Unique Features
-{:#4-unique-features}
+<h3 id="4-unique-features">4. Unique Features</h3>
 
 ##### General
 {:#general}
