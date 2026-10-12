@@ -25,8 +25,9 @@ assert '# Downtime' not in pages['/rules/wounds/'][0], 'Downtime duplicated in t
 assert '4 XP per 30 minutes' in core and 'Combat Bonuses' in core and 'Roleplay Beats' in core
 assert 'Katon and Raiton inflict Energy' in wounds and 'Doton and Suiton inflict Blunt' in wounds
 assert 'If the defender Blocks, they choose the Wound location' in wounds
-assert '250 XP' in core and '250 XP' in pages['/guide/'][0]
-assert '500 XP at' not in pages['/guide/'][0]
+assert '500 XP at Stray rank' in core and '500 XP at Stray rank' in pages['/guide/'][0]
+assert '250 XP' not in pages['/guide/'][0]
+assert '+0.5 for every thrown weapon' in core and '(6.3 × 6)' in core
 assert 'Speed -5' not in pages['/rules/clans/'][0]
 assert 'combat ends in a victory' not in pages['/rules/clans/'][0]
 assert 'whatever Medicine action' not in pages['/rules/talents/capabilities/'][0]

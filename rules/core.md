@@ -170,7 +170,7 @@ Track all Downtime Slots in your Logs. Make any required rolls in bot spam, decl
 ## Starting XP
 {:#starting-xp}
 
-Begin with **250 XP at Stray rank**. Your total XP determines starting Skill Points, Skill limits and any XP-based prerequisites.
+Begin with **500 XP at Stray rank**. Your total XP determines starting Skill Points, Skill limits and any XP-based prerequisites.
 
 ## Character Review
 {:#character-review}
@@ -2054,7 +2054,7 @@ By default, you may only throw one type of weapon at once; you could throw 6 shu
 
 You throw at least 2 Small Ranged weapons, up to a maximum of DEX/10. The Speed is 3 \+ (number of weapons thrown)/2, and the Stamina cost is 5, \+1 for every 2 weapons (6 for 2-3, 7 for 4-5, and so forth). Regardless of how many weapons you throw, the minimum total Speed of a multi-throw action is 5--this applies to both its base Speed, and its final Speed after any changes (such as spending AP).
 
-The rolled damage is the total for all weapons thrown; 6 shuriken would roll 6d6. Your damage bonus is increased by \+0.25 for every thrown weapon. For example, with STR 60 and six thrown weapons, your ordinary PDB is 3.3. Add 6 × 0.25 = 1.5 for a total DB of 4.8. The Action is Speed 6 and Stamina 8, so six shuriken deal 6d6 + (4.8 × 6) damage before other modifiers. The shuriken’s +2 Accuracy applies once.
+The rolled damage is the total for all weapons thrown; 6 shuriken would roll 6d6. Your damage bonus is increased by \+0.5 for every thrown weapon. For example, with STR 60 and six thrown weapons, your ordinary PDB is 3.3. Add 6 × 0.5 = 3 for a total DB of 6.3. The Action is Speed 6 and Stamina 8, so six shuriken deal 6d6 + (6.3 × 6) damage before other modifiers. The shuriken’s +2 Accuracy applies once.
 
 Because wounds represent severe damage from a single powerful attack, and multi-throws are multiple weaker injuries delivered at once, the severity of all wounds caused by multi-throws is reduced by one category, to a minimum of Minor.
 

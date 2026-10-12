@@ -76,7 +76,7 @@ Unless an entry says otherwise, a Unique may be taken only once.
 
 *You have trained to make hitting you a poor decision. Gain DR equal to RES/3 and Block becomes a Speed 4 Interrupt. Whenever a damage-dealing adjacent unarmed Attack hits you, the attacker takes RES/2 damage after its Attack resolves; this damage cannot Wound.*
 
-*When you Block consecutive attacks of the same broad discipline, increase your Block percentage by 10 percentage points for each consecutive Block after the first, up to five increases. Changing your defensive response or the incoming discipline resets this bonus. Block cannot exceed 100%; excess reduction never restores Vitality.*
+*When you Block consecutive attacks of the same broad discipline, increase your Block percentage by 10 percentage points for each consecutive Block after the first, up to five increases. Changing your defensive response or the incoming discipline resets this bonus. Block cannot exceed 100%.*
 
 *Treat damage you take as 10% lower when determining Wounds, or 25% lower when you Block. Your caution carries into your offense: your Attacks count as 10% lower for determining Wounds.*
 
