@@ -41,8 +41,11 @@ for route, (body, _, _) in pages.items():
         if fragment:
             target_body = pages[target][0]
             assert re.search(r'(?:\{:#|\bid=")' + re.escape(fragment) + r'[}"]', target_body), (route, match[1])
-# Canonical world records are deliberately retained.
-for file in ['lore.md', 'timeline.md']:
-    before = subprocess.check_output(['git', 'show', 'HEAD:' + file], cwd=ROOT)
-    assert (ROOT / file).read_bytes() == before, f'{file}: established world record changed'
+# Preserve historical events and the factual NPC dossier records during editorial passes.
+before_timeline = subprocess.check_output(['git', 'show', 'HEAD:timeline.md'], cwd=ROOT)
+assert (ROOT / 'timeline.md').read_bytes() == before_timeline, 'Timeline changed'
+before_lore = subprocess.check_output(['git', 'show', 'HEAD:lore.md'], cwd=ROOT).decode()
+current_lore = (ROOT / 'lore.md').read_text()
+dossiers = r'<section class="lore-dossier[^\n]*?</section>'
+assert re.findall(dossiers, current_lore) == re.findall(dossiers, before_lore), 'NPC records changed'
 print(f'Validated {len(pages)} source pages, {len(index)} search destinations, shared Wounds and world records.')

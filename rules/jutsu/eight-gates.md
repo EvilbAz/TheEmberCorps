@@ -16,13 +16,7 @@ permalink: "/rules/jutsu/eight-gates/"
 ### Introduction
 {:#introduction}
 
-Inside the human body there are eight gates which regulate the flow of energy through the person's chakra circulatory system. They have the function of self-imposed biological limiters, preventing a person from catastrophically overexerting themselves.
-
-Ninja, however, are nothing if not cheerily self-destructive. Inevitably, shinobi found the way to forcibly, temporarily "open" these gates. The result is a surge of chakra flow through the body, and an accompanying spike in physical performance.
-
-The downside is that accessing the gates pushes the human body well beyond its tolerance. While being able to access the gates for a brief surge of power does provide a substantial tactical advantage, doing so for even a short time can seriously injure the user.
-
-As mentioned, there are eight gates, but learning how to open each one is an endeavor unto itself; knowing how to open the first and second gates doesn't mean you understand the third.
+The Eight Gates limit chakra flow to protect the body from overexertion. Opening them temporarily increases physical performance, but can inflict serious injuries. Each Gate must be learned separately.
 
 ### Rules
 {:#rules}
@@ -58,7 +52,7 @@ For example, opening two additional Gates uses X = 1: Speed 8, Stamina 20 and on
 ### Wounding
 {:#wounding}
 
-As mentioned above, using the gates is devastating, in no small part because doing so gives the user's body the ability to physically tear itself apart. Every time you take an action with a Stamina or Chakra cost while using the gates, you have a chance to wound yourself. That chance is:
+Each Action with a Stamina or Chakra cost while the Gates are open has the following self-wounding chance:
 
 (5 \* (gate opened) \+ (final speed) \+ (AP used))%
 

@@ -77,10 +77,6 @@ Veterans instruct new Hunters in the training yards, command expeditions and ret
 ## People of Haven Ember
 {:#people}
 
-The Hunters of Haven Ember are known through their work, their deeds and the stories told about them. Some hold positions within the Corps; others are recognised by the Strays they train or the expeditions they have brought home.
-
-### The Haven’s People
-
 <div class="lore-dossiers">
 <section class="lore-dossier"><span class="lore-stamp">HAVEN LEADERSHIP / CHIEF ADVISOR</span><h3>Giari</h3><p class="lore-profile-meta">Uzumaki · Fūinjutsu</p><p>Giari serves as the Haven’s Chief Advisor and is associated with advanced sealing arts and the preservation of Uzumaki techniques. His recorded distinctions include Seal Savant, Living Archive, Impossible Formulae, Fūinjutsu Master, Sun-Sealer and Grand Sealwright. His expertise in Fūinjutsu and the old Uzumaki arts makes him a formidable presence in the Haven's leadership.</p></section>
 <section class="lore-dossier"><span class="lore-stamp">CORPS RECORD / STRAY</span><h3>Kagetsu Yoton</h3><p class="lore-profile-meta">Yōton · Stray</p><p>A Hunter of Haven Ember whose recorded traits include Strong-Willed, Energetic and Surging Power. Strong-willed and energetic, Kagetsu is a young Hunter whose surging power has already become part of his reputation among those who know him.</p></section>
@@ -89,7 +85,7 @@ The Hunters of Haven Ember are known through their work, their deeds and the sto
 ## Renowned Hunters
 {:#reputation}
 
-A Hunter's name is carried by the people who survive their expeditions. The following Huntsmen and Wardens serve Haven Ember, whether on the front lines, in its clinics, along its walls or in the ruins beyond.
+Huntsmen and Wardens serving Haven Ember.
 
 <div class="lore-dossiers lore-roster">
 <section class="lore-dossier lore-profile" id="amot"><span class="lore-stamp">FRONTLINE / TRAINER</span><h3>Amot <span class="lore-alias">“The Dragon”</span></h3><p class="lore-profile-meta"><strong>Huntsman</strong> <span>·</span> Slayer <span>·</span> Hoshigaki</p><p>A wyrm-like descendant of the Hoshigaki who turned from his lineage’s usual association with water to Katon. Amot pairs fire Ninjutsu with an enormous sword and is rarely far from the heaviest fighting. Years of combat have made him a fearsome instructor. He drives his trainees hard, sometimes beyond their limits, and his arrogance and recklessness are familiar to anyone who has fought beside him. Yet when the Haven is threatened, Amot is usually found where the fighting is fiercest. Whatever his faults, he wants the next generation to survive the battles he knows are coming.</p></section>

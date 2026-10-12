@@ -14,15 +14,7 @@ Feral Elements are chakra natures altered by the Bloom. Hunters learn them throu
 # AT A GLANCE
 {:#at-a-glance}
 
-* Feral Element is a Capability Talent learned from a valid Source.  
-* Choose Abyss, Storm, Glass, Vacuum, Cinder or Void Release. The Talent grants one Feral Element.  
-* Abyss, Storm, Glass, Vacuum and Cinder build from Elemental Mastery. Void builds from B-Rank Non-Elemental Ninjutsu.  
-* Qualifying Jutsu can be Feralized. Their Rank determines Feral Intensity and the amount of Scar they create.  
-* Scars have Severity 1–5 and a Fade timer. Reapplying a Scar refreshes that timer; neglected Scars fall away.  
-* Severity 5 is Overrun. An unanchored Overrun Scar begins collapsing after 10 IC.  
-* Feral Jutsu with Upkeep Anchor the Scars they sustain, freezing their Fade timer while the Upkeep remains.  
-* After three Developments, Feral Dominion unlocks alongside the Apex Mutation of your chosen Release.
-
+Choose a Release below. Its Scars use the shared [Severity](#scar-states), [Fade](#fade) and [Upkeep anchoring](#anchored-scars) rules.
 
 # FERAL ELEMENT
 {:#feral-element}
@@ -180,15 +172,7 @@ The first converted Jutsu you Feralize during each Action has its additional Cha
 ## Scar Cycle
 {:#scar-cycle}
 
-**Create** — Apply Severity and set Fade: 20 IC at Severity 1–4, 10 IC at Severity 5\.
-
-**Increase** — Raise Severity and refresh Fade from the new Severity.
-
-**Anchor** — Freeze Severity and pause Fade while the sustaining Upkeep remains.
-
-**Consume** — Spend Severity for an effect; the current Fade timer keeps running.
-
-**Fade** — At Fade 0, lose 1 Severity and set Fade to 10 IC. Repeat until the Scar reaches 0\.
+Use [Fade](#fade) for decay and [Anchored Scars](#anchored-scars) for sustained fields.
 
 ## Resolution Order
 {:#resolution-order}
@@ -203,21 +187,17 @@ The first converted Jutsu you Feralize during each Action has its additional Cha
 ## Scar Checks
 {:#scar-checks}
 
-For a creature standing in a matching Scar Area while also carrying that Scar directly, use the higher Severity.
-
-When consuming Scar, remove Severity from the creature, Area or effect named by the rule. A single point of Severity pays for one benefit.
+Use the higher Severity for overlapping Scars, as described under [Areas, Creatures and Overlap](#areas-creatures-and-overlap).
 
 ## Anchors
 {:#anchors}
 
-A Feral Jutsu with Upkeep Anchors the matching Scars it creates. Native Feral Fields also state which existing Scars they Anchor.
-
-When an Anchor ends, the Scar returns to Fade at 20 IC for Severity 1–4 or 10 IC for Severity 5\.
+See [Anchored Scars](#anchored-scars).
 
 ## Multiple Feral Users
 {:#multiple-feral-users}
 
-Matching Scars are shared terrain. Abyss users can build the same Depth, Storm users can share Nodes, Glass users can consume the same Shards, and every other Release follows the same rule.
+See [Shared Scars](#shared-scars).
 
 ## End of a Scene
 {:#end-of-a-scene}

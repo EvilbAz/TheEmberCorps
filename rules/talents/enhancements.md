@@ -70,7 +70,7 @@ You learn advanced techniques unusually quickly.
 #### Core Talent
 {:#core-talent-3}
 
-Gain one non-Automatic Rank Benefit from any Rank, including a Rank you have never held. This grants the selected technique only; it does not change your Corps rank or authority.
+Gain one non-Automatic Rank Benefit from any Rank, including a Rank you have never held.
 
 #### Developments
 {:#developments-3}

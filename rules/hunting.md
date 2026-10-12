@@ -121,7 +121,6 @@ permalink: "/rules/hunting/"
 </div>
 
 <div class="hunt-intro">
-<p>A core part of being a Hunter is actually <strong>hunting</strong>.</p>
 <p>A <strong>Hunt</strong> is a special Downtime activity in which a small team tracks, studies, prepares for, and ultimately confronts a dangerous creature. The work your Team does before the fight can determine what you know, what advantages you begin with, and whether you are ready for what the monster can do.</p>
 </div>
 
@@ -306,8 +305,6 @@ You may attack normally while Clinging, including **Pummel** and other technique
 
 When making a Called Shot against the body location you occupy, reduce its base Accuracy penalty from **−4 to −2**. Apply other Called Shot reductions afterward, to a minimum of 0.
 
-Clinging does not make every attack a weakspot hit. It gives you access and improves your aim.
-
 ### Shake Off
 
 **Speed:** 8  
@@ -463,5 +460,3 @@ Capturing a creature does not make it friendly, loyal or usable as a companion. 
 <h3>During the Encounter</h3>
 <ol><li><strong>Read its Class.</strong> Recognise the kind of pressure the monster is trying to create.</li><li><strong>Injure it.</strong> Push it through its Injury stages.</li><li><strong>Create openings.</strong> Target important locations and watch for Open Wounds.</li><li><strong>Exploit them.</strong> Coordinate attacks before those openings close.</li><li><strong>Break important parts.</strong> Remove dangerous attacks, mobility, armour or other capabilities.</li><li><strong>Wear it down.</strong> Force Exertion and prevent it from Catching Breath.</li><li><strong>Climb when necessary.</strong> Reach locations that cannot safely be attacked from the ground.</li><li><strong>Choose the ending.</strong> Fell it, drive it away, or hold it at Critical long enough to capture it.</li></ol>
 </div>
-
-A dangerous monster is more than a large pool of Vitality. A Hunt is about **learning the creature, changing the fight, and creating the opportunity to finish it on your terms.**

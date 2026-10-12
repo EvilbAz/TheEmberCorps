@@ -81,21 +81,21 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#jutsu",
-    "text": "The core of a hunter's supernatural capabilities comes from their jutsu--meaning, literally, techniques. These use chakra, either projected outwards or used to amplify one's physical performance, to perform "
+    "text": "Jutsu are chakra-based techniques: Taijutsu enhances physical combat, Ninjutsu shapes chakra into external effects, and Genjutsu alters perception. See the Jutsu Compendium for techniques and learning requir"
   },
   {
     "title": "Abilities",
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#abilities",
-    "text": "Abilities represent the fruits of your character's training, and the ways in which they've developed as a hunter. What abilities you take will play a large role in shaping how you perform in combat and other"
+    "text": "Spend XP on Abilities to develop your character’s trained capabilities."
   },
   {
     "title": "Downtime",
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#downtime",
-    "text": "Downtime uses Downtime Slots. Each week you receive 2 slots for free and may earn 1 additional slot, once per category, by completing a Spar, completing 6 total hours of RP, participating in a Mission, and c"
+    "text": "Between scenes, spend Downtime Slots on work, training, crafting and research. Record Actions and linked rolls in your Logs."
   },
   {
     "title": "Starting XP",
@@ -130,7 +130,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#primary-stats",
-    "text": "Attributes (also commonly referred to as statistics, or 'stats' for short) are numerical representations of your character's overall physical condition: how strong they are, how fast they are, and so forth. "
+    "text": "The five Attributes measure strength, resilience, chakra, dexterity and agility. Ordinary human Attributes are around 20; chakra conditioning lets Hunters exceed them. Strength (STR) Strength is a measuremen"
   },
   {
     "title": "Secondary Stats",
@@ -165,7 +165,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#skills",
-    "text": "Skills represent broad, generic things hunters do, and how well your character can do them. Unlike abilities or jutsu, the exact method of performing a skill is ambiguous; you might use stealth by hiding in "
+    "text": "Skills measure broad competencies. Describe how your character uses a Skill, then resolve the task with its normal roll. Your skills all have a limit of 5 +(your total XP)/200 Ranks. A lot of them benefit fr"
   },
   {
     "title": "Athletics",
@@ -368,7 +368,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#what-abilities-are",
-    "text": "Abilities represent the fruits of your character's training, and the ways in which they've developed as a hunter. What abilities you take will play a large role in shaping how you perform in combat and other"
+    "text": "Abilities grant trained methods and lasting improvements. Purchase them with XP using the costs below. You may choose to hold back an Ability’s effects."
   },
   {
     "title": "Purchasing Abilities",
@@ -1397,7 +1397,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#simultaneous-actions",
-    "text": "If two people act on the same initiative count, both of their actions are declared and resolved simultaneously. Thus, you and your opponent will both fully declare and resolve your attacks (you can take turn"
+    "text": "Characters acting on the same IC declare and resolve their Actions simultaneously. Apply both Actions’ effects at the end of that IC."
   },
   {
     "title": "Clashes",
@@ -1600,7 +1600,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#accuracy-rolls",
-    "text": "Sometimes you'll have to make an \"accuracy roll\". This is essentially the same as your accuracy, but you replace the base 10 with a 1d20 roll. In other words, it's 1d20+(DEX/10) plus any other Accuracy abili"
+    "text": "An Accuracy Roll replaces static Accuracy’s base 10 with 1d20: 1d20 + DEX/10 + Accuracy modifiers. When something penalizes both Accuracy and d20 rolls, apply only the penalties to Accuracy; if it penalizes "
   },
   {
     "title": "Damage",
@@ -1691,7 +1691,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#holding-back",
-    "text": "You may restrain a lethal blow or reduce a Wound when using an E-, D- or C-Rank Jutsu, or an ordinary attack. B-, A- and S-Rank Jutsu cannot benefit from Holding Back. If an eligible attack would reduce a ta"
+    "text": "Use Holding Back to restrain eligible attacks or reduce the severity of Wounds."
   },
   {
     "title": "Stealth",
@@ -1838,7 +1838,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#wounded",
-    "text": "Trained hunter can survive things that would kill or maim lesser humans, but sometimes a single blow will be so powerful that even their chakra-empowered, well-conditioned bodies cannot simply shrug it off. "
+    "text": "Wounds are lasting injuries from sufficiently powerful hits. Use the Wound reference for severity, effects and recovery."
   },
   {
     "title": "Fatigued",
@@ -1964,7 +1964,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#ignore-armor",
-    "text": "Some Weapons and Jutsus have this ability, or have ways to gain this ability. What 'Ignore Armor' does, is it allows any weapon, or effect with it, to bypass any and all positive effects of an Armor. This in"
+    "text": "Ignore Armor bypasses the armour’s positive effects, including Absorption, Wound negation and special abilities."
   },
   {
     "title": "Area of Effect",
@@ -8915,7 +8915,7 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#talent-personal-pattern",
-    "text": "The oldest Ballistic Corps hunters say that every great gun eventually stops being a model and becomes a name. Parts are replaced until nothing remains of the original weapon except the decisions that shaped"
+    "text": "Personal Patterns develop through years of field notes, custom tolerances, monster materials and adjustments made for one Hunter."
   },
   {
     "title": "Named Pattern",
@@ -9139,7 +9139,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/#introduction",
-    "text": "Talents grant rare training or exceptional aptitude. Spend Talent Points to learn a Core Talent or develop one you already possess. Talents do not cost XP."
+    "text": "Talents grant rare training or exceptional aptitude. They cost Talent Points rather than XP."
   },
   {
     "title": "Acquiring Talents",
@@ -9237,7 +9237,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/enhancements/#core-talent-3",
-    "text": "Gain one non-Automatic Rank Benefit from any Rank, including a Rank you have never held. This grants the selected technique only; it does not change your Corps rank or authority."
+    "text": "Gain one non-Automatic Rank Benefit from any Rank, including a Rank you have never held."
   },
   {
     "title": "Developments",
@@ -9363,7 +9363,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/#at-a-glance",
-    "text": "- At 1,000 Total XP, your Tamed Monster has Growth Rank 1 and one Monster Trait. - At 1,500 Total XP it gains a second Trait; at 2,000 it gains a third; it gains another Growth Rank and Trait every 500 Total"
+    "text": "Use Talent Progression to build your partner, Growth for its statistics and Command AP for its trained techniques."
   },
   {
     "title": "Talent Progression",
@@ -9384,7 +9384,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/#core-talent-7",
-    "text": "Choose one Standard Monster Species and create one named Tamed Monster using its profile. Decide how you acquired it: capture, breeding, rescue, purchase, inheritance, reward, or another appropriate method. "
+    "text": "Choose one Standard Monster Species and create a named Tamed Monster using its profile. Your monster immediately gains that Species' Core Instinct. You may purchase Beast Seal: Release without meeting its no"
   },
   {
     "title": "Developments",
@@ -9447,7 +9447,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/#mastery-master-handler",
-    "text": "After taking three Monster Taming Developments, gain Master Handler. Once per battle, when your Tamed Monster declares a Monster Technique, you may ignore its Command AP cost. Its Speed and all other require"
+    "text": "After taking three Monster Taming Developments, gain Master Handler. Once per battle, when your Tamed Monster declares a Monster Technique, you may ignore its Command AP cost. When you do, choose one: gain +"
   },
   {
     "title": "Fielding Your Monster",
@@ -13234,7 +13234,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/hunter-classes/#bring-it-down",
-    "text": "Treat damage you deal as 25% higher when determining Wounds. This changes neither damage taken nor HP or Vitality loss."
+    "text": "Treat damage you deal as 25% higher for Wound determination only."
   },
   {
     "title": "Anchor",
@@ -13899,7 +13899,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#poison-points-and-tn",
-    "text": "As mentioned before, making poisons is difficult, even if you have all of the ingredients and an inexhaustible amount of money. There is only so much an amateur can do before they end up just making a useles"
+    "text": "You have Toxicology/4 Poison Points. A Poison’s effects cannot exceed that total. Furthermore, Poisons tend to take a while to make. As your skills progress, you’ll figure out better techniques to distill th"
   },
   {
     "title": "Doses and Costs",
@@ -14592,7 +14592,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#reader-s-guide",
-    "text": "Most of the jutsu entries have a lot of information packed into them. To help make them easier to read, a lot of the common factors are written using shorthand; for example, rather than spelling out \"Using t"
+    "text": "Jutsu entries use the following fields."
   },
   {
     "title": "Stamina / Chakra",
@@ -14606,7 +14606,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#upkeep",
-    "text": "Some techniques require a constant expenditure of your energy to maintain; this is what upkeep represents. So long as you maintain these techniques (which typically can be done indefinitely) you suffer a pen"
+    "text": "The cost of sustaining an active technique. Resolve it using Upkeep."
   },
   {
     "title": "Damage",
@@ -14662,7 +14662,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#tags",
-    "text": "At a glance of what the jutsu can achieve. Additional tags can be found for taijutsu and ninjutsu in their respective areas. Here are the following general tags and their meanings: Type of Action Attack It's"
+    "text": "Tags identify the Action’s type, range and damage. Discipline-specific tags appear on their own pages. Type of Action Attack It's an attack they need to directly defend against. Interrupt It can be used in r"
   },
   {
     "title": "Effects",
@@ -14683,7 +14683,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#requirements",
-    "text": "Taijutsu is more than just hand-to-hand combat; ninjutsu techniques go well beyond the realm of what's possible for normal humans, smashing rocks and the like. It's not exactly... easy. There are three ways "
+    "text": "Qualify for a Taijutsu Rank through any one of the following: Corps rank, Athletics or Research. Rank: E: Stray C: Trailhand or Huntsman B: Warden or Legend Athletics: D: 4 C: 10 B: 20 A: 30 Research: D: 5 C"
   },
   {
     "title": "Limb Requirements",
@@ -14704,14 +14704,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#requirements-2",
-    "text": "Learning ninjutsu is a great deal of work; a ninja has to learn how to mold their chakra, how to convert it to the right elemental nature, then how to properly project it, along with memorizing all the neces"
+    "text": "Qualify for a Ninjutsu Rank through any one of the following: Corps rank, Chakra Control or Research. Elemental Ninjutsu also requires the appropriate Elemental Aptitude. Rank: E: Stray C: Trailhand or Hunts"
   },
   {
     "title": "Elemental Strength and Weaknesses",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#elemental-strength-and-weaknesses",
-    "text": "All Elemental jutsu follow a strengths and weakness chart that circles back on itself. The strengths and weaknesses go as follows: Earth > Water > Fire > Wind > Lightning > Earth"
+    "text": "Elemental strengths follow this cycle: Earth > Water > Fire > Wind > Lightning > Earth"
   },
   {
     "title": "Created weapons, enhanced attacks and you!",
@@ -14739,28 +14739,28 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#learning-requirements",
-    "text": "E-Rank Bukijutsu is universally available to player characters. Rank Athletics Research :---- :---- :---- E — — D 4 5 C 10 12 B 20 22 A 30 32 B-Rank and A-Rank: the normal mentor rule still applies. You must"
+    "text": "See Learning Requirements."
   },
   {
     "title": "Buki Attacks",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#buki-attacks",
-    "text": "Unless a technique lists fixed Damage or Speed, an attacking Bukijutsu starts from the Basic Weapon Attack of the weapon being used and applies the modifiers printed in the technique. “dS” uses that weapon’s"
+    "text": "See Buki Attacks."
   },
   {
     "title": "Chain",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#chain",
-    "text": "Chain Value: A Chain is tracked against one target and has a value of 0, 1 or 2. It has no passive damage bonus. Chain 1 — Entry: May be used at Chain 0. On a hit, establish Chain 1 against that target. A su"
+    "text": "See Chain."
   },
   {
     "title": "Fan Bridge",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#fan-bridge",
-    "text": "Fan Bukijutsu has a deliberate exception to the normal Chain break rule. Wind Bridge may carry one Fan-tagged Fuuton through an active Chain. The Fuuton remains Ninjutsu, never becomes Chain 1/2/3, receives "
+    "text": "See Fan Bridge."
   },
   {
     "title": "Specialty Jutsu",
@@ -14774,21 +14774,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#genjutsu-requirements",
-    "text": "Genjutsu isn't easy. In fact, genjutsu is really, really hard, even by the standards of other ninja techniques. Taijutsu and ninjutsu are both, after enough shinobi training, slightly intuitive; and, in the "
+    "text": "See Genjutsu Requirements."
   },
   {
     "title": "Fūinjutsu Requirements",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#fuinjutsu-requirements",
-    "text": "Fūinjutsu, or sealing techniques, are, as the name suggests, techniques which use chakra to form specialized 'seals'. They're difficult to use, and have limited combat viability. What makes them useful is th"
+    "text": "See Sealing Requirements."
   },
   {
     "title": "Medical Ninjutsu",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#medical-ninjutsu",
-    "text": "One of the few good things the development of ways to control chakra has brought to the world is the appropriately named medical ninjutsu. These are techniques which safely transfer chakra to another person,"
+    "text": "See Medical Requirements."
   },
   {
     "title": "Monster Summoning",
@@ -14802,14 +14802,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#acquiring-a-monster",
-    "text": "Monster Taming is a Capability Talent. Choose a Standard Species and acquire a named monster through an appropriate in-character source, such as capture, breeding, rescue, inheritance, purchase or a mission "
+    "text": "Use Monster Taming’s Core Talent to acquire and train a creature."
   },
   {
     "title": "Summoning and Commands",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#summoning-and-commands",
-    "text": "Use Beast Seal: Release to deploy your Tamed Monster. Its normal costs and restrictions apply unless modified by a Monster Taming Development such as Quick Release. Your monster acts on its own IC track: Bas"
+    "text": "Deploy it with Beast Seal: Release, then use its Independent Actions and Command AP rules. Monster Summoning grants no additional creature or separate Summoning Contract. ← ALL JUTSU TYPES"
   },
   {
     "title": "Unarmed Taijutsu",
@@ -15152,7 +15152,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/combo/#breaking-a-combo-sequence",
-    "text": "When a combo is broken, your Combo Counter is immediately removed, you may not continue using combo moves, and all accrued combo counter bonuses are lost. Combo breaking occurs if any of the following things"
+    "text": "When a Combo ends, remove its Counter and bonuses. It ends when: - You make any action without the Combo Tag, or the Wait action - You use any interrupt requiring seals. - You execute a Finisher. - You attac"
   },
   {
     "title": "E-Rank",
@@ -15341,7 +15341,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/grapple/#grappling-basics",
-    "text": "Grappling comes with a lot of rules detailed below but it can be simplified depending on your usage, separating grapple users and poor ninja with the misfortune of fighting one. Below will be rough summaries"
+    "text": "Begin with a Clinch, use a Takedown to establish a Pin, then apply holds or strikes. To escape, use Break Clinch or Escape Pin; Escape Grapple offers an alternative. Certain situations within a grapple may c"
   },
   {
     "title": "Grapple-Related Tags",
@@ -15355,7 +15355,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/grapple/#control",
-    "text": "Grappling is all about moving positions to force your opponent into a disadvantageous position. A grappler will use this to progress to stronger holds while their opponent may do everything they can to worm "
+    "text": "Determine starting Control with opposing Grapple checks: the instigator rolls Offense; the defender chooses Offense or Defense. The winner begins at 5 Control. If the person with control gains more their amo"
   },
   {
     "title": "Clinch",
@@ -18736,7 +18736,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/genjutsu/#requirements-3",
-    "text": "Genjutsu isn't easy. In fact, genjutsu is really, really hard, even by the standards of other ninja techniques. Taijutsu and ninjutsu are both, after enough shinobi training, slightly intuitive; and, in the "
+    "text": "Genjutsu requires specialised training and has no affinity. The requirements for using Genjutsu of a given rank are listed below. Additionally all Genjutsu require the Genjutsu Training ability. E: Genjutsu "
   },
   {
     "title": "Genjutsu Rolls",
@@ -18988,14 +18988,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/medical/#requirements-4",
-    "text": "One of the few good things the development of ways to control chakra has brought to the world is the appropriately named medical ninjutsu. These are techniques which safely transfer chakra to another person,"
+    "text": "Medical Ninjutsu transfers chakra to heal injuries and illness. The same anatomical knowledge can also be used to harm. Unless otherwise specified in their descriptions, you may not use any medical jutsu on "
   },
   {
     "title": "Willing",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/medical/#willing",
-    "text": "The majority of medical techniques are difficult to be applied to an unwilling participant. These jutsu are listed with the Willing tag to represent them. Any jutsu with this tag will automatically fail agai"
+    "text": "A Willing technique fails if its recipient chooses to disrupt it; the user still pays Speed and Chakra costs. A helpless target, such as an unconscious or shadow-possessed creature, cannot disrupt it."
   },
   {
     "title": "D-Rank",
@@ -19177,7 +19177,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sealing/#requirements-5",
-    "text": "Fūinjutsu, or sealing techniques, are, as the name suggests, techniques which use chakra to form specialized 'seals'. They're difficult to use, and have limited combat viability. What makes them useful is th"
+    "text": "Fūinjutsu binds chakra into stable seals. Depending on the technique and creator’s skill, an undisturbed seal may last for decades after its creator stops supplying chakra. Meet all prerequisites below. E: S"
   },
   {
     "title": "Sealing-Related Tags (also this)",
@@ -19191,7 +19191,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sealing/#speed-cast",
-    "text": "Rather than taking the time to properly secure a barrier with proper seals you haphazardly throw some pre-inscribed runes on the ground and call it good. On the plus side this is much faster and especially i"
+    "text": "Speed Cast deploys a barrier using prepared runes. Below all barrier techniques you will find a section for speed cast like: Speed Cast (Speed 6, Chakra 15, Interrupt, Seals 4) This is a separate Action that"
   },
   {
     "title": "Unsealing Difficulty",
@@ -19464,7 +19464,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/eight-gates/#introduction",
-    "text": "Inside the human body there are eight gates which regulate the flow of energy through the person's chakra circulatory system. They have the function of self-imposed biological limiters, preventing a person f"
+    "text": "The Eight Gates limit chakra flow to protect the body from overexertion. Opening them temporarily increases physical performance, but can inflict serious injuries. Each Gate must be learned separately."
   },
   {
     "title": "Rules",
@@ -19492,7 +19492,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/eight-gates/#wounding",
-    "text": "As mentioned above, using the gates is devastating, in no small part because doing so gives the user's body the ability to physically tear itself apart. Every time you take an action with a Stamina or Chakra"
+    "text": "Each Action with a Stamina or Chakra cost while the Gates are open has the following self-wounding chance: (5 (gate opened) + (final speed) + (AP used))% For example, with Gate 2 open, a Speed 8 unarmed atta"
   },
   {
     "title": "How to Read",
@@ -19590,7 +19590,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/natural-chakra/#at-a-glance",
-    "text": "- Natural Chakra is a Capability Talent and requires a valid Source. - Gather Natural Chakra to gain Sage Chakra; stored Sage Chakra is temporary. - Enter Sage Mode once you hold at least 2 Sage Chakra. - Sa"
+    "text": "Choose a Sage Tradition, Gather Natural Chakra, then enter Sage Mode. Use the progression and resource rules below."
   },
   {
     "title": "Core Talent",
@@ -20206,7 +20206,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/natural-chakra/#nature-without-thought",
-    "text": "Requires: Sage Rank 5. Once per battle, the first Sage Art or Sage Kata you use after entering Sage Mode costs 1 less Sage Chakra, minimum 0. This cannot reduce a cost which is already 0."
+    "text": "Requires: Sage Rank 5. Once per battle, the first Sage Art or Sage Kata you use after entering Sage Mode costs 1 less Sage Chakra, minimum 0."
   },
   {
     "title": "SAGE KATA",
@@ -20276,7 +20276,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/natural-chakra/#rules-clarifications",
-    "text": "Chakra Exhaustion — Sage Chakra does not replace a Jutsu's Chakra Cost. A Jutsu modified by a Sage Art still makes its normal Chakra Exhaustion roll. AP — AP may reduce Gather Natural Chakra and Sage Mode no"
+    "text": "Chakra Exhaustion — Jutsu modified by Sage Arts make their normal Chakra Exhaustion rolls. AP — AP may reduce Gather Natural Chakra and Sage Mode normally unless an effect says otherwise. Their minimum Speed"
   },
   {
     "title": "ABYSS RELEASE",
@@ -20752,7 +20752,7 @@
     "volume": "Feral Elements",
     "number": "IV",
     "url": "/rules/jutsu/feral/#at-a-glance",
-    "text": "Feral Element is a Capability Talent learned from a valid Source. Choose Abyss, Storm, Glass, Vacuum, Cinder or Void Release. The Talent grants one Feral Element. Abyss, Storm, Glass, Vacuum and Cinder build"
+    "text": "Choose a Release below. Its Scars use the shared Severity, Fade and Upkeep anchoring rules."
   },
   {
     "title": "FERAL ELEMENT",
@@ -20871,7 +20871,7 @@
     "volume": "Feral Elements",
     "number": "IV",
     "url": "/rules/jutsu/feral/#scar-cycle",
-    "text": "Create — Apply Severity and set Fade: 20 IC at Severity 1–4, 10 IC at Severity 5. Increase — Raise Severity and refresh Fade from the new Severity. Anchor — Freeze Severity and pause Fade while the sustainin"
+    "text": "Use Fade for decay and Anchored Scars for sustained fields."
   },
   {
     "title": "Resolution Order",
@@ -20885,21 +20885,21 @@
     "volume": "Feral Elements",
     "number": "IV",
     "url": "/rules/jutsu/feral/#scar-checks",
-    "text": "For a creature standing in a matching Scar Area while also carrying that Scar directly, use the higher Severity. When consuming Scar, remove Severity from the creature, Area or effect named by the rule. A si"
+    "text": "Use the higher Severity for overlapping Scars, as described under Areas, Creatures and Overlap."
   },
   {
     "title": "Anchors",
     "volume": "Feral Elements",
     "number": "IV",
     "url": "/rules/jutsu/feral/#anchors",
-    "text": "A Feral Jutsu with Upkeep Anchors the matching Scars it creates. Native Feral Fields also state which existing Scars they Anchor. When an Anchor ends, the Scar returns to Fade at 20 IC for Severity 1–4 or 10"
+    "text": "See Anchored Scars."
   },
   {
     "title": "Multiple Feral Users",
     "volume": "Feral Elements",
     "number": "IV",
     "url": "/rules/jutsu/feral/#multiple-feral-users",
-    "text": "Matching Scars are shared terrain. Abyss users can build the same Depth, Storm users can share Nodes, Glass users can consume the same Shards, and every other Release follows the same rule."
+    "text": "See Shared Scars."
   },
   {
     "title": "End of a Scene",
@@ -20941,7 +20941,7 @@
     "volume": "New Player Guide",
     "number": "00",
     "url": "/guide/#roleplay",
-    "text": "Talk to other characters and build a life in Haven Ember. Active IC roleplay awards 4 XP per 30 minutes. Meaningful moments can also earn Roleplay Beats for Bond, Reveal, Drive and Change. This is not filler"
+    "text": "Talk to other characters and build a life in Haven Ember. Active IC roleplay awards 4 XP per 30 minutes. Meaningful moments can also earn Roleplay Beats for Bond, Reveal, Drive and Change."
   },
   {
     "title": "Missions",
@@ -20976,14 +20976,14 @@
     "volume": "New Player Guide",
     "number": "00",
     "url": "/guide/#buildcraft",
-    "text": "Your first build should have a clear answer to what do I do when a fight begins? You are building a toolkit, not choosing a 5e class that automatically supplies one. 01 / IDENTITY PICK YOUR FANTASY A lightni"
+    "text": "Choose a primary role and two or three Actions that support it. 01 / IDENTITY PICK YOUR FANTASY A lightning-fast melee Hunter, a Hyūga duelist, a ranged scout or a battlefield controller. Choose one primary "
   },
   {
     "title": "The Big Difference from 5e: Combat Has No Rounds",
     "volume": "New Player Guide",
     "number": "00",
     "url": "/guide/#speed",
-    "text": "This is the rule most likely to feel strange at first. In 5e, everybody gets a turn each round. A fast character may go earlier, but everybody generally receives one turn before the next round begins. Ember "
+    "text": "Combat runs on a continuous timeline called Initiative Counts, usually shortened to IC. Lower IC is earlier in time. Every action has a Speed. After you act, add that Speed to your current IC. The result is "
   },
   {
     "title": "Reading a Jutsu Stat Block",
@@ -20997,7 +20997,7 @@
     "volume": "New Player Guide",
     "number": "00",
     "url": "/guide/#defence",
-    "text": "You are not normally forced to stand there until your next scheduled action when somebody attacks you. Defensive mechanics can respond to attacks through Interrupts. Dodge, Parry, Block and more specialised "
+    "text": "Defensive Interrupts let you respond outside your normal Action slot. Dodge avoids an attack, Parry turns it aside, and Block mitigates damage. Check the attack’s tags, legal timing and your available defenc"
   },
   {
     "title": "Skills, Rolls and Non-Combat Play",
@@ -21011,21 +21011,21 @@
     "volume": "New Player Guide",
     "number": "00",
     "url": "/guide/#damage",
-    "text": "Taking damage is not just watching one enormous HP bar decrease. Vitality absorbs damage before HP. When attacks become serious, Wounds can impose consequences beyond raw damage. Fatigue tracks accumulated e"
+    "text": "Vitality absorbs damage before HP. When attacks become serious, Wounds can impose consequences beyond raw damage. Fatigue tracks accumulated exhaustion and can make continued fighting increasingly dangerous."
   },
   {
     "title": "Jutsu and Builds",
     "volume": "New Player Guide",
     "number": "00",
     "url": "/guide/#jutsu",
-    "text": "Jutsu are closer to a mixture of 5e spells, attacks and class features than to any one of those things. A Jutsu entry tells you what it costs, how fast it is, how accurately it attacks, what damage it deals "
+    "text": "Your clan, elements, Talents, equipment and abilities determine which techniques support your role. Start with a reliable attack, a defence or escape, and one useful alternative."
   },
   {
     "title": "XP Is Not a 5e Level Bar",
     "volume": "New Player Guide",
     "number": "00",
     "url": "/guide/#xp",
-    "text": "Spend XP to improve attributes, learn Jutsu and buy abilities. Total XP also unlocks Skill Points, Talent Points and other progression benefits. XP is used throughout character advancement. Abilities and oth"
+    "text": "Spend XP to improve attributes, learn Jutsu and buy abilities. Total XP also unlocks Skill Points, Talent Points and other progression benefits. Your character therefore grows piece by piece. Two Hunters wit"
   },
   {
     "title": "Hunter Ranks and Classes",
@@ -21081,14 +21081,14 @@
     "volume": "World & Lore",
     "number": "",
     "url": "/lore/#people",
-    "text": "The Hunters of Haven Ember are known through their work, their deeds and the stories told about them. Some hold positions within the Corps; others are recognised by the Strays they train or the expeditions t"
+    "text": "HAVEN LEADERSHIP / CHIEF ADVISOR Giari Uzumaki · Fūinjutsu Giari serves as the Haven’s Chief Advisor and is associated with advanced sealing arts and the preservation of Uzumaki techniques. His recorded dist"
   },
   {
     "title": "Renowned Hunters",
     "volume": "World & Lore",
     "number": "",
     "url": "/lore/#reputation",
-    "text": "A Hunter's name is carried by the people who survive their expeditions. The following Huntsmen and Wardens serve Haven Ember, whether on the front lines, in its clinics, along its walls or in the ruins beyon"
+    "text": "Huntsmen and Wardens serving Haven Ember. FRONTLINE / TRAINER Amot “The Dragon” Huntsman · Slayer · Hoshigaki A wyrm-like descendant of the Hoshigaki who turned from his lineage’s usual association with wate"
   },
   {
     "title": "The Uncharted World",
@@ -21165,7 +21165,7 @@
     "volume": "Minecraft Server",
     "number": "",
     "url": "/minecraft/#survival",
-    "text": "Keep Inventory is enabled. Dying will not erase hours of equipment progress, but it still leaves you vulnerable for a while. The aim is to make dangerous expeditions exciting without making one bad encounter"
+    "text": "Keep Inventory is enabled. Dying will not erase hours of equipment progress, but it still leaves you vulnerable for a while. Bring food. Bring light. Bring enough inventory space. Know roughly how you are ge"
   },
   {
     "title": "Play together",

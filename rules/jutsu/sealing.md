@@ -16,9 +16,7 @@ permalink: "/rules/jutsu/sealing/"
 ### Requirements
 {:#requirements-5}
 
-Fūinjutsu, or sealing techniques, are, as the name suggests, techniques which use chakra to form specialized 'seals'. They're difficult to use, and have limited combat viability.  
-What makes them useful is that these seals are stable. Normally, any sort of chakra-based effect will expire soon after its user stops applying chakra to it, the energy dissipating back into the world. Seals don't, and depending on the individual seal and the skill of the user some can last for decades if left undisturbed.  
-The downside is, they're counterintuitive and complicated. To learn fuuinjutsu, you have to meet all the requirements listed for a given rank.
+Fūinjutsu binds chakra into stable seals. Depending on the technique and creator’s skill, an undisturbed seal may last for decades after its creator stops supplying chakra. Meet all prerequisites below.
 
 E: Stray  
 D: 5 Chakra Control, 5 Research  
@@ -40,13 +38,13 @@ Seals X: This is the seal's requirement to use a barrier jutsu. In the tag secti
 ### Speed Cast
 {:#speed-cast}
 
-Rather than taking the time to properly secure a barrier with proper seals you haphazardly throw some pre-inscribed runes on the ground and call it good. On the plus side this is much faster and especially is good in a pinch when you don't have time to spend a few minutes laying seals out on the ground.
+Speed Cast deploys a barrier using prepared runes.
 
 Below all barrier techniques you will find a section for speed cast like:
 
 Speed Cast (Speed 6, Chakra 15, Interrupt, Seals 4\)
 
-TThis is its own action and can be used as such paying the required Seals X from prepared runes (see Basic Seal).
+This is a separate Action that consumes Seals X from prepared runes; see Basic Seal.
 
 ### Unsealing Difficulty
 {:#unsealing-difficulty}

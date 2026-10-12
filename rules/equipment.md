@@ -948,7 +948,7 @@ But that imposes its own complications, most techniques for cultivating deadly v
 #### Poison Points and TN
 {:#poison-points-and-tn}
 
-As mentioned before, making poisons is difficult, even if you have all of the ingredients and an inexhaustible amount of money. There is only so much an amateur can do before they end up just making a useless mush of foul smelling liquids. You have (Toxicology/4) Poison Points, no specific Poison you make can have more than this many Poison Points worth of effects.
+You have Toxicology/4 Poison Points. A Poison’s effects cannot exceed that total.
 
 Furthermore, Poisons tend to take a while to make. As your skills progress, you’ll figure out better techniques to distill the ingredients and brew your venoms, but the more complex a Poison you make, the more time it’ll take to finish brewing it. Brewing Poisons requires a Poison TN, a Target Number you must reach using Toxicology rolls during Downtime Actions. The Poison TN is determined by the individual effects that the Poison has. All effects have a base increase to Poison TN, and a scaling increase should the effect be taken again. For example, Severity has a base increase to Poison TN of 3, and a scale of 2\. Meaning the first time it is taken, it increase the base Poison TN of 10 to 13, but if Severity were taken again for the same Poison, it gains an extra 5 (Base 3+2) to TN, becoming a Poison TN of 18, if Severity was taken a third time, the TN increase is 7 (5+2) making the final Poison TN a 25\.
 
@@ -1010,7 +1010,7 @@ Due to the care it takes to not poison yourself when throwing Shurikens and Kuna
 
 Overcoming Poisons isn’t simple, they’re kind of made to be deadly, but Hunters are known for being able to do the impossible. Having a supercharged immune system is the least of their talents. Whenever you have a Dose of Poison applied to you, you must roll Resistance against the Toxicology TN of the original creator.
 
-When you or someone else has been poisoned, it's possible to identify the venom just based on the symptoms. you can roll a Toxicology, or Medicine skill check (your preference) against the Poison’s Toxicology TN \-5. Success means you've identified the Poison and know its effects and can begin working on an Antidote so long as you have the proper Toolkit. Failure means, obviously, you do not. You cannot repeat this roll.
+When you or someone else has been poisoned, it's possible to identify the venom just based on the symptoms. you can roll a Toxicology, or Medicine skill check (your preference) against the Poison’s Toxicology TN \-5. Success means you've identified the Poison and know its effects and can begin working on an Antidote so long as you have the proper Toolkit. You cannot repeat this roll.
 
 ### Poison Effects
 {:#poison-effects}
@@ -1726,7 +1726,7 @@ Cost: 3k Ryo
 
 The proper name is 'military ration pills', but the term soldier pill is more commonly used among hunters. They're less rations than fast-acting performance-enhancing drugs. Though every village has a slightly different recipe, the pills are all marble-sized and black or dark brown. When eaten, they have the approximate flavor and texture of sawdust.
 
-These pills are essentially just condensed stimulants and nutrients; taking one immediately lowers you a Fatigue category, and \+10 your next Chakra Exhaustion or Stamina roll. Doing so is a Speed 10 action in battle. You may only take one per battle, and no more than RES/50 per day.
+These stimulants lower Fatigue by one category and give +10 to your next Chakra Exhaustion or Stamina roll. Doing so is a Speed 10 action in battle. You may only take one per battle, and no more than RES/50 per day.
 
 Cost: 25k Ryo
 

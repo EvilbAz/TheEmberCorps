@@ -16,11 +16,7 @@ permalink: "/rules/jutsu/grapple/"
 ### Grappling Basics
 {:#grappling-basics}
 
-Grappling comes with a lot of rules detailed below but it can be simplified depending on your usage, separating grapple users and poor ninja with the misfortune of fighting one. Below will be rough summaries for each.
-
-If you just want to know how to escape from the 7ft giant choking you out then all you need to understand is escape methods and the difference between clinch and pin. Your primary methods of getting out are Break Clinch and Escape Pin. By using them multiple times you keep increasing your bonus until you are finally able to break out. If you are pinned you want to use Escape Pin and if you are in a clinch you want to use Break Clinch. Escape Grapple provides an alternative method for getting out but has higher risk for a higher reward.
-
-As a grappler your goal is to gain as much control as you can while dropping your opponents. Step 1\) Setup a clinch, Step 2\) Use a takedown to pin them, Step 3\) Make them suffer. Other grapple jutsu are designed to reduce your opponent's control to make it harder to escape. Once you have them in a pin you can either pummel them with taijutsu attacks or lock them in a hold.
+Begin with a Clinch, use a Takedown to establish a Pin, then apply holds or strikes. To escape, use Break Clinch or Escape Pin; Escape Grapple offers an alternative.
 
 Certain situations within a grapple may call for a 'grapple roll'. When this happens, the player that triggered the Check uses Grapple Offense and the other rolls Defense. In the event of an opposing check (such as determining Control) Grapple offense loses its base 10 and gains 1d20).
 
@@ -50,7 +46,7 @@ You may only use one trapping or ground fighting jutsu (successfully) per grappl
 ### Control
 {:#control}
 
-Grappling is all about moving positions to force your opponent into a disadvantageous position. A grappler will use this to progress to stronger holds while their opponent may do everything they can to worm their way out. To determine starting Control, make opposing Grapple checks with the instigator rolling offense and the defender having the choice to roll offense or defense. The winner begins the Grapple at 5 Control.
+Determine starting Control with opposing Grapple checks: the instigator rolls Offense; the defender chooses Offense or Defense. The winner begins at 5 Control.
 
 If the person with control gains more their amount is added to their total. If the person without control gains some, their opponent's control is reduced to that amount (potentially reducing it back to 0 where any more control would become their positive amount). If the person without control loses some, their opponent gains that amount instead. Each participant has a max Control of 10 \+ half their ranks in Pressure (rounded up).
 

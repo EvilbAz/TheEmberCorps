@@ -46,9 +46,8 @@ Effects: You may create up to 3 clones. During this process you can 'hide' among
 
 Several other actions related to this jutsu are significant.
 
-Hide Among Clones (Speed 4, or Speed \+6) You pull off a quick shell-game maneuver, confusing your opponents. If they've singled you out from your clones, and you're free to maneuver, you may do this to hide yourself. You roll Stealth against their Awareness skill; success means you've once again concealed yourself. Doing this alone is a Speed 4 action, but it may also be used with another action (such as an attack) by increasing that action's Speed by 6\.
+Use [Hide Among Clones and Observe]({{ '/rules/jutsu/rules/#bunshin' | relative_url }}).
 
-Observe (Speed 4\) Anyone can try to observe you and your clones to try and find a discrepancy, such as the clones not casting shadows or not leaving footprints behind. This allows them to make an Awareness roll against your Chakra Control; if they succeed, they can tell you apart from all your clones, and recognize those clones as such, until you hide among them again.
 
 #### Henge no Jutsu - Transformation Technique
 {:#henge-no-jutsu-transformation-technique}

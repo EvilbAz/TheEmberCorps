@@ -31,7 +31,7 @@ When you are the designated leader of a group, you may give a specific order to 
 
 They gain +3 to one relevant roll made directly to carry out that order. If applicable, an ordered attack instead gains +3 Accuracy.
 
-Orders must be specific. "Get them out of there," "Hold that door," or "Pin its left leg" qualify. "Do your best" does not. If commanding an ally to take an attack, it must be specific to a subtype. You cannot just say “attack that enemy” - it must be, at minimum “Use a Katon Damaging Area attack on that enemy” for example.
+Give a specific order, such as “Pin its left leg.” An attack order must name its subtype, such as “Use a damaging Katon Area attack.”
 
 #### Something to Come Home To
 {:#something-to-come-home-to}

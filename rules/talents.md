@@ -18,7 +18,7 @@ Milestone talents and rank benefits for long-term character growth.
 ### Introduction
 {:#introduction}
 
-Talents grant rare training or exceptional aptitude. Spend Talent Points to learn a Core Talent or develop one you already possess. Talents do not cost XP.
+Talents grant rare training or exceptional aptitude. They cost Talent Points rather than XP.
 
 ### Acquiring Talents
 {:#acquiring-talents}
@@ -38,7 +38,7 @@ Deepen a Talent — Choose one Development from a Talent you already possess. Un
 
 When you possess three Developments from the same Talent, you automatically gain that Talent's Mastery. Mastery does not cost an additional Talent Point.
 
-Talent-granted Actions follow the normal Speed, cost and timing rules unless they state an explicit exception. A Development’s listed minimum does not waive the ordinary half-base-Speed or minimum-3 limits.
+Talent-granted Actions follow the normal Speed, cost and timing rules unless they state an explicit exception. Use the [Core Speed limits]({{ "/rules/core/#flow-of-time" | relative_url }}).
 
 ### Enhancements and Capabilities
 {:#enhancements-and-capabilities}

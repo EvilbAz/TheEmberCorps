@@ -21,19 +21,7 @@ The Natural Chakra Talent grants a Sage Tradition, Gather Natural Chakra, Sage M
 # AT A GLANCE
 {:#at-a-glance}
 
-- Natural Chakra is a Capability Talent and requires a valid Source.
-
-- Gather Natural Chakra to gain Sage Chakra; stored Sage Chakra is temporary.
-
-- Enter Sage Mode once you hold at least 2 Sage Chakra.
-
-- Sage Mode improves your combat and senses according to your Sage Rank.
-
-- Spend Sage Chakra on Sage Arts and Sage Kata while deciding how long you can maintain the Mode.
-
-- Each Deepening raises your Sage Rank and teaches one additional Sage Art or Sage Kata. Three Developments grant Perfect Communion; a fourth Deepening can raise Sage Rank to 5\.
-
-Capability Talent
+Choose a [Sage Tradition](#sage-traditions), [Gather Natural Chakra](#gather-natural-chakra), then enter [Sage Mode](#sage-mode). Use the progression and resource rules below.
 
 ## Core Talent
 {:#core-talent}
@@ -46,8 +34,6 @@ Sage Chakra is a separate resource. It cannot pay normal Jutsu Chakra Costs and 
 {:#deepening-natural-chakra}
 
 Each time you Deepen Natural Chakra, increase your Sage Rank by 1 and learn one additional Sage Art or Sage Kata. Each Art or Kata learned this way is one Natural Chakra Development for the normal Talent rules; the Art or Kata granted by the Core Talent is not a Development. Natural Chakra may be Deepened up to four times, to a maximum Sage Rank of 5\. You gain Perfect Communion after the third Development as normal; the fourth Deepening remains available after Mastery, still costs a Talent Point, and is how Sage Rank 5 is normally reached. Unless an Art or Kata says otherwise, the same one cannot be selected more than once.
-
-When you have taken three Natural Chakra Developments, you automatically gain Perfect Communion, the Talent's Mastery.
 
 ## Sage Progression
 {:#sage-progression}
@@ -114,16 +100,15 @@ While Sage Mode is active:
 
 - Any Attack or technique modified by a Sage Art counts as Senjutsu in addition to its normal types.
 
-Sage Mode has Upkeep 2 and follows the normal Upkeep rules. This Upkeep does not spend Sage Chakra. Sage Mode does not remove normal Chakra Exhaustion, Fatigue or Stamina penalties, and it automatically ends when the current scene ends.
+Sage Mode’s Upkeep uses normal Chakra rather than Sage Chakra. Normal exhaustion, Fatigue and Stamina penalties remain. The Mode ends with the scene.
 
-If you reach 0 Sage Chakra, Sage Mode ends after the effect which spent your final Sage Chakra resolves. You may end Sage Mode at Speed 0\. When Sage Mode ends for any reason, all remaining Sage Chakra is lost.
+If you reach 0 Sage Chakra, Sage Mode ends after the effect which spent your final Sage Chakra resolves. You may end Sage Mode at Speed 0\.
 
 
 # SAGE TRADITIONS
 {:#sage-traditions}
 
 <div class="sage-directory" id="sage-directory"><div class="sage-directory-heading"><span>FIELD GUIDE / NINE TRADITIONS</span><h2>CHOOSE YOUR SAGE</h2><p>Every tradition is collected on this page. Select one below to open its full Signature Trait and Sage Arts without losing your place.</p></div><div class="sage-directory-grid"><a class="sage-directory-card" href="#wild-sage" data-sage-link="wild-sage"><span class="sage-symbol" aria-hidden="true">✦</span><span>01 / SAGE TRADITION</span><strong>WILD SAGE</strong><small>An untethered path shaped by the living world.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#great-toad-sage" data-sage-link="great-toad-sage"><span class="sage-symbol" aria-hidden="true">🐸</span><span>02 / SAGE TRADITION</span><strong>GREAT TOAD SAGE</strong><small>Patience, powerful leaps and battlefield impact.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#serpent-sage" data-sage-link="serpent-sage"><span class="sage-symbol" aria-hidden="true">🐍</span><span>03 / SAGE TRADITION</span><strong>SERPENT SAGE</strong><small>Coils, venom and relentless pursuit.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#roc-sage" data-sage-link="roc-sage"><span class="sage-symbol" aria-hidden="true">🦅</span><span>04 / SAGE TRADITION</span><strong>ROC SAGE</strong><small>Aerial movement and mastery of the sky.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#tortoise-sage" data-sage-link="tortoise-sage"><span class="sage-symbol" aria-hidden="true">🐢</span><span>05 / SAGE TRADITION</span><strong>TORTOISE SAGE</strong><small>Endurance, protection and unyielding defence.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#moth-sage" data-sage-link="moth-sage"><span class="sage-symbol" aria-hidden="true">🦋</span><span>06 / SAGE TRADITION</span><strong>MOTH SAGE</strong><small>Powder, concealment and heightened senses.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#carrion-sage" data-sage-link="carrion-sage"><span class="sage-symbol" aria-hidden="true">🦅</span><span>07 / SAGE TRADITION</span><strong>CARRION SAGE</strong><small>Tracking, attrition and exploiting the wounded.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#fungal-sage" data-sage-link="fungal-sage"><span class="sage-symbol" aria-hidden="true">🍄</span><span>08 / SAGE TRADITION</span><strong>FUNGAL SAGE</strong><small>Spores, roots and interconnected terrain.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#salamander-sage" data-sage-link="salamander-sage"><span class="sage-symbol" aria-hidden="true">🦎</span><span>09 / SAGE TRADITION</span><strong>SALAMANDER SAGE</strong><small>Regeneration, resilience and survival.</small><b aria-hidden="true">↗</b></a></div></div>
-
 
 
 Natural Chakra does not look the same in every body. A Sage Tradition is the shape given to Natural Chakra by the creature, place or lineage that taught you to understand it.
@@ -777,7 +762,7 @@ Once per battle, when an effect would spend your final Sage Chakra, reduce that 
 
 Requires: Sage Rank 5\.
 
-Once per battle, the first Sage Art or Sage Kata you use after entering Sage Mode costs 1 less Sage Chakra, minimum 0\. This cannot reduce a cost which is already 0\.
+Once per battle, the first Sage Art or Sage Kata you use after entering Sage Mode costs 1 less Sage Chakra, minimum 0\.
 
 
 # SAGE KATA
@@ -855,8 +840,6 @@ Reduce the base Speed of Gather Natural Chakra by 1 and its minimum Speed by 1\.
 
 The first time you enter Sage Mode in each battle, gain 1 Sage Chakra after Sage Mode resolves. This cannot take you above your maximum.
 
-Perfect Communion does not remove the need to Gather. A mastered Sage is faster at finding balance, not permanently full of Natural Chakra.
-
 
 # NATURAL IMBALANCE
 {:#natural-imbalance}
@@ -871,7 +854,7 @@ If an individual Tradition, monster or technique can cause petrification, mutati
 # RULES CLARIFICATIONS
 {:#rules-clarifications}
 
-Chakra Exhaustion — Sage Chakra does not replace a Jutsu's Chakra Cost. A Jutsu modified by a Sage Art still makes its normal Chakra Exhaustion roll.
+Chakra Exhaustion — Jutsu modified by Sage Arts make their normal Chakra Exhaustion rolls.
 
 AP — AP may reduce Gather Natural Chakra and Sage Mode normally unless an effect says otherwise. Their minimum Speeds still apply.
 
@@ -879,11 +862,11 @@ Clones — A Clone has no Sage Chakra unless its own rules explicitly say it can
 
 Summons — A Summon does not gain its summoner's Natural Chakra Talent. Sage creatures may possess their own Natural Chakra rules and may act as a Source for the Talent.
 
-Modes — Sage Mode may coexist with another Mode unless either effect says otherwise. All Upkeep is added normally.
+Modes — Sage Mode may coexist with another Mode unless either effect says otherwise.
 
 Genjutsu — Sage Mode does not inherently increase Genjutsu Accuracy or damage. Sage sensory effects may help locate a Genjutsu user but do not automatically identify or break a Genjutsu.
 
-Senjutsu — Senjutsu is a tag for an effect empowered by balanced Natural Chakra. The tag has no automatic numerical benefit of its own.
+Senjutsu — Senjutsu is a tag for an effect empowered by balanced Natural Chakra.
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>

@@ -16,9 +16,7 @@ permalink: "/rules/jutsu/genjutsu/"
 ### Requirements
 {:#requirements-3}
 
-Genjutsu isn't easy. In fact, genjutsu is really, really hard, even by the standards of other ninja techniques. Taijutsu and ninjutsu are both, after enough shinobi training, slightly intuitive; and, in the case of the latter, every ninja has an elemental affinity they can rely on to help them out even when they struggle overall.
-
-Not so with genjutsu. There is no such thing as an 'affinity' for it (though some ninja who seem to have an easier time learning it are occasionally described as such), and it takes a lot of work to be able to use it effectively.
+Genjutsu requires specialised training and has no affinity.
 
 The requirements for using Genjutsu of a given rank are listed below. Additionally all Genjutsu require the Genjutsu Training ability.
 

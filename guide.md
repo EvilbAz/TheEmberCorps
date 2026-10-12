@@ -16,8 +16,6 @@ permalink: "/guide/"
 
 If you are coming from D&D 5e, the most important thing to know is this: **Ember Corps is not played as a weekly party campaign with six-second rounds.** The server is the game table. Your character exists between missions. You can roleplay with other characters, train, craft, spar, investigate the world, join GM events and develop relationships whenever play is available.
 
-This page teaches the *shape* of the game. You do not need to memorise the rulebooks before playing.
-
 > **5e translation:** think of your character sheet as your persistent character, Discord scenes as the campaign table, Missions as adventures, Jutsu as techniques/spells, and XP as both advancement and the currency used to buy much of that advancement.
 
 [Join the Ember Corps Discord](https://discord.gg/TheEmberCorps)
@@ -76,7 +74,7 @@ For example:
 >
 > **OOC (in the matching OOC channel):** Does Survival apply to tracking whatever made the footprints?
 
-An IC scene is simply a piece of roleplay happening between characters. It does not need a GM unless the scene needs the world to answer a question, adjudicate something, or provide opposition. Two Hunters talking over food is an IC scene. Training together is an IC scene. An argument is an IC scene. Investigating a GM-created threat can be an IC scene too.
+An IC scene is an interaction between characters, such as conversation, training or investigation. A GM is needed when the scene requires world information, adjudication or opposition.
 
 **Example:** If someone announces a monster's weakness in an OOC planning channel, your Hunter does not automatically know it. Discover that information through IC play or an appropriate GM-approved source.
 
@@ -95,8 +93,6 @@ Most play falls into four broad activities.
 {:#roleplay}
 
 Talk to other characters and build a life in Haven Ember. Active IC roleplay awards **4 XP per 30 minutes**. Meaningful moments can also earn Roleplay Beats for Bond, Reveal, Drive and Change.
-
-This is not filler between "real sessions." It is one of the main ways Ember Corps is played.
 
 ### Missions
 {:#missions}
@@ -143,7 +139,7 @@ You do not need to optimise all of these simultaneously. Pick a character fantas
 ## Your First Build: Start With a Job
 {:#buildcraft}
 
-Your first build should have a clear answer to **what do I do when a fight begins?** You are building a toolkit, not choosing a 5e class that automatically supplies one.
+Choose a primary role and two or three Actions that support it.
 
 <div class="guide-build-grid"><div><span>01 / IDENTITY</span><strong>PICK YOUR FANTASY</strong><p>A lightning-fast melee Hunter, a Hyūga duelist, a ranged scout or a battlefield controller. Choose one primary role first.</p></div><div><span>02 / ATTRIBUTES</span><strong>SUPPORT YOUR PLAN</strong><p>All five attributes start at 20. Distribute 25 extra points, no more than 10 in one attribute. STR supports physical power, RES durability, CHA chakra, DEX precision and AGI speed.</p></div><div><span>03 / CORE LOOP</span><strong>CHOOSE 2–3 GO-TO ACTIONS</strong><p>Pick a reliable attack, a defence or escape, and a useful second option. Check their Speed, costs, accuracy and range together.</p></div><div><span>04 / BACKUP</span><strong>COVER A WEAKNESS</strong><p>Can you handle a distant enemy? What happens when Chakra or Stamina runs low? Do you have a useful skill outside combat?</p></div></div>
 
@@ -162,35 +158,13 @@ You begin at **500 XP, Stray rank**. Spend XP on the attributes, Jutsu and abili
 ## The Big Difference from 5e: Combat Has No Rounds
 {:#speed}
 
-This is the rule most likely to feel strange at first.
-
-In 5e, everybody gets a turn each round. A fast character may go earlier, but everybody generally receives one turn before the next round begins.
-
-**Ember Corps does not work like that.**
-
 Combat runs on a continuous timeline called **Initiative Counts**, usually shortened to **IC**. Lower IC is earlier in time. Every action has a **Speed**. After you act, add that Speed to your current IC. The result is when you can act again.
 
 <div class="guide-speed-banner"><span>COMBAT / THE ONE FORMULA TO REMEMBER</span><strong>YOUR IC <b>+</b> ACTION SPEED <b>=</b> NEXT IC</strong><small>Lower Speed means you act again sooner. The action resolves on your current IC.</small></div>
 
-### The simplest possible example
+### Example: two Hunters
 
-You are ready to act on **IC 5**.
-
-You use a **Speed 6** attack.
-
-The attack happens on IC 5. Then:
-
-**5 + 6 = 11**
-
-Your next normal action is therefore on **IC 11**.
-
-Another Hunter might use a Speed 10 technique on IC 5 and next act on IC 15. You used the faster action, so you get another opportunity sooner.
-
-**That is what Speed means. Lower Speed is faster.**
-
-<div class="guide-example"><span>TRY IT YOURSELF</span><p>You act on <b>IC 5</b> and choose a <b>Speed 6</b> attack. Your next action is <strong>IC 11</strong>. Someone using Speed 10 at IC 5 would next act on IC 15.</p></div>
-
-### A tiny timeline
+Aya uses a Speed 8 Action on IC 0. Bo uses a Speed 4 Action on IC 3.
 
 | IC | What happens |
 | :--- | :--- |
@@ -198,10 +172,6 @@ Another Hunter might use a Speed 10 technique on IC 5 and next act on IC 15. You
 | 3 | Bo acts and uses a Speed 4 attack. His next action is IC 7. |
 | 7 | Bo acts again. |
 | 8 | Aya acts again. |
-
-<div class="guide-timeline" aria-label="Example of two Hunters on the Initiative Count timeline"><div class="guide-timeline-track"><span>IC 0</span><span>IC 3</span><span>IC 7</span><span>IC 8</span></div><div class="guide-timeline-events"><div><b>AYA</b><small>Speed 8</small></div><div><b>BO</b><small>Speed 4</small></div><div><b>BO</b><small>Acts again</small></div><div><b>AYA</b><small>Acts again</small></div></div></div>
-
-Bo did not receive a special "extra turn." His action simply took less time.
 
 ### Starting combat
 
@@ -219,17 +189,11 @@ If two Hunters are due to act on the same Initiative Count, they declare and res
 
 ### How Speed reductions work
 
-An ability or effect might reduce an action's Speed. Normally, its final Speed cannot fall below **half its Base Speed, rounded up**, and cannot be reduced below **3**. Interrupts have special exceptions. A Speed 10 action therefore normally cannot be reduced below Speed 5. Do not assume you can stack discounts until every action costs 1 IC.
+An ability or effect might reduce an action's Speed. Normally, its final Speed cannot fall below **half its Base Speed, rounded up**, and cannot be reduced below **3**. Interrupts have special exceptions. A Speed 10 action therefore normally cannot be reduced below Speed 5.
 
-### Three rules worth remembering
-
-**Lower Speed is better.** Speed 5 happens again sooner than Speed 10.
-
-**There are no rounds to wait for.** The timeline simply advances to whoever acts next.
+### Combat time
 
 **100 IC = 30 seconds.** IC measures actual combat time, not abstract rounds.
-
-Do not worry about advanced Speed manipulation when learning. If you can add your action's Speed to your current IC, you can participate in combat.
 
 ## Reading a Jutsu Stat Block
 {:#reading-jutsu}
@@ -241,17 +205,7 @@ A quick attack is only useful if it fits your resources and the rest of your bui
 ## Defending Yourself
 {:#defence}
 
-You are not normally forced to stand there until your next scheduled action when somebody attacks you. Defensive mechanics can respond to attacks through **Interrupts**.
-
-Dodge, Parry, Block and more specialised defensive options each solve different problems. The exact choice depends on the attack, your build and what you have available.
-
-For your first fight, the useful habit is simply:
-
-> **When somebody attacks you, check whether you can defend before assuming the hit lands.**
-
-An **Interrupt** lets you respond to something happening outside your normal action slot, but it follows its own costs and timing rules. **Dodge** avoids an attack, **Parry** uses an appropriate weapon or technique to turn it aside, and **Block** absorbs or mitigates it. Check the attack's tags and your available defences before choosing. Interrupts and Action Points can affect your future timing, so track them rather than treating defence as a free reaction every round.
-
-Ask the GM or another player which defence applies if you are unsure. Learning when to Dodge, Parry or Block is much easier in play than by memorising every edge case beforehand.
+Defensive Interrupts let you respond outside your normal Action slot. Dodge avoids an attack, Parry turns it aside, and Block mitigates damage. Check the attack’s tags, legal timing and your available defences, then pay the chosen Interrupt’s costs and advance your IC. Ask the GM if you are unsure which defence applies.
 
 ## Skills, Rolls and Non-Combat Play
 {:#skills}
@@ -263,39 +217,19 @@ Your twelve Skills cover everything from Athletics and Awareness to Research, Me
 ## Damage, Wounds and Fatigue
 {:#damage}
 
-Taking damage is not just watching one enormous HP bar decrease.
-
 **Vitality** absorbs damage before HP. When attacks become serious, **Wounds** can impose consequences beyond raw damage. **Fatigue** tracks accumulated exhaustion and can make continued fighting increasingly dangerous.
 
-This means winning a fight can still leave consequences. A battered Hunter may need recovery even if they never reached 0 HP.
-
-The system deliberately rewards dangerous experiences: Fatigue and Wounds suffered during qualifying combat can contribute additional XP. That does not mean you should deliberately injure your character; it means the game recognises that surviving costly fights teaches them something.
+Qualifying combat can award additional XP for Fatigue and Wounds; see [Combat XP]({{ "/rules/core/#combat" | relative_url }}).
 
 ## Jutsu and Builds
 {:#jutsu}
 
-Jutsu are closer to a mixture of 5e spells, attacks and class features than to any one of those things.
-
-A Jutsu entry tells you what it costs, how fast it is, how accurately it attacks, what damage it deals and which tags or special rules it uses. Your clan, elements, Talents, equipment and abilities can all change what kinds of techniques make sense for you.
-
-Do not begin by searching for the mathematically strongest Jutsu. A much easier first build starts with a sentence:
-
-> "I want to be a close-range Hyūga who uses a weapon."
->
-> "I want to be a fast lightning user."
->
-> "I want to control the battlefield with earth techniques."
->
-> "I want to hunt monsters with traps and a crossbow."
-
-Then choose mechanics that make that sentence true.
+Your clan, elements, Talents, equipment and abilities determine which techniques support your role. Start with a reliable attack, a defence or escape, and one useful alternative.
 
 ## XP Is Not a 5e Level Bar
 {:#xp}
 
 Spend XP to improve attributes, learn Jutsu and buy abilities. Total XP also unlocks Skill Points, Talent Points and other progression benefits.
-
-XP is used throughout character advancement. Abilities and other improvements have costs, while your total XP also matters for progression and prerequisites.
 
 Your character therefore grows piece by piece. Two Hunters with similar total XP can spend it very differently and play nothing alike.
 
@@ -354,4 +288,3 @@ Nobody benefits from you trying to memorise the entire archive before writing yo
 **Need a human being:** [Join the Discord](https://discord.gg/TheEmberCorps)
 
 The full rules are a reference library, not an entrance exam. Start with a Hunter you want to play. The rest becomes much easier once the rules have a character and a scene to attach themselves to.
-

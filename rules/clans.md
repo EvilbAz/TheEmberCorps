@@ -1907,7 +1907,7 @@ Heritage Cost: 1 UP
 
 Where other Corps traditions are built around a bloodline, a companion, or a piece of forbidden technology, the Vanguard Corps are built around practice. Their armouries are filled with oversized blades, crushing hammers, shielded lances, transforming weapons and field repairs scarred by things that should have killed the person holding them.
 
-A Vanguard is expected to know one truth above all others: the weapon is not the style. The hunt is. Every form below is a different answer to the same question — how do you survive inside a monster's reach long enough to put it down?
+Vanguard training covers weapon forms suited to different openings in a monster’s attacks.
 
 ##
 
@@ -2815,7 +2815,7 @@ Ballistic Arts are exclusive Ballistic Corps Weapon Jutsu. For requirements, XP 
 ### Omnidirectional Fire
 {:#omnidirectional-fire}
 
-Ballistic Corps Hunters are trained to fire while advancing, retreating, strafing or turning. **Every Attack made with a Ballistic Weapon is Omnidirectional**, including normal Attacks, Burst, Full Auto and Ballistic Arts. You may declare these Attacks in any direction regardless of the direction you are moving or facing. This does not grant additional movement, extend Range, bypass cover or line of sight, remove the requirements of a technique, or prevent movement from breaking Braced or Aim.
+Ballistic Corps Hunters are trained to fire while advancing, retreating, strafing or turning. **Every Attack made with a Ballistic Weapon is Omnidirectional**, including normal Attacks, Burst, Full Auto and Ballistic Arts. You may declare these Attacks in any direction regardless of the direction you are moving or facing. Normal movement, Range, cover, line-of-sight and technique requirements apply; movement still breaks Braced or Aim.
 
 ### The Hunter Arm
 {:#the-hunter-arm}
@@ -3597,7 +3597,7 @@ The Attack gains \+6 Damage Dice, \+5 Base Speed, \+5 Stamina and \+10% Wounding
 ## Talent: Personal Pattern
 {:#talent-personal-pattern}
 
-The oldest Ballistic Corps hunters say that every great gun eventually stops being a model and becomes a name. Parts are replaced until nothing remains of the original weapon except the decisions that shaped it. The Personal Pattern talent path represents that relationship: not a mystical soul-bond, but years of field notes, custom tolerances, monster parts, favourite ammunition and tiny adjustments that make a weapon function properly for exactly one hunter.
+Personal Patterns develop through years of field notes, custom tolerances, monster materials and adjustments made for one Hunter.
 
 ### Named Pattern
 {:#named-pattern}

@@ -12,8 +12,6 @@ permalink: "/rules/talents/hunter-classes/"
 
 Hunter Classes are Corps specialties. To join one, complete its qualification tasks with staff and record approval on your character sheet. Staff provide the current qualification requirements through the server’s class application process. Your class benefits begin when the application is approved.
 
-Class-granted Actions use normal costs, Speed limits and defensive timing unless an entry specifies an exception.
-
 ## Hunter Classes
 {:#hunter-classes}
 
@@ -37,7 +35,7 @@ Hunters trained to bring down dangerous creatures.
 ##### Bring it Down
 {:#bring-it-down}
 
-Treat damage you deal as 25% higher when determining Wounds. This changes neither damage taken nor HP or Vitality loss.
+Treat damage you deal as 25% higher for Wound determination only.
 
 #### Anchor
 {:#anchor}

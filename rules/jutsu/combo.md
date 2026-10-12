@@ -39,7 +39,7 @@ At any point during a Combo Sequence, you can opt to use a new Opener to change 
 ### Breaking a Combo Sequence
 {:#breaking-a-combo-sequence}
 
-When a combo is broken, your Combo Counter is immediately removed, you may not continue using combo moves, and all accrued combo counter bonuses are lost. Combo breaking occurs if any of the following things happen:
+When a Combo ends, remove its Counter and bonuses. It ends when:
 
 - You make any action without the Combo Tag, or the Wait action
 

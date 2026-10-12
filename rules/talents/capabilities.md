@@ -210,7 +210,7 @@ Signature Work — Choose one permanent item you personally crafted. When modify
 #### Mastery
 {:#mastery-11}
 
-Magnum Opus — You may work with every Wondrous Material currently available to ordinary Master Artisans. You may also maintain one Magnum Opus: a permanent item you personally crafted which may contain a second Wondrous Material you have mastered. Both materials count toward its normal Property Load and crafting cost; all other item limits still apply. Creating or changing your Magnum Opus still requires the normal materials, Downtime, and crafting rolls.
+Magnum Opus — You may work with every Wondrous Material currently available to ordinary Master Artisans. You may also maintain one Magnum Opus: a permanent item you personally crafted which may contain a second Wondrous Material you have mastered. Both materials count toward normal Property Load and crafting cost. Creating or changing the item uses normal crafting.
 
 ### Elemental Mastery
 {:#elemental-mastery}
@@ -239,7 +239,7 @@ Rapid Weaving — Clean Release reduces final Seal Speed by 4 instead of 2.
 
 Elemental Counter — Gain +2 on Defensive Rolls made against techniques of your chosen element. After you successfully Defend against one, your next Attack using your chosen element gains +1 Accuracy.
 
-Environmental Conduit — When a technique of your chosen element can meaningfully draw from or propagate through a large amount of naturally present matching material or conditions, reduce its Chakra cost by 2, minimum 1. This does not create material that is not present and does not bypass a technique's stated environmental requirements.
+Environmental Conduit — When a technique of your chosen element can meaningfully draw from or propagate through a large amount of naturally present matching material or conditions, reduce its Chakra cost by 2, minimum 1. The technique’s environmental requirements still apply.
 
 #### Mastery
 {:#mastery-12}

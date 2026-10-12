@@ -98,7 +98,7 @@ Hold your Ninjutsu caster to inspect the techniques available to you and their p
 The quest book is one of your most reliable early sources of Ninja XP and Training Scrolls. Hunt, complete objectives, train the techniques you actually want to use and keep checking your caster as new options open up.
 
 <div class="mc-ninja-tips">
-  <article><span>01</span><h3>Charge Before Trouble</h3><p>Top up your chakra before leaving shelter, entering a cave or committing to a dangerous fight. Do not discover that you are empty after the monster notices you.</p></article>
+  <article><span>01</span><h3>Charge Before Trouble</h3><p>Top up your chakra before leaving shelter, entering a cave or committing to a dangerous fight.</p></article>
   <article><span>02</span><h3>Mobility Keeps You Alive</h3><p>Dash to create distance, use vertical terrain and learn to move along walls instead of fighting everything from the ground. A ninja who can disengage gets another attempt.</p></article>
   <article><span>03</span><h3>Train Your Favourite Jutsu</h3><p>Jutsu improve individually. Put your Training Scrolls and practice into techniques you enjoy rather than expecting every ability to grow together.</p></article>
   <article><span>04</span><h3>Prepare Like a Hunter</h3><p>Ninja powers do not replace food, armour, storage or common sense. Carry supplies, know the route home and do not spend every resource before the real fight begins.</p></article>
@@ -115,7 +115,7 @@ The server starts you as a ninja. It does **not** expect you to stay ordinary.
   <article><div class="mc-power-glyph">禁</div><span>FORBIDDEN HEIGHTS</span><h3>There is always something beyond you</h3><p>Bloodline powers, transformations, advanced Jutsu and exceptionally rare discoveries can push a character far beyond their beginnings. The strongest rewards are things to chase, discover and earn through play.</p></article>
 </div>
 
-<p class="mc-power-note">This guide deliberately does not tell you where every great power is or exactly how to obtain it. Discovering that is part of the server.</p>
+<p class="mc-power-note">Discover rare powers through exploration and play.</p>
 
 ## What can I do?
 {:#progression}
@@ -163,7 +163,7 @@ Outposts are the heart of the server. They are places made by players for player
 ## Hunting, death and getting home
 {:#survival}
 
-**Keep Inventory is enabled.** Dying will not erase hours of equipment progress, but it still leaves you vulnerable for a while. The aim is to make dangerous expeditions exciting without making one bad encounter ruin your character.
+**Keep Inventory is enabled.** Dying will not erase hours of equipment progress, but it still leaves you vulnerable for a while.
 
 Bring food. Bring light. Bring enough inventory space. Know roughly how you are getting home. If you see something enormous in the distance, remember that turning around is also a ninja technique.
 

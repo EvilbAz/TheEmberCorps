@@ -141,31 +141,17 @@ Suggestions aside, you may spend your XP on whatever you feel makes most sense f
 ## Jutsu
 {:#jutsu}
 
-The core of a hunter's supernatural capabilities comes from their jutsu--meaning, literally, techniques. These use chakra, either projected outwards or used to amplify one's physical performance, to perform feats that would be literally impossible for a normal person.
-
-These are divided into three broad categories: taijutsu, ninjutsu, and genjutsu.
-
-Taijutsu, or body techniques, use the chakra flowing throughout a hunter's body to give them the exceptional speed or strength needed to perform the techniques. They are mostly physical attacks. This includes both unarmed combat, and weapon techniques.
-
-Ninjutsu, or chakra techniques, use chakra to accomplish what those unfamiliar with them might call magic. These effects range from changing one's appearance to projecting balls of flame, to summoning water from thin air, to healing grievous injuries.
-
-Genjutsu, or illusion techniques, use chakra to either construct illusions in the environment or to directly affect an enemy's mind and confuse their senses. Of the three, they are the most difficult to learn.
+Jutsu are chakra-based techniques: Taijutsu enhances physical combat, Ninjutsu shapes chakra into external effects, and Genjutsu alters perception. See the [Jutsu Compendium]({{ '/rules/jutsu/' | relative_url }}) for techniques and learning requirements.
 
 ## Abilities
 {:#abilities}
 
-Abilities represent the fruits of your character's training, and the ways in which they've developed as a hunter. What abilities you take will play a large role in shaping how you perform in combat and other situations.  
-Abilities are more specific than skills; they differ from jutsu in that while a jutsu is a specific technique, any ability is a way of doing something or a permanent increase in your capabilities.
-
-Most abilities are passive improvements, giving you new capabilities or making you able to do a certain thing better.  
-You may choose to 'not use' a given ability at any time, essentially a form of holding back.
+Spend XP on [Abilities](#what-abilities-are) to develop your character’s trained capabilities.
 
 ## Downtime
 {:#downtime}
 
-Downtime uses Downtime Slots. Each week you receive 2 slots for free and may earn 1 additional slot, once per category, by completing a Spar, completing 6 total hours of RP, participating in a Mission, and completing a Hunt, for a maximum of 6 slots per week.
-
-Track all Downtime Slots in your Logs. Make any required rolls in bot spam, declare each roll correctly before making it, and link the roll in your log with a clear description of exactly what you do. Each completed Downtime action using a slot grants 5 XP. Full Downtime rules and available actions are listed in the Downtime chapter.
+Between scenes, spend [Downtime Slots](#downtime-2) on work, training, crafting and research. Record Actions and linked rolls in your Logs.
 
 ## Starting XP
 {:#starting-xp}
@@ -188,8 +174,7 @@ Unique Points, Experience Points, and Skill Points cannot be spent during combat
 ## Primary Stats
 {:#primary-stats}
 
-Attributes (also commonly referred to as statistics, or 'stats' for short) are numerical representations of your character's overall physical condition: how strong they are, how fast they are, and so forth. They are the baseline for determining performance.  
-The five primary attributes make up, in game terms, the core of a character's capabilities. Baseline 'normal human' stats are around 20\. Hunter characters will quickly exceed these numbers. This is a result of them learning to harness the chakra in their body, and benefiting from the symbiotic relationship that chakra has with their body.
+The five Attributes measure strength, resilience, chakra, dexterity and agility. Ordinary human Attributes are around 20; chakra conditioning lets Hunters exceed them.
 
 Strength (STR)  
 Strength is a measurement of your ability to exert physical force on the world around you. Exceptionally strong people may be correspondingly muscular, though hunters have developed many training methods which leave them deceptively lean.
@@ -308,7 +293,7 @@ Your name is known across the world. You have become one of the defining figures
 # Skills
 {:#skills}
 
-Skills represent broad, generic things hunters do, and how well your character can do them. Unlike abilities or jutsu, the exact method of performing a skill is ambiguous; you might use stealth by hiding in foliage, or by camouflaging yourself, but in game terms it's all about the same.
+Skills measure broad competencies. Describe how your character uses a Skill, then resolve the task with its normal roll.
 
 Your skills all have a limit of 5 \+(your total XP)/200 Ranks. A lot of them benefit from practical application and general worldliness. Actually increasing your skills up to that limit, however, requires you to spend skill points.
 
@@ -540,11 +525,7 @@ Use the rules for the scene you're actually playing and, as always, use common s
 ### What Abilities Are
 {:#what-abilities-are}
 
-Abilities represent the fruits of your character's training, and the ways in which they've developed as a hunter. What abilities you take will play a large role in shaping how you perform in combat and other situations.  
-Abilities are more specific than skills; they differ from jutsu in that while a jutsu is a specific technique, any ability is a way of doing something or a permanent increase in your capabilities.
-
-Most abilities are passive improvements, giving you new capabilities or making you able to do a certain thing better.  
-You may choose to 'not use' a given ability at any time, essentially a form of holding back.
+Abilities grant trained methods and lasting improvements. Purchase them with XP using the costs below. You may choose to hold back an Ability’s effects.
 
 ### Purchasing Abilities
 {:#purchasing-abilities}
@@ -1159,8 +1140,7 @@ Cost: 9
 Scale: 1  
 Limit: (CHA \- 10\) /25, max 4
 
-Special: The two "Enhanced (Sense)" abilities share a Scale.  
-That is, if you already had four ranks of Enhanced Sight, the first rank of Enhanced Hearing would cost (9+(1\*4) \= ) 13 XP.
+Special: Shares Scale with [Enhanced Hearing](#enhanced-hearing).
 
 #### Blind Fighting
 {:#blind-fighting}
@@ -1891,7 +1871,7 @@ Every 100 IC represents 30 seconds.
 ### Simultaneous Actions
 {:#simultaneous-actions}
 
-If two people act on the same initiative count, both of their actions are declared and resolved simultaneously. Thus, you and your opponent will both fully declare and resolve your attacks (you can take turns doing so, for the sake of convenience), but not apply their effects until after you've both done so, at the very end of the IC.
+Characters acting on the same IC declare and resolve their Actions simultaneously. Apply both Actions’ effects at the end of that IC.
 
 ## Clashes
 {:#clashes}
@@ -2130,7 +2110,7 @@ The best defense against any attack is simply not being hit.When you dodge an at
 
 This entails deflecting an opponent's weapon with your own, or stopping their bare hands with your own. Accordingly, weapon attacks may only be parried with weapons, and any other taijutsu attack may only be parried if you have at least one hand free to do so. Parrying works similarly to dodging, though uses an Accuracy roll to determine its success.
 
-When something (such as Fatigue) penalizes both Accuracy and defensive rolls (or rolls in general), Parry only suffers the penalty to defensive rolls; if something penalizes only Accuracy, then Parry does suffer that penalty. Basically, it doesn't have to deal with 'double jeopardy'.
+If an effect penalises both Accuracy and defensive rolls, apply only its defensive-roll penalty to Parry. Accuracy-only penalties still apply.
 
 The above is the standard parry option but there are more parry options listed elsewhere. A defensive option that uses an accuracy roll is considered a parry and sufferes the same penalties as listed above.
 
@@ -2183,7 +2163,7 @@ After you've declared your attack, your opponent will declare and (if applicable
 #### Accuracy Rolls
 {:#accuracy-rolls}
 
-Sometimes you'll have to make an "accuracy roll". This is essentially the same as your accuracy, but you replace the base 10 with a 1d20 roll. In other words, it's 1d20+(DEX/10) plus any other Accuracy abilities. When something penalizes both Accuracy and d20 rolls, apply only the penalties to Accuracy; if it penalizes only d20 rolls, however, then those penalties also apply.
+An Accuracy Roll replaces static Accuracy’s base 10 with 1d20: **1d20 + DEX/10 + Accuracy modifiers**. When something penalizes both Accuracy and d20 rolls, apply only the penalties to Accuracy; if it penalizes only d20 rolls, however, then those penalties also apply.
 
 #### Damage
 {:#damage}
@@ -2290,11 +2270,7 @@ You may also choose to spend Willpower after someone else has done so to alter t
 ### Holding Back
 {:#holding-back}
 
-You may restrain a lethal blow or reduce a Wound when using an E-, D- or C-Rank Jutsu, or an ordinary attack. B-, A- and S-Rank Jutsu cannot benefit from Holding Back.
-
-If an eligible attack would reduce a target below 0 HP, you may leave it at 0 HP instead. This is not available if the attack would reduce it to -100% of maximum HP or lower. The target is Incapacitated and still suffers any Wounds.
-
-You may also reduce a Major or higher Wound you inflict by one category. Declare this before its location is determined, and before the defender applies Wound mitigation.
+Use [Holding Back](#holding-back-2) to restrain eligible attacks or reduce the severity of Wounds.
 
 ## Stealth
 {:#stealth-3}
@@ -2447,7 +2423,7 @@ Conditions cover the overall health, well-being, and, well, condition, of your c
 #### Wounded
 {:#wounded}
 
-Trained hunter can survive things that would kill or maim lesser humans, but sometimes a single blow will be so powerful that even their chakra-empowered, well-conditioned bodies cannot simply shrug it off. These are referred to as Wounds, and are explained in detail in the 'Wounds' section of this chapter. The effects, and healing requirements, for each type of wound can be found there.
+Wounds are lasting injuries from sufficiently powerful hits. Use the [Wound reference]({{ '/rules/wounds/' | relative_url }}) for severity, effects and recovery.
 
 #### Fatigued
 {:#fatigued}
@@ -2590,7 +2566,7 @@ If it ever becomes relevant, closing or opening your eyes is a Speed 0 action--b
 #### Ignore Armor
 {:#ignore-armor}
 
-Some Weapons and Jutsus have this ability, or have ways to gain this ability. What 'Ignore Armor' does, is it allows any weapon, or effect with it, to bypass any and all positive effects of an Armor. This includes any Absorption, Wound negation, or special ability the armor has. Basically you are treated as having no armor on when hit by this effect\!
+Ignore Armor bypasses the armour’s positive effects, including Absorption, Wound negation and special abilities.
 
 #### Area of Effect
 {:#area-of-effect}
@@ -3023,7 +2999,7 @@ Downtime is the representation of how your character spends their time in the wo
 
 You can actively seek out new mentors (even for jutsu not available in the PHB). You can establish contacts within the world such as befriending a veteran Hunter for information regarding a certain topic. You can request audiences with high-ranking officials or even apply for financing of special projects.
 
-Essentially any action you would like to do that requires a bit of time or preparation are handled through downtime. Actions that need substantial preparation may become a Mission Quest; actions with negligible preparation can simply be resolved in an appropriate scene or Downtime action.
+Use Downtime for activities requiring preparation. Substantial investigations may become Mission Quests; brief tasks can be resolved in a scene.
 
 ### Mentoring
 {:#mentoring}

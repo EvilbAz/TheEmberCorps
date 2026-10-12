@@ -16,8 +16,7 @@ permalink: "/rules/jutsu/medical/"
 ### Requirements
 {:#requirements-4}
 
-One of the few good things the development of ways to control chakra has brought to the world is the appropriately named medical ninjutsu. These are techniques which safely transfer chakra to another person, or use it to accelerate the natural healing process, cure maladies, and otherwise ameliorate suffering and avoid unnecessary casualties.  
-Medical ninjutsu also has a darker side. The pioneers in the field learned the secrets of the human body so that they could help people, but more than a handful of infamous missing ninja of the past have found ways to weaponize it, or worse.  
+Medical Ninjutsu transfers chakra to heal injuries and illness. The same anatomical knowledge can also be used to harm.  
 Unless otherwise specified in their descriptions, you may not use any medical jutsu on yourself. For the sake of quick reference, the jutsu a medic may perform on themself are: Vital Repair, Tourniquet Technique, Temporary Suture, and Mystical Palm.  
 If any Medical Ninjutsu technique has a listed Upkeep, that Upkeep is paid by the recipient of the technique, rather than the medic; this represents the medic adjusting the flows of that person's chakra to preserve their health. This does mean that those techniques can be voluntarily (or forcibly) ended, though the "Dazed" Wound will specifically not do so. You must meet all listed requirements to learn medical ninjutsu of a given rank.
 
@@ -29,7 +28,7 @@ A: 30 Chakra Control, 35 Medicine, Advanced Medical Training or Surgeon of the C
 ### Willing
 {:#willing}
 
-The majority of medical techniques are difficult to be applied to an unwilling participant. These jutsu are listed with the Willing tag to represent them. Any jutsu with this tag will automatically fail against a target who chooses to disrupt it (though you still pay the speed and chakra cost as normal. This can be circumvented against targets that cannot defend themselves such as someone who is unconscious or one trapped with a Nara’s shadow possession.
+A Willing technique fails if its recipient chooses to disrupt it; the user still pays Speed and Chakra costs. A helpless target, such as an unconscious or shadow-possessed creature, cannot disrupt it.
 
 ## D-Rank
 {:#d-rank-19}

@@ -19,19 +19,7 @@ Your Tamed Monster is a separate creature with its own position, Initiative, Vit
 ## At a Glance
 {:#at-a-glance}
 
-- At 1,000 Total XP, your Tamed Monster has Growth Rank 1 and one Monster Trait.
-
-- At 1,500 Total XP it gains a second Trait; at 2,000 it gains a third; it gains another Growth Rank and Trait every 500 Total XP thereafter.
-
-- Every Species has Toughness, Aggression, Defence and Agility ratings. The four ratings total 12.
-
-- Every monster Action has its own printed Speed. Agility never changes an Action's Speed.
-
-- Agility affects Movement, Initiative and the Command AP you pay for Monster Techniques.
-
-- Basic Attacks and Independent Actions do not spend your AP. Monster Techniques spend Command AP.
-
-- Each Monster Taming Development grants one Tamer Development, one Monster Technique, and the next Species Feature. Three Developments grant Master Handler.
+Use [Talent Progression](#talent-progression) to build your partner, [Growth](#growth) for its statistics and [Command AP](#command-ap) for its trained techniques.
 
 # Talent Progression
 {:#talent-progression}
@@ -44,7 +32,7 @@ Monster Taming is a Capability Talent. Your Source must plausibly give you acces
 ### Core Talent
 {:#core-talent-7}
 
-Choose one Standard Monster Species and create one named Tamed Monster using its profile. Decide how you acquired it: capture, breeding, rescue, purchase, inheritance, reward, or another appropriate method. The method does not change its statistics. Your monster immediately gains that Species' Core Instinct. You may purchase Beast Seal: Release without meeting its normal rank requirement. While your monster is deployed, its prepared Beast Seal lets you sense its rough direction and whether it is conscious, incapacitated, or in immediate danger. You and your monster may communicate simple trained intent whenever normal communication is possible.
+Choose one Standard Monster Species and create a named Tamed Monster using its profile. Your monster immediately gains that Species' Core Instinct. You may purchase Beast Seal: Release without meeting its normal rank requirement. While your monster is deployed, its prepared Beast Seal lets you sense its rough direction and whether it is conscious, incapacitated, or in immediate danger. You and your monster may communicate simple trained intent whenever normal communication is possible.
 
 ### Developments
 {:#developments-7}
@@ -86,14 +74,14 @@ Effects: When using Beast Seal: Release to deploy your Tamed Monster, reduce its
 ### Homeward Seal
 {:#homeward-seal}
 
-Effects: During a Week's Rest, establish a return formula at a permanent safe location where your Tamed Monster is normally kept, such as a kennel, stable, den, breeder's compound or laboratory. With enough uninterrupted time to perform the ritual, you may transport yourself there along with a number of willing creatures touching you up to 1 + your Monster Taming Developments. Homeward Seal is travel, not a combat teleport, and cannot normally be performed during Initiative.
+Effects: During a Week's Rest, establish a return formula at a permanent safe location where your Tamed Monster is normally kept, such as a kennel, stable, den, breeder's compound or laboratory. With enough uninterrupted time to perform the ritual, you may transport yourself there along with a number of willing creatures touching you up to 1 + your Monster Taming Developments. Homeward Seal cannot normally be performed during Initiative.
 
 ### Mastery — Master Handler
 {:#mastery-master-handler}
 
-After taking three Monster Taming Developments, gain Master Handler. Once per battle, when your Tamed Monster declares a Monster Technique, you may ignore its Command AP cost. Its Speed and all other requirements are unchanged. When you do, choose one: gain +2 Accuracy on your next Attack before the end of your next Action; gain +2 to Defensive Rolls until the end of your next Action; or move up to 2 yards after the Technique resolves without spending AP or changing Initiative.
+After taking three Monster Taming Developments, gain Master Handler. Once per battle, when your Tamed Monster declares a Monster Technique, you may ignore its Command AP cost. When you do, choose one: gain +2 Accuracy on your next Attack before the end of your next Action; gain +2 to Defensive Rolls until the end of your next Action; or move up to 2 yards after the Technique resolves without spending AP or changing Initiative.
 
-Monster Taming does not grant a second Tamed Monster or an Apex-class Monster. If another reward or rule grants you an additional Tamed Monster, create it normally. You may still have only one Standard Tamed Monster deployed at a time unless a rule explicitly says otherwise.
+This Talent grants one Standard Tamed Monster, not an Apex-class creature. Additional monsters require another explicit reward or rule; the [deployment limit](#monster-rules) still applies.
 
 # Fielding Your Monster
 {:#fielding-your-monster}
@@ -123,7 +111,7 @@ If your Tamed Monster is already present when Initiative is rolled, roll its Ini
 ## Defeat and Recovery
 {:#defeat-and-recovery}
 
-A Tamed Monster reduced to 0 Vitality is immediately pulled back into its Beast Seal by the seal's safety tether. You cannot deploy it again until you complete a Week's Rest, at which point it returns at full Vitality. Reaching 0 Vitality means the monster is too injured to continue fighting; it does not automatically die. Permanent death requires an explicit story event rather than ordinary combat damage.
+A Tamed Monster reduced to 0 Vitality is immediately pulled back into its Beast Seal by the seal's safety tether. You cannot deploy it again until you complete a Week's Rest, at which point it returns at full Vitality. Permanent death requires an explicit story event.
 
 # Growth
 {:#growth}
@@ -192,7 +180,7 @@ Agility uses the same 1-5 rating, but its effects are shown separately:
 | 4 | 1.6 yd/IC | -1 | +8 |
 | 5 | 1.8 yd/IC | -2 | +10 |
 
-Command AP modifiers apply only to Monster Techniques and other effects that explicitly list a Command AP cost. The adjusted cost cannot be lower than 2 AP. Agility never changes the Speed of an Action.
+Command AP modifiers apply only to Monster Techniques and other effects that explicitly list a Command AP cost. The adjusted cost cannot be lower than 2 AP.
 
 # Actions and Command AP
 {:#actions-and-command-ap}
@@ -231,18 +219,18 @@ When an Attack deals 100% Monster Damage, roll the Monster Damage Dice and add M
 | 4,000 | 7 | 8d8 | 6.5 |
 | 6,500 | 12 | 10d8 | 9.0 |
 
-Each Species profile lists its Basic Attack Speed. Every Species Feature and Monster Technique that grants an Action lists its own Speed; use the Speed printed on that Action.
+Use each Action’s printed Speed; Agility does not alter it.
 
 # Monster Rules
 {:#monster-rules}
 
 - A Tamed Monster is a living creature and can be targeted by effects that target creatures or allies. It does not inherit your Attributes, Accuracy, Defence, Damage Bonuses, equipment, Talents, Uniques, Clan effects or temporary modifiers unless a rule explicitly says so.
 
-- A Tamed Monster uses Vitality instead of HP or Wounds. At 0 Vitality its safety seal recalls it. It does not suffer Wounds, and effects that require the target to suffer a Wound do not trigger against it.
+- A Tamed Monster uses Vitality instead of HP and cannot suffer Wounds or trigger Wound-dependent effects. See [Defeat and Recovery](#defeat-and-recovery) at 0 Vitality.
 
 - Bleed, Burns, Poison, Paralysis, Immobilization, Suffocation and other statuses affect a Tamed Monster normally unless a Species rule says otherwise.
 
-- Tamed Monsters are Tireless. They do not make Stamina or Chakra Exhaustion rolls for their listed Actions. External effects may still inflict statuses or penalties normally.
+- Tamed Monsters are Tireless: their listed Actions require no Stamina or Chakra Exhaustion rolls.
 
 - A Standard Tamed Monster is mechanically human-sized for reach, targeting, Grapple and carrying rules unless a Species Feature, Trait or Technique says otherwise. Its appearance may be larger or smaller without changing its mechanical Size.
 
