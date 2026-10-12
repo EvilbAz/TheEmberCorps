@@ -24,12 +24,12 @@ For a Hunter with 600 maximum Vitality and 200 maximum HP, 100 Vitality damage c
 
 Use the attack’s listed damage type to select the Wound table. A weapon with several damage types lets the attacker choose one after severity is confirmed but before location is determined. If a technique requires a specific weapon damage type, use that type.
 
-Blunt, Slashing, Piercing and Energy each have their own tables. Elemental and other techniques use the type printed in their rules.
+Blunt, Slashing, Piercing and Energy each have their own tables. Use an explicit damage type in a technique’s rules where one is printed. Otherwise, unarmed attacks inflict Blunt; Katon and Raiton inflict Energy; Doton and Suiton inflict Blunt; Fūton inflicts Slashing. An attack made through a created or enhanced weapon uses that weapon’s damage type instead of its element.
 
 ### Location
 {:#location}
 
-Roll 1d100 on the table for the damage type and severity. For an arm or leg result, odd rolls affect the right limb and even rolls the left.
+Roll 1d100 on the table for the damage type and severity. For an arm or leg result, odd rolls affect the right limb and even rolls the left. If the defender Blocks, they choose the Wound location instead, including against a Called Shot.
 
 Wounds stack, including repeated injuries in one location. A Critical Wound replaces lesser Wounds at that location; multiple Critical Wounds can still apply.
 

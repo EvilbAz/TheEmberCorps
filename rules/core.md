@@ -464,7 +464,17 @@ When in doubt, use common sense.
 ### Combat
 {:#combat}
 
-Combat uses Initiative Counts (IC) to track Actions, Interrupts and ongoing effects.
+Combat awards **4 XP per 30 minutes**, with a minimum duration of 30 minutes.
+
+At the end of a fight, apply the following:
+
+- **Bonuses:** +1 XP per ending Fatigue level, maximum +5 XP; +3 XP for each Wound category suffered during the fight, maximum +12 XP across Minor, Major, Severe and Critical.
+- **Penalties:** -2 XP per starting Fatigue level and -1 XP per starting Wound, regardless of severity.
+- If reward-granting Fatigue is recovered through a method other than standard Rest, such as a Soldier Pill, remove the XP awarded for that Fatigue.
+
+You cannot gain XP for fighting the same opponent again within 24 hours. A larger group containing opponents you have not fought during that period can still qualify.
+
+Combat remains roleplay and can earn Roleplay Beats. At the end of the scene, choose **Combat Bonuses** or **Roleplay Beats**; you cannot claim both. Do not claim two time-based XP awards for the same period.
 
 ### Events
 {:#events}

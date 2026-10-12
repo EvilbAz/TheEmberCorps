@@ -22,6 +22,9 @@ core = pages['/rules/core/'][0]
 wounds = (ROOT / '_includes/wounds.md').read_text()
 assert wounds in pages['/rules/core/'][0] and wounds in pages['/rules/wounds/'][0]
 assert '# Downtime' not in pages['/rules/wounds/'][0], 'Downtime duplicated in the Wound reference'
+assert '4 XP per 30 minutes' in core and 'Combat Bonuses' in core and 'Roleplay Beats' in core
+assert 'Katon and Raiton inflict Energy' in wounds and 'Doton and Suiton inflict Blunt' in wounds
+assert 'If the defender Blocks, they choose the Wound location' in wounds
 assert '250 XP' in core and '250 XP' in pages['/guide/'][0]
 assert '500 XP at' not in pages['/guide/'][0]
 assert 'Speed -5' not in pages['/rules/clans/'][0]

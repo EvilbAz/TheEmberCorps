@@ -6,14 +6,14 @@ volume_slug: "uniques"
 permalink: "/rules/uniques/"
 ---
 
-*Rare gifts, habits, talents, and training that make onehunter different from another.*
+*Rare gifts, habits, talents, and training that make one hunter different from another.*
 
 *“Two hunters can learn the same technique. They should never feel like the same person.”*
 
 # Uniques
 {:#uniques}
 
-Uniques are unusual talents, habits, gifts, and kinds of training that set onehunter apart from another. They grant abilities and advantages that ordinary XP purchases usually cannot.
+Uniques are unusual talents, habits, gifts, and kinds of training that set one hunter apart from another. They grant abilities and advantages that ordinary XP purchases usually cannot.
 
 At character creation you receive 6 Unique Points (UP). Heritage Cost from Volume III is paid from this same pool. Any UP you do not spend may be saved.
 

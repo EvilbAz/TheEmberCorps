@@ -326,7 +326,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#combat",
-    "text": "Combat uses Initiative Counts (IC) to track Actions, Interrupts and ongoing effects."
+    "text": "Combat awards 4 XP per 30 minutes, with a minimum duration of 30 minutes. At the end of a fight, apply the following: - Bonuses: +1 XP per ending Fatigue level, maximum +5 XP; +3 XP for each Wound category s"
   },
   {
     "title": "Events",
@@ -2335,7 +2335,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#location",
-    "text": "Roll 1d100 on the table for the damage type and severity. For an arm or leg result, odd rolls affect the right limb and even rolls the left. Wounds stack, including repeated injuries in one location. A Criti"
+    "text": "Roll 1d100 on the table for the damage type and severity. For an arm or leg result, odd rolls affect the right limb and even rolls the left. If the defender Blocks, they choose the Wound location instead, in"
   },
   {
     "title": "Called Shots",
@@ -3189,7 +3189,7 @@
     "volume": "Uniques",
     "number": "II",
     "url": "/rules/uniques/#uniques",
-    "text": "Uniques are unusual talents, habits, gifts, and kinds of training that set onehunter apart from another. They grant abilities and advantages that ordinary XP purchases usually cannot. At character creation y"
+    "text": "Uniques are unusual talents, habits, gifts, and kinds of training that set one hunter apart from another. They grant abilities and advantages that ordinary XP purchases usually cannot. At character creation "
   },
   {
     "title": "Creation Uniques",
@@ -21347,7 +21347,7 @@
     "volume": "Wounds",
     "number": "I",
     "url": "/rules/wounds/#location",
-    "text": "Roll 1d100 on the table for the damage type and severity. For an arm or leg result, odd rolls affect the right limb and even rolls the left. Wounds stack, including repeated injuries in one location. A Criti"
+    "text": "Roll 1d100 on the table for the damage type and severity. For an arm or leg result, odd rolls affect the right limb and even rolls the left. If the defender Blocks, they choose the Wound location instead, in"
   },
   {
     "title": "Called Shots",
