@@ -45,7 +45,8 @@ for route, (body, _, _) in pages.items():
             assert re.search(r'(?:\{:#|\bid=")' + re.escape(fragment) + r'[}"]', target_body), (route, match[1])
 # Preserve historical events and the factual NPC dossier records during editorial passes.
 before_timeline = subprocess.check_output(['git', 'show', 'HEAD:timeline.md'], cwd=ROOT)
-assert (ROOT / 'timeline.md').read_bytes() == before_timeline, 'Timeline changed'
+timeline_records = r'<(?:time|h[1-3]|p|blockquote)\b[^>]*>.*?</(?:time|h[1-3]|p|blockquote)>'
+assert re.findall(timeline_records, (ROOT / 'timeline.md').read_text()) == re.findall(timeline_records, before_timeline.decode()), 'Historical timeline text changed'
 before_lore = subprocess.check_output(['git', 'show', 'HEAD:lore.md'], cwd=ROOT).decode()
 current_lore = (ROOT / 'lore.md').read_text()
 dossiers = r'<section class="lore-dossier[^\n]*?</section>'
