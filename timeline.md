@@ -3,6 +3,7 @@ title: "Timeline of Events"
 description: "A living chronology of Ember Corps: the hunts, disasters and discoveries that shaped Haven Ember."
 permalink: /timeline/
 ---
+<link rel="stylesheet" href="{{ '/assets/css/timeline-ambient.css' | relative_url }}">
 <div class="timeline-page" id="history-top">
   <svg class="history-symbols" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
     <defs>
@@ -14,6 +15,29 @@ permalink: /timeline/
       <symbol id="history-compass" viewBox="0 0 100 100"><circle cx="50" cy="50" r="34"/><path d="m61 24-6 31-31 21 21-31Z M50 4v12 M50 84v12 M4 50h12 M84 50h12"/></symbol>
     </defs>
   </svg>
+  <div class="history-ambient" id="history-ambient" data-era="before" aria-hidden="true">
+    <div class="history-scene is-active" data-era="before">
+      <svg class="history-motif one" viewBox="0 0 100 100"><use href="#history-hunt"/></svg>
+      <svg class="history-motif two" viewBox="0 0 100 100"><use href="#history-compass"/></svg>
+      <svg class="history-motif three" viewBox="0 0 100 100"><use href="#history-haven"/></svg>
+    </div>
+    <div class="history-scene" data-era="crown">
+      <svg class="history-motif one" viewBox="0 0 100 100"><use href="#history-crown"/></svg>
+      <svg class="history-motif two" viewBox="0 0 100 100"><use href="#history-crisis"/></svg>
+      <svg class="history-motif three" viewBox="0 0 100 100"><use href="#history-bloom"/></svg>
+    </div>
+    <div class="history-scene" data-era="ruins">
+      <svg class="history-motif one" viewBox="0 0 100 100"><use href="#history-haven"/></svg>
+      <svg class="history-motif two" viewBox="0 0 100 100"><use href="#history-compass"/></svg>
+      <svg class="history-motif three" viewBox="0 0 100 100"><use href="#history-hunt"/></svg>
+    </div>
+    <div class="history-scene" data-era="present">
+      <svg class="history-motif one" viewBox="0 0 100 100"><use href="#history-bloom"/></svg>
+      <svg class="history-motif two" viewBox="0 0 100 100"><use href="#history-haven"/></svg>
+      <svg class="history-motif three" viewBox="0 0 100 100"><use href="#history-compass"/></svg>
+    </div>
+    <div class="history-dust"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+  </div>
   <header class="timeline-hero">
     <div class="history-seal" aria-hidden="true">
       <svg class="history-seal-rings" viewBox="0 0 300 300"><circle cx="150" cy="150" r="139"/><circle cx="150" cy="150" r="115"/><path d="M150 3v25 M150 272v25 M3 150h25 M272 150h25 M46 46l18 18 M236 236l18 18 M46 254l18-18 M236 64l18-18"/></svg>
@@ -79,3 +103,4 @@ permalink: /timeline/
     <span class="present-pulse"></span><div><small>12 OCT 2026 · REBUILDING</small><h2>EMBER LOOKS OUTWARD.</h2><p>The Haven still bears the Crown Beneath's scars, but its Hunters are once again ranging into the Wastes. The Blackgate Tortoise is dead, a stranger from Haven Hakujona has reached Ember, and the world beyond the ruins is beginning to feel closer.</p></div>
   </section>
 </div>
+<script src="{{ '/assets/js/timeline-ambient.js' | relative_url }}" defer></script>
