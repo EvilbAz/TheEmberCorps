@@ -1,5 +1,6 @@
 from pathlib import Path
 
+# One-shot patcher for the global Ember ambience player.
 path = Path('_layouts/default.html')
 text = path.read_text(encoding='utf-8')
 
