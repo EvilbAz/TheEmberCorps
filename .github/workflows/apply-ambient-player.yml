@@ -1,0 +1,43 @@
+name: Apply Ember ambience player
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/apply_ambient_player.py'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch Ember ambience tracks
+        run: |
+          python -m pip install --quiet gdown
+          gdown --id 1mdnghHDn47iJoIKp18BVfbeyOLO8U4qJ -O /tmp/ember.zip
+          mkdir -p assets/audio/ember
+          python - <<'PY'
+          import zipfile, pathlib
+          src = '/tmp/ember.zip'
+          out = pathlib.Path('assets/audio/ember')
+          prefix = 'overrides/resources/embercorps/sounds/music/'
+          with zipfile.ZipFile(src) as z:
+              for info in z.infolist():
+                  if info.filename.startswith(prefix) and info.filename.lower().endswith('.ogg'):
+                      target = out / pathlib.Path(info.filename).name
+                      target.write_bytes(z.read(info))
+                      print('extracted', target)
+          PY
+      - name: Patch global layout
+        run: python scripts/apply_ambient_player.py
+      - name: Commit player and soundtrack
+        run: |
+          git config user.name "Ember Corps Rules Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add _layouts/default.html assets/audio/ember
+          git diff --cached --quiet && exit 0
+          git commit -m "Add Ember ambience player and soundtrack"
+          git push
