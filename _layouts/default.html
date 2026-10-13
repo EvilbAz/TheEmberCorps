@@ -8,6 +8,7 @@
   <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
   <link rel="icon" href="{{ '/assets/img/ec-favicon.svg' | relative_url }}?v=2" type="image/svg+xml">
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260930-license-fix-v2">
+  <link rel="stylesheet" href="{{ '/assets/css/ambient-player.css' | relative_url }}?v=20261013-ambient-1">
   {% if page.url == '/minecraft/' %}<link rel="stylesheet" href="{{ '/assets/css/minecraft.css' | relative_url }}?v=20260930-mc-v1">{% endif %}
   {% if page.url == '/timeline/' %}<link rel="stylesheet" href="{{ '/assets/css/timeline.css' | relative_url }}?v=20261012-history-1">{% endif %}
   <script>try{document.documentElement.dataset.theme=['dark','light','primal','abyss'].includes(localStorage.getItem('ember-theme'))?localStorage.getItem('ember-theme'):'dark';document.documentElement.dataset.appearance=localStorage.getItem('ember-appearance')||(['light','dark'].includes(document.documentElement.dataset.theme)?document.documentElement.dataset.theme:'dark')}catch(e){}</script>
@@ -117,7 +118,27 @@
     <header class="topbar">
       <button class="menu-toggle" id="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
       <a class="top-brand" href="{{ '/' | relative_url }}">EMBER <em>CORPS</em></a>
-      <div class="top-right"><span class="top-status"><span class="status-dot"></span> FIELD REFERENCE</span><button class="top-search search-trigger" aria-label="Search rules">⌕ <span>Search</span> <kbd>/</kbd></button><button class="primal-toggle" id="primal-toggle" type="button" aria-label="Enable Primal theme" aria-pressed="false" title="Primal mode">❧ <span>PRIMAL</span></button><button class="abyss-toggle" id="abyss-toggle" type="button" aria-label="Enable Abyss theme" aria-pressed="false" title="Abyss mode">≋ <span>ABYSS</span></button><button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle light or dark theme">◐</button></div>
+      <div class="top-right"><span class="top-status"><span class="status-dot"></span> FIELD REFERENCE</span><button class="top-search search-trigger" aria-label="Search rules">⌕ <span>Search</span> <kbd>/</kbd></button><div class="ambient-player" data-ambient-player>
+  <button class="ambient-toggle" data-ambient-toggle type="button" aria-label="Play Ember ambience" aria-pressed="false" aria-expanded="false" title="Ember ambience — click to play/pause, right-click for controls">
+    <span class="ambient-note" aria-hidden="true">♫</span>
+    <span class="ambient-eq" aria-hidden="true"><i></i><i></i><i></i></span>
+    <span class="ambient-label">AMBIENCE</span>
+  </button>
+  <div class="ambient-panel" data-ambient-panel>
+    <div class="ambient-panel-head">
+      <div><small>EMBER THEME AMBIENCE</small><div class="ambient-track-title" data-ambient-title>Wild Pass</div></div>
+      <button class="ambient-control" data-ambient-panel-toggle type="button" aria-label="Close ambience controls">×</button>
+    </div>
+    <div class="ambient-controls">
+      <button class="ambient-control" data-ambient-prev type="button" aria-label="Previous track">‹</button>
+      <button class="ambient-control primary" data-ambient-play type="button" aria-label="Play ambience">▶</button>
+      <button class="ambient-control" data-ambient-next type="button" aria-label="Next track">›</button>
+      <label class="ambient-volume" aria-label="Ambience volume"><span>VOL</span><input data-ambient-volume type="range" min="0" max="100" step="1" value="34"></label>
+    </div>
+    <div class="ambient-progress" aria-hidden="true"><span data-ambient-progress></span></div>
+    <div class="ambient-help"><span data-ambient-count>1 / 10</span> · The Minecraft Ember ambience playlist loops continuously once started.</div>
+  </div>
+</div><button class="primal-toggle" id="primal-toggle" type="button" aria-label="Enable Primal theme" aria-pressed="false" title="Primal mode">❧ <span>PRIMAL</span></button><button class="abyss-toggle" id="abyss-toggle" type="button" aria-label="Enable Abyss theme" aria-pressed="false" title="Abyss mode">≋ <span>ABYSS</span></button><button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle light or dark theme">◐</button></div>
     </header>
     <main id="main">
       {% if page.volume_slug %}
@@ -148,5 +169,6 @@
 </div>
 <script src="{{ '/assets/js/site.js' | relative_url }}?v=20260929-ec-palette-v4" defer></script>
 {% if page.url == '/timeline/' %}<script src="{{ '/assets/js/timeline.js' | relative_url }}?v=20261012-history-2" defer></script>{% endif %}
+  <script src="{{ '/assets/js/ambient-player.js' | relative_url }}?v=20261013-ambient-1" defer></script>
 </body>
 </html>
