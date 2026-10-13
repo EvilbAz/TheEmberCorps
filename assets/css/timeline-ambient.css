@@ -1,0 +1,62 @@
+/* Animated archive backdrop for the Timeline page. Kept isolated so the rest of the rules site stays lightweight. */
+.timeline-page{position:relative;isolation:isolate}
+.timeline-page>header,.timeline-page>nav,.timeline-page>section{position:relative;z-index:2}
+.history-ambient{position:fixed;inset:70px 0 0 280px;z-index:0;overflow:hidden;pointer-events:none;opacity:1;--history-drift:0px;--history-mouse-x:0px;--history-mouse-y:0px}
+.history-ambient:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,var(--bg) 0%,transparent 14%,transparent 86%,var(--bg) 100%);opacity:.82}
+.history-scene{position:absolute;inset:-8%;opacity:0;transform:scale(1.035);transition:opacity 1.15s ease,transform 1.6s ease;overflow:hidden}
+.history-scene.is-active{opacity:1;transform:scale(1)}
+.history-scene:before,.history-scene:after{content:"";position:absolute;inset:0}
+.history-scene:before{transform:translate3d(var(--history-mouse-x),calc(var(--history-drift) * -0.055),0);will-change:transform}
+.history-scene:after{transform:translate3d(calc(var(--history-mouse-x) * -.45),calc(var(--history-drift) * -0.028),0);will-change:transform}
+
+/* Before the Crown: ash, old hunt marks, distant trail-map rings. */
+.history-scene[data-era="before"]{background:radial-gradient(circle at 18% 32%,color-mix(in srgb,var(--accent) 8%,transparent),transparent 24%),radial-gradient(circle at 78% 68%,rgba(130,105,78,.08),transparent 30%)}
+.history-scene[data-era="before"]:before{background-image:radial-gradient(circle,rgba(232,215,186,.17) 0 1px,transparent 1.7px);background-size:71px 83px;opacity:.35;animation:history-ash 22s linear infinite}
+.history-scene[data-era="before"]:after{background:repeating-radial-gradient(ellipse at 14% 52%,transparent 0 42px,rgba(213,103,91,.045) 43px 44px,transparent 45px 82px);opacity:.7}
+
+/* The Crown: crystal fractures and subterranean pulses. */
+.history-scene[data-era="crown"]{background:radial-gradient(ellipse at 52% 52%,rgba(226,235,255,.085),transparent 19%),radial-gradient(ellipse at 52% 86%,color-mix(in srgb,var(--accent) 11%,transparent),transparent 40%)}
+.history-scene[data-era="crown"]:before{inset:-30%;background:repeating-conic-gradient(from 11deg at 53% 48%,transparent 0deg 17deg,rgba(232,241,255,.045) 18deg 18.5deg,transparent 19deg 34deg);animation:history-crystal-turn 38s linear infinite;opacity:.72}
+.history-scene[data-era="crown"]:after{inset:12% 8%;border:1px solid rgba(230,238,255,.07);clip-path:polygon(50% 0,60% 35%,94% 19%,67% 49%,100% 64%,62% 61%,71% 100%,50% 68%,28% 100%,38% 61%,0 64%,33% 49%,6% 19%,40% 35%);box-shadow:0 0 80px rgba(224,235,255,.05);animation:history-breathe 7s ease-in-out infinite}
+
+/* Beyond the Ruins: masonry, smoke and the beginnings of travel beyond Ember. */
+.history-scene[data-era="ruins"]{background:linear-gradient(14deg,rgba(90,103,108,.055) 0 1px,transparent 1px 70px),radial-gradient(circle at 82% 26%,rgba(79,147,177,.075),transparent 30%),radial-gradient(circle at 22% 77%,rgba(165,91,69,.07),transparent 32%)}
+.history-scene[data-era="ruins"]:before{background:repeating-linear-gradient(173deg,transparent 0 78px,rgba(170,183,188,.045) 79px 80px,transparent 81px 137px);animation:history-smoke 18s ease-in-out infinite alternate;filter:blur(.2px)}
+.history-scene[data-era="ruins"]:after{inset:56% -5% -15%;background:repeating-linear-gradient(90deg,transparent 0 95px,rgba(196,207,210,.045) 96px 98px),repeating-linear-gradient(0deg,transparent 0 46px,rgba(196,207,210,.035) 47px 49px);transform:perspective(500px) rotateX(59deg) translateY(calc(var(--history-drift) * -.025));opacity:.66}
+
+/* Present: controlled emberlight, rebuilt lines and a calmer pulse. */
+.history-scene[data-era="present"]{background:radial-gradient(circle at 50% 74%,color-mix(in srgb,var(--accent) 12%,transparent),transparent 34%),radial-gradient(circle at 82% 20%,color-mix(in srgb,var(--accent2) 7%,transparent),transparent 26%)}
+.history-scene[data-era="present"]:before{background-image:linear-gradient(rgba(210,222,225,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(210,222,225,.035) 1px,transparent 1px);background-size:88px 88px;mask-image:linear-gradient(to bottom,transparent 0,black 32%,black 78%,transparent 100%);animation:history-grid 26s linear infinite}
+.history-scene[data-era="present"]:after{inset:20%;border:1px solid color-mix(in srgb,var(--accent) 10%,transparent);border-radius:50%;box-shadow:0 0 0 55px color-mix(in srgb,var(--accent) 2%,transparent),0 0 0 110px color-mix(in srgb,var(--accent) 1.5%,transparent);animation:history-breathe 8s ease-in-out infinite}
+
+.history-motif{position:absolute;width:clamp(110px,16vw,250px);height:clamp(110px,16vw,250px);fill:none;stroke:currentColor;stroke-width:1.25;color:color-mix(in srgb,var(--accent) 18%,transparent);opacity:.55;filter:drop-shadow(0 0 20px color-mix(in srgb,var(--accent) 6%,transparent));will-change:transform}
+.history-motif.one{left:5%;top:13%;animation:history-float-a 16s ease-in-out infinite}
+.history-motif.two{right:4%;top:48%;width:clamp(150px,21vw,330px);height:clamp(150px,21vw,330px);opacity:.32;animation:history-float-b 21s ease-in-out infinite}
+.history-motif.three{left:39%;bottom:-3%;width:clamp(90px,12vw,185px);height:clamp(90px,12vw,185px);opacity:.22;animation:history-float-a 25s ease-in-out infinite reverse}
+.history-scene[data-era="crown"] .history-motif{color:rgba(228,238,255,.17)}
+.history-scene[data-era="ruins"] .history-motif{color:color-mix(in srgb,var(--accent2) 18%,transparent)}
+
+.history-dust{position:absolute;inset:0;overflow:hidden}
+.history-dust i{position:absolute;bottom:-30px;width:3px;height:3px;border-radius:50%;background:color-mix(in srgb,var(--accent) 45%,transparent);opacity:.25;animation:history-particle 15s linear infinite}
+.history-dust i:nth-child(1){left:8%;animation-delay:-2s;animation-duration:17s}.history-dust i:nth-child(2){left:19%;animation-delay:-11s;animation-duration:23s}.history-dust i:nth-child(3){left:37%;animation-delay:-5s;animation-duration:19s}.history-dust i:nth-child(4){left:52%;animation-delay:-14s;animation-duration:27s}.history-dust i:nth-child(5){left:68%;animation-delay:-7s;animation-duration:20s}.history-dust i:nth-child(6){left:81%;animation-delay:-16s;animation-duration:25s}.history-dust i:nth-child(7){left:92%;animation-delay:-9s;animation-duration:18s}
+
+/* Cards become memories surfacing from the archive rather than popping abruptly into view. */
+.timeline-entry{transition:opacity .65s ease,transform .65s cubic-bezier(.2,.75,.25,1),filter .65s ease}
+.timeline-entry.history-pending{opacity:.42;transform:translateY(24px);filter:saturate(.72)}
+.timeline-entry.history-visible{opacity:1;transform:translateY(0);filter:none}
+.timeline-entry.history-visible .history-event-icon{animation:history-icon-pulse .75s ease-out both}
+.history-watermark{transition:transform .5s ease-out,opacity .5s ease-out;transform:translateY(calc(var(--history-local-shift,0px) * -.05))}
+
+@keyframes history-ash{to{background-position:71px -166px}}
+@keyframes history-crystal-turn{to{transform:translate3d(var(--history-mouse-x),calc(var(--history-drift) * -0.055),0) rotate(360deg)}}
+@keyframes history-smoke{0%{translate:-1% 0;opacity:.35}100%{translate:2% -2%;opacity:.8}}
+@keyframes history-grid{to{background-position:88px 88px}}
+@keyframes history-breathe{0%,100%{opacity:.35;scale:.98}50%{opacity:.75;scale:1.025}}
+@keyframes history-float-a{0%,100%{transform:translate3d(0,0,0) rotate(-4deg)}50%{transform:translate3d(18px,-24px,0) rotate(5deg)}}
+@keyframes history-float-b{0%,100%{transform:translate3d(0,0,0) rotate(7deg)}50%{transform:translate3d(-22px,28px,0) rotate(-4deg)}}
+@keyframes history-particle{0%{transform:translate3d(0,0,0) scale(.7);opacity:0}15%{opacity:.3}85%{opacity:.12}100%{transform:translate3d(28px,-110vh,0) scale(1.35);opacity:0}}
+@keyframes history-icon-pulse{0%{filter:drop-shadow(0 0 0 transparent);transform:scale(.88)}55%{filter:drop-shadow(0 0 11px color-mix(in srgb,var(--accent) 45%,transparent));transform:scale(1.07)}100%{filter:none;transform:scale(1)}}
+
+@media(max-width:980px){.history-ambient{left:0;top:70px}.history-motif{opacity:.34}.history-scene:before,.history-scene:after{opacity:.58}}
+@media(max-width:640px){.history-ambient{top:70px}.history-ambient:after{background:linear-gradient(90deg,var(--bg) 0%,transparent 9%,transparent 91%,var(--bg) 100%);opacity:.9}.history-motif{width:150px;height:150px}.history-motif.two{width:210px;height:210px}.history-scene{inset:-5%}.timeline-entry.history-pending{transform:translateY(14px);opacity:.58}}
+@media(prefers-reduced-motion:reduce){.history-scene,.history-scene:before,.history-scene:after,.history-motif,.history-dust i,.timeline-entry,.history-event-icon{animation:none!important;transition:none!important;transform:none!important}.timeline-entry.history-pending{opacity:1;filter:none}.history-scene.is-active{opacity:.7}}
