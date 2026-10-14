@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/apply_jugo_clarity_pass.py'
-      - '.github/workflows/apply-jugo-clarity-pass.yml'
+      - 'scripts/jugo_clarity_trigger.txt'
 
 permissions:
   contents: write
