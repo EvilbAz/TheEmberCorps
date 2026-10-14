@@ -2884,6 +2884,8 @@ Each Downtime cycle is one real-world week. You earn 2 Downtime Slots per week f
 * Participate in a Mission  
 * Complete a Hunt
 
+**Spar + Roleplay Bonus:** If, during the same Downtime cycle, you earn both the Spar Downtime Slot and the 6-hours-of-RP Downtime Slot, you gain **1 additional bonus Downtime Slot**, provided you claimed at least **1 Roleplay Beat** from RP during that week. This bonus can raise your total to a maximum of **7 Downtime Slots** for that cycle.
+
 Whenever you complete a Downtime action using a slot, you gain 5 XP.
 
 ### Rest and Time
