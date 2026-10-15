@@ -67,7 +67,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#choose-skills",
-    "text": "A new character gains Skill Points from their Total XP using the normal progression: 1 per 20 XP from 0–1,000 XP, 1 per 25 XP from 1,000–3,000 XP, and 1 per 30 XP above 3,000 XP. These Skill Points can be sp"
+    "text": "A new character gains 1 Skill Point for every 18 XP. These Skill Points can be spent on any of the game's 12 skills."
   },
   {
     "title": "Experience Costs",
@@ -7333,7 +7333,7 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#jugo-s-bloodline",
-    "text": "CANON BLOODLINE - RARE Descendants of Jūgo’s bloodline absorb natural energy involuntarily. It reshapes their bodies into weapons and armour, but can also provoke violent instincts. The Corps trains and moni"
+    "text": "CANON BLOODLINE - RARE Descendants of Jūgo’s bloodline absorb natural energy involuntarily. Their bodies can reconfigure into weapons, armour and chakra-driven organs, but the same instincts can become dange"
   },
   {
     "title": "Passives",
@@ -7347,42 +7347,35 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#instinct-surge",
-    "text": "Senninka never causes the GM to take control of the character. If you reach 0 WP while Senninka is active, you gain Bloodlust: until you recover WP or end Senninka, you must spend each Action attacking, purs"
+    "text": "Senninka never causes the GM to take control of your character. If you reach 0 WP while Senninka is active, you gain Bloodlust. Until you recover WP or end Senninka, each non-Interrupt Action must attack, pu"
   },
   {
     "title": "Mutation Library",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#mutation-library",
-    "text": "Carapace: gain DR 5 per Shape Change rank used on it, maximum DR 30. You cannot apply it to the same body region as Weapon Form. Sensory Horns: gain +3 Awareness and Chakra Control for Search actions per ran"
+    "text": "The following are ordinary Shape Change mutations and use Mutation Ranks normally: - Carapace — Torso: Assign 1 or more MR to the torso. Gain DR 5 per MR assigned. This DR does not stack with Sage Carapace; "
   },
   {
     "title": "Natural Mutation",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#natural-mutation",
-    "text": "Keijō Henka - Shape Change is an inherent Jūgo bloodline feature with 3 fixed Shape Change ranks rather than a purchasable Ability. As a Speed 2 action, you can transmute up to one limb or body region at a t"
+    "text": "Keijō Henka - Shape Change is an inherent bloodline feature rather than a purchasable Ability. You have 3 Mutation Ranks (MR). Mutation Ranks are a pool: the total MR assigned across your body can never exce"
   },
   {
     "title": "Passive Sage Chakra",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#passive-sage-chakra",
-    "text": "Your body begins each combat with 1 Sage Charge (SC) and gains 1 SC every 20 IC, to a maximum equal to current Willpower, even before Senninka is activated. Existing Senninka rules still accelerate this gene"
+    "text": "Your Sage Charge maximum is equal to your maximum Willpower, not your current remaining Willpower. You begin each combat with 1 SC. From the beginning of combat, track Sage Progress. Each IC adds 1 Sage Prog"
   },
   {
     "title": "Abilities",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#abilities-28",
-    "text": ""
-  },
-  {
-    "title": "No Heritage-specific purchasable abilities.",
-    "volume": "Clans & Lineages",
-    "number": "III",
-    "url": "/rules/clans/#no-heritage-specific-purchasable-abilities",
-    "text": ""
+    "text": "No Heritage-specific purchasable abilities."
   },
   {
     "title": "Jutsu",
@@ -7396,63 +7389,63 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#kassokuken-piston-fist",
-    "text": "Type: Taijutsu, Rank E Stamina: +5 Damage: +2d8 Speed: +2 Tags: Link, Melee, Blunt Effects Link to one Basic Unarmed Attack or Unarmed/Combo Taijutsu that uses an arm. Declare it with that Attack and add the"
+    "text": "Type: Taijutsu, Rank E Stamina: +5 Damage: +2d8 Speed: +2 Tags: Link, Melee, Blunt Effects Link to one Basic Unarmed Attack or Unarmed/Combo Taijutsu that uses an arm. Declare Piston Fist with that Attack an"
   },
   {
     "title": "Masakari - Weapon Form",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#masakari-weapon-form",
-    "text": "Type: Taijutsu, Rank D Chakra: 12 Upkeep: 2 Speed: 6 Tags: Utility, Self, Creation Effects Turn one arm into a Small or Medium Melee Weapon. Choose its unmodified size and weapon-class profile from Equipment"
+    "text": "Type: Taijutsu, Rank D Chakra: 12 Upkeep: 2 Speed: 6 Tags: Utility, Self, Transformation Effects Turn one arm into a Small or Medium Melee Weapon. Choose an unmodified weapon-class profile from Equipment and"
   },
   {
     "title": "Jet Booster",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#jet-booster",
-    "text": "Type: C Rank - Taijutsu Chakra: 15 Special Upkeep: 4 Speed: 8 Tags: Utility Effects Using Shape Change, you create a jet-like appendage which emits bursts of chakra allowing you to dash around the battlefiel"
+    "text": "Type: Taijutsu, Rank C Chakra: 15 Special Upkeep: 4 Speed: 8 Tags: Utility, Self, Transformation Effects Grow chakra-venting jets from an arm, leg, or your back. Choose the mounting region when activated. Th"
   },
   {
     "title": "Sage Art: Jet Barrage",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#sage-art-jet-barrage",
-    "text": "Type: Taijutsu, Rank C Stamina: 18 Chakra: 16 Damage: 7d10 Speed: 10 Range: 12 Tags: Attack, Projectile, Blunt Effects Fire three compressed chakra blasts from temporary jets. You can spend up to 3 SC; each "
+    "text": "Type: Taijutsu, Rank C Stamina: 18 Chakra: 16 Damage: 7d10 Speed: 10 Range: 12 Tags: Attack, Projectile, Blunt Effects Fire three compressed chakra blasts and make one Taijutsu Projectile Attack. When declar"
   },
   {
     "title": "Sage Carapace",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#sage-carapace",
-    "text": "Type: Ninjutsu, Rank C Chakra: 20 Upkeep: 4 Speed: 7 Tags: Utility, Self Effects Grow a reinforced shell. Gain DR 20 and +3 Resistance against Knockback, Stun, and physical Immobilization. Spending 1 SC when"
+    "text": "Type: Ninjutsu, Rank C Chakra: 20 Upkeep: 4 Speed: 7 Tags: Utility, Self, Transformation Effects Grow a reinforced shell. Gain DR 20 and +3 Resistance against Knockback, Stun and physical Immobilization. Sag"
   },
   {
     "title": "Saibō Kyūin - Cellular Regeneration Absorption",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#saibo-kyuin-cellular-regeneration-absorption",
-    "text": "Type: Taijutsu, Rank B Stamina: 24 Damage: As Basic Unarmed + (Control)d8 Speed: 12 Special: Control 5 Tags: Submission, Healing Effects Use while pinning a living target. Spend Control 5 and make the normal"
+    "text": "Type: Taijutsu, Rank B Stamina: 24 Damage: As Basic Unarmed + (Control)d8 Speed: 12 Special: Control 5 Tags: Submission, Healing Effects Use while Pinning a living target. Spend Control 5 and make the normal"
   },
   {
     "title": "Saibō Haishutsu - Cellular Regeneration Ejection",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#saibo-kyuin-cellular-regeneration-ejection",
-    "text": "Type: Ninjutsu, Rank B Chakra: 24 Speed: 10 Range: Touch Tags: Utility, Healing Effects Touch a willing living creature other than yourself and choose 1–3 SC. Pay Chakra, spend the charges and lose RES/2 HP "
+    "text": "Type: Ninjutsu, Rank B Chakra: 24 Speed: 10 Range: Touch Tags: Utility, Healing Effects Touch a willing living creature other than yourself and choose 1–3 SC. Spend those charges and lose RES/2 HP per SC, ro"
   },
   {
     "title": "Saibō Saisei - Cellular Rebirth",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#saibo-saisei-cellular-rebirth",
-    "text": "Type: Ninjutsu, Rank B Chakra: 26 Speed: 12 Tags: Utility, Healing, Self Effects Spend up to 3 SC. Recover RES x 2 Vitality per SC. If you spend 3 SC, you can instead remove one Minor Blunt, Piercing, or Sla"
+    "text": "Type: Ninjutsu, Rank B Chakra: 26 Speed: 12 Tags: Utility, Healing, Self Effects Spend 1–3 SC. Recover RES × 2 Vitality per SC spent, up to your maximum. If you spend exactly 3 SC, you may instead remove one"
   },
   {
     "title": "Senninka - Sage Transformation",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#senninka-sage-transformation",
-    "text": "Type: Ninjutsu, Rank A Chakra: 20 Special Upkeep: 10 Speed: 10 Tags: Utility, Self, Transformation Effects Enter Sage Transformation after paying Chakra. Gain 2 SC, up to your current Willpower; gain these a"
+    "text": "Type: Ninjutsu, Rank A Chakra: 20 Special Upkeep: 10 Speed: 10 Tags: Utility, Self, Transformation Effects Enter Sage Transformation after paying Chakra. The first time you activate Senninka each combat, gai"
   },
   {
     "title": "Iburi",
@@ -18736,7 +18729,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/genjutsu/#requirements-3",
-    "text": "Genjutsu requires specialised training and has no affinity. The requirements for using Genjutsu of a given rank are listed below. Additionally all Genjutsu require the Genjutsu Training ability. E: Genjutsu "
+    "text": "Genjutsu requires specialised training. Ordinary Elemental Affinity does not apply to Genjutsu, but Uchiha may choose Genjutsu Affinity through their Starting Features. Genjutsu Affinity applies to either Di"
   },
   {
     "title": "Genjutsu Rolls",
@@ -22041,5 +22034,33 @@
     "number": "I",
     "url": "/rules/wounds/#81-100-melted-leg-legs",
     "text": "Your clothing and leg were both burnt so horridly that it's hard to tell where one ends and the other begins. Much to your displeasure, you can still feel the limb--or, rather, the mass of agonizing pain whe"
+  },
+  {
+    "title": "How This Heritage Works",
+    "volume": "Clans & Lineages",
+    "number": "III",
+    "url": "/rules/clans/#how-jugo-works",
+    "text": "Jūgo characters revolve around two resources: - Mutation Ranks (MR): how much of your body is currently committed to ordinary Shape Change mutations. You normally have 3 MR. MR are allocated, not spent; rest"
+  },
+  {
+    "title": "Combat Morph",
+    "volume": "Clans & Lineages",
+    "number": "III",
+    "url": "/rules/clans/#jugo-combat-morph",
+    "text": "When you use Shape Change on an arm or leg, you may form it into a natural weapon and assign 1 or more MR to that region. Until the end of your next non-Interrupt Action, the next Unarmed or Combo Taijutsu A"
+  },
+  {
+    "title": "Tool Morph",
+    "volume": "Clans & Lineages",
+    "number": "III",
+    "url": "/rules/clans/#jugo-tool-morph",
+    "text": "Outside combat, Shape Change can form a limb into a mundane tool or object you can clearly picture, provided it fits within a 1-yard cube and does not reproduce ammunition, consumables, medicine, explosives,"
+  },
+  {
+    "title": "Adaptive Mutation",
+    "volume": "Clans & Lineages",
+    "number": "III",
+    "url": "/rules/clans/#adaptive-mutation",
+    "text": "After a hostile Action inflicts a Wound, Immobilization, Stun, or forced movement on you, gain 1 temporary SC and you may immediately use Shape Change on one body region as a Speed 0 Interrupt. A temporary S"
   }
 ]

@@ -16,7 +16,9 @@ permalink: "/rules/jutsu/genjutsu/"
 ### Requirements
 {:#requirements-3}
 
-Genjutsu requires specialised training and has no affinity.
+Genjutsu requires specialised training. Ordinary Elemental Affinity does not apply to Genjutsu, but Uchiha may choose Genjutsu Affinity through their Starting Features.
+
+Genjutsu Affinity applies to either Diplomacy or Research when checking learning requirements, not both. Each Affinity rank reduces the chosen skill's requirement by 1. Count the reduction only once when checking a combined Diplomacy + Research requirement.
 
 The requirements for using Genjutsu of a given rank are listed below. Additionally all Genjutsu require the Genjutsu Training ability.
 

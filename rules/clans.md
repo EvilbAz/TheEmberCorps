@@ -8004,6 +8004,7 @@ Skeletal Modifications: Any three.
 **Starting Features**
 
 * Uchiha begin with Elemental Aptitude for Katon and Elemental Affinity for Katon or Genjutsu.
+* Genjutsu Affinity applies to either Diplomacy or Research when checking Genjutsu learning requirements, not both. Each Affinity rank reduces the chosen skill's requirement by 1. Count the reduction only once when checking a combined Diplomacy + Research requirement.
 
 ## Passives
 {:#passives-8}

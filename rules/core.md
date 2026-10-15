@@ -127,7 +127,7 @@ A new character starts with 20 in all Attributes. They also begin with 25 points
 ## Choose Skills
 {:#choose-skills}
 
-A new character gains Skill Points from their Total XP using the normal progression: 1 per 20 XP from 0–1,000 XP, 1 per 25 XP from 1,000–3,000 XP, and 1 per 30 XP above 3,000 XP. These Skill Points can be spent on any of the game's 12 skills.
+A new character gains 1 Skill Point for every 18 XP. These Skill Points can be spent on any of the game's 12 skills.
 
 ## Experience Costs
 {:#experience-costs}
@@ -297,11 +297,11 @@ Skills measure broad competencies. Describe how your character uses a Skill, the
 
 Your skills all have a limit of 5 \+(your total XP)/200 Ranks. A lot of them benefit from practical application and general worldliness. Actually increasing your skills up to that limit, however, requires you to spend skill points.
 
-You get 1 Skill Point for every 20 XP you gain from 0–1,000 XP. From 1,000–3,000 XP, you gain 1 Skill Point for every 25 XP. Above 3,000 XP, you gain 1 Skill Point for every 30 XP. This happens automatically, for free, and you cannot buy more Skill Points.
+You gain 1 Skill Point for every 18 XP that you gain.
 
 A single skill point raises a single skill by one rank.
 
-For example, if you had 600 XP you would have a total of (600 /20 \=) 30 Skill Points, and you could raise any of your skills up to rank (5 \+ 600/200 \= ) 8\. You could use this to raise Stealth to 8, Awareness to 6, Chakra Control to 6, Resistance to 5, and Survival to 5 (8 \+ 6 \+ 6 \+ 5 \+ 5 \= 30). A skill roll is 1d20 \+ your ranks in the skill. Even if you have not raised a skill beyond zero, you may still make a plain 1d20 roll when attempting a task that calls for that skill.
+For example, at 600 XP you have 33 Skill Points (600 /18, rounded down), and each skill has a maximum rank of 8 (5 \+ 600/200). You could raise Stealth to 8, Awareness to 7, Chakra Control to 7, Resistance to 6, and Survival to 5 (8 \+ 7 \+ 7 \+ 6 \+ 5 \= 33). A skill roll is 1d20 \+ your ranks in the skill. Even if you have not raised a skill beyond zero, you may still make a plain 1d20 roll when attempting a task that calls for that skill.
 
 ### Athletics
 {:#athletics}
