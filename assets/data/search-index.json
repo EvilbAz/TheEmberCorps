@@ -3294,7 +3294,7 @@
     "volume": "Uniques",
     "number": "II",
     "url": "/rules/uniques/#skilled-shinobi",
-    "text": "Your Skill Point total is total XP divided by 19, rounded down, replacing the ordinary rate. When purchasing Skill Focus, reduce the number of ranks already held in that particular Skill Focus by floor(total"
+    "text": "Gain bonus Skill Points equal to total XP divided by 80, rounded down, in addition to the normal one Skill Point per 20 XP. When purchasing Skill Focus, reduce the number of ranks already held in that partic"
   },
   {
     "title": "Specialist",

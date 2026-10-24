@@ -153,9 +153,9 @@ Skill Focus has Scale 3 for you. You gain Specialization in every skill without 
 ### Skilled Hunter
 {:#skilled-shinobi}
 
-Your Skill Point total is total XP divided by 19, rounded down, replacing the ordinary rate. When purchasing Skill Focus, reduce the number of ranks already held in that particular Skill Focus by floor(total XP/1,000), minimum 0, for its Scale calculation only. Your actual ranks, prerequisites and global surcharge are unchanged. Recalculate the cost of all purchased Skill Focus ranks at your current total XP; freed Skill Points may be reassigned between scenes.
+Gain bonus Skill Points equal to total XP divided by 80, rounded down, in addition to the normal one Skill Point per 20 XP. When purchasing Skill Focus, reduce the number of ranks already held in that particular Skill Focus by floor(total XP/1,000), minimum 0, for its Scale calculation only. Your actual ranks, prerequisites and global surcharge are unchanged. Recalculate the cost of all purchased Skill Focus ranks at your current total XP; freed Skill Points may be reassigned between scenes.
 
-For example, at 2,000 XP your first three ranks in each Skill Focus cost its base 2 Skill Points each before the global surcharge. Later ranks resume normal scaling. Skilled Hunter has no Accuracy penalty.
+For example, at 2,000 XP you have 100 base Skill Points plus 25 bonus Skill Points. Your first three ranks in each Skill Focus cost its base 2 Skill Points each before the global surcharge. Later ranks resume normal scaling. Skilled Hunter has no Accuracy penalty.
 
 ### Specialist
 {:#specialist}

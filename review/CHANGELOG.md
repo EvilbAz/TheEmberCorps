@@ -47,10 +47,10 @@ The base Skill Point rate changes from **one per 18 XP** to **one per 20 XP**. R
 
 | Total XP | Previous base SP | New base SP | New Skilled Hunter SP |
 | ---: | ---: | ---: | ---: |
-| 500 | 27 | 25 | 26 |
-| 1,000 | 55 | 50 | 52 |
-| 2,000 | 111 | 100 | 105 |
-| 3,000 | 166 | 150 | 157 |
+| 500 | 27 | 25 | 31 |
+| 1,000 | 55 | 50 | 62 |
+| 2,000 | 111 | 100 | 125 |
+| 3,000 | 166 | 150 | 187 |
 
 Starting XP remains **500**.
 
@@ -106,7 +106,7 @@ Skilled Hunter is completely reworked.
 
 **New benefits:**
 
-1. Skill Points equal **floor(total XP/19)** instead of the ordinary XP/20 rate.
+1. Gain **floor(total XP/80)** bonus Skill Points in addition to the ordinary **floor(total XP/20)** base.
 2. For each Skill Focus purchase, calculate Scale as though you held **floor(total XP/1,000) fewer existing ranks** in that particular Focus, minimum zero.
 
 Actual ranks, prerequisites and the surcharge from Focus in other skills remain unchanged. Recalculate invested Focus costs using current total XP; freed Skill Points may be reassigned between scenes.
@@ -532,7 +532,7 @@ Three Hunters contribute Speed 8, 10 and 12 Attacks: 30 preparation IC are neede
 
 - Add Ninshou and Lore to the **main Character Profile and Combat Stats skill tables**, with base ranks, Focus, totals, caps, SP spending and prerequisite links.
 - Add their Skill Focus and Specialization entries.
-- Apply XP/20 and Skilled Hunter’s XP/19 SP rates with rounding down.
+- Apply floor(XP/20) base SP and add floor(XP/80) bonus SP for Skilled Hunter.
 - Apply Genius’s Scale 3 Focus and Skilled Hunter’s rank discount; remove Skilled Hunter’s former Accuracy and cap modifiers.
 - Correct stale purchased-Specialization cost/floor entries to the rules’ 10 XP and natural-result floor of 8.
 - Apply paired elemental learning gates throughout the populated Jutsu Engine.
@@ -559,7 +559,7 @@ Three Hunters contribute Speed 8, 10 and 12 Attacks: 30 preparation IC are neede
 
 When applying this release:
 
-1. Recalculate total SP at XP/20, or XP/19 for Skilled Hunter, rounding down.
+1. Recalculate base SP at floor(XP/20), adding floor(XP/80) bonus SP for Skilled Hunter.
 2. Recalculate Skill Focus costs, including Genius and Skilled Hunter changes, and reconcile spending with the new total.
 3. Allocate Ninshou and Lore ranks through the main skill table; review elemental eligibility against both skills and the combined minimum.
 4. Apply the new Genius Specializations and remove Skilled Hunter’s old Accuracy and universal cap modifiers.

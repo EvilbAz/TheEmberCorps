@@ -37,3 +37,11 @@ Updated the existing public v2.2 template in place.
 ## Website
 
 Removed the standalone updates page, its dedicated layout, homepage announcement, sidebar link and generated search entries. The rules and template link remain in their normal sections.
+
+## Original-style sheet and Skilled Hunter follow-up
+
+The original character sheet now uses the v2.2 skills, formulas, named ranges, technique catalogue, builders, dropdowns and Skills and Teamwork reference tab. Its grey headers, blue calculated cells, white inputs and original layout style are retained. Formula coverage extends through Jutsu row 1023.
+
+Both sheets now award floor(XP/20) base SP. Skilled Hunter (including the legacy Skilled Shinobi selection) adds floor(XP/80) bonus SP; its Skill Focus discount is unchanged. This supersedes the XP/19 totals in the earlier test record.
+
+Verified live: 500 XP gives 25 base + 6 bonus SP; 2,000 XP gives 100 base + 25 bonus SP. Three ranks of one Skill Focus at 2,000 XP cost 6 SP before the global surcharge. Ninshou and Lore feed Combat Stats; both Chakra Control and Ninshou feed elemental unlocks. The last Jutsu row resolves a selected technique. The original workbook's 33 tabs returned no calculated cell errors. Test inputs were restored to the blank 500 XP template. The profile was visually inspected.
