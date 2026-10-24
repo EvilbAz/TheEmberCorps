@@ -130,7 +130,7 @@ Skill Focus has Scale 3 for you. You gain Specialization in every skill without 
 
 *When rolling checks related to studying non-human creatures, you gain advantage.*
 
-*Survival may replace Ninshou for prerequisites of ordinary Elemental Ninjutsu. Chakra Control and the combined skill minimum remain required. Reduce maximum Research ranks by 3\.*
+*You may learn ordinary Elemental Ninjutsu using Survival alone: 5 ranks for D-rank, 10 for C-rank, 20 for B-rank and 30 for A-rank. This replaces the Chakra Control, Ninshou and combined skill requirements. Elemental Affinity reduces the Survival requirement by its rank. Reduce maximum Research ranks by 3\.*
 
 *You also suffer a \-3 to all Genjutsu Rolls*
 

@@ -181,7 +181,7 @@ To learn ordinary Elemental Ninjutsu, meet both individual skill minima and the 
 
 Elemental Affinity reduces one individual minimum and the combined minimum by its rank, each to a minimum of 0. It does not reduce both individual minima. Genuine Skill Focus ranks count; bonuses to skill rolls do not. Heritage-granted Elemental Aptitudes grant elemental access but do not waive these learning requirements. Explicit access to a particular Heritage technique remains governed by that technique.
 
-Genius may qualify for the next Jutsu rank using the preceding rank's skill thresholds, retaining its +3 use-cost surcharge. At E-rank qualification it may reach D-rank, but still needs the relevant Elemental Aptitude. Naturalist may use Survival instead of Ninshou for ordinary Elemental Ninjutsu; Chakra Control and the combined minimum remain required. Mentor exemption requires at least 150% of both individual minima and the combined minimum, rounded up, after Affinity.
+Genius may qualify for the next Jutsu rank using the preceding rank's skill thresholds, retaining its +3 use-cost surcharge. At E-rank qualification it may reach D-rank, but still needs the relevant Elemental Aptitude. Naturalist may qualify with Survival alone, using the individual minima in the table (D 5, C 10, B 20, A 30), reduced by Elemental Affinity. This replaces both skills and the combined minimum. Mentor exemption requires at least 150% of both individual minima and the combined minimum, rounded up, after Affinity; when using Naturalist, apply 150% to its Survival requirement instead.
 
 ## Elemental Strength and Weaknesses
 {:#elemental-strength-and-weaknesses}

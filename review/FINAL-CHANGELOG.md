@@ -115,7 +115,7 @@ At 2,000 XP, the first three ranks of each Focus cost the base **2 SP each**, be
 
 ### Naturalist
 
-Survival may replace **Ninshou** for ordinary elemental prerequisites. Chakra Control and the combined minimum remain required. Naturalist’s other benefits and drawbacks remain as printed.
+Naturalist may qualify for ordinary Elemental Ninjutsu with **Survival alone**: D 5, C 10, B 20 and A 30. This replaces both skill prerequisites and the combined minimum. Elemental Affinity reduces the Survival requirement. Naturalist’s other benefits and drawbacks remain as printed.
 
 ## 3. Skill actions
 
