@@ -1,0 +1,3434 @@
+[
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 16,
+        "columnIndex": 13
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=OR(COUNTIF(CHAR_UNIQUES,\"Skilled Hunter\")>0,COUNTIF(CHAR_UNIQUES,\"Skilled Shinobi\")>0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 16,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDDOWN(CHAR_XP/IF(U_SKILLED,19,20),0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 16,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN(5+CHAR_XP/200,0)+FOCUS_ATHLETICS+IF(COUNTIF(CHAR_UNIQUES,\"Weight Trainer\")>0,1,0)-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>$A17),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35=TRUE,Talents!$G$35=$A17),2,0)+IF(AND(Talents!$A$184=TRUE,Talents!$E$184=$A17),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 17,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN(5+CHAR_XP/200,0)+FOCUS_AWARENESS+IF(COUNTIF(CHAR_UNIQUES,\"Alert\")>0,2,0)-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>$A18),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35=TRUE,Talents!$G$35=$A18),2,0)+IF(AND(Talents!$A$184=TRUE,Talents!$E$184=$A18),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 18,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN(5+CHAR_XP/200,0)+FOCUS_CHAKRA_CONTROL+IF(COUNTIF(CHAR_UNIQUES,\"Chakra Sensitive\")>0,3,0)+IF(COUNTIF(CHAR_UNIQUES,\"Chakra Sensor\")>0,3,0)+IF(COUNTIF(CHAR_UNIQUES,\"Jutsu Master\")>0,3,0)+IF(COUNTIF(CHAR_UNIQUES,\"Single-Handed Seals\")>0,2,0)-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>$A19),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35=TRUE,Talents!$G$35=$A19),2,0)+IF(AND(Talents!$A$184=TRUE,Talents!$E$184=$A19),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 19,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN(5+CHAR_XP/200,0)+FOCUS_ESPIONAGE-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>$A20),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35=TRUE,Talents!$G$35=$A20),2,0)+IF(AND(Talents!$A$184=TRUE,Talents!$E$184=$A20),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 20,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN(5+CHAR_XP/200,0)+FOCUS_MEDICINE+IF(COUNTIF(CHAR_UNIQUES,\"Combat Medic\")>0,3,0)-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>$A21),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35=TRUE,Talents!$G$35=$A21),2,0)+IF(AND(Talents!$A$184=TRUE,Talents!$E$184=$A21),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 21,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN(5+CHAR_XP/200,0)+FOCUS_RESEARCH-IF(COUNTIF(CHAR_UNIQUES,\"Naturalist\")>0,3,0)+IF(U_ANALYST,5,0)-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(Talents!$A$35=TRUE,Talents!$G$35=$A22),2,0)+IF(AND(Talents!$A$184=TRUE,Talents!$E$184=$A22),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 22,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN(5+CHAR_XP/200,0)+FOCUS_RESISTANCE+IF(COUNTIF(CHAR_UNIQUES,\"Tenacious\")>0,3,0)-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>$A23),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35=TRUE,Talents!$G$35=$A23),2,0)+IF(AND(Talents!$A$184=TRUE,Talents!$E$184=$A23),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 23,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN(5+CHAR_XP/200,0)+FOCUS_STEALTH+IF(COUNTIF(CHAR_UNIQUES,\"Skirmisher\")>0,3,0)-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>$A24),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35=TRUE,Talents!$G$35=$A24),2,0)+IF(AND(Talents!$A$184=TRUE,Talents!$E$184=$A24),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 24,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN(5+CHAR_XP/200,0)+FOCUS_SURVIVAL+IF(COUNTIF(CHAR_UNIQUES,\"Naturalist\")>0,3,0)-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>$A25),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35=TRUE,Talents!$G$35=$A25),2,0)+IF(AND(Talents!$A$184=TRUE,Talents!$E$184=$A25),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 25,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN(5+CHAR_XP/200,0)+FOCUS_TOXICOLOGY+IF(COUNTIF(CHAR_UNIQUES,\"Chemist\")>0,3,0)-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>$A26),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35=TRUE,Talents!$G$35=$A26),2,0)+IF(AND(Talents!$A$184=TRUE,Talents!$E$184=$A26),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 26,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN(5+CHAR_XP/200,0)+FOCUS_DIPLOMACY+IF(OR(COUNTIF(CHAR_UNIQUES,\"Silver Tongued\")>0,COUNTIF(CHAR_UNIQUES,\"Imposing Presence\")>0),1,0)+IF(COUNTIF(CHAR_UNIQUES,\"Imposing Presence\")>0,2,0)-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>$A27),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35=TRUE,Talents!$G$35=$A27),2,0)+IF(AND(Talents!$A$184=TRUE,Talents!$E$184=$A27),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 27,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN(5+CHAR_XP/200,0)+FOCUS_ARTISAN+IF(COUNTIF(CHAR_UNIQUES,\"Chemist\")>0,3,0)-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>$A28),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35=TRUE,Talents!$G$35=$A28),2,0)+IF(AND(Talents!$A$184=TRUE,Talents!$E$184=$A28),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "copyPaste": {
+      "source": {
+        "sheetId": 2086603970,
+        "startRowIndex": 15,
+        "endRowIndex": 18,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "destination": {
+        "sheetId": 2086603970,
+        "startRowIndex": 64,
+        "endRowIndex": 67,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "pasteType": "PASTE_FORMAT"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 64,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "New Skills"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 64,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Base Ranks"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 64,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Focus Ranks"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 64,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Total Ranks"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 64,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Max Ranks"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 65,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Ninshou"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 65,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 65,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=Abilities!C132"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 65,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(AND(U_APPLIED_KNOWLEDGE,$B$30=A66),$D$22+C66,B66+C66)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 65,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,5+ROUNDDOWN(CHAR_XP/200,0)+C66-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>A66),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35, Talents!$G$35=A66),2,0)+IF(AND(Talents!$A$184,Talents!$E$184=A66),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "addNamedRange": {
+      "namedRange": {
+        "name": "RANK_NINSHOU",
+        "range": {
+          "sheetId": 2086603970,
+          "startRowIndex": 65,
+          "endRowIndex": 66,
+          "startColumnIndex": 3,
+          "endColumnIndex": 4
+        }
+      }
+    }
+  },
+  {
+    "addNamedRange": {
+      "namedRange": {
+        "name": "FOCUS_NINSHOU",
+        "range": {
+          "sheetId": 1708751373,
+          "startRowIndex": 131,
+          "endRowIndex": 132,
+          "startColumnIndex": 2,
+          "endColumnIndex": 3
+        }
+      }
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 66,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Lore"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 66,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 66,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=Abilities!C133"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 66,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(AND(U_APPLIED_KNOWLEDGE,$B$30=A67),$D$22+C67,B67+C67)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 66,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,5+ROUNDDOWN(CHAR_XP/200,0)+C67-IF(COUNTIF(CHAR_UNIQUES,\"Energetic\")>0,2,0)+IF(AND(U_APPLIED_KNOWLEDGE,$B$30<>A67),MIN(ROUNDDOWN(RANK_RESEARCH/10,0),10),0)+IF(AND(Talents!$A$35, Talents!$G$35=A67),2,0)+IF(AND(Talents!$A$184,Talents!$E$184=A67),3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "addNamedRange": {
+      "namedRange": {
+        "name": "RANK_LORE",
+        "range": {
+          "sheetId": 2086603970,
+          "startRowIndex": 66,
+          "endRowIndex": 67,
+          "startColumnIndex": 3,
+          "endColumnIndex": 4
+        }
+      }
+    }
+  },
+  {
+    "addNamedRange": {
+      "namedRange": {
+        "name": "FOCUS_LORE",
+        "range": {
+          "sheetId": 1708751373,
+          "startRowIndex": 132,
+          "endRowIndex": 133,
+          "startColumnIndex": 2,
+          "endColumnIndex": 3
+        }
+      }
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 18,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=SUM(B17:B28,B66:B67)-IF(U_APPLIED_KNOWLEDGE,IFERROR(INDEX(B17:B28,MATCH(B30,A17:A28,0)),IFERROR(INDEX(B66:B67,MATCH(B30,A66:A67,0)),0)),0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 68,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Genius: free Specialization in every skill; minimum natural roll 8 outside combat. Paid Specialization also applies in combat."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "mergeCells": {
+      "range": {
+        "sheetId": 2086603970,
+        "startRowIndex": 68,
+        "endRowIndex": 70,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "mergeType": "MERGE_ALL"
+    }
+  },
+  {
+    "repeatCell": {
+      "range": {
+        "sheetId": 2086603970,
+        "startRowIndex": 68,
+        "endRowIndex": 70,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "cell": {
+        "userEnteredFormat": {
+          "wrapStrategy": "WRAP"
+        }
+      },
+      "fields": "userEnteredFormat.wrapStrategy"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 131,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Skill Focus: Ninshou"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 131,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN((RANK_NINSHOU-C132)/4,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 132,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Skill Focus: Lore"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 132,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(0,ROUNDDOWN((RANK_LORE-C133)/4,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 107,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 107,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C108-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C108*F108+G108*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 107,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 108,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 108,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C109-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C109*F109+G109*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 108,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 109,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 109,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C110-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C110*F110+G110*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 109,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 110,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 110,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C111-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C111*F111+G111*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 110,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 111,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 111,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C112-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C112*F112+G112*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 111,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 112,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 112,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C113-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C113*F113+G113*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 112,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 113,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 113,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C114-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C114*F114+G114*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 113,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 114,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 114,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C115-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C115*F115+G115*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 114,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 115,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 115,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C116-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C116*F116+G116*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 115,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 116,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 116,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C117-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C117*F117+G117*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 116,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 117,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 117,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C118-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C118*F118+G118*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 117,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 118,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 118,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C119-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C119*F119+G119*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 118,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 131,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 131,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C132-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C132*F132+G132*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 131,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 132,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(U_GENIUS,3,1)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 132,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,C133-1-IF(U_SKILLED,ROUNDDOWN(CHAR_XP/1000,0),0)),C133*F133+G133*n*(n+1)/2)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 132,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Each rank adds +1 actual Skill Rank. Base 2 SP plus other-skill surcharge; Scale 1 (Genius 3). Skilled Hunter discounts prior ranks by floor(XP/1000)."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 119,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 119,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Paid Specialization: minimum natural skill roll 8, including combat. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 120,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 120,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Paid Specialization: minimum natural skill roll 8, including combat. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 121,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 121,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Paid Specialization: minimum natural skill roll 8, including combat. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 122,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 122,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Paid Specialization: minimum natural skill roll 8, including combat. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 123,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 123,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Paid Specialization: minimum natural skill roll 8, including combat. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 124,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 124,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Paid Specialization: minimum natural skill roll 8, including combat. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 125,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 125,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Paid Specialization: minimum natural skill roll 8, including combat. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 126,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 126,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Paid Specialization: minimum natural skill roll 8, including combat. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 127,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 127,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Paid Specialization: minimum natural skill roll 8, including combat. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 128,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 128,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Paid Specialization: minimum natural skill roll 8, including combat. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 129,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 129,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Paid Specialization: minimum natural skill roll 8, including combat. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 130,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 130,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Paid Specialization: minimum natural skill roll 8, including combat. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "copyPaste": {
+      "source": {
+        "sheetId": 1708751373,
+        "startRowIndex": 119,
+        "endRowIndex": 120,
+        "startColumnIndex": 1,
+        "endColumnIndex": 7
+      },
+      "destination": {
+        "sheetId": 1708751373,
+        "startRowIndex": 141,
+        "endRowIndex": 142,
+        "startColumnIndex": 1,
+        "endColumnIndex": 7
+      },
+      "pasteType": "PASTE_FORMAT"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 141,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Specialization: Ninshou"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 141,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 141,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=10*C142"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 141,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(RANK_NINSHOU>=15,1,0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 141,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 141,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 141,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Minimum natural skill roll 8. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "copyPaste": {
+      "source": {
+        "sheetId": 1708751373,
+        "startRowIndex": 119,
+        "endRowIndex": 120,
+        "startColumnIndex": 1,
+        "endColumnIndex": 7
+      },
+      "destination": {
+        "sheetId": 1708751373,
+        "startRowIndex": 142,
+        "endRowIndex": 143,
+        "startColumnIndex": 1,
+        "endColumnIndex": 7
+      },
+      "pasteType": "PASTE_FORMAT"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 142,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Specialization: Lore"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 142,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 142,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=10*C143"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 142,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(RANK_LORE>=15,1,0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 142,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 142,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 142,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Minimum natural skill roll 8. Genius grants this free outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 139,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=SUM(D3:D139,D142:D143)-C141"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 18,
+        "columnIndex": 8
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=A_Tai_Expertise+A_CUNNING+A_SWIFT+A_BASIC_TRAINING+A_ACCURATE+IF(U_NIMBLE,1,0)+IF(U_SPECIALIST_PLUS_TAI,2,0)+IF(U_SPECIALIST_MINUS_TAI,-2,0)+IF(COUNTIF(CHAR_UNIQUES,\"Competitive\")>0,2,0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 19,
+        "columnIndex": 8
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=A_CUNNING+A_SWIFT+A_BASIC_TRAINING+A_ACCURATE+IF(U_NIMBLE,1,0)+IF(U_SPECIALIST_PLUS_TAI,2,0)+IF(U_SPECIALIST_MINUS_TAI,-2,0)+IF(U_WARDER,2,0)-IF(COUNTIF(CHAR_UNIQUES,\"Surgeon\")>0,1,0)+IF(COUNTIF(CHAR_UNIQUES,\"Competitive\")>0,2,0)+rounddown(Abilities!C59/2)+Abilities!C49"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 20,
+        "columnIndex": 8
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=A_Nin_Expertise+A_CUNNING+A_SWIFT+A_BASIC_TRAINING+A_ACCURATE+IF(U_NIMBLE,1,0)+IF(U_SPECIALIST_PLUS_NIN,2,0)+IF(U_SPECIALIST_MINUS_NIN,-2,0)+IF(COUNTIF(CHAR_UNIQUES,\"Competitive\")>0,2,0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 21,
+        "columnIndex": 8
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=A_CUNNING+A_SWIFT+A_BASIC_TRAINING+A_ACCURATE+IF(U_NIMBLE,1,0)+IF(U_SPECIALIST_PLUS_NIN,2,0)+IF(U_SPECIALIST_MINUS_NIN,-2,0)+IF(U_WARDER,2,0)-IF(COUNTIF(CHAR_UNIQUES,\"Surgeon\")>0,1,0)+IF(COUNTIF(CHAR_UNIQUES,\"Competitive\")>0,2,0)+rounddown(Abilities!C59/2)+Abilities!C49"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "copyPaste": {
+      "source": {
+        "sheetId": 0,
+        "startRowIndex": 19,
+        "endRowIndex": 20,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "destination": {
+        "sheetId": 0,
+        "startRowIndex": 42,
+        "endRowIndex": 43,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "pasteType": "PASTE_FORMAT"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 42,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Ninshou"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 42,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=RANK_NINSHOU"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 42,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 42,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=A_BASIC_TRAINING-CS_FATIGUE+IF(AND(U_ENERGETIC,CS_FATIGUE>0),1,0)+IF(U_APPLIED_KNOWLEDGE,MIN(ROUNDDOWN(RANK_RESEARCH/5,0),10),0)+IF(COUNTIF(CHAR_UNIQUES,\"Competitive\")>0,2,0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 42,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDDOWN(SUM(B43:D43),0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "copyPaste": {
+      "source": {
+        "sheetId": 0,
+        "startRowIndex": 19,
+        "endRowIndex": 20,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "destination": {
+        "sheetId": 0,
+        "startRowIndex": 43,
+        "endRowIndex": 44,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "pasteType": "PASTE_FORMAT"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 43,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Lore"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 43,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=RANK_LORE"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 43,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 43,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=A_BASIC_TRAINING-CS_FATIGUE+IF(AND(U_ENERGETIC,CS_FATIGUE>0),1,0)+IF(U_APPLIED_KNOWLEDGE,MIN(ROUNDDOWN(RANK_RESEARCH/5,0),10),0)+IF(COUNTIF(CHAR_UNIQUES,\"Competitive\")>0,2,0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 0,
+        "rowIndex": 43,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDDOWN(SUM(B44:D44),0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2073408987,
+        "rowIndex": 22,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,RANK_CHAKRA_CONTROL,y,IF(COUNTIF(CHAR_UNIQUES,\"Naturalist\")>0,MAX(RANK_NINSHOU,RANK_SURVIVAL),RANK_NINSHOU),a,0,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2073408987,
+        "rowIndex": 37,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,RANK_CHAKRA_CONTROL,y,IF(COUNTIF(CHAR_UNIQUES,\"Naturalist\")>0,MAX(RANK_NINSHOU,RANK_SURVIVAL),RANK_NINSHOU),a,A_AFFINITY,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2073408987,
+        "rowIndex": 24,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(NOT(A_GENJUTSU_TRAINING),0,MAX(IF(OR('Character Profile'!$G$2=\"Warden\",'Character Profile'!$G$2=\"Legend\"),3,1),LET(x,RANK_DIPLOMACY,y,RANK_RESEARCH,a,IF('Character Profile'!$H$24=\"Affinity - Genjutsu\",A_AFFINITY,0),IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(COUNTIF(CHAR_UNIQUES,\"Cunning\")>0,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(COUNTIF(CHAR_UNIQUES,\"Cunning\")>0,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(COUNTIF(CHAR_UNIQUES,\"Cunning\")>0,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(COUNTIF(CHAR_UNIQUES,\"Cunning\")>0,x+y+a>=15)),2,1)))))))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2073408987,
+        "rowIndex": 6,
+        "columnIndex": 28
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(Jutsu!E7=\"\",\"\",IF(AND(Jutsu!B7=\"Genjutsu\",'Character Profile'!$H$24=\"Affinity - Genjutsu\"),$B$31,IF(Jutsu!E7=\"\",\"\",LET(element,IFS(REGEXMATCH(Jutsu!C7,\"(?i)Mokuton\"),\"Mokuton\",REGEXMATCH(Jutsu!C7,\"(?i)Jiton\"),\"Jiton\",REGEXMATCH(Jutsu!C7,\"(?i)Shakuton\"),\"Shakuton\",REGEXMATCH(Jutsu!C7,\"(?i)Y\u014dton|Yoton\"),\"Y\u014dton\",REGEXMATCH(Jutsu!C7,\"(?i)Hy\u014dton|Hyoton\"),\"Hy\u014dton\",REGEXMATCH(Jutsu!C7,\"(?i)Futton\"),\"Futton\",REGEXMATCH(Jutsu!C7,\"(?i)Bakuton\"),\"Bakuton\",REGEXMATCH(Jutsu!C7,\"(?i)Jinton\"),\"Jinton\",REGEXMATCH(Jutsu!C7,\"Katon\"),\"Katon\",REGEXMATCH(Jutsu!C7,\"Doton\"),\"Doton\",REGEXMATCH(Jutsu!C7,\"Raiton\"),\"Raiton\",REGEXMATCH(Jutsu!C7,\"Suiton\"),\"Suiton\",REGEXMATCH(Jutsu!C7,\"F\u016bton|Futon|Fuuton\"),\"F\u016bton\",TRUE,G7),IF(AND(Jutsu!B7=\"Ninjutsu\",$B$31>0,OR(AND(element<>\"\",element=SWITCH('Character Profile'!$H$24,\"Affinity - Mokuton (Senju)\",\"Mokuton\",\"Affinity - Jiton (Kazekage Clan / Jiton)\",\"Jiton\",\"Affinity - Shakuton\",\"Shakuton\",\"Affinity - Y\u014dton\",\"Y\u014dton\",\"Affinity - Hy\u014dton (Yuki)\",\"Hy\u014dton\",\"Affinity - Futton\",\"Futton\",\"Affinity - Bakuton\",\"Bakuton\",\"\")),AND(REGEXMATCH(element,\"^(Katon|Doton|Raiton|Suiton|F\u016bton)$\"),OR('Jutsu Context'!$B$30=element,OR(AND('Character Profile'!$H$24=\"Affinity - Futton\",OR(element=\"Katon\",element=\"Suiton\")),AND('Character Profile'!$H$24=\"Affinity - Jiton (Kazekage Clan / Jiton)\",OR(element=\"Raiton\",element=\"Doton\")),AND('Character Profile'!$H$24=\"Affinity - Mokuton (Senju)\",OR(element=\"Suiton\",element=\"Doton\")),AND('Character Profile'!$H$24=\"Affinity - Y\u014dton\",OR(element=\"Katon\",element=\"Doton\")),AND('Character Profile'!$H$24=\"Affinity - Hy\u014dton (Yuki)\",OR(element=\"Suiton\",element=\"F\u016bton\"))),AND(COUNTIF(CHAR_UNIQUES,\"Elementally Gifted\")>0,'Jutsu Context'!$E$28=element),COUNTIF(CHAR_UNIQUES,\"Elementalist\")>0,COUNTIF(CHAR_UNIQUES,\"Elemental Mastery\")>0)),AND(element=\"\",'Character Profile'!$H$24=\"Affinity - Clan/General Ninjutsu\"))),$B$31,0)))))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2073408987,
+        "rowIndex": 6,
+        "columnIndex": 29
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(Jutsu!E7=\"\",\"\",IF(Jutsu!B7=\"Ninjutsu\",IF(REGEXMATCH(Jutsu!C7,\"(?i)Katon|Doton|Raiton|Suiton|F\u016bton|Futon|Fuuton|Mokuton|Jiton|Shakuton|Y\u014dton|Yoton|Hy\u014dton|Hyoton|Futton|Bakuton|Jinton\"),LET(x,RANK_CHAKRA_CONTROL,y,IF(COUNTIF(CHAR_UNIQUES,\"Naturalist\")>0,MAX(RANK_NINSHOU,RANK_SURVIVAL),RANK_NINSHOU),a,AC7,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1))))),MAX($B$22,IF(OR(RANK_CHAKRA_CONTROL+AC7>=35,IF(REGEXMATCH(G7,\"^(Katon|Doton|Raiton|Suiton|F\u016bton)$\"),IF(COUNTIF(CHAR_UNIQUES,\"Naturalist\")>0,MAX(RANK_RESEARCH,RANK_SURVIVAL),RANK_RESEARCH),RANK_RESEARCH)>=32),5,IF(OR(RANK_CHAKRA_CONTROL+AC7>=25,IF(G7<>\"\",IF(COUNTIF(CHAR_UNIQUES,\"Naturalist\")>0,MAX(RANK_RESEARCH,RANK_SURVIVAL),RANK_RESEARCH),RANK_RESEARCH)>=22),4,IF(OR(RANK_CHAKRA_CONTROL+AC7>=15,IF(G7<>\"\",IF(COUNTIF(CHAR_UNIQUES,\"Naturalist\")>0,MAX(RANK_RESEARCH,RANK_SURVIVAL),RANK_RESEARCH),RANK_RESEARCH)>=12),3,IF(OR(RANK_CHAKRA_CONTROL+AC7>=5,IF(G7<>\"\",IF(COUNTIF(CHAR_UNIQUES,\"Naturalist\")>0,MAX(RANK_RESEARCH,RANK_SURVIVAL),RANK_RESEARCH),RANK_RESEARCH)>=5),2,1)))))),IF(OR(Jutsu!B7=\"Taijutsu\",Jutsu!B7=\"Bukijutsu\"),$B$24,IF(Jutsu!B7=\"Genjutsu\",$B$25,$B$22))))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000001,
+        "rowIndex": 46,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Controlled Fire (+5 STM)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000001,
+        "rowIndex": 46,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "boolValue": false
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "setDataValidation": {
+      "range": {
+        "sheetId": 2110000001,
+        "startRowIndex": 46,
+        "endRowIndex": 47,
+        "startColumnIndex": 1,
+        "endColumnIndex": 2
+      },
+      "rule": {
+        "condition": {
+          "type": "BOOLEAN"
+        },
+        "strict": true,
+        "showCustomUi": true
+      }
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000001,
+        "rowIndex": 5,
+        "columnIndex": 9
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(B5=\"\",\"\",VLOOKUP(B5,'Corps Data'!$A$2:$O$10,4,FALSE)+3*COUNTIF(B13:B27,\"Overpressure Chamber\")+2*COUNTIF(B13:B27,\"Lightened Chassis\")-2*COUNTIF(B13:B27,\"Counterweighted Chassis\")+2*COUNTIF(B13:B27,\"Heavy Receiver\")+2*COUNTIF(B13:B27,\"Dampened Action\")+3*COUNTIF(B13:B27,\"Anti-Materiel Conversion\")+3*COUNTIF(B13:B27,\"Titan Receiver\"))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000001,
+        "rowIndex": 10,
+        "columnIndex": 9
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(B5=\"\",\"\",MAX(0,VLOOKUP(B5,'Corps Data'!$A$2:$O$10,10,FALSE)-COUNTIF(B13:B27,\"Dampened Action\")))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000001,
+        "rowIndex": 33,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(mode,B31,burst,IF(mode=\"Burst\",IF(COUNTIF(B13:B27,\"Burst Regulator\")>0,4,2),0),fa,IF(mode=\"Full Auto\",IF(COUNTIF(B13:B27,\"Full-Auto Compensator\")>0,B34,2*B34),0),ammoRaw,IF(B32=\"Wyvern Shell\",5,0),ammo,MAX(0,ammoRaw-IF(AND(B37=\"Stamina\",B32<>\"Standard\"),2,0)),heavy,IF(AND(REGEXMATCH(J15,\"Heavy\"),NOT(B35)),IF(COUNTIF(B13:B27,\"Recoil Pad\")>0,1,2),0),servo,IF(AND(B40,B35,COUNTIF(B13:B27,\"Servo Brace\")>0),2,0),J6+burst+fa+ammo+heavy-servo)+IF(B47,5,0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000001,
+        "rowIndex": 35,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Accuracy"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000001,
+        "rowIndex": 35,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(ISNUMBER(J19),IF(B47,10+J19+E35,\"1d20 + \"&(J19+E35)),\"\")"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000001,
+        "rowIndex": 43,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=TEXTJOIN(\" | \",TRUE,\"All Ballistic Weapon Attacks are Omnidirectional\",IF(B47,\"Controlled Fire: eligible defenses allow Partial Defense; Parries never do\",\"Rolled Accuracy: hit or miss, no Partial Defense\"),IF(B32=\"Pierce\",\"+50% vs Armor/physical Barrier/object\",\"\"),IF(B32=\"Sticky\",\"No immediate damage; detonate 5 IC later for half normal weapon Damage Dice, no BDB, no independent Wound, double Durability damage\",\"\"),IF(B32=\"Tranq\",\"Non-Lethal; Hunt tranquilizer application on hit where applicable\",\"\"),IF(B32=\"Tracking Dye\",\"Mark for scene; +2 Track/Survival to follow target\",\"\"),IF(B32=\"Wyvern Shell\",\"Empties magazine; Reload lock 5 IC\",\"\"),IF(B31=\"Full Auto\",\"Up to X targets in cone; each hit counts as X hits for repeated-hit effects\",\"\"),IF(AND(B8=\"Three-Round Seal\",Talents!A159,B31=\"Burst\"),\"Tier II: if your previous Ballistic Attack was a Burst against the same target, the new Burst gains +1 Accuracy; moving, Reloading, or changing targets breaks the pattern\",\"\"),IF(AND(B8=\"Fangburst Chamber\",Talents!A159,B32=\"Scatter\"),\"Tier II ignores Fangburst's +1 Delay\",\"\"),IF(AND(B8=\"Anchored Spine\",B35),\"If Braced and unmoved 10 IC, Standard/Pierce may gain signature bonus Damage Dice\",\"\"))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000001,
+        "rowIndex": 44,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=J11+IF(AND(B8=\"Fangburst Chamber\",NOT(Talents!A159),B32=\"Scatter\",B36<=J10*IF(COUNTIF(B13:B27,\"Choke Assembly\")>0,2/3,1/2)),1,0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000002,
+        "rowIndex": 1,
+        "columnIndex": 9
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000002,
+        "rowIndex": 2,
+        "columnIndex": 9
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000002,
+        "rowIndex": 3,
+        "columnIndex": 9
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 2
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000002,
+        "rowIndex": 4,
+        "columnIndex": 9
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000002,
+        "rowIndex": 5,
+        "columnIndex": 9
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000002,
+        "rowIndex": 6,
+        "columnIndex": 9
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 1
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000002,
+        "rowIndex": 7,
+        "columnIndex": 9
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 1
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000002,
+        "rowIndex": 8,
+        "columnIndex": 9
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 1
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000002,
+        "rowIndex": 9,
+        "columnIndex": 9
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2110000002,
+        "rowIndex": 34,
+        "columnIndex": 5
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Increase Damage by +1 die; Ballistic Attacks gain +3 Stamina. Limit 1."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  }
+]

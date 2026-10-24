@@ -241,7 +241,7 @@ Effects:
 
 On a full hit, for 20 IC the target treats all hostile creatures as 3 yards farther from or closer to them, chosen when cast, for Range and Move-with-Attack calculations.
 
-This does not physically move anyone, change AoE locations or create real Cover. Once the victim Realizes, it may use Genjutsu Kai to escape as normal; Realizing alone does not end it.  
+This does not physically move anyone, change AoE locations or create physical barriers. Once the victim Realizes, it may use Genjutsu Kai to escape as normal; Realizing alone does not end it.  
 Realizes: 8 \+ X IC
 
 #### Magen: Maboroshi Kizu - Phantom Pain

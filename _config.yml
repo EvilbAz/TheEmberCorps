@@ -12,6 +12,7 @@ exclude:
   - Gemfile.lock
   - .github
   - scripts
+  - review
   - node_modules
   - vendor
 defaults:

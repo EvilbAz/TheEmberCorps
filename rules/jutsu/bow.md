@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/bow/"
 # Bow Bukijutsu
 {:#bow-bukijutsu}
 
-*Bow is the hunter weapon: marks, sightlines, prediction and movement make its best shots better than simply firing again*.
+*Bow techniques reward patience and a clear sightline. Mark your quarry, pin its movement and choose the shot that brings it down.*
 
 ## E-Rank
 {:#e-rank-16}
@@ -25,36 +25,36 @@ The first arrow is used to establish a sightline rather than chase immediate dam
 
 Rank: E  
 Stamina: \+3  
-Damage: \+2dS  
+Damage: +max(2, floor(STR/15))dS  
 Speed: \-1  
 Accuracy: \+1  
 Tags: Chain 1, Bow, Attack  
-Effects: Bow only. On a full hit, apply your Bow Mark to the target for 20 IC. Your next Bow Chain 2 against that target gains \+2 Accuracy, increased to \+3 if the target moved at least 3 yards after being Marked. A new Bow Mark from you replaces the previous one.
+Effects: Bow only. On a full hit, Mark the target until your Chain against it ends. Your next Bow Chain 2 against it gains +Athletics/5 Accuracy, increased by 1 if it voluntarily moved after being Marked. That Attack consumes the Mark. A new Mark replaces your previous one.
 
 #### Pinning Shot
 {:#pinning-shot}
 
-The arrow is aimed to catch cloth, gear, or flesh against the environment.
+The arrow catches clothing or equipment, hampering the target’s movement.
 
 Rank: E  
 Stamina: \+3  
-Damage: \+1dS  
+Damage: +max(1, floor(STR/15))dS  
 Speed: \+0  
 Special: Immobilization 2  
 Tags: Chain 1, Bow, Attack  
-Effects: Bow only. Resolve the Immobilization Special normally. Against a target adjacent to solid terrain, increase the listed Immobilization by 1 before the Status Roll as the shot pins clothing or gear in place. The Immobilization lasts 10 IC.
+Effects: Bow only. Resolve Immobilization with severity equal to the greater of 2 or Athletics/10, maximum 6. It ends when the target removes the arrow with a Speed 3 Utility Action.
 
 #### Angle Shot
 {:#angle-shot}
 
-The release is chosen for a route the defender was not guarding—high, oblique, or around partial cover.
+You send the arrow toward an exposed angle in the defender’s guard.
 
 Rank: E  
 Stamina: \+5  
-Damage: \+3dS  
+Damage: +max(3, floor(STR/15))dS  
 Speed: \+2  
 Tags: Chain 2, Bow, Attack  
-Effects: If the target uses the Cover Interrupt against this Attack, reduce Cover’s \+5 bonus by 2\. If the target uses the same broad Defense it used against your Chain 1, that Defense takes \-2.
+Effects: If the target uses the same broad Defense it used against your Chain 1, that Defense takes −Athletics/5.
 
 #### Multiple Shot
 {:#multiple-shot}
@@ -64,8 +64,9 @@ The bow is used as a platform for several distinct releases in one action.
 Rank: E  
 Stamina: \+8  
 Speed: \+5  
+Damage: +max(2, floor(STR/15))dS  
 Tags: Chain 3, Bow, Attack  
-Effects: Fire 2 arrows. Make separate Accuracy rolls; divide Speed×PDB evenly among them. Each hit adds \+2dS. Combine hits for Wounding only.
+Effects: Fire two arrows. Each uses the weapon dice plus this technique’s Damage dice; divide Speed×PDB evenly between them. Declare targets and roll Accuracy separately. Both may target your chained creature, or one may target a held weapon or worn armor piece on it using normal Called Shot penalties, item defenses and structural damage rules. Combine successful hits on the creature for Wounding only; item damage does not also damage its wielder.
 
 #### Quick Nock
 {:#quick-nock}
@@ -76,7 +77,7 @@ Rank: E
 Stamina: 3  
 Speed: 2  
 Tags: Chain X, Bow, Utility  
-Effects: Nock an arrow. Your next Bow Chain attack before 20 IC has \-2 Speed, minimum Base Speed 3\.
+Effects: Nock an arrow. Your next Bow Chain attack has \-2 Speed, minimum Base Speed 3\.
 
 #### Volley
 {:#volley}
@@ -87,6 +88,7 @@ Rank: E
 Stamina: 7  
 Speed: 10  
 Area: 4 at a point within Bow Range  
+Damage: +floor(STR/15)dS  
 Tags: Bukijutsu, Bow, Attack  
 Effects: Fire a volley; attack all chosen creatures in Area. Each target takes weapon damage with only 50% of Speed×PDB.
 
@@ -101,8 +103,9 @@ Two arrows share one draw and release timing but remain separate attacks.
 Rank: D  
 Stamina: \+8  
 Speed: \+4  
+Damage: +floor(STR/10)dS  
 Tags: Chain 2, Bow, Attack  
-Effects: Fire two arrows at the same target, each at 60% final damage. Roll separately; Chain advances if either hits. The defender pays one Defensive cost but rolls separately.
+Effects: Fire two arrows at the chained target, each at 60% Final Damage. Roll Accuracy separately; the defender declares one legal defensive method, pays its cost and Speed once, and rolls it separately against each arrow. If either fully hits and you know Marking Shot, establish or refresh your Bow Mark. Resolve Chain progression once; Partial Defense applies to each hit normally.
 
 #### Precision Shot
 {:#precision-shot}
@@ -111,11 +114,10 @@ The final arrow is chosen for penetration and wound placement.
 
 Rank: D  
 Stamina: \+11  
-Damage: \+6dS  
+Damage: +max(6, floor(STR/10))dS  
 Speed: \+5  
-Accuracy: \-2  
 Tags: Chain 3, Bow, Attack  
-Effects: \+10% Wounding. Reduce the target Armor’s Absorption by 10% for this Attack, to a minimum of 0%. If the target has your Bow Mark, you may consume it when declaring this Attack to gain \+3 Accuracy.
+Effects: Gain +30% Wounding. Reduce the target armor’s Absorption and flat DR by 50% for this Attack, after its damage-type matchup. If the target has your Bow Mark, consume it when declaring to gain +Athletics/5 Accuracy.
 
 #### Cutting Arrow
 {:#cutting-arrow}
@@ -124,9 +126,9 @@ An arrow is fired at another projectile rather than the attacker.
 
 Rank: D  
 Stamina: 6  
-Speed: 5  
+Speed: 3  
 Tags: Chain X, Bow, Utility, Interrupt  
-Effects: Fire at an incoming Ranged Taijutsu projectile and Parry it with \+1. The arrow used is consumed whether you succeed or fail.
+Effects: Consume an arrow to Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. This does not defend against AoEs.
 
 #### Held Draw
 {:#held-draw}
@@ -138,7 +140,7 @@ Stamina: 9
 Upkeep: 2  
 Speed: 7  
 Tags: Bukijutsu, Bow, Utility  
-Effects: While maintained, Bow attacks gain \+2 Accuracy against targets that have not moved since your last action. If you move for any reason, you lose this bonus until your next action.
+Effects: While maintained, Bow attacks gain +Athletics/5 Accuracy against targets that have not moved since your last action. If you move for any reason, you lose this bonus until your next action.
 
 ## C-Rank
 {:#c-rank-16}
@@ -150,11 +152,11 @@ You place the arrow directly through one target’s line and keep enough force b
 
 Rank: C  
 Stamina: \+8  
-Damage: \+4dS  
+Damage: +max(4, floor(STR/7))dS  
 Speed: \+2  
 Accuracy: \+1  
 Tags: Chain 1, Bow, Attack  
-Effects: On a full hit, you may also attack one creature directly behind the target and within 5 yards for 40% final damage using the same Accuracy result. The secondary hit cannot establish or advance Chain.
+Effects: On a full hit, you may also attack one creature directly behind the target within the bow’s remaining Range for 60% Final Damage, using the same Accuracy result. It defends separately. The secondary hit cannot establish or advance Chain.
 
 #### Mobile Draw
 {:#mobile-draw}
@@ -162,10 +164,10 @@ Effects: On a full hit, you may also attack one creature directly behind the tar
 The draw is maintained through movement so the user can relocate without throwing away the shot, keeping shoulders, string, and target line stable while the feet change position.
 
 Rank: C  
-Stamina: 7  
-Speed: 2  
-Tags: Chain X, Bow, Utility, Movement  
-Effects: Move up to 4 yards while maintaining your draw. This movement does not break Chain. If you changed position, your next Bow Chain attack before 20 IC gains \+1 Accuracy.
+Stamina: +7  
+Speed: +0  
+Tags: Link, Bow, Attack, Movement  
+Effects: Link to a Bow Attack. Move with that Attack using its full final Speed, in any legal direction. The movement does not remove Held Draw’s benefit for this Attack. If the target Dodges, double its Defense Speed when advancing its next action; Interrupt validity is unchanged. Bow only.
 
 #### Reinforced Arrow
 {:#reinforced-arrow}
@@ -177,7 +179,7 @@ Chakra: 16
 Upkeep: 3  
 Speed: 8  
 Tags: Bukijutsu, Bow, Utility  
-Effects: Ammunition fired from one bow counts as chakra-enhanced, gains \+10% Wounding, and may damage chakra constructs normally.
+Effects: Ammunition fired from one bow counts as chakra-enhanced, gains +20% Wounding, and may damage chakra constructs normally.
 
 ## B-Rank
 {:#b-rank-16}
@@ -189,22 +191,21 @@ The arrow is driven through gear or flesh and fixed into nearby terrain, turning
 
 Rank: B  
 Stamina: \+14  
-Damage: \+6dS  
+Damage: +max(6, floor(STR/5))dS  
 Speed: \+4  
-Accuracy: \-1  
 Tags: Chain 2, Bow, Attack  
-Effects: Requires solid terrain within 2 yards of the target. On a full hit, anchor the target to that point; it cannot move more than 2 yards from the anchor until it removes the arrow as Speed 5\.
+Effects: On a full hit, resolve Immobilization with severity equal to the greater of 3 or Athletics/10, maximum 6. If there is solid terrain within the target’s Reach, you may instead anchor it there; it cannot voluntarily move away until it removes the arrow as a Speed 5 Utility Action or destroys the anchor. The ordinary Immobilization ends when the target removes the arrow with that same Action.
 
 #### Sightline
 {:#sightline}
 
-The user spends a moment reading sightline, cover, air, and target movement before firing.
+You study the wind, the sightline and the target’s movement before drawing.
 
 Rank: B  
 Stamina: 9  
 Speed: 4  
 Tags: Chain X, Bow, Utility  
-Effects: Make a Search with Awareness \+4. Until your next action, ignore up to 4 points of Visibility penalty with Bow attacks, reduce the \+5 bonus from the Cover Interrupt against your Bow attacks by 4, and increase your Bow’s Range by 30%.
+Effects: Make a Search with +Athletics/5 Awareness. Your next Bow Attack against a located target ignores Visibility penalties and gains +50% Range if it is your next non-Interrupt Action. The projectile still requires a clear path.
 
 ## A-Rank
 {:#a-rank-16}
@@ -212,15 +213,14 @@ Effects: Make a Search with Awareness \+4. Until your next action, ignore up to 
 #### Skyfall Shot
 {:#skyfall-shot}
 
-You send the arrow high and let gravity return it from above, attacking cover from a direction it was not built to protect.
+You send the arrow high above the target, then bring it down in a steep, plunging shot.
 
 Rank: A  
 Stamina: \+24  
-Damage: \+12dS  
+Damage: +max(12, floor(STR/3))dS  
 Speed: \+6  
-Accuracy: \-1  
 Tags: Bukijutsu, Bow, Attack  
-Effects: This Attack has Delay 3\. The target may only use the Cover Interrupt if the object or creature providing Cover physically protects it from above. On a full hit, gain \+15% Wounding.
+Effects: Choose a clear arcing projectile path within Bow Range and ignore Visibility penalties against a creature you can locate. Gain +25% Final Damage and +30% Wounding. On a full hit, resolve Prone using Athletics against Resistance. This adds no Delay beyond the weapon’s normal Bukijutsu Delay.
 
 #### Hunter's Watch
 {:#hunter-s-watch}
@@ -232,7 +232,7 @@ Stamina: 13
 Upkeep: 4  
 Speed: 6  
 Tags: Utility, Self, Upkeep, Bukijutsu  
-Effects: Choose a 90-degree arc within Bow Range when activated. Once per 20 IC, when a creature in that arc moves at least 3 yards, you may make a Bow Basic Weapon Attack against it at 60% final damage as an Interrupt.
+Effects: Choose a 90-degree arc within Bow Range. While maintained, when a creature voluntarily moves in that arc, you may make a Bow Basic Weapon Attack against it at full damage as an Offensive Interrupt. Pay that Basic Attack’s normal Stamina and final Speed. One movement Action can trigger one shot from you. The shot resolves at a point in its path that you can perceive and legally target.
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>

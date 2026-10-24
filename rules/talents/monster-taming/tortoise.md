@@ -38,7 +38,7 @@ Movement: Ground; swims at half Movement
 
 Unlock: Core Talent
 
-Effects: The Tortoise gains 10 DR. Adjacent allies may treat it as Cover 2 against Attacks originating from the opposite side.
+Effects: The Tortoise gains 10 DR. Adjacent allies gain 10 DR against physical Attacks while the Tortoise can act.
 
 ### Brace
 {:#brace}
@@ -59,14 +59,14 @@ Effects: One willing adjacent human-sized ally may ride on the Tortoise's shell.
 
 Unlock: Development 3 — Elite Feature
 
-Effects: Allies using the Tortoise as Cover gain +1 to Defensive Rolls against ranged and Area Attacks when its shell can physically interpose itself.
+Effects: Adjacent allies gain +1 on Defensive Rolls against Ranged and AoE Attacks while the Tortoise can act.
 
 ### Unbreakable
 {:#unbreakable}
 
 Unlock: Development 4 — Elder Feature
 
-Effects: Living Fortress becomes 20 DR and Cover 3. While below half maximum Vitality, the Tortoise gains an additional 5 DR. It cannot be knocked Prone by ordinary forced movement and ignores the first 3 yards of Knockback from each effect.
+Effects: Living Fortress becomes 20 DR and grants adjacent allies 15 DR against physical Attacks. While below half maximum Vitality, the Tortoise gains an additional 5 DR. It cannot be knocked Prone by ordinary forced movement and ignores the first 3 yards of Knockback from each effect.
 
 ## Monster Traits
 {:#monster-traits-11}
@@ -111,7 +111,7 @@ While Brace is active, gain an additional 10 DR instead of 5.
 
 Type: One-Time
 
-Increase the Cover granted by Living Fortress by 1. This makes it Cover 3 before Elder Feature and Cover 4 after Unbreakable.
+Increase the DR Living Fortress grants adjacent allies by 5.
 
 ## Monster Techniques
 {:#monster-techniques-10}
@@ -154,7 +154,7 @@ Base Command AP: 12
 
 Limit: Once per battle
 
-Effects: For 20 IC, the monster gains 30 DR and counts as Cover 4. Up to two willing human-sized allies may ride on its shell when this is declared; while they remain aboard, they move with the Tortoise and do not spend movement to remain with it.
+Effects: For 20 IC, the monster gains 30 DR and grants adjacent allies 20 DR against physical Attacks. Up to two willing human-sized allies may ride on its shell when this is declared; while they remain aboard, they move with the Tortoise and do not spend movement to remain with it.
 
 ## Temperament
 {:#temperament-10}

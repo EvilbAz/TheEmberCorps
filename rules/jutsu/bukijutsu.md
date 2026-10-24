@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/bukijutsu/"
 # Bukijutsu
 {:#bukijutsu-2}
 
-Bukijutsu builds on normal weapon attacks rather than replacing them. A Basic Weapon Attack remains the efficient, reliable option; Bukijutsu gives a weapon specialist stronger ways to exploit positioning, repeated defenses, reach, terrain, movement, and other openings. The core Chain structure is unchanged, but it is slightly more forgiving so using a sensible weapon action does not immediately erase the sequence you have built.
+Bukijutsu builds on normal weapon attacks rather than replacing them. Bukijutsu adds strength-scaled damage and weapon-specific ways to break guards, punish defenses, disable weapons and finish a Chain. The core Chain structure is unchanged, but it is slightly more forgiving so using a sensible weapon action does not immediately erase the sequence you have built.
 
 ## Learning Requirements
 {:#learning-requirements-2}
@@ -47,6 +47,34 @@ When a technique refers to the same Defense, it means the same broad defensive a
 
 Bukijutsu use Move with an Attack normally unless a technique says otherwise. If a technique lets you use Move with an Attack in another direction, calculate the distance normally from half the Attack's final Speed. It changes the direction or timing of that movement; it does not create a second movement allowance. If you already spent some of your Move with an Attack distance before the strike, only the remainder is available afterward.
 
+## Scaling and effect timing
+{:#bukijutsu-scaling}
+
+When these techniques use **Athletics/5** for a roll bonus, penalty or extra weapon allowance, round down, with a minimum of 2 and maximum of 6. Other attribute divisions used for yards, status severity, Control or target counts round down and use their printed minimums and caps. Damage Bonus calculations retain the normal one-decimal rule.
+
+Reach and Range percentage increases use the weapon or technique's value before maintained Bukijutsu and setup bonuses. Calculate each increase from that same value; do not compound them. Final Damage and Wounding percentages use their normal system rules. PDB × Speed and percentage effects use the final Attack normally.
+
+A bonus for your next Chain Attack is consumed by that Attack and ends if that Chain ends. Other one-use benefits end when used or when the combat ends. Repeated applications of the same named effect do not stack. An Interrupt must explicitly allow AoE defense to Parry an AoE; such a Parry has no Partial Defense.
+
+## Rank-scaled weapon damage
+{:#rank-scaled-weapon-damage}
+
+Damaging Bukijutsu add weapon-sized dice that grow with STR. Their Damage line uses the greater of the technique’s printed floor and the following count:
+
+| Rank | Additional weapon dice |
+| --- | --- |
+| E | floor(STR/15)dS |
+| D | floor(STR/10)dS |
+| C | floor(STR/7)dS |
+| B | floor(STR/5)dS |
+| A | floor(STR/3)dS |
+
+Add this dice package to the weapon’s normal dice, then add Damage Bonus × final Speed. The printed floor and STR count are alternatives, not two bonuses. These extra technique dice are not limited by the cap on Basic Unarmed dice.
+
+For techniques that resolve several weapon hits, include this dice package in each hit before applying that hit’s damage percentage or dividing damage as directed by the technique. A secondary hit copying an Attack’s Final Damage already includes the package; never add it again. Multi-Throw distributes one package across its projectiles per target, not one package per projectile. Techniques that divide damage among targets still do so.
+
+Links, non-damaging actions and counters expressly making a Basic Weapon Attack do not receive a separate rank dice package. Using several Links does not grant several packages. Defense-Speed multipliers from Bukijutsu do not stack; use the highest. Each named Bukijutsu Link can modify an Attack once; techniques requiring a setup or Chain still require it.
+
 ## Specials and Status Rolls
 {:#specials-and-status-rolls}
 
@@ -67,7 +95,7 @@ Chain 1 — Entry: May be used at Chain 0 or 1\. On a hit, establish Chain 1 aga
 
 Chain 2 — Pressure: Requires Chain 1 or 2 against that target. On a hit, set the Chain to 2\. Further Chain 2 techniques may be used while at 2 and keep the value at 2\.
 
-Chain 3 — Finisher: Requires Chain 2 against that target. The Chain ends after the technique resolves, hit or miss.
+Chain 3 — Finisher: Requires Chain 2 against that target. The Chain ends after the technique resolves, hit or miss. A Chain 2 or Chain 3 Attack must include the chained target; extra targets do not provide additional Chain advances or Openings.
 
 Chain X — Utility: May be used at any Chain value, including 0\. It never increases or decreases Chain value.
 
@@ -85,10 +113,36 @@ Cross-Class Finishers: To use a Chain 3 from a weapon class different from the c
 
 Finisher Weapon: A Chain 3 uses only the properties of the weapon used for that Chain 3\. Damage, dual-hit percentages, wound riders, reach changes and similar benefits from earlier attacks do not carry into it unless the Chain 3 explicitly says they do.
 
+### Chain Openings
+{:#chain-openings}
+
+The first time you advance from Chain 1 to Chain 2 during a Chain, gain one **Opening** against that target. Repeating Chain 2, returning to Chain 1 or using a multi-hit Attack does not grant another Opening in that Chain.
+
+Before a later Attack against that target is rolled, spend the Opening on one of these benefits:
+
+- **Precision:** reduce one Called Shot Accuracy penalty by Athletics/5, minimum 0.
+- **Control:** gain +Athletics/5 on one Special Status Roll caused by that Attack. Declare which Special when spending the Opening. It does not increase Stun, skip a Resistance roll or improve a Genjutsu offense roll.
+- **Assist:** give one willing ally +Athletics/5 Accuracy on its declared Attack against that target instead of benefiting your own Attack.
+
+Use the Opening owner’s Athletics, rounded down with a minimum of 2 and maximum of 6. A benefit affects only the chained target, even in an AoE. Each Attack can receive one Opening benefit, including a Team Attack. Spend it before the affected roll; a miss does not refund it.
+
+You may spend Precision or Control on a non-Chain Attack of your own, then end the Chain normally. An ally can receive Assist without using Bukijutsu. Unspent Openings end when the Chain ends. A Chain 3 may use the Opening before ending the Chain, but neither generates a second Opening nor refunds a spent one.
+
+### Combining pressure effects
+{:#combining-pressure-effects}
+
+Apply only the highest Bukijutsu bonus to any one Accuracy, Defense or Special roll, and only the highest Bukijutsu penalty to any one roll. This includes stances, prepared effects, Links and Openings. Ordinary weapon statistics and non-Bukijutsu abilities follow their own stacking rules. Called Shot reductions granted by Bukijutsu likewise use the highest; other sources follow their own rules.
+
+Extra projectile allowances from Bukijutsu use the highest, not their sum. Speed multipliers from Bukijutsu use the strongest reduction or increase of each kind rather than compounding; normal Speed minimums still apply.
+
+A target can be forced to reroll its Defense once per Attack by weapon/Bukijutsu effects, including Weapon Mastery. A technique that makes a second strike against the same target cannot also force a Defense reroll against it. Multi-hit attacks retain their explicitly printed separate defenses; they do not generate additional Chain advances or Openings.
+
+A counterattack granted by Bukijutsu can be defended normally, but resolving that Defense cannot generate another counterattack.
+
 ### Fan Bridge
 {:#fan-bridge-2}
 
-Fan Bukijutsu has a deliberate exception to the normal Chain break rule. Seamless Wind may carry one Fan-tagged Fuuton through an active Chain. The Fuuton remains Ninjutsu, never becomes Chain 1/2/3, receives no Bukijutsu damage or status riders, and does not refresh the Chain Window. But your Chain does not break. You can do this once per Chain.
+Seamless Wind may carry one Fan-tagged Fuuton through an active Chain. The Fuuton remains Ninjutsu, never becomes Chain 1/2/3, receives no Bukijutsu damage or status riders, and does not refresh the Chain Window. Your Chain remains active. You can do this once per Chain.
 
 ## Bukijutsu Stances
 {:#bukijutsu-stances}
@@ -106,10 +160,10 @@ You hold the weapon high enough to threaten the first line immediately, acceptin
 
 Rank: D  
 Stamina: 8  
-Upkeep: 3  
-Speed: 6  
+Upkeep: 2  
+Speed: 4  
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
-Effects: Your Chain 1 and Chain 2 Melee Bukijutsu gain \+1 Accuracy. Your Dodge and Parry rolls take \-1.
+Effects: Your Chain 1 and Chain 2 Melee Bukijutsu gain +Athletics/5 Accuracy. Your Chain 3 Melee Bukijutsu gain +15% Final Damage.
 
 #### Low Guard
 {:#low-guard}
@@ -118,10 +172,10 @@ The weapon stays low and close to the body, making it easier to receive an attac
 
 Rank: D  
 Stamina: 8  
-Upkeep: 3  
-Speed: 6  
+Upkeep: 2  
+Speed: 4  
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
-Effects: Gain \+1 Dodge and Parry. Your damaging Melee Bukijutsu take \-1 Accuracy.
+Effects: Gain +Athletics/5 to targeted Melee Parries. After fully defending against an enemy Attack, your next Melee Chain Attack against that enemy gains +15% Final Damage if it is your next non-Interrupt Action.
 
 #### Long Guard
 {:#long-guard}
@@ -130,10 +184,10 @@ You extend the weapon into the space in front of you and make the opponent fight
 
 Rank: D  
 Stamina: 9  
-Upkeep: 3  
-Speed: 6  
+Upkeep: 2  
+Speed: 4  
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
-Effects: Gain \+1 Reach with Melee Weapons and \+1 Parry against attacks that began outside your normal Reach. Your normal movement is reduced by 10%.
+Effects: Increase your Melee Weapon Reach by 50%, minimum +2 yards. Gain +Athletics/5 Parry against targeted Melee Attacks that began outside your unmodified weapon Reach.
 
 #### Open Guard
 {:#open-guard}
@@ -142,10 +196,10 @@ You deliberately leave a line available, using the invitation to make the defend
 
 Rank: C  
 Stamina: 12  
-Upkeep: 4  
-Speed: 8  
+Upkeep: 3  
+Speed: 5  
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
-Effects: Once per Chain, after the target declares a Defense against your Chain attack, give that Defense \-1. Your weapon takes \+10% durability damage while maintained.
+Effects: After the target declares its Defense against your Chain Attack, impose a penalty of Athletics/5 on that Defense. The penalty applies once to each Attack, including one that generates multiple hits.
 
 #### Point Guard
 {:#point-guard}
@@ -154,10 +208,10 @@ You keep the point or striking line fixed on one part of the opponent and sacrif
 
 Rank: C  
 Stamina: 12  
-Upkeep: 4  
-Speed: 8  
+Upkeep: 3  
+Speed: 5  
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
-Effects: Reduce Called Shot Accuracy penalties with weapon attacks by 2\. Weapon attacks that are not Called Shots take \-1 Accuracy.
+Effects: Reduce Called Shot Accuracy penalties with weapon attacks by Athletics/5, minimum 0. Called Shots gain +15% Wounding.
 
 #### Committed Guard
 {:#committed-guard}
@@ -166,10 +220,10 @@ You build every movement around the next heavy commitment, gaining force at the 
 
 Rank: B  
 Stamina: 18  
-Upkeep: 6  
-Speed: 10  
+Upkeep: 4  
+Speed: 6  
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
-Effects: Damaging Melee Bukijutsu gain \+10% Wounding and \+1 to listed Stun or Knockback. Your defensive Interrupts count as \+2 Base Speed for Defense Validity.
+Effects: Damaging Melee Bukijutsu gain +25% Wounding. Increase their printed Knockback by 50%, rounded down, and their printed Stun by half your PDB, rounded down. Apply these increases before Special rolls and Partial Defense.
 
 
 # Universal Bukijutsu
@@ -195,7 +249,7 @@ Rank: D
 Stamina: 6  
 Speed: 3  
 Tags: Chain X, Utility, Bukijutsu  
-Effects: Switch from one active Bukijutsu Stance to another Stance you know. Pay the new Stance’s activation cost.
+Effects: Switch from one active Bukijutsu Stance to another you know without changing Chain value. Pay this technique’s Stamina and Speed instead of the new Stance’s activation costs. The old Stance ends and the new Upkeep begins.
 
 #### Weapon Breaker
 {:#weapon-breaker}
@@ -206,7 +260,7 @@ Rank: B
 Stamina: \+10  
 Speed: \+2  
 Tags: Link, Bukijutsu  
-Effects: Use retroactively after your weapon Attack is successfully Parried or Blocked by a weapon. After that Defense resolves, the defending weapon gains \+2 additional WDP.
+Effects: Use retroactively after your weapon Attack is successfully Parried or Blocked by a weapon. After that Defense resolves, inflict WDP equal to half the defending weapon’s damage-level threshold, rounded up. Use that weapon’s Durability + its wielder’s DEX/10. This is explicit weapon damage and applies once to that weapon per Attack.
 
 #### Chakra Reinforcement
 {:#chakra-reinforcement}
@@ -218,7 +272,7 @@ Chakra: 22
 Upkeep: 5  
 Speed: 10  
 Tags: Utility, Self, Upkeep, Bukijutsu  
-Effects: Choose Blunt, Slashing, Piercing or Energy. One held weapon may deal that wound type and gains \+2 Damage Bonus.
+Effects: Choose Blunt, Slashing, Piercing or Energy. One held weapon may deal that wound type and gains a Damage Bonus equal to half your NDB. Calculate this bonus when activating the technique, before bonuses granted by maintained weapon techniques.
 
 #### Chakra Reach
 {:#chakra-reach}
@@ -230,7 +284,7 @@ Chakra: 20
 Upkeep: 3  
 Speed: 10  
 Tags: Utility, Self, Upkeep, Bukijutsu  
-Effects: One Melee Weapon gains \+4 Reach and does not trigger ordinary on-contact punishment caused solely by touching the defender.
+Effects: One Melee Weapon gains additional Reach equal to the greater of its unmodified Reach or your CHA/5. When striking through this extension, it does not trigger on-contact punishment caused solely by touching the defender. Attacks still need a clear path.
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>

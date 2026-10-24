@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/dual/"
 # Dual Bukijutsu
 {:#dual-bukijutsu}
 
-*Dual overloads defensive choices: two weapons force the opponent to repeat, split or expose a defensive answer*.
+*With a weapon in each hand, you can draw the guard with one strike and punish it with the next.*
 
 ## E-Rank
 {:#e-rank-15}
@@ -26,6 +26,7 @@ Both weapons attack during the same entry, but they do not have to succeed toget
 Rank: E  
 Stamina: \+4  
 Speed: \+2  
+Damage: +floor(STR/15)dS  
 Tags: Chain 1, Dual, Attack  
 Effects: Make one Attack with each held weapon at 55% final damage each. Roll Accuracy separately. If either hits, Chain 1 is established.
 
@@ -36,11 +37,11 @@ The two weapons close like shears while the feet circle the target.
 
 Rank: E  
 Stamina: \+3  
-Damage: \+2dS  
+Damage: +max(2, floor(STR/15))dS  
 Speed: \+0  
 Accuracy: \+1  
-Tags: Chain 1, Dual, Attack, Movement  
-Effects: Requires two weapons. After the Attack resolves, you may use any remaining Move with an Attack distance in any legal direction. If the target Parried this Attack, its next Parry against your Dual Chain attack before 20 IC takes \-2.
+Tags: Chain 1, Dual, Attack  
+Effects: Requires two weapons. Choose one to attack and use the other to threaten the defender. If the target Parries, it takes a penalty of Athletics/5. If it Dodges, double that Defense’s final Speed when advancing its next action; Interrupt validity is unchanged.
 
 #### Alternating Cuts
 {:#alternating-cuts}
@@ -49,10 +50,10 @@ The hands alternate in a broken rhythm, changing line and timing with every swin
 
 Rank: E  
 Stamina: \+5  
-Damage: \+3dS  
+Damage: +max(3, floor(STR/15))dS  
 Speed: \+1  
 Tags: Chain 2, Dual, Attack  
-Effects: If the immediately previous Chain 2 you used in this Chain was a different Dual technique, gain \+2 Accuracy.
+Effects: If this Attack uses a different leading weapon from your previous damaging Dual Chain Attack, gain +Athletics/5 Accuracy. Declare the leading weapon before the Defense; it supplies this Attack’s damage type and weapon properties.
 
 #### Closing Pair
 {:#closing-pair}
@@ -62,8 +63,9 @@ The finisher commits both hands to the same exchange.
 Rank: E  
 Stamina: \+8  
 Speed: \+5  
+Damage: +floor(STR/15)dS  
 Tags: Chain 3, Dual, Attack  
-Effects: Make one Attack with each weapon at 65% final damage each. Roll separately; combine successful hits only when checking Wound severity.
+Effects: Make one Attack with each weapon at 65% Final Damage, rolling and defending separately. Combine successful hits for Wounding only. If both fully hit the same creature, resolve Prone using Athletics against Resistance. Resolve Chain progression once.
 
 #### Off-Hand Catch
 {:#off-hand-catch}
@@ -72,9 +74,9 @@ The off-hand weapon exists to solve the problems the leading weapon creates.
 
 Rank: E  
 Stamina: 4  
-Speed: 5  
+Speed: 3  
 Tags: Chain X, Dual, Utility, Interrupt  
-Effects: Parry with the off-hand weapon at \+1. On full success, the next Dual Chain attack may use either weapon without any swap cost.
+Effects: Parry a targeted Melee Attack with the off-hand weapon at +Athletics/5. On full success, your next Dual Chain Attack gains +15% Final Damage if it is your next non-Interrupt Action. This does not defend against AoEs.
 
 #### Turning Flurry
 {:#turning-flurry}
@@ -85,6 +87,7 @@ Rank: E
 Stamina: \+6  
 Speed: \+5  
 Area: 2  
+Damage: +floor(STR/15)dS  
 Tags: Bukijutsu, Dual, Attack  
 Effects: Make one Accuracy roll with each weapon against every chosen enemy in Area; each successful weapon deals 50% final damage.
 
@@ -99,8 +102,9 @@ Each weapon asks a separate defensive question.
 Rank: D  
 Stamina: \+8  
 Speed: \+3  
+Damage: +floor(STR/10)dS  
 Tags: Chain 2, Dual, Attack  
-Effects: Make one Attack with each weapon at 60% final damage. The target chooses and resolves a Defense against each Attack. If it uses the same broad Defense against both, its second roll takes \-2. If it uses two different broad Defenses, each successful hit gains \+2dS. Chain advances if either Attack hits.
+Effects: Make one Attack with each weapon at 60% final damage. The target chooses and resolves a Defense against each Attack. If it uses the same broad Defense against both, its second roll takes −Athletics/5. If it uses two different broad Defenses, each successful hit gains \+2dS. Chain advances if either Attack hits.
 
 #### Cross Finish
 {:#cross-finish}
@@ -109,9 +113,8 @@ You cross both attack lines through different parts of the target, forcing the d
 
 Rank: D  
 Stamina: \+12  
-Damage: \+6dS  
+Damage: +max(6, floor(STR/10))dS  
 Speed: \+6  
-Accuracy: \-2  
 Tags: Chain 3, Dual, Attack  
 Effects: Requires two weapons. On a full hit, choose two different wound locations; if the Attack wounds, apply one wound at the normal location and a second wound one severity lower at the other location. The secondary wound cannot exceed Minor severity.
 
@@ -124,7 +127,7 @@ Rank: D
 Stamina: 5  
 Speed: 3  
 Tags: Chain X, Dual, Utility  
-Effects: Opposed Espionage vs Awareness. On success, choose Dodge or Parry; that defense takes \-2 against your next Dual Chain attack.
+Effects: Oppose the target’s Awareness with Espionage. On success, choose Dodge or Parry; that Defense takes a penalty of 2 plus 1 per full 5 points you won by, maximum 6, against your next Dual Chain Attack.
 
 #### Paired Flow
 {:#paired-flow}
@@ -136,7 +139,7 @@ Stamina: 9
 Upkeep: 2  
 Speed: 7  
 Tags: Bukijutsu, Dual, Utility  
-Effects: While wielding two weapons, gain \+1 Parry. Once per 20 IC, reduce the Speed of one Dual Chain attack by 2 after all other modifiers, minimum 3\.
+Effects: While wielding two weapons, gain +Athletics/5 Parry. When a Dual Chain Attack uses a different leading weapon from your previous Dual Chain Attack in the current Chain, reduce its final Speed by 20%, rounded down, subject to normal Speed minimums. Apply this once per Attack.
 
 ## C-Rank
 {:#c-rank-15}
@@ -149,6 +152,7 @@ Each hand takes a different opponent, opening pressure on two fronts before the 
 Rank: C  
 Stamina: \+8  
 Speed: \+2  
+Damage: +floor(STR/7)dS  
 Tags: Chain 1, Dual, Attack  
 Effects: Make one Attack with each weapon at 60% final damage. The attacks must target different creatures. If either hits, choose one hit creature as your chained target.
 
@@ -161,7 +165,7 @@ Rank: C
 Stamina: 5  
 Speed: 1  
 Tags: Chain X, Dual, Utility  
-Effects: Swap which held weapon is leading. Until your next action, use either weapon's damage type for your Dual Chain effects and ignore one hand-specific penalty of up to 3\.
+Effects: Swap which held weapon is leading. Your next Dual Chain Attack may use either weapon’s damage type and ignores temporary Accuracy penalties specific to the other hand. If it is your next non-Interrupt Action, it also gains +15% Final Damage.
 
 ## B-Rank
 {:#b-rank-15}
@@ -173,11 +177,10 @@ The two weapons close around the line the defender committed, trapping that weap
 
 Rank: B  
 Stamina: \+14  
-Damage: \+6dS  
+Damage: +max(6, floor(STR/5))dS  
 Speed: \+3  
-Accuracy: \-1  
 Tags: Chain 2, Dual, Attack  
-Effects: Requires two weapons. On a full hit, if the target used a weapon to Block or Parry, that weapon cannot be used to Block or Parry your next Dual Chain attack before 20 IC.
+Effects: Requires two weapons. On a full hit, if the target used a weapon to Block or Parry, that weapon cannot be used to Block or Parry your next Dual Chain attack.
 
 #### Counterpair
 {:#counterpair}
@@ -188,7 +191,7 @@ Rank: B
 Stamina: 10  
 Speed: 4  
 Tags: Chain X, Dual, Attack, Interrupt  
-Effects: After fully Parrying a Melee Attack, make an off-hand Basic Weapon Attack against that attacker at 65% final damage. This is Chain X.
+Effects: After fully Parrying a targeted Melee Attack, make an off-hand Basic Weapon Attack against the attacker at full damage if it is within Reach. Pay this technique’s Stamina and Interrupt Speed instead of that Basic Attack’s costs. The counter has its own Accuracy and Defense and is Chain X.
 
 ## A-Rank
 {:#a-rank-15}
@@ -201,8 +204,9 @@ One hand attacks the target while the other deliberately destroys the guard prot
 Rank: A  
 Stamina: \+26  
 Speed: \+6  
+Damage: +floor(STR/3)dS  
 Tags: Chain 3, Dual, Attack  
-Effects: Requires two weapons. Make one Attack with each. One weapon attacks the target at 75% final damage; the other attacks one held weapon or Armor piece at 75% final damage. Roll and defend separately.
+Effects: Requires two weapons. Make one Attack with each at full damage, rolling and defending separately. One strikes the target and gains +25% Wounding; the other strikes a held weapon or worn armor piece. Resolve that structural hit as a direct attack on the item, using normal item defenses and armor matchups. It does not also damage the wielder. Chain ends after both attacks resolve.
 
 #### Divergent Current
 {:#divergent-current}
@@ -214,7 +218,7 @@ Chakra: 26
 Upkeep: 6  
 Speed: 12  
 Tags: Bukijutsu, Dual, Utility  
-Effects: Apply two different weapon-coating effects you know, one to each held weapon. Pay this Upkeep plus only the higher additional Upkeep among those effects.
+Effects: Maintain two different weapon-coating effects you know, one on each held weapon. Pay both activation costs and this technique’s Chakra cost. While maintained, pay this Upkeep plus only the higher coating Upkeep. Their effects apply to their respective weapons normally; ending Divergent Current ends both coatings unless their normal Upkeeps are paid.
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>

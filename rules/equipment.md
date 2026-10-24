@@ -136,11 +136,11 @@ Layered Construction — 5 AP. Gain Weapon Block \[Speed 6, Interrupt, Defense\]
 
 Reinforced Layering — 2 AP/Rank. Whenever you Block while wielding this weapon, increase that Block's Damage Reduction by 5 percentage points per Rank. Maximum 3 Ranks.
 
-Reinforced Spine — 2 AP/Rank. Reduce WDP gained from Parrying or Blocking by 1 per Rank, to a minimum of half the original increase. Maximum 3 Ranks.
+Reinforced Spine — 2 AP/Rank. Reduce WDP gained from resistant armor contact by 1 per Rank, minimum 0. Maximum 3 Ranks.
 
-Flexible Construction — 3 AP. When an Attack made with this weapon is Parried, reduce the WDP it gains from that Attack by 2\.
+Flexible Construction — 3 AP. Reduce WDP explicitly inflicted on this weapon by enemy techniques by 2, minimum 0\.
 
-Shock Mounting — 3 AP. When this weapon defends against an Attack with Knockback, reduce the WDP gained by 3\. If the Attack still moves you, reduce it by 6 instead.
+Shock Mounting — 3 AP. When you Block with this weapon, reduce Knockback suffered by 3 yards, minimum 0.
 
 Reinforced Collar — 3 AP. Medium or larger. Effects which directly break, sever, or destroy the weapon without using Durability must overcome an additional 20 Durability first. This does not increase ordinary Durability.
 
@@ -196,7 +196,7 @@ Aerodynamic Profile — 3 AP/Rank. Requires Throwing Balance. Increase maximum R
 
 Returning Balance — 5 AP. Requires Throwing Balance. Ten IC after a thrown Attack resolves, the weapon returns along the same unobstructed path. Catching it is Speed 0\.
 
-Ricochet Geometry — 4 AP. Requires Throwing Balance. Ignore up to 2 points of Accuracy penalty caused by Cover.
+Ricochet Geometry — 4 AP. Requires Throwing Balance. Ignore up to 2 points of Visibility penalty on thrown Attacks.
 
 ##### Multi-Function & Impact Mechanisms
 {:#multi-function-impact-mechanisms}
@@ -294,7 +294,7 @@ Ghostsilver — \+0.30 Property Load. Deal \+50% Damage to physical Barriers and
 
 Bloodglass — \+0.30 Property Load. Against a creature suffering Bleed, gain \+5% Wounding. Against Bleed 5+, gain \+10% Wounding instead.
 
-Stormsilver — \+0.30 Property Load. Gain \+1 Parry against Projectile Attacks. When you successfully Parry a Projectile Attack, reduce the WDP gained from that Parry by 5, minimum 0\.
+Stormsilver — \+0.30 Property Load. Gain \+1 Parry against Projectile Attacks. After successfully Parrying a Projectile Attack, your next Parry before your next Action gains +1\.
 
 Black Jade — \+0.30 Property Load. Whenever you Block while wielding this weapon, increase that Block's Damage Reduction by 10 percentage points. Whenever you Block this way, the weapon gains 5 additional WDP after all reductions.
 
@@ -486,7 +486,7 @@ Volley normally requires every projectile fired to use the same projectile patte
 
 Ranged weapons may purchase any ordinary Weapon Component whose effect can function with that weapon. Components which require an unrelated Shape, Melee Reach, a Melee-only Attack, a Melee Parry, or another incompatible trait cannot be purchased for a ranged weapon.
 
-**Reinforced Bowstring — 3 AP.** Bow or Crossbow. Reduce WDP gained when a Bukijutsu using this weapon increases the weapon's WDP by 2, to a minimum of half the original increase.
+**Reinforced Bowstring — 3 AP.** Bow or Crossbow. Reduce WDP explicitly inflicted on this weapon by enemy effects by 2, minimum 0.
 
 **Long-Limb Design — 3 AP/Rank.** Bow or Crossbow. Increase listed Range by 10% per Rank. Maximum 3 Ranks.
 
@@ -500,7 +500,7 @@ Ranged weapons may purchase any ordinary Weapon Component whose effect can funct
 
 **Reinforced Riser — 4 AP.** Bow only. The Bow may Parry Melee Weapon Attacks at \-2 Parry. This does not allow it to Parry Projectile Attacks.
 
-**Stabilised Sight — 3 AP.** Bow or Crossbow. When making an Aimed Attack, reduce the Accuracy bonus granted by the target's Cover Interrupt by 2\.
+**Stabilised Sight — 3 AP.** Bow or Crossbow. When making an Aimed Attack, ignore up to 2 points of Visibility penalty.
 
 **Steady Draw — 4 AP.** Bow only. If you have not voluntarily moved since the end of your previous Action, your next Aimed Bow Attack gains \+5% Wounding.
 
@@ -666,7 +666,7 @@ Crafted ranged weapons use their current statistics when used with Bukijutsu. If
 ##### Crossbows and Bow Bukijutsu
 {:#crossbows-and-bow-bukijutsu}
 
-Crossbows count as Bow weapons for Bow Bukijutsu that involve firing a projectile, attacking a sightline, marking a target, targeting Cover, intercepting a projectile, or another effect which does not specifically depend on manually drawing a bowstring. Where a compatible technique refers to an Arrow, read it as a Bolt when used with a Crossbow.
+Crossbows count as Bow weapons for Bow Bukijutsu that involve firing a projectile, attacking a sightline, marking a target, targeting barriers, intercepting a projectile, or another effect which does not specifically depend on manually drawing a bowstring. Where a compatible technique refers to an Arrow, read it as a Bolt when used with a Crossbow.
 
 A Crossbow cannot use a Bukijutsu which specifically depends on drawing a bow, maintaining a drawn bowstring, nocking an Arrow by hand, or manipulating the bow while moving. Quick Nock and Mobile Draw remain Bow-only.
 
@@ -701,6 +701,32 @@ It may fire a single Shuriken, fire a Volley, or launch its loaded Fūma Shurike
 So… You want to create your own armor, huh? Maybe you’re too poor to afford the prices of all these sets of armor ,or maybe you simply don’t think what’s on the market is stylish enough to fit your fabulous aesthetics, either way, you’ve found yourself here as an Armorsmith.
 
 You can craft weapons with X Artisan Points up to a max of your Artisan Ranks which you can spend on its traits (see below). Weapons have a crafting TN of 15 \+ 3\*X and a cost of 5 \+ X thousand ryo. This consists of the cost for resources, tools, and any extra parts necessary.
+
+### Armor Category
+{:#armor-category}
+
+Every armor piece and armored monster part has one category, separate from its weight or Structure. Choose a category when crafting; unclassified existing armor uses the migration table below.
+
+| Category | Strong against | Weak against |
+| :--- | :--- | :--- |
+| Dense | Slashing | Piercing, Blunt |
+| Layered | Blunt | Slashing, Piercing |
+| Shaped | Piercing | Slashing, Blunt |
+
+Against the strong type, multiply this armor's Absorption or armor-specific DR by 1.5. Against a weak type, multiply it by 0.5. Round flat DR down and cap Absorption at 100%. Energy uses the unmodified protection. Apply this only to protection supplied by this armor or part, not unrelated DR, Blocking or natural resilience. Ordinary armor still loses Durability equal to damage it absorbs. Direct attacks against Armor Durability or a monster part's break threshold deal 50% damage with the strong type and 150% with a weak type; this modifies damage to that object or part only, not damage to the creature. Do not also apply this direct-object multiplier to ordinary absorbed-damage wear.
+
+A weapon that physically hits intact armor or a part strong against its declared damage type gains 5 WDP, once per weapon per Attack. No wear occurs if the Attack is fully avoided, the armor is bypassed entirely, or the part has already lost its protection. Fired ammunition takes contact wear instead of its launcher; spent ammunition is consumed normally. Choose one physical damage type before resolving an Attack with a weapon that offers several types. Distinct damage components are assessed separately, but the weapon's 5 WDP trigger still occurs only once.
+
+| Existing armor | Default category |
+| :--- | :--- |
+| Mobile / padded or flexible protection | Layered |
+| Protective / mail or dense reinforcement | Dense |
+| Encased / shaped plate | Shaped |
+| Monster hide or dense scales | Dense |
+| Monster fur, padding or overlapping flexible layers | Layered |
+| Monster shell, carapace or rigid plate | Shaped |
+
+A monster profile may assign different categories to different parts. Flesh without an armor or protection entry has no armor category. A broken armored part loses its category benefit and causes no matchup weapon wear.
 
 <h3 id="1-structure-2">1. Structure</h3>
 
@@ -875,7 +901,7 @@ Range: Divisor \-1, 3k Ryo, Max STR/3
 
 Specialty  
 Poison: \+1 Poison, 10k Ryo, Max 1  
-Imbue any Inhalation Poison into the Smoke Bomb (obviously using up the entire dose). When used, anyone who spends longer than 10 IC in the area must make a Resistance roll against your Toxicology or be poisoned.This method reduces the poison’s duration by half but it does not begin reducing until they are out of the area (or it ends).
+Imbue any Inhalation Poison into the Smoke Bomb (consuming one dose). When used, anyone who spends longer than 10 IC in the area must make a Resistance roll against your Toxicology or be poisoned. This method reduces the poison’s duration by half but it does not begin reducing until they are out of the area (or it ends).
 
 ##### Antidotes
 {:#antidotes}
@@ -1244,11 +1270,9 @@ Both parties must agree to the Transfer for Transfer Item to function.
 ## Weapon Durability
 {:#weapon-durability}
 
-All weapons have a durability which represents how overuse of a weapon without properly caring for it can cause it to dull, rust, or degrade in any other form. In extreme cases a weapon could even break while in use.
+Each weapon has a Weapon Damage Pool (WDP), starting at 0 each scene. Its wear threshold is its Durability + DEX/10, rounded down. Ordinary attacks, Jutsu, being Parried, Parries and Blocks do not generate WDP. Gain WDP only from resistant armor contact as described above or an effect explicitly causing weapon damage.
 
-Each weapon you wield has a Weapon Damage Pool (WDP) which has a maximum of your weapon’s durability \+ Dexterity/10. Your WDP begins at 0 at the start of each scene.
-
-When you hit with a weapon jutsu or are parried the STM is added to your WDP and Parrying or Blocking an attack with your weapon increases your WDP by the fatigue cost of the attack defended. Once your WDP surpasses your weapons Durability, its Damage Level increases by 1 (see below) and your WDP is reset to 0\. The penalties for each level stack additively with each level below it. At the end of a scene the weapons damage level reduces by 2 to a minimum of 0 or its damage level at the beginning of the scene.
+When WDP exceeds the wear threshold, increase Damage Level by 1 and reset WDP to 0. Damage Level penalties stack. At the end of a scene, reduce Damage Level by 2, never below its level at the start of that scene. Repairs use the normal equipment repair rules.
 
 ## Damage Levels
 {:#damage-levels}

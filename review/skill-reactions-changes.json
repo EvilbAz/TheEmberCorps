@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Read the Windup",
+    "before": "**Read the Windup — Speed 4.** Observe one visible creature preparing a delayed Attack or handseals. Roll Awareness against 10 + its Espionage. On success, learn the declared Attack's target and attack form, and gain +(2 + X), maximum +6, on your next Defense against it. The bonus expires when that declaration ends.",
+    "after": "**Read the Windup — Speed +1, Link, Defense.** Link to your Defense against an Attack from a visible creature. Roll Awareness against 10 + its Espionage. On success, gain +(2 + X), maximum +6, on that Defense. You must perceive the attacker before declaring the Link."
+  },
+  {
+    "name": "Settle Chakra",
+    "before": "**Settle Chakra — Speed 6, Self.** Chakra Control TN 20: your next Chakra Exhaustion roll gains +(2 + X), maximum +6. This does not reduce an existing Chakra Penalty or Fatigue.",
+    "after": "**Settle Chakra — Speed +2, Link, Check, Self.** Link to a Chakra Exhaustion roll you are required to make. Chakra Control TN 20: gain +(2 + X), maximum +6, on that roll. This does not reduce existing Chakra Penalty or Fatigue."
+  },
+  {
+    "name": "Steady the Flow",
+    "before": "**Steady the Flow — Speed 4, Touch.** Help a willing adjacent creature stabilize its technique. Chakra Control TN 20: it gains +(3 + X), maximum +7, on its next Chakra Control status check while maintaining its current technique. Ending that technique ends the benefit. You cannot target yourself.",
+    "after": "**Steady the Flow — Speed 2, Interrupt, Support, Touch.** When a willing adjacent ally must make a Chakra Control status check while maintaining a technique, intervene before it rolls. Chakra Control TN 20: it gains +(3 + X), maximum +7, on that check. You cannot target yourself."
+  },
+  {
+    "name": "Read the Technique",
+    "before": "**Read the Technique — Speed 4.** Study a visible Jutsu during its handseals, Delay or maintained effect. This is a main Action; it cannot interrupt an immediately resolving Attack. Ninshou TN 10 + 5 × its rank (E=1 through A=5): learn its rank, keywords and whether it is an Attack, Defense or Utility. If it is an Attack, you also learn its attack form. Success grants +(2 + X), maximum +6, on your next Defense against that technique; it does not reveal secret Heritage requirements.",
+    "after": "**Read the Technique — Speed +1, Link, Defense.** Link to your Defense against a visible Jutsu Attack. Ninshou TN 10 + 5 × its rank (E=1 through A=5): learn its rank, keywords and attack form, and gain +(2 + X), maximum +6, on that Defense. Alternatively, use this as a Speed 4 main Utility Action to study a Jutsu during handseals, Delay or a maintained effect; identify its rank, keywords and action type, and prepare the same bonus for your next Defense against it. Either mode identifies it for Explain the Counter. It does not reveal secret Heritage requirements."
+  },
+  {
+    "name": "Explain the Counter",
+    "before": "**Explain the Counter — Speed 5.** Choose a Jutsu you have identified with Read the Technique this scene. Ninshou against the same TN: up to 1 + X allies who hear you each gain +2 on its next Defense against that technique. This does not stack with Read the Technique on that Defense.",
+    "after": "**Explain the Counter — Speed 3, Interrupt, Support.** When an enemy declares an Attack with a Jutsu you identified using Read the Technique before this declaration, explain its counter to allies who can hear you. Roll Ninshou against its identification TN. On success, up to 1 + X allies each gain +2 on their Defense against this Attack. Declare and resolve this before those Defense rolls."
+  },
+  {
+    "name": "Misdirect",
+    "before": "**Misdirect — Speed 4.** A visible enemy within 10 yards opposes your Espionage with Awareness. On success, its next Defense against an ally's Attack suffers −(2 + X), maximum −5. The opening ends after that Defense or when the enemy completes its next non-Interrupt Action, whichever comes first. It does not apply to your own Attacks.",
+    "after": "**Misdirect — Speed 3, Interrupt, Offensive.** When an ally declares an Attack against a visible enemy within 10 yards of you, oppose your Espionage with that enemy’s Awareness before it rolls its Defense. On success, impose −(2 + X), maximum −5, on that Defense. The penalty is consumed by this Attack’s defense and cannot aid your own Attack."
+  },
+  {
+    "name": "Field Diagnosis",
+    "before": "**Field Diagnosis — Speed 4.** Examine yourself or a willing adjacent creature. Medicine TN 15: identify its current Wounds and physical status effects. Choose one identified status that permits a Resistance roll; the recipient gains +(3 + X), maximum +7, on its next such roll. This grants no additional roll and does not treat the Wound itself.",
+    "after": "**Field Diagnosis — Speed 2, Interrupt, Check, Touch.** When you or a willing adjacent creature must make a Resistance roll against a physical status already affecting it, examine the condition before that roll. Medicine TN 15: identify its current Wounds and physical statuses and grant +(3 + X), maximum +7, on that Resistance roll. This grants no additional recovery roll and does not treat a Wound. For examining a creature without a pending check, use a Speed 4 main Utility Action instead and prepare the bonus for its next permitted Resistance roll against one identified status."
+  },
+  {
+    "name": "Find the Pattern",
+    "before": "**Find the Pattern — Speed 5.** After observing an enemy use the same named Attack twice, roll Research against 10 + its Espionage. On success, you and one ally who hears you gain +(2 + X), maximum +6, on your next Defense against that Attack. The bonus is consumed separately for each recipient.",
+    "after": "**Find the Pattern — Speed +1, Link, Defense.** After observing an enemy resolve the same named Attack twice, Link to your Defense against a subsequent use. Research against 10 + its Espionage: gain +(2 + X), maximum +6, on that Defense. The two earlier observations must be complete before the current Attack is declared."
+  },
+  {
+    "name": "Brace Yourself",
+    "before": "**Brace Yourself — Speed 4, Self.** Resistance TN 20: reduce the next Knockback you suffer by 5 + 2X yards, minimum 0. This expires after that effect or when you voluntarily move.",
+    "after": "**Brace Yourself — Speed +1, Link, Defense, Self.** Link to your Defense against an Attack that can cause Knockback. Resistance TN 20: reduce Knockback you would suffer from that Attack by 5 + 2X yards, minimum 0, after its ordinary defense and Special resolution. This benefit applies even if the linked Defense fails; it does not reduce damage or other statuses."
+  },
+  {
+    "name": "Endure",
+    "before": "**Endure — Speed 5, Self.** Resistance TN 20: gain +(3 + X), maximum +7, on your next Resistance check against a physical status effect. This provides no new recovery check and cannot improve a later Endure roll.",
+    "after": "**Endure — Speed +2, Link, Check, Self.** Link to a required Resistance check against a physical status. First roll Resistance against TN 20; on success, gain +(3 + X), maximum +7, on the required check. The preliminary roll does not benefit from Endure and cannot trigger another Endure. This provides no new recovery check."
+  },
+  {
+    "name": "Rally",
+    "before": "**Rally — Speed 5.** Address a willing ally who can hear you. Diplomacy TN 20: it gains +(2 + X), maximum +6, on its next defensive or Resistance roll. This does not stack with another Rally and cannot target yourself.",
+    "after": "**Rally — Speed 3, Interrupt, Support.** When a willing ally who can hear you declares a Defense or must make a Resistance roll, rally it before that roll. Diplomacy TN 20: it gains +(2 + X), maximum +6, on that roll. You cannot target yourself. The ally still needs a legal Defense or a permitted Resistance check."
+  },
+  {
+    "name": "Reinforce",
+    "before": "**Reinforce — Speed 6, Touch.** Requires tools and an intact armor piece worn by a willing creature. Artisan TN 20: its Absorption increases by 5 + 2X percentage points, maximum +15 percentage points, against the next Attack striking that location. It still loses Durability for absorbed damage. This does not stack with itself. Apply Artisan discipline restrictions.",
+    "after": "**Reinforce — Speed +2, Link, Defense, Touch.** Link to your Block while wearing intact armor and holding suitable tools. Artisan TN 20: that armor’s Absorption increases by 5 + 2X percentage points, maximum +15 percentage points, against this Attack at the armored location. It still loses Durability for absorbed damage. Alternatively, use a Speed 6 main Utility Action with tools to prepare the same benefit on a willing creature’s intact armor against the next Attack striking it. Apply Artisan discipline restrictions; the two modes do not stack."
+  }
+]

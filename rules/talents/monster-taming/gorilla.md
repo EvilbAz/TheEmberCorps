@@ -65,7 +65,7 @@ Effects: Throw the target up to 4 yards. A creature takes 60% Monster Damage and
 
 Unlock: Development 3 — Elite Feature
 
-Effects: Adjacent allies may treat the Gorilla as Cover 1. It gains +3 on checks made to break a Grapple affecting an adjacent ally or pull that ally free.
+Effects: The Gorilla may Take the Hit for an adjacent ally at Speed 4. It gains +3 on checks made to break a Grapple affecting an adjacent ally or pull that ally free.
 
 ### King of the Line
 {:#king-of-the-line}
@@ -117,7 +117,7 @@ Increase melee reach by 1 additional yard. This stacks with Long Arms.
 
 Type: One-Time
 
-Protective Instinct's bonus to break a Grapple affecting an adjacent ally becomes +5, and its Cover increases to Cover 2.
+Protective Instinct's bonus to break a Grapple affecting an adjacent ally becomes +5, and its Take the Hit rolls gain +2.
 
 ## Monster Techniques
 {:#monster-techniques-11}

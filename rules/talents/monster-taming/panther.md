@@ -38,7 +38,7 @@ Movement: Ground; climbs at half Movement
 
 Unlock: Core Talent
 
-Effects: The Panther gains +2 on Stealth checks involving stalking or ambushes. Its Basic Attacks made while Hidden or from Cover gain +1 Accuracy.
+Effects: The Panther gains +2 on Stealth checks involving stalking or ambushes. Its Basic Attacks made while Hidden gain +1 Accuracy.
 
 ### Pounce
 {:#pounce}
@@ -52,14 +52,14 @@ Effects: If the Panther moves at least 4 yards directly toward a target before m
 
 Unlock: Development 2 — Greater Feature
 
-Effects: After the Panther fully hits with a Basic Attack while it began the Action Hidden or behind Cover, it may move 1 yard without changing Initiative. This can occur once per Panther Action.
+Effects: After the Panther fully hits with a Basic Attack while it began the Action Hidden, it may move 1 yard without changing Initiative. This can occur once per Panther Action.
 
 ### Ambush Killer
 {:#ambush-killer}
 
 Unlock: Development 3 — Elite Feature
 
-Effects: The Panther's Basic Attacks made while Hidden or from Cover deal +20% Final Damage.
+Effects: The Panther's Basic Attacks made while Hidden deal +20% Final Damage.
 
 ### Apex Stalker
 {:#apex-stalker}
@@ -68,7 +68,7 @@ Unlock: Development 4 — Elder Feature
 
 Limit: Once per battle
 
-Effects: The Panther's first Attack against a creature that has not detected it gains +3 Accuracy and +25% Final Damage. On a full hit, inflict Bleed 3. After the Attack resolves, the Panther may move up to 3 yards toward legal Cover without changing Initiative.
+Effects: The Panther's first Attack against a creature that has not detected it gains +3 Accuracy and +25% Final Damage. On a full hit, inflict Bleed 3. After the Attack resolves, the Panther may move up to 3 yards toward concealment without changing Initiative.
 
 ## Monster Traits
 {:#monster-traits-22}
@@ -78,7 +78,7 @@ Effects: The Panther's first Attack against a creature that has not detected it 
 
 Type: Stackable
 
-Each rank increases the Basic Attack's Final Damage by 4% when made from Stealth, Cover, or after moving at least 5 yards.
+Each rank increases the Basic Attack's Final Damage by 4% when made from Stealth or after moving at least 5 yards.
 
 ### Predator's Focus
 {:#predator-s-focus}
@@ -113,7 +113,7 @@ When Pounce triggers, the Basic Attack also deals +10% Final Damage.
 
 Type: One-Time
 
-Fade After Blood may move 2 yards instead of 1. If that movement ends in legal Cover or concealment, the Panther may immediately attempt to Hide.
+Fade After Blood may move 2 yards instead of 1. If that movement ends in concealment, the Panther may immediately attempt to Hide.
 
 ## Monster Techniques
 {:#monster-techniques-21}
@@ -125,7 +125,7 @@ Speed: 8
 
 Base Command AP: 7
 
-Effects: Move up to 6 yards and Attack for 110% Monster Damage. If the Panther began the Action Hidden or behind Cover, gain +2 Accuracy.
+Effects: Move up to 6 yards and Attack for 110% Monster Damage. If the Panther began the Action Hidden, gain +2 Accuracy.
 
 ### Throat Claw
 {:#throat-claw}
@@ -143,7 +143,7 @@ Speed: 4
 
 Base Command AP: 6
 
-Effects: Move up to 4 yards to Cover or concealment and immediately attempt to Hide if the normal conditions for Hide are met. This Action does not by itself break existing Stealth.
+Effects: Move up to 4 yards to concealment and immediately attempt to Hide if the normal conditions for Hide are met. This Action does not by itself break existing Stealth.
 
 ### Nightfall Kill
 {:#nightfall-kill}

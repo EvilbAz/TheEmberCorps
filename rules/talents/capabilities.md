@@ -343,7 +343,7 @@ Signature Memory — After sensing the same creature for at least 20 IC or spend
 
 Fine Sense — Within 30 yards, Chakra Sense also tells you whether a sensed creature is currently moulding significant Chakra and gives a rough comparison of its Chakra presence to your own: much weaker, weaker, similar, stronger, or much stronger.
 
-Combat Sensor — While Chakra Sense is active, gain +2 on Defensive Rolls against Attacks made by creatures you can sense but cannot clearly see. Sensing a creature this way prevents you from being treated as completely unaware of that creature, but does not remove concealment, cover, invisibility, or other visual penalties.
+Combat Sensor — While Chakra Sense is active, gain +2 on Defensive Rolls against Attacks made by creatures you can sense but cannot clearly see. Sensing a creature this way prevents you from being treated as completely unaware of that creature, but does not remove concealment, invisibility, or other visual penalties.
 
 Residual Chakra — You may use Chakra Sense to examine fresh Chakra residue left on a creature, object, or location. Gain +3 on Track, Research, Awareness, or Espionage rolls where identifying or following that residue is directly relevant.
 

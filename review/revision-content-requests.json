@@ -1,0 +1,3963 @@
+[
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 1,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Athletics"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 1,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Vault"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 1,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 1,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Movement"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 1,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Roll Athletics against TN 15 to cross up to 5 + 2X yards of difficult ground or a gap, or climb up to 3 + X yards. You need a reachable landing or handhold. On failure you remain at your starting position. This movement does not include an Attack."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 2,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Athletics"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 2,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Help Up"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 2,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 3
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 2,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Touch"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 2,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Choose yourself or a willing adjacent creature that is Prone. Athletics TN 15: end Prone and move the recipient up to 2 + X yards to an unoccupied space. This does not break a Grapple or other restraint."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 3,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Awareness"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 3,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Read the Windup"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 3,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 3,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 3,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Observe one visible creature preparing a delayed Attack or handseals. Roll Awareness against 10 + its Espionage. On success, learn the declared Attack's target and attack form, and gain +(2 + X), maximum +6, on your next Defense against it. The bonus expires when that declaration ends."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 4,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Awareness"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 4,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Call the Threat"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 4,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 4,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 4,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Make a normal Search against one hidden creature with +2 Awareness. If you locate it, communicate its location to allies who can hear you; their next Search for it before 20 IC gains +(3 + X), maximum +7. This does not automatically remove their Stealth penalties."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 5,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chakra Control"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 5,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Settle Chakra"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 5,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 6
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 5,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Self"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 5,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chakra Control TN 20: your next Chakra Exhaustion roll before 20 IC gains +(2 + X), maximum +6. This does not reduce an existing Chakra Penalty or Fatigue."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 6,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chakra Control"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 6,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Steady the Flow"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 6,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 6,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Touch"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 6,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Help a willing adjacent creature stabilize its technique. Chakra Control TN 20: it gains +(3 + X), maximum +7, on its next Chakra Control status check before 20 IC. You cannot target yourself."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 7,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Ninshou"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 7,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Read the Technique"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 7,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 7,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 7,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Study a visible Jutsu being prepared or maintained. Ninshou TN 10 + 5 \u00d7 its rank (E=1 through A=5): learn its rank, keywords and whether it is an Attack, Defense or Utility. If it is an Attack, you also learn its attack form. Success grants +(2 + X), maximum +6, on your next Defense against that technique before 20 IC; it does not reveal secret Heritage requirements."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 8,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Ninshou"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 8,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Explain the Counter"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 8,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 8,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 8,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Choose a Jutsu you have identified with Read the Technique this scene. Ninshou against the same TN: up to 1 + X allies who hear you each gain +2 on its next Defense against that technique before 20 IC. This does not stack with Read the Technique on that Defense."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 9,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Lore"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 9,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Recall the Hunt"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 9,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 9,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 9,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Lore TN 20 against a monster you can observe: learn up to 1 + X currently relevant facts from its Tracks or Nature Intel, chosen by the GM. Success grants +(2 + X), maximum +6, on your next skill check concerning that monster before 20 IC. This reveals a fact, not a permanent Hunt Intel level."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 10,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Lore"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 10,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Name the Weakness"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 10,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 10,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 10,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Lore TN 25 against a visible monster: identify the armor category of up to 1 + X visible parts and whether each can be broken. Choose one ally who hears you; its next Called Shot to one of those parts before 20 IC reduces the Called Shot Accuracy penalty by 2 + X, minimum 0. Only one such benefit may apply to an Attack."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 11,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Espionage"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 11,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Misdirect"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 11,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 11,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 11,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "A visible enemy within 10 yards opposes your Espionage with Awareness. On success, its next Defense against an ally's Attack before 10 IC suffers \u2212(2 + X), maximum \u22125. The effect ends after that Defense and does not apply to your own Attacks."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 12,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Espionage"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 12,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Quick Sabotage"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 12,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 6
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 12,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Touch"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 12,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Against an unattended trap or mundane mechanism, roll Espionage against its listed disarm TN, or TN 20 if none exists. On success, disable it for 20 + 5X IC. Devices carried or actively operated by an unwilling creature cannot be targeted with this action."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 13,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Medicine"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 13,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Stabilise"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 13,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 13,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Touch"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 13,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Requires Medicine 1 and a First Aid Kit. Medicine TN 20: end one non-Wound Bleed, or provide treatment expressly permitted by a Wound entry using its TN if higher. On success, the recipient also gains +X, maximum +4, on its next Resistance roll against a physical status before 20 IC. Consume the kit on the attempt. This is the same Stabilise action listed in Core Rules."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 14,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Medicine"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 14,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Field Diagnosis"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 14,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 14,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 14,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Examine yourself or a willing adjacent creature. Medicine TN 15: identify its current Wounds and physical status effects. Choose one identified status that permits a Resistance roll; the recipient gains +(3 + X), maximum +7, on its next such roll before 20 IC. This grants no additional roll and does not treat the Wound itself."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 15,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Research"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 15,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Find the Pattern"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 15,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 15,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 15,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "After observing an enemy use the same named Attack twice, roll Research against 10 + its Espionage. On success, you and one ally who hears you gain +(2 + X), maximum +6, on your next Defense against that Attack before 20 IC. The bonus is consumed separately for each recipient."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 16,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Research"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 16,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Decode"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 16,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 6
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 16,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Touch"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 16,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Study an accessible inscription, control panel or written seal. Research TN 20, or its stated decoding TN if higher: discover its operating instruction, activation condition or warning, chosen by the GM. An ally acting on that information gains +(3 + X), maximum +7, on its next skill check to operate or disable that object before 20 IC. Decoding does not grant a missing Talent or deactivate a Jutsu."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 17,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Resistance"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 17,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Brace Yourself"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 17,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 17,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Self"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 17,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Resistance TN 20: reduce the next Knockback you suffer before 20 IC by 5 + 2X yards, minimum 0. This expires after that effect."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 18,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Resistance"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 18,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Endure"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 18,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 18,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Self"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 18,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Resistance TN 20: gain +(3 + X), maximum +7, on your next Resistance check against a physical status effect before 20 IC. This provides no new recovery check and cannot improve a later Endure roll."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 19,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Stealth"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 19,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Quiet Advance"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 19,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 19,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Movement"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 19,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "If already hidden from at least one enemy, roll Stealth against 10 + the highest Awareness among those enemies. On success, move your ordinary Speed 5 movement distance plus X yards with no movement penalty to maintaining Stealth. On failure, move normally and resolve detection under the normal Stealth rules. Attacking still uses the usual Stealth rules."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 20,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Stealth"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 20,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Lay a False Trail"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 20,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 20,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 20,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Requires loose ground, vegetation, smoke or another means of obscuring your passage. Stealth TN 20: the next Search against you before 20 IC suffers \u2212(3 + X), maximum \u22127. This does not make you Hidden or let you Hide while directly observed."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 21,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Survival"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 21,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Pick a Route"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 21,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 21,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 21,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Survival TN 15: designate a visible route up to 10 + 5X yards long. You and allies who hear you ignore up to 2 + X severity of ordinary difficult or Rocky Terrain while following that route for 20 IC. Magical hazards, damage and restraints still apply."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 22,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Survival"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 22,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Bait"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 22,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 22,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 22,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Use suitable food, scent or a sound to draw a visible non-human creature's attention within 15 yards. Roll Survival against its Awareness. On success, it suffers \u2212(2 + X) Accuracy, maximum \u22125, on its next Attack against anyone other than you before 10 IC. It chooses its actions normally; this is not mind control."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 23,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Diplomacy"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 23,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Rally"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 23,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 23,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 23,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Address a willing ally who can hear you. Diplomacy TN 20: it gains +(2 + X), maximum +6, on its next defensive or Resistance roll before 20 IC. This does not stack with another Rally and cannot target yourself."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 24,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Diplomacy"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 24,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Challenge"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 24,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 24,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 24,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "An enemy within 15 yards that understands you opposes Diplomacy with Resistance or Espionage, its choice. On success, its next Attack against anyone other than you before 10 IC suffers \u2212(2 + X) Accuracy, maximum \u22125. This does not force it to attack. Challenge and Bait do not stack."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 25,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Artisan"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 25,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Field Repair"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 25,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 8
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 25,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Touch"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 25,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Requires tools and access to a willing creature's weapon. Artisan TN 20: remove 10 + 5X WDP, once per weapon per scene. This cannot restore Damage Levels or repair a broken weapon. Apply your ordinary Artisan discipline restrictions."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 26,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Artisan"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 26,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Reinforce"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 26,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 6
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 26,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Touch"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 26,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Requires tools and an intact armor piece worn by a willing creature. Artisan TN 20: its Absorption increases by 5 + 2X percentage points, maximum +15 percentage points, against the next Attack striking that location before 20 IC. It still loses Durability for absorbed damage. This does not stack with itself. Apply Artisan discipline restrictions."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 27,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Toxicology"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 27,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Identify Toxin"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 27,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 27,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": ""
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 27,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Examine a toxin, secretion or affected willing creature within Reach. Toxicology against 10 + the toxin's Poison severity (TN 20 if it has no Poison severity): learn its listed status effects and duration. The next Resistance roll you or that creature makes against that toxin before 20 IC gains +(3 + X), maximum +7; no additional roll is granted."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 28,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Toxicology"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 28,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Neutralize Residue"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 28,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 6
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 28,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Touch"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 28,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Requires clean water and an Antidote from your inventory. Toxicology against the toxin's normal application TN (TN 20 if none is listed): consume the Antidote to remove up to 1 + X unapplied Contact or Injury coatings of that toxin from a willing creature's equipment or an unattended object. This does not remove poison already affecting a creature."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 30,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "All are Utility Actions. Roll 1d20 + skill. X = floor((your total \u2212 TN)/5) on success. On opposed checks, subtract the defender\u2019s rolled total; ties fail. Each full 5 above the required result improves the listed effect. Failed checks grant nothing. Same named benefits do not stack; repeat against the same target once per 20 IC. Ordinary AP reductions apply; no fatigue cost unless listed. Genius\u2019s free Specialization applies outside combat only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 37,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Rolled-Accuracy Ballistic components prohibit Partial Defense unless every Ballistic component uses Controlled Fire. Parries permit normal Partial Defense against non-AoE Team Attacks unless the Attack prohibits it. AoE Parries need explicit permission and grant no Partial Defense."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 39,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Skill action scaling"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 40,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "TN / opposing total"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 40,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 20
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 41,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Your rolled total"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 41,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 35
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 42,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Opposed check?"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 42,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "boolValue": false
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 43,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "X"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 43,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(OR(B41=\"\",B42=\"\"),\"\",IF(IF(B43,B42<=B41,B42<B41),\"Failed\",ROUNDDOWN((B42-B41)/5,0)))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "setDataValidation": {
+      "range": {
+        "sheetId": 218240001,
+        "startRowIndex": 42,
+        "endRowIndex": 43,
+        "startColumnIndex": 1,
+        "endColumnIndex": 2
+      },
+      "rule": {
+        "condition": {
+          "type": "BOOLEAN"
+        },
+        "strict": true,
+        "showCustomUi": true
+      }
+    }
+  },
+  {
+    "findReplace": {
+      "find": "Controlled Fire: eligible defenses allow Partial Defense; Parries never do",
+      "replacement": "Controlled Fire: eligible non-AoE Parries permit Partial Defense; AoE Parries do not",
+      "allSheets": true,
+      "includeFormulas": true
+    }
+  },
+  {
+    "findReplace": {
+      "find": "Parries never permit Partial Defense and require explicit AoE permission.",
+      "replacement": "Parries permit normal Partial Defense against non-AoE Attacks unless the Attack prohibits it. AoE Parries need explicit permission and grant no Partial Defense.",
+      "allSheets": true,
+      "includeFormulas": true
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 618,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Choose up to 1 cubic foot of metal or stone within Range that you can see. Melt that volume into harmless slag. The material must be unattended and not Chakra Reinforced; a larger structure loses only the chosen volume.\n\nAs a Defensive Interrupt, instead defend against an Attack consisting entirely of ordinary metallic Projectile Weapons. Make a Ninjutsu Parry at \u22123. On full success, melt the projectiles and negate the Attack. On Partial Success against a non-AoE Attack, resolve its reduced effects, then melt the projectiles. On a full failure, the Attack and projectiles are unaffected. Use this option only against weapons you can see; chakra-created and Chakra-Reinforced weapons require another defense.\n\n**D-Rank**"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 630,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "While maintained, you may use Spinal Thrust after activation and then at least 10 IC after the last thrust. Declare it before Actions are declared on that IC and resolve them simultaneously, or immediately before or after your Main Action. You must be conscious, unstunned and not performing handseals or a delayed Action. Recasting does not refresh the timer.\n\nSpinal Thrust \u2014 4 AP for one creature within 5 yards, or 6 AP for any chosen creatures within 5 yards. Each needs a clear path from you and defends separately. Use Taijutsu Accuracy, Piercing damage and effective Base Speed 10, modified by Paralysis normally. Damage is PDB \u00d7 effective Final Speed, with no base dice. Extra AP may reduce effective Speed to its normal minimum. The thrust advances no IC and grants no movement; defenders advance IC normally.\n\nThe first Spinal Thrust you use in a battle is a Surprise Attack against each chosen target. Later thrusts require ordinary Surprise conditions. Each thrust is a targeted Melee Attack: a full-success Parry prevents it completely, and Partial Defense applies normally. Dodge and other defenses retain their normal effects.\n\nAfter resolving a thrust, gain one Ossification, Blades or Spurs Modification, once for the Action. Activating the form grants none. This is the technique\u2019s Clan Jutsu Modification gain; Wound-triggered gains apply separately. End the form as Speed 0 by ending Upkeep.\n\n**B-Rank**"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 639,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Choose G from 0\u20135 available gallons in Water Reserve and spend them with Chakra. As a Main Action, remove one external physical Immobilization and flow to a legal point within max(2, 2G) yards. As a Defensive Interrupt against one non-AoE, non-Genjutsu Attack, use the Parry below. Doton and Raiton cannot be Parried with this technique.\n\nChoose a continuous route through openings at least 1 inch wide. The listed movement distance is already adjusted for Hydration; sealed barriers stop it. Gallons spent are consumed. Removed restraints are left behind, while internal conditions, sealing effects and shadow possession remain.\n\nMake a Ninjutsu Parry with +1 per full 2 gallons spent. On full success, negate the Attack, remove one eligible restraint and move. On Partial Success, resolve the reduced Attack at your starting point, then remove the restraint and move if you remain able to act. On a full failure, remain in place. Hydration\u2019s passive mitigation applies to damage you take. Ending Hydration during the hit cancels the escape and movement."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 648,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "X is the number of gallons of battlefield water currently invested in the technique you are interrupting. You may use Boil as a Defensive Interrupt only against an Attack that currently has at least 1 gallon of battlefield water invested in it.\n\nMake a Ninjutsu Parry against the interrupted Attack's Accuracy with a +CHA/10 bonus. This Parry permits Partial Success against non-AoE Attacks. It cannot defend against an AoE unless another effect expressly grants that permission; an AoE Parry grants no Partial Success. On a full success, you are fully defended from the Attack and boil off X gallons before it resolves. If this leaves the Attack below its minimum Gallon Requirement, it fails for all targets. Otherwise, if its effects scale with gallons, recalculate them using the gallons that remain before resolving the Attack against any other targets. On Partial Success or failure, Boil destroys no gallons.\n\nBoil cannot erase Mokuton, Hy\u014dton, or another advanced nature merely because Suiton helped create it. The interrupted technique must actually be using battlefield water at that moment.\n\n**D-Rank**"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 30,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Skill scaling: 19 vs 20, opposed False"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 30,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(IF(FALSE,19<=20,19<20),\"Failed\",ROUNDDOWN((19-20)/5,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 30,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Failed"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 30,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B31=C31"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 31,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Skill scaling: 20 vs 20, opposed False"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 31,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(IF(FALSE,20<=20,20<20),\"Failed\",ROUNDDOWN((20-20)/5,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 31,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 31,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B32=C32"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 32,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Skill scaling: 24 vs 20, opposed False"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 32,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(IF(FALSE,24<=20,24<20),\"Failed\",ROUNDDOWN((24-20)/5,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 32,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 32,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B33=C33"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 33,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Skill scaling: 25 vs 20, opposed False"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 33,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(IF(FALSE,25<=20,25<20),\"Failed\",ROUNDDOWN((25-20)/5,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 33,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 1
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 33,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B34=C34"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 34,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Skill scaling: 35 vs 20, opposed False"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 34,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(IF(FALSE,35<=20,35<20),\"Failed\",ROUNDDOWN((35-20)/5,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 34,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 3
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 34,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B35=C35"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 35,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Skill scaling: 20 vs 20, opposed True"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 35,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(IF(TRUE,20<=20,20<20),\"Failed\",ROUNDDOWN((20-20)/5,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 35,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Failed"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 35,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B36=C36"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 36,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Skill scaling: 21 vs 20, opposed True"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 36,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(IF(TRUE,21<=20,21<20),\"Failed\",ROUNDDOWN((21-20)/5,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 36,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 36,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B37=C37"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 37,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Skill scaling: 30 vs 20, opposed True"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 37,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=IF(IF(TRUE,30<=20,30<20),\"Failed\",ROUNDDOWN((30-20)/5,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 37,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 2
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 37,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B38=C38"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  }
+]

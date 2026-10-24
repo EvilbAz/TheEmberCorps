@@ -154,7 +154,7 @@ Speed: 15
 
 Base Command AP: 12
 
-Effects: The monster may move up to 8 yards from concealment, water or Cover and Attack for 150% Monster Damage. If the target had not detected the monster, this Attack gains +3 Accuracy.
+Effects: The monster may move up to 8 yards from concealment or water and Attack for 150% Monster Damage. If the target had not detected the monster, this Attack gains +3 Accuracy.
 
 ## Temperament
 {:#temperament-7}

@@ -351,7 +351,7 @@ Seal Speed: 8
 Gallons Requirement: 6 \> 12
 
 Tags: Interrupt  
-Effects: You parry an incoming attack with a Bonus of \+(G/3). This works against jutsu weak to it up to A rank, jutsu strong against it up to C-rank, and all other Jutsu (including Taijutsu) up to B-rank.
+Effects: You may Parry a Melee, Ranged or AoE Attack with a Bonus of \+(G/3). This works against jutsu weak to it up to A rank, jutsu strong against it up to C-rank, and all other Jutsu (including Taijutsu) up to B-rank.
 
 ## B-Rank
 {:#b-rank-9}

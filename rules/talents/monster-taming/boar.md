@@ -59,14 +59,14 @@ Effects: Once per Move Action, the Boar may attempt to pass through the space of
 
 Unlock: Development 3 — Elite Feature
 
-Effects: Adjacent allies may treat the Boar as Cover 1. The Boar may Take the Hit for an ally within 2 yards at Speed 5 when it can physically interpose itself.
+Effects: Adjacent allies gain 5 DR against physical Attacks while the Boar can act. The Boar may Take the Hit for an ally within 2 yards at Speed 5 when it can physically interpose itself.
 
 ### Battering Ram
 {:#battering-ram}
 
 Unlock: Development 4 — Elder Feature
 
-Effects: The Boar counts as one Size larger for carrying and forced movement. Its Attacks deal +50% Final Damage against unattended objects, Cover and mundane structures. A full hit after Headlong Charge inflicts Knockback 4 and Prone instead of Knockback 2.
+Effects: The Boar counts as one Size larger for carrying and forced movement. Its Attacks deal +50% Final Damage against unattended objects and mundane structures. A full hit after Headlong Charge inflicts Knockback 4 and Prone instead of Knockback 2.
 
 ## Monster Traits
 {:#monster-traits-4}
@@ -104,7 +104,7 @@ The monster can carry or drag one additional human-sized willing or unconscious 
 
 Type: One-Time
 
-Living Wallback provides Cover 2 instead of Cover 1.
+Living Wallback grants adjacent allies 10 DR against physical Attacks instead of 5.
 
 ### Planted Feet
 {:#planted-feet}

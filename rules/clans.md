@@ -107,7 +107,7 @@ Increase the maximum Range of thrown weapons by 5 yards per rank.
 
 Increase the number of weapons you can throw as part of a Multi-Throw by 1 per rank.
 
-Once per attack, reduce penalties from Cover against a thrown weapon by 1 per rank.
+Once per Attack, reduce Visibility penalties against a thrown weapon by 1 per rank.
 
 ## Jutsu
 {:#jutsu-11}
@@ -147,7 +147,7 @@ After seeing the target's first Defense result, you can force them to reroll tha
 
 Choose one bend point within half the Attack's maximum Range. Draw the projectile's path from you to that point and then to the target; both segments must be physically clear.
 
-The target calculates ordinary Cover from the bend point rather than from you. This can attack around a corner or shield that blocks one line, but never through Full Cover, sealed barriers or solid terrain.
+Measure the projectile’s clear path from its bend point. It may pass around a corner but cannot pass through a solid obstacle or sealed barrier.
 
 After the Attack resolves, the weapon returns along the same path if that route remains clear. Catching it is Speed 0\.
 
@@ -287,7 +287,7 @@ Requires: Smoke Body active
 
 Effects
 
-Until the end of your next Action, reduce penalties to Stealth caused by moving by 5 and treat your body as ordinary environmental smoke for the purpose of mundane attempts to identify which part of a larger smoke cloud is you. Attacking, forming obvious handseals through Partial Reformation, or leaving all smoke/cover ends this effect.
+Until the end of your next Action, reduce penalties to Stealth caused by moving by 5 and treat your body as ordinary environmental smoke for the purpose of mundane attempts to identify which part of a larger smoke cloud is you. Attacking, forming obvious handseals through Partial Reformation, or leaving all smoke or concealment ends this effect.
 
 **C-Rank**
 
@@ -389,7 +389,7 @@ While active, gain 240-foot-equivalent Darkvision and 120-foot-equivalent Chakra
 
 Gain \+4 Search against targets 20 or more yards away and ignore the first \-3 Visibility penalty from distance, darkness, smoke, or weather.
 
-The Junsugan does not see through solid cover and does not identify techniques automatically.
+The Junsugan does not see through solid obstacles and does not identify techniques automatically.
 
 ## Jutsu
 {:#jutsu-18}
@@ -2808,14 +2808,19 @@ Forge Rating: A catalogue firearm's Forge Rating counts as its Artisan Point tot
 
 Durability: Firing a Ballistic Weapon does not generate WDP by itself. It still uses normal Durability, Damage Level and WDP rules when struck, damaged or stressed by another effect.
 
-Ballistic Attacks are still subject to the normal ranged-defense rules. A bullet does not become unblockable or unparryable merely because it is a bullet.
+Rolled-Accuracy Ballistic Attacks do not allow Partial Defense: a failed Defense resolves the full hit. Blocking, Armor and DR still apply. Ballistic Attacks are still subject to the normal ranged-defense rules. A bullet does not become unblockable or unparryable merely because it is a bullet.
 
 Ballistic Arts are exclusive Ballistic Corps Weapon Jutsu. For requirements, XP costs and effects that care about Jutsu type, they count as Bukijutsu. Unless a technique says otherwise, a Ballistic Art requires a Ballistic Weapon and cannot be used with an ordinary weapon.
+
+### Controlled Fire
+{:#controlled-fire}
+
+All Ballistic Corps Hunters know Controlled Fire. Before rolling an Attack, add +5 Stamina to replace its Accuracy die with a base 10, then apply its normal Accuracy modifiers. The Attack permits Partial Defense from eligible defenses, including Parries against non-AoE Attacks. AoE Parries still grant no Partial Defense. This option applies to a Basic Attack, Burst, Full Auto or Ballistic Art and is chosen once for the entire Attack. It adds no Delay and cannot be chosen after seeing a roll.
 
 ### Omnidirectional Fire
 {:#omnidirectional-fire}
 
-Ballistic Corps Hunters are trained to fire while advancing, retreating, strafing or turning. **Every Attack made with a Ballistic Weapon is Omnidirectional**, including normal Attacks, Burst, Full Auto and Ballistic Arts. You may declare these Attacks in any direction regardless of the direction you are moving or facing. Normal movement, Range, cover, line-of-sight and technique requirements apply; movement still breaks Braced or Aim.
+Ballistic Corps Hunters are trained to fire while advancing, retreating, strafing or turning. **Every Attack made with a Ballistic Weapon is Omnidirectional**, including normal Attacks, Burst, Full Auto and Ballistic Arts. You may declare these Attacks in any direction regardless of the direction you are moving or facing. Normal movement, Range, line-of-sight and technique requirements apply; movement still breaks Braced or Aim.
 
 ### The Hunter Arm
 {:#the-hunter-arm}
@@ -2945,7 +2950,7 @@ Parry: \+0
 
 Range: 12 yards
 
-Delay: 4
+Delay: 0
 
 Durability: 30
 
@@ -2974,7 +2979,7 @@ Parry: \+0
 
 Range: 20 yards
 
-Delay: 5
+Delay: 0
 
 Durability: 40
 
@@ -3003,7 +3008,7 @@ Parry: \-1
 
 Range: 30 yards
 
-Delay: 8
+Delay: 2
 
 Durability: 50
 
@@ -3032,7 +3037,7 @@ Parry: \-1
 
 Range: 10 yards
 
-Delay: 4
+Delay: 0
 
 Durability: 28
 
@@ -3061,7 +3066,7 @@ Parry: \+0
 
 Range: 24 yards
 
-Delay: 4
+Delay: 0
 
 Durability: 38
 
@@ -3090,7 +3095,7 @@ Parry: \+0
 
 Range: 12 yards
 
-Delay: 6
+Delay: 1
 
 Durability: 42
 
@@ -3119,7 +3124,7 @@ Parry: \-1
 
 Range: 45 yards
 
-Delay: 7
+Delay: 1
 
 Durability: 42
 
@@ -3148,7 +3153,7 @@ Parry: \-1
 
 Range: 15 yards
 
-Delay: 7
+Delay: 1
 
 Durability: 40
 
@@ -3177,7 +3182,7 @@ Parry: \-1
 
 Range: 22 yards
 
-Delay: 5
+Delay: 0
 
 Durability: 55
 
@@ -3301,7 +3306,7 @@ Reduce the weapon's listed Range by 25%, rounded normally, and reduce its Base S
 #### Overpressure Chamber
 {:#overpressure-chamber}
 
-Increase the weapon's Damage by \+1 Damage Die. All Ballistic Attacks with it gain \+2 Stamina and \+1 Delay. Limit 1\.
+Increase the weapon's Damage by \+1 Damage Die. All Ballistic Attacks with it gain +3 Stamina. Limit 1\.
 
 #### Choke Assembly
 {:#choke-assembly}
@@ -3400,7 +3405,7 @@ Increase Magazine by 50%, rounded up. Increase Reload by 2\. Limit 1\.
 #### Dampened Action
 {:#dampened-action}
 
-Reduce the weapon's Delay by 1, to a minimum of 2\. All Ballistic Attacks with it gain \+2 Stamina. Limit 1\.
+Reduce the weapon's Delay by 1, to a minimum of 0\. All Ballistic Attacks with it gain \+2 Stamina. Limit 1\.
 
 #### Tripod Mount
 {:#tripod-mount}
@@ -3907,7 +3912,7 @@ Covering Fire is one Attack. Burst cannot also modify it.
 
 Type: Bukijutsu, Rank C
 
-Stamina: 14
+Stamina: 16
 
 Damage: As Weapon
 
@@ -3923,7 +3928,7 @@ Requires: Sidearm or Light Bowgun Frame
 
 Make a hurried Ballistic Attack. It cannot benefit from Aim, Predator's Zero or an effect that requires you to be Braced.
 
-After it resolves, increase the weapon's Delay by 2 for this Attack only.
+This Attack has no weapon Delay.
 
 ### B-Rank
 {:#b-rank-4}
@@ -4094,7 +4099,7 @@ Explosion: After the linked declaration resolves, other creatures within 3 yards
 
 X is the number of gallons of battlefield water currently invested in the technique you are interrupting. You may use Boil as a Defensive Interrupt only against an Attack that currently has at least 1 gallon of battlefield water invested in it.
 
-Make a Ninjutsu Parry against the interrupted Attack's Accuracy with a \+CHA/10 bonus. Partial Success applies normally. On a full success, you are fully defended from the Attack and boil off X gallons before it resolves. If this leaves the Attack below its minimum Gallon Requirement, it fails for all targets. Otherwise, if its effects scale with gallons, recalculate them using the gallons that remain before resolving the Attack against any other targets. On a Partial Success or full failure, Boil destroys no gallons.
+Make a Ninjutsu Parry against the interrupted Attack's Accuracy with a \+CHA/10 bonus. This Parry permits Partial Success against non-AoE Attacks. It cannot defend against an AoE unless another effect expressly grants that permission; an AoE Parry grants no Partial Success. On a full success, you are fully defended from the Attack and boil off X gallons before it resolves. If this leaves the Attack below its minimum Gallon Requirement, it fails for all targets. Otherwise, if its effects scale with gallons, recalculate them using the gallons that remain before resolving the Attack against any other targets. On Partial Success or failure, Boil destroys no gallons.
 
 Boil cannot erase Mokuton, Hyōton, or another advanced nature merely because Suiton helped create it. The interrupted technique must actually be using battlefield water at that moment.
 
@@ -4384,7 +4389,7 @@ Choose G from 0–5 available gallons in Water Reserve and spend them with Chakr
 
 Choose a continuous route through openings at least 1 inch wide. The listed movement distance is already adjusted for Hydration; sealed barriers stop it. Gallons spent are consumed. Removed restraints are left behind, while internal conditions, sealing effects and shadow possession remain.
 
-Make a Ninjutsu Parry with +1 per full 2 gallons spent. On success, negate the Attack, remove one eligible restraint and move. On Partial Success, take the Attack’s reduced effects at your starting point, then remove the restraint and move if you remain able to act. On a full failure, remain in place. Hydration’s passive mitigation applies to damage you take. Ending Hydration during the hit cancels the escape and movement.
+Make a Ninjutsu Parry with +1 per full 2 gallons spent. On full success, negate the Attack, remove one eligible restraint and move. On Partial Success, resolve the reduced Attack at your starting point, then remove the restraint and move if you remain able to act. On a full failure, remain in place. Hydration’s passive mitigation applies to damage you take. Ending Hydration during the hit cancels the escape and movement.
 
 # Hyūga
 {:#hyuga}
@@ -5267,7 +5272,7 @@ A Jiton inheritor begins every mission with a sealed or carried reserve of metal
 
 Gain \+1 per rank to Diplomacy and Research checks concerning military planning or settlement administration.
 
-When an ally within CHA/2 yards gains Knockback, Immobilization, or Cover from one of your effects, you can grant them 2 AP per rank, up to their maximum.
+When an ally within CHA/2 yards gains Knockback reduction, Immobilization reduction, or DR from one of your effects, you can grant them 2 AP per rank, up to their maximum.
 
 This Ability grants no authority over other characters.
 
@@ -5525,7 +5530,7 @@ Each actual Chakra Exhaustion failure by the victim reduces this casting’s Upk
 
 **Effects**
 
-Create a flowering forest. It counts as your Mokuton for Body of the Forest and provides heavy cover. Hostile creatures entering or beginning an Action within the area make Resistance against your Chakra Control. Failure applies Drowsy 2; a target already Drowsy increases its severity by 1, maximum 6\. This effect can occur only once per target per 10 IC.
+Create a flowering forest. It counts as your Mokuton for Body of the Forest and imposes Visibility 3 on sight through its foliage. Hostile creatures entering or beginning an Action within the area make Resistance against your Chakra Control. Failure applies Drowsy 2; a target already Drowsy increases its severity by 1, maximum 6\. This effect can occur only once per target per 10 IC.
 
 # Shakuton
 {:#shakuton}
@@ -5923,7 +5928,7 @@ This is a Status Effect applied across its entire Area that lasts for 10 \+ Chak
 
 Choose up to 1 cubic foot of metal or stone within Range that you can see. Melt that volume into harmless slag. The material must be unattended and not Chakra Reinforced; a larger structure loses only the chosen volume.
 
-As a Defensive Interrupt, instead defend against an Attack consisting entirely of ordinary metallic Projectile Weapons. Make a Ninjutsu Parry at −3. On success, melt the projectiles and negate the Attack. On Partial Success, resolve the Attack’s reduced effects, then melt the projectiles. On a full failure, the Attack and projectiles are unaffected. Use this option only against weapons you can see; chakra-created and Chakra-Reinforced weapons require another defense.
+As a Defensive Interrupt, instead defend against an Attack consisting entirely of ordinary metallic Projectile Weapons. Make a Ninjutsu Parry at −3. On full success, melt the projectiles and negate the Attack. On Partial Success against a non-AoE Attack, resolve its reduced effects, then melt the projectiles. On a full failure, the Attack and projectiles are unaffected. Use this option only against weapons you can see; chakra-created and Chakra-Reinforced weapons require another defense.
 
 **D-Rank**
 
@@ -6042,7 +6047,7 @@ The strip lasts 20 IC. It follows the connected ground surface and stops at a so
 
 Choose a visible ground point within Range. Attack creatures touching the ground within Area 15, then turn that ground into an Ascendant Field for 30 IC. The field remains fixed; creating another ends your previous Ascendant Field. Resolve the initial Attack before applying its field benefits.
 
-When declaring a later Yōton Ninjutsu with a numeric Range, you may choose a visible point on this Field as its origin. Measure that Attack’s Range, Area and Cover from that point. Its target may be outside the Field, but you must perceive the target and have a clear attack path from the chosen origin. Pay the Action’s normal costs and handseals.
+When declaring a later Yōton Ninjutsu with a numeric Range, you may choose a visible point on this Field as its origin. Measure that Attack’s Range and Area from that point. Its target may be outside the Field, but you must perceive the target and have a clear attack path from the chosen origin. Pay the Action’s normal costs and handseals.
 
 - Magma: the Field is Magma 6 for 30 IC. For its damage ticks, add 2 Severity against a creature carrying your Searing Residue. Apply normal Magma ticks and overlapping-field rules; this bonus does not increase its movement penalty.
 
@@ -6465,7 +6470,7 @@ A Support:
 ### Range Anchoring
 {:#range-anchoring}
 
-Whenever a Routine, Attack, Defensive Interrupt or technique originates from a Support, use that Support’s actual position for Range, Reach, Cover, Line of Sight, AoE, terrain and other positional rules.
+Whenever a Routine, Attack, Defensive Interrupt or technique originates from a Support, use that Support’s actual position for Range, Reach, Line of Sight, AoE, terrain and other positional rules.
 
 ### Formations
 {:#formations}
@@ -6567,7 +6572,7 @@ If the target of the Primary’s Attack is within that Support’s legal weapon/
 ### Screen — \[Guard\]
 {:#screen-guard}
 
-**Requires:** Ablative Shell, Anchor Spikes, Deployable Cover, or a Reinforced, Juggernaut or Siege Frame.  
+**Requires:** Ablative Shell, Anchor Spikes, Deployable Shield, or a Reinforced, Juggernaut or Siege Frame.  
 Once per IC when the Primary takes damage, reduce that damage by 5% of its maximum HP per active Screen, maximum 10%, rounded down. Apply this after ordinary percentage reductions.
 
 ### Interception — \[Guard\]
@@ -6586,7 +6591,7 @@ Field Refit restores an additional 10% of the target Puppet’s maximum HP per a
 {:#spotter-any}
 
 **Requires:** Sensor Mast.  
-If at least one Spotter Support can clearly perceive the Primary’s target, reduce penalties to the Primary’s Attack from Cover, smoke, darkness, weather or distance by 2 per active Spotter, maximum 4\.
+If at least one Spotter Support can clearly perceive the Primary’s target, reduce penalties to the Primary’s Attack from smoke, darkness, weather or distance by 2 per active Spotter, maximum 4\.
 
 ## Abilities
 {:#abilities-14}
@@ -7189,12 +7194,12 @@ Upgrade
 
 Choose one mounted Melee weapon. It may benefit from the User’s Chakra Flow, weapon-channeling and similar effects when all other requirements are met.
 
-### Deployable Cover
+### Deployable Shield
 {:#deployable-cover}
 
 **Slots:** 2  
 **Grade:** Refined  
-As a Speed 4 Puppet Action, deploy or retract a shield assembly. While deployed, the Puppet counts as solid Cover appropriate to its Size for adjacent creatures and gains \+10% Block reduction, but suffers \-25% movement.
+As a Speed 4 Puppet Action, deploy or retract a shield assembly. While deployed, the Puppet gains +10 percentage points of Block reduction and may use Take the Hit for an adjacent ally at Speed 4. Its Movement is reduced by 25%.
 
 ### Explosive Failsafe
 {:#explosive-failsafe}
@@ -7236,7 +7241,7 @@ Choose one mounted Small or Medium weapon. The weapon begins each scene conceale
 **Grade:** Refined  
 Not Small or Recon
 
-The Puppet can enclose one willing, helpless or Grappled creature of a Size it could reasonably contain. Entering or removing a willing creature is Speed 6\. An enclosed creature has solid Cover and cannot Attack, form handseals, control Puppets or interact outside without leaving.
+The Puppet can enclose one willing, helpless or Grappled creature of a Size it could reasonably contain. Entering or removing a willing creature is Speed 6\. An enclosed creature cannot be directly targeted through the intact Puppet shell; attacks must first break the shell or explicitly penetrate solid barriers. It cannot Attack, form handseals, control Puppets or interact outside without leaving.
 
 ### Rotary Drive
 {:#rotary-drive}
@@ -7280,7 +7285,7 @@ Once per scene when this Puppet would become Inactive solely because it left Fra
 **Grade:** Masterwork  
 Upgrade
 
-Choose Hollow Body or Piloted Core. Mundane weather, smoke, dust, contaminated air and ordinary inhaled poisons cannot enter the compartment while sealed. Effects that explicitly penetrate solid Cover or do not need air can still affect the occupant.
+Choose Hollow Body or Piloted Core. Mundane weather, smoke, dust, contaminated air and ordinary inhaled poisons cannot enter the compartment while sealed. Effects that explicitly penetrate solid barriers or do not need air can still affect the occupant.
 
 ### Wire Guillotine
 {:#wire-guillotine}
@@ -7498,7 +7503,7 @@ When Shaped Charge is used with Breaching Palm, its structural Final Damage incr
 
 **Effects**
 
-The bird may curve around ordinary terrain but cannot ignore full Cover or attack a target you cannot locate.
+The bird may curve around ordinary terrain but cannot pass through solid barriers or attack a target you cannot locate.
 
 Treat the Attack's origin as any point up to 10 yards above its target.
 
@@ -7941,7 +7946,7 @@ While maintained, you may use Spinal Thrust after activation and then at least 1
 
 Spinal Thrust — 4 AP for one creature within 5 yards, or 6 AP for any chosen creatures within 5 yards. Each needs a clear path from you and defends separately. Use Taijutsu Accuracy, Piercing damage and effective Base Speed 10, modified by Paralysis normally. Damage is PDB × effective Final Speed, with no base dice. Extra AP may reduce effective Speed to its normal minimum. The thrust advances no IC and grants no movement; defenders advance IC normally.
 
-The first Spinal Thrust you use in a battle is a Surprise Attack against each chosen target. Later thrusts require ordinary Surprise conditions. A successful Parry halves damage and prevents Wounds; a failed Parry uses normal Partial Defense. Dodge and other defenses retain their normal effects.
+The first Spinal Thrust you use in a battle is a Surprise Attack against each chosen target. Later thrusts require ordinary Surprise conditions. Each thrust is a targeted Melee Attack: a full-success Parry prevents it completely, and Partial Defense applies normally. Dodge and other defenses retain their normal effects.
 
 After resolving a thrust, gain one Ossification, Blades or Spurs Modification, once for the Action. Activating the form grants none. This is the technique’s Clan Jutsu Modification gain; Wound-triggered gains apply separately. End the form as Speed 0 by ending Upkeep.
 

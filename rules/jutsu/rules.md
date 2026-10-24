@@ -147,7 +147,7 @@ Many taijutsu require you to have x arms and/or legs free to utilize them. These
 ## Requirements
 {:#requirements-2}
 
-Qualify for a Ninjutsu Rank through any one of the following: Corps rank, Chakra Control or Research. Elemental Ninjutsu also requires the appropriate Elemental Aptitude.
+Qualify for a Ninjutsu Rank through any one of the following: Corps rank, Chakra Control or Research. Elemental Ninjutsu instead uses the paired requirements below and also requires the appropriate Elemental Aptitude.
 
 Rank:  
 E: Stray  
@@ -165,6 +165,23 @@ D: 5
 C: 12  
 B: 22  
 A: 32
+
+## Elemental Requirements
+{:#elemental-requirements}
+
+To learn ordinary Elemental Ninjutsu, meet both individual skill minima and the combined minimum. Corps rank and Research do not replace these requirements. Genjutsu retains Diplomacy and Research.
+
+| Rank | Chakra Control | Ninshou | Combined |
+| :--- | ---: | ---: | ---: |
+| E | 0 | 0 | 0 |
+| D | 5 | 5 | 15 |
+| C | 10 | 10 | 25 |
+| B | 20 | 20 | 50 |
+| A | 30 | 30 | 70 |
+
+Elemental Affinity reduces one individual minimum and the combined minimum by its rank, each to a minimum of 0. It does not reduce both individual minima. Genuine Skill Focus ranks count; bonuses to skill rolls do not. Heritage-granted Elemental Aptitudes grant elemental access but do not waive these learning requirements. Explicit access to a particular Heritage technique remains governed by that technique.
+
+Genius may qualify for the next Jutsu rank using the preceding rank's skill thresholds, retaining its +3 use-cost surcharge. At E-rank qualification it may reach D-rank, but still needs the relevant Elemental Aptitude. Naturalist may use Survival instead of Ninshou for ordinary Elemental Ninjutsu; Chakra Control and the combined minimum remain required. Mentor exemption requires at least 150% of both individual minima and the combined minimum, rounded up, after Affinity.
 
 ## Elemental Strength and Weaknesses
 {:#elemental-strength-and-weaknesses}

@@ -1,0 +1,778 @@
+[
+  {
+    "addSheet": {
+      "properties": {
+        "sheetId": 218240002,
+        "title": "Update Checks",
+        "gridProperties": {
+          "rowCount": 80,
+          "columnCount": 4,
+          "frozenRowCount": 1
+        }
+      }
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 0,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Calculation"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "stringValue": "Actual"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "stringValue": "Expected"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "stringValue": "Pass"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "SP: XP 0, Skilled False"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDDOWN(0/IF(FALSE,19,20),0)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B2=C2"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "SP: XP 19, Skilled False"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDDOWN(19/IF(FALSE,19,20),0)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B3=C3"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "SP: XP 20, Skilled False"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDDOWN(20/IF(FALSE,19,20),0)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 1
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B4=C4"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "SP: XP 500, Skilled False"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDDOWN(500/IF(FALSE,19,20),0)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 25
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B5=C5"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "SP: XP 500, Skilled True"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDDOWN(500/IF(TRUE,19,20),0)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 26
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B6=C6"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "SP: XP 999, Skilled True"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDDOWN(999/IF(TRUE,19,20),0)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 52
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B7=C7"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "SP: XP 1000, Skilled True"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDDOWN(1000/IF(TRUE,19,20),0)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 52
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B8=C8"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Focus 0, XP 500, Skilled False, scale 1"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,0-1-IF(FALSE,ROUNDDOWN(500/1000,0),0)),0*2+1*n*(n+1)/2)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 0
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B9=C9"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Focus 3, XP 500, Skilled False, scale 1"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,3-1-IF(FALSE,ROUNDDOWN(500/1000,0),0)),3*2+1*n*(n+1)/2)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 9
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B10=C10"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Focus 3, XP 2000, Skilled True, scale 1"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,3-1-IF(TRUE,ROUNDDOWN(2000/1000,0),0)),3*2+1*n*(n+1)/2)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 6
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B11=C11"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Focus 5, XP 2000, Skilled True, scale 1"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,5-1-IF(TRUE,ROUNDDOWN(2000/1000,0),0)),5*2+1*n*(n+1)/2)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 13
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B12=C12"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Focus 3, XP 500, Skilled False, scale 3"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,3-1-IF(FALSE,ROUNDDOWN(500/1000,0),0)),3*2+3*n*(n+1)/2)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 15
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B13=C13"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Focus 3, XP 2000, Skilled True, scale 3"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(n,MAX(0,3-1-IF(TRUE,ROUNDDOWN(2000/1000,0),0)),3*2+3*n*(n+1)/2)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 6
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B14=C14"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Elemental gates CC 7 / Ninshou 7"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,7,y,7,a,0,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 1
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B15=C15"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Elemental gates CC 8 / Ninshou 7"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,8,y,7,a,0,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 2
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B16=C16"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Elemental gates CC 10 / Ninshou 14"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,10,y,14,a,0,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 2
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B17=C17"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Elemental gates CC 10 / Ninshou 15"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,10,y,15,a,0,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 3
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B18=C18"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Elemental gates CC 20 / Ninshou 29"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,20,y,29,a,0,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 3
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B19=C19"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Elemental gates CC 20 / Ninshou 30"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,20,y,30,a,0,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B20=C20"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Elemental gates CC 30 / Ninshou 39"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,30,y,39,a,0,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B21=C21"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Elemental gates CC 30 / Ninshou 40"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,30,y,40,a,0,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B22=C22"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Affinity once: CC 4 / Ninshou 4 / affinity 2"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,4,y,4,a,2,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 1
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B23=C23"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Affinity once: CC 5 / Ninshou 8 / affinity 2"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,5,y,8,a,2,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 2
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B24=C24"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Affinity once: CC 27 / Ninshou 40 / affinity 3"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,27,y,40,a,3,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B25=C25"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Affinity once: CC 27 / Ninshou 37 / affinity 3"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=LET(x,27,y,37,a,3,IF(AND(OR(AND(x+a>=30,y>=30),AND(x>=30,y+a>=30)),OR(FALSE,x+y+a>=70)),5,IF(AND(OR(AND(x+a>=20,y>=20),AND(x>=20,y+a>=20)),OR(FALSE,x+y+a>=50)),4,IF(AND(OR(AND(x+a>=10,y>=10),AND(x>=10,y+a>=10)),OR(FALSE,x+y+a>=25)),3,IF(AND(OR(AND(x+a>=5,y>=5),AND(x>=5,y+a>=5)),OR(FALSE,x+y+a>=15)),2,1)))))"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B26=C26"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Armor: strong DR rounds down"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDDOWN(7*1.5,0)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B27=C27"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Armor: weak DR rounds down"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDDOWN(7*0.5,0)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 3
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B28=C28"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Armor: absorption capped"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MIN(100,80*1.5)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 100
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B29=C29"
+              }
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Team: 8+10+12 with 3 preparers"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ROUNDUP(SUM(8,10,12)/3,0)"
+              }
+            },
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            },
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B30=C30"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateDimensionProperties": {
+      "range": {
+        "sheetId": 218240002,
+        "dimension": "COLUMNS",
+        "startIndex": 0,
+        "endIndex": 1
+      },
+      "properties": {
+        "pixelSize": 420
+      },
+      "fields": "pixelSize"
+    }
+  },
+  {
+    "repeatCell": {
+      "range": {
+        "sheetId": 218240002,
+        "startRowIndex": 0,
+        "endRowIndex": 1
+      },
+      "cell": {
+        "userEnteredFormat": {
+          "textFormat": {
+            "bold": true
+          }
+        }
+      },
+      "fields": "userEnteredFormat.textFormat"
+    }
+  }
+]

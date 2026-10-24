@@ -57,7 +57,7 @@ Effects: When your Tamed Monster fully hits a creature with an Attack, your next
 ### Handler's Read
 {:#handler-s-read}
 
-Effects: Gain +3 Awareness and Survival when your Tamed Monster can meaningfully assist through its senses, tracking ability or position. You may act on information your monster communicates from things it can perceive but you cannot. This does not remove Visibility, Cover or other penalties from your own Attacks.
+Effects: Gain +3 Awareness and Survival when your Tamed Monster can meaningfully assist through its senses, tracking ability or position. You may act on information your monster communicates from things it can perceive but you cannot. This does not remove Visibility or other penalties from your own Attacks.
 
 ### Protective Training
 {:#protective-training}
@@ -304,3 +304,5 @@ On Rebellion, your monster withdraws into its Beast Seal or otherwise refuses to
     </div>
   </div>
 </section>
+
+Protective DR granted to allies by Tamed Monsters does not stack with another Tamed Monster’s protective DR; use the highest value. These benefits require the protecting monster to be able to act.

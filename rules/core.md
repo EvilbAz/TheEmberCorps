@@ -127,7 +127,7 @@ A new character starts with 20 in all Attributes. They also begin with 25 points
 ## Choose Skills
 {:#choose-skills}
 
-A new character gains 1 Skill Point for every 18 XP. These Skill Points can be spent on any of the game's 12 skills.
+A new character gains 1 Skill Point for every 20 XP. These Skill Points can be spent on any of the game's 14 skills.
 
 ## Experience Costs
 {:#experience-costs}
@@ -297,11 +297,12 @@ Skills measure broad competencies. Describe how your character uses a Skill, the
 
 Your skills all have a limit of 5 \+(your total XP)/200 Ranks. A lot of them benefit from practical application and general worldliness. Actually increasing your skills up to that limit, however, requires you to spend skill points.
 
-You gain 1 Skill Point for every 18 XP that you gain.
+Your Skill Point total is total XP divided by 20, rounded down.
 
 A single skill point raises a single skill by one rank.
 
-For example, at 600 XP you have 33 Skill Points (600 /18, rounded down), and each skill has a maximum rank of 8 (5 \+ 600/200). You could raise Stealth to 8, Awareness to 7, Chakra Control to 7, Resistance to 6, and Survival to 5 (8 \+ 7 \+ 7 \+ 6 \+ 5 \= 33). A skill roll is 1d20 \+ your ranks in the skill. Even if you have not raised a skill beyond zero, you may still make a plain 1d20 roll when attempting a task that calls for that skill.
+At 600 XP you have 30 Skill Points and a normal rank limit of 8 per skill. A skill roll is 1d20 + your ranks in that skill. Untrained skills may be rolled with no rank bonus.
+
 
 ### Athletics
 {:#athletics}
@@ -317,6 +318,16 @@ How perceptive you are. This applies to things like hearing a faint noise, notic
 {:#chakra-control}
 
 This is your ability to control the flow of the chakra within your own body, using it efficiently and shaping it precisely to do what you want. To a limited extent, it also represents how intuitively aware you are of the nature of chakra in general, and might allow you to notice when something's unusual about the surrounding chakra.
+
+### Ninshou
+{:#ninshou}
+
+Your study and practice of jutsu: chakra theory, elemental shaping, handseals and the principles behind techniques. Learning Elemental Ninjutsu requires both Ninshou and Chakra Control; see [Jutsu Requirements]({{ '/rules/jutsu/rules/#elemental-requirements' | relative_url }}).
+
+### Lore
+{:#lore}
+
+Knowledge of history, oral traditions, old-world records, monsters and earlier Hunts. Lore may always replace the listed skill for any Hunt roll, including Track, Research, Study Weakness and Prepare.
 
 ### Espionage
 {:#espionage}
@@ -362,6 +373,8 @@ The skill that defines crafters as it allows you to well…craft. When you take 
 {:#toxicology}
 
 This represents overall familiarity with poisons. While high enough medicine might be able to identify a poison, its symptoms, and how to treat it, toxicology knows what plant or animal that poison comes from, how long it takes before effects set in, and just how deadly it can be. Many medics have enough of this skill to be helpful in their work... but it's also very handy if you find yourself needing to poison someone.
+
+For practical applications of all fourteen skills, see [Skill Actions]({{ '/rules/skill-actions/' | relative_url }}).
 
 # Experience & Advancement
 {:#experience-advancement}
@@ -837,7 +850,7 @@ Limit: Survival /5
 
 Every hunter has a natural affinity for one of the five primary elements, though some may not discover it until later. This ability can be taken for any one of the five elements, even one your character cannot use.
 
-For each rank, you get a \+1 bonus to Chakra Exhaustion and Chakra Control rolls involving your favored element. The Chakra Control skill requirements to learn jutsu of your chosen element are considered 1 point lower, per rank.
+For each rank, you get a \+1 bonus to Chakra Exhaustion and Chakra Control rolls involving your favored element. When learning Elemental Ninjutsu of your chosen element, reduce either its Chakra Control or Ninshou minimum by 1 per Affinity rank, and reduce the combined minimum by the same amount. Choose the skill for each requirement check; count Affinity only once.
 
 Cost: 0  
 Scale: 3  
@@ -1873,6 +1886,8 @@ Every 100 IC represents 30 seconds.
 
 Characters acting on the same IC declare and resolve their Actions simultaneously. Apply both Actions’ effects at the end of that IC.
 
+For coordinated attacks by two to four Hunters, see [Team Attacks]({{ '/rules/team-attacks/' | relative_url }}).
+
 ## Clashes
 {:#clashes}
 
@@ -2086,6 +2101,13 @@ As movement is Speed Variable it does not occur all at once. Instead every IC sp
 
 Sometimes you may need to close the distance and attack an opponent all at once. This is called the “Move with an Attack” Maneuver. When attacking, you may move towards your opponent a distance corresponding to half your attack's Speed, for free. Thus, if you  needed to rush an enemy and throw a punch at them, and had 25 AGI, as a Speed 8 action you could move up to (25\*(8/2)/50 \=) 2 yards and then use a basic unarmed attack.
 
+#### Shove
+{:#shove}
+
+(Speed 4, Stamina 5, Melee, Unarmed)
+
+Make an Accuracy Attack against an adjacent creature. On a full hit, inflict Knockback 3 without damage. Resolve the Knockback Special normally. This basic combat action requires no learned Jutsu and does not advance a weapon Chain. Forced movement stops at solid obstacles or occupied spaces; this causes no extra collision damage.
+
 #### Wait
 {:#wait}
 
@@ -2112,6 +2134,8 @@ This entails deflecting an opponent's weapon with your own, or stopping their ba
 
 If an effect penalises both Accuracy and defensive rolls, apply only its defensive-roll penalty to Parry. Accuracy-only penalties still apply.
 
+Parries against non-AoE Attacks use the normal Partial Defense rules. A Parry cannot defend against an AoE unless its entry explicitly allows it; when it does, it succeeds fully or fails and grants no Partial Defense. These rules apply to all Accuracy-based defensive parries, including Jutsu. Attacks that independently prohibit Partial Defense, such as rolled-Accuracy Ballistic Attacks, retain that restriction.
+
 The above is the standard parry option but there are more parry options listed elsewhere. A defensive option that uses an accuracy roll is considered a parry and sufferes the same penalties as listed above.
 
 #### Jutsu (Speed Variable, Interrupt)
@@ -2122,7 +2146,7 @@ Some Jutsu can be used as interrupts to Defend against an Attack. Or, just as fr
 #### Stabilise (Speed 10, Utility, Touch)
 {:#stabilise}
 
-Requires a First Aid Kit and at least 1 Medicine rank. Treat one willing or helpless living creature. Make a Medicine check against TN 20. On success, end one non-Wound Bleed affecting it; alternatively, apply a treatment explicitly permitted by one of its Wound entries, using that entry’s TN if higher. The attempt consumes the kit.
+Requires a First Aid Kit and at least 1 Medicine rank. Treat one willing or helpless living creature. Make a Medicine check against TN 20. On success, end one non-Wound Bleed affecting it; alternatively, apply a treatment explicitly permitted by one of its Wound entries, using that entry’s TN if higher. For every full 5 points the Medicine total exceeds the TN, the recipient also gains +1 on its next Resistance roll against a physical status this scene, maximum +4. The attempt consumes the kit.
 
 Stabilise does not restore HP, remove a Wound or wake an Incapacitated creature. It cannot treat a dead creature.
 
@@ -2136,15 +2160,6 @@ You may use interrupts to defend yourself, up to a maximum Speed of how many poi
 Take the hit works as normal vs AOE attacks. You do not take damage twice if both you and the person you are taking the hit for are both in the AOE, however.
 
 You cannot perform a Take The Hit action if you are Stunned or if you are suffering from an immobilization penalty of 10 or more. After you successfully use a take the hit action, you are moved into melee range with the person you used to take the hit on.
-
-#### Cover (Speed 3, Interrupt, Link)
-{:#cover-speed-3-interrupt-link}
-
-You duck behind a solid object or willing target to provide respite from an incoming attack.
-
-You make a dodge roll with a \+5 bonus; if successful, you've leapt behind the object or target, having it take the hit for you. If you fail, you take 20% of the damage per point you failed by. (For example: If you fail by 2 points, you'd take 40% damage, and whatever’s in front of you 40% damage). If the object is destroyed any remaining damage targets you as normal.
-
-This may be added to any interrupt but the final defense must be decided before you roll. After deciding the amount of cover you then defend normally against the damage (if any) targeting you.
 
 ## Attacking
 {:#attacking}
@@ -2181,7 +2196,7 @@ Unless otherwise noted, any alterations to an action's Speed also affect the Spe
 
 1\.  Any percent-based (e.g. Para-Elementals) reductions of damage not mentioned below.
 
-2\.  Partial Defense (as from Dodge, Parry) if applicable
+2\.  Partial Defense (from Dodge or an eligible defensive technique) if applicable
 
 3\.  Actual DR.
 
@@ -2228,9 +2243,9 @@ Alternatively, you may choose to Abort as part of an Interrupt--for example, abo
 #### Partial Success
 {:#partial-success}
 
-Just because you failed to evade a shuriken or deflect a sword slash doesn't mean they struck a vital area. When you make a defensive roll (such as a dodge or parry) against an attack, for each point you fail by, you take 20% of its effects including statuses (rounded up). This still counts as a failed defense.
+When you make a Dodge or another eligible defensive roll against an attack, for each point you fail by, you take 20% of its effects including statuses (rounded up). This still counts as a failed defense.
 
-With regards to defensive jutsu: Partial success typically applies to any jutsu which works similar to a dodge or parry. That is, you make a d20 roll, and if successful the attack you are defending against does not hit you. However, if the technique has another effect (such as making a d20 roll, and if you succeed you reduce the attack's damage by a set amount), partial success does not apply. Exceptions to this will be noted otherwise in the individual technique's description.
+With regards to defensive jutsu: Partial success typically applies to any jutsu which works similarly to a Dodge. That is, you make a d20 roll, and if successful the attack you are defending against does not hit you. However, if the technique has another effect (such as making a d20 roll, and if you succeed you reduce the attack's damage by a set amount), partial success does not apply. Parries grant Partial Success against non-AoE Attacks, but never against AoEs. Rolled-Accuracy Ballistic Attacks prohibit Partial Success regardless of defense; Controlled Fire restores it for eligible defenses, including non-AoE Parries.
 
 That can be confusing, so, it's example time\! So for an Accuracy 15 attack, 14 would deal 20% of its effects, 13 deals 40%, etc. Even though failing by 5 points would still deal 100%, it counts as a partial success for anything that cares about it (such as Substitution) but a 9 would not count as a partial success.
 
@@ -2577,7 +2592,7 @@ Others, however, are attacks: they cause damage to everyone within an area. Depe
 When being subjected to an AoE attack, the first thing to determine is if you can dodge it effectively. To do this, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the effect's radius, then congratulations, you can dodge normally.  
 If not, you have a \-2 penalty to Dodge per yard you're short by.
 
-As AoEs are not, strictly speaking, targeting you, they have special stipulations. AoE attacks can still be parried, however, parrying an AoE attack only protects the person parrying against the attack unless stated otherwise. All other potential targets must still defend from the AoE themselves.
+As AoEs are not, strictly speaking, targeting you, they have special stipulations. An AoE can be parried only by a defense that explicitly permits AoE Parries. Such a Parry grants no Partial Defense and only protects the person parrying unless stated otherwise. All other potential targets must still defend from the AoE themselves.
 
 #### Knockback
 {:#knockback}
@@ -2613,7 +2628,7 @@ Any attack against a target with a different buried status is treated as having 
 
 Someone forgot to take Water Walking. Either that or you have a specific reason for going below the waves. The effects of swimming are separated into Above and Below the water’s surface:
 
-Above: You maintain yourself above the water’s surface such as by treading water. This provides the prone condition and a Special Upkeep of 2 as all actions become a bit more tiring. You also may use the Cover interrupt to move below the water’s surface at any time or as a Speed 3 Action.
+Above: You maintain yourself above the water’s surface such as by treading water. This provides the prone condition and a Special Upkeep of 2 as all actions become a bit more tiring. You may submerge as a Speed 3 Utility Action.
 
 Below: You sink or submerge yourself below the water’s surface. You gain the prone condition and take no damage from any katon jutsu. But every 15 IC you gain Suffocation 1 to a max of 5, \+1 for every 10 Yards deep you are (to a max of 10). You may move above the water's surface as a Speed 3 Action, \+3 for every 10 Yards deep you are. This Action has a Delay equal to its Speed.
 

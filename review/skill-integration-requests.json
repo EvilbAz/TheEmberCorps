@@ -1,0 +1,202 @@
+[
+  {
+    "insertDimension": {
+      "range": {
+        "sheetId": 2086603970,
+        "dimension": "ROWS",
+        "startIndex": 28,
+        "endIndex": 30
+      },
+      "inheritFromBefore": true
+    }
+  },
+  {
+    "insertDimension": {
+      "range": {
+        "sheetId": 0,
+        "dimension": "ROWS",
+        "startIndex": 20,
+        "endIndex": 22
+      },
+      "inheritFromBefore": true
+    }
+  },
+  {
+    "copyPaste": {
+      "source": {
+        "sheetId": 2086603970,
+        "startRowIndex": 67,
+        "endRowIndex": 69,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "destination": {
+        "sheetId": 2086603970,
+        "startRowIndex": 28,
+        "endRowIndex": 30,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "pasteType": "PASTE_NORMAL"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 28,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=FOCUS_NINSHOU"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 29,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=FOCUS_LORE"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 2086603970,
+        "rowIndex": 18,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=SUM(B17:B30)-IF(U_APPLIED_KNOWLEDGE,IFERROR(INDEX(B17:B30,MATCH(B32,A17:A30,0)),0),0)"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "range": {
+        "sheetId": 2086603970,
+        "startRowIndex": 66,
+        "endRowIndex": 69,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "rows": [],
+      "fields": "userEnteredValue,userEnteredFormat,dataValidation"
+    }
+  },
+  {
+    "copyPaste": {
+      "source": {
+        "sheetId": 0,
+        "startRowIndex": 44,
+        "endRowIndex": 46,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "destination": {
+        "sheetId": 0,
+        "startRowIndex": 20,
+        "endRowIndex": 22,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "pasteType": "PASTE_NORMAL"
+    }
+  },
+  {
+    "updateCells": {
+      "range": {
+        "sheetId": 0,
+        "startRowIndex": 44,
+        "endRowIndex": 46,
+        "startColumnIndex": 0,
+        "endColumnIndex": 5
+      },
+      "rows": [],
+      "fields": "userEnteredValue,userEnteredFormat,dataValidation"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1708751373,
+        "rowIndex": 131,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Skill"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateNamedRange": {
+      "namedRange": {
+        "namedRangeId": "805394556",
+        "range": {
+          "sheetId": 2086603970,
+          "startRowIndex": 28,
+          "endRowIndex": 29,
+          "startColumnIndex": 3,
+          "endColumnIndex": 4
+        }
+      },
+      "fields": "range"
+    }
+  },
+  {
+    "updateNamedRange": {
+      "namedRange": {
+        "namedRangeId": "1478223283",
+        "range": {
+          "sheetId": 2086603970,
+          "startRowIndex": 29,
+          "endRowIndex": 30,
+          "startColumnIndex": 3,
+          "endColumnIndex": 4
+        }
+      },
+      "fields": "range"
+    }
+  }
+]

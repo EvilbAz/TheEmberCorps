@@ -1,0 +1,4338 @@
+[
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 301,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 301,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chain 1, Sword, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 301,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "On a full hit, note the Defense used. If the target uses that broad Defense against your next Sword Chain Attack, it takes a penalty of Athletics/5 and its final Speed is doubled when advancing its next action. This does not affect Interrupt validity."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 302,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(1, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 302,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chain 1, Sword, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 302,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Requires a sheathed sword. Reduce this Attack’s final Speed by 2 after modifiers, subject to normal minimums. If the target has not yet attacked you this combat, gain +25% Wounding. The sword ends drawn."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 303,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 304,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(5, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 304,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Gain +30% Wounding. Reduce Called Shot penalties by Athletics/5, minimum 0. If your previous Sword Chain Attack was fully defended, this Attack instead gains +50% Wounding."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 305,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+4"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 305,
+        "columnIndex": 11
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+1"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 305,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link, Sword, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 305,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link to a Sword Attack. If the target Dodges, double that Defense’s final Speed when advancing its next action. This does not change whether the Defense is a valid Interrupt."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 306,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 307,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 307,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chain 2, Sword, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 307,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Read the Defense used against your previous Chain Attack. If the target repeats that broad Defense, it takes a penalty of Athletics/5. If it changes Defense, this Attack gains +25% Final Damage."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 308,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(5, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 311,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(5, floor(STR/7))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 313,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(6, floor(STR/7))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 316,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(12, floor(STR/3))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 318,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 319,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 320,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 321,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(5, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 323,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 324,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(4, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 325,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(5, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 325,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "After defense, deal this Attack’s damage directly to the struck armor piece, Barrier or Construct before resolving damage against its wearer. Apply structural damage-type matchups once. If that protection breaks, resolve the hit against the wearer without that protection; otherwise use its remaining protection normally. This structural strike is additional damage and does not bypass the target’s Defense."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 328,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(5, floor(STR/7))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 330,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(8, floor(STR/7))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 331,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(8, floor(STR/5))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 331,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "If a weapon Blocks or Parries this Attack, it suffers WDP equal to its damage-level threshold after defense, even if its wielder takes no damage. It cannot Parry your next Club Chain Attack. Otherwise, a full hit applies Stun equal to the greater of 5 or your PDB, rounded down. This is explicit weapon damage."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 333,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(13, floor(STR/3))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 334,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(10, floor(STR/3))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 335,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 335,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chain 1, Polearm, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 335,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Increase the weapon’s unmodified Reach by 50%, minimum +2 yards. On a full hit, the target cannot use Take the Hit until it completes its next non-Interrupt Action."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 336,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 337,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 338,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(5, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 340,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 341,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 342,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(5, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 345,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(4, floor(STR/7))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 345,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "On a full hit, choose one held weapon. Until the target completes a Speed 3 Utility Action to free it, it cannot use that weapon to Attack or Parry. You must keep the Polearm in hand and the target within Reach; releasing the hook ends the restriction. You may continue Polearm Chain Attacks against that target while maintaining the hook."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 346,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+6"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 346,
+        "columnIndex": 11
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+0"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 346,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link, Polearm, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 346,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link to a Polearm Attack against your chained target. If the target uses a weapon to Parry, halve that weapon’s positive Parry modifiers, rounded down. On a full hit, choose that weapon: it cannot Parry your next Polearm Chain Attack. Other legal defenses remain available."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 347,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+12"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 347,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(5, floor(STR/7))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 347,
+        "columnIndex": 11
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+3"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 347,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chain 2, Polearm, Attack, Movement"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 347,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Vault toward a target using Move with an Attack calculated from the Attack’s full final Speed. This movement may clear intervening difficult ground or a gap with a legal landing. On a full hit, resolve Prone using Athletics against Resistance. Against an already Prone target, gain +50% Wounding instead."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 348,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chain X, Polearm, Utility, Interrupt"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 348,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, redirect a physical projectile at its attacker if that attacker is within the projectile’s remaining Range. Use your Parry result as Accuracy and the projectile’s original damage; it defends normally. This counter adds no further cost or action time and cannot itself be redirected. This does not defend against AoEs."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 350,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(14, floor(STR/3))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 350,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chain 3, Polearm, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 350,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Gain +30% Wounding and ignore half the target armor’s Absorption and flat DR after its damage-type matchup. On a full hit, you may strike one creature directly behind it and within Reach at full damage. The second creature defends against the same Accuracy result. Resolve Chain progression once."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 369,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 370,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(1, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 371,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 372,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(5, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 374,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 375,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 376,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(4, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 379,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(4, floor(STR/7))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 380,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+7"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 380,
+        "columnIndex": 11
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+1"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 380,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link, Chain, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 380,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link to a Chain Weapon Grapple action. If you win its Grapple roll, gain additional Control equal to Athletics/5. If you lose, halve the Control you would lose, rounded down. This cannot establish a Grapple without a legal initiating effect."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 382,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chain X, Chain, Utility, Interrupt"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 382,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, catch a physical projectile with the chain. If its attacker is in Chain Range and your chain is unoccupied, immediately initiate a Weapon Grapple against it using your Parry result as the attack Accuracy; it defends normally, then determine Control normally on a hit. This adds no further action time. This does not defend against AoEs."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 384,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(8, floor(STR/3))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 386,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/15)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 387,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 387,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chain 1, Dual, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 387,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Requires two weapons. Choose one to attack and use the other to threaten the defender. If the target Parries, it takes a penalty of Athletics/5. If it Dodges, double that Defense’s final Speed when advancing its next action; Interrupt validity is unchanged."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 388,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 389,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/15)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 391,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/15)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 392,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/10)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 393,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(6, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 396,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/7)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 398,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(6, floor(STR/5))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 400,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/3)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 402,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 403,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(1, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 404,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 405,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 405,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Fire two arrows. Each uses the weapon dice plus this technique’s Damage dice. Roll Accuracy separately and divide Speed×PDB evenly among them. Combine successful hits for Wounding only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 407,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/15)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 408,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/10)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 409,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(6, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 409,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Gain +30% Wounding. Reduce the target armor’s Absorption and flat DR by 50% for this Attack, after its damage-type matchup. If the target has your Bow Mark, consume it when declaring to gain +Athletics/5 Accuracy."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 412,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(4, floor(STR/7))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 413,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+7"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 413,
+        "columnIndex": 11
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+0"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 413,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link, Bow, Attack, Movement"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 413,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link to a Bow Attack. Move with that Attack using its full final Speed, in any legal direction. The movement does not remove Held Draw’s benefit for this Attack. If the target Dodges, double its Defense Speed when advancing its next action; Interrupt validity is unchanged. Bow only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 415,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(6, floor(STR/5))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 417,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(12, floor(STR/3))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 352,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 352,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Resolve Knockback equal to the greater of 4 or CHA/10. On a successful Special, choose any legal direction. If this breaks the target’s Reach to a creature it was restraining, apply the restraint’s normal separation rules."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 353,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 354,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 355,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(5, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 356,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chain X, Fan, Utility, Interrupt"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 356,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. A full success also ends any effect carried solely by that projectile before it reaches you. This does not cancel an independent area effect or permit AoE defense."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 357,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 358,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(3, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 358,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Resolve Knockback equal to the greater of 4 or CHA/8 in any sideways direction. On a full hit, the target also takes a penalty of Athletics/5 on its next ranged Attack, consumed by that Attack."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 359,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(5, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 362,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(4, floor(STR/7))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 362,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "On a full hit, strip away the target’s maintained Prepare Blocking or equivalent Blocking stance. It must declare that stance again to regain its benefits. This does not end unrelated Upkeeps or cancel the Defense already resolved."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 363,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+7"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 363,
+        "columnIndex": 11
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+1"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 363,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link, Fan, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 363,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link to a Fan Attack. On a successful Knockback Special, you choose its direction. The target also becomes Prone using that same successful Status Roll. If the Attack has no Knockback, it gains Knockback equal to CHA/5, minimum 4."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 365,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(7, floor(STR/5))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 367,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(12, floor(STR/3))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 419,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/15)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 420,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(1, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 421,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/15)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 422,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(2, floor(STR/15))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 422,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Fuuma Shuriken only. Throw two weapons in succession, rolling Accuracy separately. Each hit deals 65% of weapon dice plus this technique’s Damage dice plus PDB × this Attack’s final Speed. Each target defends normally; combine successful hits against the same creature for Wounding only."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 424,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/15)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 425,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(4, floor(STR/10))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 426,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/10)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 429,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+floor(STR/7)dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 432,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(7, floor(STR/5))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 433,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+9"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 433,
+        "columnIndex": 11
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+1"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 433,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link, Thrown, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 433,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link to a Multi-Throw. It gains +Athletics/5 Accuracy and may include Athletics/5 additional weapons. Pay normal ammunition and Multi-Throw costs. A target hit by at least two projectiles suffers Bleed equal to Athletics/5 after a successful Athletics Status Roll against Resistance; resolve this once per target."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 434,
+        "columnIndex": 7
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+max(4, floor(STR/3))dS"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 434,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Fuuma Shuriken only. Choose up to 3 + Athletics/10 creatures along one continuous clear path within Range. Roll Accuracy separately against each; each target defends separately. Each hit deals weapon dice plus this technique’s Damage dice plus PDB × this Attack’s final Speed, and gains +20% Wounding. Each creature can be struck once; resolve Chain progression once."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "repeatCell": {
+      "range": {
+        "sheetId": 496086363,
+        "startRowIndex": 6,
+        "endRowIndex": 364,
+        "startColumnIndex": 13,
+        "endColumnIndex": 14
+      },
+      "cell": {
+        "userEnteredValue": {
+          "formulaValue": "=IF($E7=\"\",\"\",LET(raw,IFNA(VLOOKUP($E7,'Jutsu Data'!$A$2:$W$1500,8,FALSE),\"\"),IF(AND($B7=\"Bukijutsu\",REGEXMATCH(TO_TEXT(raw),\"STR/[0-9]+\")),\"+\"&MAX(IFERROR(VALUE(REGEXEXTRACT(raw,\"max\\(([0-9]+),\")),0),ROUNDDOWN('Jutsu Engine'!$B$2/VALUE(REGEXEXTRACT(raw,\"STR/([0-9]+)\")),0))&\"dS\",raw)))"
+        }
+      },
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 47,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Bukijutsu damage"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 47,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Extra dS dice = max(printed floor, floor(STR / rank divisor)). E:15, D:10, C:7, B:5, A:3. Add to normal weapon dice before PDB × final Speed and percentages. Damage output resolves the STR count; dS is the weapon die size. No second package for Links or Basic Weapon counters. Multi-Throw shares one package per target; copied secondary damage includes it already."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 49,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Weapon damage comparison"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 50,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "STR"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 50,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 90
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 51,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Weapon dice"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 51,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 4
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 52,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Weapon die size"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 52,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 8
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 53,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Weapon Speed"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 53,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 10
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 54,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Weapon Stamina"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 54,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 12
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 55,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Technique rank"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 55,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "B"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 56,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Printed extra dice floor"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 56,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 8
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 57,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Technique Speed modifier"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 57,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 2
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 58,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Technique Stamina modifier"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 58,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 15
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 59,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Final Damage multiplier"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 59,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 1
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 61,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Extra technique dice"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 61,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(B57,ROUNDDOWN(B51/SWITCH(B56,\"E\",15,\"D\",10,\"C\",7,\"B\",5,\"A\",3),0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 62,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Average full-hit damage"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 62,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=((B52+B62)*(B53+1)/2+ROUNDDOWN(B51/18,1)*(B54+B58))*B60"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 63,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Final Speed"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 63,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B54+B58"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 64,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Total Stamina"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 64,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B55+B59"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 65,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Average damage per IC"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 65,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=B63/B64"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 67,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Default example: Katana-sized weapon, Guard Rattle’s B-rank damage and costs, STR 90. Expected 159 damage, Speed 12, Stamina 27. Full hit; excludes Focus, stances, accuracy, armor, wound effects, AP and Delay. Use the correct weapon family when applying techniques. Damage per IC alone does not measure counter/control value."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "setDataValidation": {
+      "range": {
+        "sheetId": 218240001,
+        "startRowIndex": 55,
+        "endRowIndex": 56,
+        "startColumnIndex": 1,
+        "endColumnIndex": 2
+      },
+      "rule": {
+        "condition": {
+          "type": "ONE_OF_LIST",
+          "values": [
+            {
+              "userEnteredValue": "E"
+            },
+            {
+              "userEnteredValue": "D"
+            },
+            {
+              "userEnteredValue": "C"
+            },
+            {
+              "userEnteredValue": "B"
+            },
+            {
+              "userEnteredValue": "A"
+            }
+          ]
+        },
+        "strict": true,
+        "showCustomUi": true
+      }
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 38,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "E rank retains printed floor"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 38,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(5,ROUNDDOWN(30/15,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 38,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 5
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 38,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ABS(B39-C39)<0.000001"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 39,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "C rank rounds STR dice down"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 39,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(5,ROUNDDOWN(90/7,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 39,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 12
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 39,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ABS(B40-C40)<0.000001"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 40,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "B STR90 extra dice"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 40,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(8,ROUNDDOWN(90/5,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 40,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 18
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 40,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ABS(B41-C41)<0.000001"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 41,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "A STR150 extra dice"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 41,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=MAX(12,ROUNDDOWN(150/3,0))"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 41,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 50
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 41,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ABS(B42-C42)<0.000001"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 42,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Guard Rattle average at STR90"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 42,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=(4+18)*4.5+5*12"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 42,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 159
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 42,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ABS(B43-C43)<0.000001"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 43,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Final Measure average at STR90"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 43,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=((4+30)*4.5+5*14)*1.25"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 43,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 278.75
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 43,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ABS(B44-C44)<0.000001"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 44,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Two 60% hits include their package before scaling"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 44,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=2*((4+9)*4.5+5*14)*0.6"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 44,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 154.2
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 44,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ABS(B45-C45)<0.000001"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 45,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Comparison calculator live"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 45,
+        "columnIndex": 1
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "='Skills and Teamwork'!B63"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 45,
+        "columnIndex": 2
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "numberValue": 159
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240002,
+        "rowIndex": 45,
+        "columnIndex": 3
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "formulaValue": "=ABS(B46-C46)<0.000001"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  }
+]

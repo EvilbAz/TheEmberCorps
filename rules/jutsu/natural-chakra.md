@@ -851,7 +851,7 @@ While Imbalanced, you cannot Gather Natural Chakra, suffer \-2 to Chakra Control
 If an individual Tradition, monster or technique can cause petrification, mutation or another severe consequence from Natural Imbalance, that consequence is written into that effect. Permanent transformation is not a default risk of using Natural Chakra normally.
 
 
-# RULES CLARIFICATIONS
+# USING NATURAL CHAKRA
 {:#rules-clarifications}
 
 Chakra Exhaustion — Jutsu modified by Sage Arts make their normal Chakra Exhaustion rolls.

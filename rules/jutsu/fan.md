@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/fan/"
 # Fan Bukijutsu
 {:#fan-bukijutsu}
 
-*Fan shapes the battlefield: it moves groups, creates lanes, controls ranged space and turns wind into positioning*.
+*Fans sweep enemies aside, turn projectiles and carry cutting winds across the battlefield.*
 
 ## E-Rank
 {:#e-rank-13}
@@ -26,12 +26,12 @@ The first gust is modest but highly controllable.
 Rank: E  
 Stamina: \+3  
 Chakra: 3  
-Damage: \+2dS  
+Damage: +max(2, floor(STR/15))dS  
 Range: 6  
 Speed: \+1  
 Special: Knockback 4 (Drive) or Knockback 2 (Ride the Gust)  
 Tags: Chain 1, Fan, Attack, Movement  
-Effects: On a full hit, choose one: Drive — resolve Knockback 4; or Ride the Gust — resolve Knockback 2, then after the Attack resolves you may use any remaining Move with an Attack distance in any legal direction whether or not the target resisted the Knockback.
+Effects: Resolve Knockback equal to the greater of 4 or CHA/10. On a successful Special, choose any legal direction. If this breaks the target’s Reach to a creature it was restraining, apply the restraint’s normal separation rules.
 
 #### Folding Edge
 {:#folding-edge}
@@ -40,11 +40,11 @@ The fan snaps shut and is used like a short baton or edged frame.
 
 Rank: E  
 Stamina: \+3  
-Damage: \+2dS  
+Damage: +max(2, floor(STR/15))dS  
 Speed: \-1  
 Accuracy: \+1  
 Tags: Chain 1, Fan, Attack  
-Effects: Melee only. On a full hit, the target takes \-1 Parry against your next Fan Chain attack before 20 IC.
+Effects: Melee only. On a full hit, the target takes −Athletics/5 Parry against your next Fan Chain attack.
 
 #### Reversing Gust
 {:#reversing-gust}
@@ -54,12 +54,12 @@ The fan snaps the current back toward you, pulling the target into a shorter and
 Rank: E  
 Stamina: \+5  
 Chakra: 5  
-Damage: \+3dS  
+Damage: +max(3, floor(STR/15))dS  
 Line: 3, 10  
 Speed: \+2  
 Special: Knockback 3  
 Tags: Chain 2, Fan, Attack  
-Effects: Resolve the Knockback Special normally, but successful Knockback moves the target toward you rather than away from you.
+Effects: Resolve Knockback using the greater of 3 or CHA/10; successful Knockback moves the target toward you rather than away.
 
 #### Full Fan Gust
 {:#full-fan-gust}
@@ -69,12 +69,12 @@ The fan opens fully and the entire span contributes to one committed burst, driv
 Rank: E  
 Stamina: \+8  
 Chakra: 8  
-Damage: \+5dS  
+Damage: +max(5, floor(STR/15))dS  
 Line: 4, 15  
 Speed: \+4  
 Special: Knockback 5  
 Tags: Chain 3, Fan, Attack  
-Effects: \+5% Wounding.
+Effects: Gain +15% Wounding. Use the greater of 5 or CHA/10 as the printed Knockback.
 
 #### Wind Screen
 {:#wind-screen}
@@ -83,9 +83,9 @@ The fan catches a projectile in moving air instead of trying to meet it edge-on.
 
 Rank: E  
 Chakra: 7  
-Speed: 5  
-Tags: Chain X, Fan, Utility, Interrupt, Movement  
-Effects: Parry a Ranged Taijutsu or Projectile Attack with \+1. On full success, you may move up to 2 yards.
+Speed: 3  
+Tags: Chain X, Fan, Utility, Interrupt  
+Effects: Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. A full success also ends any effect carried solely by that projectile before it reaches you. This does not cancel an independent area effect or permit AoE defense.
 
 #### Broad Sweep
 {:#broad-sweep}
@@ -95,7 +95,7 @@ The fan is used to claim a broad patch of battlefield with one sweep.
 Rank: E  
 Stamina: \+6  
 Chakra: 5  
-Damage: \+2dS  
+Damage: +max(2, floor(STR/15))dS  
 Area: 4  
 Speed: \+4  
 Special: Knockback 2  
@@ -113,12 +113,12 @@ The current is turned across the target rather than straight through them.
 Rank: D  
 Stamina: \+8  
 Chakra: 7  
-Damage: \+3dS  
+Damage: +max(3, floor(STR/10))dS  
 Range: 12  
 Speed: \+1  
 Special: Knockback 4  
 Tags: Chain 2, Fan, Attack, Movement  
-Effects: On a successful Knockback Special, choose a sideways direction for the forced movement. After the Attack resolves, you may use any remaining Move with an Attack distance in any legal direction.
+Effects: Resolve Knockback equal to the greater of 4 or CHA/8 in any sideways direction. On a full hit, the target also takes a penalty of Athletics/5 on its next ranged Attack, consumed by that Attack.
 
 #### Dust Sweep
 {:#dust-sweep}
@@ -128,11 +128,11 @@ The sweep is designed to clear a lane whether the attack connects cleanly or not
 Rank: D  
 Stamina: \+10  
 Chakra: 14  
-Damage: \+5dS  
+Damage: +max(5, floor(STR/10))dS  
 Area: 7  
 Speed: \+5  
 Tags: Chain 3, Fan, Attack  
-Effects: Targets that fully Dodge are moved to the Area edge; targets hit take Visibility 1 for 10 IC.
+Effects: Targets that fully Dodge move to the Area edge as part of that Defense. Targets hit suffer Visibility equal to the greater of 2 or Athletics/10, maximum 5, until they clear their eyes with a Speed 3 Utility Action. Apply Partial Defense to the severity normally.
 
 #### Wind Sense
 {:#wind-sense}
@@ -143,7 +143,7 @@ Rank: D
 Chakra: 7  
 Speed: 4  
 Tags: Chain X, Fan, Utility  
-Effects: Make a Search using Chakra Control or Awareness with \+2. Until your next action, ignore up to 2 points of Visibility penalty on Fan attacks.
+Effects: Make a Search using Chakra Control or Awareness with +Athletics/5. Your next Fan Attack against a creature located by this Search ignores Visibility penalties if it is your next non-Interrupt Action. It still requires a clear attack path.
 
 #### Guided Wind
 {:#guided-wind}
@@ -155,7 +155,7 @@ Chakra: 15
 Upkeep: 3  
 Speed: 8  
 Tags: Bukijutsu, Fan, Utility  
-Effects: Fan Bukijutsu gain \+4 Range. Fuuton cast through this fan gains \+10 Range. Once per 20 IC, one Fan Bukijutsu or Fuuton with a printed Knockback Special may increase that printed Knockback by 1 before rolling it.
+Effects: Increase the Range of Fan Bukijutsu and Fuuton cast through this fan by 50%. Increase their printed Knockback by 50%, rounded down, before Special rolls. These bonuses last while maintained.
 
 ## C-Rank
 {:#c-rank-13}
@@ -168,11 +168,11 @@ The attack leaves a clean tailwind behind it, turning the space you just cut thr
 Rank: C  
 Stamina: \+8  
 Chakra: 8  
-Damage: \+4dS  
+Damage: +max(4, floor(STR/7))dS  
 Range: 14  
 Speed: \+2  
 Tags: Chain 1, Fan, Attack  
-Effects: On a full hit, the attack path remains a tailwind until your next action. You and allies moving in that direction gain \+25% movement while within the path.
+Effects: On a full hit, strip away the target’s maintained Prepare Blocking or equivalent Blocking stance. It must declare that stance again to regain its benefits. This does not end unrelated Upkeeps or cancel the Defense already resolved.
 
 #### Crosswind Step
 {:#crosswind-step}
@@ -180,10 +180,10 @@ Effects: On a full hit, the attack path remains a tailwind until your next actio
 The user lets the fan pull their body through a short movement while preserving the chain.
 
 Rank: C  
-Stamina: 7  
-Speed: 2  
-Tags: Chain X, Fan, Utility, Movement  
-Effects: Move up to 5 yards. If you end farther from your chained target than you began, your next Fan Chain attack gains \+2 Range.
+Stamina: +7  
+Speed: +1  
+Tags: Link, Fan, Attack  
+Effects: Link to a Fan Attack. On a successful Knockback Special, you choose its direction. The target also becomes Prone using that same successful Status Roll. If the Attack has no Knockback, it gains Knockback equal to CHA/5, minimum 4.
 
 #### Closed Guard
 {:#closed-guard}
@@ -194,7 +194,7 @@ Rank: C
 Stamina: 11  
 Speed: 4  
 Tags: Bukijutsu, Fan, Utility, Interrupt  
-Effects: Block or Parry a Melee Attack with the closed fan at \+2. On full success, your next Fan Chain 1 before 20 IC has its final Speed reduced by 1\.
+Effects: Parry a targeted Melee Attack with +Athletics/5. On full success, your next Fan Chain 1 gains +20% Final Damage if it is your next non-Interrupt Action. This does not defend against AoEs.
 
 ## B-Rank
 {:#b-rank-13}
@@ -207,12 +207,12 @@ The return current drags the target across your line while carrying you into the
 Rank: B  
 Stamina: \+15  
 Chakra: 13  
-Damage: \+7dS  
+Damage: +max(7, floor(STR/5))dS  
 Range: 20  
 Speed: \+2  
 Special: Knockback 5  
 Tags: Chain 2, Fan, Attack, Movement  
-Effects: On a successful Knockback Special, choose a sideways direction for the forced movement. Afterward, you may use your Move with an Attack movement to follow along the path the target vacated.
+Effects: Use the greater of 5 or CHA/5 as the printed Knockback. On a successful Special, choose any sideways direction and follow up to the target’s actual movement along a legal path. This follow replaces Move with an Attack for this technique.
 
 #### Seamless Wind
 {:#seamless-wind}
@@ -223,7 +223,7 @@ Rank: B
 Chakra: 11  
 Speed: 3  
 Tags: Chain X, Fan, Utility  
-Effects: Once per Chain, your next Fan-tagged Fuuton used before 20 IC may be used without breaking Chain. It does not change or refresh Chain, and cannot trigger an effect that grants an additional weapon attack after using Fuuton.
+Effects: Once per Chain, your next Fan-tagged Fuuton used may be used without breaking Chain. It does not change or refresh Chain, and cannot trigger an effect that grants an additional weapon attack after using Fuuton.
 
 ## A-Rank
 {:#a-rank-13}
@@ -236,12 +236,12 @@ You split the battlefield with one violent current and leave the air behind it t
 Rank: A  
 Stamina: \+26  
 Chakra: 24  
-Damage: \+12dS  
+Damage: +max(12, floor(STR/3))dS  
 Line: 8, 35  
 Speed: \+5  
 Special: Knockback 6  
 Tags: Chain 3, Fan, Attack  
-Effects: The Line remains turbulent until your next action; Ranged Taijutsu and Projectile Attacks crossing it take \-2 Accuracy.
+Effects: Use the greater of 10 or CHA/3 as the printed Knockback. Gain +25% Final Damage. The Line remains turbulent until your next non-Interrupt Action; Ranged Taijutsu and Projectile Attacks crossing it take an Accuracy penalty of Athletics/5.
 
 #### Perfect Current
 {:#perfect-current}
@@ -252,7 +252,7 @@ Rank: A
 Chakra: 14  
 Speed: 4  
 Tags: Chain X, Fan, Utility  
-Effects: Your next Fan attack before 20 IC may bend once by up to 90 degrees around solid cover. Ignore up to 3 points of Visibility penalty; if the target uses the Cover Interrupt, reduce Cover’s \+5 bonus by 3\. The bend must remain within the attack’s Range.
+Effects: Your next Fan Attack may bend up to twice, each by up to 90 degrees, within its total Range. Ignore Visibility penalties against targets you can locate and gain +25% Final Damage. Every segment needs a clear path. The benefit ends if your next non-Interrupt Action is not a Fan Attack.
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>

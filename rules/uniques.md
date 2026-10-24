@@ -98,6 +98,8 @@ Unless an entry says otherwise, a Unique may be taken only once.
 
 *A Jutsu you could not use without Genius costs \+3 Chakra or Stamina each time you use it.*
 
+Skill Focus has Scale 3 for you. You gain Specialization in every skill without paying its XP cost or meeting its rank prerequisite. These granted Specializations treat natural d20 results below 8 as 8 on non-combat skill rolls only; they do not apply to combat skill actions, offensive rolls, defensive rolls or status checks. Buying ordinary Specialization in a skill grants its normal use during combat; the two floors do not stack.
+
 ### Juggernaut
 {:#juggernaut}
 
@@ -128,7 +130,7 @@ Unless an entry says otherwise, a Unique may be taken only once.
 
 *When rolling checks related to studying non-human creatures, you gain advantage.*
 
-*Survival may replace Research for prerequisites of ordinary Elemental Ninjutsu when field knowledge is relevant. Reduce maximum Research ranks by 3\.*
+*Survival may replace Ninshou for prerequisites of ordinary Elemental Ninjutsu. Chakra Control and the combined skill minimum remain required. Reduce maximum Research ranks by 3\.*
 
 *You also suffer a \-3 to all Genjutsu Rolls*
 
@@ -151,9 +153,9 @@ Unless an entry says otherwise, a Unique may be taken only once.
 ### Skilled Hunter
 {:#skilled-shinobi}
 
-*You are not necessarily the most dangerous person in the room, but there are very few situations where you have nothing useful to contribute. Gain additional Skill Points equal to total XP/75, rounded down, and increase the maximum rank of every Skill by XP/500 , minimum 0\.*
+Your Skill Point total is total XP divided by 19, rounded down, replacing the ordinary rate. When purchasing Skill Focus, reduce the number of ranks already held in that particular Skill Focus by floor(total XP/1,000), minimum 0, for its Scale calculation only. Your actual ranks, prerequisites and global surcharge are unchanged. Recalculate the cost of all purchased Skill Focus ranks at your current total XP; freed Skill Points may be reassigned between scenes.
 
-*Suffer \-1 Accuracy.*
+For example, at 2,000 XP your first three ranks in each Skill Focus cost its base 2 Skill Points each before the global surcharge. Later ranks resume normal scaling. Skilled Hunter has no Accuracy penalty.
 
 ### Specialist
 {:#specialist}

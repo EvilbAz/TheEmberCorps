@@ -38,7 +38,7 @@ Movement: Ground
 
 Unlock: Core Talent
 
-Effects: The Crab gains 10 DR against physical damage. An adjacent ally may treat it as Cover 1 against Attacks originating from the opposite side.
+Effects: The Crab gains 10 DR against physical damage. Adjacent allies gain 5 DR against physical Attacks while the Crab can act.
 
 ### Vice Grip
 {:#vice-grip}
@@ -70,7 +70,7 @@ Speed: 4 Interrupt
 
 Trigger: A hostile creature voluntarily leaves the Crab's melee reach.
 
-Effects: Attempt a Grapple. On success, the triggering movement ends. Shell Wall also becomes 15 DR against physical damage and Cover 2, and the Crab reduces Knockback suffered by 2, minimum 0.
+Effects: Attempt a Grapple. On success, the triggering movement ends. Shell Wall also becomes 15 DR against physical damage and grants adjacent allies 10 DR against physical Attacks, and the Crab reduces Knockback suffered by 2, minimum 0.
 
 ## Monster Traits
 {:#monster-traits-20}
@@ -115,7 +115,7 @@ Sideways Guard may move 2 yards instead of 1 after a successful Dodge.
 
 Type: One-Time
 
-Increase the Cover granted by Shell Wall by 1. This makes it Cover 2 before Elder Feature and Cover 3 after Control Zone.
+Increase the DR Shell Wall grants adjacent allies by 5.
 
 ## Monster Techniques
 {:#monster-techniques-19}
@@ -136,7 +136,7 @@ Speed: 4
 
 Base Command AP: 5
 
-Effects: Until the monster's next Action, gain +3 Defence and become Cover 3, but Movement is halved.
+Effects: Until the monster's next Action, gain +3 Defence and grant adjacent allies 15 DR against physical Attacks, but Movement is halved.
 
 ### Undertow
 {:#undertow}

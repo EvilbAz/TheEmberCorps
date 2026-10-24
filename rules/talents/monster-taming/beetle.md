@@ -59,7 +59,7 @@ Effects: When the Beetle's Basic Attack fully hits, choose one: inflict Knockbac
 
 Unlock: Development 3 — Elite Feature
 
-Effects: The Beetle counts as one Size larger for carrying, bracing and forced-movement contests. Its Attacks deal +50% Final Damage against unattended objects, Cover and mundane structures.
+Effects: The Beetle counts as one Size larger for carrying, bracing and forced-movement contests. Its Attacks deal +50% Final Damage against unattended objects and mundane structures.
 
 ### Immovable Engine
 {:#immovable-engine}
@@ -152,7 +152,7 @@ Base Command AP: 12
 
 Line: 10 yards
 
-Effects: Move through the Line and Attack each creature for 110% Monster Damage. Unattended objects and Cover take +75% Final Damage; a destroyed mundane obstacle does not stop the movement.
+Effects: Move through the Line and Attack each creature for 110% Monster Damage. Unattended objects and physical barriers take +75% Final Damage; a destroyed mundane obstacle does not stop the movement.
 
 ## Temperament
 {:#temperament-13}

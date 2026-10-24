@@ -1,0 +1,905 @@
+[
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 304,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Gain +30% Wounding and reduce Called Shot penalties by Athletics/5, minimum 0. If your previous Sword Chain Attack hit through Partial Defense, use +50% Wounding instead. This exploits a weakened guard without requiring an already-broken Chain."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 310,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "One sword gains +15% Wounding, stacking with its printed Sword Bukijutsu Wounding. Its edge may cut chakra-created physical bindings as an ordinary weapon Attack against that binding, using the binding’s normal durability and destruction rules. This grants no ability to cut intangible possession or effects without a physical target."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 329,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "For your next Club Chain Attack, halve temporary Accuracy penalties and weapon Delay, rounding the remaining values down. If neither applies, gain +15% Final Damage and you may treat it as Piercing by concentrating force into the weapon’s end. The benefit ends if your next non-Interrupt Action is not that Attack."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 349,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Choose a benefit for your next non-Interrupt Action, which must be a Polearm Attack: Long Measure adds twice the weapon’s unmodified Reach; Short Measure gains +30% Final Damage and may attack at adjacency without the weapon’s minimum-Reach penalty. This does not remove other restrictions on using that weapon. Repeated uses do not stack."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 388,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "If this Attack uses a different leading weapon from your previous damaging Dual Chain Attack, gain +Athletics/5 Accuracy. Declare the leading weapon before the Defense; it supplies this Attack’s damage type and weapon properties."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 389,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Make one Attack with each weapon at 65% Final Damage, rolling and defending separately. Combine successful hits for Wounding only. If both fully hit the same creature, resolve Prone using Athletics against Resistance. Resolve Chain progression once."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 405,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Fire two arrows. Each uses the weapon dice plus this technique’s Damage dice; divide Speed×PDB evenly between them. Declare targets and roll Accuracy separately. Both may target your chained creature, or one may target a held weapon or worn armor piece on it using normal Called Shot penalties, item defenses and structural damage rules. Combine successful hits on the creature for Wounding only; item damage does not also damage its wielder."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 408,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Fire two arrows at the chained target, each at 60% Final Damage. Roll Accuracy separately; the defender declares one legal defensive method, pays its cost and Speed once, and rolls it separately against each arrow. If either fully hits and you know Marking Shot, establish or refresh your Bow Mark. Resolve Chain progression once; Partial Defense applies to each hit normally."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 417,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Choose a clear arcing projectile path within Bow Range and ignore Visibility penalties against a creature you can locate. Gain +25% Final Damage and +30% Wounding. On a full hit, resolve Prone using Athletics against Resistance. This adds no Delay beyond the weapon’s normal Bukijutsu Delay."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 419,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Throw two compatible weapons at one target and choose before its Defense: Crossed Blades — use one Accuracy roll and one Defense; each weapon contributes 55% of its damage, with its own damage type and legal payload, then apply that Defense’s result normally; or Decoy — one weapon deals no damage and distracts the guard, imposing an Athletics/5 penalty if the target Parries, while the other deals its full damage. Both weapons are spent; Chain advances once if the Attack hits."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 420,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Requires Kunai, Shuriken or Senbon. On a full hit choose one: Bleed — resolve Bleed equal to the greater of 2 or Athletics/10, maximum 6, using Athletics against Resistance; or Disrupt — the target takes an Accuracy penalty of Athletics/5 on its next Attack. Declare which projectile carries a poison or other payload before the Defense."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 421,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Requires Ninja Wire for the entire clear projectile route. After the target fully defends, you may redirect the weapon along a clear return path within its remaining Range and force one repeat of that Defense. Reuse its paid Stamina, Chakra, AP and Speed; it pays and advances time only once. If the repeated Defense fails, resolve its ordinary Partial Defense against an Attack dealing 75% Final Damage. The repeated result replaces the first. This cannot combine with another forced Defense reroll against the same target. Keep the wire committed until the Attack finishes; then you may retrieve the weapon along that route if it is not embedded or held."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 422,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Fuuma Shuriken only. Throw two weapons in succession, rolling and defending separately. Each hit deals 65% of weapon dice plus this technique’s Damage dice plus PDB × final Speed; combine damage for Wounding only. If both fully hit the same creature, resolve Prone using Athletics against Resistance as the crossing blades break its footing. A creature that resists remains standing."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 423,
+        "columnIndex": 11
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+0"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 423,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link, Thrown, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 423,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link to a Senbon Attack or Senbon Multi-Throw. Produce one concealed Senbon as part of the Attack without a Draw action; it counts toward normal ammunition and projectile limits. The first use against a creature that has not seen you use this trick is a Surprise Attack even if you were not Hidden. Other projectiles must already be readied normally. This Link supplies no separate attack or damage package."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 424,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+6"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 424,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Bukijutsu, Thrown, Attack, AoE"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 424,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Supply one thrown weapon per chosen creature in Area, within your normal Multi-Throw allowance. Make one Accuracy roll; each target defends separately and can be hit by one weapon. Each fully hit target takes an Accuracy penalty of Athletics/5 on its next Ranged Attack. Pay normal ammunition and add this technique’s Stamina to the normal Multi-Throw Stamina, using this technique’s printed Speed. This is an area attack and follows AoE defense rules."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 425,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Choose a bank point along a clear route within total throwing Range. Use a hard surface, or throw an additional compatible weapon to create the ricochet point; that extra weapon counts toward your Multi-Throw limit and costs its normal Multi-Throw increments but deals no damage. Measure the Attack’s final approach from the bank point and reduce Visibility penalties by Athletics/5. Both segments must be clear. This changes the attack angle without automatically granting Surprise."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 426,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Multi-throw up to Athletics/5 additional weapons beyond your normal allowance, splitting them among legal targets. Use normal Multi-Throw damage and costs; distribute this technique’s extra dice once per target across its projectiles. Each target defends separately. Against a creature fully hit by at least two projectiles, you may resolve Immobilization equal to Athletics/5 using Athletics against Resistance, pinning its clothing or equipment; no scenery is required. It can remove this Immobilization with a Speed 3 Utility Action. The extra allowance does not add to other Bukijutsu projectile allowances; use the highest."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 427,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "After your Thrown Attack resolves, recover its missed or deflected weapons along clear return paths within normal throwing Range. Weapons embedded in a creature, held by someone else, destroyed or consumed cannot be recovered this way. The recovered weapons are ready in your hands or carried holders; recovering them does not grant another Attack."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 428,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Halve the Speed added by Multi-Throw, rounding the remaining added Speed up, and increase its weapon allowance by Athletics/5. Use the highest extra allowance granted by Bukijutsu, not their sum. Normal Speed minimums and ammunition costs still apply."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 429,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Throw one compatible weapon at each of two creatures at 60% Final Damage, rolling and defending separately. You may use this at Chain 0, 1 or 2. If the original chained target is hit, you may preserve your current Chain value against it. Alternatively, choose a hit creature and begin a new Chain 1 against it, ending the previous Chain and any unused Opening. This does not maintain two Chains or advance a preserved Chain."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 430,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Route Ninja Wire from your hand or a thrown weapon you have already placed along a clear path. Your next Thrown Chain Attack gains +50% Range and may turn up to 90 degrees along that route. Supply wire for the entire route; it cannot pass through solid barriers. You may keep a placed weapon as the anchor for later uses, but each Attack needs its own use of Corner Wire. Cutting, detaching or retrieving the wire ends the setup."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 431,
+        "columnIndex": 6
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+6"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 431,
+        "columnIndex": 11
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "+2"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 431,
+        "columnIndex": 18
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link, Thrown, Attack"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 431,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link to a Thrown Attack. As part of readying it, apply up to two compatible attachments to one projectile, such as a paper tag, wire loop or poison coating. Pay their normal item and resource costs and make required application checks; this Link replaces preparation actions, not separate activation or detonation actions. Follow normal payload compatibility and stacking rules. No payload is copied onto other projectiles."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 431,
+        "columnIndex": 19
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "You fix the payload to the projectile as you prepare the throw."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 432,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "After the first strike resolves, direct the weapon along a clear path within its remaining Range. Choose another creature, or the original target only if it fully defended the first strike. Make a new Accuracy roll; the target defends normally against 80% Final Damage. This is a second strike, not a reroll; this Attack cannot also force a Defense reroll. Resolve Chain progression once against the original chained target. If neither strike leaves the weapon embedded or held, it returns to your hand along a clear remaining route."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 433,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Link to a Multi-Throw. Gain +Athletics/5 Accuracy and up to Athletics/5 additional weapons; use the highest extra allowance granted by Bukijutsu. Pay normal ammunition and Multi-Throw costs. A creature fully hit by at least two projectiles suffers Bleed equal to Athletics/5 after a successful Athletics Status Roll against Resistance, once per target. Choose ammunition types and payloads when declaring, not after Defense."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 433,
+        "columnIndex": 19
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "You spread a prepared handful across the target’s guard, choosing which tools carry the real threat."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 434,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Fuuma Shuriken only. Choose up to 3 + Athletics/10 creatures or exposed mundane bindings along one continuous clear path within Range. Roll Accuracy separately against each hostile creature; each defends normally. A hit deals weapon dice plus this technique’s Damage dice plus PDB × final Speed and gains +20% Wounding. For a binding on a willing or helpless creature, you may instead sever that ordinary rope, net or strap without damaging the creature; this does not cut chakra restraints or armor. Each target can be struck once. Resolve Chain progression once against your chained target; if it cannot legally be included, this finisher cannot be declared."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 1265406250,
+        "rowIndex": 435,
+        "columnIndex": 20
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Requires four thrown weapons as physical anchors and enough Ninja Wire to connect the Area’s perimeter. Area is the greater of 6 yards or DEX/5, entirely within throwing Range. The cage lasts until its wire or anchors are cut, destroyed or retrieved. Creatures inside have 50% less movement. Crossing its boundary requires Athletics against your Athletics; on failure, stop at the boundary and become Prone. A creature may attack a wire or anchor using normal object rules to open a passage. Resolve one crossing check per movement Action. The cage does not prevent legal Attacks, defenses, handseals or techniques that bypass its physical boundary."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 69,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Chain Openings"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 69,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "The first rise from Chain 1 to Chain 2 grants one Opening per Chain. Repeating Chain 2, multi-hits and returning to Chain 1 do not grant more. Spend before a later Attack roll against that target: Precision reduces one Called Shot penalty by Athletics/5; Control adds Athletics/5 to one declared Special Status Roll; Assist gives one ally Athletics/5 Accuracy. Use the owner’s Athletics, floor /5, min2/max6. One Opening benefit per Attack, including a Team Attack. No refund on miss. You may spend Precision/Control on your non-Chain Attack, then end the Chain normally. Unspent Opening ends with the Chain."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 70,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Pressure stacking"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 70,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Highest Bukijutsu bonus per Accuracy/Defense/Special roll; highest Bukijutsu penalty per roll. Includes stances, Links, preparations and Openings. Highest Bukijutsu Called Shot reduction and projectile allowance. Ordinary weapon stats and other abilities use their own rules. Defense-Speed multipliers do not compound."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 71,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Multi-hit and counters"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 71,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Weapon/Bukijutsu effects force at most one Defense reroll per target per Attack, including Weapon Mastery. A same-target second-strike technique cannot also force a reroll. Separate printed hit defenses remain. One Chain advance per Attack. A Bukijutsu counter is defended normally, but that Defense cannot generate another counterattack."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 72,
+        "columnIndex": 0
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Thrown decisions"
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  },
+  {
+    "updateCells": {
+      "start": {
+        "sheetId": 218240001,
+        "rowIndex": 72,
+        "columnIndex": 4
+      },
+      "rows": [
+        {
+          "values": [
+            {
+              "userEnteredValue": {
+                "stringValue": "Double Cast: damage types/payloads or a Parry feint. Banked Throw: terrain or a second weapon creates the bank point. Crossfire Cast: keep pressure or restart against another target. Rigged Weapon: payload setup Link. Return Flick: recover misses. Returning Arc: another target or retry a fully defended first strike. Finishers can pin, knock down, or cut allies free."
+              }
+            }
+          ]
+        }
+      ],
+      "fields": "userEnteredValue"
+    }
+  }
+]

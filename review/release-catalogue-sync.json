@@ -1,0 +1,527 @@
+[
+  {
+    "name": "Rising Cut",
+    "row": 302,
+    "col": 20,
+    "before": "The cut is meant to raise the opponent’s hands and eyes. A clean hit gives you the choice to press that lifted guard or take the outside angle before they can square up again.",
+    "after": "You cut upward beneath the target’s guard."
+  },
+  {
+    "name": "Draw Cut",
+    "row": 303,
+    "col": 20,
+    "before": "The sheath is used as part of the attack rather than as storage. You can spend the draw on raw timing, or let the same motion carry you past the target instead of stopping in front of them.",
+    "after": "You strike as the sword leaves its sheath."
+  },
+  {
+    "name": "Descending Cut",
+    "row": 304,
+    "col": 20,
+    "before": "This is the weight of the sequence coming down after the entry has already forced the guard upward. The user decides whether to cash that opening out as damage or smother the defender’s weapon line.",
+    "after": "You bring the blade down through the opening made by your previous strike."
+  },
+  {
+    "name": "Finishing Cut",
+    "row": 305,
+    "col": 20,
+    "before": "This is where the sword chain is meant to end. The user commits the hips and shoulders to a cut chosen for wound placement, not simply for making another contact.",
+    "after": "You commit to a precise cut through the exposed target."
+  },
+  {
+    "name": "Half-Step",
+    "row": 306,
+    "col": 20,
+    "before": "The step changes the user’s relationship to the target without putting the sword away or letting the chain go neutral. It is footwork for changing shoulders, hips, and escape lanes while the blade remains live.",
+    "after": "You change position while keeping your blade between you and the target."
+  },
+  {
+    "name": "Iaidō",
+    "row": 307,
+    "col": 20,
+    "before": "A draw-cut performed from stillness, relying on timing and a clean line rather than a long wind-up. The sheath, hips, and first step all become part of the same motion, so the technique is strongest when used before the sword has already been brought into a wide exchange.",
+    "after": "You draw and strike in one motion from a still stance."
+  },
+  {
+    "name": "Reversing Cut",
+    "row": 308,
+    "col": 20,
+    "before": "The blade crosses the line the previous attack established, forcing the defender to decide whether to repeat a familiar answer or abandon it and give up position.",
+    "after": "You reverse the blade across the line of your previous attack."
+  },
+  {
+    "name": "Reverse Edge",
+    "row": 309,
+    "col": 20,
+    "before": "The blade never truly resets after the previous exchange. A recovery that would normally bring the sword home is turned into a second cutting line, especially punishing a defense that only barely caught the first.",
+    "after": "You turn the blade’s recovery into a second cut."
+  },
+  {
+    "name": "Bind and Recover",
+    "row": 310,
+    "col": 20,
+    "before": "The incoming weapon is received on the strong of the blade, then guided rather than simply stopped. Good contact leaves your own edge pointed somewhere useful for the answer.",
+    "after": "You catch the attacking weapon and guide it aside."
+  },
+  {
+    "name": "Broken Rhythm",
+    "row": 313,
+    "col": 20,
+    "before": "The user sells one line with the eyes, shoulders, or early blade movement and attacks the reaction to it. The technique is strongest when the opponent believes they recognized the first intention.",
+    "after": "You feint with your shoulders and blade before striking along another line."
+  },
+  {
+    "name": "Circular Draw",
+    "row": 314,
+    "col": 20,
+    "before": "The draw opens into a broad arc that claims space rather than chasing one perfect guard. The user decides how much of the motion is spent threatening several bodies and how much remains for recovery.",
+    "after": "You sweep the blade from its sheath in a broad arc."
+  },
+  {
+    "name": "Intercepting Draw",
+    "row": 315,
+    "col": 20,
+    "before": "The draw and the defense are the same motion; the blade clears the sheath as it catches the incoming line.",
+    "after": "You draw your sword into the path of an incoming attack."
+  },
+  {
+    "name": "Draw Reset",
+    "row": 316,
+    "col": 20,
+    "before": "The sheath becomes a timing tool. A practiced resheath threatens another draw while preserving the rhythm of the current exchange instead of signalling that the fight has reset.",
+    "after": "You sheath the sword quickly, readying another draw."
+  },
+  {
+    "name": "Final Measure",
+    "row": 317,
+    "col": 20,
+    "before": "You commit to the exact line the exchange has exposed, choosing whether to destroy the guard or carry the target through the cut.",
+    "after": "You drive a decisive cut through the opponent’s exposed guard."
+  },
+  {
+    "name": "Perfect Bind",
+    "row": 318,
+    "col": 20,
+    "before": "You catch the attacking weapon close to its strong and turn the opponent with the bind rather than simply stopping them.",
+    "after": "You catch the opposing weapon near its base and turn it aside."
+  },
+  {
+    "name": "Wide Swing",
+    "row": 324,
+    "col": 20,
+    "before": "The weapon is allowed to travel through a wide arc and threaten several enemies at once. The user gives up some concentrated force in exchange for making nearby opponents respect the same swing.",
+    "after": "You sweep the weapon across several nearby opponents."
+  },
+  {
+    "name": "Rib Shot",
+    "row": 325,
+    "col": 20,
+    "before": "The strike is aimed where breathing, posture, and balance meet. Depending on what matters more, the user can make the target’s next attack clumsy or simply rattle their frame with Stun.",
+    "after": "You strike the target’s ribs to disrupt their breathing and posture."
+  },
+  {
+    "name": "Head-Heavy Grip",
+    "row": 328,
+    "col": 20,
+    "before": "Grip and chakra bias the weapon toward the striking head, exaggerating leverage and reach. Each swing carries more of the weapon’s mass through the head, turning broad motion into crushing displacement.",
+    "after": "Chakra and a shifted grip increase the weapon’s leverage."
+  },
+  {
+    "name": "Short Grip",
+    "row": 330,
+    "col": 20,
+    "before": "A heavy weapon becomes dangerous to its owner when the grip gets too long, too short, or too awkward. This technique is the practiced reset that restores leverage without giving up the chain.",
+    "after": "You adjust your grip to regain control of the heavy weapon."
+  },
+  {
+    "name": "Guard Rattle",
+    "row": 332,
+    "col": 20,
+    "before": "You strike through the defending line hard enough that the weapon or arm catching the blow becomes the problem.",
+    "after": "You hit the defending weapon or limb hard enough to shake its hold."
+  },
+  {
+    "name": "Ground Shock",
+    "row": 333,
+    "col": 20,
+    "before": "The ground is treated like another target. By spending the strike on terrain instead of a body, the user can make footing, approach lines, and movement worse for everybody forced through the area.",
+    "after": "You slam the weapon into the ground, sending an impact through nearby footing."
+  },
+  {
+    "name": "Passing Thrust",
+    "row": 336,
+    "col": 20,
+    "before": "The thrust is carried through a passing step so the point threatens beyond the weapon’s usual measure. The user can finish closer or farther away depending on where they want the next exchange to happen.",
+    "after": "The thrust is carried through a passing step so the point threatens beyond the weapon’s usual measure."
+  },
+  {
+    "name": "Set Spear",
+    "row": 340,
+    "col": 20,
+    "before": "The user stops chasing the opponent and makes the opponent enter the weapon instead. The polearm is already aligned before the approach begins, turning movement into the trigger for the counterattack.",
+    "after": "The user stops chasing the opponent and makes the opponent enter the weapon instead."
+  },
+  {
+    "name": "Rotation Strike",
+    "row": 341,
+    "col": 20,
+    "before": "The whole polearm is rotated through a controlled arc. It can claim space against several enemies, or the same mechanics can be tightened around one target for better Accuracy.",
+    "after": "The whole polearm is rotated through a controlled arc."
+  },
+  {
+    "name": "Catch and Turn",
+    "row": 342,
+    "col": 20,
+    "before": "The hook, blade, or shaft catches posture instead of simply striking it. Once contact is made, the user chooses whether to turn the target into a new space or sacrifice damage to put them on the ground.",
+    "after": "The hook, blade, or shaft catches posture instead of simply striking it."
+  },
+  {
+    "name": "Leaping Pole",
+    "row": 348,
+    "col": 20,
+    "before": "The shaft is planted and used as a lever for the body. The vault creates unusual vertical or lateral attack lines and rewards a follow-up made from above rather than serving as movement for its own sake.",
+    "after": "The shaft is planted and used as a lever for the body."
+  },
+  {
+    "name": "Casting Lash",
+    "row": 370,
+    "col": 20,
+    "before": "The chain is cast past the target and tensioned back through them, so Range and pull are part of the same action. The goal is to make the opponent fight the line you chose, not the one they began on.",
+    "after": "The chain is cast past the target and tensioned back through them, so Range and pull are part of the same action."
+  },
+  {
+    "name": "Ankle Catch",
+    "row": 371,
+    "col": 20,
+    "before": "The lowest loop of the chain is used to attack footing rather than flesh. The user can trade damage for a trip or short Immobilization depending on whether immediate posture or continued movement matters more.",
+    "after": "The lowest loop of the chain is used to attack footing rather than flesh."
+  },
+  {
+    "name": "Reel and Strike",
+    "row": 372,
+    "col": 20,
+    "before": "The chain does not go slack after the first contact. It reels the target toward the user, and if the target cannot be moved the stored tension is converted into extra impact instead.",
+    "after": "The chain does not go slack after the first contact."
+  },
+  {
+    "name": "Moving Coil",
+    "row": 374,
+    "col": 20,
+    "before": "The chain is kept alive around the body like a moving perimeter. It buys both projectile defense and extra threat range, but a badly failed parry can collapse the whole pattern.",
+    "after": "The chain is kept alive around the body like a moving perimeter."
+  },
+  {
+    "name": "Wide Lash",
+    "row": 375,
+    "col": 20,
+    "before": "The chain sweeps across a lane instead of hunting one body. A strong hit can pull a target toward the centre of that lane, shaping the group rather than only damaging it.",
+    "after": "The chain sweeps across a lane instead of hunting one body."
+  },
+  {
+    "name": "Cross Snare",
+    "row": 376,
+    "col": 20,
+    "before": "Two lines of chain close around one limb. The user decides whether taking away an arm’s clean Accuracy or a leg’s movement is more valuable than trying to control the entire body at once.",
+    "after": "Two lines of chain close around one limb."
+  },
+  {
+    "name": "Coiled Guard",
+    "row": 379,
+    "col": 20,
+    "before": "The weapon is coiled into a defensive orbit close enough to parry melee attacks while still threatening at range. A clean defense can be turned into a small positional correction on the attacker.",
+    "after": "The weapon is coiled into a defensive orbit close enough to parry melee attacks while still threatening at range."
+  },
+  {
+    "name": "Slip Step",
+    "row": 381,
+    "col": 20,
+    "before": "The user moves through their own slack instead of dragging the weapon behind them. The next cast begins from a longer, stranger line because the chain was never allowed to settle.",
+    "after": "The user moves through their own slack instead of dragging the weapon behind them."
+  },
+  {
+    "name": "Tension Line",
+    "row": 382,
+    "col": 20,
+    "before": "Tension is fixed to the environment and used as movement, leverage, or retrieval. The same technique can pull the user through space or bring an unattended object to them, including vertically.",
+    "after": "Tension is fixed to the environment and used as movement, leverage, or retrieval."
+  },
+  {
+    "name": "Snap Return",
+    "row": 384,
+    "col": 20,
+    "before": "This is the recovery skill that separates a chain fighter from somebody who merely owns a chain. The weapon snaps back into control before a disarm, drop, or long cast can end the style.",
+    "after": "This is the recovery skill that separates a chain fighter from somebody who merely owns a chain."
+  },
+  {
+    "name": "Double Cut",
+    "row": 387,
+    "col": 20,
+    "before": "Both weapons attack during the same entry, but they do not have to succeed together. The style begins its chain as soon as either hand finds a useful line.",
+    "after": "Both weapons attack during the same entry, but they do not have to succeed together."
+  },
+  {
+    "name": "Scissor Step",
+    "row": 388,
+    "col": 20,
+    "before": "The two weapons close like shears while the feet circle the target. A parry against one line can leave the defender’s weapon committed in exactly the place the next paired attack wants it.",
+    "after": "The two weapons close like shears while the feet circle the target."
+  },
+  {
+    "name": "Alternating Cuts",
+    "row": 389,
+    "col": 20,
+    "before": "The hands alternate in a broken rhythm, changing line and timing with every swing. The target has to reorient from one weapon to the other instead of settling into a single defensive cadence.",
+    "after": "The hands alternate in a broken rhythm, changing line and timing with every swing."
+  },
+  {
+    "name": "Closing Pair",
+    "row": 390,
+    "col": 20,
+    "before": "The finisher commits both hands to the same exchange. Hits are resolved separately for defense but brought together when the game asks how serious the combined wound is.",
+    "after": "The finisher commits both hands to the same exchange."
+  },
+  {
+    "name": "Off-Hand Catch",
+    "row": 391,
+    "col": 20,
+    "before": "The off-hand weapon exists to solve the problems the leading weapon creates. A successful catch leaves either hand free to become the next attacker without wasting time on a formal lead change.",
+    "after": "The off-hand weapon exists to solve the problems the leading weapon creates."
+  },
+  {
+    "name": "Split Guard",
+    "row": 393,
+    "col": 20,
+    "before": "Each weapon asks a separate defensive question. If the target answers both with the same action, the second line is deliberately timed to arrive when that repeated defense is least comfortable.",
+    "after": "Each weapon asks a separate defensive question."
+  },
+  {
+    "name": "Hand Feint",
+    "row": 395,
+    "col": 20,
+    "before": "Two visible threats are used to split attention before the attack starts. The user chooses which defensive habit—Dodge or Parry—they are trying to make less reliable on the next Chain action.",
+    "after": "Two visible threats are used to split attention before the attack starts."
+  },
+  {
+    "name": "Paired Flow",
+    "row": 396,
+    "col": 20,
+    "before": "The weapons settle into a shared rhythm, one hand recovering while the other remains live. The alternating cadence makes both parries and follow-up attacks tighter and more economical.",
+    "after": "The weapons settle into a shared rhythm, one hand recovering while the other remains live."
+  },
+  {
+    "name": "Changing Lead",
+    "row": 398,
+    "col": 20,
+    "before": "The style changes which weapon is “leading” without changing what is held. This lets the user decide which damage type and hand-specific penalties matter for the next few beats.",
+    "after": "The style changes which weapon is “leading” without changing what is held."
+  },
+  {
+    "name": "Counterpair",
+    "row": 400,
+    "col": 20,
+    "before": "A full parry with one hand opens the line for the other. Before the attacker can recover their weapon, the off-hand snaps through the space their attack just exposed.",
+    "after": "A full parry with one hand opens the line for the other."
+  },
+  {
+    "name": "Marking Shot",
+    "row": 403,
+    "col": 20,
+    "before": "The first arrow is used to establish a sightline rather than chase immediate damage. Once the mark is in place, the next Bow Chain 2 has a clearer reference for where the target is moving.",
+    "after": "The first arrow is used to establish a sightline rather than chase immediate damage."
+  },
+  {
+    "name": "Pinning Shot",
+    "row": 404,
+    "col": 21,
+    "before": "Bow only. Resolve Immobilization with severity equal to the greater of 2 or Athletics/10, maximum 6. It ends when the target removes the arrow with a Speed 3 Utility Action. No terrain or object is required.",
+    "after": "Bow only. Resolve Immobilization with severity equal to the greater of 2 or Athletics/10, maximum 6. It ends when the target removes the arrow with a Speed 3 Utility Action."
+  },
+  {
+    "name": "Pinning Shot",
+    "row": 404,
+    "col": 20,
+    "before": "The arrow is aimed to catch cloth, gear, or flesh against the environment. The technique gets stronger near solid terrain because the shot has something physical to pin the target against.",
+    "after": "The arrow catches clothing or equipment, hampering the target’s movement."
+  },
+  {
+    "name": "Angle Shot",
+    "row": 405,
+    "col": 20,
+    "before": "The release is chosen for a route the defender was not guarding—high, oblique, or around partial cover.",
+    "after": "You send the arrow toward an exposed angle in the defender’s guard."
+  },
+  {
+    "name": "Multiple Shot",
+    "row": 406,
+    "col": 20,
+    "before": "The bow is used as a platform for several distinct releases in one action. The user decides how many arrows matter and where they go, trading concentrated Speed×PDB for multiple wound checks that combine only when appropriate.",
+    "after": "The bow is used as a platform for several distinct releases in one action."
+  },
+  {
+    "name": "Twin Arrow",
+    "row": 409,
+    "col": 20,
+    "before": "Two arrows share one draw and release timing but remain separate attacks. The target has to solve both trajectories while the user accepts that each arrow carries less of the total force.",
+    "after": "Two arrows share one draw and release timing but remain separate attacks."
+  },
+  {
+    "name": "Precision Shot",
+    "row": 410,
+    "col": 20,
+    "before": "The final arrow is chosen for penetration and wound placement. A previous mark can be deliberately spent to turn the finisher into a more accurate shot instead of leaving the setup unused.",
+    "after": "The final arrow is chosen for penetration and wound placement."
+  },
+  {
+    "name": "Cutting Arrow",
+    "row": 411,
+    "col": 20,
+    "before": "An arrow is fired at another projectile rather than the attacker. It is an expensive kind of parry because the ammunition is spent either way, but it lets a bow answer threats most ranged weapons cannot.",
+    "after": "An arrow is fired at another projectile rather than the attacker."
+  },
+  {
+    "name": "Held Draw",
+    "row": 412,
+    "col": 20,
+    "before": "The bow is held in a disciplined firing posture, the sightline settling more firmly each moment the target remains predictable. Large movements force the user to rebuild that alignment.",
+    "after": "The bow is held in a disciplined firing posture, the sightline settling more firmly each moment the target remains predictable."
+  },
+  {
+    "name": "Sightline",
+    "row": 417,
+    "col": 20,
+    "before": "The user spends a moment reading sightline, cover, air, and target movement before firing.",
+    "after": "You study the wind, the sightline and the target’s movement before drawing."
+  },
+  {
+    "name": "Skyfall Shot",
+    "row": 418,
+    "col": 20,
+    "before": "You send the arrow high and let gravity return it from above, attacking cover from a direction it was not built to protect.",
+    "after": "You send the arrow high above the target, then bring it down in a steep, plunging shot."
+  },
+  {
+    "name": "Opening Gust",
+    "row": 353,
+    "col": 20,
+    "before": "The first gust is modest but highly controllable. You can spend the airflow on driving the target away, or ride the return current yourself to change the angle of the exchange.",
+    "after": "The first gust is modest but highly controllable."
+  },
+  {
+    "name": "Folding Edge",
+    "row": 354,
+    "col": 20,
+    "before": "The fan snaps shut and is used like a short baton or edged frame. The sudden change from broad wind pressure to close weapon contact is meant to make a parrying defender late on the next answer.",
+    "after": "The fan snaps shut and is used like a short baton or edged frame."
+  },
+  {
+    "name": "Wind Screen",
+    "row": 357,
+    "col": 20,
+    "before": "The fan catches a projectile in moving air instead of trying to meet it edge-on. A successful screen keeps enough momentum to let the user drift away from the original line of fire.",
+    "after": "The fan catches a projectile in moving air instead of trying to meet it edge-on."
+  },
+  {
+    "name": "Broad Sweep",
+    "row": 358,
+    "col": 20,
+    "before": "The fan is used to claim a broad patch of battlefield with one sweep. The user gives up concentrated Speed×PDB so several enemies have to answer the same displacement at once.",
+    "after": "The fan is used to claim a broad patch of battlefield with one sweep."
+  },
+  {
+    "name": "Backdraft",
+    "row": 359,
+    "col": 20,
+    "before": "The current is turned across the target rather than straight through them. The technique is as much about lateral placement as force, shifting both fighters into a new line for the rest of the chain.",
+    "after": "The current is turned across the target rather than straight through them."
+  },
+  {
+    "name": "Dust Sweep",
+    "row": 360,
+    "col": 20,
+    "before": "The sweep is designed to clear a lane whether the attack connects cleanly or not. A full Dodge still has to respect the moving air, while a hit leaves the target fighting through disturbed visibility.",
+    "after": "The sweep is designed to clear a lane whether the attack connects cleanly or not."
+  },
+  {
+    "name": "Wind Sense",
+    "row": 361,
+    "col": 20,
+    "before": "Tiny changes in pressure, cloth, dust, hair, and projectile flight are read as information. The fan catches those currents and turns them into a clearer picture of movement through obscured space.",
+    "after": "Tiny changes in pressure, cloth, dust, hair, and projectile flight are read as information."
+  },
+  {
+    "name": "Guided Wind",
+    "row": 362,
+    "col": 20,
+    "before": "The fan is held as a stable channel for both weapon pressure and Fuuton. The user is choosing to make range their advantage, with a small burst of Knockback available when the timing matters most.",
+    "after": "The fan is held as a stable channel for both weapon pressure and Fuuton."
+  },
+  {
+    "name": "Crosswind Step",
+    "row": 364,
+    "col": 20,
+    "before": "The user lets the fan pull their body through a short movement while preserving the chain. Ending farther away stretches the next threat line and makes the weapon feel larger than it is.",
+    "after": "The user lets the fan pull their body through a short movement while preserving the chain."
+  },
+  {
+    "name": "Closed Guard",
+    "row": 365,
+    "col": 20,
+    "before": "The fan closes into a compact guard that can actually receive melee force. A clean block or parry leaves the weapon ready to reopen immediately into the first attack of a new fan sequence.",
+    "after": "The fan closes into a compact guard that can actually receive melee force."
+  },
+  {
+    "name": "Double Cast",
+    "row": 420,
+    "col": 20,
+    "before": "Two compatible tools leave the hand on nearly the same line. A full hit rewards the double release, while a Partial Success still catches only one weapon cleanly and can establish the chain.",
+    "after": "Two compatible tools leave the hand on nearly the same line."
+  },
+  {
+    "name": "Needle Lead",
+    "row": 421,
+    "col": 20,
+    "before": "A precise throw opens a bleeding cut or catches the target as it attacks. The user chooses whether the hit should bleed or simply spoil the target’s next attack.",
+    "after": "A precise throw opens a bleeding cut or catches the target as it attacks."
+  },
+  {
+    "name": "Manipulated Shuriken",
+    "row": 422,
+    "col": 20,
+    "before": "A tug on concealed wire sends the shuriken back toward its target. Instead of accepting the first failed trajectory, the user spends the committed line to make the target answer a second, weaker approach.",
+    "after": "A tug on concealed wire sends the shuriken back toward its target."
+  },
+  {
+    "name": "Fuuma Barrage",
+    "row": 423,
+    "col": 20,
+    "before": "Two fuuma shuriken cross the target’s path in quick succession. Repeated misses help the user walk the line onto the target, while each successful heavy weapon contributes its own share of the finisher.",
+    "after": "Two fuuma shuriken cross the target’s path in quick succession."
+  },
+  {
+    "name": "Hidden Mouth Needle",
+    "row": 424,
+    "col": 20,
+    "before": "You spit a concealed senbon before the target sees you reach for a weapon. The motion hides in breath, speech, and head movement until the needle is already in flight.",
+    "after": "You spit a concealed senbon before the target sees you reach for a weapon."
+  },
+  {
+    "name": "Return Flick",
+    "row": 428,
+    "col": 20,
+    "before": "You draw your scattered weapons back into your hands with a sweep of chakra. The user reads the rebound or wire line and pulls the tool back before the fight moves on.",
+    "after": "You draw your scattered weapons back into your hands with a sweep of chakra."
+  },
+  {
+    "name": "Throwing Form",
+    "row": 429,
+    "col": 20,
+    "before": "Years of throwing have stripped wasted motion from the draw, grip, and release. Several tools can be indexed between the fingers and launched without the hands tangling or the stance collapsing.",
+    "after": "Years of throwing have stripped wasted motion from the draw, grip, and release."
+  },
+  {
+    "name": "Corner Wire",
+    "row": 431,
+    "col": 20,
+    "before": "Ninja Wire is attached or routed before the next throw so the projectile can travel farther and turn a corner the hand alone could not produce. The line must still make physical sense on the battlefield.",
+    "after": "Ninja Wire is attached or routed before the next throw so the projectile can travel farther and turn a corner the hand alone could not produce."
+  }
+]

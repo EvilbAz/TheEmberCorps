@@ -38,7 +38,7 @@ Movement: Ground
 
 Unlock: Core Talent
 
-Effects: Adjacent allies may treat the Bear as Cover 1 against Attacks originating from the opposite side. The Bear gains +2 on checks to initiate or maintain Grapples.
+Effects: The Bear may Take the Hit for an adjacent ally at Speed 4. The Bear gains +2 on checks to initiate or maintain Grapples.
 
 ### Mauling Hold
 {:#mauling-hold}
@@ -147,7 +147,7 @@ Speed: 14
 
 Base Command AP: 8
 
-Effects: Move up to 6 yards toward an ally, then either make a Basic Attack or become Cover 3 for that ally until the bear's next Action.
+Effects: Move up to 6 yards toward an ally, then either make a Basic Attack or grant that ally +3 on its next Defensive Roll before the bear's next Action.
 
 ### Avalanche Maul
 {:#avalanche-maul}

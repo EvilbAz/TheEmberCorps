@@ -1,0 +1,710 @@
+[
+  {
+    "family": "bukijutsu",
+    "name": "High Guard",
+    "before": "{:#high-guard}\n\nYou hold the weapon high enough to threaten the first line immediately, accepting a more exposed defensive posture.\n\nRank: D  \nStamina: 8  \nUpkeep: 3  \nSpeed: 6  \nTags: Utility, Self, Upkeep, Bukijutsu Stance  \nEffects: Your Chain 1 and Chain 2 Melee Bukijutsu gain \\+1 Accuracy. Your Dodge and Parry rolls take \\-1.\n\n",
+    "after": "{:#high-guard}\n\nYou hold the weapon high enough to threaten the first line immediately, accepting a more exposed defensive posture.\n\nRank: D  \nStamina: 8  \nUpkeep: 2  \nSpeed: 4  \nTags: Utility, Self, Upkeep, Bukijutsu Stance  \nEffects: Your Chain 1 and Chain 2 Melee Bukijutsu gain +Athletics/5 Accuracy. Your Chain 3 Melee Bukijutsu gain +15% Final Damage.\n\n"
+  },
+  {
+    "family": "bukijutsu",
+    "name": "Low Guard",
+    "before": "{:#low-guard}\n\nThe weapon stays low and close to the body, making it easier to receive an attack before committing to your own.\n\nRank: D  \nStamina: 8  \nUpkeep: 3  \nSpeed: 6  \nTags: Utility, Self, Upkeep, Bukijutsu Stance  \nEffects: Gain \\+1 Dodge and Parry. Your damaging Melee Bukijutsu take \\-1 Accuracy.\n\n",
+    "after": "{:#low-guard}\n\nThe weapon stays low and close to the body, making it easier to receive an attack before committing to your own.\n\nRank: D  \nStamina: 8  \nUpkeep: 2  \nSpeed: 4  \nTags: Utility, Self, Upkeep, Bukijutsu Stance  \nEffects: Gain +Athletics/5 to targeted Melee Parries. After fully defending against an enemy Attack, your next Melee Chain Attack against that enemy gains +15% Final Damage if it is your next non-Interrupt Action.\n\n"
+  },
+  {
+    "family": "bukijutsu",
+    "name": "Long Guard",
+    "before": "{:#long-guard}\n\nYou extend the weapon into the space in front of you and make the opponent fight through its reach before they can reach your body.\n\nRank: D  \nStamina: 9  \nUpkeep: 3  \nSpeed: 6  \nTags: Utility, Self, Upkeep, Bukijutsu Stance  \nEffects: Gain \\+1 Reach with Melee Weapons and \\+1 Parry against attacks that began outside your normal Reach. Your normal movement is reduced by 10%.\n\n",
+    "after": "{:#long-guard}\n\nYou extend the weapon into the space in front of you and make the opponent fight through its reach before they can reach your body.\n\nRank: D  \nStamina: 9  \nUpkeep: 2  \nSpeed: 4  \nTags: Utility, Self, Upkeep, Bukijutsu Stance  \nEffects: Increase your Melee Weapon Reach by 50%, minimum +2 yards. Gain +Athletics/5 Parry against targeted Melee Attacks that began outside your unmodified weapon Reach.\n\n"
+  },
+  {
+    "family": "bukijutsu",
+    "name": "Open Guard",
+    "before": "{:#open-guard}\n\nYou deliberately leave a line available, using the invitation to make the defender commit before your real angle is chosen.\n\nRank: C  \nStamina: 12  \nUpkeep: 4  \nSpeed: 8  \nTags: Utility, Self, Upkeep, Bukijutsu Stance  \nEffects: Once per Chain, after the target declares a Defense against your Chain attack, give that Defense \\-1. Your weapon takes \\+10% durability damage while maintained.\n\n",
+    "after": "{:#open-guard}\n\nYou deliberately leave a line available, using the invitation to make the defender commit before your real angle is chosen.\n\nRank: C  \nStamina: 12  \nUpkeep: 3  \nSpeed: 5  \nTags: Utility, Self, Upkeep, Bukijutsu Stance  \nEffects: After the target declares its Defense against your Chain Attack, impose a penalty of Athletics/5 on that Defense. The penalty applies once to each Attack, including one that generates multiple hits.\n\n"
+  },
+  {
+    "family": "bukijutsu",
+    "name": "Point Guard",
+    "before": "{:#point-guard}\n\nYou keep the point or striking line fixed on one part of the opponent and sacrifice broader coverage for precision.\n\nRank: C  \nStamina: 12  \nUpkeep: 4  \nSpeed: 8  \nTags: Utility, Self, Upkeep, Bukijutsu Stance  \nEffects: Reduce Called Shot Accuracy penalties with weapon attacks by 2\\. Weapon attacks that are not Called Shots take \\-1 Accuracy.\n\n",
+    "after": "{:#point-guard}\n\nYou keep the point or striking line fixed on one part of the opponent and sacrifice broader coverage for precision.\n\nRank: C  \nStamina: 12  \nUpkeep: 3  \nSpeed: 5  \nTags: Utility, Self, Upkeep, Bukijutsu Stance  \nEffects: Reduce Called Shot Accuracy penalties with weapon attacks by Athletics/5, minimum 0. Called Shots gain +15% Wounding.\n\n"
+  },
+  {
+    "family": "bukijutsu",
+    "name": "Committed Guard",
+    "before": "{:#committed-guard}\n\nYou build every movement around the next heavy commitment, gaining force at the cost of reacting cleanly when the opponent moves first.\n\nRank: B  \nStamina: 18  \nUpkeep: 6  \nSpeed: 10  \nTags: Utility, Self, Upkeep, Bukijutsu Stance  \nEffects: Damaging Melee Bukijutsu gain \\+10% Wounding and \\+1 to listed Stun or Knockback. Your defensive Interrupts count as \\+2 Base Speed for Defense Validity.\n\n\n# Universal Bukijutsu\n{:#universal-bukijutsu}\n\n",
+    "after": "{:#committed-guard}\n\nYou build every movement around the next heavy commitment, gaining force at the cost of reacting cleanly when the opponent moves first.\n\nRank: B  \nStamina: 18  \nUpkeep: 4  \nSpeed: 6  \nTags: Utility, Self, Upkeep, Bukijutsu Stance  \nEffects: Damaging Melee Bukijutsu gain +25% Wounding. Increase their printed Knockback by 50%, rounded down, and their printed Stun by half your PDB, rounded down. Apply these increases before Special rolls and Partial Defense.\n\n\n# Universal Bukijutsu\n{:#universal-bukijutsu}\n\n"
+  },
+  {
+    "family": "bukijutsu",
+    "name": "Weapon Breaker",
+    "before": "{:#weapon-breaker}\n\nWhen an opponent trusts their weapon to catch yours, you punish the contact itself. The strike is allowed to bite into the defending edge, shaft, guard, or frame at the point of worst leverage, turning a successful defense into a durability problem.\n\nRank: B  \nStamina: \\+10  \nSpeed: \\+2  \nTags: Link, Bukijutsu  \nEffects: Use retroactively after your weapon Attack is successfully Parried or Blocked by a weapon. After that Defense resolves, the defending weapon gains \\+2 additional WDP.\n\n",
+    "after": "{:#weapon-breaker}\n\nWhen an opponent trusts their weapon to catch yours, you punish the contact itself. The strike is allowed to bite into the defending edge, shaft, guard, or frame at the point of worst leverage, turning a successful defense into a durability problem.\n\nRank: B  \nStamina: \\+10  \nSpeed: \\+2  \nTags: Link, Bukijutsu  \nEffects: Use retroactively after your weapon Attack is successfully Parried or Blocked by a weapon. After that Defense resolves, inflict WDP equal to half the defending weapon’s damage-level threshold, rounded up. Use that weapon’s Durability + its wielder’s DEX/10. This is explicit weapon damage and applies once to that weapon per Attack.\n\n"
+  },
+  {
+    "family": "bukijutsu",
+    "name": "Chakra Reinforcement",
+    "before": "{:#chakra-reinforcement}\n\nChakra can make a weapon behave differently without changing what it physically is. You reinforce the part that matters for the injury you want—edge, point, striking face, or a projected chakra surface—letting one familiar weapon answer several kinds of protection.\n\nRank: B  \nChakra: 22  \nUpkeep: 5  \nSpeed: 10  \nTags: Utility, Self, Upkeep, Bukijutsu  \nEffects: Choose Blunt, Slashing, Piercing or Energy. One held weapon may deal that wound type and gains \\+2 Damage Bonus.\n\n",
+    "after": "{:#chakra-reinforcement}\n\nChakra can make a weapon behave differently without changing what it physically is. You reinforce the part that matters for the injury you want—edge, point, striking face, or a projected chakra surface—letting one familiar weapon answer several kinds of protection.\n\nRank: B  \nChakra: 22  \nUpkeep: 5  \nSpeed: 10  \nTags: Utility, Self, Upkeep, Bukijutsu  \nEffects: Choose Blunt, Slashing, Piercing or Energy. One held weapon may deal that wound type and gains a Damage Bonus equal to half your NDB. Calculate this bonus when activating the technique, before bonuses granted by maintained weapon techniques.\n\n"
+  },
+  {
+    "family": "bukijutsu",
+    "name": "Chakra Reach",
+    "before": "{:#chakra-reach}\n\nShaped chakra extends the weapon’s edge, point, or striking line beyond its physical reach, carrying the threat several yards past the material weapon.\n\nRank: A  \nChakra: 20  \nUpkeep: 3  \nSpeed: 10  \nTags: Utility, Self, Upkeep, Bukijutsu  \nEffects: One Melee Weapon gains \\+4 Reach and does not trigger ordinary on-contact punishment caused solely by touching the defender.\n\n\n",
+    "after": "{:#chakra-reach}\n\nShaped chakra extends the weapon’s edge, point, or striking line beyond its physical reach, carrying the threat several yards past the material weapon.\n\nRank: A  \nChakra: 20  \nUpkeep: 3  \nSpeed: 10  \nTags: Utility, Self, Upkeep, Bukijutsu  \nEffects: One Melee Weapon gains additional Reach equal to the greater of its unmodified Reach or your CHA/5. When striking through this extension, it does not trigger on-contact punishment caused solely by touching the defender. Attacks still need a clear path.\n\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Rising Cut",
+    "before": "{:#rising-cut}\n\nYou cut upward beneath the target’s guard.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+2dS  \nSpeed: \\-1  \nTags: Chain 1, Sword, Attack, Movement  \nEffects: On a full hit, choose one: Guard Lift — note the Defense used against this Attack; if the target uses that same broad Defense against your next Sword Chain attack before 20 IC, that Defense takes \\-2; or Take the Outside — after the Attack resolves, you may use any remaining Move with an Attack distance in any legal direction.\n\n",
+    "after": "{:#rising-cut}\n\nYou cut upward beneath the target’s guard.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+2dS  \nSpeed: \\-1  \nTags: Chain 1, Sword, Attack, Movement  \nEffects: On a full hit, choose one: Guard Lift — note the Defense used against this Attack; if the target uses that same broad Defense against your next Sword Chain attack, that Defense takes −Athletics/5; or Take the Outside — after the Attack resolves, you may use any remaining Move with an Attack distance in any legal direction.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Descending Cut",
+    "before": "{:#descending-cut}\n\nYou bring the blade down through the opening made by your previous strike.\n\nRank: E  \nStamina: \\+5  \nDamage: \\+3dS  \nSpeed: \\+1  \nTags: Chain 2, Sword, Attack  \nEffects: If your previous Chain attack was Chain 1, choose one when this Attack fully hits: Drop Weight — treat this Attack as 4 Speed higher for damage only; or Smother the Guard — note the Defense used against this Attack; that same broad Defense takes \\-2 against your next Sword Chain attack before 20 IC.\n\n",
+    "after": "{:#descending-cut}\n\nYou bring the blade down through the opening made by your previous strike.\n\nRank: E  \nStamina: \\+5  \nDamage: \\+3dS  \nSpeed: \\+1  \nTags: Chain 2, Sword, Attack  \nEffects: If your previous Chain attack was Chain 1, choose one when this Attack fully hits: Drop Weight — treat this Attack as 4 Speed higher for damage only; or Smother the Guard — note the Defense used against this Attack; that same broad Defense takes −Athletics/5 against your next Sword Chain attack.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Finishing Cut",
+    "before": "{:#finishing-cut}\n\nYou commit to a precise cut through the exposed target.\n\nRank: E  \nStamina: \\+8  \nDamage: \\+5dS  \nSpeed: \\+3  \nAccuracy: \\-1  \nTags: Chain 3, Sword, Attack  \nEffects: \\+10% Wounding. You may make this a Called Shot; reduce that Called Shot penalty by 2\\.\n\n",
+    "after": "{:#finishing-cut}\n\nYou commit to a precise cut through the exposed target.\n\nRank: E  \nStamina: \\+8  \nDamage: \\+5dS  \nSpeed: \\+3  \nTags: Chain 3, Sword, Attack  \nEffects: \\+10% Wounding. You may make this a Called Shot; reduce that Called Shot penalty by 2\\.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Half-Step",
+    "before": "{:#half-step}\n\nYou change position while keeping your blade between you and the target.\n\nRank: E  \nStamina: 4  \nSpeed: 2  \nTags: Chain X, Sword, Utility, Movement  \nEffects: Move up to 3 yards without breaking your Chain. You may move around the chained target while remaining within its Reach.\n\n",
+    "after": "{:#half-step}\n\nYou change position while keeping your blade between you and the target.\n\nRank: E  \nStamina: 4  \nSpeed: 2  \nTags: Chain X, Sword, Utility, Movement  \nEffects: Move up to the greater of 3 yards or AGI/10 without breaking your Chain. You may move in any legal direction, including around or away from the chained target.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Bind and Recover",
+    "before": "{:#bind-and-recover}\n\nYou catch the attacking weapon and guide it aside.\n\nRank: D  \nStamina: 6  \nSpeed: 5  \nTags: Chain X, Sword, Utility, Interrupt  \nEffects: Parry a Melee Attack with \\+1. On a full success, your next Sword Chain attack against that attacker gains \\+2 Accuracy.\n\n",
+    "after": "{:#bind-and-recover}\n\nYou catch the attacking weapon and guide it aside.\n\nRank: D  \nStamina: 6  \nSpeed: 3  \nTags: Chain X, Sword, Utility, Interrupt  \nEffects: Parry a targeted Melee Attack with +Athletics/5. On a full success, your next Sword Chain Attack against that attacker gains +Athletics/5 Accuracy if it is your next non-Interrupt Action. This does not defend against AoEs.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Half-Sword Thrust",
+    "before": "{:#half-sword-thrust}\n\nYou shorten the sword and drive the point through a seam in the target’s protection.\n\nRank: C  \nStamina: \\+9  \nDamage: \\+5dS  \nSpeed: \\+2  \nAccuracy: \\+1  \nTags: Chain 1, Sword, Attack  \nEffects: Treat this Attack as Piercing. Reduce the target Armor’s Absorption by 10% for this Attack, to a minimum of 0%.\n\n",
+    "after": "{:#half-sword-thrust}\n\nYou shorten the sword and drive the point through a seam in the target’s protection.\n\nRank: C  \nStamina: \\+9  \nDamage: \\+5dS  \nSpeed: \\+2  \nAccuracy: \\+1  \nTags: Chain 1, Sword, Attack  \nEffects: Treat this Attack as Piercing. Reduce the target armor’s Absorption and flat DR by 25% for this Attack, after applying its damage-type matchup.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Broken Rhythm",
+    "before": "{:#broken-rhythm}\n\nYou feint with your shoulders and blade before striking along another line.\n\nRank: C  \nStamina: 7  \nSpeed: 3  \nTags: Chain X, Sword, Utility  \nEffects: Opposed Espionage vs Awareness against your chained target. On success, its next Defense against your Sword Chain attack before 20 IC takes \\-2.\n\n",
+    "after": "{:#broken-rhythm}\n\nYou feint with your shoulders and blade before striking along another line.\n\nRank: C  \nStamina: 7  \nSpeed: 3  \nTags: Chain X, Sword, Utility  \nEffects: Oppose your chained target’s Awareness with Espionage. On success, its next Defense against your Sword Chain Attack takes a penalty equal to 2 plus 1 per full 5 points you won by, maximum 6. The opening ends when used or when the target completes its next non-Interrupt Action.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Intercepting Draw",
+    "before": "{:#intercepting-draw}\n\nYou draw your sword into the path of an incoming attack.\n\nRank: B  \nStamina: 12  \nSpeed: 4  \nTags: Chain X, Sword, Attack, Interrupt  \nEffects: Requires a sheathed sword. Parry a Melee Attack with \\+2. On a full success, immediately make a Sword Basic Weapon Attack against the attacker at 60% final damage. End drawn.\n\n",
+    "after": "{:#intercepting-draw}\n\nYou draw your sword into the path of an incoming attack.\n\nRank: B  \nStamina: 12  \nSpeed: 4  \nTags: Chain X, Sword, Attack, Interrupt  \nEffects: Requires a sheathed sword. Parry a targeted Melee Attack with +Athletics/5. On a full success, immediately make a Sword Basic Weapon Attack against the attacker at full damage if it is within Reach. The counter has its own Accuracy and Defense; its action time is included in this technique, and you pay the Basic Attack’s Stamina. End drawn. This does not defend against AoEs.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Draw Reset",
+    "before": "{:#draw-reset}\n\nYou sheath the sword quickly, readying another draw.\n\nRank: B  \nStamina: 8  \nSpeed: 3  \nTags: Chain X, Sword, Utility  \nEffects: Sheathe one sword you hold. Your next Sword Chain 1 before 20 IC has \\-1 Speed.\n\n",
+    "after": "{:#draw-reset}\n\nYou sheath the sword quickly, readying another draw.\n\nRank: B  \nStamina: 8  \nSpeed: 3  \nTags: Chain X, Sword, Utility  \nEffects: Sheathe one sword you hold without changing Chain value. If your next non-Interrupt Action is a Sword Chain 1, reduce its final Speed by 25%, rounded down, subject to normal Speed minimums, and gain +Athletics/5 Accuracy on that Attack.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Final Measure",
+    "before": "{:#final-measure}\n\nYou drive a decisive cut through the opponent’s exposed guard.\n\nRank: A  \nStamina: \\+24  \nDamage: \\+12dS  \nSpeed: \\+4  \nAccuracy: \\-1  \nSpecial: Knockback 5 (Carry Through only)  \nTags: Chain 3, Sword, Attack, Movement  \nEffects: On a full hit, choose one: Sever Guard — if a weapon was used to Block or Parry this Attack, it gains 4 WDP after the Defense resolves; or Carry Through — resolve the Knockback Special in the direction of the Attack. If it succeeds, you may use your Move with an Attack movement to follow the target, ending adjacent if you can reach it.\n\n",
+    "after": "{:#final-measure}\n\nYou drive a decisive cut through the opponent’s exposed guard.\n\nRank: A  \nStamina: \\+24  \nDamage: \\+12dS  \nSpeed: \\+4  \nSpecial: Knockback (Carry Through; see Effects)  \nTags: Chain 3, Sword, Attack, Movement  \nEffects: Gain +25% Final Damage and +25% Wounding. Choose Sever Guard or Carry Through when declaring. Sever Guard: if a weapon Blocks or Parries this Attack, after defense it suffers WDP equal to its damage-level threshold (Durability + wielder’s DEX/10), even if no damage reaches its wielder. Carry Through: on a full hit resolve Knockback equal to the greater of 10 or STR/3; on a successful Special, you may follow its actual movement, ending within Reach. These are explicit weapon damage and normal resisted Knockback respectively.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Perfect Bind",
+    "before": "{:#perfect-bind}\n\nYou catch the opposing weapon near its base and turn it aside.\n\nRank: A  \nStamina: 13  \nSpeed: 3  \nTags: Chain X, Sword, Utility, Interrupt  \nEffects: Parry a Melee Attack with \\+2. On a full success, choose one: Turn the Line — make an Athletics Status Roll against the attacker’s Resistance; on success, move the attacker up to 3 yards to a legal space within your Reach; or Seal the Line — the attacking weapon takes \\-3 Parry until the attacker’s next action.\n\n\n",
+    "after": "{:#perfect-bind}\n\nYou catch the opposing weapon near its base and turn it aside.\n\nRank: A  \nStamina: 13  \nSpeed: 3  \nTags: Chain X, Sword, Utility, Interrupt  \nEffects: Parry a targeted Melee Attack with +Athletics/5. On a full success, choose one: Turn the Line — win an Athletics Status Roll against Resistance to move the attacker up to STR/5 yards in any legal direction and apply Prone; or Seal the Line — the attacking weapon cannot Parry your next Sword Chain Attack if it is your next non-Interrupt Action. This does not defend against AoEs.\n\n\n"
+  },
+  {
+    "family": "club",
+    "name": "Driving Blow",
+    "before": "{:#driving-blow}\n\nYou drive the target back with a heavy strike.\n\nRank: E  \nStamina: +3  \nDamage: +2dS  \nSpeed: +1  \nSpecial: Knockback 3  \nTags: Chain 1, Club, Attack, Movement  \nEffects: On a successful Special, choose to follow the target up to the distance it actually moved, or increase the Knockback by 2 yards. Following movement ends no closer than your original distance and cannot pass through obstacles.\n\n",
+    "after": "{:#driving-blow}\n\nYou drive the target back with a heavy strike.\n\nRank: E  \nStamina: +3  \nDamage: +2dS  \nSpeed: +1  \nSpecial: Knockback 3  \nTags: Chain 1, Club, Attack, Movement  \nEffects: Resolve Knockback using the greater of 3 or STR/10 as its printed severity. On a successful Special, choose to follow the target’s actual movement, ending within Reach, or increase the resulting distance by 50%. Obstacles stop movement normally.\n\n"
+  },
+  {
+    "family": "club",
+    "name": "Rising Blow",
+    "before": "{:#rising-blow}\n\nYou swing upward beneath the target’s guard.\n\nRank: E  \nStamina: \\+4  \nDamage: \\+2dS  \nSpeed: \\+2  \nSpecial: Stun 3  \nTags: Chain 1, Club, Attack  \nEffects: Apply Stun 3 normally. If the target was already Stunned before this Attack hit, do not apply this Stun and add \\+2dS damage instead.\n\n",
+    "after": "{:#rising-blow}\n\nYou swing upward beneath the target’s guard.\n\nRank: E  \nStamina: \\+4  \nDamage: \\+2dS  \nSpeed: \\+2  \nSpecial: Stun 3  \nTags: Chain 1, Club, Attack  \nEffects: Apply the printed Stun normally. If the target was already Stunned, replace this Stun with +20% Final Damage.\n\n"
+  },
+  {
+    "family": "club",
+    "name": "Rib Shot",
+    "before": "{:#rib-shot}\n\nYou strike the target’s ribs to disrupt their breathing and posture.\n\nRank: D  \nStamina: \\+8  \nDamage: \\+4dS  \nSpeed: \\+1  \nTags: Chain 2, Club, Attack  \nEffects: On a full hit, choose one: Smother the Breath — the target takes \\-2 Accuracy on its next Attack before 20 IC, increased to \\-3 if it was already Stunned when this Attack hit; or Rattle the Frame — apply Stun 4\\.\n\n",
+    "after": "{:#rib-shot}\n\nYou strike the target’s ribs to disrupt their breathing and posture.\n\nRank: D  \nStamina: \\+8  \nDamage: \\+4dS  \nSpeed: \\+1  \nTags: Chain 2, Club, Attack  \nEffects: On a full hit, choose one: Smother the Breath — the target’s next Attack takes an Accuracy penalty of Athletics/5; or Rattle the Frame — apply Stun equal to the greater of 4 or half your PDB, rounded down. Smother the Breath ends after that Attack.\n\n"
+  },
+  {
+    "family": "club",
+    "name": "Head-Heavy Grip",
+    "before": "{:#head-heavy-grip}\n\nChakra and a shifted grip increase the weapon’s leverage.\n\nRank: D  \nChakra: 14  \nUpkeep: 3  \nSpeed: 8  \nTags: Bukijutsu, Club, Utility  \nEffects: One blunt weapon gains \\+1 Reach. Whenever one of its Bukijutsu has a printed Knockback Special, increase that printed Knockback by 1 before rolling it. It may deal Blunt wounds even if another property would change its wound type.\n\n",
+    "after": "{:#head-heavy-grip}\n\nChakra and a shifted grip increase the weapon’s leverage.\n\nRank: D  \nChakra: 14  \nUpkeep: 3  \nSpeed: 8  \nTags: Bukijutsu, Club, Utility  \nEffects: One blunt weapon gains additional Reach equal to the greater of 2 yards or STR/10. Increase its printed Bukijutsu Knockback by 50%, rounded down, before the Status Roll. It may deal Blunt wounds even if another property would change its wound type.\n\n"
+  },
+  {
+    "family": "club",
+    "name": "Low Sweep",
+    "before": "{:#low-sweep}\n\nYou drive the club through the target’s base instead of through their centre, forcing them to choose between footing and impact.\n\nRank: C  \nStamina: \\+9  \nDamage: \\+5dS  \nSpeed: \\+3  \nSpecial: Knockback 4 or Prone  \nTags: Chain 1, Club, Attack  \nEffects: On a full hit, choose Knockback 4 or Prone, then resolve that Special normally.\n\n",
+    "after": "{:#low-sweep}\n\nYou drive the club through the target’s base instead of through their centre, forcing them to choose between footing and impact.\n\nRank: C  \nStamina: \\+9  \nDamage: \\+5dS  \nSpeed: \\+3  \nSpecial: Knockback 4 or Prone  \nTags: Chain 1, Club, Attack  \nEffects: On a full hit, choose Prone or Knockback equal to the greater of 6 or STR/5, then resolve the Special normally.\n\n"
+  },
+  {
+    "family": "club",
+    "name": "Short Grip",
+    "before": "{:#short-grip}\n\nYou adjust your grip to regain control of the heavy weapon.\n\nRank: C  \nStamina: 6  \nSpeed: 2  \nTags: Chain X, Club, Utility  \nEffects: Remove up to 3 points of temporary Accuracy penalty affecting your next Club Chain attack, or reduce its Delay by 2 (minimum 0).\n\n",
+    "after": "{:#short-grip}\n\nYou adjust your grip to regain control of the heavy weapon.\n\nRank: C  \nStamina: 6  \nSpeed: 2  \nTags: Chain X, Club, Utility  \nEffects: For your next Club Chain Attack, halve temporary Accuracy penalties and weapon Delay, rounding the remaining penalties and Delay down. If neither applies, that Attack instead gains +15% Final Damage. The benefit ends if your next non-Interrupt Action is not that Attack.\n\n"
+  },
+  {
+    "family": "club",
+    "name": "Guard Rattle",
+    "before": "{:#guard-rattle}\n\nYou hit the defending weapon or limb hard enough to shake its hold.\n\nRank: B  \nStamina: \\+15  \nDamage: \\+8dS  \nSpeed: \\+2  \nTags: Chain 2, Club, Attack  \nEffects: On a full hit, if the target used a weapon to Block or Parry, that weapon gains \\+3 WDP and takes \\-3 Parry for 10 IC. Otherwise, apply Stun 5\\.\n\n",
+    "after": "{:#guard-rattle}\n\nYou hit the defending weapon or limb hard enough to shake its hold.\n\nRank: B  \nStamina: \\+15  \nDamage: \\+8dS  \nSpeed: \\+2  \nTags: Chain 2, Club, Attack  \nEffects: If a weapon Blocks or Parries this Attack, it suffers WDP equal to half its damage-level threshold, rounded up, after defense; its next Parry takes a penalty of Athletics/5. This applies even if the wielder takes no damage. Otherwise, a full hit applies Stun equal to the greater of 5 or your PDB, rounded down. This is explicit weapon damage.\n\n"
+  },
+  {
+    "family": "club",
+    "name": "Ground Shock",
+    "before": "{:#ground-shock}\n\nYou slam the weapon into the ground, sending an impact through nearby footing.\n\nRank: B  \nStamina: 10  \nSpeed: 4  \nTags: Chain X, Club, Utility  \nEffects: Strike the ground; Area 5\\. Create Rocky Terrain 2 for 20 IC. No damage is dealt.\n\n",
+    "after": "{:#ground-shock}\n\nYou slam the weapon into the ground, sending an impact through nearby footing.\n\nRank: B  \nStamina: 10  \nSpeed: 4  \nTags: Chain X, Club, Attack, AoE  \nEffects: Strike the ground in an Area equal to the greater of 5 yards or STR/5, centered on you. Grounded enemies defend against your normal weapon Accuracy as an AoE; on a full hit, resolve Prone using Athletics against Resistance. No damage is dealt. Breakable ground becomes Rocky Terrain with severity equal to the greater of 2 or Athletics/10, maximum 5, until cleared or repaired. You are not affected by your own Prone effect.\n\n"
+  },
+  {
+    "family": "club",
+    "name": "Collision Breaker",
+    "before": "{:#collision-breaker}\n\nYou strike hard enough to send the opponent sprawling.\n\nRank: A  \nStamina: +26  \nDamage: +13dS  \nSpeed: +6  \nSpecial: Knockback 12  \nTags: Chain 3, Club, Attack  \nEffects: On a full hit, apply Stun 4 in addition to resolving Knockback. Gain +20% Wounding. These effects do not require a collision with scenery or another creature.\n\n",
+    "after": "{:#collision-breaker}\n\nYou strike hard enough to send the opponent sprawling.\n\nRank: A  \nStamina: +26  \nDamage: +13dS  \nSpeed: +6  \nSpecial: Knockback 12  \nTags: Chain 3, Club, Attack  \nEffects: Use the greater of 12 or STR/3 as the printed Knockback. On a full hit, also apply Stun equal to the greater of 4 or your PDB, rounded down. Gain +25% Final Damage and +25% Wounding. No collision is required.\n\n"
+  },
+  {
+    "family": "club",
+    "name": "Juggernaut Rush",
+    "before": "{:#juggernaut-rush}\n\nYou charge through the enemy's position and drive them out of the fight's centre.\n\nRank: A  \nStamina: +22  \nDamage: +10dS  \nSpeed: +4  \nSpecial: Knockback 12  \nTags: Chain 1, Club, Attack, Movement  \nEffects: Before the Attack, use Move with an Attack in a straight line, calculating distance from its full final Speed instead of half. On a full hit, apply Prone in addition to resolving Knockback. You may stop after the strike or follow up to the distance the target actually moved, ending no closer than your original distance. Solid obstacles stop movement without adding collision damage.\n\n",
+    "after": "{:#juggernaut-rush}\n\nYou charge through the enemy's position and drive them out of the fight's centre.\n\nRank: A  \nStamina: +22  \nDamage: +10dS  \nSpeed: +4  \nSpecial: Knockback 12  \nTags: Chain 1, Club, Attack, Movement  \nEffects: Use the greater of 12 or STR/3 as the printed Knockback. Before the Attack, use Move with an Attack in a straight line using its full final Speed instead of half. On a full hit, resolve Prone and Knockback with one Athletics Status Roll against Resistance. You may follow the target’s actual movement, ending within Reach. Obstacles stop movement without adding collision damage.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Passing Thrust",
+    "before": "{:#passing-thrust}\n\nThe thrust is carried through a passing step so the point threatens beyond the weapon’s usual measure.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+2dS  \nSpeed: \\+0  \nTags: Chain 1, Polearm, Attack, Movement  \nEffects: Gain \\+2 Reach for this Attack. You may use Move with an Attack either before or after the strike, and that movement may be toward or away from the target.\n\n",
+    "after": "{:#passing-thrust}\n\nThe thrust is carried through a passing step so the point threatens beyond the weapon’s usual measure.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+2dS  \nSpeed: \\+0  \nTags: Chain 1, Polearm, Attack, Movement  \nEffects: Gain additional Reach equal to the greater of 2 yards or half the weapon’s unmodified Reach. Use Move with an Attack before or after the strike, toward or away from the target.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Driving Thrust",
+    "before": "{:#driving-thrust}\n\nThis is a committed line attack that spends the polearm’s reach aggressively.\n\nRank: E  \nStamina: \\+8  \nDamage: \\+5dS  \nSpeed: \\+5  \nTags: Chain 3, Polearm, Attack  \nEffects: Gain \\+1 Reach for this Attack. \\+5% Wounding.\n\n",
+    "after": "{:#driving-thrust}\n\nThis is a committed line attack that spends the polearm’s reach aggressively.\n\nRank: E  \nStamina: \\+8  \nDamage: \\+5dS  \nSpeed: \\+5  \nTags: Chain 3, Polearm, Attack  \nEffects: Gain additional Reach equal to half the weapon’s unmodified Reach, minimum 2 yards, and +15% Wounding.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Haft Guard",
+    "before": "{:#haft-guard}\n\nYou catch the incoming strike and push the opponent out along the shaft.\n\nRank: D  \nStamina: 5  \nSpeed: 3  \nTags: Chain X, Polearm, Utility, Interrupt  \nEffects: Parry a Melee Attack with +2. On success, you may push the attacker up to 3 yards directly away, stopping at the edge of your Polearm Reach. This is forced movement and cannot pass through obstacles. This Parry does not defend against AoEs.\n\n",
+    "after": "{:#haft-guard}\n\nYou catch the incoming strike and push the opponent out along the shaft.\n\nRank: D  \nStamina: 5  \nSpeed: 3  \nTags: Chain X, Polearm, Utility, Interrupt  \nEffects: Parry a targeted Melee Attack with +Athletics/5. On a full success, push the attacker directly away to any legal point within your Polearm Reach. This cannot pass through obstacles and does not defend against AoEs.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Extended Guard",
+    "before": "{:#extended-guard}\n\nYou hold the point forward and force approaching enemies to deal with it.\n\nRank: D  \nStamina: 7  \nUpkeep: 1  \nSpeed: 4  \nTags: Bukijutsu, Polearm, Utility  \nEffects: Gain +2 Reach with the Polearm. While maintaining this technique, when a creature voluntarily moves from outside to inside your Reach, you may use Set Spear against it at full damage instead of 85%. If Set Spear fully hits, that movement ends at the point of contact. This does not stop teleportation, forced movement or a creature you cannot perceive. Pay Set Spear's normal costs and Interrupt Speed.\n\n",
+    "after": "{:#extended-guard}\n\nYou hold the point forward and force approaching enemies to deal with it.\n\nRank: D  \nStamina: 7  \nUpkeep: 1  \nSpeed: 4  \nTags: Bukijutsu, Polearm, Utility  \nEffects: Increase Polearm Reach by 50%, minimum +2 yards. While maintained, when a perceived creature voluntarily moves from outside to inside that Reach, you may use Set Spear at full damage. A full hit stops that approach at contact. This does not stop teleportation or forced movement. Pay Set Spear’s normal costs and Interrupt Speed.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Weapon Hook",
+    "before": "{:#weapon-hook}\n\nThe head or shaft catches the opponent’s weapon and drags its line away from where they want to use it.\n\nRank: C  \nStamina: \\+9  \nDamage: \\+4dS  \nSpeed: \\+2  \nTags: Chain 2, Polearm, Attack  \nEffects: On a full hit, choose one held weapon. Choose Attack or Parry; the next roll of that type made with the hooked weapon before 20 IC takes \\-3.\n\n",
+    "after": "{:#weapon-hook}\n\nThe head or shaft catches the opponent’s weapon and drags its line away from where they want to use it.\n\nRank: C  \nStamina: \\+9  \nDamage: \\+4dS  \nSpeed: \\+2  \nTags: Chain 2, Polearm, Attack  \nEffects: On a full hit, choose one held weapon and Attack or Parry. Its next roll of that type takes a penalty of Athletics/5. If that weapon defended against this Attack, it instead cannot be used for the chosen purpose during your next Polearm Chain Attack. The effect ends after your next non-Interrupt Action.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Shaft Pivot",
+    "before": "{:#shaft-pivot}\n\nYou move around the opponent with the shaft between you and their weapon.\n\nRank: C  \nStamina: 6  \nSpeed: 2  \nTags: Chain X, Polearm, Utility, Movement  \nEffects: Move up to 5 yards while remaining within your Reach of your chained target. If your next non-Interrupt Action is a Polearm Attack against it, that Attack gains +2 Accuracy, and your next Parry against it before your next non-Interrupt Action gains +2. Each bonus is consumed once. Reusing Shaft Pivot refreshes rather than stacks these bonuses.\n\n",
+    "after": "{:#shaft-pivot}\n\nYou move around the opponent with the shaft between you and their weapon.\n\nRank: C  \nStamina: 6  \nSpeed: 2  \nTags: Chain X, Polearm, Utility, Movement  \nEffects: Move up to the greater of 5 yards or AGI/5 while remaining within Polearm Reach of your chained target. Gain +Athletics/5 on your next Parry against it. If your next non-Interrupt Action is a Polearm Attack against it, that Attack gains +Athletics/5 Accuracy. Unused bonuses end with that Action; repeated uses do not stack.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Leaping Pole",
+    "before": "{:#leaping-pole}\n\nThe shaft is planted and used as a lever for the body.\n\nRank: C  \nStamina: 12  \nSpeed: 8  \nTags: Bukijutsu, Polearm, Utility, Movement  \nEffects: Vault up to 8 yards horizontally or 4 vertically using the polearm. Your next Polearm Attack before 20 IC counts as \\+4 Speed higher for damage only if it was made from above the target.\n\n",
+    "after": "{:#leaping-pole}\n\nThe shaft is planted and used as a lever for the body.\n\nRank: C  \nStamina: 12  \nSpeed: 8  \nTags: Bukijutsu, Polearm, Utility, Movement  \nEffects: Vault up to the greater of 8 yards or AGI/3 horizontally, or half that distance vertically, using the polearm. If your next non-Interrupt Action is a Polearm Attack made from above the target, it gains +25% Final Damage.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Crossbar Catch",
+    "before": "{:#crossbar-catch}\n\nYou catch the projectile on the shaft and turn it aside.\n\nRank: B  \nStamina: 8  \nSpeed: 3  \nTags: Chain X, Polearm, Utility, Interrupt, Movement  \nEffects: Parry a targeted Ranged Taijutsu or Projectile Attack with +3. On success, move up to 3 yards. This does not defend against AoEs.\n\n",
+    "after": "{:#crossbar-catch}\n\nYou catch the projectile on the shaft and turn it aside.\n\nRank: B  \nStamina: 8  \nSpeed: 3  \nTags: Chain X, Polearm, Utility, Interrupt, Movement  \nEffects: Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, move up to the greater of 3 yards or AGI/5 in any legal direction. This does not defend against AoEs.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Sliding Measure",
+    "before": "{:#sliding-measure}\n\nYou slide your grip to extend the point or put your weight behind the head.\n\nRank: B  \nStamina: 7  \nSpeed: 2  \nTags: Chain X, Polearm, Utility  \nEffects: Choose one benefit for your next non-Interrupt Action, which must be a Polearm Attack to receive it: Long Measure grants +5 Reach; Short Measure adds +4dS damage. The benefit lasts through that Attack's resolution, then ends. Repeated uses do not stack.\n\n",
+    "after": "{:#sliding-measure}\n\nYou slide your grip to extend the point or put your weight behind the head.\n\nRank: B  \nStamina: 7  \nSpeed: 2  \nTags: Chain X, Polearm, Utility  \nEffects: Choose a benefit for your next non-Interrupt Action, which must be a Polearm Attack: Long Measure doubles the weapon’s unmodified Reach as an additional Reach bonus; Short Measure grants +30% Final Damage. Repeated uses do not stack.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Through-Line",
+    "before": "{:#through-line}\n\nYou carry the thrust through the chained target and keep moving with it, using the opening to either pass their body or send the point into the next threat on the same line.\n\nRank: A  \nStamina: \\+26  \nDamage: \\+14dS  \nSpeed: \\+5  \nTags: Chain 3, Polearm, Attack, Movement  \nEffects: On a full hit, choose one: Pass Through — after the Attack resolves, use any remaining Move with an Attack distance in any legal direction, including to a legal space on the far side of the target; or Second Point — strike one creature directly behind the target and within Reach for 60% final damage. The secondary hit uses the same Accuracy result and cannot establish or advance Chain.\n\n",
+    "after": "{:#through-line}\n\nYou carry the thrust through the chained target and keep moving with it, using the opening to either pass their body or send the point into the next threat on the same line.\n\nRank: A  \nStamina: \\+26  \nDamage: \\+14dS  \nSpeed: \\+5  \nTags: Chain 3, Polearm, Attack, Movement  \nEffects: Gain +25% Wounding. On a full hit, choose one: Pass Through — move up to your full Move with an Attack allowance in any legal direction after the strike, less movement already spent on this Attack; or Second Point — strike one creature directly behind the target and within Reach at full damage. The second creature defends separately against the same Accuracy result; this hit cannot establish or advance Chain.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Levering Throw",
+    "before": "{:#levering-throw}\n\nYou catch the attack on the haft, drop your weight under it, and use the polearm as a lever to throw the attacker off their base.\n\nRank: A  \nStamina: 13  \nSpeed: 4  \nSpecial: Knockback 4, Prone  \nTags: Chain X, Polearm, Utility, Interrupt  \nEffects: Parry a Melee Attack with \\+2. On a full success, make one Athletics Status Roll against the attacker’s Resistance. On success, apply Prone and Knockback 4; you may choose the Knockback direction, but it must end in a legal space within your Reach.\n\n\n",
+    "after": "{:#levering-throw}\n\nYou catch the attack on the haft, drop your weight under it, and use the polearm as a lever to throw the attacker off their base.\n\nRank: A  \nStamina: 13  \nSpeed: 4  \nSpecial: Knockback, Prone (see Effects)  \nTags: Chain X, Polearm, Utility, Interrupt  \nEffects: Parry a targeted Melee Attack with +Athletics/5. On a full success, win one Athletics Status Roll against the attacker’s Resistance to apply Prone and Knockback equal to the greater of 10 or STR/3 in any legal direction. The throw may carry it beyond your Reach. This does not defend against AoEs.\n\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Neck Loop",
+    "before": "{:#neck-loop}\n\nThe loop is placed high across the neck and shoulder line, where a small mistake becomes bleeding, shock, and a brutal loss of posture.\n\nRank: E  \nStamina: \\+8  \nDamage: \\+5dS  \nSpeed: \\+5  \nAccuracy: \\-2  \nSpecial: Stun 2  \nTags: Chain 3, Chain, Attack  \nEffects: Called Shot to Head/Neck with its penalty reduced by 1\\. Apply Stun 2 normally. If the target is in your Weapon Grapple, this technique gains Takedown; on a successful Grapple roll, the target becomes Pinned by the Chain after the Attack resolves.\n\n",
+    "after": "{:#neck-loop}\n\nThe loop is placed high across the neck and shoulder line, where a small mistake becomes bleeding, shock, and a brutal loss of posture.\n\nRank: E  \nStamina: \\+8  \nDamage: \\+5dS  \nSpeed: \\+5  \nSpecial: Stun 2  \nTags: Chain 3, Chain, Attack  \nEffects: Called Shot to Head/Neck with its penalty reduced by 1\\. Apply Stun 2 normally. If the target is in your Weapon Grapple, this technique gains Takedown; on a successful Grapple roll, the target becomes Pinned by the Chain after the Attack resolves.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Cross Snare",
+    "before": "{:#cross-snare}\n\nTwo lines of chain close around one limb.\n\nRank: D  \nStamina: \\+8  \nDamage: \\+3dS  \nSpeed: \\+3  \nAccuracy: \\-1  \nTags: Chain 2, Chain, Attack  \nEffects: If the target is in your Weapon Grapple, this technique gains Trapping 4\\. On a successful Grapple roll choose an arm or leg. Until the Weapon Grapple ends: arm \\= \\-2 Accuracy on actions requiring it; leg \\= Immobilization 2\\. Only one limb may be affected by Cross Snare from you at a time; a new application replaces the previous one.\n\n",
+    "after": "{:#cross-snare}\n\nTwo lines of chain close around one limb.\n\nRank: D  \nStamina: \\+8  \nDamage: \\+3dS  \nSpeed: \\+3  \nTags: Chain 2, Chain, Attack  \nEffects: If the target is in your Weapon Grapple, this technique gains Trapping 4\\. On a successful Grapple roll choose an arm or leg. Until the Weapon Grapple ends: arm \\= \\-2 Accuracy on actions requiring it; leg \\= Immobilization 2\\. Only one limb may be affected by Cross Snare from you at a time; a new application replaces the previous one.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Double Bind",
+    "before": "{:#double-bind}\n\nThe chain separates into several committed lines, each loop hunting a different limb or body as the user works the weapon across the field.\n\nRank: D  \nStamina: \\+13  \nDamage: \\+4dS  \nSpeed: \\+6  \nAccuracy: \\-2  \nTags: Chain 3, Chain, Attack  \nEffects: Requires the target to be in your Weapon Grapple. This technique gains Takedown. On a successful Grapple roll, the target becomes Pinned by the Chain and you may choose up to two limbs; each chosen arm takes \\-2 Accuracy on actions requiring it and each chosen leg applies Immobilization 2 while the Pin remains.\n\n",
+    "after": "{:#double-bind}\n\nThe chain separates into several committed lines, each loop hunting a different limb or body as the user works the weapon across the field.\n\nRank: D  \nStamina: \\+13  \nDamage: \\+4dS  \nSpeed: \\+6  \nTags: Chain 3, Chain, Attack  \nEffects: Requires the target to be in your Weapon Grapple. This technique gains Takedown. On a successful Grapple roll, the target becomes Pinned by the Chain and you may choose up to two limbs; each chosen arm takes −Athletics/5 Accuracy on actions requiring it and each chosen leg applies Immobilization 2 while the Pin remains.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Coiled Guard",
+    "before": "{:#coiled-guard}\n\nThe weapon is coiled into a defensive orbit close enough to parry melee attacks while still threatening at range.\n\nRank: D  \nStamina: 9  \nUpkeep: 2  \nSpeed: 8  \nTags: Bukijutsu, Chain, Utility  \nEffects: Gain \\+1 Parry against Melee Attacks and \\+6 Range with the chain. Once per 20 IC after a full Parry, you may immediately make a Grapple Offense roll against the attacker’s Grapple Defense. On success, move it up to 3 yards to a legal space within your Chain weapon’s Reach.\n\n",
+    "after": "{:#coiled-guard}\n\nThe weapon is coiled into a defensive orbit close enough to parry melee attacks while still threatening at range.\n\nRank: D  \nStamina: 9  \nUpkeep: 2  \nSpeed: 8  \nTags: Bukijutsu, Chain, Utility  \nEffects: Gain +Athletics/5 Parry against targeted Melee Attacks and increase Chain weapon Range by 50%, minimum +6 yards. After a full Parry against an attacker in Range, you may initiate a Weapon Grapple, resolving starting Control normally. The chain must be free to hold it; one Parry cannot establish multiple Grapples. This grants no AoE Parry permission.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Weapon Snare",
+    "before": "{:#weapon-snare}\n\nThe chain wraps a held weapon instead of the target’s body, turning their own reach and grip against them.\n\nRank: C  \nStamina: \\+9  \nDamage: \\+4dS  \nSpeed: \\+3  \nAccuracy: \\-1  \nTags: Chain 2, Chain, Attack  \nEffects: Requires the target to be in your Weapon Grapple. This technique gains Trapping 5\\. On a successful Grapple roll choose one held weapon and choose Attack or Parry; rolls of that type made with the snared weapon take \\-3 while the Weapon Grapple remains. At 8+ Control, the target cannot use that weapon for the chosen purpose until it successfully reduces your Control.\n\n",
+    "after": "{:#weapon-snare}\n\nThe chain wraps a held weapon instead of the target’s body, turning their own reach and grip against them.\n\nRank: C  \nStamina: \\+9  \nDamage: \\+4dS  \nSpeed: \\+3  \nTags: Chain 2, Chain, Attack  \nEffects: Requires the target to be in your Weapon Grapple. This technique gains Trapping 5\\. On a successful Grapple roll choose one held weapon and choose Attack or Parry; rolls of that type made with the snared weapon take \\-3 while the Weapon Grapple remains. At 8+ Control, the target cannot use that weapon for the chosen purpose until it successfully reduces your Control.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Slip Step",
+    "before": "{:#slip-step}\n\nThe user moves through their own slack instead of dragging the weapon behind them.\n\nRank: C  \nStamina: 7  \nSpeed: 2  \nTags: Chain X, Chain, Utility, Movement  \nEffects: Move up to 4 yards while keeping the chain in motion. This movement does not end a Weapon Grapple, and your next Chain attack or Weapon Grapple action before 20 IC gains \\+4 Range.\n\n",
+    "after": "{:#slip-step}\n\nThe user moves through their own slack instead of dragging the weapon behind them.\n\nRank: C  \nStamina: 7  \nSpeed: 2  \nTags: Chain X, Chain, Utility, Movement  \nEffects: Move up to the greater of 4 yards or AGI/5 without ending a Weapon Grapple, provided the chain remains in Range. Your next Chain Attack or Weapon Grapple action gains 50% weapon Range if it is your next non-Interrupt Action.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Tension Line",
+    "before": "{:#tension-line}\n\nTension is fixed to the environment and used as movement, leverage, or retrieval.\n\nRank: C  \nStamina: 11  \nSpeed: 7  \nTags: Bukijutsu, Chain, Utility, Movement  \nEffects: Attach the chain to an anchor within 20 yards and pull yourself to it, or pull an unattended object up to STR/5 weight units to you. If you currently have a target in a Weapon Grapple, you may instead make a Grapple Offense roll against its Grapple Defense; on success, pull it up to 5 yards toward you or the anchor. This movement may be vertical.\n\n",
+    "after": "{:#tension-line}\n\nTension is fixed to the environment and used as movement, leverage, or retrieval.\n\nRank: C  \nStamina: 11  \nSpeed: 7  \nTags: Bukijutsu, Chain, Utility, Movement  \nEffects: Attach the chain to a solid anchor within weapon Range and pull yourself to it, or pull an unattended object up to STR/5 weight units to you. Against a creature in your Weapon Grapple, instead win Grapple Offense against Grapple Defense to pull it up to half your Control in yards, minimum 5, toward you or the anchor. The chain must reach throughout; movement may be vertical.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Intercepting Coil",
+    "before": "{:#intercepting-coil}\n\nThe chain whips into the path of incoming fire and keeps moving after the deflection, carrying your footing with it.\n\nRank: B  \nStamina: 10  \nSpeed: 4  \nTags: Chain X, Chain, Utility, Interrupt, Movement  \nEffects: Parry a Ranged Taijutsu or Projectile Attack with \\+2. On a full success, you may move up to 2 yards without ending a Weapon Grapple.\n\n",
+    "after": "{:#intercepting-coil}\n\nThe chain whips into the path of incoming fire and keeps moving after the deflection, carrying your footing with it.\n\nRank: B  \nStamina: 10  \nSpeed: 4  \nTags: Chain X, Chain, Utility, Interrupt, Movement  \nEffects: Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. On full success, move up to the greater of 2 yards or AGI/5 without ending a Weapon Grapple, provided the chain remains in Range. This does not defend against AoEs.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Snap Return",
+    "before": "{:#snap-return}\n\nThis is the recovery skill that separates a chain fighter from somebody who merely owns a chain.\n\nRank: B  \nStamina: 9  \nSpeed: 3  \nTags: Chain X, Chain, Utility, Interrupt  \nEffects: Use when your chain would be disarmed, dropped, or knocked away. Keep hold of it and move it back to your hand; if already thrown, retrieve it from up to 20 yards. If this prevents you from losing access to the chain, an existing Weapon Grapple is not ended.\n\n",
+    "after": "{:#snap-return}\n\nThis is the recovery skill that separates a chain fighter from somebody who merely owns a chain.\n\nRank: B  \nStamina: 9  \nSpeed: 3  \nTags: Chain X, Chain, Utility, Interrupt  \nEffects: Use when your chain would be disarmed, dropped or knocked away. Keep hold of it; if already thrown, retrieve it from anywhere within its weapon Range along a clear path. Preventing loss of access preserves an existing Weapon Grapple. This does not prevent destruction of the chain.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Suspension Hold",
+    "before": "{:#suspension-hold}\n\nYou cast one loop around the target and another around the battlefield, then pull both lines tight until their movement is dictated by the anchor.\n\nRank: A  \nStamina: \\+24  \nDamage: \\+8dS  \nSpeed: \\+6  \nAccuracy: \\-2  \nTags: Chain 3, Chain, Attack  \nEffects: Requires the target to be Pinned by the Chain. This technique gains Submission and has Control 7\\. On a successful Grapple roll, choose a solid anchor within 6 yards of the target and within your Chain weapon’s Range. Pull the target up to 4 yards toward that anchor and suspend or tether them to it. While maintained, they take \\-2 Dodge and cannot voluntarily move farther from the anchor. Each consecutive use automatically hits as normal for a maintained Submission and applies Suffocation 1\\. Destroying the anchor or ending the Weapon Grapple ends this technique.\n\n",
+    "after": "{:#suspension-hold}\n\nYou cast one loop around the target and another around the battlefield, then pull both lines tight until their movement is dictated by the anchor.\n\nRank: A  \nStamina: \\+24  \nDamage: \\+8dS  \nSpeed: \\+6  \nTags: Chain 3, Chain, Attack  \nEffects: Requires the target to be Pinned by the Chain. This technique gains Submission and Control equal to the greater of 7 or Athletics/3. On a successful Grapple roll, choose a solid anchor within weapon Range and pull the target up to half your current Control in yards toward it. While maintained, the target takes a Dodge penalty of Athletics/5 and cannot voluntarily move farther from the anchor. Consecutive uses automatically hit as for a maintained Submission and apply Suffocation equal to the greater of 1 or half your PDB, rounded down. Destroying the anchor or ending the Weapon Grapple ends this technique.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Tripwire Field",
+    "before": "{:#tripwire-field}\n\nYou route the chain through several anchor points and turn the surrounding ground into a web of low, moving lines.\n\nRank: A  \nStamina: 18  \nSpeed: 8  \nRange: 20  \nTags: Bukijutsu, Chain, Utility  \nEffects: Choose up to three anchor points in Range and connect them with the chain for 20 IC. The first time a creature crosses one of those lines, make a Grapple Offense roll against its Grapple Defense. On success, apply Prone and Immobilization 2 until its next action. A creature already in your Weapon Grapple automatically fails this check. Tripwire Field cannot be maintained with the same chain that is holding a Weapon Grapple.\n\n\n",
+    "after": "{:#tripwire-field}\n\nYou route the chain through several anchor points and turn the surrounding ground into a web of low, moving lines.\n\nRank: A  \nStamina: 18  \nSpeed: 8  \nRange: 20  \nTags: Bukijutsu, Chain, Utility  \nEffects: Connect up to 3 + Athletics/10 anchor points with your chain, all within weapon Range; the total routed length cannot exceed that Range. The field lasts until you retrieve the chain or a supporting anchor or chain segment is destroyed. When a creature crosses a line, resolve Grapple Offense against Grapple Defense. On success, apply Prone and initiate a Weapon Grapple with it, determining Control normally; the field ends as the chain tightens around that target. The same chain cannot simultaneously hold a creature and form this field.\n\n\n"
+  },
+  {
+    "family": "dual",
+    "name": "Scissor Step",
+    "before": "{:#scissor-step}\n\nThe two weapons close like shears while the feet circle the target.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+2dS  \nSpeed: \\+0  \nAccuracy: \\+1  \nTags: Chain 1, Dual, Attack, Movement  \nEffects: Requires two weapons. After the Attack resolves, you may use any remaining Move with an Attack distance in any legal direction. If the target Parried this Attack, its next Parry against your Dual Chain attack before 20 IC takes \\-2.\n\n",
+    "after": "{:#scissor-step}\n\nThe two weapons close like shears while the feet circle the target.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+2dS  \nSpeed: \\+0  \nAccuracy: \\+1  \nTags: Chain 1, Dual, Attack, Movement  \nEffects: Requires two weapons. After the Attack resolves, you may use any remaining Move with an Attack distance in any legal direction. If the target Parried this Attack, its next Parry against your Dual Chain attack takes −Athletics/5.\n\n"
+  },
+  {
+    "family": "dual",
+    "name": "Off-Hand Catch",
+    "before": "{:#off-hand-catch}\n\nThe off-hand weapon exists to solve the problems the leading weapon creates.\n\nRank: E  \nStamina: 4  \nSpeed: 5  \nTags: Chain X, Dual, Utility, Interrupt  \nEffects: Parry with the off-hand weapon at \\+1. On full success, the next Dual Chain attack may use either weapon without any swap cost.\n\n",
+    "after": "{:#off-hand-catch}\n\nThe off-hand weapon exists to solve the problems the leading weapon creates.\n\nRank: E  \nStamina: 4  \nSpeed: 3  \nTags: Chain X, Dual, Utility, Interrupt  \nEffects: Parry a targeted Melee Attack with the off-hand weapon at +Athletics/5. On full success, your next Dual Chain Attack gains +15% Final Damage if it is your next non-Interrupt Action. This does not defend against AoEs.\n\n"
+  },
+  {
+    "family": "dual",
+    "name": "Cross Finish",
+    "before": "{:#cross-finish}\n\nYou cross both attack lines through different parts of the target, forcing the defender to contain two wound lines at once before either hand can recover.\n\nRank: D  \nStamina: \\+12  \nDamage: \\+6dS  \nSpeed: \\+6  \nAccuracy: \\-2  \nTags: Chain 3, Dual, Attack  \nEffects: Requires two weapons. On a full hit, choose two different wound locations; if the Attack wounds, apply one wound at the normal location and a second wound one severity lower at the other location. The secondary wound cannot exceed Minor severity.\n\n",
+    "after": "{:#cross-finish}\n\nYou cross both attack lines through different parts of the target, forcing the defender to contain two wound lines at once before either hand can recover.\n\nRank: D  \nStamina: \\+12  \nDamage: \\+6dS  \nSpeed: \\+6  \nTags: Chain 3, Dual, Attack  \nEffects: Requires two weapons. On a full hit, choose two different wound locations; if the Attack wounds, apply one wound at the normal location and a second wound one severity lower at the other location. The secondary wound cannot exceed Minor severity.\n\n"
+  },
+  {
+    "family": "dual",
+    "name": "Paired Flow",
+    "before": "{:#paired-flow}\n\nThe weapons settle into a shared rhythm, one hand recovering while the other remains live.\n\nRank: D  \nStamina: 9  \nUpkeep: 2  \nSpeed: 7  \nTags: Bukijutsu, Dual, Utility  \nEffects: While wielding two weapons, gain \\+1 Parry. Once per 20 IC, reduce the Speed of one Dual Chain attack by 2 after all other modifiers, minimum 3\\.\n\n",
+    "after": "{:#paired-flow}\n\nThe weapons settle into a shared rhythm, one hand recovering while the other remains live.\n\nRank: D  \nStamina: 9  \nUpkeep: 2  \nSpeed: 7  \nTags: Bukijutsu, Dual, Utility  \nEffects: While wielding two weapons, gain +Athletics/5 Parry. When a Dual Chain Attack uses a different leading weapon from your previous Dual Chain Attack in the current Chain, reduce its final Speed by 20%, rounded down, subject to normal Speed minimums. Apply this once per Attack.\n\n"
+  },
+  {
+    "family": "dual",
+    "name": "Changing Lead",
+    "before": "{:#changing-lead}\n\nThe style changes which weapon is “leading” without changing what is held.\n\nRank: C  \nStamina: 5  \nSpeed: 1  \nTags: Chain X, Dual, Utility  \nEffects: Swap which held weapon is leading. Until your next action, use either weapon's damage type for your Dual Chain effects and ignore one hand-specific penalty of up to 3\\.\n\n",
+    "after": "{:#changing-lead}\n\nThe style changes which weapon is “leading” without changing what is held.\n\nRank: C  \nStamina: 5  \nSpeed: 1  \nTags: Chain X, Dual, Utility  \nEffects: Swap which held weapon is leading. Your next Dual Chain Attack may use either weapon’s damage type and ignores temporary Accuracy penalties specific to the other hand. If it is your next non-Interrupt Action, it also gains +15% Final Damage.\n\n"
+  },
+  {
+    "family": "dual",
+    "name": "Weapon Lock",
+    "before": "{:#weapon-lock}\n\nThe two weapons close around the line the defender committed, trapping that weapon between them for the next exchange.\n\nRank: B  \nStamina: \\+14  \nDamage: \\+6dS  \nSpeed: \\+3  \nAccuracy: \\-1  \nTags: Chain 2, Dual, Attack  \nEffects: Requires two weapons. On a full hit, if the target used a weapon to Block or Parry, that weapon cannot be used to Block or Parry your next Dual Chain attack before 20 IC.\n\n",
+    "after": "{:#weapon-lock}\n\nThe two weapons close around the line the defender committed, trapping that weapon between them for the next exchange.\n\nRank: B  \nStamina: \\+14  \nDamage: \\+6dS  \nSpeed: \\+3  \nTags: Chain 2, Dual, Attack  \nEffects: Requires two weapons. On a full hit, if the target used a weapon to Block or Parry, that weapon cannot be used to Block or Parry your next Dual Chain attack.\n\n"
+  },
+  {
+    "family": "dual",
+    "name": "Counterpair",
+    "before": "{:#counterpair}\n\nA full parry with one hand opens the line for the other.\n\nRank: B  \nStamina: 10  \nSpeed: 4  \nTags: Chain X, Dual, Attack, Interrupt  \nEffects: After fully Parrying a Melee Attack, make an off-hand Basic Weapon Attack against that attacker at 65% final damage. This is Chain X.\n\n",
+    "after": "{:#counterpair}\n\nA full parry with one hand opens the line for the other.\n\nRank: B  \nStamina: 10  \nSpeed: 4  \nTags: Chain X, Dual, Attack, Interrupt  \nEffects: After fully Parrying a targeted Melee Attack, make an off-hand Basic Weapon Attack against the attacker at full damage if it is within Reach. Pay this technique’s Stamina and Interrupt Speed instead of that Basic Attack’s costs. The counter has its own Accuracy and Defense and is Chain X.\n\n"
+  },
+  {
+    "family": "dual",
+    "name": "Crossed Execution",
+    "before": "{:#crossed-execution}\n\nOne hand attacks the target while the other deliberately destroys the guard protecting them.\n\nRank: A  \nStamina: \\+26  \nSpeed: \\+6  \nTags: Chain 3, Dual, Attack  \nEffects: Requires two weapons. Make one Attack with each. One weapon attacks the target at 75% final damage; the other attacks one held weapon or Armor piece at 75% final damage. Roll and defend separately.\n\n",
+    "after": "{:#crossed-execution}\n\nOne hand attacks the target while the other deliberately destroys the guard protecting them.\n\nRank: A  \nStamina: \\+26  \nSpeed: \\+6  \nTags: Chain 3, Dual, Attack  \nEffects: Requires two weapons. Make one Attack with each at full damage, rolling and defending separately. One strikes the target and gains +25% Wounding; the other strikes a held weapon or worn armor piece. Resolve that structural hit as a direct attack on the item, using normal item defenses and armor matchups. It does not also damage the wielder. Chain ends after both attacks resolve.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Marking Shot",
+    "before": "{:#marking-shot}\n\nThe first arrow is used to establish a sightline rather than chase immediate damage.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+2dS  \nSpeed: \\-1  \nAccuracy: \\+1  \nTags: Chain 1, Bow, Attack  \nEffects: Bow only. On a full hit, apply your Bow Mark to the target for 20 IC. Your next Bow Chain 2 against that target gains \\+2 Accuracy, increased to \\+3 if the target moved at least 3 yards after being Marked. A new Bow Mark from you replaces the previous one.\n\n",
+    "after": "{:#marking-shot}\n\nThe first arrow is used to establish a sightline rather than chase immediate damage.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+2dS  \nSpeed: \\-1  \nAccuracy: \\+1  \nTags: Chain 1, Bow, Attack  \nEffects: Bow only. On a full hit, Mark the target until your Chain against it ends. Your next Bow Chain 2 against it gains +Athletics/5 Accuracy, increased by 1 if it voluntarily moved after being Marked. That Attack consumes the Mark. A new Mark replaces your previous one.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Quick Nock",
+    "before": "{:#quick-nock}\n\nYou nock the next arrow in the same motion that lowers the bow, keeping the string, grip, and sightline ready before the target sees a reset.\n\nRank: E  \nStamina: 3  \nSpeed: 2  \nTags: Chain X, Bow, Utility  \nEffects: Nock an arrow. Your next Bow Chain attack before 20 IC has \\-2 Speed, minimum Base Speed 3\\.\n\n",
+    "after": "{:#quick-nock}\n\nYou nock the next arrow in the same motion that lowers the bow, keeping the string, grip, and sightline ready before the target sees a reset.\n\nRank: E  \nStamina: 3  \nSpeed: 2  \nTags: Chain X, Bow, Utility  \nEffects: Nock an arrow. Your next Bow Chain attack has \\-2 Speed, minimum Base Speed 3\\.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Precision Shot",
+    "before": "{:#precision-shot}\n\nThe final arrow is chosen for penetration and wound placement.\n\nRank: D  \nStamina: \\+11  \nDamage: \\+6dS  \nSpeed: \\+5  \nAccuracy: \\-2  \nTags: Chain 3, Bow, Attack  \nEffects: \\+10% Wounding. Reduce the target Armor’s Absorption by 10% for this Attack, to a minimum of 0%. If the target has your Bow Mark, you may consume it when declaring this Attack to gain \\+3 Accuracy.\n\n",
+    "after": "{:#precision-shot}\n\nThe final arrow is chosen for penetration and wound placement.\n\nRank: D  \nStamina: \\+11  \nDamage: \\+6dS  \nSpeed: \\+5  \nTags: Chain 3, Bow, Attack  \nEffects: \\+10% Wounding. Reduce the target Armor’s Absorption by 10% for this Attack, to a minimum of 0%. If the target has your Bow Mark, you may consume it when declaring this Attack to gain +Athletics/5 Accuracy.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Cutting Arrow",
+    "before": "{:#cutting-arrow}\n\nAn arrow is fired at another projectile rather than the attacker.\n\nRank: D  \nStamina: 6  \nSpeed: 5  \nTags: Chain X, Bow, Utility, Interrupt  \nEffects: Fire at an incoming Ranged Taijutsu projectile and Parry it with \\+1. The arrow used is consumed whether you succeed or fail.\n\n",
+    "after": "{:#cutting-arrow}\n\nAn arrow is fired at another projectile rather than the attacker.\n\nRank: D  \nStamina: 6  \nSpeed: 3  \nTags: Chain X, Bow, Utility, Interrupt  \nEffects: Consume an arrow to Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. This does not defend against AoEs.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Threaded Shot",
+    "before": "{:#threaded-shot}\n\nYou place the arrow directly through one target’s line and keep enough force behind it to threaten the body standing behind them.\n\nRank: C  \nStamina: \\+8  \nDamage: \\+4dS  \nSpeed: \\+2  \nAccuracy: \\+1  \nTags: Chain 1, Bow, Attack  \nEffects: On a full hit, you may also attack one creature directly behind the target and within 5 yards for 40% final damage using the same Accuracy result. The secondary hit cannot establish or advance Chain.\n\n",
+    "after": "{:#threaded-shot}\n\nYou place the arrow directly through one target’s line and keep enough force behind it to threaten the body standing behind them.\n\nRank: C  \nStamina: \\+8  \nDamage: \\+4dS  \nSpeed: \\+2  \nAccuracy: \\+1  \nTags: Chain 1, Bow, Attack  \nEffects: On a full hit, you may also attack one creature directly behind the target within the bow’s remaining Range for 60% Final Damage, using the same Accuracy result. It defends separately. The secondary hit cannot establish or advance Chain.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Mobile Draw",
+    "before": "{:#mobile-draw}\n\nThe draw is maintained through movement so the user can relocate without throwing away the shot, keeping shoulders, string, and target line stable while the feet change position.\n\nRank: C  \nStamina: 7  \nSpeed: 2  \nTags: Chain X, Bow, Utility, Movement  \nEffects: Move up to 4 yards while maintaining your draw. This movement does not break Chain. If you changed position, your next Bow Chain attack before 20 IC gains \\+1 Accuracy.\n\n",
+    "after": "{:#mobile-draw}\n\nThe draw is maintained through movement so the user can relocate without throwing away the shot, keeping shoulders, string, and target line stable while the feet change position.\n\nRank: C  \nStamina: 7  \nSpeed: 2  \nTags: Chain X, Bow, Utility, Movement  \nEffects: Move up to the greater of 4 yards or AGI/5 while maintaining your draw and Chain. If your next non-Interrupt Action is a Bow Chain Attack, it gains +Athletics/5 Accuracy. This movement does not suspend the positioning requirements of Held Draw.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Anchor Shot",
+    "before": "{:#anchor-shot}\n\nThe arrow is driven through gear or flesh and fixed into nearby terrain, turning a hit into a hard limit on where the target can go.\n\nRank: B  \nStamina: \\+14  \nDamage: \\+6dS  \nSpeed: \\+4  \nAccuracy: \\-1  \nTags: Chain 2, Bow, Attack  \nEffects: Requires solid terrain within 2 yards of the target. On a full hit, anchor the target to that point; it cannot move more than 2 yards from the anchor until it removes the arrow as Speed 5\\.\n\n",
+    "after": "{:#anchor-shot}\n\nThe arrow is driven through gear or flesh and fixed into nearby terrain, turning a hit into a hard limit on where the target can go.\n\nRank: B  \nStamina: \\+14  \nDamage: \\+6dS  \nSpeed: \\+4  \nTags: Chain 2, Bow, Attack  \nEffects: On a full hit, resolve Immobilization with severity equal to the greater of 3 or Athletics/10, maximum 6. If there is solid terrain within the target’s Reach, you may instead anchor it there; it cannot voluntarily move away until it removes the arrow as a Speed 5 Utility Action or destroys the anchor. The ordinary Immobilization ends when the target removes the arrow with that same Action.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Sightline",
+    "before": "{:#sightline}\n\nThe user spends a moment reading sightline, cover, air, and target movement before firing.\n\nRank: B  \nStamina: 9  \nSpeed: 4  \nTags: Chain X, Bow, Utility  \nEffects: Make a Search with Awareness \\+4. Until your next action, ignore up to 4 points of Visibility penalty with Bow attacks, increase your Bow’s Range by 30%.\n\n",
+    "after": "{:#sightline}\n\nThe user spends a moment reading sightline, cover, air, and target movement before firing.\n\nRank: B  \nStamina: 9  \nSpeed: 4  \nTags: Chain X, Bow, Utility  \nEffects: Make a Search with +Athletics/5 Awareness. Your next Bow Attack against a located target ignores Visibility penalties and gains +50% Range if it is your next non-Interrupt Action. The projectile still requires a clear path.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Skyfall Shot",
+    "before": "{:#skyfall-shot}\n\nYou send the arrow high and let gravity return it from above, attacking cover from a direction it was not built to protect.\n\nRank: A  \nStamina: \\+24  \nDamage: \\+12dS  \nSpeed: \\+6  \nAccuracy: \\-1  \nTags: Bukijutsu, Bow, Attack  \nEffects: This Attack has Delay 3\\. Ignore up to 3 points of Visibility penalty when targeting a creature you can locate; the projectile still needs a clear path. On a full hit, gain \\+15% Wounding.\n\n",
+    "after": "{:#skyfall-shot}\n\nYou send the arrow high and let gravity return it from above, attacking cover from a direction it was not built to protect.\n\nRank: A  \nStamina: \\+24  \nDamage: \\+12dS  \nSpeed: \\+6  \nTags: Bukijutsu, Bow, Attack  \nEffects: Choose a clear arcing projectile path within Bow Range. Ignore Visibility penalties against a creature you can locate. Gain +25% Final Damage and +30% Wounding. This adds no Delay beyond the weapon’s normal Bukijutsu Delay.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Hunter's Watch",
+    "before": "{:#hunter-s-watch}\n\nYou settle into a firing lane and punish movement through it instead of waiting for a perfect stationary shot.\n\nRank: A  \nStamina: 13  \nUpkeep: 4  \nSpeed: 6  \nTags: Utility, Self, Upkeep, Bukijutsu  \nEffects: Choose a 90-degree arc within Bow Range when activated. Once per 20 IC, when a creature in that arc moves at least 3 yards, you may make a Bow Basic Weapon Attack against it at 60% final damage as an Interrupt.\n\n\n",
+    "after": "{:#hunter-s-watch}\n\nYou settle into a firing lane and punish movement through it instead of waiting for a perfect stationary shot.\n\nRank: A  \nStamina: 13  \nUpkeep: 4  \nSpeed: 6  \nTags: Utility, Self, Upkeep, Bukijutsu  \nEffects: Choose a 90-degree arc within Bow Range. While maintained, when a creature voluntarily moves in that arc, you may make a Bow Basic Weapon Attack against it at full damage as an Offensive Interrupt. Pay that Basic Attack’s normal Stamina and final Speed. One movement Action can trigger one shot from you. The shot resolves at a point in its path that you can perceive and legally target.\n\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Folding Edge",
+    "before": "{:#folding-edge}\n\nThe fan snaps shut and is used like a short baton or edged frame.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+2dS  \nSpeed: \\-1  \nAccuracy: \\+1  \nTags: Chain 1, Fan, Attack  \nEffects: Melee only. On a full hit, the target takes \\-1 Parry against your next Fan Chain attack before 20 IC.\n\n",
+    "after": "{:#folding-edge}\n\nThe fan snaps shut and is used like a short baton or edged frame.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+2dS  \nSpeed: \\-1  \nAccuracy: \\+1  \nTags: Chain 1, Fan, Attack  \nEffects: Melee only. On a full hit, the target takes −Athletics/5 Parry against your next Fan Chain attack.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Full Fan Gust",
+    "before": "{:#full-fan-gust}\n\nThe fan opens fully and the entire span contributes to one committed burst, driving a wall of air through the target hard enough to carry both body and guard with it.\n\nRank: E  \nStamina: \\+8  \nChakra: 8  \nDamage: \\+5dS  \nLine: 4, 15  \nSpeed: \\+4  \nSpecial: Knockback 5  \nTags: Chain 3, Fan, Attack  \nEffects: \\+5% Wounding.\n\n",
+    "after": "{:#full-fan-gust}\n\nThe fan opens fully and the entire span contributes to one committed burst, driving a wall of air through the target hard enough to carry both body and guard with it.\n\nRank: E  \nStamina: \\+8  \nChakra: 8  \nDamage: \\+5dS  \nLine: 4, 15  \nSpeed: \\+4  \nSpecial: Knockback 5  \nTags: Chain 3, Fan, Attack  \nEffects: Gain +15% Wounding. Use the greater of 5 or CHA/10 as the printed Knockback.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Wind Screen",
+    "before": "{:#wind-screen}\n\nThe fan catches a projectile in moving air instead of trying to meet it edge-on.\n\nRank: E  \nChakra: 7  \nSpeed: 5  \nTags: Chain X, Fan, Utility, Interrupt, Movement  \nEffects: Parry a Ranged Taijutsu or Projectile Attack with \\+1. On full success, you may move up to 2 yards.\n\n",
+    "after": "{:#wind-screen}\n\nThe fan catches a projectile in moving air instead of trying to meet it edge-on.\n\nRank: E  \nChakra: 7  \nSpeed: 3  \nTags: Chain X, Fan, Utility, Interrupt, Movement  \nEffects: Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. On full success, move up to the greater of 2 yards or AGI/10. This does not defend against AoEs.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Dust Sweep",
+    "before": "{:#dust-sweep}\n\nThe sweep is designed to clear a lane whether the attack connects cleanly or not.\n\nRank: D  \nStamina: \\+10  \nChakra: 14  \nDamage: \\+5dS  \nArea: 7  \nSpeed: \\+5  \nTags: Chain 3, Fan, Attack  \nEffects: Targets that fully Dodge are moved to the Area edge; targets hit take Visibility 1 for 10 IC.\n\n",
+    "after": "{:#dust-sweep}\n\nThe sweep is designed to clear a lane whether the attack connects cleanly or not.\n\nRank: D  \nStamina: \\+10  \nChakra: 14  \nDamage: \\+5dS  \nArea: 7  \nSpeed: \\+5  \nTags: Chain 3, Fan, Attack  \nEffects: Targets that fully Dodge move to the Area edge as part of that Defense. Targets hit suffer Visibility equal to the greater of 2 or Athletics/10, maximum 5, until they clear their eyes with a Speed 3 Utility Action. Apply Partial Defense to the severity normally.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Wind Sense",
+    "before": "{:#wind-sense}\n\nTiny changes in pressure, cloth, dust, hair, and projectile flight are read as information.\n\nRank: D  \nChakra: 7  \nSpeed: 4  \nTags: Chain X, Fan, Utility  \nEffects: Make a Search using Chakra Control or Awareness with \\+2. Until your next action, ignore up to 2 points of Visibility penalty on Fan attacks.\n\n",
+    "after": "{:#wind-sense}\n\nTiny changes in pressure, cloth, dust, hair, and projectile flight are read as information.\n\nRank: D  \nChakra: 7  \nSpeed: 4  \nTags: Chain X, Fan, Utility  \nEffects: Make a Search using Chakra Control or Awareness with +Athletics/5. Your next Fan Attack against a creature located by this Search ignores Visibility penalties if it is your next non-Interrupt Action. It still requires a clear attack path.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Guided Wind",
+    "before": "{:#guided-wind}\n\nThe fan is held as a stable channel for both weapon pressure and Fuuton.\n\nRank: D  \nChakra: 15  \nUpkeep: 3  \nSpeed: 8  \nTags: Bukijutsu, Fan, Utility  \nEffects: Fan Bukijutsu gain \\+4 Range. Fuuton cast through this fan gains \\+10 Range. Once per 20 IC, one Fan Bukijutsu or Fuuton with a printed Knockback Special may increase that printed Knockback by 1 before rolling it.\n\n",
+    "after": "{:#guided-wind}\n\nThe fan is held as a stable channel for both weapon pressure and Fuuton.\n\nRank: D  \nChakra: 15  \nUpkeep: 3  \nSpeed: 8  \nTags: Bukijutsu, Fan, Utility  \nEffects: Increase the Range of Fan Bukijutsu and Fuuton cast through this fan by 50%. Increase their printed Knockback by 50%, rounded down, before Special rolls. These bonuses last while maintained.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Crosswind Step",
+    "before": "{:#crosswind-step}\n\nThe user lets the fan pull their body through a short movement while preserving the chain.\n\nRank: C  \nStamina: 7  \nSpeed: 2  \nTags: Chain X, Fan, Utility, Movement  \nEffects: Move up to 5 yards. If you end farther from your chained target than you began, your next Fan Chain attack gains \\+2 Range.\n\n",
+    "after": "{:#crosswind-step}\n\nThe user lets the fan pull their body through a short movement while preserving the chain.\n\nRank: C  \nStamina: 7  \nSpeed: 2  \nTags: Chain X, Fan, Utility, Movement  \nEffects: Move up to the greater of 5 yards or AGI/5. If you end farther from your chained target, your next Fan Chain Attack gains +50% Range and +15% Final Damage if it is your next non-Interrupt Action.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Closed Guard",
+    "before": "{:#closed-guard}\n\nThe fan closes into a compact guard that can actually receive melee force.\n\nRank: C  \nStamina: 11  \nSpeed: 4  \nTags: Bukijutsu, Fan, Utility, Interrupt  \nEffects: Block or Parry a Melee Attack with the closed fan at \\+2. On full success, your next Fan Chain 1 before 20 IC has its final Speed reduced by 1\\.\n\n",
+    "after": "{:#closed-guard}\n\nThe fan closes into a compact guard that can actually receive melee force.\n\nRank: C  \nStamina: 11  \nSpeed: 4  \nTags: Bukijutsu, Fan, Utility, Interrupt  \nEffects: Parry a targeted Melee Attack with +Athletics/5. On full success, your next Fan Chain 1 gains +20% Final Damage if it is your next non-Interrupt Action. This does not defend against AoEs.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Returning Gale",
+    "before": "{:#returning-gale}\n\nThe return current drags the target across your line while carrying you into the space their balance just abandoned.\n\nRank: B  \nStamina: \\+15  \nChakra: 13  \nDamage: \\+7dS  \nRange: 20  \nSpeed: \\+2  \nSpecial: Knockback 5  \nTags: Chain 2, Fan, Attack, Movement  \nEffects: On a successful Knockback Special, choose a sideways direction for the forced movement. Afterward, you may use your Move with an Attack movement to follow along the path the target vacated.\n\n",
+    "after": "{:#returning-gale}\n\nThe return current drags the target across your line while carrying you into the space their balance just abandoned.\n\nRank: B  \nStamina: \\+15  \nChakra: 13  \nDamage: \\+7dS  \nRange: 20  \nSpeed: \\+2  \nSpecial: Knockback 5  \nTags: Chain 2, Fan, Attack, Movement  \nEffects: Use the greater of 5 or CHA/5 as the printed Knockback. On a successful Special, choose any sideways direction and follow up to the target’s actual movement along a legal path. This follow replaces Move with an Attack for this technique.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Seamless Wind",
+    "before": "{:#seamless-wind}\n\nThe fan catches the rhythm of a Fuuton and carries it through the current exchange, allowing wind chakra to pass through the sequence without forcing the weapon flow to reset.\n\nRank: B  \nChakra: 11  \nSpeed: 3  \nTags: Chain X, Fan, Utility  \nEffects: Once per Chain, your next Fan-tagged Fuuton used before 20 IC may be used without breaking Chain. It does not change or refresh Chain, and cannot trigger an effect that grants an additional weapon attack after using Fuuton.\n\n",
+    "after": "{:#seamless-wind}\n\nThe fan catches the rhythm of a Fuuton and carries it through the current exchange, allowing wind chakra to pass through the sequence without forcing the weapon flow to reset.\n\nRank: B  \nChakra: 11  \nSpeed: 3  \nTags: Chain X, Fan, Utility  \nEffects: Once per Chain, your next Fan-tagged Fuuton used may be used without breaking Chain. It does not change or refresh Chain, and cannot trigger an effect that grants an additional weapon attack after using Fuuton.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Windbreak",
+    "before": "{:#windbreak}\n\nYou split the battlefield with one violent current and leave the air behind it too unstable for clean projectile fire.\n\nRank: A  \nStamina: \\+26  \nChakra: 24  \nDamage: \\+12dS  \nLine: 8, 35  \nSpeed: \\+5  \nSpecial: Knockback 6  \nTags: Chain 3, Fan, Attack  \nEffects: The Line remains turbulent until your next action; Ranged Taijutsu and Projectile Attacks crossing it take \\-2 Accuracy.\n\n",
+    "after": "{:#windbreak}\n\nYou split the battlefield with one violent current and leave the air behind it too unstable for clean projectile fire.\n\nRank: A  \nStamina: \\+26  \nChakra: 24  \nDamage: \\+12dS  \nLine: 8, 35  \nSpeed: \\+5  \nSpecial: Knockback 6  \nTags: Chain 3, Fan, Attack  \nEffects: Use the greater of 10 or CHA/3 as the printed Knockback. Gain +25% Final Damage. The Line remains turbulent until your next non-Interrupt Action; Ranged Taijutsu and Projectile Attacks crossing it take an Accuracy penalty of Athletics/5.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Perfect Current",
+    "before": "{:#perfect-current}\n\nYou shape a single clean current around an obstacle, letting the next attack arrive from a line the target cannot simply read from your stance.\n\nRank: A  \nChakra: 14  \nSpeed: 4  \nTags: Chain X, Fan, Utility  \nEffects: Your next Fan attack before 20 IC may bend once by up to 90 degrees around solid obstacles. Ignore up to 3 points of Visibility penalty. The bend must remain within the attack’s Range.\n\n\n",
+    "after": "{:#perfect-current}\n\nYou shape a single clean current around an obstacle, letting the next attack arrive from a line the target cannot simply read from your stance.\n\nRank: A  \nChakra: 14  \nSpeed: 4  \nTags: Chain X, Fan, Utility  \nEffects: Your next Fan Attack may bend up to twice, each by up to 90 degrees, within its total Range. Ignore Visibility penalties against targets you can locate and gain +25% Final Damage. Every segment needs a clear path. The benefit ends if your next non-Interrupt Action is not a Fan Attack.\n\n\n"
+  },
+  {
+    "family": "thrown",
+    "name": "Needle Lead",
+    "before": "{:#needle-lead}\n\nThe first small projectile is placed where a minor injury can matter tactically.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+1dS  \nSpeed: \\-1  \nAccuracy: \\+1  \nTags: Chain 1, Thrown, Attack  \nEffects: Requires Kunai, Shuriken or Senbon. On a full hit choose one: Bleed — make the normal Athletics Status Roll for Bleed 2; or Disrupt — the target takes \\-2 Accuracy on its next Attack before 20 IC.\n\n",
+    "after": "{:#needle-lead}\n\nThe first small projectile is placed where a minor injury can matter tactically.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+1dS  \nSpeed: \\-1  \nAccuracy: \\+1  \nTags: Chain 1, Thrown, Attack  \nEffects: Requires Kunai, Shuriken or Senbon. On a full hit choose one: Bleed — make the normal Athletics Status Roll for Bleed 2; or Disrupt — the target takes −Athletics/5 Accuracy on its next Attack.\n\n"
+  },
+  {
+    "family": "thrown",
+    "name": "Handful Throw",
+    "before": "{:#handful-throw}\n\nThe user empties a full handful in one practiced release, splitting the weapons between targets as the throw opens across the battlefield.\n\nRank: D  \nStamina: \\+12  \nSpeed: \\+6  \nTags: Chain 3, Thrown, Attack  \nEffects: Multi-throw up to 3 weapons beyond your normal limit. Split them among any targets in Range. Each target defends separately; weapons against the same target combine only for Wounding.\n\n",
+    "after": "{:#handful-throw}\n\nThe user empties a full handful in one practiced release, splitting the weapons between targets as the throw opens across the battlefield.\n\nRank: D  \nStamina: \\+12  \nSpeed: \\+6  \nTags: Chain 3, Thrown, Attack  \nEffects: Multi-throw up to Athletics/5 additional weapons beyond your normal limit. Split them among targets in Range. Each target defends separately; weapons against the same target combine only for Wounding. Pay all normal ammunition and Multi-Throw costs.\n\n"
+  },
+  {
+    "family": "thrown",
+    "name": "Return Flick",
+    "before": "{:#return-flick}\n\nA missed or deflected weapon is treated as recoverable equipment rather than lost ammunition.\n\nRank: D  \nStamina: 4  \nSpeed: 3  \nTags: Chain X, Thrown, Utility, Interrupt  \nEffects: After a thrown weapon misses or is deflected, retrieve one weapon within 10 yards if a plausible line exists.\n\n",
+    "after": "{:#return-flick}\n\nA missed or deflected weapon is treated as recoverable equipment rather than lost ammunition.\n\nRank: D  \nStamina: 4  \nSpeed: 3  \nTags: Chain X, Thrown, Utility, Interrupt  \nEffects: After a thrown weapon misses or is deflected, retrieve it from anywhere within its normal throwing Range along a clear return path.\n\n"
+  },
+  {
+    "family": "thrown",
+    "name": "Corner Wire",
+    "before": "{:#corner-wire}\n\nNinja Wire is attached or routed before the next throw so the projectile can travel farther and turn a corner the hand alone could not produce.\n\nRank: C  \nStamina: 7  \nSpeed: 3  \nTags: Chain X, Thrown, Utility  \nEffects: Attach or manipulate Ninja Wire. Your next Thrown Chain attack gains \\+15 Range and may turn one corner of up to 90 degrees if line can be physically routed.\n\n",
+    "after": "{:#corner-wire}\n\nNinja Wire is attached or routed before the next throw so the projectile can travel farther and turn a corner the hand alone could not produce.\n\nRank: C  \nStamina: 7  \nSpeed: 3  \nTags: Chain X, Thrown, Utility  \nEffects: Attach or manipulate Ninja Wire along a clear route. Your next Thrown Chain Attack gains +50% Range and may turn up to 90 degrees along that route. Supply wire for the entire route; the benefit ends when the wire is detached or used.\n\n"
+  },
+  {
+    "family": "thrown",
+    "name": "Returning Arc",
+    "before": "{:#returning-arc}\n\nThe weapon continues through its first line and curves toward a second target before it loses momentum.\n\nRank: B  \nStamina: \\+14  \nDamage: \\+7dS  \nSpeed: \\+3  \nTags: Chain 2, Thrown, Attack  \nEffects: After resolving this Attack, choose a second creature within 5 yards of the first target. Make a second Accuracy roll at \\-1; on hit, deal 65% final damage. The second hit cannot establish or advance Chain.\n\n",
+    "after": "{:#returning-arc}\n\nThe weapon continues through its first line and curves toward a second target before it loses momentum.\n\nRank: B  \nStamina: \\+14  \nDamage: \\+7dS  \nSpeed: \\+3  \nTags: Chain 2, Thrown, Attack  \nEffects: After resolving this Attack, choose a second creature within the weapon’s remaining throwing Range measured along its path. Make a second Accuracy roll; on hit, deal 80% Final Damage. The second target defends separately and the second hit cannot establish or advance Chain.\n\n"
+  },
+  {
+    "family": "thrown",
+    "name": "Scatter Run",
+    "before": "{:#scatter-run}\n\nThe user moves while preparing the next handful, drawing and indexing tools between steps so the next release is already assembled when the new angle opens.\n\nRank: B  \nStamina: 9  \nSpeed: 2  \nTags: Chain X, Thrown, Utility, Movement  \nEffects: Move up to 5 yards while drawing or readying thrown weapons. Your next multi-throw before 20 IC gains \\+2 Accuracy and may include one additional weapon beyond your normal multi-throw limit.\n\n",
+    "after": "{:#scatter-run}\n\nThe user moves while preparing the next handful, drawing and indexing tools between steps so the next release is already assembled when the new angle opens.\n\nRank: B  \nStamina: 9  \nSpeed: 2  \nTags: Chain X, Thrown, Utility, Movement  \nEffects: Move up to the greater of 5 yards or AGI/5 while readying thrown weapons. Your next Multi-Throw gains +Athletics/5 Accuracy and may include Athletics/5 additional weapons if it is your next non-Interrupt Action. Pay all normal ammunition and Multi-Throw costs.\n\n"
+  },
+  {
+    "family": "thrown",
+    "name": "Fuuma Reaper",
+    "before": "{:#fuuma-reaper}\n\nYou send a Fuuma Shuriken through a continuous cutting route, forcing several targets to solve the same spinning weapon from different angles.\n\nRank: A  \nStamina: \\+26  \nSpeed: \\+8  \nTags: Chain 3, Thrown, Attack  \nEffects: Fuuma Shuriken only. Choose up to three creatures along one continuous path within Range. Roll Accuracy separately; divide Speed×PDB evenly among them. Each hit deals an equal share of the attack’s base weapon dice plus 4dS.\n\n",
+    "after": "{:#fuuma-reaper}\n\nYou send a Fuuma Shuriken through a continuous cutting route, forcing several targets to solve the same spinning weapon from different angles.\n\nRank: A  \nStamina: \\+26  \nSpeed: \\+8  \nTags: Chain 3, Thrown, Attack  \nEffects: Fuuma Shuriken only. Choose up to 3 + Athletics/10 creatures along one continuous clear path within Range. Roll Accuracy separately against each; each target defends separately. Each hit deals the full Basic Weapon Attack damage, including its full Speed×PDB, plus 4dS, and gains +20% Wounding. A creature can be struck once by this Attack; resolve Chain progression once.\n\n"
+  },
+  {
+    "family": "thrown",
+    "name": "Wire Cage",
+    "before": "{:#wire-cage}\n\nFour thrown anchors pull Ninja Wire tight around a patch of battlefield, turning movement through it into a hazard.\n\nRank: A  \nStamina: 20  \nSpeed: 10  \nArea: 6 within normal thrown Range  \nTags: Bukijutsu, Thrown, Utility  \nEffects: Requires four thrown weapons and 20 yards of Ninja Wire. For 20 IC, creatures inside the Area have 30% less movement. The first time each creature leaves the Area, it makes Athletics vs your Athletics; on failure, apply Prone and Immobilization 2 until its next action.\n\n\n",
+    "after": "{:#wire-cage}\n\nFour thrown anchors pull Ninja Wire tight around a patch of battlefield, turning movement through it into a hazard.\n\nRank: A  \nStamina: 20  \nSpeed: 10  \nArea: max(6, DEX/5) within normal thrown Range  \nTags: Bukijutsu, Thrown, Utility  \nEffects: Requires four thrown weapons and enough Ninja Wire to connect the Area’s perimeter. Area is the greater of 6 yards or DEX/5. The cage lasts until its wire or anchors are cut, destroyed or retrieved. Creatures inside have 50% less movement. Crossing its boundary requires Athletics against your Athletics; on failure the creature stops at the boundary and becomes Prone. A creature may attack a wire or anchor using normal object rules to open a passage. Resolve one crossing check per movement Action.\n\n\n"
+  },
+  {
+    "family": "bukijutsu",
+    "name": "Flowing Guard",
+    "before": "{:#flowing-guard}\n\nA practiced stance change should not look like somebody stopping to remember a new pose. You let the old guard collapse naturally into the new one, moving hands, feet, and weapon through positions that remain dangerous the entire time.\n\nRank: D  \nStamina: 6  \nSpeed: 3  \nTags: Chain X, Utility, Bukijutsu  \nEffects: Switch from one active Bukijutsu Stance to another Stance you know. Pay the new Stance’s activation cost.\n\n",
+    "after": "{:#flowing-guard}\n\nA practiced stance change should not look like somebody stopping to remember a new pose. You let the old guard collapse naturally into the new one, moving hands, feet, and weapon through positions that remain dangerous the entire time.\n\nRank: D  \nStamina: 6  \nSpeed: 3  \nTags: Chain X, Utility, Bukijutsu  \nEffects: Switch from one active Bukijutsu Stance to another you know without changing Chain value. Pay this technique’s Stamina and Speed instead of the new Stance’s activation costs. The old Stance ends and the new Upkeep begins.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Reversing Cut",
+    "before": "{:#reversing-cut}\n\nYou reverse the blade across the line of your previous attack.\n\nRank: D  \nStamina: \\+8  \nDamage: \\+3dS  \nSpeed: \\+2  \nTags: Chain 2, Sword, Attack, Movement  \nEffects: Read the Defense used against your previous Chain attack. If the target uses the same broad Defense again, that Defense takes \\-2. If it changes to a different broad Defense instead, after this Attack resolves you may use any remaining Move with an Attack distance in any legal direction.\n\n",
+    "after": "{:#reversing-cut}\n\nYou reverse the blade across the line of your previous attack.\n\nRank: D  \nStamina: \\+8  \nDamage: \\+3dS  \nSpeed: \\+2  \nTags: Chain 2, Sword, Attack, Movement  \nEffects: Read the Defense used against your previous Chain attack. If the target uses the same broad Defense again, that Defense takes −Athletics/5. If it changes to a different broad Defense instead, after this Attack resolves you may use any remaining Move with an Attack distance in any legal direction.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Reverse Edge",
+    "before": "{:#reverse-edge}\n\nYou turn the blade’s recovery into a second cut.\n\nRank: D  \nStamina: \\+10  \nDamage: \\+5dS  \nSpeed: \\-1  \nTags: Chain 3, Sword, Attack  \nEffects: If the previous Chain attack was partially defended, treat the target's Defense as 1 point worse for this Attack.\n\n",
+    "after": "{:#reverse-edge}\n\nYou turn the blade’s recovery into a second cut.\n\nRank: D  \nStamina: \\+10  \nDamage: \\+5dS  \nSpeed: \\-1  \nTags: Chain 3, Sword, Attack  \nEffects: If the previous Chain Attack was partially defended, impose a penalty of Athletics/5 on the target’s Defense against this Attack.\n\n"
+  },
+  {
+    "family": "sword",
+    "name": "Tempered Edge",
+    "before": "{:#tempered-edge}\n\nChakra is run along the cutting geometry of the weapon, tightening the edge and keeping it from skidding or twisting on hard contact.\n\nRank: D  \nChakra: 12  \nUpkeep: 2  \nSpeed: 7  \nTags: Bukijutsu, Sword, Utility  \nEffects: One sword gains \\+10% Wounding. This Wounding bonus does not stack with a Wounding bonus printed on a Sword Bukijutsu; use the higher value.\n\n",
+    "after": "{:#tempered-edge}\n\nChakra is run along the cutting geometry of the weapon, tightening the edge and keeping it from skidding or twisting on hard contact.\n\nRank: D  \nChakra: 12  \nUpkeep: 2  \nSpeed: 7  \nTags: Bukijutsu, Sword, Utility  \nEffects: One sword gains +15% Wounding. This stacks with the Wounding printed on its Sword Bukijutsu.\n\n"
+  },
+  {
+    "family": "club",
+    "name": "Returning Swing",
+    "before": "{:#returning-swing}\n\nYou strike into the opening left by the opponent's attack.\n\nRank: E  \nStamina: +5  \nDamage: +3dS  \nSpeed: +2  \nTags: Chain 2, Club, Attack  \nEffects: If this is your first non-Interrupt Action after resolving an Attack directed at you by the target, this Attack gains +2 Accuracy.\n\n",
+    "after": "{:#returning-swing}\n\nYou strike into the opening left by the opponent's attack.\n\nRank: E  \nStamina: +5  \nDamage: +3dS  \nSpeed: +2  \nTags: Chain 2, Club, Attack  \nEffects: If this is your first non-Interrupt Action after resolving an Attack directed at you by the target, this Attack gains +Athletics/5 Accuracy.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Threading Thrust",
+    "before": "{:#threading-thrust}\n\nThe point is threaded through a small defensive window rather than swung around the guard.\n\nRank: E  \nStamina: \\+5  \nDamage: \\+3dS  \nSpeed: \\+1  \nTags: Chain 2, Polearm, Attack  \nEffects: Defensive Interrupts against this Attack count as \\+1 Base Speed for Defense Validity. On full hit, ignore 5% DR.\n\n",
+    "after": "{:#threading-thrust}\n\nThe point is threaded through a small defensive window rather than swung around the guard.\n\nRank: E  \nStamina: \\+5  \nDamage: \\+3dS  \nSpeed: \\+1  \nTags: Chain 2, Polearm, Attack  \nEffects: Defensive Interrupts against this Attack count as +1 Base Speed for Defense Validity. Reduce the target armor’s flat DR by 20% for this Attack, after applying its damage-type matchup.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Rotation Strike",
+    "before": "{:#rotation-strike}\n\nThe whole polearm is rotated through a controlled arc.\n\nRank: E  \nStamina: \\+7  \nDamage: \\+3dS  \nSpeed: \\+5  \nArea: 2  \nTags: Bukijutsu, Polearm, Attack  \nEffects: Attack all chosen enemies in Reach. If only one creature is targeted, gain \\+1 Accuracy instead.\n\n",
+    "after": "{:#rotation-strike}\n\nThe whole polearm is rotated through a controlled arc.\n\nRank: E  \nStamina: \\+7  \nDamage: \\+3dS  \nSpeed: \\+5  \nArea: 2  \nTags: Bukijutsu, Polearm, Attack  \nEffects: Attack all chosen enemies in Reach. If only one creature is targeted, gain +Athletics/5 Accuracy instead.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Catch and Turn",
+    "before": "{:#catch-and-turn}\n\nThe hook, blade, or shaft catches posture instead of simply striking it.\n\nRank: D  \nStamina: \\+8  \nDamage: \\+3dS  \nSpeed: \\+2  \nSpecial: Knockback 4 or Prone  \nTags: Chain 2, Polearm, Attack  \nEffects: On a full hit, choose one: Turn — resolve Knockback 4, but you may choose any legal direction that keeps the target within your Reach; or Sweep — resolve Prone normally.\n\n",
+    "after": "{:#catch-and-turn}\n\nThe hook, blade, or shaft catches posture instead of simply striking it.\n\nRank: D  \nStamina: \\+8  \nDamage: \\+3dS  \nSpeed: \\+2  \nSpecial: Knockback 4 or Prone  \nTags: Chain 2, Polearm, Attack  \nEffects: On a full hit, choose one: Turn — resolve Knockback equal to the greater of 4 or STR/8 in any legal direction; or Sweep — resolve Prone normally.\n\n"
+  },
+  {
+    "family": "polearm",
+    "name": "Pinning Thrust",
+    "before": "{:#pinning-thrust}\n\nYou brace the haft and drive the point through the target’s line with enough commitment that the impact itself disrupts their movement.\n\nRank: D  \nStamina: \\+12  \nDamage: \\+5dS  \nSpeed: \\+4  \nSpecial: Immobilization 2  \nTags: Chain 3, Polearm, Attack  \nEffects: This Attack deals Piercing wounds and gains \\+10% Wounding. Immobilization from this Special lasts 15 IC.\n\n",
+    "after": "{:#pinning-thrust}\n\nYou brace the haft and drive the point through the target’s line with enough commitment that the impact itself disrupts their movement.\n\nRank: D  \nStamina: \\+12  \nDamage: \\+5dS  \nSpeed: \\+4  \nSpecial: Immobilization 2  \nTags: Chain 3, Polearm, Attack  \nEffects: This Attack deals Piercing wounds and gains +15% Wounding. Resolve Immobilization with severity equal to the greater of 2 or Athletics/10, maximum 6. It ends when the target spends a Speed 3 Utility Action to free the impaled clothing or equipment.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Casting Lash",
+    "before": "{:#casting-lash}\n\nThe chain is cast past the target and tensioned back through them, so Range and pull are part of the same action.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+2dS  \nSpeed: \\+1  \nTags: Chain 1, Chain, Attack  \nEffects: Gain \\+4 Range. On a full hit, initiate a Weapon Grapple with the target as described above.\n\n",
+    "after": "{:#casting-lash}\n\nThe chain is cast past the target and tensioned back through them, so Range and pull are part of the same action.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+2dS  \nSpeed: \\+1  \nTags: Chain 1, Chain, Attack  \nEffects: Increase weapon Range by 25%, minimum +4 yards, for this Attack. On a full hit, initiate a Weapon Grapple and determine starting Control normally.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Ankle Catch",
+    "before": "{:#ankle-catch}\n\nThe lowest loop of the chain is used to attack footing rather than flesh.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+1dS  \nSpeed: \\+0  \nAccuracy: \\+1  \nTags: Chain 1, Chain, Attack  \nEffects: On a full hit, you may deal 20% less final damage and initiate a Weapon Grapple. The target takes \\-2 on the opposing Grapple check used to determine starting Control. While the Weapon Grapple remains a Clinch, the wrapped leg inflicts Immobilization 1\\.\n\n",
+    "after": "{:#ankle-catch}\n\nThe lowest loop of the chain is used to attack footing rather than flesh.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+1dS  \nSpeed: \\+0  \nAccuracy: \\+1  \nTags: Chain 1, Chain, Attack  \nEffects: On a full hit, you may deal 20% less final damage and initiate a Weapon Grapple. The target takes −Athletics/5 on the opposing Grapple check used to determine starting Control. While the Weapon Grapple remains a Clinch, the wrapped leg inflicts Immobilization 1\\.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Reel and Strike",
+    "before": "{:#reel-and-strike}\n\nThe chain does not go slack after the first contact.\n\nRank: E  \nStamina: \\+5  \nDamage: \\+3dS  \nSpeed: \\+2  \nTags: Chain 2, Chain, Attack  \nEffects: If the target is in your Weapon Grapple, this Attack gains Pummel and Trapping 2\\. On a successful Grapple roll, pull the target toward you by up to half your current Control in yards, rounded down, maximum 5\\. If it cannot be moved because it is already adjacent or firmly anchored, add \\+2dS instead.\n\n",
+    "after": "{:#reel-and-strike}\n\nThe chain does not go slack after the first contact.\n\nRank: E  \nStamina: \\+5  \nDamage: \\+3dS  \nSpeed: \\+2  \nTags: Chain 2, Chain, Attack  \nEffects: If the target is in your Weapon Grapple, this Attack gains Pummel and Trapping 2. On a successful Grapple roll, pull it toward you by up to half your current Control in yards, rounded down. If it cannot move because it is adjacent or anchored, gain +20% Final Damage instead.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Moving Coil",
+    "before": "{:#moving-coil}\n\nThe chain is kept alive around the body like a moving perimeter.\n\nRank: E  \nStamina: 5  \nUpkeep: 1  \nSpeed: 6  \nTags: Chain X, Chain, Utility  \nEffects: While maintained, gain \\+1 Parry against Ranged Taijutsu and \\+3 Range on Chain attacks and Weapon Grapples. Ends if you fully fail a Parry by 5+.\n\n",
+    "after": "{:#moving-coil}\n\nThe chain is kept alive around the body like a moving perimeter.\n\nRank: E  \nStamina: 5  \nUpkeep: 1  \nSpeed: 6  \nTags: Chain X, Chain, Utility  \nEffects: While maintained, gain +Athletics/5 Parry against targeted Ranged Taijutsu and increase Chain weapon Range by 25%, minimum +3 yards. This grants no AoE Parry permission.\n\n"
+  },
+  {
+    "family": "chain",
+    "name": "Side Anchor",
+    "before": "{:#side-anchor}\n\nScenery becomes part of the weapon.\n\nRank: D  \nStamina: 5  \nSpeed: 3  \nTags: Chain X, Chain, Utility  \nEffects: Anchor the chain around scenery or change its attack angle. Your next Chain attack or Weapon Grapple action may originate from the anchor for line of effect. That Attack or Grapple gains +2 Accuracy.\n\n",
+    "after": "{:#side-anchor}\n\nScenery becomes part of the weapon.\n\nRank: D  \nStamina: 5  \nSpeed: 3  \nTags: Chain X, Chain, Utility  \nEffects: Anchor the chain around scenery or change its attack angle. Your next Chain attack or Weapon Grapple action may originate from the anchor for line of effect. That Attack or Grapple gains +Athletics/5 Accuracy.\n\n"
+  },
+  {
+    "family": "dual",
+    "name": "Alternating Cuts",
+    "before": "{:#alternating-cuts}\n\nThe hands alternate in a broken rhythm, changing line and timing with every swing.\n\nRank: E  \nStamina: \\+5  \nDamage: \\+3dS  \nSpeed: \\+1  \nTags: Chain 2, Dual, Attack  \nEffects: If the immediately previous Chain 2 you used in this Chain was a different Dual technique, gain \\+2 Accuracy.\n\n",
+    "after": "{:#alternating-cuts}\n\nThe hands alternate in a broken rhythm, changing line and timing with every swing.\n\nRank: E  \nStamina: \\+5  \nDamage: \\+3dS  \nSpeed: \\+1  \nTags: Chain 2, Dual, Attack  \nEffects: If the immediately previous Chain 2 you used in this Chain was a different Dual technique, gain +Athletics/5 Accuracy.\n\n"
+  },
+  {
+    "family": "dual",
+    "name": "Split Guard",
+    "before": "{:#split-guard}\n\nEach weapon asks a separate defensive question.\n\nRank: D  \nStamina: \\+8  \nSpeed: \\+3  \nTags: Chain 2, Dual, Attack  \nEffects: Make one Attack with each weapon at 60% final damage. The target chooses and resolves a Defense against each Attack. If it uses the same broad Defense against both, its second roll takes \\-2. If it uses two different broad Defenses, each successful hit gains \\+2dS. Chain advances if either Attack hits.\n\n",
+    "after": "{:#split-guard}\n\nEach weapon asks a separate defensive question.\n\nRank: D  \nStamina: \\+8  \nSpeed: \\+3  \nTags: Chain 2, Dual, Attack  \nEffects: Make one Attack with each weapon at 60% final damage. The target chooses and resolves a Defense against each Attack. If it uses the same broad Defense against both, its second roll takes −Athletics/5. If it uses two different broad Defenses, each successful hit gains \\+2dS. Chain advances if either Attack hits.\n\n"
+  },
+  {
+    "family": "dual",
+    "name": "Hand Feint",
+    "before": "{:#hand-feint}\n\nTwo visible threats are used to split attention before the attack starts.\n\nRank: D  \nStamina: 5  \nSpeed: 3  \nTags: Chain X, Dual, Utility  \nEffects: Opposed Espionage vs Awareness. On success, choose Dodge or Parry; that defense takes \\-2 against your next Dual Chain attack.\n\n",
+    "after": "{:#hand-feint}\n\nTwo visible threats are used to split attention before the attack starts.\n\nRank: D  \nStamina: 5  \nSpeed: 3  \nTags: Chain X, Dual, Utility  \nEffects: Oppose the target’s Awareness with Espionage. On success, choose Dodge or Parry; that Defense takes a penalty of 2 plus 1 per full 5 points you won by, maximum 6, against your next Dual Chain Attack.\n\n"
+  },
+  {
+    "family": "dual",
+    "name": "Divergent Current",
+    "before": "{:#divergent-current}\n\nEach weapon carries a different chakra treatment, letting the pair answer two different defenses in the same exchange.\n\nRank: A  \nChakra: 26  \nUpkeep: 6  \nSpeed: 12  \nTags: Bukijutsu, Dual, Utility  \nEffects: Apply two different weapon-coating effects you know, one to each held weapon. Pay this Upkeep plus only the higher additional Upkeep among those effects.\n\n\n",
+    "after": "{:#divergent-current}\n\nEach weapon carries a different chakra treatment, letting the pair answer two different defenses in the same exchange.\n\nRank: A  \nChakra: 26  \nUpkeep: 6  \nSpeed: 12  \nTags: Bukijutsu, Dual, Utility  \nEffects: Maintain two different weapon-coating effects you know, one on each held weapon. Pay both activation costs and this technique’s Chakra cost. While maintained, pay this Upkeep plus only the higher coating Upkeep. Their effects apply to their respective weapons normally; ending Divergent Current ends both coatings unless their normal Upkeeps are paid.\n\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Pinning Shot",
+    "before": "{:#pinning-shot}\n\nThe arrow is aimed to catch cloth, gear, or flesh against the environment.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+1dS  \nSpeed: \\+0  \nSpecial: Immobilization 2  \nTags: Chain 1, Bow, Attack  \nEffects: Bow only. Resolve the Immobilization Special normally. Against a target adjacent to solid terrain, increase the listed Immobilization by 1 before the Status Roll as the shot pins clothing or gear in place. The Immobilization lasts 10 IC.\n\n",
+    "after": "{:#pinning-shot}\n\nThe arrow is aimed to catch cloth, gear, or flesh against the environment.\n\nRank: E  \nStamina: \\+3  \nDamage: \\+1dS  \nSpeed: \\+0  \nSpecial: Immobilization 2  \nTags: Chain 1, Bow, Attack  \nEffects: Bow only. Resolve Immobilization with severity equal to the greater of 2 or Athletics/10, maximum 6. It ends when the target removes the arrow with a Speed 3 Utility Action. No terrain or object is required.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Angle Shot",
+    "before": "{:#angle-shot}\n\nThe release is chosen for a route the defender was not guarding—high, oblique, or around partial cover.\n\nRank: E  \nStamina: \\+5  \nDamage: \\+3dS  \nSpeed: \\+2  \nTags: Chain 2, Bow, Attack  \nEffects: If the target uses the same broad Defense it used against your Chain 1, that Defense takes \\-2.\n\n",
+    "after": "{:#angle-shot}\n\nThe release is chosen for a route the defender was not guarding—high, oblique, or around partial cover.\n\nRank: E  \nStamina: \\+5  \nDamage: \\+3dS  \nSpeed: \\+2  \nTags: Chain 2, Bow, Attack  \nEffects: If the target uses the same broad Defense it used against your Chain 1, that Defense takes −Athletics/5.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Held Draw",
+    "before": "{:#held-draw}\n\nThe bow is held in a disciplined firing posture, the sightline settling more firmly each moment the target remains predictable.\n\nRank: D  \nStamina: 9  \nUpkeep: 2  \nSpeed: 7  \nTags: Bukijutsu, Bow, Utility  \nEffects: While maintained, Bow attacks gain \\+2 Accuracy against targets that have not moved since your last action. If you move for any reason, you lose this bonus until your next action.\n\n",
+    "after": "{:#held-draw}\n\nThe bow is held in a disciplined firing posture, the sightline settling more firmly each moment the target remains predictable.\n\nRank: D  \nStamina: 9  \nUpkeep: 2  \nSpeed: 7  \nTags: Bukijutsu, Bow, Utility  \nEffects: While maintained, Bow attacks gain +Athletics/5 Accuracy against targets that have not moved since your last action. If you move for any reason, you lose this bonus until your next action.\n\n"
+  },
+  {
+    "family": "bow",
+    "name": "Reinforced Arrow",
+    "before": "{:#reinforced-arrow}\n\nChakra is fed into the ammunition as it leaves the bow, hardening the arrow’s flight and edge so it can bite cleanly into both flesh and chakra-made structures.\n\nRank: C  \nChakra: 16  \nUpkeep: 3  \nSpeed: 8  \nTags: Bukijutsu, Bow, Utility  \nEffects: Ammunition fired from one bow counts as chakra-enhanced, gains \\+10% Wounding, and may damage chakra constructs normally.\n\n",
+    "after": "{:#reinforced-arrow}\n\nChakra is fed into the ammunition as it leaves the bow, hardening the arrow’s flight and edge so it can bite cleanly into both flesh and chakra-made structures.\n\nRank: C  \nChakra: 16  \nUpkeep: 3  \nSpeed: 8  \nTags: Bukijutsu, Bow, Utility  \nEffects: Ammunition fired from one bow counts as chakra-enhanced, gains +20% Wounding, and may damage chakra constructs normally.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Opening Gust",
+    "before": "{:#opening-gust}\n\nThe first gust is modest but highly controllable.\n\nRank: E  \nStamina: \\+3  \nChakra: 3  \nDamage: \\+2dS  \nRange: 6  \nSpeed: \\+1  \nSpecial: Knockback 4 (Drive) or Knockback 2 (Ride the Gust)  \nTags: Chain 1, Fan, Attack, Movement  \nEffects: On a full hit, choose one: Drive — resolve Knockback 4; or Ride the Gust — resolve Knockback 2, then after the Attack resolves you may use any remaining Move with an Attack distance in any legal direction whether or not the target resisted the Knockback.\n\n",
+    "after": "{:#opening-gust}\n\nThe first gust is modest but highly controllable.\n\nRank: E  \nStamina: \\+3  \nChakra: 3  \nDamage: \\+2dS  \nRange: 6  \nSpeed: \\+1  \nSpecial: Knockback 4 (Drive) or Knockback 2 (Ride the Gust)  \nTags: Chain 1, Fan, Attack, Movement  \nEffects: On a full hit, choose one: Drive — resolve Knockback equal to the greater of 4 or CHA/10; or Ride the Gust — resolve half that Knockback, rounded down, then use any remaining Move with an Attack distance in any legal direction whether or not it was resisted.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Reversing Gust",
+    "before": "{:#reversing-gust}\n\nThe fan snaps the current back toward you, pulling the target into a shorter and less comfortable distance.\n\nRank: E  \nStamina: \\+5  \nChakra: 5  \nDamage: \\+3dS  \nLine: 3, 10  \nSpeed: \\+2  \nSpecial: Knockback 3  \nTags: Chain 2, Fan, Attack  \nEffects: Resolve the Knockback Special normally, but successful Knockback moves the target toward you rather than away from you.\n\n",
+    "after": "{:#reversing-gust}\n\nThe fan snaps the current back toward you, pulling the target into a shorter and less comfortable distance.\n\nRank: E  \nStamina: \\+5  \nChakra: 5  \nDamage: \\+3dS  \nLine: 3, 10  \nSpeed: \\+2  \nSpecial: Knockback 3  \nTags: Chain 2, Fan, Attack  \nEffects: Resolve Knockback using the greater of 3 or CHA/10; successful Knockback moves the target toward you rather than away.\n\n"
+  },
+  {
+    "family": "fan",
+    "name": "Backdraft",
+    "before": "{:#backdraft}\n\nThe current is turned across the target rather than straight through them.\n\nRank: D  \nStamina: \\+8  \nChakra: 7  \nDamage: \\+3dS  \nRange: 12  \nSpeed: \\+1  \nSpecial: Knockback 4  \nTags: Chain 2, Fan, Attack, Movement  \nEffects: On a successful Knockback Special, choose a sideways direction for the forced movement. After the Attack resolves, you may use any remaining Move with an Attack distance in any legal direction.\n\n",
+    "after": "{:#backdraft}\n\nThe current is turned across the target rather than straight through them.\n\nRank: D  \nStamina: \\+8  \nChakra: 7  \nDamage: \\+3dS  \nRange: 12  \nSpeed: \\+1  \nSpecial: Knockback 4  \nTags: Chain 2, Fan, Attack, Movement  \nEffects: Resolve Knockback using the greater of 4 or CHA/8. On success choose a sideways direction. After the Attack, use any remaining Move with an Attack distance in any legal direction.\n\n"
+  },
+  {
+    "family": "thrown",
+    "name": "Fuuma Barrage",
+    "before": "{:#fuuma-barrage}\n\nFuuma shuriken are committed in sequence rather than as one oversized hit.\n\nRank: E  \nStamina: \\+8  \nSpeed: \\+6  \nTags: Chain 3, Thrown, Attack  \nEffects: Fuuma Shuriken only. Throw 2 weapons in succession; one Accuracy roll starts at \\-2 and improves by \\+1 for each previous miss. Each hit deals an equal share of the attack’s base weapon dice plus 2dS. Divide Speed×PDB evenly among the two weapons.\n\n",
+    "after": "{:#fuuma-barrage}\n\nFuuma shuriken are committed in sequence rather than as one oversized hit.\n\nRank: E  \nStamina: \\+8  \nSpeed: \\+6  \nTags: Chain 3, Thrown, Attack  \nEffects: Fuuma Shuriken only. Throw two weapons in succession, rolling Accuracy separately. Each hit deals 65% of the full Basic Weapon Attack’s Final Damage plus 2dS. Each target defends normally; combine successful hits against the same creature for Wounding only.\n\n"
+  },
+  {
+    "family": "thrown",
+    "name": "Banked Throw",
+    "before": "{:#banked-throw}\n\nThe throw is aimed at hard terrain on purpose.\n\nRank: D  \nStamina: \\+7  \nDamage: \\+4dS  \nSpeed: \\+2  \nTags: Chain 2, Thrown, Attack  \nEffects: Requires a hard surface within 10 yards of the target. Attack from the ricochet angle. Ignore up to 3 points of Visibility penalty for this Attack. On a full hit you may redirect the weapon to an adjacent empty space for retrieval.\n\n",
+    "after": "{:#banked-throw}\n\nThe throw is aimed at hard terrain on purpose.\n\nRank: D  \nStamina: \\+7  \nDamage: \\+4dS  \nSpeed: \\+2  \nTags: Chain 2, Thrown, Attack  \nEffects: Requires a hard surface along a clear route within the weapon’s total throwing Range. Attack from the ricochet angle and reduce Visibility penalties by Athletics/5. On a full hit, you may redirect the weapon to a legal empty space within the remaining Range for retrieval.\n\n"
+  },
+  {
+    "family": "thrown",
+    "name": "Throwing Form",
+    "before": "{:#throwing-form}\n\nYears of throwing have stripped wasted motion from the draw, grip, and release.\n\nRank: D  \nStamina: 9  \nUpkeep: 2  \nSpeed: 7  \nTags: Bukijutsu, Thrown, Utility  \nEffects: Reduce the Speed added by multi-throw by 1 and increase your multi-throw limit by 2\\. This cannot reduce a multi-throw below total Speed 5 or below any other normal system minimum.\n\n",
+    "after": "{:#throwing-form}\n\nYears of throwing have stripped wasted motion from the draw, grip, and release.\n\nRank: D  \nStamina: 9  \nUpkeep: 2  \nSpeed: 7  \nTags: Bukijutsu, Thrown, Utility  \nEffects: Halve the Speed added by Multi-Throw, rounding the remaining added Speed up, and increase your weapon allowance by Athletics/5. Normal Speed minimums still apply.\n\n"
+  }
+]

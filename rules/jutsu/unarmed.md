@@ -48,7 +48,7 @@ This doesn't prevent it from being a valid Interrupt against your attack.
 #### Headbutt
 {:#headbutt}
 
-You use your head to hit someone else's head. Really, honestly, it's a highly technical process. You just don't understand because you're not a ninja.
+You drive your forehead into the opponent’s face at close range.
 
 Stamina: 10  
 Damage: STR  

@@ -1,0 +1,872 @@
+[
+  {
+    "name": "High Guard",
+    "row": 291,
+    "column": 12,
+    "field": "Speed"
+  },
+  {
+    "name": "High Guard",
+    "row": 291,
+    "column": 15,
+    "field": "Upkeep"
+  },
+  {
+    "name": "High Guard",
+    "row": 291,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Low Guard",
+    "row": 292,
+    "column": 12,
+    "field": "Speed"
+  },
+  {
+    "name": "Low Guard",
+    "row": 292,
+    "column": 15,
+    "field": "Upkeep"
+  },
+  {
+    "name": "Low Guard",
+    "row": 292,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Long Guard",
+    "row": 293,
+    "column": 12,
+    "field": "Speed"
+  },
+  {
+    "name": "Long Guard",
+    "row": 293,
+    "column": 15,
+    "field": "Upkeep"
+  },
+  {
+    "name": "Long Guard",
+    "row": 293,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Open Guard",
+    "row": 294,
+    "column": 12,
+    "field": "Speed"
+  },
+  {
+    "name": "Open Guard",
+    "row": 294,
+    "column": 15,
+    "field": "Upkeep"
+  },
+  {
+    "name": "Open Guard",
+    "row": 294,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Point Guard",
+    "row": 295,
+    "column": 12,
+    "field": "Speed"
+  },
+  {
+    "name": "Point Guard",
+    "row": 295,
+    "column": 15,
+    "field": "Upkeep"
+  },
+  {
+    "name": "Point Guard",
+    "row": 295,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Committed Guard",
+    "row": 296,
+    "column": 12,
+    "field": "Speed"
+  },
+  {
+    "name": "Committed Guard",
+    "row": 296,
+    "column": 15,
+    "field": "Upkeep"
+  },
+  {
+    "name": "Committed Guard",
+    "row": 296,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Weapon Breaker",
+    "row": 299,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Chakra Reinforcement",
+    "row": 300,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Chakra Reach",
+    "row": 301,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Rising Cut",
+    "row": 302,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Descending Cut",
+    "row": 304,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Finishing Cut",
+    "row": 305,
+    "column": 9,
+    "field": "Accuracy"
+  },
+  {
+    "name": "Half-Step",
+    "row": 306,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Bind and Recover",
+    "row": 310,
+    "column": 12,
+    "field": "Speed"
+  },
+  {
+    "name": "Bind and Recover",
+    "row": 310,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Half-Sword Thrust",
+    "row": 312,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Broken Rhythm",
+    "row": 313,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Intercepting Draw",
+    "row": 315,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Draw Reset",
+    "row": 316,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Final Measure",
+    "row": 317,
+    "column": 9,
+    "field": "Accuracy"
+  },
+  {
+    "name": "Final Measure",
+    "row": 317,
+    "column": 17,
+    "field": "Special"
+  },
+  {
+    "name": "Final Measure",
+    "row": 317,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Perfect Bind",
+    "row": 318,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Driving Blow",
+    "row": 319,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Rising Blow",
+    "row": 320,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Rib Shot",
+    "row": 325,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Head-Heavy Grip",
+    "row": 328,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Low Sweep",
+    "row": 329,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Short Grip",
+    "row": 330,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Guard Rattle",
+    "row": 332,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Ground Shock",
+    "row": 333,
+    "column": 19,
+    "field": "Tags"
+  },
+  {
+    "name": "Ground Shock",
+    "row": 333,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Collision Breaker",
+    "row": 334,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Juggernaut Rush",
+    "row": 335,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Passing Thrust",
+    "row": 336,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Driving Thrust",
+    "row": 339,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Haft Guard",
+    "row": 344,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Extended Guard",
+    "row": 345,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Weapon Hook",
+    "row": 346,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Shaft Pivot",
+    "row": 347,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Leaping Pole",
+    "row": 348,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Crossbar Catch",
+    "row": 349,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Sliding Measure",
+    "row": 350,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Through-Line",
+    "row": 351,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Levering Throw",
+    "row": 352,
+    "column": 17,
+    "field": "Special"
+  },
+  {
+    "name": "Levering Throw",
+    "row": 352,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Neck Loop",
+    "row": 373,
+    "column": 9,
+    "field": "Accuracy"
+  },
+  {
+    "name": "Cross Snare",
+    "row": 376,
+    "column": 9,
+    "field": "Accuracy"
+  },
+  {
+    "name": "Double Bind",
+    "row": 377,
+    "column": 9,
+    "field": "Accuracy"
+  },
+  {
+    "name": "Double Bind",
+    "row": 377,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Coiled Guard",
+    "row": 379,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Weapon Snare",
+    "row": 380,
+    "column": 9,
+    "field": "Accuracy"
+  },
+  {
+    "name": "Slip Step",
+    "row": 381,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Tension Line",
+    "row": 382,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Intercepting Coil",
+    "row": 383,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Snap Return",
+    "row": 384,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Suspension Hold",
+    "row": 385,
+    "column": 9,
+    "field": "Accuracy"
+  },
+  {
+    "name": "Suspension Hold",
+    "row": 385,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Tripwire Field",
+    "row": 386,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Scissor Step",
+    "row": 388,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Off-Hand Catch",
+    "row": 391,
+    "column": 12,
+    "field": "Speed"
+  },
+  {
+    "name": "Off-Hand Catch",
+    "row": 391,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Cross Finish",
+    "row": 394,
+    "column": 9,
+    "field": "Accuracy"
+  },
+  {
+    "name": "Paired Flow",
+    "row": 396,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Changing Lead",
+    "row": 398,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Weapon Lock",
+    "row": 399,
+    "column": 9,
+    "field": "Accuracy"
+  },
+  {
+    "name": "Weapon Lock",
+    "row": 399,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Counterpair",
+    "row": 400,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Crossed Execution",
+    "row": 401,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Marking Shot",
+    "row": 403,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Quick Nock",
+    "row": 407,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Precision Shot",
+    "row": 410,
+    "column": 9,
+    "field": "Accuracy"
+  },
+  {
+    "name": "Precision Shot",
+    "row": 410,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Cutting Arrow",
+    "row": 411,
+    "column": 12,
+    "field": "Speed"
+  },
+  {
+    "name": "Cutting Arrow",
+    "row": 411,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Threaded Shot",
+    "row": 413,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Mobile Draw",
+    "row": 414,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Anchor Shot",
+    "row": 416,
+    "column": 9,
+    "field": "Accuracy"
+  },
+  {
+    "name": "Anchor Shot",
+    "row": 416,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Sightline",
+    "row": 417,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Skyfall Shot",
+    "row": 418,
+    "column": 9,
+    "field": "Accuracy"
+  },
+  {
+    "name": "Skyfall Shot",
+    "row": 418,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Hunter's Watch",
+    "row": 419,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Folding Edge",
+    "row": 354,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Full Fan Gust",
+    "row": 356,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Wind Screen",
+    "row": 357,
+    "column": 12,
+    "field": "Speed"
+  },
+  {
+    "name": "Wind Screen",
+    "row": 357,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Dust Sweep",
+    "row": 360,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Wind Sense",
+    "row": 361,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Guided Wind",
+    "row": 362,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Crosswind Step",
+    "row": 364,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Closed Guard",
+    "row": 365,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Returning Gale",
+    "row": 366,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Seamless Wind",
+    "row": 367,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Windbreak",
+    "row": 368,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Perfect Current",
+    "row": 369,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Needle Lead",
+    "row": 421,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Handful Throw",
+    "row": 427,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Return Flick",
+    "row": 428,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Corner Wire",
+    "row": 431,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Returning Arc",
+    "row": 433,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Scatter Run",
+    "row": 434,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Fuuma Reaper",
+    "row": 435,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Wire Cage",
+    "row": 436,
+    "column": 11,
+    "field": "Area"
+  },
+  {
+    "name": "Wire Cage",
+    "row": 436,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Flowing Guard",
+    "row": 298,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Reversing Cut",
+    "row": 308,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Reverse Edge",
+    "row": 309,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Tempered Edge",
+    "row": 311,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Returning Swing",
+    "row": 321,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Threading Thrust",
+    "row": 338,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Rotation Strike",
+    "row": 341,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Catch and Turn",
+    "row": 342,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Pinning Thrust",
+    "row": 343,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Casting Lash",
+    "row": 370,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Ankle Catch",
+    "row": 371,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Reel and Strike",
+    "row": 372,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Moving Coil",
+    "row": 374,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Side Anchor",
+    "row": 378,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Alternating Cuts",
+    "row": 389,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Split Guard",
+    "row": 393,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Hand Feint",
+    "row": 395,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Divergent Current",
+    "row": 402,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Pinning Shot",
+    "row": 404,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Angle Shot",
+    "row": 405,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Held Draw",
+    "row": 412,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Reinforced Arrow",
+    "row": 415,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Opening Gust",
+    "row": 353,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Reversing Gust",
+    "row": 355,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Backdraft",
+    "row": 359,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Fuuma Barrage",
+    "row": 423,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Banked Throw",
+    "row": 426,
+    "column": 21,
+    "field": "Effects"
+  },
+  {
+    "name": "Throwing Form",
+    "row": 429,
+    "column": 21,
+    "field": "Effects"
+  }
+]

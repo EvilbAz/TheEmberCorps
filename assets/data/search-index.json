@@ -67,7 +67,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#choose-skills",
-    "text": "A new character gains 1 Skill Point for every 18 XP. These Skill Points can be spent on any of the game's 12 skills."
+    "text": "A new character gains 1 Skill Point for every 20 XP. These Skill Points can be spent on any of the game's 14 skills."
   },
   {
     "title": "Experience Costs",
@@ -1397,7 +1397,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#simultaneous-actions",
-    "text": "Characters acting on the same IC declare and resolve their Actions simultaneously. Apply both Actions’ effects at the end of that IC."
+    "text": "Characters acting on the same IC declare and resolve their Actions simultaneously. Apply both Actions’ effects at the end of that IC. For coordinated attacks by two to four Hunters, see Team Attacks."
   },
   {
     "title": "Clashes",
@@ -1575,13 +1575,6 @@
     "text": "Taking the hit is the glorious move the stronger person or sensei uses to protect their weaker ally! Unlike other interrupts this only needs to be the same speed as the action it’s interrupting. You make a d"
   },
   {
-    "title": "Cover (Speed 3, Interrupt, Link)",
-    "volume": "Core Rules",
-    "number": "I",
-    "url": "/rules/core/#cover-speed-3-interrupt-link",
-    "text": "You duck behind a solid object or willing target to provide respite from an incoming attack. You make a dodge roll with a +5 bonus; if successful, you've leapt behind the object or target, having it take the"
-  },
-  {
     "title": "Attacking",
     "volume": "Core Rules",
     "number": "I",
@@ -1614,7 +1607,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#damage-mitigation-order-of-operations",
-    "text": "1. Any percent-based (e.g. Para-Elementals) reductions of damage not mentioned below. 2. Partial Defense (as from Dodge, Parry) if applicable 3. Actual DR. 4. Any other non percent-based reductions not menti"
+    "text": "1. Any percent-based (e.g. Para-Elementals) reductions of damage not mentioned below. 2. Partial Defense (from Dodge or an eligible defensive technique) if applicable 3. Actual DR. 4. Any other non percent-b"
   },
   {
     "title": "Delay",
@@ -1649,7 +1642,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#partial-success",
-    "text": "Just because you failed to evade a shuriken or deflect a sword slash doesn't mean they struck a vital area. When you make a defensive roll (such as a dodge or parry) against an attack, for each point you fai"
+    "text": "When you make a Dodge or another eligible defensive roll against an attack, for each point you fail by, you take 20% of its effects including statuses (rounded up). This still counts as a failed defense. Wit"
   },
   {
     "title": "Partial Success Adjustments",
@@ -3301,7 +3294,7 @@
     "volume": "Uniques",
     "number": "II",
     "url": "/rules/uniques/#skilled-shinobi",
-    "text": "You are not necessarily the most dangerous person in the room, but there are very few situations where you have nothing useful to contribute. Gain additional Skill Points equal to total XP/75, rounded down, "
+    "text": "Your Skill Point total is total XP divided by 19, rounded down, replacing the ordinary rate. When purchasing Skill Focus, reduce the number of ranks already held in that particular Skill Focus by floor(total"
   },
   {
     "title": "Specialist",
@@ -4757,7 +4750,7 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#mokuton-kajukai-korin-advent-of-flowering-trees",
-    "text": "Type: Ninjutsu, Rank A Chakra: 50 Upkeep: 10 Speed: 28 Area: 20 Tags: Utility, AoE, Environmental, Ground-Based Effects Create a flowering forest. It counts as your Mokuton for Body of the Forest and provide"
+    "text": "Type: Ninjutsu, Rank A Chakra: 50 Upkeep: 10 Speed: 28 Area: 20 Tags: Utility, AoE, Environmental, Ground-Based Effects Create a flowering forest. It counts as your Mokuton for Body of the Forest and imposes"
   },
   {
     "title": "Uchiha",
@@ -5576,7 +5569,7 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#range-anchoring",
-    "text": "Whenever a Routine, Attack, Defensive Interrupt or technique originates from a Support, use that Support’s actual position for Range, Reach, Cover, Line of Sight, AoE, terrain and other positional rules."
+    "text": "Whenever a Routine, Attack, Defensive Interrupt or technique originates from a Support, use that Support’s actual position for Range, Reach, Line of Sight, AoE, terrain and other positional rules."
   },
   {
     "title": "Formations",
@@ -5653,7 +5646,7 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#screen-guard",
-    "text": "Requires: Ablative Shell, Anchor Spikes, Deployable Cover, or a Reinforced, Juggernaut or Siege Frame. Once per IC when the Primary takes damage, reduce that damage by 5% of its maximum HP per active Screen,"
+    "text": "Requires: Ablative Shell, Anchor Spikes, Deployable Shield, or a Reinforced, Juggernaut or Siege Frame. Once per IC when the Primary takes damage, reduce that damage by 5% of its maximum HP per active Screen"
   },
   {
     "title": "Interception — \\[Guard\\]",
@@ -5674,7 +5667,7 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#spotter-any",
-    "text": "Requires: Sensor Mast. If at least one Spotter Support can clearly perceive the Primary’s target, reduce penalties to the Primary’s Attack from Cover, smoke, darkness, weather or distance by 2 per active Spo"
+    "text": "Requires: Sensor Mast. If at least one Spotter Support can clearly perceive the Primary’s target, reduce penalties to the Primary’s Attack from smoke, darkness, weather or distance by 2 per active Spotter, m"
   },
   {
     "title": "Abilities",
@@ -6118,11 +6111,11 @@
     "text": "Slots: 1 Grade: Refined Upgrade Choose one mounted Melee weapon. It may benefit from the User’s Chakra Flow, weapon-channeling and similar effects when all other requirements are met."
   },
   {
-    "title": "Deployable Cover",
+    "title": "Deployable Shield",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#deployable-cover",
-    "text": "Slots: 2 Grade: Refined As a Speed 4 Puppet Action, deploy or retract a shield assembly. While deployed, the Puppet counts as solid Cover appropriate to its Size for adjacent creatures and gains +10% Block r"
+    "text": "Slots: 2 Grade: Refined As a Speed 4 Puppet Action, deploy or retract a shield assembly. While deployed, the Puppet gains +10 percentage points of Block reduction and may use Take the Hit for an adjacent all"
   },
   {
     "title": "Explosive Failsafe",
@@ -8320,63 +8313,63 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#sidearm-frame",
-    "text": "Type: Small, One-Handed, Ballistic, Firearm, Piercing Speed: 8 Stamina: 9 Damage: 4d6 Accuracy: +1 Parry: +0 Range: 12 yards Delay: 4 Durability: 30 Magazine: 6 Reload: 5 Compatible Ammo: Standard, Pierce, T"
+    "text": "Type: Small, One-Handed, Ballistic, Firearm, Piercing Speed: 8 Stamina: 9 Damage: 4d6 Accuracy: +1 Parry: +0 Range: 12 yards Delay: 0 Durability: 30 Magazine: 6 Reload: 5 Compatible Ammo: Standard, Pierce, T"
   },
   {
     "title": "Light Bowgun Frame",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#light-bowgun-frame",
-    "text": "Type: Medium, Two-Handed, Ballistic, Firearm, Piercing Speed: 9 Stamina: 11 Damage: 6d8 Accuracy: +1 Parry: +0 Range: 20 yards Delay: 5 Durability: 40 Magazine: 6 Reload: 5 Compatible Ammo: Standard, Pierce,"
+    "text": "Type: Medium, Two-Handed, Ballistic, Firearm, Piercing Speed: 9 Stamina: 11 Damage: 6d8 Accuracy: +1 Parry: +0 Range: 20 yards Delay: 0 Durability: 40 Magazine: 6 Reload: 5 Compatible Ammo: Standard, Pierce,"
   },
   {
     "title": "Heavy Bowgun Frame",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#heavy-bowgun-frame",
-    "text": "Type: Large, Two-Handed, Ballistic, Firearm, Piercing, Heavy Speed: 13 Stamina: 15 Damage: 8d10 Accuracy: +0 Parry: -1 Range: 30 yards Delay: 8 Durability: 50 Magazine: 5 Reload: 7 Compatible Ammo: Standard,"
+    "text": "Type: Large, Two-Handed, Ballistic, Firearm, Piercing, Heavy Speed: 13 Stamina: 15 Damage: 8d10 Accuracy: +0 Parry: -1 Range: 30 yards Delay: 2 Durability: 50 Magazine: 5 Reload: 7 Compatible Ammo: Standard,"
   },
   {
     "title": "Machine Pistol Frame",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#machine-pistol-frame",
-    "text": "Type: Small, One-Handed, Ballistic, Firearm, Piercing Speed: 8 Stamina: 10 Damage: 4d6 Accuracy: +0 Parry: -1 Range: 10 yards Delay: 4 Durability: 28 Magazine: 9 Reload: 6 Compatible Ammo: Standard, Pierce, "
+    "text": "Type: Small, One-Handed, Ballistic, Firearm, Piercing Speed: 8 Stamina: 10 Damage: 4d6 Accuracy: +0 Parry: -1 Range: 10 yards Delay: 0 Durability: 28 Magazine: 9 Reload: 6 Compatible Ammo: Standard, Pierce, "
   },
   {
     "title": "Carbine Frame",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#carbine-frame",
-    "text": "Type: Medium, Two-Handed, Ballistic, Firearm, Piercing Speed: 8 Stamina: 11 Damage: 6d8 Accuracy: +1 Parry: +0 Range: 24 yards Delay: 4 Durability: 38 Magazine: 9 Reload: 5 Compatible Ammo: Standard, Pierce,"
+    "text": "Type: Medium, Two-Handed, Ballistic, Firearm, Piercing Speed: 8 Stamina: 11 Damage: 6d8 Accuracy: +1 Parry: +0 Range: 24 yards Delay: 0 Durability: 38 Magazine: 9 Reload: 5 Compatible Ammo: Standard, Pierce,"
   },
   {
     "title": "Scattergun Frame",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#scattergun-frame",
-    "text": "Type: Medium, Two-Handed, Ballistic, Firearm, Piercing, Scatter Frame Speed: 10 Stamina: 12 Damage: 7d8 Accuracy: +0 Parry: +0 Range: 12 yards Delay: 6 Durability: 42 Magazine: 4 Reload: 6 Compatible Ammo: S"
+    "text": "Type: Medium, Two-Handed, Ballistic, Firearm, Piercing, Scatter Frame Speed: 10 Stamina: 12 Damage: 7d8 Accuracy: +0 Parry: +0 Range: 12 yards Delay: 1 Durability: 42 Magazine: 4 Reload: 6 Compatible Ammo: S"
   },
   {
     "title": "Marksman Frame",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#marksman-frame",
-    "text": "Type: Large, Two-Handed, Ballistic, Firearm, Piercing, Scoped Speed: 12 Stamina: 13 Damage: 7d10 Accuracy: +1 Parry: -1 Range: 45 yards Delay: 7 Durability: 42 Magazine: 5 Reload: 7 Compatible Ammo: Standard"
+    "text": "Type: Large, Two-Handed, Ballistic, Firearm, Piercing, Scoped Speed: 12 Stamina: 13 Damage: 7d10 Accuracy: +1 Parry: -1 Range: 45 yards Delay: 1 Durability: 42 Magazine: 5 Reload: 7 Compatible Ammo: Standard"
   },
   {
     "title": "Hand Cannon Frame",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#hand-cannon-frame",
-    "text": "Type: Medium, One-Handed, Ballistic, Firearm, Piercing Speed: 12 Stamina: 14 Damage: 7d10 Accuracy: -1 Parry: -1 Range: 15 yards Delay: 7 Durability: 40 Magazine: 3 Reload: 7 Compatible Ammo: Standard, Pierc"
+    "text": "Type: Medium, One-Handed, Ballistic, Firearm, Piercing Speed: 12 Stamina: 14 Damage: 7d10 Accuracy: -1 Parry: -1 Range: 15 yards Delay: 1 Durability: 40 Magazine: 3 Reload: 7 Compatible Ammo: Standard, Pierc"
   },
   {
     "title": "Rotary Repeater Frame",
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#rotary-repeater-frame",
-    "text": "Type: Large, Two-Handed, Ballistic, Firearm, Piercing, Heavy Speed: 12 Stamina: 14 Damage: 4d10 Accuracy: +0 Parry: -1 Range: 22 yards Delay: 5 Durability: 55 Magazine: 18 Reload: 9 Compatible Ammo: Standard"
+    "text": "Type: Large, Two-Handed, Ballistic, Firearm, Piercing, Heavy Speed: 12 Stamina: 14 Damage: 4d10 Accuracy: +0 Parry: -1 Range: 22 yards Delay: 0 Durability: 55 Magazine: 18 Reload: 9 Compatible Ammo: Standard"
   },
   {
     "title": "Ballistic Modifications",
@@ -8544,7 +8537,7 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#overpressure-chamber",
-    "text": "Increase the weapon's Damage by +1 Damage Die. All Ballistic Attacks with it gain +2 Stamina and +1 Delay. Limit 1."
+    "text": "Increase the weapon's Damage by +1 Damage Die. All Ballistic Attacks with it gain +3 Stamina. Limit 1."
   },
   {
     "title": "Choke Assembly",
@@ -8677,7 +8670,7 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#dampened-action",
-    "text": "Reduce the weapon's Delay by 1, to a minimum of 2. All Ballistic Attacks with it gain +2 Stamina. Limit 1."
+    "text": "Reduce the weapon's Delay by 1, to a minimum of 0. All Ballistic Attacks with it gain +2 Stamina. Limit 1."
   },
   {
     "title": "Tripod Mount",
@@ -9076,7 +9069,7 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#snap-shot",
-    "text": "Type: Bukijutsu, Rank C Stamina: 14 Damage: As Weapon Accuracy: -2 Speed: As Weapon -2 Tags: Attack, Weapon, Ballistic Requires: Sidearm or Light Bowgun Frame Effects Make a hurried Ballistic Attack. It cann"
+    "text": "Type: Bukijutsu, Rank C Stamina: 16 Damage: As Weapon Accuracy: -2 Speed: As Weapon -2 Tags: Attack, Weapon, Ballistic Requires: Sidearm or Light Bowgun Frame Effects Make a hurried Ballistic Attack. It cann"
   },
   {
     "title": "B-Rank",
@@ -9916,14 +9909,14 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/boar/#living-wallback",
-    "text": "Unlock: Development 3 — Elite Feature Effects: Adjacent allies may treat the Boar as Cover 1. The Boar may Take the Hit for an ally within 2 yards at Speed 5 when it can physically interpose itself."
+    "text": "Unlock: Development 3 — Elite Feature Effects: Adjacent allies gain 5 DR against physical Attacks while the Boar can act. The Boar may Take the Hit for an ally within 2 yards at Speed 5 when it can physicall"
   },
   {
     "title": "Battering Ram",
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/boar/#battering-ram",
-    "text": "Unlock: Development 4 — Elder Feature Effects: The Boar counts as one Size larger for carrying and forced movement. Its Attacks deal +50% Final Damage against unattended objects, Cover and mundane structures"
+    "text": "Unlock: Development 4 — Elder Feature Effects: The Boar counts as one Size larger for carrying and forced movement. Its Attacks deal +50% Final Damage against unattended objects and mundane structures. A ful"
   },
   {
     "title": "Monster Traits",
@@ -9965,7 +9958,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/boar/#broad-back",
-    "text": "Type: One-Time Living Wallback provides Cover 2 instead of Cover 1."
+    "text": "Type: One-Time Living Wallback grants adjacent allies 10 DR against physical Attacks instead of 5."
   },
   {
     "title": "Planted Feet",
@@ -10336,7 +10329,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/bear/#guardian-s-bulk",
-    "text": "Unlock: Core Talent Effects: Adjacent allies may treat the Bear as Cover 1 against Attacks originating from the opposite side. The Bear gains +2 on checks to initiate or maintain Grapples."
+    "text": "Unlock: Core Talent Effects: The Bear may Take the Hit for an adjacent ally at Speed 4. The Bear gains +2 on checks to initiate or maintain Grapples."
   },
   {
     "title": "Mauling Hold",
@@ -10441,7 +10434,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/bear/#guardian-rush",
-    "text": "Speed: 14 Base Command AP: 8 Effects: Move up to 6 yards toward an ally, then either make a Basic Attack or become Cover 3 for that ally until the bear's next Action."
+    "text": "Speed: 14 Base Command AP: 8 Effects: Move up to 6 yards toward an ally, then either make a Basic Attack or grant that ally +3 on its next Defensive Roll before the bear's next Action."
   },
   {
     "title": "Avalanche Maul",
@@ -10595,7 +10588,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/crocodile/#blackwater-ambush",
-    "text": "Speed: 15 Base Command AP: 12 Effects: The monster may move up to 8 yards from concealment, water or Cover and Attack for 150% Monster Damage. If the target had not detected the monster, this Attack gains +3"
+    "text": "Speed: 15 Base Command AP: 12 Effects: The monster may move up to 8 yards from concealment or water and Attack for 150% Monster Damage. If the target had not detected the monster, this Attack gains +3 Accura"
   },
   {
     "title": "Temperament",
@@ -10924,7 +10917,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/tortoise/#living-fortress",
-    "text": "Unlock: Core Talent Effects: The Tortoise gains 10 DR. Adjacent allies may treat it as Cover 2 against Attacks originating from the opposite side."
+    "text": "Unlock: Core Talent Effects: The Tortoise gains 10 DR. Adjacent allies gain 10 DR against physical Attacks while the Tortoise can act."
   },
   {
     "title": "Brace",
@@ -10945,14 +10938,14 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/tortoise/#bastion",
-    "text": "Unlock: Development 3 — Elite Feature Effects: Allies using the Tortoise as Cover gain +1 to Defensive Rolls against ranged and Area Attacks when its shell can physically interpose itself."
+    "text": "Unlock: Development 3 — Elite Feature Effects: Adjacent allies gain +1 on Defensive Rolls against Ranged and AoE Attacks while the Tortoise can act."
   },
   {
     "title": "Unbreakable",
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/tortoise/#unbreakable",
-    "text": "Unlock: Development 4 — Elder Feature Effects: Living Fortress becomes 20 DR and Cover 3. While below half maximum Vitality, the Tortoise gains an additional 5 DR. It cannot be knocked Prone by ordinary forc"
+    "text": "Unlock: Development 4 — Elder Feature Effects: Living Fortress becomes 20 DR and grants adjacent allies 15 DR against physical Attacks. While below half maximum Vitality, the Tortoise gains an additional 5 D"
   },
   {
     "title": "Monster Traits",
@@ -11001,7 +10994,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/tortoise/#sheltering-bulk",
-    "text": "Type: One-Time Increase the Cover granted by Living Fortress by 1. This makes it Cover 3 before Elder Feature and Cover 4 after Unbreakable."
+    "text": "Type: One-Time Increase the DR Living Fortress grants adjacent allies by 5."
   },
   {
     "title": "Monster Techniques",
@@ -11036,7 +11029,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/tortoise/#mountain-that-walks",
-    "text": "Speed: 17 Base Command AP: 12 Limit: Once per battle Effects: For 20 IC, the monster gains 30 DR and counts as Cover 4. Up to two willing human-sized allies may ride on its shell when this is declared; while"
+    "text": "Speed: 17 Base Command AP: 12 Limit: Once per battle Effects: For 20 IC, the monster gains 30 DR and grants adjacent allies 20 DR against physical Attacks. Up to two willing human-sized allies may ride on it"
   },
   {
     "title": "Temperament",
@@ -11092,7 +11085,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/gorilla/#protective-instinct",
-    "text": "Unlock: Development 3 — Elite Feature Effects: Adjacent allies may treat the Gorilla as Cover 1. It gains +3 on checks made to break a Grapple affecting an adjacent ally or pull that ally free."
+    "text": "Unlock: Development 3 — Elite Feature Effects: The Gorilla may Take the Hit for an adjacent ally at Speed 4. It gains +3 on checks made to break a Grapple affecting an adjacent ally or pull that ally free."
   },
   {
     "title": "King of the Line",
@@ -11148,7 +11141,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/gorilla/#protective-instinct-2",
-    "text": "Type: One-Time Protective Instinct's bonus to break a Grapple affecting an adjacent ally becomes +5, and its Cover increases to Cover 2."
+    "text": "Type: One-Time Protective Instinct's bonus to break a Grapple affecting an adjacent ally becomes +5, and its Take the Hit rolls gain +2."
   },
   {
     "title": "Monster Techniques",
@@ -11386,7 +11379,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/beetle/#siege-body",
-    "text": "Unlock: Development 3 — Elite Feature Effects: The Beetle counts as one Size larger for carrying, bracing and forced-movement contests. Its Attacks deal +50% Final Damage against unattended objects, Cover an"
+    "text": "Unlock: Development 3 — Elite Feature Effects: The Beetle counts as one Size larger for carrying, bracing and forced-movement contests. Its Attacks deal +50% Final Damage against unattended objects and munda"
   },
   {
     "title": "Immovable Engine",
@@ -11477,7 +11470,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/beetle/#siege-horn",
-    "text": "Speed: 16 Base Command AP: 12 Line: 10 yards Effects: Move through the Line and Attack each creature for 110% Monster Damage. Unattended objects and Cover take +75% Final Damage; a destroyed mundane obstacle"
+    "text": "Speed: 16 Base Command AP: 12 Line: 10 yards Effects: Move through the Line and Attack each creature for 110% Monster Damage. Unattended objects and physical barriers take +75% Final Damage; a destroyed mund"
   },
   {
     "title": "Temperament",
@@ -12247,7 +12240,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/crab/#shell-wall",
-    "text": "Unlock: Core Talent Effects: The Crab gains 10 DR against physical damage. An adjacent ally may treat it as Cover 1 against Attacks originating from the opposite side."
+    "text": "Unlock: Core Talent Effects: The Crab gains 10 DR against physical damage. Adjacent allies gain 5 DR against physical Attacks while the Crab can act."
   },
   {
     "title": "Vice Grip",
@@ -12324,7 +12317,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/crab/#wall-of-shell",
-    "text": "Type: One-Time Increase the Cover granted by Shell Wall by 1. This makes it Cover 2 before Elder Feature and Cover 3 after Control Zone."
+    "text": "Type: One-Time Increase the DR Shell Wall grants adjacent allies by 5."
   },
   {
     "title": "Monster Techniques",
@@ -12345,7 +12338,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/crab/#shell-wall-2",
-    "text": "Speed: 4 Base Command AP: 5 Effects: Until the monster's next Action, gain +3 Defence and become Cover 3, but Movement is halved."
+    "text": "Speed: 4 Base Command AP: 5 Effects: Until the monster's next Action, gain +3 Defence and grant adjacent allies 15 DR against physical Attacks, but Movement is halved."
   },
   {
     "title": "Undertow",
@@ -12541,7 +12534,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/panther/#silent-predator",
-    "text": "Unlock: Core Talent Effects: The Panther gains +2 on Stealth checks involving stalking or ambushes. Its Basic Attacks made while Hidden or from Cover gain +1 Accuracy."
+    "text": "Unlock: Core Talent Effects: The Panther gains +2 on Stealth checks involving stalking or ambushes. Its Basic Attacks made while Hidden gain +1 Accuracy."
   },
   {
     "title": "Pounce",
@@ -12555,14 +12548,14 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/panther/#fade-after-blood",
-    "text": "Unlock: Development 2 — Greater Feature Effects: After the Panther fully hits with a Basic Attack while it began the Action Hidden or behind Cover, it may move 1 yard without changing Initiative. This can oc"
+    "text": "Unlock: Development 2 — Greater Feature Effects: After the Panther fully hits with a Basic Attack while it began the Action Hidden, it may move 1 yard without changing Initiative. This can occur once per Pan"
   },
   {
     "title": "Ambush Killer",
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/panther/#ambush-killer",
-    "text": "Unlock: Development 3 — Elite Feature Effects: The Panther's Basic Attacks made while Hidden or from Cover deal +20% Final Damage."
+    "text": "Unlock: Development 3 — Elite Feature Effects: The Panther's Basic Attacks made while Hidden deal +20% Final Damage."
   },
   {
     "title": "Apex Stalker",
@@ -12583,7 +12576,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/panther/#killing-claws",
-    "text": "Type: Stackable Each rank increases the Basic Attack's Final Damage by 4% when made from Stealth, Cover, or after moving at least 5 yards."
+    "text": "Type: Stackable Each rank increases the Basic Attack's Final Damage by 4% when made from Stealth or after moving at least 5 yards."
   },
   {
     "title": "Predator's Focus",
@@ -12618,7 +12611,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/panther/#fade-after-blood-2",
-    "text": "Type: One-Time Fade After Blood may move 2 yards instead of 1. If that movement ends in legal Cover or concealment, the Panther may immediately attempt to Hide."
+    "text": "Type: One-Time Fade After Blood may move 2 yards instead of 1. If that movement ends in concealment, the Panther may immediately attempt to Hide."
   },
   {
     "title": "Monster Techniques",
@@ -12632,7 +12625,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/panther/#shadow-pounce",
-    "text": "Speed: 8 Base Command AP: 7 Effects: Move up to 6 yards and Attack for 110% Monster Damage. If the Panther began the Action Hidden or behind Cover, gain +2 Accuracy."
+    "text": "Speed: 8 Base Command AP: 7 Effects: Move up to 6 yards and Attack for 110% Monster Damage. If the Panther began the Action Hidden, gain +2 Accuracy."
   },
   {
     "title": "Throat Claw",
@@ -12646,7 +12639,7 @@
     "volume": "Talents & Rank Benefits",
     "number": "V",
     "url": "/rules/talents/monster-taming/panther/#vanish-between-blows",
-    "text": "Speed: 4 Base Command AP: 6 Effects: Move up to 4 yards to Cover or concealment and immediately attempt to Hide if the normal conditions for Hide are met. This Action does not by itself break existing Stealt"
+    "text": "Speed: 4 Base Command AP: 6 Effects: Move up to 4 yards to concealment and immediately attempt to Hide if the normal conditions for Hide are met. This Action does not by itself break existing Stealth."
   },
   {
     "title": "Nightfall Kill",
@@ -13745,7 +13738,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#crossbows-and-bow-bukijutsu",
-    "text": "Crossbows count as Bow weapons for Bow Bukijutsu that involve firing a projectile, attacking a sightline, marking a target, targeting Cover, intercepting a projectile, or another effect which does not specif"
+    "text": "Crossbows count as Bow weapons for Bow Bukijutsu that involve firing a projectile, attacking a sightline, marking a target, targeting barriers, intercepting a projectile, or another effect which does not spe"
   },
   {
     "title": "Launchers and Thrown Bukijutsu",
@@ -14130,7 +14123,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#weapon-durability",
-    "text": "All weapons have a durability which represents how overuse of a weapon without properly caring for it can cause it to dull, rust, or degrade in any other form. In extreme cases a weapon could even break whil"
+    "text": "Each weapon has a Weapon Damage Pool (WDP), starting at 0 each scene. Its wear threshold is its Durability + DEX/10, rounded down. Ordinary attacks, Jutsu, being Parried, Parries and Blocks do not generate W"
   },
   {
     "title": "Damage Levels",
@@ -14697,7 +14690,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/rules/#requirements-2",
-    "text": "Qualify for a Ninjutsu Rank through any one of the following: Corps rank, Chakra Control or Research. Elemental Ninjutsu also requires the appropriate Elemental Aptitude. Rank: E: Stray C: Trailhand or Hunts"
+    "text": "Qualify for a Ninjutsu Rank through any one of the following: Corps rank, Chakra Control or Research. Elemental Ninjutsu instead uses the paired requirements below and also requires the appropriate Elemental"
   },
   {
     "title": "Elemental Strength and Weaknesses",
@@ -14837,7 +14830,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/unarmed/#headbutt",
-    "text": "You use your head to hit someone else's head. Really, honestly, it's a highly technical process. You just don't understand because you're not a ninja. Stamina: 10 Damage: STR Speed: 7 Accuracy: -1 Tags: Atta"
+    "text": "You drive your forehead into the opponent’s face at close range. Stamina: 10 Damage: STR Speed: 7 Accuracy: -1 Tags: Attack, Melee Effects: This always deals a head wound and you must take the final wounding"
   },
   {
     "title": "D-Rank",
@@ -16104,7 +16097,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/doton/#doryuukatsu-earth-flow-divide",
-    "text": "Flowing your energy into special underground 'Dragon Veins' (that means chakra leylines, not a literal dragon's body--I'm talking to you, Takuto) you can literally make a tear in the earth, and create a larg"
+    "text": "You force chakra through underground Dragon Veins, splitting the earth into a deep chasm. The rupture can tear through walls, camps and barricades. Chakra: 35 Damage: 64d6 Line: 5, Up to Chakra Control Yards"
   },
   {
     "title": "Doton: Domu - Earth Release: Iron Skin",
@@ -17301,7 +17294,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bukijutsu/#bukijutsu-2",
-    "text": "Bukijutsu builds on normal weapon attacks rather than replacing them. A Basic Weapon Attack remains the efficient, reliable option; Bukijutsu gives a weapon specialist stronger ways to exploit positioning, r"
+    "text": "Bukijutsu builds on normal weapon attacks rather than replacing them. Bukijutsu adds strength-scaled damage and weapon-specific ways to break guards, punish defenses, disable weapons and finish a Chain. The "
   },
   {
     "title": "Learning Requirements",
@@ -17336,7 +17329,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bukijutsu/#fan-bridge-2",
-    "text": "Fan Bukijutsu has a deliberate exception to the normal Chain break rule. Seamless Wind may carry one Fan-tagged Fuuton through an active Chain. The Fuuton remains Ninjutsu, never becomes Chain 1/2/3, receive"
+    "text": "Seamless Wind may carry one Fan-tagged Fuuton through an active Chain. The Fuuton remains Ninjutsu, never becomes Chain 1/2/3, receives no Bukijutsu damage or status riders, and does not refresh the Chain Wi"
   },
   {
     "title": "Bukijutsu Stances",
@@ -17350,42 +17343,42 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bukijutsu/#high-guard",
-    "text": "You hold the weapon high enough to threaten the first line immediately, accepting a more exposed defensive posture. Rank: D Stamina: 8 Upkeep: 3 Speed: 6 Tags: Utility, Self, Upkeep, Bukijutsu Stance Effects"
+    "text": "You hold the weapon high enough to threaten the first line immediately, accepting a more exposed defensive posture. Rank: D Stamina: 8 Upkeep: 2 Speed: 4 Tags: Utility, Self, Upkeep, Bukijutsu Stance Effects"
   },
   {
     "title": "Low Guard",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bukijutsu/#low-guard",
-    "text": "The weapon stays low and close to the body, making it easier to receive an attack before committing to your own. Rank: D Stamina: 8 Upkeep: 3 Speed: 6 Tags: Utility, Self, Upkeep, Bukijutsu Stance Effects: G"
+    "text": "The weapon stays low and close to the body, making it easier to receive an attack before committing to your own. Rank: D Stamina: 8 Upkeep: 2 Speed: 4 Tags: Utility, Self, Upkeep, Bukijutsu Stance Effects: G"
   },
   {
     "title": "Long Guard",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bukijutsu/#long-guard",
-    "text": "You extend the weapon into the space in front of you and make the opponent fight through its reach before they can reach your body. Rank: D Stamina: 9 Upkeep: 3 Speed: 6 Tags: Utility, Self, Upkeep, Bukijuts"
+    "text": "You extend the weapon into the space in front of you and make the opponent fight through its reach before they can reach your body. Rank: D Stamina: 9 Upkeep: 2 Speed: 4 Tags: Utility, Self, Upkeep, Bukijuts"
   },
   {
     "title": "Open Guard",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bukijutsu/#open-guard",
-    "text": "You deliberately leave a line available, using the invitation to make the defender commit before your real angle is chosen. Rank: C Stamina: 12 Upkeep: 4 Speed: 8 Tags: Utility, Self, Upkeep, Bukijutsu Stanc"
+    "text": "You deliberately leave a line available, using the invitation to make the defender commit before your real angle is chosen. Rank: C Stamina: 12 Upkeep: 3 Speed: 5 Tags: Utility, Self, Upkeep, Bukijutsu Stanc"
   },
   {
     "title": "Point Guard",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bukijutsu/#point-guard",
-    "text": "You keep the point or striking line fixed on one part of the opponent and sacrifice broader coverage for precision. Rank: C Stamina: 12 Upkeep: 4 Speed: 8 Tags: Utility, Self, Upkeep, Bukijutsu Stance Effect"
+    "text": "You keep the point or striking line fixed on one part of the opponent and sacrifice broader coverage for precision. Rank: C Stamina: 12 Upkeep: 3 Speed: 5 Tags: Utility, Self, Upkeep, Bukijutsu Stance Effect"
   },
   {
     "title": "Committed Guard",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bukijutsu/#committed-guard",
-    "text": "You build every movement around the next heavy commitment, gaining force at the cost of reacting cleanly when the opponent moves first. Rank: B Stamina: 18 Upkeep: 6 Speed: 10 Tags: Utility, Self, Upkeep, Bu"
+    "text": "You build every movement around the next heavy commitment, gaining force at the cost of reacting cleanly when the opponent moves first. Rank: B Stamina: 18 Upkeep: 4 Speed: 6 Tags: Utility, Self, Upkeep, Buk"
   },
   {
     "title": "Universal Bukijutsu",
@@ -17434,7 +17427,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#sword-bukijutsu",
-    "text": "Sword is the dueling weapon: it reads defensive habits, changes angle and punishes predictable answers."
+    "text": "Sword techniques exploit an opponent’s habits. Change your angle, catch a familiar defense and finish through the opening."
   },
   {
     "title": "E-Rank",
@@ -17448,42 +17441,42 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#rising-cut",
-    "text": "You cut upward beneath the target’s guard. Rank: E Stamina: +3 Damage: +2dS Speed: -1 Tags: Chain 1, Sword, Attack, Movement Effects: On a full hit, choose one: Guard Lift — note the Defense used against thi"
+    "text": "You cut upward beneath the target’s guard. Rank: E Stamina: +3 Damage: +max(2, floor(STR/15))dS Speed: -1 Tags: Chain 1, Sword, Attack Effects: On a full hit, note the Defense used. If the target uses that b"
   },
   {
     "title": "Draw Cut",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#draw-cut",
-    "text": "You strike as the sword leaves its sheath. Rank: E Stamina: +4 Damage: +1dS Speed: +0 Accuracy: +1 Tags: Chain 1, Sword, Attack, Movement Effects: If the sword began sheathed, choose one before rolling: Flas"
+    "text": "You strike as the sword leaves its sheath. Rank: E Stamina: +4 Damage: +max(1, floor(STR/15))dS Speed: +0 Accuracy: +1 Tags: Chain 1, Sword, Attack Effects: Requires a sheathed sword. Reduce this Attack’s fi"
   },
   {
     "title": "Descending Cut",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#descending-cut",
-    "text": "You bring the blade down through the opening made by your previous strike. Rank: E Stamina: +5 Damage: +3dS Speed: +1 Tags: Chain 2, Sword, Attack Effects: If your previous Chain attack was Chain 1, choose o"
+    "text": "You bring the blade down through the opening made by your previous strike. Rank: E Stamina: +5 Damage: +max(3, floor(STR/15))dS Speed: +1 Tags: Chain 2, Sword, Attack Effects: If your previous Chain attack w"
   },
   {
     "title": "Finishing Cut",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#finishing-cut",
-    "text": "You commit to a precise cut through the exposed target. Rank: E Stamina: +8 Damage: +5dS Speed: +3 Accuracy: -1 Tags: Chain 3, Sword, Attack Effects: +10% Wounding. You may make this a Called Shot; reduce th"
+    "text": "You commit to a precise cut through the exposed target. Rank: E Stamina: +8 Damage: +max(5, floor(STR/15))dS Speed: +3 Tags: Chain 3, Sword, Attack Effects: Gain +30% Wounding and reduce Called Shot penaltie"
   },
   {
     "title": "Half-Step",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#half-step",
-    "text": "You change position while keeping your blade between you and the target. Rank: E Stamina: 4 Speed: 2 Tags: Chain X, Sword, Utility, Movement Effects: Move up to 3 yards without breaking your Chain. You may m"
+    "text": "You change position while keeping your blade between you and the target. Rank: E Stamina: +4 Speed: +1 Tags: Link, Sword, Attack Effects: Link to a Sword Attack. If the target Dodges, double that Defense’s f"
   },
   {
     "title": "Iaidō",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#iaido",
-    "text": "You draw and strike in one motion from a still stance. Rank: E Stamina: +6 Damage: +3dS Speed: -2 Tags: Bukijutsu, Sword, Attack Effects: Requires a sheathed sword. On the first use against a creature this c"
+    "text": "You draw and strike in one motion from a still stance. Rank: E Stamina: +6 Damage: +max(3, floor(STR/15))dS Speed: -2 Tags: Bukijutsu, Sword, Attack Effects: Requires a sheathed sword. On the first use again"
   },
   {
     "title": "D-Rank",
@@ -17497,21 +17490,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#reversing-cut",
-    "text": "You reverse the blade across the line of your previous attack. Rank: D Stamina: +8 Damage: +3dS Speed: +2 Tags: Chain 2, Sword, Attack, Movement Effects: Read the Defense used against your previous Chain att"
+    "text": "You reverse the blade across the line of your previous attack. Rank: D Stamina: +8 Damage: +max(3, floor(STR/10))dS Speed: +2 Tags: Chain 2, Sword, Attack Effects: Read the Defense used against your previous"
   },
   {
     "title": "Reverse Edge",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#reverse-edge",
-    "text": "You turn the blade’s recovery into a second cut. Rank: D Stamina: +10 Damage: +5dS Speed: -1 Tags: Chain 3, Sword, Attack Effects: If the previous Chain attack was partially defended, treat the target's Defe"
+    "text": "You turn the blade’s recovery into a second cut. Rank: D Stamina: +10 Damage: +max(5, floor(STR/10))dS Speed: -1 Tags: Chain 3, Sword, Attack Effects: If the previous Chain Attack was partially defended, imp"
   },
   {
     "title": "Bind and Recover",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#bind-and-recover",
-    "text": "You catch the attacking weapon and guide it aside. Rank: D Stamina: 6 Speed: 5 Tags: Chain X, Sword, Utility, Interrupt Effects: Parry a Melee Attack with +1. On a full success, your next Sword Chain attack "
+    "text": "You catch the attacking weapon and guide it aside. Rank: D Stamina: 6 Speed: 3 Tags: Chain X, Sword, Utility, Interrupt Effects: Parry a targeted Melee Attack with +Athletics/5. On a full success, your next "
   },
   {
     "title": "Tempered Edge",
@@ -17532,21 +17525,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#half-sword-thrust",
-    "text": "You shorten the sword and drive the point through a seam in the target’s protection. Rank: C Stamina: +9 Damage: +5dS Speed: +2 Accuracy: +1 Tags: Chain 1, Sword, Attack Effects: Treat this Attack as Piercin"
+    "text": "You shorten the sword and drive the point through a seam in the target’s protection. Rank: C Stamina: +9 Damage: +max(5, floor(STR/7))dS Speed: +2 Accuracy: +1 Tags: Chain 1, Sword, Attack Effects: Treat thi"
   },
   {
     "title": "Broken Rhythm",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#broken-rhythm",
-    "text": "You feint with your shoulders and blade before striking along another line. Rank: C Stamina: 7 Speed: 3 Tags: Chain X, Sword, Utility Effects: Opposed Espionage vs Awareness against your chained target. On s"
+    "text": "You feint with your shoulders and blade before striking along another line. Rank: C Stamina: 7 Speed: 3 Tags: Chain X, Sword, Utility Effects: Oppose your chained target’s Awareness with Espionage. On succes"
   },
   {
     "title": "Circular Draw",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#circular-draw",
-    "text": "You sweep the blade from its sheath in a broad arc. Rank: C Stamina: +13 Damage: +6dS Speed: +4 Line: 3, 1 Tags: Bukijutsu, Sword, Attack Effects: Attack every chosen enemy in the line with one Accuracy roll"
+    "text": "You sweep the blade from its sheath in a broad arc. Rank: C Stamina: +13 Damage: +max(6, floor(STR/7))dS Speed: +4 Line: 3, 1 Tags: Bukijutsu, Sword, Attack Effects: Attack every chosen enemy in the line wit"
   },
   {
     "title": "B-Rank",
@@ -17560,14 +17553,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#intercepting-draw",
-    "text": "You draw your sword into the path of an incoming attack. Rank: B Stamina: 12 Speed: 4 Tags: Chain X, Sword, Attack, Interrupt Effects: Requires a sheathed sword. Parry a Melee Attack with +2. On a full succe"
+    "text": "You draw your sword into the path of an incoming attack. Rank: B Stamina: 12 Speed: 4 Tags: Chain X, Sword, Attack, Interrupt Effects: Requires a sheathed sword. Parry a targeted Melee Attack with +Athletics"
   },
   {
     "title": "Draw Reset",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#draw-reset",
-    "text": "You sheath the sword quickly, readying another draw. Rank: B Stamina: 8 Speed: 3 Tags: Chain X, Sword, Utility Effects: Sheathe one sword you hold. Your next Sword Chain 1 before 20 IC has -1 Speed."
+    "text": "You sheath the sword quickly, readying another draw. Rank: B Stamina: 8 Speed: 3 Tags: Chain X, Sword, Utility Effects: Sheathe one sword you hold without changing Chain value. If your next non-Interrupt Act"
   },
   {
     "title": "A-Rank",
@@ -17581,21 +17574,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#final-measure",
-    "text": "You drive a decisive cut through the opponent’s exposed guard. Rank: A Stamina: +24 Damage: +12dS Speed: +4 Accuracy: -1 Special: Knockback 5 (Carry Through only) Tags: Chain 3, Sword, Attack, Movement Effec"
+    "text": "You drive a decisive cut through the opponent’s exposed guard. Rank: A Stamina: +24 Damage: +max(12, floor(STR/3))dS Speed: +4 Special: Knockback (Carry Through; see Effects) Tags: Chain 3, Sword, Attack, Mo"
   },
   {
     "title": "Perfect Bind",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/sword/#perfect-bind",
-    "text": "You catch the opposing weapon near its base and turn it aside. Rank: A Stamina: 13 Speed: 3 Tags: Chain X, Sword, Utility, Interrupt Effects: Parry a Melee Attack with +2. On a full success, choose one: Turn"
+    "text": "You catch the opposing weapon near its base and turn it aside. Rank: A Stamina: 13 Speed: 3 Tags: Chain X, Sword, Utility, Interrupt Effects: Parry a targeted Melee Attack with +Athletics/5. On a full succes"
   },
   {
     "title": "Club Bukijutsu",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#club-bukijutsu",
-    "text": "Club is the force weapon: it wins through impact, resisted Specials, armor pressure, collisions and terrain."
+    "text": "Clubs batter armor, break footing and send enemies reeling."
   },
   {
     "title": "E-Rank",
@@ -17609,42 +17602,42 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#driving-blow",
-    "text": "You drive a heavy blow through the target. Rank: E Stamina: +3 Damage: +2dS Speed: +1 Special: Knockback 3 Tags: Chain 1, Club, Attack, Movement Effects: On a successful Special, you may follow the target up"
+    "text": "You drive the target back with a heavy strike. Rank: E Stamina: +3 Damage: +max(2, floor(STR/15))dS Speed: +1 Special: Knockback 3 Tags: Chain 1, Club, Attack, Movement Effects: Resolve Knockback using the g"
   },
   {
     "title": "Rising Blow",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#rising-blow",
-    "text": "You swing upward beneath the target’s guard. Rank: E Stamina: +4 Damage: +2dS Speed: +2 Accuracy: -1 Special: Stun 3 Tags: Chain 1, Club, Attack Effects: Apply Stun 3 normally. If the target was already Stun"
+    "text": "You swing upward beneath the target’s guard. Rank: E Stamina: +4 Damage: +max(2, floor(STR/15))dS Speed: +2 Special: Stun 3 Tags: Chain 1, Club, Attack Effects: Apply the printed Stun normally. If the target"
   },
   {
     "title": "Returning Swing",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#returning-swing",
-    "text": "You use the club’s return swing to answer the opponent’s attack. Rank: E Stamina: +5 Damage: +3dS Speed: +2 Tags: Chain 2, Club, Attack Effects: If the target attacked you in the last 20 IC, ignore up to 1 p"
+    "text": "You strike into the opening left by the opponent's attack. Rank: E Stamina: +5 Damage: +max(3, floor(STR/15))dS Speed: +2 Tags: Chain 2, Club, Attack Effects: If this is your first non-Interrupt Action after"
   },
   {
     "title": "Overhead Blow",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#overhead-blow",
-    "text": "You bring the weapon down in a committed overhead strike. Rank: E Stamina: +8 Damage: +5dS Speed: +5 Accuracy: -2 Special: Stun 5 Tags: Chain 3, Club, Attack Effects: Must be a Called Shot to the Head. +5% W"
+    "text": "You bring the weapon down on the target's head. Rank: E Stamina: +8 Damage: +max(5, floor(STR/15))dS Speed: +5 Special: Stun 5 Tags: Chain 3, Club, Attack Effects: Make a Called Shot to the Head using its no"
   },
   {
     "title": "Brace",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#brace",
-    "text": "You brace the club against an incoming blow. Rank: E Stamina: 4 Speed: 5 Tags: Chain X, Club, Utility, Interrupt Effects: Block or Parry a Melee Attack with +1. The first time each Round the club would gain "
+    "text": "You brace the club across the incoming blow. Rank: E Stamina: 4 Speed: 3 Tags: Chain X, Club, Utility, Interrupt Effects: Parry a Melee Attack with +2. On success, reduce Knockback from that Attack to 0. Thi"
   },
   {
     "title": "Wide Swing",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#wide-swing",
-    "text": "You sweep the weapon across several nearby opponents. Rank: E Stamina: +6 Damage: +2dS Speed: +3 Area: 2 Special: Knockback 2 Tags: Bukijutsu, Club, Attack Effects: Attack all enemies in reach. Divide Speed×"
+    "text": "You sweep the weapon across several nearby opponents. Rank: E Stamina: +6 Damage: +max(2, floor(STR/15))dS Speed: +3 Area: 2 Special: Knockback 2 Tags: Bukijutsu, Club, Attack Effects: Attack all enemies in "
   },
   {
     "title": "D-Rank",
@@ -17658,28 +17651,28 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#rib-shot",
-    "text": "You strike the target’s ribs to disrupt their breathing and posture. Rank: D Stamina: +8 Damage: +4dS Speed: +1 Tags: Chain 2, Club, Attack Effects: On a full hit, choose one: Smother the Breath — the target"
+    "text": "You strike the target’s ribs to disrupt their breathing and posture. Rank: D Stamina: +8 Damage: +max(4, floor(STR/10))dS Speed: +1 Tags: Chain 2, Club, Attack Effects: On a full hit, choose one: Smother the"
   },
   {
     "title": "Armor Crack",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#armor-crack",
-    "text": "You direct the weapon’s weight into armour or a barrier. Rank: D Stamina: +12 Damage: +5dS Speed: +4 Accuracy: -1 Tags: Chain 3, Club, Attack Effects: Before damaging the target, deal 65% of this Attack's fi"
+    "text": "You direct the weapon’s weight into armour or a barrier. Rank: D Stamina: +12 Damage: +max(5, floor(STR/10))dS Speed: +4 Tags: Chain 3, Club, Attack Effects: After defense, deal this Attack’s damage directly"
   },
   {
     "title": "Body Check",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#body-check",
-    "text": "You drive your shoulder into the target. Rank: D Stamina: 5 Speed: 4 Special: Knockback 3 Tags: Chain X, Club, Utility, Movement Effects: If adjacent to your chained target, resolve the Knockback Special wit"
+    "text": "This action is available to all Hunters as Shove. It requires no Club or Chain and does not advance Chain."
   },
   {
     "title": "Head-Heavy Grip",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#head-heavy-grip",
-    "text": "Chakra and a shifted grip increase the weapon’s leverage. Rank: D Chakra: 14 Upkeep: 3 Speed: 8 Tags: Bukijutsu, Club, Utility Effects: One blunt weapon gains +1 Reach. Whenever one of its Bukijutsu has a pr"
+    "text": "Chakra and a shifted grip increase the weapon’s leverage. Rank: D Chakra: 14 Upkeep: 3 Speed: 8 Tags: Bukijutsu, Club, Utility Effects: One blunt weapon gains additional Reach equal to the greater of 2 yards"
   },
   {
     "title": "C-Rank",
@@ -17693,21 +17686,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#low-sweep",
-    "text": "You drive the club through the target’s base instead of through their centre, forcing them to choose between footing and impact. Rank: C Stamina: +9 Damage: +5dS Speed: +3 Accuracy: -1 Special: Knockback 4 o"
+    "text": "You drive the club through the target’s base instead of through their centre, forcing them to choose between footing and impact. Rank: C Stamina: +9 Damage: +max(5, floor(STR/7))dS Speed: +3 Special: Knockba"
   },
   {
     "title": "Short Grip",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#short-grip",
-    "text": "You adjust your grip to regain control of the heavy weapon. Rank: C Stamina: 6 Speed: 2 Tags: Chain X, Club, Utility Effects: Remove up to 3 points of temporary Accuracy penalty affecting your next Club Chai"
+    "text": "You adjust your grip to regain control of the heavy weapon. Rank: C Stamina: 6 Speed: 2 Tags: Chain X, Club, Utility Effects: For your next Club Chain Attack, halve temporary Accuracy penalties and weapon De"
   },
   {
     "title": "Wallbreaker",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#wallbreaker",
-    "text": "You strike a wall or defence with the weapon’s full weight. Rank: C Stamina: +15 Damage: +8dS Speed: +6 Accuracy: -2 Tags: Bukijutsu, Club, Attack Effects: Against Armor, Barriers and unattended objects, thi"
+    "text": "You strike a wall or defence with the weapon’s full weight. Rank: C Stamina: +15 Damage: +max(8, floor(STR/7))dS Speed: +6 Tags: Bukijutsu, Club, Attack Effects: Against Armor, Barriers and unattended object"
   },
   {
     "title": "B-Rank",
@@ -17721,14 +17714,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#guard-rattle",
-    "text": "You hit the defending weapon or limb hard enough to shake its hold. Rank: B Stamina: +15 Damage: +8dS Speed: +2 Tags: Chain 2, Club, Attack Effects: On a full hit, if the target used a weapon to Block or Par"
+    "text": "You hit the defending weapon or limb hard enough to shake its hold. Rank: B Stamina: +15 Damage: +max(8, floor(STR/5))dS Speed: +2 Tags: Chain 2, Club, Attack Effects: If a weapon Blocks or Parries this Atta"
   },
   {
     "title": "Ground Shock",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#ground-shock",
-    "text": "You slam the weapon into the ground, sending an impact through nearby footing. Rank: B Stamina: 10 Speed: 4 Tags: Chain X, Club, Utility Effects: Strike the ground; Area 5. Create Rocky Terrain 2 for 20 IC. "
+    "text": "You slam the weapon into the ground, sending an impact through nearby footing. Rank: B Stamina: 10 Speed: 4 Tags: Chain X, Club, Attack, AoE Effects: Strike the ground in an Area equal to the greater of 5 ya"
   },
   {
     "title": "A-Rank",
@@ -17742,21 +17735,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#collision-breaker",
-    "text": "You drive the target through the space behind them, turning walls, trees, wreckage, and other bodies into part of the finishing blow. Rank: A Stamina: +26 Damage: +13dS Speed: +6 Accuracy: -2 Special: Knockb"
+    "text": "You strike hard enough to send the opponent sprawling. Rank: A Stamina: +26 Damage: +max(13, floor(STR/3))dS Speed: +6 Special: Knockback 12 Tags: Chain 3, Club, Attack Effects: Use the greater of 12 or STR/"
   },
   {
     "title": "Juggernaut Rush",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/club/#juggernaut-rush",
-    "text": "You put the whole body behind the weapon and carry the attack through the space the target thought they controlled. Rank: A Stamina: +22 Damage: +10dS Speed: +4 Accuracy: -1 Special: Knockback 6 Tags: Chain "
+    "text": "You charge through the enemy's position and drive them out of the fight's centre. Rank: A Stamina: +22 Damage: +max(10, floor(STR/3))dS Speed: +4 Special: Knockback 12 Tags: Chain 1, Club, Attack, Movement E"
   },
   {
     "title": "Polearm Bukijutsu",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#polearm-bukijutsu",
-    "text": "Polearm owns measure: Reach, approach denial, intercepts and repositioning are its main advantages."
+    "text": "A polearm keeps enemies at the tip of the weapon. Catch an approach, hold your reach and drive through a broken guard."
   },
   {
     "title": "E-Rank",
@@ -17770,28 +17763,28 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#passing-thrust",
-    "text": "The thrust is carried through a passing step so the point threatens beyond the weapon’s usual measure. Rank: E Stamina: +3 Damage: +2dS Speed: +0 Tags: Chain 1, Polearm, Attack, Movement Effects: Gain +2 Rea"
+    "text": "The thrust is carried through a passing step so the point threatens beyond the weapon’s usual measure. Rank: E Stamina: +3 Damage: +max(2, floor(STR/15))dS Speed: +0 Tags: Chain 1, Polearm, Attack Effects: I"
   },
   {
     "title": "Butt-End Check",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#butt-end-check",
-    "text": "The rear of the weapon becomes a second striking end. Rank: E Stamina: +3 Damage: +1dS Speed: -1 Accuracy: +1 Special: Knockback 2 Tags: Chain 1, Polearm, Attack, Movement Effects: Treat the attack as Blunt."
+    "text": "The rear of the weapon becomes a second striking end. Rank: E Stamina: +3 Damage: +max(2, floor(STR/15))dS Speed: -1 Accuracy: +1 Special: Knockback 4 Tags: Chain 1, Polearm, Attack, Movement Effects: Treat "
   },
   {
     "title": "Threading Thrust",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#threading-thrust",
-    "text": "The point is threaded through a small defensive window rather than swung around the guard. Rank: E Stamina: +5 Damage: +3dS Speed: +1 Accuracy: -1 Tags: Chain 2, Polearm, Attack Effects: Defensive Interrupts"
+    "text": "The point is threaded through a small defensive window rather than swung around the guard. Rank: E Stamina: +5 Damage: +max(3, floor(STR/15))dS Speed: +1 Tags: Chain 2, Polearm, Attack Effects: Defensive Int"
   },
   {
     "title": "Driving Thrust",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#driving-thrust",
-    "text": "This is a committed line attack that spends the polearm’s reach aggressively. Rank: E Stamina: +8 Damage: +5dS Speed: +5 Accuracy: -2 Tags: Chain 3, Polearm, Attack Effects: Gain +1 Reach for this Attack. +5"
+    "text": "This is a committed line attack that spends the polearm’s reach aggressively. Rank: E Stamina: +8 Damage: +max(5, floor(STR/15))dS Speed: +5 Tags: Chain 3, Polearm, Attack Effects: Gain additional Reach equa"
   },
   {
     "title": "Set Spear",
@@ -17805,7 +17798,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#rotation-strike",
-    "text": "The whole polearm is rotated through a controlled arc. Rank: E Stamina: +7 Damage: +3dS Speed: +5 Area: 2 Tags: Bukijutsu, Polearm, Attack Effects: Attack all chosen enemies in Reach. If only one creature is"
+    "text": "The whole polearm is rotated through a controlled arc. Rank: E Stamina: +7 Damage: +max(3, floor(STR/15))dS Speed: +5 Area: 2 Tags: Bukijutsu, Polearm, Attack Effects: Attack all chosen enemies in Reach. If "
   },
   {
     "title": "D-Rank",
@@ -17819,28 +17812,28 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#catch-and-turn",
-    "text": "The hook, blade, or shaft catches posture instead of simply striking it. Rank: D Stamina: +8 Damage: +3dS Speed: +2 Special: Knockback 4 or Prone Tags: Chain 2, Polearm, Attack Effects: On a full hit, choose"
+    "text": "The hook, blade, or shaft catches posture instead of simply striking it. Rank: D Stamina: +8 Damage: +max(3, floor(STR/10))dS Speed: +2 Special: Knockback 4 or Prone Tags: Chain 2, Polearm, Attack Effects: O"
   },
   {
     "title": "Pinning Thrust",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#pinning-thrust",
-    "text": "You brace the haft and drive the point through the target’s line with enough commitment that the impact itself disrupts their movement. Rank: D Stamina: +12 Damage: +5dS Speed: +4 Accuracy: -2 Special: Immob"
+    "text": "You brace the haft and drive the point through the target’s line with enough commitment that the impact itself disrupts their movement. Rank: D Stamina: +12 Damage: +max(5, floor(STR/10))dS Speed: +4 Special"
   },
   {
     "title": "Haft Guard",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#haft-guard",
-    "text": "The shaft receives an incoming attack across a broad, strong surface. Rank: D Stamina: 5 Speed: 5 Tags: Chain X, Polearm, Utility, Interrupt, Movement Effects: Parry a Melee Attack with +1. On full success, "
+    "text": "You catch the incoming strike and push the opponent out along the shaft. Rank: D Stamina: 5 Speed: 3 Tags: Chain X, Polearm, Utility, Interrupt Effects: Parry a targeted Melee Attack with +Athletics/5. On a "
   },
   {
     "title": "Extended Guard",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#extended-guard",
-    "text": "The weapon is kept extended as a permanent obstacle. Rank: D Stamina: 9 Upkeep: 2 Speed: 7 Tags: Bukijutsu, Polearm, Utility Effects: Your Polearm attacks gain +1 Reach. When a creature uses Move with an Att"
+    "text": "You hold the point forward and force approaching enemies to deal with it. Rank: D Stamina: 7 Upkeep: 1 Speed: 4 Tags: Bukijutsu, Polearm, Utility Effects: Increase Polearm Reach by 50%, minimum +2 yards. Whi"
   },
   {
     "title": "C-Rank",
@@ -17854,21 +17847,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#weapon-hook",
-    "text": "The head or shaft catches the opponent’s weapon and drags its line away from where they want to use it. Rank: C Stamina: +9 Damage: +4dS Speed: +2 Tags: Chain 2, Polearm, Attack Effects: On a full hit, choos"
+    "text": "The head or shaft catches the opponent’s weapon and drags its line away from where they want to use it. Rank: C Stamina: +9 Damage: +max(4, floor(STR/7))dS Speed: +2 Tags: Chain 2, Polearm, Attack Effects: O"
   },
   {
     "title": "Shaft Pivot",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#shaft-pivot",
-    "text": "This is circular footwork performed around the weapon’s ideal measure. Rank: C Stamina: 6 Speed: 2 Tags: Chain X, Polearm, Utility, Movement Effects: Move up to 5 yards around a creature in your Reach withou"
+    "text": "You move around the opponent with the shaft between you and their weapon. Rank: C Stamina: +6 Speed: +0 Tags: Link, Polearm, Attack Effects: Link to a Polearm Attack against your chained target. If the targe"
   },
   {
     "title": "Leaping Pole",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#leaping-pole",
-    "text": "The shaft is planted and used as a lever for the body. Rank: C Stamina: 12 Speed: 8 Tags: Bukijutsu, Polearm, Utility, Movement Effects: Vault up to 8 yards horizontally or 4 vertically using the polearm. Yo"
+    "text": "The shaft is planted and used as a lever for the body. Rank: C Stamina: +12 Damage: +max(5, floor(STR/7))dS Speed: +3 Tags: Chain 2, Polearm, Attack, Movement Effects: Vault toward a target using Move with a"
   },
   {
     "title": "B-Rank",
@@ -17882,14 +17875,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#crossbar-catch",
-    "text": "You use the length of the shaft to catch a projectile or ranged weapon line before it reaches the body. Rank: B Stamina: 10 Speed: 4 Tags: Chain X, Polearm, Utility, Interrupt, Movement Effects: Parry a Rang"
+    "text": "You catch the projectile on the shaft and turn it aside. Rank: B Stamina: 8 Speed: 3 Tags: Chain X, Polearm, Utility, Interrupt Effects: Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/"
   },
   {
     "title": "Sliding Measure",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#sliding-measure",
-    "text": "The hands slide rather than the feet. Rank: B Stamina: 9 Speed: 3 Tags: Chain X, Polearm, Utility Effects: Until your next action choose one: Long Measure — gain +3 Reach and reduce the weapon’s die size by "
+    "text": "You slide your grip to extend the point or put your weight behind the head. Rank: B Stamina: 7 Speed: 2 Tags: Chain X, Polearm, Utility Effects: Choose a benefit for your next non-Interrupt Action, which mus"
   },
   {
     "title": "A-Rank",
@@ -17903,21 +17896,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#through-line",
-    "text": "You carry the thrust through the chained target and keep moving with it, using the opening to either pass their body or send the point into the next threat on the same line. Rank: A Stamina: +26 Damage: +14d"
+    "text": "You carry the thrust through the chained target and keep moving with it, using the opening to either pass their body or send the point into the next threat on the same line. Rank: A Stamina: +26 Damage: +max"
   },
   {
     "title": "Levering Throw",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#levering-throw",
-    "text": "You catch the attack on the haft, drop your weight under it, and use the polearm as a lever to throw the attacker off their base. Rank: A Stamina: 13 Speed: 4 Special: Knockback 4, Prone Tags: Chain X, Polea"
+    "text": "You catch the attack on the haft, drop your weight under it, and use the polearm as a lever to throw the attacker off their base. Rank: A Stamina: 13 Speed: 4 Special: Knockback, Prone (see Effects) Tags: Ch"
   },
   {
     "title": "Fan Bukijutsu",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#fan-bukijutsu",
-    "text": "Fan shapes the battlefield: it moves groups, creates lanes, controls ranged space and turns wind into positioning."
+    "text": "Fans sweep enemies aside, turn projectiles and carry cutting winds across the battlefield."
   },
   {
     "title": "E-Rank",
@@ -17931,42 +17924,42 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#opening-gust",
-    "text": "The first gust is modest but highly controllable. Rank: E Stamina: +3 Chakra: 3 Damage: +2dS Range: 6 Speed: +1 Special: Knockback 4 (Drive) or Knockback 2 (Ride the Gust) Tags: Chain 1, Fan, Attack, Movemen"
+    "text": "The first gust is modest but highly controllable. Rank: E Stamina: +3 Chakra: 3 Damage: +max(2, floor(STR/15))dS Range: 6 Speed: +1 Special: Knockback 4 (Drive) or Knockback 2 (Ride the Gust) Tags: Chain 1, "
   },
   {
     "title": "Folding Edge",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#folding-edge",
-    "text": "The fan snaps shut and is used like a short baton or edged frame. Rank: E Stamina: +3 Damage: +2dS Speed: -1 Accuracy: +1 Tags: Chain 1, Fan, Attack Effects: Melee only. On a full hit, the target takes -1 Pa"
+    "text": "The fan snaps shut and is used like a short baton or edged frame. Rank: E Stamina: +3 Damage: +max(2, floor(STR/15))dS Speed: -1 Accuracy: +1 Tags: Chain 1, Fan, Attack Effects: Melee only. On a full hit, th"
   },
   {
     "title": "Reversing Gust",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#reversing-gust",
-    "text": "The fan snaps the current back toward you, pulling the target into a shorter and less comfortable distance. Rank: E Stamina: +5 Chakra: 5 Damage: +3dS Line: 3, 10 Speed: +2 Special: Knockback 3 Tags: Chain 2"
+    "text": "The fan snaps the current back toward you, pulling the target into a shorter and less comfortable distance. Rank: E Stamina: +5 Chakra: 5 Damage: +max(3, floor(STR/15))dS Line: 3, 10 Speed: +2 Special: Knock"
   },
   {
     "title": "Full Fan Gust",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#full-fan-gust",
-    "text": "The fan opens fully and the entire span contributes to one committed burst, driving a wall of air through the target hard enough to carry both body and guard with it. Rank: E Stamina: +8 Chakra: 8 Damage: +5"
+    "text": "The fan opens fully and the entire span contributes to one committed burst, driving a wall of air through the target hard enough to carry both body and guard with it. Rank: E Stamina: +8 Chakra: 8 Damage: +m"
   },
   {
     "title": "Wind Screen",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#wind-screen",
-    "text": "The fan catches a projectile in moving air instead of trying to meet it edge-on. Rank: E Chakra: 7 Speed: 5 Tags: Chain X, Fan, Utility, Interrupt, Movement Effects: Parry a Ranged Taijutsu or Projectile Att"
+    "text": "The fan catches a projectile in moving air instead of trying to meet it edge-on. Rank: E Chakra: 7 Speed: 3 Tags: Chain X, Fan, Utility, Interrupt Effects: Parry a targeted Ranged Taijutsu or Projectile Atta"
   },
   {
     "title": "Broad Sweep",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#broad-sweep",
-    "text": "The fan is used to claim a broad patch of battlefield with one sweep. Rank: E Stamina: +6 Chakra: 5 Damage: +2dS Area: 4 Speed: +4 Special: Knockback 2 Tags: Bukijutsu, Fan, Attack Effects: Attack all chosen"
+    "text": "The fan is used to claim a broad patch of battlefield with one sweep. Rank: E Stamina: +6 Chakra: 5 Damage: +max(2, floor(STR/15))dS Area: 4 Speed: +4 Special: Knockback 2 Tags: Bukijutsu, Fan, Attack Effect"
   },
   {
     "title": "D-Rank",
@@ -17980,14 +17973,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#backdraft",
-    "text": "The current is turned across the target rather than straight through them. Rank: D Stamina: +8 Chakra: 7 Damage: +3dS Range: 12 Speed: +1 Special: Knockback 4 Tags: Chain 2, Fan, Attack, Movement Effects: On"
+    "text": "The current is turned across the target rather than straight through them. Rank: D Stamina: +8 Chakra: 7 Damage: +max(3, floor(STR/10))dS Range: 12 Speed: +1 Special: Knockback 4 Tags: Chain 2, Fan, Attack, "
   },
   {
     "title": "Dust Sweep",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#dust-sweep",
-    "text": "The sweep is designed to clear a lane whether the attack connects cleanly or not. Rank: D Stamina: +10 Chakra: 14 Damage: +5dS Area: 7 Speed: +5 Tags: Chain 3, Fan, Attack Effects: Targets that fully Dodge a"
+    "text": "The sweep is designed to clear a lane whether the attack connects cleanly or not. Rank: D Stamina: +10 Chakra: 14 Damage: +max(5, floor(STR/10))dS Area: 7 Speed: +5 Tags: Chain 3, Fan, Attack Effects: Target"
   },
   {
     "title": "Wind Sense",
@@ -18001,7 +17994,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#guided-wind",
-    "text": "The fan is held as a stable channel for both weapon pressure and Fuuton. Rank: D Chakra: 15 Upkeep: 3 Speed: 8 Tags: Bukijutsu, Fan, Utility Effects: Fan Bukijutsu gain +4 Range. Fuuton cast through this fan"
+    "text": "The fan is held as a stable channel for both weapon pressure and Fuuton. Rank: D Chakra: 15 Upkeep: 3 Speed: 8 Tags: Bukijutsu, Fan, Utility Effects: Increase the Range of Fan Bukijutsu and Fuuton cast throu"
   },
   {
     "title": "C-Rank",
@@ -18015,21 +18008,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#shearing-wake",
-    "text": "The attack leaves a clean tailwind behind it, turning the space you just cut through into a lane for movement. Rank: C Stamina: +8 Chakra: 8 Damage: +4dS Range: 14 Speed: +2 Tags: Chain 1, Fan, Attack Effect"
+    "text": "The attack leaves a clean tailwind behind it, turning the space you just cut through into a lane for movement. Rank: C Stamina: +8 Chakra: 8 Damage: +max(4, floor(STR/7))dS Range: 14 Speed: +2 Tags: Chain 1,"
   },
   {
     "title": "Crosswind Step",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#crosswind-step",
-    "text": "The user lets the fan pull their body through a short movement while preserving the chain. Rank: C Stamina: 7 Speed: 2 Tags: Chain X, Fan, Utility, Movement Effects: Move up to 5 yards. If you end farther fr"
+    "text": "The user lets the fan pull their body through a short movement while preserving the chain. Rank: C Stamina: +7 Speed: +1 Tags: Link, Fan, Attack Effects: Link to a Fan Attack. On a successful Knockback Speci"
   },
   {
     "title": "Closed Guard",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#closed-guard",
-    "text": "The fan closes into a compact guard that can actually receive melee force. Rank: C Stamina: 11 Speed: 4 Tags: Bukijutsu, Fan, Utility, Interrupt Effects: Block or Parry a Melee Attack with the closed fan at "
+    "text": "The fan closes into a compact guard that can actually receive melee force. Rank: C Stamina: 11 Speed: 4 Tags: Bukijutsu, Fan, Utility, Interrupt Effects: Parry a targeted Melee Attack with +Athletics/5. On f"
   },
   {
     "title": "B-Rank",
@@ -18043,7 +18036,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#returning-gale",
-    "text": "The return current drags the target across your line while carrying you into the space their balance just abandoned. Rank: B Stamina: +15 Chakra: 13 Damage: +7dS Range: 20 Speed: +2 Special: Knockback 5 Tags"
+    "text": "The return current drags the target across your line while carrying you into the space their balance just abandoned. Rank: B Stamina: +15 Chakra: 13 Damage: +max(7, floor(STR/5))dS Range: 20 Speed: +2 Specia"
   },
   {
     "title": "Seamless Wind",
@@ -18064,7 +18057,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/fan/#windbreak",
-    "text": "You split the battlefield with one violent current and leave the air behind it too unstable for clean projectile fire. Rank: A Stamina: +26 Chakra: 24 Damage: +12dS Line: 8, 35 Speed: +5 Special: Knockback 6"
+    "text": "You split the battlefield with one violent current and leave the air behind it too unstable for clean projectile fire. Rank: A Stamina: +26 Chakra: 24 Damage: +max(12, floor(STR/3))dS Line: 8, 35 Speed: +5 S"
   },
   {
     "title": "Perfect Current",
@@ -18078,7 +18071,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#chain-weapon-bukijutsu",
-    "text": "Chain weapons are the control weapon: their dedicated Bukijutsu turn the existing Grapple and Control system into a ranged weapon discipline."
+    "text": "Chain weapons catch limbs, drag enemies out of position and hold them at a distance."
   },
   {
     "title": "Weapon Grapples",
@@ -18099,42 +18092,42 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#casting-lash",
-    "text": "The chain is cast past the target and tensioned back through them, so Range and pull are part of the same action. Rank: E Stamina: +3 Damage: +2dS Speed: +1 Tags: Chain 1, Chain, Attack Effects: Gain +4 Rang"
+    "text": "The chain is cast past the target and tensioned back through them, so Range and pull are part of the same action. Rank: E Stamina: +3 Damage: +max(2, floor(STR/15))dS Speed: +1 Tags: Chain 1, Chain, Attack E"
   },
   {
     "title": "Ankle Catch",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#ankle-catch",
-    "text": "The lowest loop of the chain is used to attack footing rather than flesh. Rank: E Stamina: +3 Damage: +1dS Speed: +0 Accuracy: +1 Tags: Chain 1, Chain, Attack Effects: On a full hit, you may deal 20% less fi"
+    "text": "The lowest loop of the chain is used to attack footing rather than flesh. Rank: E Stamina: +3 Damage: +max(1, floor(STR/15))dS Speed: +0 Accuracy: +1 Tags: Chain 1, Chain, Attack Effects: On a full hit, you "
   },
   {
     "title": "Reel and Strike",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#reel-and-strike",
-    "text": "The chain does not go slack after the first contact. Rank: E Stamina: +5 Damage: +3dS Speed: +2 Tags: Chain 2, Chain, Attack Effects: If the target is in your Weapon Grapple, this Attack gains Pummel and Tra"
+    "text": "The chain does not go slack after the first contact. Rank: E Stamina: +5 Damage: +max(3, floor(STR/15))dS Speed: +2 Tags: Chain 2, Chain, Attack Effects: If the target is in your Weapon Grapple, this Attack "
   },
   {
     "title": "Neck Loop",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#neck-loop",
-    "text": "The loop is placed high across the neck and shoulder line, where a small mistake becomes bleeding, shock, and a brutal loss of posture. Rank: E Stamina: +8 Damage: +5dS Speed: +5 Accuracy: -2 Special: Stun 2"
+    "text": "The loop is placed high across the neck and shoulder line, where a small mistake becomes bleeding, shock, and a brutal loss of posture. Rank: E Stamina: +8 Damage: +max(5, floor(STR/15))dS Speed: +5 Special:"
   },
   {
     "title": "Moving Coil",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#moving-coil",
-    "text": "The chain is kept alive around the body like a moving perimeter. Rank: E Stamina: 5 Upkeep: 1 Speed: 6 Tags: Chain X, Chain, Utility Effects: While maintained, gain +1 Parry against Ranged Taijutsu and +3 Ra"
+    "text": "The chain is kept alive around the body like a moving perimeter. Rank: E Stamina: 5 Upkeep: 1 Speed: 6 Tags: Chain X, Chain, Utility Effects: While maintained, gain +Athletics/5 Parry against targeted Ranged"
   },
   {
     "title": "Wide Lash",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#wide-lash",
-    "text": "The chain sweeps across a lane instead of hunting one body. Rank: E Stamina: +6 Damage: +2dS Speed: +4 Line: 2, 8 Special: Knockback 3 Tags: Bukijutsu, Chain, Attack Effects: Attack all chosen enemies in the"
+    "text": "The chain sweeps across a lane instead of hunting one body. Rank: E Stamina: +6 Damage: +max(2, floor(STR/15))dS Speed: +4 Line: 2, 8 Special: Knockback 3 Tags: Bukijutsu, Chain, Attack Effects: Attack all c"
   },
   {
     "title": "D-Rank",
@@ -18148,14 +18141,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#cross-snare",
-    "text": "Two lines of chain close around one limb. Rank: D Stamina: +8 Damage: +3dS Speed: +3 Accuracy: -1 Tags: Chain 2, Chain, Attack Effects: If the target is in your Weapon Grapple, this technique gains Trapping "
+    "text": "Two lines of chain close around one limb. Rank: D Stamina: +8 Damage: +max(3, floor(STR/10))dS Speed: +3 Tags: Chain 2, Chain, Attack Effects: If the target is in your Weapon Grapple, this technique gains Tr"
   },
   {
     "title": "Double Bind",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#double-bind",
-    "text": "The chain separates into several committed lines, each loop hunting a different limb or body as the user works the weapon across the field. Rank: D Stamina: +13 Damage: +4dS Speed: +6 Accuracy: -2 Tags: Chai"
+    "text": "The chain separates into several committed lines, each loop hunting a different limb or body as the user works the weapon across the field. Rank: D Stamina: +13 Damage: +max(4, floor(STR/10))dS Speed: +6 Tag"
   },
   {
     "title": "Side Anchor",
@@ -18169,7 +18162,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#coiled-guard",
-    "text": "The weapon is coiled into a defensive orbit close enough to parry melee attacks while still threatening at range. Rank: D Stamina: 9 Upkeep: 2 Speed: 8 Tags: Bukijutsu, Chain, Utility Effects: Gain +1 Parry "
+    "text": "The weapon is coiled into a defensive orbit close enough to parry melee attacks while still threatening at range. Rank: D Stamina: 9 Upkeep: 2 Speed: 8 Tags: Bukijutsu, Chain, Utility Effects: Gain +Athletic"
   },
   {
     "title": "C-Rank",
@@ -18183,21 +18176,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#weapon-snare",
-    "text": "The chain wraps a held weapon instead of the target’s body, turning their own reach and grip against them. Rank: C Stamina: +9 Damage: +4dS Speed: +3 Accuracy: -1 Tags: Chain 2, Chain, Attack Effects: Requir"
+    "text": "The chain wraps a held weapon instead of the target’s body, turning their own reach and grip against them. Rank: C Stamina: +9 Damage: +max(4, floor(STR/7))dS Speed: +3 Tags: Chain 2, Chain, Attack Effects: "
   },
   {
     "title": "Slip Step",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#slip-step",
-    "text": "The user moves through their own slack instead of dragging the weapon behind them. Rank: C Stamina: 7 Speed: 2 Tags: Chain X, Chain, Utility, Movement Effects: Move up to 4 yards while keeping the chain in m"
+    "text": "The user moves through their own slack instead of dragging the weapon behind them. Rank: C Stamina: +7 Speed: +1 Tags: Link, Chain, Attack Effects: Link to a Chain Weapon Grapple action. If you win its Grapp"
   },
   {
     "title": "Tension Line",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#tension-line",
-    "text": "Tension is fixed to the environment and used as movement, leverage, or retrieval. Rank: C Stamina: 11 Speed: 7 Tags: Bukijutsu, Chain, Utility, Movement Effects: Attach the chain to an anchor within 20 yards"
+    "text": "Tension is fixed to the environment and used as movement, leverage, or retrieval. Rank: C Stamina: 11 Speed: 7 Tags: Bukijutsu, Chain, Utility, Movement Effects: Attach the chain to a solid anchor within wea"
   },
   {
     "title": "B-Rank",
@@ -18211,7 +18204,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#intercepting-coil",
-    "text": "The chain whips into the path of incoming fire and keeps moving after the deflection, carrying your footing with it. Rank: B Stamina: 10 Speed: 4 Tags: Chain X, Chain, Utility, Interrupt, Movement Effects: P"
+    "text": "The chain whips into the path of incoming fire and keeps moving after the deflection, carrying your footing with it. Rank: B Stamina: 10 Speed: 4 Tags: Chain X, Chain, Utility, Interrupt Effects: Parry a tar"
   },
   {
     "title": "Snap Return",
@@ -18232,21 +18225,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#suspension-hold",
-    "text": "You cast one loop around the target and another around the battlefield, then pull both lines tight until their movement is dictated by the anchor. Rank: A Stamina: +24 Damage: +8dS Speed: +6 Accuracy: -2 Tag"
+    "text": "You cast one loop around the target and another around the battlefield, then pull both lines tight until their movement is dictated by the anchor. Rank: A Stamina: +24 Damage: +max(8, floor(STR/3))dS Speed: "
   },
   {
     "title": "Tripwire Field",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/chain/#tripwire-field",
-    "text": "You route the chain through several anchor points and turn the surrounding ground into a web of low, moving lines. Rank: A Stamina: 18 Speed: 8 Range: 20 Tags: Bukijutsu, Chain, Utility Effects: Choose up to"
+    "text": "You route the chain through several anchor points and turn the surrounding ground into a web of low, moving lines. Rank: A Stamina: 18 Speed: 8 Range: 20 Tags: Bukijutsu, Chain, Utility Effects: Connect up t"
   },
   {
     "title": "Dual Bukijutsu",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#dual-bukijutsu",
-    "text": "Dual overloads defensive choices: two weapons force the opponent to repeat, split or expose a defensive answer."
+    "text": "With a weapon in each hand, you can draw the guard with one strike and punish it with the next."
   },
   {
     "title": "E-Rank",
@@ -18260,42 +18253,42 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#double-cut",
-    "text": "Both weapons attack during the same entry, but they do not have to succeed together. Rank: E Stamina: +4 Speed: +2 Tags: Chain 1, Dual, Attack Effects: Make one Attack with each held weapon at 55% final dama"
+    "text": "Both weapons attack during the same entry, but they do not have to succeed together. Rank: E Stamina: +4 Speed: +2 Damage: +floor(STR/15)dS Tags: Chain 1, Dual, Attack Effects: Make one Attack with each held"
   },
   {
     "title": "Scissor Step",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#scissor-step",
-    "text": "The two weapons close like shears while the feet circle the target. Rank: E Stamina: +3 Damage: +2dS Speed: +0 Accuracy: +1 Tags: Chain 1, Dual, Attack, Movement Effects: Requires two weapons. After the Atta"
+    "text": "The two weapons close like shears while the feet circle the target. Rank: E Stamina: +3 Damage: +max(2, floor(STR/15))dS Speed: +0 Accuracy: +1 Tags: Chain 1, Dual, Attack Effects: Requires two weapons. Choo"
   },
   {
     "title": "Alternating Cuts",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#alternating-cuts",
-    "text": "The hands alternate in a broken rhythm, changing line and timing with every swing. Rank: E Stamina: +5 Damage: +3dS Speed: +1 Tags: Chain 2, Dual, Attack Effects: If the immediately previous Chain 2 you used"
+    "text": "The hands alternate in a broken rhythm, changing line and timing with every swing. Rank: E Stamina: +5 Damage: +max(3, floor(STR/15))dS Speed: +1 Tags: Chain 2, Dual, Attack Effects: If this Attack uses a di"
   },
   {
     "title": "Closing Pair",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#closing-pair",
-    "text": "The finisher commits both hands to the same exchange. Rank: E Stamina: +8 Speed: +5 Tags: Chain 3, Dual, Attack Effects: Make one Attack with each weapon at 65% final damage each. Roll separately; combine su"
+    "text": "The finisher commits both hands to the same exchange. Rank: E Stamina: +8 Speed: +5 Damage: +floor(STR/15)dS Tags: Chain 3, Dual, Attack Effects: Make one Attack with each weapon at 65% Final Damage, rolling"
   },
   {
     "title": "Off-Hand Catch",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#off-hand-catch",
-    "text": "The off-hand weapon exists to solve the problems the leading weapon creates. Rank: E Stamina: 4 Speed: 5 Tags: Chain X, Dual, Utility, Interrupt Effects: Parry with the off-hand weapon at +1. On full success"
+    "text": "The off-hand weapon exists to solve the problems the leading weapon creates. Rank: E Stamina: 4 Speed: 3 Tags: Chain X, Dual, Utility, Interrupt Effects: Parry a targeted Melee Attack with the off-hand weapo"
   },
   {
     "title": "Turning Flurry",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#turning-flurry",
-    "text": "The user turns both weapons through the surrounding space at once, each hand carving a separate line through the enemies close enough to be caught in the rotation. Rank: E Stamina: +6 Speed: +5 Area: 2 Tags:"
+    "text": "The user turns both weapons through the surrounding space at once, each hand carving a separate line through the enemies close enough to be caught in the rotation. Rank: E Stamina: +6 Speed: +5 Area: 2 Damag"
   },
   {
     "title": "D-Rank",
@@ -18309,28 +18302,28 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#split-guard",
-    "text": "Each weapon asks a separate defensive question. Rank: D Stamina: +8 Speed: +3 Tags: Chain 2, Dual, Attack Effects: Make one Attack with each weapon at 60% final damage. The target chooses and resolves a Defe"
+    "text": "Each weapon asks a separate defensive question. Rank: D Stamina: +8 Speed: +3 Damage: +floor(STR/10)dS Tags: Chain 2, Dual, Attack Effects: Make one Attack with each weapon at 60% final damage. The target ch"
   },
   {
     "title": "Cross Finish",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#cross-finish",
-    "text": "You cross both attack lines through different parts of the target, forcing the defender to contain two wound lines at once before either hand can recover. Rank: D Stamina: +12 Damage: +6dS Speed: +6 Accuracy"
+    "text": "You cross both attack lines through different parts of the target, forcing the defender to contain two wound lines at once before either hand can recover. Rank: D Stamina: +12 Damage: +max(6, floor(STR/10))d"
   },
   {
     "title": "Hand Feint",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#hand-feint",
-    "text": "Two visible threats are used to split attention before the attack starts. Rank: D Stamina: 5 Speed: 3 Tags: Chain X, Dual, Utility Effects: Opposed Espionage vs Awareness. On success, choose Dodge or Parry; "
+    "text": "Two visible threats are used to split attention before the attack starts. Rank: D Stamina: 5 Speed: 3 Tags: Chain X, Dual, Utility Effects: Oppose the target’s Awareness with Espionage. On success, choose Do"
   },
   {
     "title": "Paired Flow",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#paired-flow",
-    "text": "The weapons settle into a shared rhythm, one hand recovering while the other remains live. Rank: D Stamina: 9 Upkeep: 2 Speed: 7 Tags: Bukijutsu, Dual, Utility Effects: While wielding two weapons, gain +1 Pa"
+    "text": "The weapons settle into a shared rhythm, one hand recovering while the other remains live. Rank: D Stamina: 9 Upkeep: 2 Speed: 7 Tags: Bukijutsu, Dual, Utility Effects: While wielding two weapons, gain +Athl"
   },
   {
     "title": "C-Rank",
@@ -18344,14 +18337,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#split-pursuit",
-    "text": "Each hand takes a different opponent, opening pressure on two fronts before the user decides which target to pursue. Rank: C Stamina: +8 Speed: +2 Tags: Chain 1, Dual, Attack Effects: Make one Attack with ea"
+    "text": "Each hand takes a different opponent, opening pressure on two fronts before the user decides which target to pursue. Rank: C Stamina: +8 Speed: +2 Damage: +floor(STR/7)dS Tags: Chain 1, Dual, Attack Effects:"
   },
   {
     "title": "Changing Lead",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#changing-lead",
-    "text": "The style changes which weapon is “leading” without changing what is held. Rank: C Stamina: 5 Speed: 1 Tags: Chain X, Dual, Utility Effects: Swap which held weapon is leading. Until your next action, use eit"
+    "text": "The style changes which weapon is “leading” without changing what is held. Rank: C Stamina: 5 Speed: 1 Tags: Chain X, Dual, Utility Effects: Swap which held weapon is leading. Your next Dual Chain Attack may"
   },
   {
     "title": "B-Rank",
@@ -18365,14 +18358,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#weapon-lock",
-    "text": "The two weapons close around the line the defender committed, trapping that weapon between them for the next exchange. Rank: B Stamina: +14 Damage: +6dS Speed: +3 Accuracy: -1 Tags: Chain 2, Dual, Attack Eff"
+    "text": "The two weapons close around the line the defender committed, trapping that weapon between them for the next exchange. Rank: B Stamina: +14 Damage: +max(6, floor(STR/5))dS Speed: +3 Tags: Chain 2, Dual, Atta"
   },
   {
     "title": "Counterpair",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#counterpair",
-    "text": "A full parry with one hand opens the line for the other. Rank: B Stamina: 10 Speed: 4 Tags: Chain X, Dual, Attack, Interrupt Effects: After fully Parrying a Melee Attack, make an off-hand Basic Weapon Attack"
+    "text": "A full parry with one hand opens the line for the other. Rank: B Stamina: 10 Speed: 4 Tags: Chain X, Dual, Attack, Interrupt Effects: After fully Parrying a targeted Melee Attack, make an off-hand Basic Weap"
   },
   {
     "title": "A-Rank",
@@ -18386,21 +18379,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#crossed-execution",
-    "text": "One hand attacks the target while the other deliberately destroys the guard protecting them. Rank: A Stamina: +26 Speed: +6 Tags: Chain 3, Dual, Attack Effects: Requires two weapons. Make one Attack with eac"
+    "text": "One hand attacks the target while the other deliberately destroys the guard protecting them. Rank: A Stamina: +26 Speed: +6 Damage: +floor(STR/3)dS Tags: Chain 3, Dual, Attack Effects: Requires two weapons. "
   },
   {
     "title": "Divergent Current",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/dual/#divergent-current",
-    "text": "Each weapon carries a different chakra treatment, letting the pair answer two different defenses in the same exchange. Rank: A Chakra: 26 Upkeep: 6 Speed: 12 Tags: Bukijutsu, Dual, Utility Effects: Apply two"
+    "text": "Each weapon carries a different chakra treatment, letting the pair answer two different defenses in the same exchange. Rank: A Chakra: 26 Upkeep: 6 Speed: 12 Tags: Bukijutsu, Dual, Utility Effects: Maintain "
   },
   {
     "title": "Bow Bukijutsu",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#bow-bukijutsu",
-    "text": "Bow is the hunter weapon: marks, sightlines, prediction and movement make its best shots better than simply firing again."
+    "text": "Bow techniques reward patience and a clear sightline. Mark your quarry, pin its movement and choose the shot that brings it down."
   },
   {
     "title": "E-Rank",
@@ -18414,28 +18407,28 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#marking-shot",
-    "text": "The first arrow is used to establish a sightline rather than chase immediate damage. Rank: E Stamina: +3 Damage: +2dS Speed: -1 Accuracy: +1 Tags: Chain 1, Bow, Attack Effects: Bow only. On a full hit, apply"
+    "text": "The first arrow is used to establish a sightline rather than chase immediate damage. Rank: E Stamina: +3 Damage: +max(2, floor(STR/15))dS Speed: -1 Accuracy: +1 Tags: Chain 1, Bow, Attack Effects: Bow only. "
   },
   {
     "title": "Pinning Shot",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#pinning-shot",
-    "text": "The arrow is aimed to catch cloth, gear, or flesh against the environment. Rank: E Stamina: +3 Damage: +1dS Speed: +0 Special: Immobilization 2 Tags: Chain 1, Bow, Attack Effects: Bow only. Resolve the Immob"
+    "text": "The arrow catches clothing or equipment, hampering the target’s movement. Rank: E Stamina: +3 Damage: +max(1, floor(STR/15))dS Speed: +0 Special: Immobilization 2 Tags: Chain 1, Bow, Attack Effects: Bow only"
   },
   {
     "title": "Angle Shot",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#angle-shot",
-    "text": "The release is chosen for a route the defender was not guarding—high, oblique, or around partial cover. Rank: E Stamina: +5 Damage: +3dS Speed: +2 Tags: Chain 2, Bow, Attack Effects: If the target uses the C"
+    "text": "You send the arrow toward an exposed angle in the defender’s guard. Rank: E Stamina: +5 Damage: +max(3, floor(STR/15))dS Speed: +2 Tags: Chain 2, Bow, Attack Effects: If the target uses the same broad Defens"
   },
   {
     "title": "Multiple Shot",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#multiple-shot",
-    "text": "The bow is used as a platform for several distinct releases in one action. Rank: E Stamina: +8 Speed: +5 Tags: Chain 3, Bow, Attack Effects: Fire 2 arrows. Make separate Accuracy rolls; divide Speed×PDB even"
+    "text": "The bow is used as a platform for several distinct releases in one action. Rank: E Stamina: +8 Speed: +5 Damage: +max(2, floor(STR/15))dS Tags: Chain 3, Bow, Attack Effects: Fire two arrows. Each uses the we"
   },
   {
     "title": "Quick Nock",
@@ -18463,21 +18456,21 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#twin-arrow",
-    "text": "Two arrows share one draw and release timing but remain separate attacks. Rank: D Stamina: +8 Speed: +4 Tags: Chain 2, Bow, Attack Effects: Fire two arrows at the same target, each at 60% final damage. Roll "
+    "text": "Two arrows share one draw and release timing but remain separate attacks. Rank: D Stamina: +8 Speed: +4 Damage: +floor(STR/10)dS Tags: Chain 2, Bow, Attack Effects: Fire two arrows at the chained target, eac"
   },
   {
     "title": "Precision Shot",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#precision-shot",
-    "text": "The final arrow is chosen for penetration and wound placement. Rank: D Stamina: +11 Damage: +6dS Speed: +5 Accuracy: -2 Tags: Chain 3, Bow, Attack Effects: +10% Wounding. Reduce the target Armor’s Absorption"
+    "text": "The final arrow is chosen for penetration and wound placement. Rank: D Stamina: +11 Damage: +max(6, floor(STR/10))dS Speed: +5 Tags: Chain 3, Bow, Attack Effects: Gain +30% Wounding. Reduce the target armor’"
   },
   {
     "title": "Cutting Arrow",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#cutting-arrow",
-    "text": "An arrow is fired at another projectile rather than the attacker. Rank: D Stamina: 6 Speed: 5 Tags: Chain X, Bow, Utility, Interrupt Effects: Fire at an incoming Ranged Taijutsu projectile and Parry it with "
+    "text": "An arrow is fired at another projectile rather than the attacker. Rank: D Stamina: 6 Speed: 3 Tags: Chain X, Bow, Utility, Interrupt Effects: Consume an arrow to Parry a targeted Ranged Taijutsu or Projectil"
   },
   {
     "title": "Held Draw",
@@ -18498,14 +18491,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#threaded-shot",
-    "text": "You place the arrow directly through one target’s line and keep enough force behind it to threaten the body standing behind them. Rank: C Stamina: +8 Damage: +4dS Speed: +2 Accuracy: +1 Tags: Chain 1, Bow, A"
+    "text": "You place the arrow directly through one target’s line and keep enough force behind it to threaten the body standing behind them. Rank: C Stamina: +8 Damage: +max(4, floor(STR/7))dS Speed: +2 Accuracy: +1 Ta"
   },
   {
     "title": "Mobile Draw",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#mobile-draw",
-    "text": "The draw is maintained through movement so the user can relocate without throwing away the shot, keeping shoulders, string, and target line stable while the feet change position. Rank: C Stamina: 7 Speed: 2 "
+    "text": "The draw is maintained through movement so the user can relocate without throwing away the shot, keeping shoulders, string, and target line stable while the feet change position. Rank: C Stamina: +7 Speed: +"
   },
   {
     "title": "Reinforced Arrow",
@@ -18526,14 +18519,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#anchor-shot",
-    "text": "The arrow is driven through gear or flesh and fixed into nearby terrain, turning a hit into a hard limit on where the target can go. Rank: B Stamina: +14 Damage: +6dS Speed: +4 Accuracy: -1 Tags: Chain 2, Bo"
+    "text": "The arrow is driven through gear or flesh and fixed into nearby terrain, turning a hit into a hard limit on where the target can go. Rank: B Stamina: +14 Damage: +max(6, floor(STR/5))dS Speed: +4 Tags: Chain"
   },
   {
     "title": "Sightline",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#sightline",
-    "text": "The user spends a moment reading sightline, cover, air, and target movement before firing. Rank: B Stamina: 9 Speed: 4 Tags: Chain X, Bow, Utility Effects: Make a Search with Awareness +4. Until your next ac"
+    "text": "You study the wind, the sightline and the target’s movement before drawing. Rank: B Stamina: 9 Speed: 4 Tags: Chain X, Bow, Utility Effects: Make a Search with +Athletics/5 Awareness. Your next Bow Attack ag"
   },
   {
     "title": "A-Rank",
@@ -18547,7 +18540,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/bow/#skyfall-shot",
-    "text": "You send the arrow high and let gravity return it from above, attacking cover from a direction it was not built to protect. Rank: A Stamina: +24 Damage: +12dS Speed: +6 Accuracy: -1 Tags: Bukijutsu, Bow, Att"
+    "text": "You send the arrow high above the target, then bring it down in a steep, plunging shot. Rank: A Stamina: +24 Damage: +max(12, floor(STR/3))dS Speed: +6 Tags: Bukijutsu, Bow, Attack Effects: Choose a clear ar"
   },
   {
     "title": "Hunter's Watch",
@@ -18561,7 +18554,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#thrown-bukijutsu",
-    "text": "Thrown weapons are the toolbox: ricochets, wire, multiple targets and prepared gear reward adapting to the battlefield."
+    "text": "Thrown weapons turn a handful of ninja tools into feints, traps and attacks from unexpected angles."
   },
   {
     "title": "E-Rank",
@@ -18575,42 +18568,42 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#double-cast",
-    "text": "Two compatible tools leave the hand on nearly the same line. Rank: E Stamina: +3 Speed: +2 Tags: Chain 1, Thrown, Attack Effects: Throw two compatible weapons on one line. One Accuracy roll; on a full hit bo"
+    "text": "Two compatible tools leave the hand on nearly the same line. Rank: E Stamina: +3 Speed: +2 Damage: +floor(STR/15)dS Tags: Chain 1, Thrown, Attack Effects: Throw two compatible weapons at one target and choos"
   },
   {
     "title": "Needle Lead",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#needle-lead",
-    "text": "The first small projectile is placed where a minor injury can matter tactically. Rank: E Stamina: +3 Damage: +1dS Speed: -1 Accuracy: +1 Tags: Chain 1, Thrown, Attack Effects: Requires Kunai, Shuriken or Sen"
+    "text": "A precise throw opens a bleeding cut or catches the target as it attacks. Rank: E Stamina: +3 Damage: +max(1, floor(STR/15))dS Speed: -1 Accuracy: +1 Tags: Chain 1, Thrown, Attack Effects: Requires Kunai, Sh"
   },
   {
     "title": "Manipulated Shuriken",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#manipulated-shuriken",
-    "text": "Wire keeps a missed weapon relevant. Rank: E Stamina: +5 Speed: +3 Tags: Chain 2, Thrown, Attack Effects: Requires Ninja Wire equal to Range. If your thrown Attack is successfully defended against, force the"
+    "text": "A tug on concealed wire sends the shuriken back toward its target. Rank: E Stamina: +5 Speed: +3 Damage: +floor(STR/15)dS Tags: Chain 2, Thrown, Attack Effects: Requires Ninja Wire for the entire clear proje"
   },
   {
     "title": "Fuuma Barrage",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#fuuma-barrage",
-    "text": "Fuuma shuriken are committed in sequence rather than as one oversized hit. Rank: E Stamina: +8 Speed: +6 Tags: Chain 3, Thrown, Attack Effects: Fuuma Shuriken only. Throw 2 weapons in succession; one Accurac"
+    "text": "Two fuuma shuriken cross the target’s path in quick succession. Rank: E Stamina: +8 Speed: +6 Damage: +max(2, floor(STR/15))dS Tags: Chain 3, Thrown, Attack Effects: Fuuma Shuriken only. Throw two weapons in"
   },
   {
     "title": "Hidden Mouth Needle",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#hidden-mouth-needle",
-    "text": "A concealed senbon is produced without the ordinary draw that warns people a thrown attack is coming. Rank: E Chakra: 6 Speed: 3 Tags: Chain X, Thrown, Utility Effects: Produce and spit one concealed Senbon "
+    "text": "You spit a concealed senbon before the target sees you reach for a weapon. Rank: E Chakra: 6 Speed: +0 Tags: Link, Thrown, Attack Effects: Link to a Senbon Attack or Senbon Multi-Throw. Produce one concealed"
   },
   {
     "title": "Field Volley",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#field-volley",
-    "text": "The throw widens into a spread of tools that blankets an area, the user fanning their release so several targets are threatened by the same handful. Rank: E Stamina: 6 Speed: 9 Area: 4 within normal thrown R"
+    "text": "The throw widens into a spread of tools that blankets an area, the user fanning their release so several targets are threatened by the same handful. Rank: E Stamina: +6 Speed: 9 Area: 4 within normal thrown "
   },
   {
     "title": "D-Rank",
@@ -18624,28 +18617,28 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#banked-throw",
-    "text": "The throw is aimed at hard terrain on purpose. Rank: D Stamina: +7 Damage: +4dS Speed: +2 Tags: Chain 2, Thrown, Attack Effects: Requires a hard surface within 10 yards of the target. Attack from the ricoche"
+    "text": "You bounce the weapon off a hard surface or another projectile to strike from a new angle. Rank: D Stamina: +7 Damage: +max(4, floor(STR/10))dS Speed: +2 Tags: Chain 2, Thrown, Attack Effects: Choose a bank "
   },
   {
     "title": "Handful Throw",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#handful-throw",
-    "text": "The user empties a full handful in one practiced release, splitting the weapons between targets as the throw opens across the battlefield. Rank: D Stamina: +12 Speed: +6 Tags: Chain 3, Thrown, Attack Effects"
+    "text": "The user empties a full handful in one practiced release, splitting the weapons between targets as the throw opens across the battlefield. Rank: D Stamina: +12 Speed: +6 Damage: +floor(STR/10)dS Tags: Chain "
   },
   {
     "title": "Return Flick",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#return-flick",
-    "text": "A missed or deflected weapon is treated as recoverable equipment rather than lost ammunition. Rank: D Stamina: 4 Speed: 3 Tags: Chain X, Thrown, Utility, Interrupt Effects: After a thrown weapon misses or is"
+    "text": "You draw your scattered weapons back into your hands with a sweep of chakra. Rank: D Stamina: 4 Speed: 3 Tags: Chain X, Thrown, Utility, Interrupt Effects: After your Thrown Attack resolves, recover its miss"
   },
   {
     "title": "Throwing Form",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#throwing-form",
-    "text": "Years of throwing have stripped wasted motion from the draw, grip, and release. Rank: D Stamina: 9 Upkeep: 2 Speed: 7 Tags: Bukijutsu, Thrown, Utility Effects: Reduce the Speed added by multi-throw by 1 and "
+    "text": "Years of throwing have stripped wasted motion from the draw, grip, and release. Rank: D Stamina: 9 Upkeep: 2 Speed: 7 Tags: Bukijutsu, Thrown, Utility Effects: Halve the Speed added by Multi-Throw, rounding "
   },
   {
     "title": "C-Rank",
@@ -18659,7 +18652,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#crossfire-cast",
-    "text": "You split the throw across two opponents, using separate lines so neither target can read the whole release from one hand motion. Rank: C Stamina: +8 Speed: +2 Tags: Chain 1, Thrown, Attack Effects: Throw on"
+    "text": "You split the throw across two opponents, using separate lines so neither target can read the whole release from one hand motion. Rank: C Stamina: +8 Speed: +2 Damage: +floor(STR/7)dS Tags: Chain 1, Thrown, "
   },
   {
     "title": "Corner Wire",
@@ -18673,7 +18666,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#rigged-weapon",
-    "text": "Tags, wire loops, poisons, and other legal attachments are prepared before the throw instead of awkwardly during it. Rank: C Stamina: 11 Speed: 8 Tags: Bukijutsu, Thrown, Utility Effects: Prepare one thrown "
+    "text": "You fix the payload to the projectile as you prepare the throw. Rank: C Stamina: +6 Speed: +2 Tags: Link, Thrown, Attack Effects: Link to a Thrown Attack. As part of readying it, apply up to two compatible a"
   },
   {
     "title": "B-Rank",
@@ -18687,14 +18680,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#returning-arc",
-    "text": "The weapon continues through its first line and curves toward a second target before it loses momentum. Rank: B Stamina: +14 Damage: +7dS Speed: +3 Tags: Chain 2, Thrown, Attack Effects: After resolving this"
+    "text": "The weapon continues through its first line and curves toward a second target before it loses momentum. Rank: B Stamina: +14 Damage: +max(7, floor(STR/5))dS Speed: +3 Tags: Chain 2, Thrown, Attack Effects: A"
   },
   {
     "title": "Scatter Run",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#scatter-run",
-    "text": "The user moves while preparing the next handful, drawing and indexing tools between steps so the next release is already assembled when the new angle opens. Rank: B Stamina: 9 Speed: 2 Tags: Chain X, Thrown,"
+    "text": "You spread a prepared handful across the target’s guard, choosing which tools carry the real threat. Rank: B Stamina: +9 Speed: +1 Tags: Link, Thrown, Attack Effects: Link to a Multi-Throw. Gain +Athletics/5"
   },
   {
     "title": "A-Rank",
@@ -18708,14 +18701,14 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#fuuma-reaper",
-    "text": "You send a Fuuma Shuriken through a continuous cutting route, forcing several targets to solve the same spinning weapon from different angles. Rank: A Stamina: +26 Speed: +8 Tags: Chain 3, Thrown, Attack Eff"
+    "text": "You send a Fuuma Shuriken through a continuous cutting route, forcing several targets to solve the same spinning weapon from different angles. Rank: A Stamina: +26 Speed: +8 Damage: +max(4, floor(STR/3))dS T"
   },
   {
     "title": "Wire Cage",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#wire-cage",
-    "text": "Four thrown anchors pull Ninja Wire tight around a patch of battlefield, turning movement through it into a hazard. Rank: A Stamina: 20 Speed: 10 Area: 6 within normal thrown Range Tags: Bukijutsu, Thrown, U"
+    "text": "Four thrown anchors pull Ninja Wire tight around a patch of battlefield, turning movement through it into a hazard. Rank: A Stamina: 20 Speed: 10 Area: max(6, DEX/5) within normal thrown Range Tags: Bukijuts"
   },
   {
     "title": "Genjutsu",
@@ -20265,7 +20258,7 @@
     "text": "You normally cannot Gather beyond your maximum Sage Chakra. If an effect forces more Natural Chakra into you than you can safely hold, you become Imbalanced until your Sage Chakra is at or below its maximum."
   },
   {
-    "title": "RULES CLARIFICATIONS",
+    "title": "USING NATURAL CHAKRA",
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/natural-chakra/#rules-clarifications",
@@ -21221,7 +21214,7 @@
     "volume": "Hunting",
     "number": "I",
     "url": "/rules/hunting/#hunt-actions",
-    "text": "While participating in an active Hunt, you gain access to special Hunt Actions. Each Hunt Action costs 1 Downtime Slot. The roll used for each action is determined by the monster's Hunt profile. Different cr"
+    "text": "While participating in an active Hunt, you gain access to special Hunt Actions. Each Hunt Action costs 1 Downtime Slot. Choose the skill listed in the monster’s Hunt profile or Lore for every Hunt roll. Lore"
   },
   {
     "title": "Intel",
@@ -22062,5 +22055,292 @@
     "number": "III",
     "url": "/rules/clans/#adaptive-mutation",
     "text": "After a hostile Action inflicts a Wound, Immobilization, Stun, or forced movement on you, gain 1 temporary SC and you may immediately use Shape Change on one body region as a Speed 0 Interrupt. A temporary S"
+  },
+  {
+    "title": "Controlled Fire",
+    "volume": "Clans & Lineages",
+    "number": "III",
+    "url": "/rules/clans/#controlled-fire",
+    "text": "All Ballistic Corps Hunters know Controlled Fire. Before rolling an Attack, add +5 Stamina to replace its Accuracy die with a base 10, then apply its normal Accuracy modifiers. The Attack permits Partial Def"
+  },
+  {
+    "title": "Ninshou",
+    "volume": "Core Rules",
+    "number": "I",
+    "url": "/rules/core/#ninshou",
+    "text": "Your study and practice of jutsu: chakra theory, elemental shaping, handseals and the principles behind techniques. Learning Elemental Ninjutsu requires both Ninshou and Chakra Control; see Jutsu Requirement"
+  },
+  {
+    "title": "Lore",
+    "volume": "Core Rules",
+    "number": "I",
+    "url": "/rules/core/#lore",
+    "text": "Knowledge of history, oral traditions, old-world records, monsters and earlier Hunts. Lore may always replace the listed skill for any Hunt roll, including Track, Research, Study Weakness and Prepare."
+  },
+  {
+    "title": "Shove",
+    "volume": "Core Rules",
+    "number": "I",
+    "url": "/rules/core/#shove",
+    "text": "(Speed 4, Stamina 5, Melee, Unarmed) Make an Accuracy Attack against an adjacent creature. On a full hit, inflict Knockback 3 without damage. Resolve the Knockback Special normally. This basic combat action "
+  },
+  {
+    "title": "Armor Category",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#armor-category",
+    "text": "Every armor piece and armored monster part has one category, separate from its weight or Structure. Choose a category when crafting; unclassified existing armor uses the migration table below. Category Stron"
+  },
+  {
+    "title": "Elemental Requirements",
+    "volume": "Jutsu Rules",
+    "number": "IV",
+    "url": "/rules/jutsu/rules/#elemental-requirements",
+    "text": "To learn ordinary Elemental Ninjutsu, meet both individual skill minima and the combined minimum. Corps rank and Research do not replace these requirements. Genjutsu retains Diplomacy and Research. Rank Chak"
+  },
+  {
+    "title": "Skill Actions",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#skill-actions",
+    "text": "These skill actions are available to every Hunter. Entries without Interrupt or Link are main Utility Actions. Roll 1d20 + the named skill. Use the listed Speed; ordinary AP reductions apply. An opposed chec"
+  },
+  {
+    "title": "Athletics",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#athletics-actions",
+    "text": "Vault — Speed 4, Movement. Roll Athletics against TN 15 to cross up to 5 + 2X yards of difficult ground or a gap, or climb up to 3 + X yards. You need a reachable landing or handhold. On failure you remain a"
+  },
+  {
+    "title": "Awareness",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#awareness-actions",
+    "text": "Read the Windup — Speed +1, Link, Defense. Link to your Defense against an Attack from a visible creature. Roll Awareness against 10 + its Espionage. On success, gain +(2 + X), maximum +6, on that Defense. C"
+  },
+  {
+    "title": "Chakra Control",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#chakra-control-actions",
+    "text": "Settle Chakra — Speed +2, Link, Check, Self. Link to a Chakra Exhaustion roll you are required to make. Chakra Control TN 20: gain +(2 + X), maximum +6, on that roll. This does not reduce existing Chakra Pen"
+  },
+  {
+    "title": "Ninshou",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#ninshou-actions",
+    "text": "Read the Technique — Speed +1, Link, Defense. Link to your Defense against a visible Jutsu Attack. Ninshou TN 10 + 5 × its rank (E=1 through A=5): learn its rank, keywords and attack form, and gain +(2 + X),"
+  },
+  {
+    "title": "Lore",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#lore-actions",
+    "text": "Recall the Hunt — Speed 5. Lore TN 20 against a monster you can observe: learn up to 1 + X currently relevant facts from its Tracks or Nature Intel, chosen by the GM. Success grants +(2 + X), maximum +6, on "
+  },
+  {
+    "title": "Espionage",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#espionage-actions",
+    "text": "Misdirect — Speed 3, Interrupt, Offensive. When an ally declares an Attack against a visible enemy within 10 yards of you, oppose your Espionage with that enemy’s Awareness before it rolls its Defense. On su"
+  },
+  {
+    "title": "Medicine",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#medicine-actions",
+    "text": "Stabilise — Speed 10, Touch. Requires Medicine 1 and a First Aid Kit. Medicine TN 20: end one non-Wound Bleed, or provide treatment expressly permitted by a Wound entry using its TN if higher. On success, th"
+  },
+  {
+    "title": "Research",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#research-actions",
+    "text": "Find the Pattern — Speed +1, Link, Defense. After observing an enemy resolve the same named Attack twice, Link to your Defense against a subsequent use. Research against 10 + its Espionage: gain +(2 + X), ma"
+  },
+  {
+    "title": "Resistance",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#resistance-actions",
+    "text": "Brace Yourself — Speed +1, Link, Defense, Self. Link to your Defense against an Attack that can cause Knockback. Resistance TN 20: reduce Knockback you would suffer from that Attack by 5 + 2X yards, minimum "
+  },
+  {
+    "title": "Stealth",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#stealth-actions",
+    "text": "Quiet Advance — Speed 5, Movement. If already hidden from at least one enemy, roll Stealth against 10 + the highest Awareness among those enemies. On success, move your ordinary Speed 5 movement distance plu"
+  },
+  {
+    "title": "Survival",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#survival-actions",
+    "text": "Pick a Route — Speed 4. Survival TN 15: designate a visible route up to 10 + 5X yards long. You and allies who hear you ignore up to 2 + X severity of ordinary difficult or Rocky Terrain on their next traver"
+  },
+  {
+    "title": "Diplomacy",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#diplomacy-actions",
+    "text": "Rally — Speed 3, Interrupt, Support. When a willing ally who can hear you declares a Defense or must make a Resistance roll, rally it before that roll. Diplomacy TN 20: it gains +(2 + X), maximum +6, on that"
+  },
+  {
+    "title": "Artisan",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#artisan-actions",
+    "text": "Field Repair — Speed 8, Touch. Requires tools and access to a willing creature's weapon. Artisan TN 20: remove 10 + 5X WDP, once per weapon per scene. This cannot restore Damage Levels or repair a broken wea"
+  },
+  {
+    "title": "Toxicology",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#toxicology-actions",
+    "text": "Identify Toxin — Speed 4. Examine a toxin, secretion or affected willing creature within Reach. Toxicology against 10 + the toxin's Poison severity (TN 20 if it has no Poison severity): learn its listed stat"
+  },
+  {
+    "title": "Team Attacks",
+    "volume": "Team Attacks",
+    "number": "I",
+    "url": "/rules/team-attacks/#team-attacks",
+    "text": "Two to four Hunters may prepare a combined Attack. Each contributes one damaging Attack they can legally perform and names a lead attacker. Each Hunter may participate in only one Team Attack at a time. Clon"
+  },
+  {
+    "title": "Preparation",
+    "volume": "Team Attacks",
+    "number": "I",
+    "url": "/rules/team-attacks/#preparation",
+    "text": "Each Hunter joins on their own turn by entering a Variable Speed Utility Action. Declare the component Attack, its costs, Links, AP expenditure and final Speed at that point. Required handseals must be compl"
+  },
+  {
+    "title": "Release",
+    "volume": "Team Attacks",
+    "number": "I",
+    "url": "/rules/team-attacks/#release",
+    "text": "At the end of the IC that completes preparation, the lead declares the attack base using one component's printed attack form, Range and Area: targeted Melee, targeted Ranged, or AoE. Every component must be "
+  },
+  {
+    "title": "Damage, Links and Effects",
+    "volume": "Team Attacks",
+    "number": "I",
+    "url": "/rules/team-attacks/#damage-links-effects",
+    "text": "Calculate each component's damage once using its own user's stats and its own final Speed, then sum the damage. The highest Speed is used for defense validity only. Shared Links modify each eligible componen"
+  },
+  {
+    "title": "Combination Effects",
+    "volume": "Team Attacks",
+    "number": "I",
+    "url": "/rules/team-attacks/#combination-effects",
+    "text": "Choose one combination benefit when releasing. An Attack can gain only one benefit, regardless of its number of qualifying pairs. - Concentrated Impact: Two components with the same physical damage type gain"
+  },
+  {
+    "title": "Example",
+    "volume": "Team Attacks",
+    "number": "I",
+    "url": "/rules/team-attacks/#team-attack-example",
+    "text": "Three Hunters contribute Speed 8, 10 and 12 Attacks: 30 preparation IC are needed. If they all join on IC 20 and remain uninterrupted, they contribute 3 per IC and release at the end of IC 30. The Attack is "
+  },
+  {
+    "title": "Scaling with the roll",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#skill-action-scaling",
+    "text": "On a successful check, X = floor((your total − TN) / 5). For an opposed check, subtract the defender's rolled total instead; ties still fail. Each full 5 points above the required result improves the action "
+  },
+  {
+    "title": "Scaling and effect timing",
+    "volume": "Bukijutsu Rules",
+    "number": "IV",
+    "url": "/rules/jutsu/bukijutsu/#bukijutsu-scaling",
+    "text": "When these techniques use Athletics/5 for a roll bonus, penalty or extra weapon allowance, round down, with a minimum of 2 and maximum of 6. Other attribute divisions used for yards, status severity, Control"
+  },
+  {
+    "title": "Rank-scaled weapon damage",
+    "volume": "Bukijutsu Rules",
+    "number": "IV",
+    "url": "/rules/jutsu/bukijutsu/#rank-scaled-weapon-damage",
+    "text": "Damaging Bukijutsu add weapon-sized dice that grow with STR. Their Damage line uses the greater of the technique’s printed floor and the following count: Rank Additional weapon dice --- --- E floor(STR/15)dS"
+  },
+  {
+    "title": "Interrupts and Links",
+    "volume": "Skill Actions",
+    "number": "I",
+    "url": "/rules/skill-actions/#skill-interrupts-and-links",
+    "text": "Declare a reactive skill action before rolling the Defense, attack resolution or check it modifies. Resolve the skill check first; success applies to that triggering event, and failure still pays its Speed. "
+  },
+  {
+    "title": "Chain Openings",
+    "volume": "Bukijutsu Rules",
+    "number": "IV",
+    "url": "/rules/jutsu/bukijutsu/#chain-openings",
+    "text": "The first time you advance from Chain 1 to Chain 2 during a Chain, gain one Opening against that target. Repeating Chain 2, returning to Chain 1 or using a multi-hit Attack does not grant another Opening in "
+  },
+  {
+    "title": "Combining pressure effects",
+    "volume": "Bukijutsu Rules",
+    "number": "IV",
+    "url": "/rules/jutsu/bukijutsu/#combining-pressure-effects",
+    "text": "Apply only the highest Bukijutsu bonus to any one Accuracy, Defense or Special roll, and only the highest Bukijutsu penalty to any one roll. This includes stances, prepared effects, Links and Openings. Ordin"
+  },
+  {
+    "title": "Skills & Combat Update",
+    "volume": "Skills & Combat Update",
+    "number": "",
+    "url": "/updates/#skills-combat-update",
+    "text": "24 October 2026 This update adds Ninshou and Lore, gives every skill two actions, introduces Team Attacks, and revises weapons, armor and Ballistic Corps combat. Open the updated character sheet. Choose File"
+  },
+  {
+    "title": "Skills and advancement",
+    "volume": "Skills & Combat Update",
+    "number": "",
+    "url": "/updates/#skills-and-advancement",
+    "text": "- Ninshou covers jutsu knowledge and practice. Elemental Ninjutsu now requires both Ninshou and Chakra Control. Genjutsu continues to use Diplomacy and Research. - Lore covers history, monsters and earlier H"
+  },
+  {
+    "title": "Armor and weapon durability",
+    "volume": "Skills & Combat Update",
+    "number": "",
+    "url": "/updates/#armor-and-durability",
+    "text": "Ninja armor and monster armor use three categories: Armor Strong against Weak against --- --- --- Dense Slashing Piercing, Blunt Layered Blunt Slashing, Piercing Shaped Piercing Slashing, Blunt Strong matchu"
+  },
+  {
+    "title": "Defenses and Ballistic Corps",
+    "volume": "Skills & Combat Update",
+    "number": "",
+    "url": "/updates/#defenses-and-ballistics",
+    "text": "- Parries retain Partial Defense against ordinary attacks. - A Parry can defend against an AoE only when it explicitly allows it. AoE Parries grant no Partial Defense. - Cover has been removed. Techniques th"
+  },
+  {
+    "title": "Bukijutsu",
+    "volume": "Skills & Combat Update",
+    "number": "",
+    "url": "/updates/#bukijutsu-update",
+    "text": "All 145 universal and weapon-family techniques have been reviewed. Their current entries include revised costs, effects and damage scaling. Damaging Bukijutsu add weapon-sized dice based on STR: Rank Additio"
+  },
+  {
+    "title": "Chain Openings",
+    "volume": "Skills & Combat Update",
+    "number": "",
+    "url": "/updates/#chain-openings-update",
+    "text": "The first advance from Chain 1 to Chain 2 grants one Opening for that Chain. Spend it before a later attack against the chained target to: - Reduce one Called Shot penalty by Athletics/5. - Add Athletics/5 t"
+  },
+  {
+    "title": "Team Attacks",
+    "volume": "Skills & Combat Update",
+    "number": "",
+    "url": "/updates/#team-attacks-update",
+    "text": "Two to four Hunters may prepare one combined Attack. Each contributes a damaging Attack and spends time in a Variable Speed Utility Action. The team must contribute preparation equal to the sum of its compon"
+  },
+  {
+    "title": "Character sheet and existing Hunters",
+    "volume": "Skills & Combat Update",
+    "number": "",
+    "url": "/updates/#character-sheet-update",
+    "text": "The new template includes Ninshou and Lore on the main profile, revised Skill Point and Skill Focus calculations, elemental learning requirements, Genjutsu Affinity, updated weapon and armor references, all "
   }
 ]

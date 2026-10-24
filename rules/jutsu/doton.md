@@ -384,7 +384,7 @@ You create what is basically a huge wall\! It can be up to the following dimensi
 #### Doryuukatsu - Earth Flow Divide
 {:#doryuukatsu-earth-flow-divide}
 
-Flowing your energy into special underground 'Dragon Veins' (that means chakra leylines, not a literal dragon's body--I'm talking to you, Takuto) you can literally make a tear in the earth, and create a large chasms. This is most often used as a way of breaking through a large wall, destroying an enemy camp or other barricades and such.
+You force chakra through underground Dragon Veins, splitting the earth into a deep chasm. The rupture can tear through walls, camps and barricades.
 
 Chakra: 35  
 Damage: 64d6  
