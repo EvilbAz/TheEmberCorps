@@ -59,4 +59,4 @@ See `BUKIJUTSU-FUNCTION-REVIEW.md` for the current role inventory of all 145 tec
 
 ## 24 October release
 
-Publication authorized by the owner. The player update is `updates.md`; development records under `review/` are excluded from the Jekyll build. Character Sheet v2.2 is the public template linked from Getting Started. Its previous template remains available for old character records. Release polish synchronized the website and catalogue, verified 96 updated cells, and hid the development checks tab. MonsterForge now uses the authoritative +0.5 Multi-Throw DB increment.
+Publication authorized by the owner. The standalone updates page has been retired; development records under `review/` are excluded from the Jekyll build. Character Sheet v2.2 is the public template linked from Getting Started. Its previous template remains available for old character records. Release polish synchronized the website and catalogue, verified 96 updated cells, and hid the development checks tab. MonsterForge now uses the authoritative +0.5 Multi-Throw DB increment.
