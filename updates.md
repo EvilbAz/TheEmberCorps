@@ -1,5 +1,5 @@
 ---
-layout: rulebook
+layout: update
 title: "Skills & Combat Update"
 permalink: "/updates/"
 ---
