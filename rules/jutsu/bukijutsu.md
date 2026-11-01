@@ -287,6 +287,9 @@ Tags: Utility, Self, Upkeep, Bukijutsu
 Effects: One Melee Weapon gains additional Reach equal to the greater of its unmodified Reach or your CHA/5. When striking through this extension, it does not trigger on-contact punishment caused solely by touching the defender. Attacks still need a clear path.
 
 
+## Chakra Flow
+{:#chakra-flow}
+
 #### Chakura Nagashi - Chakra Flow
 {:#chakura-nagashi-chakra-flow}
 
