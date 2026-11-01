@@ -2894,18 +2894,18 @@ This system uses Downtime Slots to represent actions you take in the downtime se
 
 Each Downtime cycle is one real-world week. You gain **2 free Downtime Slots** each week. These free Slots must be used during that Downtime cycle; any unused free Slots are lost when the week ends and **cannot be stockpiled**.
 
-You may also earn 1 additional Downtime Slot once per week for meeting each of the following categories, once each:
+You may earn additional Downtime Slots through the following activity categories:
 
-* Complete a Spar  
-* Complete 6 total hours of RP  
-* Participate in a Mission  
-* Complete a Hunt
+* **Sparring:** There is no weekly limit on Downtime Slots earned from completed spars. The first Spar Downtime Slot of the week requires 1 completed spar, the second requires 2 additional spars, the third requires 3 additional spars, and so on. Each spar counts toward only one Slot. To earn N Spar Downtime Slots in a week, you must complete N × (N + 1) / 2 spars that week. The count resets at the start of each Downtime cycle.
+* Complete 6 total hours of RP (1 Slot per week)
+* Participate in a Mission (1 Slot per week)
+* Complete a Hunt (1 Slot per week)
 
-Downtime Slots earned from these activity categories may be **stockpiled indefinitely** and spent in later Downtime cycles. There is no limit to how many previously earned Downtime Slots you may have saved. The normal weekly limits apply only to how many new Slots you can earn in that cycle.
+Downtime Slots earned from these activity categories may be **stockpiled indefinitely** and spent in later Downtime cycles. There is no limit to how many previously earned Downtime Slots you may have saved.
 
-**Spar + Roleplay Bonus:** If, during the same Downtime cycle, you earn both the Spar Downtime Slot and the 6-hours-of-RP Downtime Slot, you gain **1 additional bonus Downtime Slot**, provided you claimed at least **1 Roleplay Beat** from RP during that week. This bonus Slot is earned Downtime, so it may also be stockpiled indefinitely.
+**Spar + Roleplay Bonus:** If, during the same Downtime cycle, you earn at least one Spar Downtime Slot and the 6-hours-of-RP Downtime Slot, you gain **1 additional bonus Downtime Slot**, provided you claimed at least **1 Roleplay Beat** from RP during that week. This bonus Slot is earned Downtime, so it may also be stockpiled indefinitely. This bonus can be earned only once per week, regardless of the number of Spar Downtime Slots earned.
 
-A character can therefore gain up to **7 new Downtime Slots** in a single cycle: 2 free, up to 4 from activity categories, and 1 from the Spar + Roleplay Bonus.
+There is **no fixed maximum** number of new Downtime Slots a character can earn in one cycle. You still receive 2 free weekly Slots, up to 3 from the other activity categories, up to 1 Spar + Roleplay bonus Slot, and any number earned through escalating spar requirements.
 
 Whenever you complete a Downtime action using a slot, you gain 5 XP.
 
