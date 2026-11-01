@@ -89,6 +89,16 @@
           "slug": "bukijutsu"
         },
         {
+          "title": "Chakra Flow",
+          "url": "/rules/jutsu/bukijutsu/#chakura-nagashi-chakra-flow",
+          "slug": "chakra-flow"
+        },
+        {
+          "title": "Long Conduction",
+          "url": "/rules/jutsu/bukijutsu/#chakura-nagashi-enkaku-dendo-long-conduction",
+          "slug": "long-conduction"
+        },
+        {
           "title": "Sword Bukijutsu",
           "url": "/rules/jutsu/sword/",
           "slug": "sword"
