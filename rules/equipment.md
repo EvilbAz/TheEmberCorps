@@ -1025,7 +1025,7 @@ All Brewed Poisons have a base foundation of Severity 2, and Duration 50 and hav
 {:#lethal}
 
 Poison Point Cost: 1  
-Ryo Cost: 5k  
+Ryo Cost: 2.5k  
 Poison TN: 8  
 Scale: 5
 
@@ -1037,7 +1037,7 @@ This increases a Poison’s Severity by \+1.
 {:#festering}
 
 Poison Point Cost: 1  
-Ryo Cost: 3k  
+Ryo Cost: 1.5k  
 Poison TN: 6  
 Scale: 6
 
@@ -1049,7 +1049,7 @@ This increases a Poison’s Duration by \+25.
 {:#destabilizant}
 
 Poison Point Cost: 1  
-Ryo Cost: 5k  
+Ryo Cost: 2.5k  
 Poison TN: 8  
 Scale: 3
 
@@ -1061,7 +1061,7 @@ This adds or increases a Poison’s Immobilization by \+1.
 {:#dazzler}
 
 Poison Point Cost: 1  
-Ryo Cost: 5k  
+Ryo Cost: 2.5k  
 Poison TN: 8  
 Scale: 3
 
@@ -1073,7 +1073,7 @@ This adds or increases a Poison’s Visibility by \+1.
 {:#feverish}
 
 Poison Point Cost: 1  
-Ryo Cost: 4k  
+Ryo Cost: 2k  
 Poison TN: 8  
 Scale: 2
 
@@ -1085,7 +1085,7 @@ This adds or increases a Poison’s Burns by \+2.
 {:#irritant}
 
 Poison Point Cost: 1  
-Ryo Cost: 10k  
+Ryo Cost: 5k  
 Poison TN: 1  
 Scale: 10
 
@@ -1097,7 +1097,7 @@ This gives all skill rolls except Resistance a \-3.
 {:#paralytic}
 
 Poison Point Cost: 2  
-Ryo Cost: 15k  
+Ryo Cost: 7.5k  
 Poison TN: 8  
 Scale: 4
 
@@ -1126,7 +1126,7 @@ These require the Exotic Venoms Talent.
 {:#hallucinogen}
 
 Poison Point Cost: 1  
-Ryo Cost: 20k  
+Ryo Cost: 10k  
 Poison TN: 6  
 Scale: 5
 
@@ -1138,7 +1138,7 @@ Reduces the Victim’s Genjutsu Defense by \-1.
 {:#asphyxiant}
 
 Poison Point Cost: 2  
-Ryo Cost: 20k  
+Ryo Cost: 10k  
 Poison TN: 20  
 Scale: 10
 
@@ -1150,7 +1150,7 @@ This adds or increases a Poison’s Suffocation by \+1.
 {:#depressant}
 
 Poison Point Cost: 2  
-Ryo Cost: 25k  
+Ryo Cost: 12.5k  
 Poison TN: 20  
 Scale: 20
 
@@ -1162,7 +1162,7 @@ When Victim fatigues, they only reduce Stamina and CE penalties by half rather t
 {:#asthmatic}
 
 Poison Point Cost: 2  
-Ryo Cost: 25k  
+Ryo Cost: 12.5k  
 Poison TN: 20  
 Scale: 20
 
@@ -1174,7 +1174,7 @@ Every time the Victim receives an increase to CE or Stamina penalties, the other
 {:#sickening}
 
 Poison Point Cost: 2  
-Ryo Cost: 25k  
+Ryo Cost: 12.5k  
 Poison TN: 25  
 Scale: 10
 
@@ -1595,7 +1595,7 @@ Fūma Shuriken cost 5,000 Ryō each. Ninja Wire costs 500 Ryō per 5 yards and i
 
 Large metal needles, traditionally used in acupuncture. Rarely, particularly skilled shinobi will use these with devastating efficiency. Frequently, particularly overconfident shinobi will use this with depressing ineptitude.
 
-Cost: 500  
+Cost: 250
 Speed: 10  
 Stamina: 5  
 Damage: 1d4  
@@ -1610,7 +1610,7 @@ Special: Ignore armor. Cannot be used in Multi Throw (See Abilities).
 
 A mysterious weapon discovered in underground caves with proficient users seemingly always able to have it return to them. There has to be some hunter magic involved…probably.
 
-Cost: 2500  
+Cost: 1,250
 Speed: 10  
 Stamina: 10  
 Damage: 8d8  
@@ -1624,7 +1624,7 @@ Special: After throwing this weapon it always returns to your hand 10 IC later. 
 
 A fairly complex device, a fuuma shuriken is four curved blades that can fold together and be used as an improvised blade in melee combat, or unfolded and locked open, taking on a pinwheel shape, to be thrown.
 
-Cost: 10000  
+Cost: 5,000
 Speed: 14  
 Stamina: 15  
 Damage: (4+STR/12)d12  
@@ -1814,7 +1814,7 @@ When wearing the mask, the user has a \-3 penalty to all Stamina rolls, as it ta
 
 Wearing an oxygen mask with at least tank attached makes the wearer immune to external suffocation penalties (being inside an unbreathable cloud would not affect them; being physically choked would) and provides a \+8 bonus to Resistance rolls against statuses that would be inflicted by breathing something in (such as poison mist); the mask is not perfectly air-tight.
 
-Cost: 20k Ryo5
+Cost: 20k Ryo
 
 #### Oxygen Tank
 {:#oxygen-tank}
@@ -1858,7 +1858,7 @@ A three- or four-pronged sturdy metal hook. The typical use is to attach it to t
 
 These see limited use among experienced hunter, who typically have ways of easily doing the same thing, but beginners often find them useful, and they can be situationally helpful even for more advanced hunters.
 
-Cost: 1.5k Ryo2
+Cost: 1.5k Ryo
 
 #### Lockpicks
 {:#lockpicks}
@@ -1885,7 +1885,7 @@ Cost: 12.5k Ryo
 
 A small pocket telescope, which telescopes out from two inches to close to six. It allows you to effectively see what's going on up to a mile away, and read reasonably sized text (assuming you have clear line of sight) up to half a mile away. Mechanically, this means that any Awareness rolls at a distance up to its maximum (to, say, see when a guard leaves his post) have no penalty.
 
-Cost: 10k Ryo5
+Cost: 10k Ryo
 
 ## Shinobi Pharmaceuticals
 {:#shinobi-pharmaceuticals}
@@ -1909,7 +1909,7 @@ Drugs are chemicals for interactions with Medical Jutsu, poison analysis, and ef
 
 **Redline**
 
-**Cost:** 4,000 Ryo
+**Cost:** 2,000 Ryo
 
 **Duration:** 30 IC
 
@@ -1919,7 +1919,7 @@ Crash: damage you take counts as 10% higher for Wounding.
 
 **Quickstep**
 
-**Cost:** 2,000 Ryo
+**Cost:** 1,000 Ryo
 
 **Duration:** 30 IC
 
@@ -1929,7 +1929,7 @@ Crash: reduce Movement by 10%.
 
 **Iron Lung**
 
-**Cost:** 3,000 Ryo
+**Cost:** 1,500 Ryo
 
 **Duration:** 30 IC
 
@@ -1939,7 +1939,7 @@ Crash: increase Stamina penalty by 1\.
 
 **Blue Focus**
 
-**Cost:** 3,000 Ryo
+**Cost:** 1,500 Ryo
 
 **Duration:** 30 IC
 
@@ -1949,7 +1949,7 @@ Crash: increase Chakra penalty by 1\.
 
 **Morphine Field Ampoule**
 
-**Cost:** 6,000 Ryo
+**Cost:** 3,000 Ryo
 
 **Duration:** 30 IC
 
@@ -1959,7 +1959,7 @@ Crash: the suppressed Wound returns normally and you gain Stun 4\.
 
 **Amphetamine Combat Dose**
 
-**Cost:** 10,000 Ryo
+**Cost:** 5,000 Ryo
 
 **Duration:** 30 IC
 
@@ -1969,7 +1969,7 @@ Crash: increase both Stamina and Chakra penalties by 5\.
 
 **Ketamine Counter-Gen Dose**
 
-**Cost:** 8,000 Ryo
+**Cost:** 4,000 Ryo
 
 **Duration:** 30 IC
 
@@ -1979,7 +1979,7 @@ Crash: Visibility 2 and \-2 Awareness for 30 IC.
 
 **Diethylamide Reflex Dose**
 
-**Cost:** 15,000 Ryo
+**Cost:** 7,500 Ryo
 
 **Duration:** 30 IC
 
@@ -1989,7 +1989,7 @@ While active, after every Action or Interrupt you take unreducible HP damage equ
 
 **Combat Steroid**
 
-**Cost:** 7,000 Ryo
+**Cost:** 3,500 Ryo
 
 **Duration:** 30 IC
 
@@ -1999,7 +1999,7 @@ Crash: suffer \-20 STR, AGI, and DEX for the same duration. Attributes cannot fa
 
 **Kotarō Extract**
 
-**Cost:** 12,000 Ryo \- Rare
+**Cost:** 6,000 Ryo \- Rare
 
 **Duration:** 30 IC
 
