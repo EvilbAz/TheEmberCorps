@@ -287,4 +287,132 @@ Tags: Utility, Self, Upkeep, Bukijutsu
 Effects: One Melee Weapon gains additional Reach equal to the greater of its unmodified Reach or your CHA/5. When striking through this extension, it does not trigger on-contact punishment caused solely by touching the defender. Attacks still need a clear path.
 
 
+#### Chakura Nagashi - Chakra Flow
+{:#chakura-nagashi-chakra-flow}
+
+By circulating elemental chakra through a weapon, the user transforms its properties. Blades may burn with unnatural heat, become impossibly heavy, or crackle with lightning. Even the rarest elemental natures can be channelled through steel, producing weapons as distinctive as their wielders.
+
+Rank: C  
+Chakra: 20  
+Upkeep: 4  
+Speed: 12  
+Requires: Chakra Control 12, appropriate Elemental Affinity and Aptitude, or Heritage access  
+Tags: Utility, Self, Upkeep, Bukijutsu  
+Effects: Choose an element you have access to. While maintained, your weapon gains the corresponding Chakra Flow effect and counts as that element against Ninjutsu defenses.
+
+Chakra Flow affects both Dual Weapons and automatically transfers to newly drawn weapons. You may maintain only one element at a time. Created elemental weapons may only use a compatible Chakra Flow.
+
+Your weapon may Parry elemental Projectile Jutsu up to C-Rank if strong against their element, D-Rank if neutral, or E-Rank if weak. Resolve this using the normal Parry rules.
+
+Status Effects use Chakra Control against Resistance where applicable. Effects that apply a Status, Mark or terrain apply once per Attack Action.
+
+### Primary Elements
+
+**Doton - Mountain's Weight**
+
+*Earth chakra hardens around the weapon, giving it the crushing weight of stone at the moment of impact. Even a successful Parry can leave an opponent's weapon cracked beneath the force.*
+
+Damaging hits inflict Stun 3. When your Attack is Parried by a weapon, the defending weapon suffers WDP equal to half its wear threshold, rounded up, instead.
+
+**Katon - Searing Edge**
+
+*Flames coil around the weapon's striking surface, burning hotter as chakra is fed into them. The heat follows every cut, searing flesh and leaving wounds that continue to smoulder.*
+
+Add half your NDB to the weapon's Damage Bonus. Damaging hits also inflict Burns 3.
+
+**Raiton - Disrupting Current**
+
+*Lightning races across the weapon in bright, jagged arcs. Each strike discharges a violent current through the victim, overwhelming their muscles while the electricity penetrates their defences.*
+
+The weapon ignores 50% of the target's flat DR. Damaging hits inflict Paralysis 2 for 10 IC.
+
+**Suiton - Flowing Current**
+
+*Water envelops the weapon in a constantly shifting current. Rather than meeting resistance head-on, the weapon slips around opposing blades, redirecting strikes with fluid, almost effortless movements.*
+
+The weapon cannot be Parried by physical weapons and gains +2 Parry.
+
+**Fūton - Invisible Edge**
+
+*Wind chakra extends beyond the weapon's physical surface, producing an invisible edge that cuts through the air itself. Shields and conventional guards offer little protection against a blade that reaches beyond its own steel.*
+
+The weapon gains +3 Reach, and its Attacks cannot be Blocked.
+
+### Advanced Elements
+
+Advanced elements require their corresponding Heritage or another source of access.
+
+**Hyōton - Frozen Fang**
+
+*Crystalline ice spreads across the weapon, forming a razor-sharp surface that freezes whatever it cuts. A sufficiently deep wound can leave flesh and bone permanently encased in ice.*
+
+Attacks gain +25% Wounding. When inflicting a Major or worse Wound, you may replace it with Hyōton's Permanent Freeze of the corresponding Severity.
+
+**Mokuton - Rootbound Weapon**
+
+*Living wood coils around the weapon, growing thorns and twisting roots along its surface. Every successful strike sends those roots plunging into the surrounding ground, turning the battlefield into a tangled forest of hungry growth.*
+
+On a full hit, create an Area 3 of Sea of Thorns 1 beneath the target, lasting 20 IC.
+
+**Yōton - Volcanic Weapon**
+
+*Lava Release changes the weapon's substance according to its wielder's particular expression. Some weapons drip with molten stone, others harden like cement, while others bend and recoil like living rubber.*
+
+Gain the effect matching your Volcanic Expression:
+
+- **Magma:** The weapon drips molten rock that erupts across the ground on impact. Damaging hits create an Area 3 of Magma 3 for 10 IC.
+- **Quicklime:** A coating of pale, reactive lime spreads from the weapon, hardening around anything it touches. Damaging hits inflict Quicklime Immobilization 3, increasing by 2 on subsequent hits, maximum 8.
+- **Rubber:** The weapon stretches and recoils with elastic force, launching enemies away or throwing its wielder out of danger. Attacks gain Knockback 5, redirectable by up to 90 degrees. After fully Parrying, you may move 3 yards without increasing IC.
+
+**Shakuton - Withering Edge**
+
+*The weapon radiates a dry, suffocating heat. Rather than burning its victims, it steals the moisture from their bodies, leaving brittle flesh and withered wounds in its wake.*
+
+The weapon ignores Armor Absorption and inflicts Dehydration 2 on damaging hits.
+
+**Jiton - Magnetic Conduction**
+
+*Magnetic chakra circulates through the weapon, attracting loose fragments of metal and surrounding its surface with a faint electromagnetic hum. Each strike imparts a charge, allowing subsequent attacks to accelerate towards or repel their victims.*
+
+Choose Positive or Negative polarity for each Attack. Damaging hits apply one Magnetize Charge of that polarity. Against an oppositely Charged target, reduce the Attack's Base Speed by 2 per existing Charge, retaining its original Speed for Damage calculations. Normal Speed minimums apply.
+
+**Futton - Boiling Conduction**
+
+*Superheated steam hisses from the weapon's surface. The user may vent this pressure to propel themselves through combat or concentrate it into a corrosive coating capable of eating through armour.*
+
+Gain the effect of your active Futton Mode:
+
+- **Pressure:** Damaging hits generate 1 Steam, maximum once per Action. After attacking, you may spend 1 Steam to move 6 yards without increasing IC.
+- **Corrosion:** Attacks ignore 25 percentage points of Armor Absorption and deal +25% Final Damage to Barriers.
+
+**Bakuton - Detonating Edge**
+
+*Explosive chakra gathers along the weapon, erupting in a violent burst whenever it strikes. Even a glancing blow can release enough force to hurl an opponent backwards, while more precise strikes leave dangerous explosive marks behind.*
+
+Weapon Attacks gain Blast 4 and count as Bakuton Melee Attacks for the purpose of placing Detonation Marks.
+
+**Jinton - Particle Edge**
+
+*A thin, geometric boundary forms around the weapon, its surface shimmering as matter begins to lose cohesion. Rather than cutting through resistance, the weapon disassembles the chakra holding that resistance together.*
+
+The weapon ignores 50% of the target's DR and deals double Final Damage against chakra-created Barriers and Constructs.
+
+#### Chakura Nagashi: Enkaku Dendō - Long Conduction
+{:#chakura-nagashi-enkaku-dendo-long-conduction}
+
+Ordinary Chakra Flow fades as a weapon leaves its wielder's grasp. Through advanced chakra control, the user can sustain that current across greater distances, sending arrows trailing flame, shuriken crackling with lightning, or kunai carrying the crushing weight of earth.
+
+Rank: B  
+Chakra: +8  
+Upkeep: +2  
+Speed: +4  
+Requires: Chakra Flow, Chakra Control 25  
+Tags: Utility, Link, Bukijutsu  
+Effects: Link to Chakra Flow when activating it. Chakra Flow may now affect Bows, Crossbows, Kunai Launchers, Shuriken Launchers and Thrown Weapons.
+
+Ranged Attacks gain the chosen Flow's offensive effects, applying once per Attack Action, even when firing multiple projectiles.
+
+Any Reach granted by Chakra Flow instead increases the weapon's Range by 5 yards per point of Reach. Defensive effects require a weapon capable of performing the corresponding defense.
+
+
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
