@@ -19,7 +19,7 @@ permalink: "/rules/equipment/"
 
 Weapon Crafting lets you build a melee weapon from its frame upward. Choose its Structure, spend Artisan Points on Components, then add any Special Properties you are able to craft.
 
-A weapon's Final Artisan Points cannot exceed your Artisan ranks when you craft it. Crafting TN is 15 \+ (4 × Final Artisan Points). Crafting Cost is 10,000 Ryō \+ (1,500 × Final Artisan Points).
+A weapon's Final Artisan Points cannot exceed your Artisan ranks when you craft it. Crafting TN is 15 \+ (4 × Final Artisan Points). Crafting Cost is 5,000 Ryō \+ (750 × Final Artisan Points).
 
 Weapons still use the normal equipment restriction: you cannot wield a weapon with Final Artisan Points greater than Athletics \+10 without the normal over-limit penalties.
 
@@ -324,7 +324,7 @@ Mechanical launchers and crossbows are not Firearms. They do not use Ballistic D
 
 A ranged weapon's Final Artisan Points cannot exceed your Artisan ranks when you craft it. Crafting TN is 15 \+ (4 × Final Artisan Points).
 
-Crafting Cost is the weapon's listed Frame price \+ (1,500 × Final Artisan Points). Standard unmodified weapons use their catalogue price instead.
+Crafting Cost is the weapon's listed Frame price \+ (750 × Final Artisan Points). Standard unmodified weapons use their catalogue price instead.
 
 Ranged weapons still use the normal equipment restriction: you cannot wield a weapon with Final Artisan Points greater than Athletics \+10 without the normal over-limit penalties.
 
@@ -684,7 +684,7 @@ The Launcher supplies its normal Attack statistics unless the Bukijutsu replaces
 
 Heavy Shuriken Launcher. 13 Component AP. Fūma Cradle 7 AP, Extended Guide 1 3 AP, Expanded Magazine 1 2 AP, Sturdy 1 1 AP.
 
-Crafting TN is 15 \+ (4 × 13), for a total of 67\. Crafting Cost is 26,000 \+ (1,500 × 13), for a total of 45,500 Ryō.
+Crafting TN is 15 \+ (4 × 13), for a total of 67\. Crafting Cost is 13,000 \+ (750 × 13), for a total of 22,750 Ryō.
 
 The Black Rain has Capacity 10 for ordinary Shuriken and a separate Fūma Cradle holding one Fūma Shuriken. Because it has spent at least 12 AP on Components, it gains \+2 Base Damage Dice and \+2 Base Stamina. These bonus Damage Dice apply once to an ordinary Attack, Volley, or Fūma Launch, rather than once per projectile.
 
@@ -1341,75 +1341,75 @@ The listed price replaces the normal custom-crafting price.
 ### Small Weapons
 {:#small-weapons}
 
-Tanto — 5,000 Ryō. AP 0\. \[Small, Sword, One-Handed, Slashing\]. Speed 8; Stamina 10; Damage 2d6; Reach 0; Delay 0; Accuracy \+0; Parry \+0; Durability 30\.
+Tanto — 2,500 Ryō. AP 0\. \[Small, Sword, One-Handed, Slashing\]. Speed 8; Stamina 10; Damage 2d6; Reach 0; Delay 0; Accuracy \+0; Parry \+0; Durability 30\.
 
-Combat Knife — 7,000 Ryō. AP 2\. \[Small, Sword, One-Handed, Slashing, Piercing\]. Uses Tanto statistics and may deal Slashing or Piercing Wounds.
+Combat Knife — 3,500 Ryō. AP 2\. \[Small, Sword, One-Handed, Slashing, Piercing\]. Uses Tanto statistics and may deal Slashing or Piercing Wounds.
 
-Tonfa — 9,000 Ryō. AP 3\. \[Small, Club, One-Handed, Blunt\]. Hand Guard 1\. Speed 8; Stamina 10; Damage 2d6; Reach 0; Delay 0; Accuracy \-1; Parry \+1; Durability 30\.
+Tonfa — 4,500 Ryō. AP 3\. \[Small, Club, One-Handed, Blunt\]. Hand Guard 1\. Speed 8; Stamina 10; Damage 2d6; Reach 0; Delay 0; Accuracy \-1; Parry \+1; Durability 30\.
 
-Hand Chain — 9,000 Ryō. AP 3\. \[Small, Chain, One-Handed, Blunt\]. Weighted Chain 1\. Speed 8; Stamina 10; Damage 2d6; Reach 0; Chain Range \+5; Delay 0; Accuracy \+0; Parry \-1; Durability 30; \+1 Grapple Offense while maintaining its Weapon Grapple.
+Hand Chain — 4,500 Ryō. AP 3\. \[Small, Chain, One-Handed, Blunt\]. Weighted Chain 1\. Speed 8; Stamina 10; Damage 2d6; Reach 0; Chain Range \+5; Delay 0; Accuracy \+0; Parry \-1; Durability 30; \+1 Grapple Offense while maintaining its Weapon Grapple.
 
 ### Medium Weapons
 {:#medium-weapons}
 
-Katana — 10,000 Ryō. AP 0\. \[Medium, Sword, One-Handed, Slashing\]. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy \+0; Parry \+0; Durability 40\.
+Katana — 5,000 Ryō. AP 0\. \[Medium, Sword, One-Handed, Slashing\]. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy \+0; Parry \+0; Durability 40\.
 
-Longsword — 12,000 Ryō. AP 1\. \[Medium, Sword, Versatile, Slashing\]. Uses Katana statistics and may be wielded One-Handed or Two-Handed.
+Longsword — 6,000 Ryō. AP 1\. \[Medium, Sword, Versatile, Slashing\]. Uses Katana statistics and may be wielded One-Handed or Two-Handed.
 
-Duelling Sword — 18,000 Ryō. AP 5\. \[Medium, Sword, One-Handed, Slashing\]. Hand Guard 1, Secure Grip 1\. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy \+0; Parry \+1; Durability 40\. Disarm Attacks targeting it suffer \-1 Accuracy.
+Duelling Sword — 9,000 Ryō. AP 5\. \[Medium, Sword, One-Handed, Slashing\]. Hand Guard 1, Secure Grip 1\. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy \+0; Parry \+1; Durability 40\. Disarm Attacks targeting it suffer \-1 Accuracy.
 
-Mace — 10,000 Ryō. AP 0\. \[Medium, Club, One-Handed, Blunt\]. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy \-1; Parry \+0; Durability 40\.
+Mace — 5,000 Ryō. AP 0\. \[Medium, Club, One-Handed, Blunt\]. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy \-1; Parry \+0; Durability 40\.
 
-War Hammer — 18,000 Ryō. AP 5\. \[Medium, Club, One-Handed, Blunt, Piercing\]. Armor Breaker 1\. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy \-1; Parry \+0; Durability 40\.
+War Hammer — 9,000 Ryō. AP 5\. \[Medium, Club, One-Handed, Blunt, Piercing\]. Armor Breaker 1\. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy \-1; Parry \+0; Durability 40\.
 
-War Fan — 10,000 Ryō. AP 0\. \[Medium, Fan, One-Handed, Blunt\]. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy \-2; Parry \+1; Durability 40\.
+War Fan — 5,000 Ryō. AP 0\. \[Medium, Fan, One-Handed, Blunt\]. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy \-2; Parry \+1; Durability 40\.
 
-Bladed War Fan — 12,000 Ryō. AP 0\. \[Medium, Fan, One-Handed, Slashing\]. Uses War Fan statistics.
+Bladed War Fan — 6,000 Ryō. AP 0\. \[Medium, Fan, One-Handed, Slashing\]. Uses War Fan statistics.
 
-Kusarigama — 16,000 Ryō. AP 4\. \[Medium, Chain, One-Handed, Slashing\]. Extended Haft 1\. Speed 10; Stamina 12; Damage 4d8; Reach 2; Chain Range \+5; Delay 1; Accuracy \+0; Parry \-1; Durability 40.
+Kusarigama — 8,000 Ryō. AP 4\. \[Medium, Chain, One-Handed, Slashing\]. Extended Haft 1\. Speed 10; Stamina 12; Damage 4d8; Reach 2; Chain Range \+5; Delay 1; Accuracy \+0; Parry \-1; Durability 40.
 
 ### Large Weapons
 {:#large-weapons}
 
-Greatsword — 18,000 Ryō. AP 0\. \[Large, Sword, Two-Handed, Slashing\]. Speed 13; Stamina 15; Damage 6d10; Reach 2; Delay 2; Accuracy \+0; Parry \+0; Durability 50\.
+Greatsword — 9,000 Ryō. AP 0\. \[Large, Sword, Two-Handed, Slashing\]. Speed 13; Stamina 15; Damage 6d10; Reach 2; Delay 2; Accuracy \+0; Parry \+0; Durability 50\.
 
-Nodachi — 22,000 Ryō. AP 4\. \[Large, Sword, Two-Handed, Slashing\]. Extended Haft 1\. Speed 13; Stamina 15; Damage 6d10; Reach 3; Delay 2; Accuracy \+0; Parry \+0; Durability 50\.
+Nodachi — 11,000 Ryō. AP 4\. \[Large, Sword, Two-Handed, Slashing\]. Extended Haft 1\. Speed 13; Stamina 15; Damage 6d10; Reach 3; Delay 2; Accuracy \+0; Parry \+0; Durability 50\.
 
-Spear — 18,000 Ryō. AP 0\. \[Large, Polearm, Two-Handed, Piercing\]. Speed 13; Stamina 15; Damage 6d10; Reach 3; Delay 2; Accuracy \+1; Parry \-2; Durability 50\.
+Spear — 9,000 Ryō. AP 0\. \[Large, Polearm, Two-Handed, Piercing\]. Speed 13; Stamina 15; Damage 6d10; Reach 3; Delay 2; Accuracy \+1; Parry \-2; Durability 50\.
 
-Naginata — 22,000 Ryō. AP 2\. \[Large, Polearm, Two-Handed, Slashing, Piercing\]. Uses Spear statistics and may deal Slashing or Piercing Wounds.
+Naginata — 11,000 Ryō. AP 2\. \[Large, Polearm, Two-Handed, Slashing, Piercing\]. Uses Spear statistics and may deal Slashing or Piercing Wounds.
 
-Heavy Lance — 26,000 Ryō. AP 5\. \[Large, Polearm, Two-Handed, Piercing\]. Guard Mount, Secure Grip 1\. Speed 13; Stamina 15; Damage 6d10; Reach 3; Delay 2; Accuracy \+1; Parry \-2; Durability 50\.
+Heavy Lance — 13,000 Ryō. AP 5\. \[Large, Polearm, Two-Handed, Piercing\]. Guard Mount, Secure Grip 1\. Speed 13; Stamina 15; Damage 6d10; Reach 3; Delay 2; Accuracy \+1; Parry \-2; Durability 50\.
 
-Maul — 18,000 Ryō. AP 0\. \[Large, Club, Two-Handed, Blunt\]. Speed 13; Stamina 15; Damage 6d10; Reach 2; Delay 2; Accuracy \-1; Parry \+0; Durability 50\.
+Maul — 9,000 Ryō. AP 0\. \[Large, Club, Two-Handed, Blunt\]. Speed 13; Stamina 15; Damage 6d10; Reach 2; Delay 2; Accuracy \-1; Parry \+0; Durability 50\.
 
-Warhammer — 24,000 Ryō. AP 5\. \[Large, Club, Two-Handed, Blunt\]. Armor Breaker 1, Counterweight 1\. Speed 13; Stamina 15; Damage 6d10; Reach 2; Delay 1; Accuracy \-1; Parry \+0; Durability 50\.
+Warhammer — 12,000 Ryō. AP 5\. \[Large, Club, Two-Handed, Blunt\]. Armor Breaker 1, Counterweight 1\. Speed 13; Stamina 15; Damage 6d10; Reach 2; Delay 1; Accuracy \-1; Parry \+0; Durability 50\.
 
-Kanabō — 24,000 Ryō. AP 4\. \[Large, Club, Two-Handed, Blunt\]. Reinforced Edge 2\. Speed 13; Stamina 15; Damage 8d10; Reach 2; Delay 2; Accuracy \-1; Parry \+0; Durability 50\.
+Kanabō — 12,000 Ryō. AP 4\. \[Large, Club, Two-Handed, Blunt\]. Reinforced Edge 2\. Speed 13; Stamina 15; Damage 8d10; Reach 2; Delay 2; Accuracy \-1; Parry \+0; Durability 50\.
 
-Heavy Chain — 22,000 Ryō. AP 3\. \[Large, Chain, Two-Handed, Blunt\]. Weighted Chain 1\. Speed 13; Stamina 15; Damage 6d10; Reach 2; Chain Range \+5; Delay 2; Accuracy \+0; Parry \-1; Durability 50; \+1 Grapple Offense while maintaining its Weapon Grapple.
+Heavy Chain — 11,000 Ryō. AP 3\. \[Large, Chain, Two-Handed, Blunt\]. Weighted Chain 1\. Speed 13; Stamina 15; Damage 6d10; Reach 2; Chain Range \+5; Delay 2; Accuracy \+0; Parry \-1; Durability 50; \+1 Grapple Offense while maintaining its Weapon Grapple.
 
-Great War Fan — 22,000 Ryō. AP 3\. \[Large, Fan, Two-Handed, Blunt\]. Sturdy 3\. Speed 13; Stamina 15; Damage 6d10; Reach 2; Delay 2; Accuracy \-2; Parry \+1; Durability 65.
+Great War Fan — 11,000 Ryō. AP 3\. \[Large, Fan, Two-Handed, Blunt\]. Sturdy 3\. Speed 13; Stamina 15; Damage 6d10; Reach 2; Delay 2; Accuracy \-2; Parry \+1; Durability 65.
 
 ### Extreme Weapons
 {:#extreme-weapons}
 
-Colossal Blade — 35,000 Ryō. AP 0\. \[Extreme, Sword, Two-Handed, Slashing\]. Speed 15; Stamina 17; Damage 8d12; Reach 3; Delay 5; Accuracy \+0; Parry \+0; Durability 60\.
+Colossal Blade — 17,500 Ryō. AP 0\. \[Extreme, Sword, Two-Handed, Slashing\]. Speed 15; Stamina 17; Damage 8d12; Reach 3; Delay 5; Accuracy \+0; Parry \+0; Durability 60\.
 
-Great Maul — 35,000 Ryō. AP 0\. \[Extreme, Club, Two-Handed, Blunt\]. Speed 15; Stamina 17; Damage 8d12; Reach 3; Delay 5; Accuracy \-1; Parry \+0; Durability 60\.
+Great Maul — 17,500 Ryō. AP 0\. \[Extreme, Club, Two-Handed, Blunt\]. Speed 15; Stamina 17; Damage 8d12; Reach 3; Delay 5; Accuracy \-1; Parry \+0; Durability 60\.
 
-Siege Hammer — 45,000 Ryō. AP 5\. \[Extreme, Club, Two-Handed, Blunt\]. Armor Breaker 1, Counterweight 1\. Speed 15; Stamina 17; Damage 8d12; Reach 3; Delay 4; Accuracy \-1; Parry \+0; Durability 60\.
+Siege Hammer — 22,500 Ryō. AP 5\. \[Extreme, Club, Two-Handed, Blunt\]. Armor Breaker 1, Counterweight 1\. Speed 15; Stamina 17; Damage 8d12; Reach 3; Delay 4; Accuracy \-1; Parry \+0; Durability 60\.
 
-Giant Polearm — 40,000 Ryō. AP 4\. \[Extreme, Polearm, Two-Handed, Piercing\]. Extended Haft 1\. Speed 15; Stamina 17; Damage 8d12; Reach 5; Delay 5; Accuracy \+1; Parry \-2; Durability 60.
+Giant Polearm — 20,000 Ryō. AP 4\. \[Extreme, Polearm, Two-Handed, Piercing\]. Extended Haft 1\. Speed 15; Stamina 17; Damage 8d12; Reach 5; Delay 5; Accuracy \+1; Parry \-2; Durability 60.
 
 ### Matched Weapons
 {:#matched-weapons}
 
-Twin Short Swords — 18,000 Ryō. AP 1\. \[Small, Sword, One-Handed, Slashing, Dual\]. A matched pair using normal Small Sword statistics.
+Twin Short Swords — 9,000 Ryō. AP 1\. \[Small, Sword, One-Handed, Slashing, Dual\]. A matched pair using normal Small Sword statistics.
 
-Twin Blades — 28,000 Ryō. AP 1\. \[Medium, Sword, One-Handed, Slashing, Dual\]. A matched pair using normal Medium Sword statistics.
+Twin Blades — 14,000 Ryō. AP 1\. \[Medium, Sword, One-Handed, Slashing, Dual\]. A matched pair using normal Medium Sword statistics.
 
-Twin Tonfa — 24,000 Ryō. AP 1\. \[Small, Club, One-Handed, Blunt, Dual\]. A matched pair using normal Small Club statistics.
+Twin Tonfa — 12,000 Ryō. AP 1\. \[Small, Club, One-Handed, Blunt, Dual\]. A matched pair using normal Small Club statistics.
 
 # Ranged Weapons
 {:#ranged-weapons-2}
@@ -1428,131 +1428,131 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 ##### Bows
 {:#bows-2}
 
-**Trail Yumi — 21,000 Ryō. AP 3\.** Yumi frame. Speed 14; Stamina 15; Damage (STR/10)dS; Accuracy \-8; Range STR/2 (+10%); Delay 2\.
+**Trail Yumi — 10,500 Ryō. AP 3\.** Yumi frame. Speed 14; Stamina 15; Damage (STR/10)dS; Accuracy \-8; Range STR/2 (+10%); Delay 2\.
 
 **Installed Components:** Long-Limb Design 1\. Aim Speed 8; each Aim grants \+3 Accuracy, maximum two.
 
-**Scout Yumi — 28,000 Ryō. AP 7\.** Yumi frame. Speed 14; Stamina 16; Damage (STR/10 \+ 1)dS; Accuracy \-8; Range STR/2; Delay 2\.
+**Scout Yumi — 14,000 Ryō. AP 7\.** Yumi frame. Speed 14; Stamina 16; Damage (STR/10 \+ 1)dS; Accuracy \-8; Range STR/2; Delay 2\.
 
 **Installed Components:** Quiet String, Pivoting Grip. \+2 Stealth to remain hidden after firing. May voluntarily move up to 2 yards without losing accumulated Yumi Aim.
 
-**Quickdraw Yumi — 28,000 Ryō. AP 7\.** Yumi frame. Speed 14; Stamina 16; Damage (STR/10 \+ 1)dS; Accuracy \-8 (+1 on Aimed Attacks); Range STR/2; Delay 2\.
+**Quickdraw Yumi — 14,000 Ryō. AP 7\.** Yumi frame. Speed 14; Stamina 16; Damage (STR/10 \+ 1)dS; Accuracy \-8 (+1 on Aimed Attacks); Range STR/2; Delay 2\.
 
 **Installed Components:** Quick-Draw Mechanism, Sighting Bead 1\. Aim Speed 6\. Each Aim grants \+3 Accuracy; maximum two.
 
-**Longshot Daikyu — 32,000 Ryō. AP 3\.** Daikyu frame. Speed 20; Stamina 20; Damage (STR/8)dS; Accuracy \-10; Range STR (+10%); Delay 4\.
+**Longshot Daikyu — 16,000 Ryō. AP 3\.** Daikyu frame. Speed 20; Stamina 20; Damage (STR/8)dS; Accuracy \-10; Range STR (+10%); Delay 4\.
 
 **Installed Components:** Long-Limb Design 1\. Aim Speed 10; each Aim grants \+4 Accuracy, maximum two. An action requiring movement removes accumulated Aim.
 
-**Watchtower Daikyu — 42,000 Ryō. AP 9\.** Daikyu frame. Speed 20; Stamina 21; Damage (STR/8 \+ 1)dS; Accuracy \-10 (+1 on Aimed Attacks); Range STR (+20%); Delay 4\.
+**Watchtower Daikyu — 21,000 Ryō. AP 9\.** Daikyu frame. Speed 20; Stamina 21; Damage (STR/8 \+ 1)dS; Accuracy \-10 (+1 on Aimed Attacks); Range STR (+20%); Delay 4\.
 
 **Installed Components:** Long-Limb Design 2, Sighting Bead 1\. Aim Speed 10\. Each Aim grants \+4 Accuracy; maximum two. An action requiring movement removes accumulated Aim.
 
 ##### Crossbows
 {:#crossbows-2}
 
-**Field Hand Crossbow — 20,000 Ryō. AP 4\.** Hand Crossbow frame. Speed 11; Stamina 10; Damage 4dS; Accuracy \-4; Range 20 \+ STR/5; Delay 2; Capacity 1; Reload 3; Durability 35\.
+**Field Hand Crossbow — 10,000 Ryō. AP 4\.** Hand Crossbow frame. Speed 11; Stamina 10; Damage 4dS; Accuracy \-4; Range 20 \+ STR/5; Delay 2; Capacity 1; Reload 3; Durability 35\.
 
 **Installed Components:** Quick Windlass. Crossbow Aim: Speed 5, \+2 Accuracy on the next Crossbow Attack if you do not voluntarily move beforehand.
 
-**Skirmisher Crossbow — 25,000 Ryō. AP 7\.** Hand Crossbow frame. Speed 11; Stamina 11; Damage 5dS; Accuracy \-4; Range 20 \+ STR/5; Delay 2; Capacity 1; Reload 3; Durability 42\.
+**Skirmisher Crossbow — 12,500 Ryō. AP 7\.** Hand Crossbow frame. Speed 11; Stamina 11; Damage 5dS; Accuracy \-4; Range 20 \+ STR/5; Delay 2; Capacity 1; Reload 3; Durability 42\.
 
 **Installed Components:** Quick Windlass, Reinforced Housing. Crossbow Aim: Speed 5, \+2 Accuracy on the next Crossbow Attack if you do not voluntarily move beforehand.
 
-**Twinbolt Hunting Crossbow — 37,000 Ryō. AP 9\.** Hunting Crossbow frame. Speed 13; Stamina 14; Damage 8dS; Accuracy \-5; Range 30 \+ STR/4; Delay 2; Capacity 2; Reload 6; Durability 45\.
+**Twinbolt Hunting Crossbow — 18,500 Ryō. AP 9\.** Hunting Crossbow frame. Speed 13; Stamina 14; Damage 8dS; Accuracy \-5; Range 30 \+ STR/4; Delay 2; Capacity 2; Reload 6; Durability 45\.
 
 **Installed Components:** Double Channel, Quick Windlass. Holds two Bolts; each normal Attack fires one. Crossbow Aim: Speed 5, \+2 Accuracy on the next Crossbow Attack if you do not voluntarily move beforehand.
 
-**Farshot Hunting Crossbow — 37,000 Ryō. AP 9\.** Hunting Crossbow frame. Speed 13; Stamina 14; Damage 8dS; Accuracy \-5 (+1 on Aimed Attacks); Range (30 \+ STR/4) (+20%); Delay 2; Capacity 1; Reload 6; Durability 45\.
+**Farshot Hunting Crossbow — 18,500 Ryō. AP 9\.** Hunting Crossbow frame. Speed 13; Stamina 14; Damage 8dS; Accuracy \-5 (+1 on Aimed Attacks); Range (30 \+ STR/4) (+20%); Delay 2; Capacity 1; Reload 6; Durability 45\.
 
 **Installed Components:** Long-Limb Design 2, Sighting Bead 1\. Crossbow Aim: Speed 5, \+2 Accuracy on the next Crossbow Attack if you do not voluntarily move beforehand.
 
-**Siege Arbalest — 47,000 Ryō. AP 9\.** Heavy Arbalest frame. Speed 16; Stamina 18; Damage 12dS; Accuracy \-6; Range 40 \+ STR/4; Delay 5; Capacity 1; Reload 9; Durability 60\.
+**Siege Arbalest — 23,500 Ryō. AP 9\.** Heavy Arbalest frame. Speed 16; Stamina 18; Damage 12dS; Accuracy \-6; Range 40 \+ STR/4; Delay 5; Capacity 1; Reload 9; Durability 60\.
 
 **Installed Components:** Reinforced Winch, Quick Windlass. Requires both hands and remains stationary while Reloading. Crossbow Aim: Speed 5, \+2 Accuracy on the next Crossbow Attack if you do not voluntarily move beforehand.
 
 ##### Kunai Launchers
 {:#kunai-launchers-2}
 
-**Wristline Launcher — 16,000 Ryō. AP 3\.** Wrist Launcher frame. Speed 8; Stamina 8; Accuracy \+0; Range 15; Delay 1; Capacity 3; Volley Limit 3; Reload 5; Durability 30\.
+**Wristline Launcher — 8,000 Ryō. AP 3\.** Wrist Launcher frame. Speed 8; Stamina 8; Accuracy \+0; Range 15; Delay 1; Capacity 3; Volley Limit 3; Reload 5; Durability 30\.
 
 **Installed Components:** Retrieval Spool. May fire Kunai attached to up to 10 yards of Ninja Wire and retrieve a launched Kunai with an unobstructed path as a Speed 3 Utility action.
 
-**Wirecaster — 27,000 Ryō. AP 9\.** Wrist Launcher frame. Speed 8; Stamina 9; Accuracy \+0; Range 15; Delay 1; Capacity 5; Volley Limit 3; Reload 5; Durability 30\.
+**Wirecaster — 13,500 Ryō. AP 9\.** Wrist Launcher frame. Speed 8; Stamina 9; Accuracy \+0; Range 15; Delay 1; Capacity 5; Volley Limit 3; Reload 5; Durability 30\.
 
 **Installed Components:** Retrieval Spool, Expanded Magazine 1, Volley Mechanism. Gains Volley and \+1 Launcher Damage Die per Attack. May fire Kunai attached to up to 10 yards of Ninja Wire and retrieve a launched Kunai with an unobstructed path as a Speed 3 Utility action.
 
-**Field Repeater — 24,000 Ryō. AP 3\.** Repeating Kunai Launcher frame. Speed 10; Stamina 10; Accuracy \+1; Range 30; Delay 1; Capacity 6; Volley Limit 5; Reload 6; Durability 40\.
+**Field Repeater — 12,000 Ryō. AP 3\.** Repeating Kunai Launcher frame. Speed 10; Stamina 10; Accuracy \+1; Range 30; Delay 1; Capacity 6; Volley Limit 5; Reload 6; Durability 40\.
 
 **Installed Components:** Extended Guide 1\. Possesses Volley.
 
-**Barrage Repeater — 33,000 Ryō. AP 8\.** Repeating Kunai Launcher frame. Speed 10; Stamina 11; Accuracy \+1; Range 25; Delay 1; Capacity 10; Volley Limit 5; Reload 6; Durability 40\.
+**Barrage Repeater — 16,500 Ryō. AP 8\.** Repeating Kunai Launcher frame. Speed 10; Stamina 11; Accuracy \+1; Range 25; Delay 1; Capacity 10; Volley Limit 5; Reload 6; Durability 40\.
 
 **Installed Components:** Expanded Magazine 2, Rapid Index. Gains \+1 Launcher Damage Die per Attack. Ignore the first \+1 Final Speed increase imposed by Volley.
 
-**Rescue Repeater — 33,000 Ryō. AP 8\.** Repeating Kunai Launcher frame. Speed 10; Stamina 11; Accuracy \+1; Range 25; Delay 1; Capacity 8; Volley Limit 5; Reload 6; Durability 40\.
+**Rescue Repeater — 16,500 Ryō. AP 8\.** Repeating Kunai Launcher frame. Speed 10; Stamina 11; Accuracy \+1; Range 25; Delay 1; Capacity 8; Volley Limit 5; Reload 6; Durability 40\.
 
 **Installed Components:** Retrieval Spool, Split Feed, Expanded Magazine 1\. Gains \+1 Launcher Damage Die per Attack. Volley may include two different loaded Kunai patterns. May fire Kunai attached to 10 yards of Ninja Wire and retrieve a launched Kunai with an unobstructed path as a Speed 3 Utility action.
 
 ##### Shuriken Launchers
 {:#shuriken-launchers-2}
 
-**Deep-Mag Rotary — 22,000 Ryō. AP 2\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 9; Accuracy \-1 (+2 with ordinary Shuriken); Range 25; Delay 1; Capacity 10; Volley Limit 6; Reload 6; Durability 40\.
+**Deep-Mag Rotary — 11,000 Ryō. AP 2\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 9; Accuracy \-1 (+2 with ordinary Shuriken); Range 25; Delay 1; Capacity 10; Volley Limit 6; Reload 6; Durability 40\.
 
 **Installed Components:** Expanded Magazine 1\. Possesses Volley.
 
-**Stormwheel — 33,000 Ryō. AP 8\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 10; Accuracy \-1 (+2 with ordinary Shuriken); Range 25; Delay 1; Capacity 12; Volley Limit 6; Reload 6; Durability 40\.
+**Stormwheel — 16,500 Ryō. AP 8\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 10; Accuracy \-1 (+2 with ordinary Shuriken); Range 25; Delay 1; Capacity 12; Volley Limit 6; Reload 6; Durability 40\.
 
 **Installed Components:** Expanded Magazine 2, Rapid Index. Gains \+1 Launcher Damage Die per Attack. Ignore the first \+1 Final Speed increase imposed by Volley.
 
-**Marksman Rotary — 35,000 Ryō. AP 9\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 10; Accuracy \-1 (+2 with ordinary Shuriken); Range 35; Delay 1; Capacity 8; Volley Limit 6; Reload 6; Durability 40\.
+**Marksman Rotary — 17,500 Ryō. AP 9\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 10; Accuracy \-1 (+2 with ordinary Shuriken); Range 35; Delay 1; Capacity 8; Volley Limit 6; Reload 6; Durability 40\.
 
 **Installed Components:** Extended Guide 2, Split Feed. Gains \+1 Launcher Damage Die per Attack. Volley may include two different loaded Shuriken patterns.
 
-**Ironstorm — 47,000 Ryō. AP 11\.** Heavy Shuriken Launcher frame. Speed 12; Stamina 16; Accuracy \-2 (+2 with ordinary Shuriken); Range 40; Delay 2; Capacity 12; Volley Limit 4; Reload 7; Durability 55\.
+**Ironstorm — 23,500 Ryō. AP 11\.** Heavy Shuriken Launcher frame. Speed 12; Stamina 16; Accuracy \-2 (+2 with ordinary Shuriken); Range 40; Delay 2; Capacity 12; Volley Limit 4; Reload 7; Durability 55\.
 
 **Installed Components:** Expanded Magazine 2, Rapid Index, Extended Guide 1\. Gains \+1 Launcher Damage Die per Attack. Ignore the first \+1 Final Speed increase imposed by Volley.
 
-**The Black Rain — 53,000 Ryō. AP 13\.** Heavy Shuriken Launcher frame. Speed 12; Stamina 17; Accuracy \-2 (+2 with ordinary Shuriken); Range 40; Delay 2; Capacity 10; Volley Limit 4; Reload 7; Durability 55 (+10%).
+**The Black Rain — 26,500 Ryō. AP 13\.** Heavy Shuriken Launcher frame. Speed 12; Stamina 17; Accuracy \-2 (+2 with ordinary Shuriken); Range 40; Delay 2; Capacity 10; Volley Limit 4; Reload 7; Durability 55 (+10%).
 
 **Installed Components:** Fūma Cradle, Extended Guide 1, Expanded Magazine 1, Sturdy 1\. Gains \+2 Launcher Damage Dice per Attack and a separate one-Fūma chamber. Fūma Launch: Speed 16; Stamina 20; Delay 5; Damage (4 \+ STR/12 \+ 2)d12; Reload 8\. Use the greater of the current Launcher Range and STR/3 for Fūma Launch; retain the Fūma Shuriken’s normal hit-margin and Wounding effects.
 
 ##### Ready-Made Kunai and Shuriken
 {:#ready-made-kunai-and-shuriken}
 
-**Edge-Honed Kunai — 4,500 Ryō. AP 2\.** Kunai frame. Speed 8; Stamina 8; Damage 3d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
+**Edge-Honed Kunai — 2,250 Ryō. AP 2\.** Kunai frame. Speed 8; Stamina 8; Damage 3d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
 
 **Installed Components:** Reinforced Edge 1\.
 
-**Precision Kunai — 10,000 Ryō. AP 5\.** Kunai frame. Speed 8; Stamina 8; Damage 3d6; Accuracy \+0 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 1\.
+**Precision Kunai — 5,000 Ryō. AP 5\.** Kunai frame. Speed 8; Stamina 8; Damage 3d6; Accuracy \+0 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 1\.
 
 **Installed Components:** Reinforced Edge 1, Calibrated Balance 1\.
 
-**Breacher Kunai — 13,000 Ryō. AP 6\.** Kunai frame. Speed 8; Stamina 9; Damage 3d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
+**Breacher Kunai — 6,500 Ryō. AP 6\.** Kunai frame. Speed 8; Stamina 9; Damage 3d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
 
 **Installed Components:** Armor-Piercing Tip, Reinforced Edge 1\. On a full hit, treat Armor Absorption as 10 percentage points lower, minimum 0%.
 
-**Wirehook Kunai — 10,000 Ryō. AP 5\.** Kunai frame. Speed 8; Stamina 8; Damage 2d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
+**Wirehook Kunai — 5,000 Ryō. AP 5\.** Kunai frame. Speed 8; Stamina 8; Damage 2d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
 
 **Installed Components:** Reinforced Ring, Returning Wire. Gain \+2 Accuracy when attaching or delivering Ninja Wire through a compatible Jutsu or rule. When attached to Ninja Wire, retrieve the unattended weapon from up to 10 yards away as a Speed 3 Utility action if its path is unobstructed.
 
-**Longwing Kunai — 13,000 Ryō. AP 6\.** Kunai frame. Speed 8; Stamina 9; Damage 3d6; Accuracy \+0 (+1 on single-projectile Attacks); Range 10 \+ STR/4; Delay 1\.
+**Longwing Kunai — 6,500 Ryō. AP 6\.** Kunai frame. Speed 8; Stamina 9; Damage 3d6; Accuracy \+0 (+1 on single-projectile Attacks); Range 10 \+ STR/4; Delay 1\.
 
 **Installed Components:** Aerodynamic Profile 1, Calibrated Balance 1\.
 
-**Quickstar — 6,000 Ryō. AP 3\.** Shuriken frame. Speed 5; Stamina 5; Damage 1d6; Accuracy \+2 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 0\.
+**Quickstar — 3,000 Ryō. AP 3\.** Shuriken frame. Speed 5; Stamina 5; Damage 1d6; Accuracy \+2 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 0\.
 
 **Installed Components:** Calibrated Balance 1\.
 
-**Precision Star — 10,000 Ryō. AP 5\.** Shuriken frame. Speed 5; Stamina 5; Damage 2d6; Accuracy \+2 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 0\.
+**Precision Star — 5,000 Ryō. AP 5\.** Shuriken frame. Speed 5; Stamina 5; Damage 2d6; Accuracy \+2 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 0\.
 
 **Installed Components:** Reinforced Edge 1, Calibrated Balance 1\.
 
-**Razor Star — 14,000 Ryō. AP 7\.** Shuriken frame. Speed 5; Stamina 6; Damage 2d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
+**Razor Star — 7,000 Ryō. AP 7\.** Shuriken frame. Speed 5; Stamina 6; Damage 2d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
 
 **Installed Components:** Honed Geometry 2, Razor Edges. \+15% Wounding when dealing Slashing Damage.
 
-**Splitter Star — 13,000 Ryō. AP 6\.** Shuriken frame. Speed 5; Stamina 6; Damage 3d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
+**Splitter Star — 6,500 Ryō. AP 6\.** Shuriken frame. Speed 5; Stamina 6; Damage 3d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
 
 **Installed Components:** Splitting Star, Reinforced Edge 1\. On a full hit with a single-projectile Attack, add \+1 Damage Die, for 4d6 total. Splitting Star does not function during Multi-Throw or Volley.
 
@@ -1561,31 +1561,31 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 
 All prices below purchase one batch of ten identical Arrows or Bolts. Ammo AP is separate from Weapon AP and does not count toward wielding requirements. Each shot consumes one piece of ammunition; recovered ammunition may be reused where appropriate.
 
-**Standard Arrow — 5,000 Ryō per ten. Ammo AP 0\.** 10 Arrows; d12 Piercing.
+**Standard Arrow — 2,500 Ryō per ten. Ammo AP 0\.** 10 Arrows; d12 Piercing.
 
-**Piercing Arrow — 5,000 Ryō per ten. Ammo AP 0\.** 10 Arrows; d8 Piercing. Ignore Armor.
+**Piercing Arrow — 2,500 Ryō per ten. Ammo AP 0\.** 10 Arrows; d8 Piercing. Ignore Armor.
 
-**Standard Bolt — 5,000 Ryō per ten. Ammo AP 0\.** 10 Bolts; d10 Piercing.
+**Standard Bolt — 2,500 Ryō per ten. Ammo AP 0\.** 10 Bolts; d10 Piercing.
 
-**Bodkin Bolt — 8,000 Ryō per ten. Ammo AP 1\.** 10 Bolts; d8 Piercing. On a full hit, treat Armor Absorption as 10 percentage points lower, minimum 0%.
+**Bodkin Bolt — 4,000 Ryō per ten. Ammo AP 1\.** 10 Bolts; d8 Piercing. On a full hit, treat Armor Absorption as 10 percentage points lower, minimum 0%.
 
-**Razorhead Arrow or Bolt — 8,000 Ryō per ten. Ammo AP 1\.** 10 Arrows or Bolts; d10 Slashing. \+5% Wounding when dealing Slashing Damage.
+**Razorhead Arrow or Bolt — 4,000 Ryō per ten. Ammo AP 1\.** 10 Arrows or Bolts; d10 Slashing. \+5% Wounding when dealing Slashing Damage.
 
-**Blunt Arrow or Bolt — 8,000 Ryō per ten. Ammo AP 1\.** 10 Arrows or Bolts; d10 Blunt. On a full hit, may attempt Knockback 2 using the normal Status rules.
+**Blunt Arrow or Bolt — 4,000 Ryō per ten. Ammo AP 1\.** 10 Arrows or Bolts; d10 Blunt. On a full hit, may attempt Knockback 2 using the normal Status rules.
 
-**Longshot Arrow — 8,000 Ryō per ten. Ammo AP 1\.** 10 Arrows; d10 Piercing. Increase listed Attack Range by 20% and Delay by 1\.
+**Longshot Arrow — 4,000 Ryō per ten. Ammo AP 1\.** 10 Arrows; d10 Piercing. Increase listed Attack Range by 20% and Delay by 1\.
 
-**Longshot Bolt — 8,000 Ryō per ten. Ammo AP 1\.** 10 Bolts; d8 Piercing. Increase listed Attack Range by 20% and Delay by 1\.
+**Longshot Bolt — 4,000 Ryō per ten. Ammo AP 1\.** 10 Bolts; d8 Piercing. Increase listed Attack Range by 20% and Delay by 1\.
 
-**Tracking Arrow or Bolt — 8,000 Ryō per ten. Ammo AP 1\.** 10 Arrows or Bolts; d8 Piercing. On a full hit, mark the target with alchemical dye and scent. Gain \+2 Survival to track it for the rest of the scene.
+**Tracking Arrow or Bolt — 4,000 Ryō per ten. Ammo AP 1\.** 10 Arrows or Bolts; d8 Piercing. On a full hit, mark the target with alchemical dye and scent. Gain \+2 Survival to track it for the rest of the scene.
 
-**Barbed Arrow or Bolt — 11,000 Ryō per ten. Ammo AP 2\.** 10 Arrows or Bolts; d10 Piercing. If a Wound inflicted by the Attack applies Bleed, increase that Bleed by 1, maximum once per Attack.
+**Barbed Arrow or Bolt — 5,500 Ryō per ten. Ammo AP 2\.** 10 Arrows or Bolts; d10 Piercing. If a Wound inflicted by the Attack applies Bleed, increase that Bleed by 1, maximum once per Attack.
 
-**Wireline Arrow or Bolt — 11,000 Ryō per ten. Ammo AP 2\.** 10 Arrows or Bolts; d8 Piercing. Leaves up to 10 yards of attached Ninja Wire at the point of impact.
+**Wireline Arrow or Bolt — 5,500 Ryō per ten. Ammo AP 2\.** 10 Arrows or Bolts; d8 Piercing. Leaves up to 10 yards of attached Ninja Wire at the point of impact.
 
-**Razorhead Longshot Arrow or Bolt — 11,000 Ryō per ten. Ammo AP 2\.** 10 Arrows or Bolts; d8 Slashing. \+5% Wounding when dealing Slashing Damage; increase listed Attack Range by 20% and Delay by 1\.
+**Razorhead Longshot Arrow or Bolt — 5,500 Ryō per ten. Ammo AP 2\.** 10 Arrows or Bolts; d8 Slashing. \+5% Wounding when dealing Slashing Damage; increase listed Attack Range by 20% and Delay by 1\.
 
-Fūma Shuriken cost 10,000 Ryō each. Ninja Wire costs 1,000 Ryō per 5 yards and is purchased separately. Retrieving or recovering fired Kunai, Shuriken, Arrows, or Bolts uses the normal Equipment rules and the applicable weapon effects.
+Fūma Shuriken cost 5,000 Ryō each. Ninja Wire costs 500 Ryō per 5 yards and is purchased separately. Retrieving or recovering fired Kunai, Shuriken, Arrows, or Bolts uses the normal Equipment rules and the applicable weapon effects.
 
 ### Other Ranged Weapons
 {:#other-ranged-weapons}
