@@ -368,7 +368,7 @@ Shuriken Launchers trade the hand-thrown Shuriken's extreme Speed for greater Ra
 ##### Yumi
 {:#yumi}
 
-Cost: 15,000 Ryō. \[Medium, Two-Handed, Bow, Projectile\]. Speed 14; Stamina 15; Damage (STR/10)dS; Accuracy \-8; Range STR/2; Delay 2\.
+Cost: 7,500 Ryō. \[Medium, Two-Handed, Bow, Projectile\]. Speed 14; Stamina 15; Damage (STR/10)dS; Accuracy \-8; Range STR/2; Delay 2\.
 
 The ammunition determines dS. The Yumi uses 1.5 times your normal Physical Damage Bonus.
 
@@ -377,7 +377,7 @@ Aim \[Speed 8, Utility\]: Gain \+3 Accuracy on your next Yumi Attack. You may Ai
 ##### Daikyu
 {:#daikyu}
 
-Cost: 25,000 Ryō. \[Large, Two-Handed, Bow, Projectile\]. Speed 20; Stamina 20; Damage (STR/8)dS; Accuracy \-10; Range STR; Delay 4\.
+Cost: 12,500 Ryō. \[Large, Two-Handed, Bow, Projectile\]. Speed 20; Stamina 20; Damage (STR/8)dS; Accuracy \-10; Range STR; Delay 4\.
 
 The ammunition determines dS. The Daikyu uses twice your normal Physical Damage Bonus.
 
@@ -390,17 +390,17 @@ Crossbows store mechanical tension rather than relying on the wielder's Strength
 ##### Hand Crossbow
 {:#hand-crossbow}
 
-Cost: 12,000 Ryō. \[Small, One-Handed, Crossbow, Projectile\]. Speed 11; Stamina 10; Damage 4dS; Accuracy \-4; Range 20 \+ STR/5; Delay 2; Capacity 1; Reload 5; Durability 35\.
+Cost: 6,000 Ryō. \[Small, One-Handed, Crossbow, Projectile\]. Speed 11; Stamina 10; Damage 4dS; Accuracy \-4; Range 20 \+ STR/5; Delay 2; Capacity 1; Reload 5; Durability 35\.
 
 ##### Hunting Crossbow
 {:#hunting-crossbow}
 
-Cost: 20,000 Ryō. \[Medium, Two-Handed, Crossbow, Projectile\]. Speed 13; Stamina 13; Damage 7dS; Accuracy \-5; Range 30 \+ STR/4; Delay 2; Capacity 1; Reload 6; Durability 45\.
+Cost: 10,000 Ryō. \[Medium, Two-Handed, Crossbow, Projectile\]. Speed 13; Stamina 13; Damage 7dS; Accuracy \-5; Range 30 \+ STR/4; Delay 2; Capacity 1; Reload 6; Durability 45\.
 
 ##### Heavy Arbalest
 {:#heavy-arbalest}
 
-Cost: 30,000 Ryō. \[Large, Two-Handed, Crossbow, Projectile\]. Speed 16; Stamina 17; Damage 9dS; Accuracy \-6; Range 40 \+ STR/4; Delay 4; Capacity 1; Reload 9; Durability 60\.
+Cost: 15,000 Ryō. \[Large, Two-Handed, Crossbow, Projectile\]. Speed 16; Stamina 17; Damage 9dS; Accuracy \-6; Range 40 \+ STR/4; Delay 4; Capacity 1; Reload 9; Durability 60\.
 
 The Heavy Arbalest must be operated with both hands and cannot be Reloaded while moving.
 
@@ -426,28 +426,28 @@ Launcher Range is provided by the mechanism and does not scale with STR unless a
 ##### Wrist Launcher
 {:#wrist-launcher}
 
-Cost: 10,000 Ryō. \[Small, One-Handed, Launcher, Kunai, Projectile\]. Speed 8; Stamina 8; Accuracy \+0; Range 15; Delay 1; Capacity 3; Volley Limit 3; Reload 5; Durability 30\.
+Cost: 5,000 Ryō. \[Small, One-Handed, Launcher, Kunai, Projectile\]. Speed 8; Stamina 8; Accuracy \+0; Range 15; Delay 1; Capacity 3; Volley Limit 3; Reload 5; Durability 30\.
 
 The Wrist Launcher may make single-projectile Basic Weapon Attacks. It does not possess Volley unless it purchases the Volley Mechanism Component.
 
 ##### Repeating Kunai Launcher
 {:#repeating-kunai-launcher}
 
-Cost: 18,000 Ryō. \[Medium, Two-Handed, Launcher, Kunai, Projectile\]. Speed 10; Stamina 10; Accuracy \+1; Range 25; Delay 1; Capacity 6; Volley Limit 5; Reload 6; Durability 40\.
+Cost: 9,000 Ryō. \[Medium, Two-Handed, Launcher, Kunai, Projectile\]. Speed 10; Stamina 10; Accuracy \+1; Range 25; Delay 1; Capacity 6; Volley Limit 5; Reload 6; Durability 40\.
 
 The Repeating Kunai Launcher possesses Volley.
 
 ##### Rotary Shuriken Launcher
 {:#rotary-shuriken-launcher}
 
-Cost: 18,000 Ryō. \[Medium, Two-Handed, Launcher, Shuriken, Projectile\]. Speed 8; Stamina 9; Accuracy \-1; Range 25; Delay 1; Capacity 8; Volley Limit 6; Reload 6; Durability 40\.
+Cost: 9,000 Ryō. \[Medium, Two-Handed, Launcher, Shuriken, Projectile\]. Speed 8; Stamina 9; Accuracy \-1; Range 25; Delay 1; Capacity 8; Volley Limit 6; Reload 6; Durability 40\.
 
 The Rotary Shuriken Launcher possesses Volley. A Shuriken's printed \+2 Accuracy still applies when fired through a Launcher, so a Rotary Shuriken Launcher firing ordinary Shuriken has \+1 total Accuracy.
 
 ##### Heavy Shuriken Launcher
 {:#heavy-shuriken-launcher}
 
-Cost: 26,000 Ryō. \[Large, Two-Handed, Launcher, Shuriken, Projectile\]. Speed 12; Stamina 15; Accuracy \-2; Range 35; Delay 2; Capacity 8; Volley Limit 4; Reload 7; Durability 55\.
+Cost: 13,000 Ryō. \[Large, Two-Handed, Launcher, Shuriken, Projectile\]. Speed 12; Stamina 15; Accuracy \-2; Range 35; Delay 2; Capacity 8; Volley Limit 4; Reload 7; Durability 55\.
 
 The Heavy Shuriken Launcher possesses Volley and may purchase the Fūma Cradle Component. A Shuriken's printed \+2 Accuracy still applies when fired through it.
 
@@ -553,12 +553,12 @@ Kunai and Shuriken are reusable weapons rather than consumable ammunition. Throw
 ##### Kunai
 {:#kunai}
 
-Cost: 300 Ryō. \[Piercing, Thrown, Melee, Projectile\]. Speed 8; Stamina 8; Damage 2d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
+Cost: 150 Ryō. \[Piercing, Thrown, Melee, Projectile\]. Speed 8; Stamina 8; Damage 2d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
 
 ##### Shuriken
 {:#shuriken}
 
-Cost: 300 Ryō. \[Slashing, Thrown, Projectile\]. Speed 5; Stamina 5; Damage 1d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
+Cost: 150 Ryō. \[Slashing, Thrown, Projectile\]. Speed 5; Stamina 5; Damage 1d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
 
 A custom Kunai or Shuriken costs its stock price \+ (1,500 × Final AP). Its Crafting TN is 15 \+ (4 × Final AP). A crafted projectile's Final AP cannot exceed the creator's Artisan ranks and follows the normal Athletics \+10 wielding restriction.
 
@@ -607,7 +607,7 @@ If several different crafted patterns contribute to the same Attack, use only th
 
 Bows and Crossbows use consumable ammunition patterns. Arrows and Bolts are purchased and crafted in batches of ten. Unless another effect says otherwise, firing an Arrow or Bolt consumes one piece of ammunition. Ammunition recovered after an encounter may be reused where appropriate.
 
-An ammunition pattern may have a maximum of 2 Ammo AP. Ammunition may be crafted using Artisan (Weapon) or Artisan (Craftsman). Crafting TN is 15 \+ (4 × Ammo AP). Batch Cost is 5,000 Ryō \+ (2,000 × Ammo AP). Each crafting attempt produces a batch of ten identical pieces of ammunition. You must possess Artisan ranks equal to or greater than the pattern's Ammo AP.
+An ammunition pattern may have a maximum of 2 Ammo AP. Ammunition may be crafted using Artisan (Weapon) or Artisan (Craftsman). Crafting TN is 15 \+ (4 × Ammo AP). Batch Cost is 2,500 Ryō \+ (1,000 × Ammo AP). Each crafting attempt produces a batch of ten identical pieces of ammunition. You must possess Artisan ranks equal to or greater than the pattern's Ammo AP.
 
 ##### Ammunition Patterns
 {:#ammunition-patterns}
@@ -700,7 +700,7 @@ It may fire a single Shuriken, fire a Volley, or launch its loaded Fūma Shurike
 
 So… You want to create your own armor, huh? Maybe you’re too poor to afford the prices of all these sets of armor ,or maybe you simply don’t think what’s on the market is stylish enough to fit your fabulous aesthetics, either way, you’ve found yourself here as an Armorsmith.
 
-You can craft weapons with X Artisan Points up to a max of your Artisan Ranks which you can spend on its traits (see below). Weapons have a crafting TN of 15 \+ 3\*X and a cost of 5 \+ X thousand ryo. This consists of the cost for resources, tools, and any extra parts necessary.
+You can craft armor with X Artisan Points up to a max of your Artisan Ranks which you can spend on its traits (see below). Armor has a crafting TN of 15 \+ 3\*X and a cost of 2,500 \+ (500 × X) Ryō, where X is its Final Artisan Points. This consists of the cost for resources, tools, and any extra parts necessary.
 
 ### Armor Category
 {:#armor-category}
@@ -842,33 +842,33 @@ Armor Immobilization and Stealth penalties stack across all worn pieces. Reduce 
 
 ### Mobile Armor
 
-**Hooded Scout Cowl — 8,000 Ryō. AP 3.** Mobile Head armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -2 Awareness. No additional Basic Features, Unique Features or Wondrous Materials.
+**Hooded Scout Cowl — 4,000 Ryō. AP 3.** Mobile Head armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -2 Awareness. No additional Basic Features, Unique Features or Wondrous Materials.
 
-**Padded Hunter Vest — 9,000 Ryō. AP 4.** Mobile Torso / Abdomen armor. Durability 150; Absorption 10%; Armor Immobilization -1; Stealth -1; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -1 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+**Padded Hunter Vest — 4,500 Ryō. AP 4.** Mobile Torso / Abdomen armor. Durability 150; Absorption 10%; Armor Immobilization -1; Stealth -1; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -1 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
 
-**Leather Bracers — 7,000 Ryō. AP 2.** Mobile Arms / Hands armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +2 Seal Speed. No additional Basic Features, Unique Features or Wondrous Materials.
+**Leather Bracers — 3,500 Ryō. AP 2.** Mobile Arms / Hands armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +2 Seal Speed. No additional Basic Features, Unique Features or Wondrous Materials.
 
-**Trailrunner Greaves — 7,000 Ryō. AP 2.** Mobile Legs / Feet armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -10% Movement Speed; -2 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+**Trailrunner Greaves — 3,500 Ryō. AP 2.** Mobile Legs / Feet armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -10% Movement Speed; -2 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
 
 ### Protective Armor
 
-**Reinforced Field Helm — 7,000 Ryō. AP 2.** Protective Head armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -4 Awareness; consecutive searches gain one less bonus. No additional Basic Features, Unique Features or Wondrous Materials.
+**Reinforced Field Helm — 3,500 Ryō. AP 2.** Protective Head armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -4 Awareness; consecutive searches gain one less bonus. No additional Basic Features, Unique Features or Wondrous Materials.
 
-**Hunter Half-Plate — 8,000 Ryō. AP 3.** Protective Torso / Abdomen armor. Durability 250; Absorption 15%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -3 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+**Hunter Half-Plate — 4,000 Ryō. AP 3.** Protective Torso / Abdomen armor. Durability 250; Absorption 15%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -3 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
 
-**Chainmail Vambraces — 6,000 Ryō. AP 1.** Protective Arms / Hands armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +3 Seal Speed; -1 Parry. No additional Basic Features, Unique Features or Wondrous Materials.
+**Chainmail Vambraces — 3,000 Ryō. AP 1.** Protective Arms / Hands armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +3 Seal Speed; -1 Parry. No additional Basic Features, Unique Features or Wondrous Materials.
 
-**Steel-Shod Legguards — 6,000 Ryō. AP 1.** Protective Legs / Feet armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -15% Movement Speed; -3 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+**Steel-Shod Legguards — 3,000 Ryō. AP 1.** Protective Legs / Feet armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -15% Movement Speed; -3 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
 
 ### Encased Armor
 
-**Ironclad War Helm — 9,000 Ryō. AP 4.** Encased Head armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -5 Awareness; consecutive searches gain two less bonus. No additional Basic Features, Unique Features or Wondrous Materials.
+**Ironclad War Helm — 4,500 Ryō. AP 4.** Encased Head armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -5 Awareness; consecutive searches gain two less bonus. No additional Basic Features, Unique Features or Wondrous Materials.
 
-**Fortress Cuirass — 10,000 Ryō. AP 5.** Encased Torso / Abdomen armor. Durability 350; Absorption 20%; Armor Immobilization -3; Stealth -3; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -4 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+**Fortress Cuirass — 5,000 Ryō. AP 5.** Encased Torso / Abdomen armor. Durability 350; Absorption 20%; Armor Immobilization -3; Stealth -3; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -4 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
 
-**Full Plate Gauntlets — 8,000 Ryō. AP 3.** Encased Arms / Hands armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. No additional Basic Features, Unique Features or Wondrous Materials.
+**Full Plate Gauntlets — 4,000 Ryō. AP 3.** Encased Arms / Hands armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. No additional Basic Features, Unique Features or Wondrous Materials.
 
-**Bastion Sabatons — 8,000 Ryō. AP 3.** Encased Legs / Feet armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -20% Movement Speed; -5 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+**Bastion Sabatons — 4,000 Ryō. AP 3.** Encased Legs / Feet armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -20% Movement Speed; -5 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
 
 [Browse the illustrated Pre-Made Armor Catalogue]({{ '/rules/standard-armor/' | relative_url }})
 
@@ -1428,131 +1428,131 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 ##### Bows
 {:#bows-2}
 
-**Trail Yumi — 10,500 Ryō. AP 3\.** Yumi frame. Speed 14; Stamina 15; Damage (STR/10)dS; Accuracy \-8; Range STR/2 (+10%); Delay 2\.
+**Trail Yumi — 5,250 Ryō. AP 3\.** Yumi frame. Speed 14; Stamina 15; Damage (STR/10)dS; Accuracy \-8; Range STR/2 (+10%); Delay 2\.
 
 **Installed Components:** Long-Limb Design 1\. Aim Speed 8; each Aim grants \+3 Accuracy, maximum two.
 
-**Scout Yumi — 14,000 Ryō. AP 7\.** Yumi frame. Speed 14; Stamina 16; Damage (STR/10 \+ 1)dS; Accuracy \-8; Range STR/2; Delay 2\.
+**Scout Yumi — 7,000 Ryō. AP 7\.** Yumi frame. Speed 14; Stamina 16; Damage (STR/10 \+ 1)dS; Accuracy \-8; Range STR/2; Delay 2\.
 
 **Installed Components:** Quiet String, Pivoting Grip. \+2 Stealth to remain hidden after firing. May voluntarily move up to 2 yards without losing accumulated Yumi Aim.
 
-**Quickdraw Yumi — 14,000 Ryō. AP 7\.** Yumi frame. Speed 14; Stamina 16; Damage (STR/10 \+ 1)dS; Accuracy \-8 (+1 on Aimed Attacks); Range STR/2; Delay 2\.
+**Quickdraw Yumi — 7,000 Ryō. AP 7\.** Yumi frame. Speed 14; Stamina 16; Damage (STR/10 \+ 1)dS; Accuracy \-8 (+1 on Aimed Attacks); Range STR/2; Delay 2\.
 
 **Installed Components:** Quick-Draw Mechanism, Sighting Bead 1\. Aim Speed 6\. Each Aim grants \+3 Accuracy; maximum two.
 
-**Longshot Daikyu — 16,000 Ryō. AP 3\.** Daikyu frame. Speed 20; Stamina 20; Damage (STR/8)dS; Accuracy \-10; Range STR (+10%); Delay 4\.
+**Longshot Daikyu — 8,000 Ryō. AP 3\.** Daikyu frame. Speed 20; Stamina 20; Damage (STR/8)dS; Accuracy \-10; Range STR (+10%); Delay 4\.
 
 **Installed Components:** Long-Limb Design 1\. Aim Speed 10; each Aim grants \+4 Accuracy, maximum two. An action requiring movement removes accumulated Aim.
 
-**Watchtower Daikyu — 21,000 Ryō. AP 9\.** Daikyu frame. Speed 20; Stamina 21; Damage (STR/8 \+ 1)dS; Accuracy \-10 (+1 on Aimed Attacks); Range STR (+20%); Delay 4\.
+**Watchtower Daikyu — 10,500 Ryō. AP 9\.** Daikyu frame. Speed 20; Stamina 21; Damage (STR/8 \+ 1)dS; Accuracy \-10 (+1 on Aimed Attacks); Range STR (+20%); Delay 4\.
 
 **Installed Components:** Long-Limb Design 2, Sighting Bead 1\. Aim Speed 10\. Each Aim grants \+4 Accuracy; maximum two. An action requiring movement removes accumulated Aim.
 
 ##### Crossbows
 {:#crossbows-2}
 
-**Field Hand Crossbow — 10,000 Ryō. AP 4\.** Hand Crossbow frame. Speed 11; Stamina 10; Damage 4dS; Accuracy \-4; Range 20 \+ STR/5; Delay 2; Capacity 1; Reload 3; Durability 35\.
+**Field Hand Crossbow — 5,000 Ryō. AP 4\.** Hand Crossbow frame. Speed 11; Stamina 10; Damage 4dS; Accuracy \-4; Range 20 \+ STR/5; Delay 2; Capacity 1; Reload 3; Durability 35\.
 
 **Installed Components:** Quick Windlass. Crossbow Aim: Speed 5, \+2 Accuracy on the next Crossbow Attack if you do not voluntarily move beforehand.
 
-**Skirmisher Crossbow — 12,500 Ryō. AP 7\.** Hand Crossbow frame. Speed 11; Stamina 11; Damage 5dS; Accuracy \-4; Range 20 \+ STR/5; Delay 2; Capacity 1; Reload 3; Durability 42\.
+**Skirmisher Crossbow — 6,250 Ryō. AP 7\.** Hand Crossbow frame. Speed 11; Stamina 11; Damage 5dS; Accuracy \-4; Range 20 \+ STR/5; Delay 2; Capacity 1; Reload 3; Durability 42\.
 
 **Installed Components:** Quick Windlass, Reinforced Housing. Crossbow Aim: Speed 5, \+2 Accuracy on the next Crossbow Attack if you do not voluntarily move beforehand.
 
-**Twinbolt Hunting Crossbow — 18,500 Ryō. AP 9\.** Hunting Crossbow frame. Speed 13; Stamina 14; Damage 8dS; Accuracy \-5; Range 30 \+ STR/4; Delay 2; Capacity 2; Reload 6; Durability 45\.
+**Twinbolt Hunting Crossbow — 9,250 Ryō. AP 9\.** Hunting Crossbow frame. Speed 13; Stamina 14; Damage 8dS; Accuracy \-5; Range 30 \+ STR/4; Delay 2; Capacity 2; Reload 6; Durability 45\.
 
 **Installed Components:** Double Channel, Quick Windlass. Holds two Bolts; each normal Attack fires one. Crossbow Aim: Speed 5, \+2 Accuracy on the next Crossbow Attack if you do not voluntarily move beforehand.
 
-**Farshot Hunting Crossbow — 18,500 Ryō. AP 9\.** Hunting Crossbow frame. Speed 13; Stamina 14; Damage 8dS; Accuracy \-5 (+1 on Aimed Attacks); Range (30 \+ STR/4) (+20%); Delay 2; Capacity 1; Reload 6; Durability 45\.
+**Farshot Hunting Crossbow — 9,250 Ryō. AP 9\.** Hunting Crossbow frame. Speed 13; Stamina 14; Damage 8dS; Accuracy \-5 (+1 on Aimed Attacks); Range (30 \+ STR/4) (+20%); Delay 2; Capacity 1; Reload 6; Durability 45\.
 
 **Installed Components:** Long-Limb Design 2, Sighting Bead 1\. Crossbow Aim: Speed 5, \+2 Accuracy on the next Crossbow Attack if you do not voluntarily move beforehand.
 
-**Siege Arbalest — 23,500 Ryō. AP 9\.** Heavy Arbalest frame. Speed 16; Stamina 18; Damage 12dS; Accuracy \-6; Range 40 \+ STR/4; Delay 5; Capacity 1; Reload 9; Durability 60\.
+**Siege Arbalest — 11,750 Ryō. AP 9\.** Heavy Arbalest frame. Speed 16; Stamina 18; Damage 12dS; Accuracy \-6; Range 40 \+ STR/4; Delay 5; Capacity 1; Reload 9; Durability 60\.
 
 **Installed Components:** Reinforced Winch, Quick Windlass. Requires both hands and remains stationary while Reloading. Crossbow Aim: Speed 5, \+2 Accuracy on the next Crossbow Attack if you do not voluntarily move beforehand.
 
 ##### Kunai Launchers
 {:#kunai-launchers-2}
 
-**Wristline Launcher — 8,000 Ryō. AP 3\.** Wrist Launcher frame. Speed 8; Stamina 8; Accuracy \+0; Range 15; Delay 1; Capacity 3; Volley Limit 3; Reload 5; Durability 30\.
+**Wristline Launcher — 4,000 Ryō. AP 3\.** Wrist Launcher frame. Speed 8; Stamina 8; Accuracy \+0; Range 15; Delay 1; Capacity 3; Volley Limit 3; Reload 5; Durability 30\.
 
 **Installed Components:** Retrieval Spool. May fire Kunai attached to up to 10 yards of Ninja Wire and retrieve a launched Kunai with an unobstructed path as a Speed 3 Utility action.
 
-**Wirecaster — 13,500 Ryō. AP 9\.** Wrist Launcher frame. Speed 8; Stamina 9; Accuracy \+0; Range 15; Delay 1; Capacity 5; Volley Limit 3; Reload 5; Durability 30\.
+**Wirecaster — 6,750 Ryō. AP 9\.** Wrist Launcher frame. Speed 8; Stamina 9; Accuracy \+0; Range 15; Delay 1; Capacity 5; Volley Limit 3; Reload 5; Durability 30\.
 
 **Installed Components:** Retrieval Spool, Expanded Magazine 1, Volley Mechanism. Gains Volley and \+1 Launcher Damage Die per Attack. May fire Kunai attached to up to 10 yards of Ninja Wire and retrieve a launched Kunai with an unobstructed path as a Speed 3 Utility action.
 
-**Field Repeater — 12,000 Ryō. AP 3\.** Repeating Kunai Launcher frame. Speed 10; Stamina 10; Accuracy \+1; Range 30; Delay 1; Capacity 6; Volley Limit 5; Reload 6; Durability 40\.
+**Field Repeater — 6,000 Ryō. AP 3\.** Repeating Kunai Launcher frame. Speed 10; Stamina 10; Accuracy \+1; Range 30; Delay 1; Capacity 6; Volley Limit 5; Reload 6; Durability 40\.
 
 **Installed Components:** Extended Guide 1\. Possesses Volley.
 
-**Barrage Repeater — 16,500 Ryō. AP 8\.** Repeating Kunai Launcher frame. Speed 10; Stamina 11; Accuracy \+1; Range 25; Delay 1; Capacity 10; Volley Limit 5; Reload 6; Durability 40\.
+**Barrage Repeater — 8,250 Ryō. AP 8\.** Repeating Kunai Launcher frame. Speed 10; Stamina 11; Accuracy \+1; Range 25; Delay 1; Capacity 10; Volley Limit 5; Reload 6; Durability 40\.
 
 **Installed Components:** Expanded Magazine 2, Rapid Index. Gains \+1 Launcher Damage Die per Attack. Ignore the first \+1 Final Speed increase imposed by Volley.
 
-**Rescue Repeater — 16,500 Ryō. AP 8\.** Repeating Kunai Launcher frame. Speed 10; Stamina 11; Accuracy \+1; Range 25; Delay 1; Capacity 8; Volley Limit 5; Reload 6; Durability 40\.
+**Rescue Repeater — 8,250 Ryō. AP 8\.** Repeating Kunai Launcher frame. Speed 10; Stamina 11; Accuracy \+1; Range 25; Delay 1; Capacity 8; Volley Limit 5; Reload 6; Durability 40\.
 
 **Installed Components:** Retrieval Spool, Split Feed, Expanded Magazine 1\. Gains \+1 Launcher Damage Die per Attack. Volley may include two different loaded Kunai patterns. May fire Kunai attached to 10 yards of Ninja Wire and retrieve a launched Kunai with an unobstructed path as a Speed 3 Utility action.
 
 ##### Shuriken Launchers
 {:#shuriken-launchers-2}
 
-**Deep-Mag Rotary — 11,000 Ryō. AP 2\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 9; Accuracy \-1 (+2 with ordinary Shuriken); Range 25; Delay 1; Capacity 10; Volley Limit 6; Reload 6; Durability 40\.
+**Deep-Mag Rotary — 5,500 Ryō. AP 2\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 9; Accuracy \-1 (+2 with ordinary Shuriken); Range 25; Delay 1; Capacity 10; Volley Limit 6; Reload 6; Durability 40\.
 
 **Installed Components:** Expanded Magazine 1\. Possesses Volley.
 
-**Stormwheel — 16,500 Ryō. AP 8\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 10; Accuracy \-1 (+2 with ordinary Shuriken); Range 25; Delay 1; Capacity 12; Volley Limit 6; Reload 6; Durability 40\.
+**Stormwheel — 8,250 Ryō. AP 8\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 10; Accuracy \-1 (+2 with ordinary Shuriken); Range 25; Delay 1; Capacity 12; Volley Limit 6; Reload 6; Durability 40\.
 
 **Installed Components:** Expanded Magazine 2, Rapid Index. Gains \+1 Launcher Damage Die per Attack. Ignore the first \+1 Final Speed increase imposed by Volley.
 
-**Marksman Rotary — 17,500 Ryō. AP 9\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 10; Accuracy \-1 (+2 with ordinary Shuriken); Range 35; Delay 1; Capacity 8; Volley Limit 6; Reload 6; Durability 40\.
+**Marksman Rotary — 8,750 Ryō. AP 9\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 10; Accuracy \-1 (+2 with ordinary Shuriken); Range 35; Delay 1; Capacity 8; Volley Limit 6; Reload 6; Durability 40\.
 
 **Installed Components:** Extended Guide 2, Split Feed. Gains \+1 Launcher Damage Die per Attack. Volley may include two different loaded Shuriken patterns.
 
-**Ironstorm — 23,500 Ryō. AP 11\.** Heavy Shuriken Launcher frame. Speed 12; Stamina 16; Accuracy \-2 (+2 with ordinary Shuriken); Range 40; Delay 2; Capacity 12; Volley Limit 4; Reload 7; Durability 55\.
+**Ironstorm — 11,750 Ryō. AP 11\.** Heavy Shuriken Launcher frame. Speed 12; Stamina 16; Accuracy \-2 (+2 with ordinary Shuriken); Range 40; Delay 2; Capacity 12; Volley Limit 4; Reload 7; Durability 55\.
 
 **Installed Components:** Expanded Magazine 2, Rapid Index, Extended Guide 1\. Gains \+1 Launcher Damage Die per Attack. Ignore the first \+1 Final Speed increase imposed by Volley.
 
-**The Black Rain — 26,500 Ryō. AP 13\.** Heavy Shuriken Launcher frame. Speed 12; Stamina 17; Accuracy \-2 (+2 with ordinary Shuriken); Range 40; Delay 2; Capacity 10; Volley Limit 4; Reload 7; Durability 55 (+10%).
+**The Black Rain — 13,250 Ryō. AP 13\.** Heavy Shuriken Launcher frame. Speed 12; Stamina 17; Accuracy \-2 (+2 with ordinary Shuriken); Range 40; Delay 2; Capacity 10; Volley Limit 4; Reload 7; Durability 55 (+10%).
 
 **Installed Components:** Fūma Cradle, Extended Guide 1, Expanded Magazine 1, Sturdy 1\. Gains \+2 Launcher Damage Dice per Attack and a separate one-Fūma chamber. Fūma Launch: Speed 16; Stamina 20; Delay 5; Damage (4 \+ STR/12 \+ 2)d12; Reload 8\. Use the greater of the current Launcher Range and STR/3 for Fūma Launch; retain the Fūma Shuriken’s normal hit-margin and Wounding effects.
 
 ##### Ready-Made Kunai and Shuriken
 {:#ready-made-kunai-and-shuriken}
 
-**Edge-Honed Kunai — 2,250 Ryō. AP 2\.** Kunai frame. Speed 8; Stamina 8; Damage 3d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
+**Edge-Honed Kunai — 1,125 Ryō. AP 2\.** Kunai frame. Speed 8; Stamina 8; Damage 3d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
 
 **Installed Components:** Reinforced Edge 1\.
 
-**Precision Kunai — 5,000 Ryō. AP 5\.** Kunai frame. Speed 8; Stamina 8; Damage 3d6; Accuracy \+0 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 1\.
+**Precision Kunai — 2,500 Ryō. AP 5\.** Kunai frame. Speed 8; Stamina 8; Damage 3d6; Accuracy \+0 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 1\.
 
 **Installed Components:** Reinforced Edge 1, Calibrated Balance 1\.
 
-**Breacher Kunai — 6,500 Ryō. AP 6\.** Kunai frame. Speed 8; Stamina 9; Damage 3d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
+**Breacher Kunai — 3,250 Ryō. AP 6\.** Kunai frame. Speed 8; Stamina 9; Damage 3d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
 
 **Installed Components:** Armor-Piercing Tip, Reinforced Edge 1\. On a full hit, treat Armor Absorption as 10 percentage points lower, minimum 0%.
 
-**Wirehook Kunai — 5,000 Ryō. AP 5\.** Kunai frame. Speed 8; Stamina 8; Damage 2d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
+**Wirehook Kunai — 2,500 Ryō. AP 5\.** Kunai frame. Speed 8; Stamina 8; Damage 2d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
 
 **Installed Components:** Reinforced Ring, Returning Wire. Gain \+2 Accuracy when attaching or delivering Ninja Wire through a compatible Jutsu or rule. When attached to Ninja Wire, retrieve the unattended weapon from up to 10 yards away as a Speed 3 Utility action if its path is unobstructed.
 
-**Longwing Kunai — 6,500 Ryō. AP 6\.** Kunai frame. Speed 8; Stamina 9; Damage 3d6; Accuracy \+0 (+1 on single-projectile Attacks); Range 10 \+ STR/4; Delay 1\.
+**Longwing Kunai — 3,250 Ryō. AP 6\.** Kunai frame. Speed 8; Stamina 9; Damage 3d6; Accuracy \+0 (+1 on single-projectile Attacks); Range 10 \+ STR/4; Delay 1\.
 
 **Installed Components:** Aerodynamic Profile 1, Calibrated Balance 1\.
 
-**Quickstar — 3,000 Ryō. AP 3\.** Shuriken frame. Speed 5; Stamina 5; Damage 1d6; Accuracy \+2 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 0\.
+**Quickstar — 1,500 Ryō. AP 3\.** Shuriken frame. Speed 5; Stamina 5; Damage 1d6; Accuracy \+2 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 0\.
 
 **Installed Components:** Calibrated Balance 1\.
 
-**Precision Star — 5,000 Ryō. AP 5\.** Shuriken frame. Speed 5; Stamina 5; Damage 2d6; Accuracy \+2 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 0\.
+**Precision Star — 2,500 Ryō. AP 5\.** Shuriken frame. Speed 5; Stamina 5; Damage 2d6; Accuracy \+2 (+1 on single-projectile Attacks); Range 5 \+ STR/4; Delay 0\.
 
 **Installed Components:** Reinforced Edge 1, Calibrated Balance 1\.
 
-**Razor Star — 7,000 Ryō. AP 7\.** Shuriken frame. Speed 5; Stamina 6; Damage 2d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
+**Razor Star — 3,500 Ryō. AP 7\.** Shuriken frame. Speed 5; Stamina 6; Damage 2d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
 
 **Installed Components:** Honed Geometry 2, Razor Edges. \+15% Wounding when dealing Slashing Damage.
 
-**Splitter Star — 6,500 Ryō. AP 6\.** Shuriken frame. Speed 5; Stamina 6; Damage 3d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
+**Splitter Star — 3,250 Ryō. AP 6\.** Shuriken frame. Speed 5; Stamina 6; Damage 3d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
 
 **Installed Components:** Splitting Star, Reinforced Edge 1\. On a full hit with a single-projectile Attack, add \+1 Damage Die, for 4d6 total. Splitting Star does not function during Multi-Throw or Volley.
 
@@ -1644,14 +1644,14 @@ Special: For every point you hit by, you add 10% to the attack's total damage, t
 
 A large scroll. Most of the time these are carried rolled up to save space. They're useless, aside from the fact that a few sealing jutsu make use of them.
 
-Cost: 2.5k Ryo
+Cost: 1.25k Ryo
 
 #### Blood Increasing Pill
 {:#blood-increasing-pill}
 
 These pills contain a peculiar mix of chemicals that, when consumed by someone capable of using chakra (such as a hunter) will allow their body to rapidly replenish lost blood. When you take one of these pills you regain RES/50 HP (but not Vitality) each IC, for 50 IC. During this duration you take only one third damage from poison, and no damage from effects caused by bleeding (such as certain wounds). Using a Blood Pill is a Speed 10 action.
 
-Cost: 15k Ryo
+Cost: 7.5k Ryo
 
 #### Caltrops
 {:#caltrops}
@@ -1664,28 +1664,28 @@ Anyone that moves as part of an attack into, within or out of the caltrops’ ar
 
 You can deploy Caltrops as a Speed 1 Interrupt anytime you suffer from a Knockback effect of at least 5 Yards. When used in this manner, the Caltrops’ area center is always 5 yards away from the attacker in the direction of the Knockback (that means the attacker is always at the edge of the area, and the area is always between the attacker and the defender). This responsive use of the Caltrops still have the range of 5 yards. This means that if used in response to a ranged knockback attack, your caltrop throw will place caltrops between yourself and your opponent with the center placed up to 5 yards away from you.
 
-Cost: 2k Ryo for enough caltrops to cover one 5 yard area
+Cost: 1k Ryo for enough caltrops to cover one 5 yard area
 
 #### Cloth, Per Yard
 {:#cloth-per-yard}
 
 Broad, sturdy cloth that looks like bandages, or perhaps mummification wraps. This comes in large rolls of up to 200 yards; carrying more than one roll inflicts a \-1 immobilization penalty for each beyond the first (not due to weight, but because they're bulky). Confine Scroll Seals can carry one roll each.
 
-Cost: 300 Ryo
+Cost: 150 Ryo
 
 #### Container, Small
 {:#container-small}
 
 A container, usually a gourd, clay jug, or waterskin, commonly worn at the hip. One container can hold 2 gallons of water or another substance. For every two small containers or fraction thereof beyond the second, you suffer a \-1 penalty to dodge due to encumberance.
 
-Cost: 5k Ryo0
+Cost: 2.5k Ryo
 
 #### Container, Large
 {:#container-large}
 
 A large gourd or other sort of container, several feet long and usually worn on the back. It's heavy and bulky, but not quite enough to restrict the mobility of a well-trained hunters. It can hold up to 8 gallons of water, but you can only carry one with you (due to its size\!).
 
-Cost: 15k Ryo0
+Cost: 7.5k Ryo
 
 #### Flash Bomb
 {:#flash-bomb}
@@ -1696,14 +1696,14 @@ You may also drop a flash bomb when dodging, in which case your dodge's Speed is
 
 Every time you throw a flash bomb as part of a dodge, after the first time it’s been done, you need to succeed at an opposed espionage check vs your opponent for them to not know to close their eyes in time. They have a bonus of \+3 to this roll for every time they’d already had to take this roll in this fight.
 
-Cost: 3k Ryo
+Cost: 1.5k Ryo
 
 #### Ninja Wire
 {:#ninja-wire}
 
 High tension 16-gauge wire. It is generally only available in hunter villages, and comes in spools with various lengths of wire.
 
-Cost: 1k Ryo per 5 Yards.
+Cost: 0.5k Ryo per 5 Yards.
 
 #### Rope
 {:#rope}
@@ -1714,14 +1714,14 @@ You can tie someone up with ropes. If so, roll Espionage \+10 to see how good yo
 
 You can also attempt to snap the ropes using brute force. This calls for a roll of 1d20 \+ (Athletics /5) \+ (STR /10) against a TN of 30, requires a Stamina 25 roll, and is done instantly, but repeated attempts cannot be made (either you're strong enough to break the ropes, or you're not).
 
-Cost: 1k Ryo per 5 Yards.
+Cost: 0.5k Ryo per 5 Yards.
 
 #### Smoke Bomb
 {:#smoke-bomb}
 
 Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke that causes a \-6 visibility penalty to all people within its 5 yard radius, for 20 IC. Once 10 ICs have passed, the Visibility penalty of the Smoke Bomb is halved.
 
-Cost: 3k Ryo
+Cost: 1.5k Ryo
 
 #### Soldier Pill
 {:#soldier-pill}
@@ -1730,7 +1730,7 @@ The proper name is 'military ration pills', but the term soldier pill is more co
 
 These stimulants lower Fatigue by one category and give +10 to your next Chakra Exhaustion or Stamina roll. Doing so is a Speed 10 action in battle. You may only take one per battle, and no more than RES/50 per day.
 
-Cost: 25k Ryo
+Cost: 12.5k Ryo
 
 ### Survival
 {:#survival}
@@ -1785,7 +1785,7 @@ A handy little pyrotechnic device, a cylinder usually a bit too large to fit com
 
 The vast majority of flares are projectiles, with built-in propellant. Aimed upwards, they'll launch into the air. During the day, this is typically unnoticed if you're doing anything other than staring at the spot it's launched up waiting to see it, and know exactly where it will be. In twilight and darker conditions, however, a flare can be seen for a considerable distance; they're often used for signalling, though suffer from not being too discrete.
 
-Cost: 4k Ryo0
+Cost: 2k Ryo
 
 #### Flashlight
 {:#flashlight}
@@ -1821,7 +1821,7 @@ Cost: 20k Ryo5
 
 Tanks of compressed, breathable air, usually strapped to one's back. They're basically useless by themselves, but each comes with a hose that can be attached to an oyxgen mask. Each tank provides 30 minutes of breathable air.
 
-Cost: 10k Ryo per tank5
+Cost: 5k Ryo per tank5
 
 ### Infiltration
 {:#infiltration}
@@ -1833,7 +1833,7 @@ Everything you need to blend in with the environment, like a truly sneaky hunter
 
 Using a kit takes 15 minutes, and is enough to conceal a person at level 3 Stealth; the stealth roll is made after they're fully hidden. The exact contents are fairly nonspecific, but regardless, each kit is good for only one use.
 
-Cost: 15k Ryo0
+Cost: 7.5k Ryo
 
 #### Camera
 {:#camera}
@@ -1842,14 +1842,14 @@ Cameras are rare devices, and ones suited for use by hunter even more so. Styles
 
 Most models include a flash that allows blurry pictures to be taken in the dark. Each image uses a single piece of film, acquired separately. Facilities to develop the film are rare, but exist in all major hunters villages, along with trained staff who will do so overnight for urgent matters, or within a week for personal needs.
 
-Cost: 50k Ryo0
+Cost: 25k Ryo
 
 #### Camera Film Roll
 {:#camera-film-roll}
 
 These are specially treated, light-sensitive pieces of paper. A single roll of Camera Film is good for 10 pictures. Due to the lack of standardization among models, pieces of film generally cannot be exchanged from one camera to another. These are usually stored inside the camera itself; if exposed to light before capturing an image they become useless, though afterwards there will be no effects from direct light on the paper.
 
-Cost: 5k Ryo
+Cost: 2.5k Ryo
 
 #### Grappling Hook
 {:#grappling-hook}
@@ -1865,7 +1865,7 @@ Cost: 1.5k Ryo2
 
 A set of small tools, easily carried in a pocket, used for opening locks in absence of the key. These allow an Espionage roll to be made to open a lock, and also provide a bonus to said roll. That bonus has a maximum of \+5, or the user's Espionage skill ranks, whichever is lower; you have to actually know how to use them to get any benefit. These are reusable, though a roll of 5 or lower on the Espionage check means they break in the attempt (which may still be successful).
 
-Cost: 10k Ryo per \+1
+Cost: 5k Ryo per \+1
 
 #### Ninja Comm Device
 {:#ninja-comm-device}
@@ -1878,7 +1878,7 @@ Be aware that while these are generally a secure means of communication, it's (t
 
 If you suffer a Major or greater Head wound while wearing a comm device, it breaks as a result of the damage. A comm device broken this way is too badly damaged to be repaired, and will need to be replaced.
 
-Cost: 25k Ryo0
+Cost: 12.5k Ryo
 
 #### Telescope
 {:#telescope}
@@ -2066,7 +2066,7 @@ Attaching after Failed defense: Against any type of Melee Attack that hits you, 
 
 Requires: Stray Rank
 
-Cost: 5000 Ryo
+Cost: 2,500 Ryo
 
 ### Exploding Tag, Type 2
 {:#exploding-tag-type-2}
@@ -2075,7 +2075,7 @@ Type 2 tags are issued to Trailhands trained to handle stronger explosives. Type
 
 Requires: Trailhand Rank
 
-Cost: 15000 Ryo
+Cost: 7,500 Ryo
 
 ### Exploding Tag, Type 3
 {:#exploding-tag-type-3}
@@ -2086,7 +2086,7 @@ Type 3, like Type 2, deal double damage to inanimate objects. They deal 20d10.op
 
 Requires: Huntsman Rank
 
-Cost: 30000 Ryo
+Cost: 15,000 Ryo
 
 
 <div class="equipment-armory-promo">
