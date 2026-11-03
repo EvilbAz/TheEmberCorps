@@ -64,10 +64,12 @@ Most Genjutsu can end in three ways:
 - The listed Duration expires or the caster stops paying Upkeep. These clocks begin on application, not realization.
 
 ## E-Rank
-{:#e-rank-18}
+{:#e-rank-18 .jutsu-rank-heading}
 
 #### Genkoe - Hallucinatory Voices
-{:#genkoe-hallucinatory-voices}
+{:#genkoe-hallucinatory-voices .jutsu-technique}
+
+<span class="jutsu-rank-badge">E-Rank</span>
 
 Despite its name, this technique isn't limited to voices, or even auditory hallucinations. It has no effect at all until the victim begins paying a bit too much attention to their surroundings, at which point the technique begins playing tricks on their senses, causing them to see movement at the corner of their vision and gentle sounds just slightly too vague to place.
 
@@ -83,7 +85,9 @@ Effects: Choose creatures within Area when you cast. Each chosen creature makes 
 Realizes: 10 \+ 2×X IC
 
 #### Mousou Enmu no Jutsu - Illusory Mist Technique
-{:#mousou-enmu-no-jutsu-illusory-mist-technique}
+{:#mousou-enmu-no-jutsu-illusory-mist-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">E-Rank</span>
 
 Masquerading as a higher-ranked Suiton technique, this creates a light bank of fog which has little effect beyond making the atmosphere a bit chillier. An illusion is then laid on all those present (the user may exclude allies if they wish), tricking them into believing the mist is actually thick enough to be a hindrance.
 
@@ -99,7 +103,9 @@ Effects: Choose which creatures in the Area perceive the false mist. Each chosen
 Realizes: 5 \+ X IC
 
 #### Senpuku no Jutsu - Concealment Technique
-{:#senpuku-no-jutsu-concealment-technique}
+{:#senpuku-no-jutsu-concealment-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">E-Rank</span>
 
 This jutsu allows a ninja to conceal small (or sometimes not so-small) items on their person or in their grasp. This is a fantastic technique for smuggling items or transporting them in secrecy, its utility counteracted only by its vulnerabilities.
 
@@ -112,10 +118,12 @@ Tags: Utility, Self, Indirect
 Effects: This completely hides an object from casual observation. For the entire duration the object must remain close to you (like held or in a belt holster). Against a detailed search, it gives a \+5 bonus to any rolls to keep it hidden, and allows the object to hide in plain sight. If the object interacts with the rest of the world (such as being touched, taking a swing with a weapon, or using a key to open a door) the concealment ends.
 
 ## D-Rank
-{:#d-rank-18}
+{:#d-rank-18 .jutsu-rank-heading}
 
 #### Kasumi Juusha no Jutsu - Mist Servant Technique
-{:#kasumi-juusha-no-jutsu-mist-servant-technique}
+{:#kasumi-juusha-no-jutsu-mist-servant-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 This jutsu creates clones that phase in and out of the ground as if they were made of a blackish, oil-like liquid. When attacked, the clones regenerate themselves. The clones can be controlled to make it seem as if they're attacking. The user can then time their attacks with those of the clones to remain concealed.
 
@@ -130,7 +138,9 @@ Effects: Choose N targets within the Area (N is the number of targets, minimum 1
 Realizes: 3×M IC (calculate M separately for each target)
 
 #### Magen: Jigoku Kouka no Jutsu - Demonic Illusion: Descending Hell Technique
-{:#magen-jigoku-kouka-no-jutsu-demonic-illusion-descending-hell-technique}
+{:#magen-jigoku-kouka-no-jutsu-demonic-illusion-descending-hell-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 This illusion causes any afflicted by it to see a massive fireball forming above them which slowly descends. Most prudent shinobi will waste time trying to escape its radius, while those who are more reckless will take the 'attack' head-on, bracing themselves against a blow that never actually comes.
 
@@ -145,7 +155,9 @@ Effects: Choose creatures in Area; each rolls Genjutsu Defense against the caste
 Realizes: 5 \+ X IC
 
 #### Magen: Narakumi no Jutsu - Demonic Illusion: Hell Viewing Technique
-{:#magen-narakumi-no-jutsu-demonic-illusion-hell-viewing-technique}
+{:#magen-narakumi-no-jutsu-demonic-illusion-hell-viewing-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 The user creates an illusion of spinning leaves around the victim, after the leaves disappear, the illusion begins, showing the victim something they'd rather never see, be it a loved one hurt, a monster of their nightmares, or some other such thing. In most cases, it is easy to identify that the image is fake, due to the unlikeliness of it occurring, but some images still leave a foul sensation in one's mind.
 
@@ -160,7 +172,9 @@ Effects: X is the amount the opponent failed their genjutsu defense roll by. Aft
 Realizes: 5 \+ X IC
 
 #### Oboro Bunshin no Jutsu - Haze Clone Technique
-{:#oboro-bunshin-no-jutsu-haze-clone-technique}
+{:#oboro-bunshin-no-jutsu-haze-clone-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 This creates what appear to be ordinary bunshin, even responding and vanishing when struck. However, each time one clone is destroyed another takes its place, typically just out of sight of whoever destroyed its predecessor.
 
@@ -175,7 +189,9 @@ Effects: You create X clones to a max of 3\. These function as normal clones, bu
 Taking an Observe action has its speed increased by 2 and allows an opponent to make a genjutsu defense roll with a \-5 penalty. They have a bonus of \+2 to this roll for every time they’d already had to take this roll in this fight. Any time a clone used in this technique is destroyed, another one appears to take its place and this jutsu's upkeep increases by 1\.
 
 #### Shinkirou no Jutsu - Mirage Technique
-{:#shinkirou-no-jutsu-mirage-technique}
+{:#shinkirou-no-jutsu-mirage-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 This creates an illusion that can fool a person's sight, hearing, or smell--or, with more effort, two of those, or all three. These can be dynamic (such as a flickering fire or a fluttering curtain), but they can't actually interact with anything.
 
@@ -190,10 +206,12 @@ Tags: Utility, Indirect
 Effects: Choose X senses (1–3) from sight, hearing and smell. Place the illusion within Range; visual features can be seen along an unobstructed line of sight, sounds can be heard within twice the Area, and smells can be noticed within Range. An observer who suspects a trick may make Awareness against the caster's Diplomacy to identify a physical inconsistency. This is a special Indirect-illusion detection check, not Genjutsu Defense. Physical contact with the false object, or an effect obviously originating from nothing, reveals that illusion automatically.
 
 ## C-Rank
-{:#c-rank-18}
+{:#c-rank-18 .jutsu-rank-heading}
 
 #### Kori Shinchuu no Jutsu - Sly Mind Affect Technique
-{:#kori-shinchuu-no-jutsu-sly-mind-affect-technique}
+{:#kori-shinchuu-no-jutsu-sly-mind-affect-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 This technique warps an opponent's senses and sets them walking in circles, potentially for hours on end, by making it seem to them as if they're walking straight towards their desired destination. Maps, compasses, and paths will all be ineffective--the best someone suffering from this technique can do is hold the hand of someone who's not, or hope they realize that they've passed the same landmark ten times.
 
@@ -209,7 +227,9 @@ Effects: Someone affected by this technique will find themselves (and their grou
 This technique has no effect in combat, and does not end when the victim is wounded. Not even something like following a road will work--they'll wind up wandering off it, the illusion convincing them they're still on the "road."
 
 #### Magen: Kokoni Arazu no Jutsu - Demon Illusion: False Surroundings Technique
-{:#magen-kokoni-arazu-no-jutsu-demon-illusion-false-surroundings-technique}
+{:#magen-kokoni-arazu-no-jutsu-demon-illusion-false-surroundings-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 This jutsu allows the user to change the surroundings around a person subtly, usually used to delay, or force people to walk in circles, unaware that they have stopped going the right way, even messing with one's ability to track the direction they are headed, such as north from south.
 
@@ -226,7 +246,9 @@ Effects: Best used out of combat (anyone who sees this being used will realize i
 Anyone who encounters your illusion makes Genjutsu Defense against your original Genjutsu Offense \+5; failure means they believe it's real, success means they know it's an illusion. Actually getting rid of it requires the use of Genjutsu Kai, though the illusion won't affect senses other than sight.
 
 #### Magen: Kyosenjō - False Battlefield
-{:#magen-kyosenjo-false-battlefield}
+{:#magen-kyosenjo-false-battlefield .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 The victim's senses agree on a battlefield that is a few yards wrong in every useful direction.
 
@@ -245,7 +267,9 @@ This does not physically move anyone, change AoE locations or create physical ba
 Realizes: 8 \+ X IC
 
 #### Magen: Maboroshi Kizu - Phantom Pain
-{:#magen-maboroshi-kizu-phantom-pain}
+{:#magen-maboroshi-kizu-phantom-pain .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 The target feels an injury that never happened, and their body hesitates as if protecting it.
 
@@ -264,7 +288,9 @@ This cannot stack with a real Wound in the same location; apply whichever penalt
 Realizes: 5 \+ X IC
 
 #### Nemuri - Sleep
-{:#nemuri-sleep}
+{:#nemuri-sleep .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 A genjutsu whose greatest limitation is that it requires physical contact, the user places their hand on a target and sends them immediately into a deep slumber. Very nice for infiltration without raising a fuss.
 
@@ -276,7 +302,9 @@ Tags: Attack, Indirect
 Effects: This cannot be used during combat. A willing or helpless target falls asleep without a roll. A conscious unwilling target makes Genjutsu Defense against your Genjutsu Offense; only a failure induces sleep. Sleep ends after 1 Hour, upon a Minor or greater real Wound, or when the target is vigorously awakened. A successful defense prevents this use.
 
 #### Sen'un no Jutsu - Fog of War Technique
-{:#sen-un-no-jutsu-fog-of-war-technique}
+{:#sen-un-no-jutsu-fog-of-war-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 You trap a target in some manner of in-depth hallucination.  
 They may believe that you've run away and think they're giving pursuit, or be convinced that they're locked in combat with you. This technique is often a last-ditch resort to escape from a superior adversary, or bypass someone when there's no time to deal with them in direct combat.
@@ -293,7 +321,9 @@ Effects: The target rolls Genjutsu Defense against your Offense. On a full hit, 
 Realizes: 4×X IC
 
 #### Shunou Kaimetsu - Brain Destruction
-{:#shunou-kaimetsu-brain-destruction}
+{:#shunou-kaimetsu-brain-destruction .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 This jutsu convinces the victim that they've been grievously injured. Although it causes no actual physical harm, it convinces their mind and all their senses that they've suffered some manner of severe damage.
 
@@ -315,10 +345,12 @@ Brain Destruction's illusory Wound may break another Direct Genjutsu that normal
 Realizes: 5 \+ X IC
 
 ## B-Rank
-{:#b-rank-18}
+{:#b-rank-18 .jutsu-rank-heading}
 
 #### Gosaru Tatari - Five Monkey Curse
-{:#gosaru-tatari-five-monkey-curse}
+{:#gosaru-tatari-five-monkey-curse .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 This technique interferes with the victim's ability to see, hear, smell, taste, and feel pain. Admittedly, the last one's an undesirable addition to the mix (in most circumstances), but the technique makes up for that with its all-around usefulness.
 
@@ -337,7 +369,9 @@ The victim does not gain any benefit to real Wound penalties from this technique
 Realizes: 10 \+ 2 \* X
 
 #### Jigyaku no Jutsu - Time Reversal Technique
-{:#jigyaku-no-jutsu-time-reversal-technique}
+{:#jigyaku-no-jutsu-time-reversal-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 Used on willing or restrained recipients, this jutsu puts the target in a trance like state, and keeps them hypnotized, to uncover forgotten memories or past events. Its often used to uncover important details that have been missed or forgotten on missions, or to help shinobi make 100% accurate reports on the most important of missions, rarely on unimportant missions.
 
@@ -350,7 +384,9 @@ Effects: This can only be used on helpless or willing recipients and can take an
 Jigyaku grants \+5 to Research checks made to recall the recipient's previous experiences and may uncover memories suppressed by other effects. When attempting to detect or remove Sennou Sousa no Jutsu, make Genjutsu Offense against the original Sennou Sousa casting result. On success, identify and unravel that instance of Sennou Sousa; on failure, the concealed memories remain inaccessible to Jigyaku during this session. Jigyaku never restores details the recipient did not originally know.
 
 #### Magen: Hibiki Ori - Echo Chamber
-{:#magen-hibiki-ori-echo-chamber}
+{:#magen-hibiki-ori-echo-chamber .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 Every sound returns a fraction late until the victim cannot tell warning from aftermath.
 
@@ -369,7 +405,9 @@ Realizes: 8 \+ X IC
 If they are completely deaf or inside an effect that prevents sound from reaching them, this technique cannot target them.
 
 #### Magen: Jubaku Satsu - Demon Illusion: Tree Binding Death
-{:#magen-jubaku-satsu-demon-illusion-tree-binding-death}
+{:#magen-jubaku-satsu-demon-illusion-tree-binding-death .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 This genjutsu makes its unfortunate victim believe that a large tree has suddenly grown behind them through the use of some manner of ninjutsu, and pinned them against its trunk by exceptionally-strong, chakra-animated branches.
 
@@ -385,7 +423,9 @@ Effects: On a full hit, inflict Immobilization 10\. Beginning once the victim Re
 Realizes: 10 IC
 
 #### Magen: Obore Yume - Drowning Dream
-{:#magen-obore-yume-drowning-dream}
+{:#magen-obore-yume-drowning-dream .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 The target's breathing, balance, and horizon all insist they are sinking through black water.
 
@@ -403,7 +443,9 @@ On a full hit, apply Stun 6, Immobilization 4 (fear-based) and illusory Suffocat
 Realizes: 8 \+ X IC. If the target takes real Suiton damage before escaping, it gains \+3 on its next eligible Genjutsu Defense or Kai roll against Drowning Dream, as real sensation conflicts with the illusion.
 
 #### Magen: Tetsuotome no Jutsu - Demonic Illusion: Iron Maiden Technique
-{:#magen-tetsuotome-no-jutsu-demonic-illusion-iron-maiden-technique}
+{:#magen-tetsuotome-no-jutsu-demonic-illusion-iron-maiden-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 Chains burst from the ground beneath the victim and wrap around their legs, anchoring them in place, followed by two halves of an iron maiden, either on each side of the victim or in front of and behind them. The iron maiden slams shut with them in it, causing excruciating pain and a slew of debilitating injuries.
 
@@ -422,7 +464,9 @@ The illusory Wound follows Brain Destruction's rules for penalties and removing 
 Realizes: 15 IC
 
 #### Sakki - Killing Intent
-{:#sakki-killing-intent}
+{:#sakki-killing-intent .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 A side-effect of learning how to control chakra is the ability to sense, and exude, what shinobi refer to as killing intent. More powerful shinobi can project it more strongly, and even send lesser ninja running with just a glance.  
 This genjutsu simulates an intense blast of paralyzingly strong killing intent in an attempt to overwhelm its target.
@@ -440,10 +484,12 @@ Effects: You and the target must have direct line of sight (neither may suffer V
 Realizes: X IC
 
 ## A-Rank
-{:#a-rank-18}
+{:#a-rank-18 .jutsu-rank-heading}
 
 #### Dokushin no Jutsu - Poison Truth Technique
-{:#dokushin-no-jutsu-poison-truth-technique}
+{:#dokushin-no-jutsu-poison-truth-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 This technique traps the victim in a state of dream-like hallucination. In that state, the technique's user can try to pry information from them, in the form of questions, which the subject will then (coherently, and audibly) mumble the answer to.
 
@@ -467,7 +513,9 @@ The interrogator asks a question of up to twelve words and rolls Genjutsu Offens
 A question fails if they've previously been asked it during that session, its a rewording of a previous question, or if the victim does not know the answer to a question. A person won't begin to regain Willpower (spent defending against this technique, or for any other reason) until at least 24 hours have passed without Dokushin no Jutsu being used upon them.
 
 #### Kiokure Keiren - Nervous Convulsions
-{:#kiokure-keiren-nervous-convulsions}
+{:#kiokure-keiren-nervous-convulsions .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 This technique partially hijacks the victim's nervous system, reacting in response to anything they do and sending conflicting signals. It's only truly effective in combat, where physical activity is the most spontaneous, and even slightly reduced reaction time can prove fatal. This tends to be exceptionally painful.
 
@@ -483,7 +531,9 @@ Effects: When the affected target declares an Action of Final Speed Y, it immedi
 Realizes: 5 \+ X IC
 
 #### Kokuangyo no Jutsu - Bringer of-Darkness Technique
-{:#kokuangyo-no-jutsu-bringer-of-darkness-technique}
+{:#kokuangyo-no-jutsu-bringer-of-darkness-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 This technique specifically targets the victim's eyesight, effectively blinding them and allowing its user to attack with impunity.
 
@@ -498,7 +548,9 @@ Effects: On a full hit, apply \-10 Visibility to the victim. It cannot gain visu
 Realizes: 10 \+ 3\*X IC
 
 #### Nehan Shouja no Jutsu - Temple of Nirvana Technique
-{:#nehan-shouja-no-jutsu-temple-of-nirvana-technique}
+{:#nehan-shouja-no-jutsu-temple-of-nirvana-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 A large-scale sleep illusion for incapacitating groups without physical harm. The user releases a field of hypnotic chakra, and creatures within its fifty-yard Area who fail Genjutsu Defense fall asleep. Loud noises, shaking or real injury may wake victims. This technique cannot be used during combat.
 
@@ -513,9 +565,11 @@ Effects: This cannot be used during combat. Every creature except the caster wit
 Realizes: Upon waking. A sleeping victim cannot use Genjutsu Kai on itself; another creature may release it normally.
 
 #### Sennou Sousa no Jutsu - Memory-Concealing Manipulative Sand Technique
-{:#sennou-sousa-no-jutsu-memory-concealing-manipulative-sand-technique}
+{:#sennou-sousa-no-jutsu-memory-concealing-manipulative-sand-technique .jutsu-technique}
 
-This technique allows the user to alter or conceal the subject's memories. While it's not permanent, the change can be either subtle (believing they were incapacitated and left unconscious, rather than incapacitated and then interrogated), or about as much so as a sledgehammer (erasing the past two days of their memory).
+<span class="jutsu-rank-badge">A-Rank</span>
+
+You temporarily alter or conceal the subject’s memories, from changing a small detail to hiding an entire span of time.
 
 Chakra: 40  
 Range: Touch  

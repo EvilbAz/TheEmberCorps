@@ -58,10 +58,13 @@ Shards never impede your movement. Each Shard consumed for Glass Release's Chakr
 ## Native Feral Jutsu
 {:#native-feral-jutsu}
 
-### Glass Release: Splinter Lance
-{:#glass-release-splinter-lance}
+## C-Rank
+{:#c-rank .jutsu-rank-heading}
 
-***C-Rank***
+#### Garasuton: Hahen no Yari - Glass Release: Splinter Lance
+{:#glass-release-splinter-lance .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 *The ground flashes white and translucent before bursting upward into a needle of razor glass. Fragments scatter across the impact site.*
 
@@ -71,10 +74,13 @@ Shards never impede your movement. Each Shard consumed for Glass Release's Chakr
 
 Splinter Lance gains \+2 Accuracy against a target standing within Shards. After the Attack resolves, its Area gains Shards 1\.
 
-### Glass Release: Mirror Bastion
-{:#glass-release-mirror-bastion}
+## B-Rank
+{:#b-rank .jutsu-rank-heading}
 
-***B-Rank***
+#### Garasuton: Kagami no Toride - Glass Release: Mirror Bastion
+{:#glass-release-mirror-bastion .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 *A perfectly smooth wall of translucent glass erupts from the earth. Every impact sends another web of fractures racing through the battlefield around it.*
 
@@ -88,10 +94,13 @@ Mirror Bastion Anchors Shards within 5 yards of the wall. Once per Action when t
 
 Reducing the wall to 0 HP ends Mirror Bastion's Upkeep. When Mirror Bastion ends, apply Shards 2 within 5 yards of the wall. If the wall was destroyed, every creature within 3 yards defends against a Speed 10 Attack using your Ninjutsu Accuracy. On hit, it deals 18d10 Slashing Damage without Speed × NDB.
 
-### Glass Release: Cathedral of Knives
-{:#glass-release-cathedral-of-knives}
+## A-Rank
+{:#a-rank .jutsu-rank-heading}
 
-***A-Rank***
+#### Garasuton: Yaiba no Seidō - Glass Release: Cathedral of Knives
+{:#glass-release-cathedral-of-knives .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 *The landscape becomes transparent. Stone, rubble and earth vanish beneath rising glass spires. A heartbeat later the entire cathedral begins to crack.*
 

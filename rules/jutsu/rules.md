@@ -18,18 +18,17 @@ Learning requirements, technique tags, elemental interactions and shared Jutsu r
 # Jutsu Rules
 {:#jutsu-rules}
 
-## Explanation
+## Disciplines
 {:#explanation}
 
 Jutsu use chakra to perform extraordinary techniques. **Taijutsu** enhances physical attacks and movement; **Ninjutsu** shapes chakra into effects such as elements, transformations and constructs; **Genjutsu** interferes with perception and the senses.
 
-## Rule
+## Learning Jutsu
 {:#rule}
 
-Each jutsu is a unique action that, once you've learned it, you can perform. All jutsu are divided into five main ranks (E, D, C, B, and A), with S-rank techniques being rare techniques known only to their inventor and perhaps a handful of people that person taught them to.  
-Though each rank of each type has special requirements to learn (explained in more detail in the relevant sections), a few broad rules apply. For example, to learn ninjutsu of one of the five elements, you need the appropriate Elemental Aptitude ability.
+Jutsu are learned actions ranked E, D, C, B and A. Rare S-Rank techniques are usually known only to their inventor and a few students. Each discipline lists its learning requirements; Elemental Ninjutsu also requires the appropriate Elemental Aptitude.
 
-To learn any jutsu of B-rank or higher you must be taught how to use it (unless you exceed the requirements by 50%). So you would need 30 Athletics to learn B-rank taijutsu without a mentor. See Downtime Rules on how to find mentors.
+B-Rank and higher jutsu require a mentor unless you exceed their learning requirements by 50%. For example, B-Rank Taijutsu can be learned without a mentor at Athletics 30. See [Downtime]({{ "/rules/core/#downtime" | relative_url }}) for finding mentors.
 
 ## Reader's Guide
 {:#reader-s-guide}
@@ -59,17 +58,18 @@ Some jutsu have bonuses or penalties to accuracy. If there's no entry for this, 
 ### Range
 {:#range}
 
-How many yards away the attack's target can be. In the case of area-of-effect techniques, they can be centered anywhere within this range (and their effects may well extend beyond it). If it has no range then it is centered on yourself (in which case it does not affect you).
+The maximum distance to the target, in yards. An AoE may be centred anywhere within Range and extend beyond it. Without a listed Range, it is centred on you and does not affect you.
 
 ### Area
 {:#area}
 
-The area of a jutsu which can come in any of 3 forms below:  
-Area X: A radius plain and simple using the radius for dodge penalties  
-Line X, Y: A rectangle with a width of X and a length of Y using the lower of the 2 values for dodge penalties.  
-Cube X: A square X by X yards using X for dodge penalties
+| Area notation | Shape | Value used for Dodge penalties |
+| --- | --- | --- |
+| Area X | Radius X yards | X |
+| Line X, Y | Rectangle X yards wide and Y yards long | The lower of X and Y |
+| Cube X | Square X by X yards | X |
 
-When dodging an AoE Jutsu you must first find out if you are fast enough to escape it. Take the speed of the attack and compare how far you could move in that IC to the Area of the jutsu. If your speed is lower then you gain a penalty of \-2 per yard you fail to escape by.
+To Dodge an AoE, compare the distance you could move during the attack’s Speed with the distance needed to escape its Area. Take −2 to Dodge per yard you fall short.
 
 ### Speed
 {:#speed}
@@ -114,7 +114,7 @@ Any special characteristics of a technique which aren't covered by one of the ab
 ## Taijutsu
 {:#taijutsu}
 
-## Requirements
+### Requirements
 {:#requirements}
 
 Qualify for a Taijutsu Rank through any one of the following: Corps rank, Athletics or Research.
@@ -136,15 +136,15 @@ C: 12
 B: 22  
 A: 32
 
-## Limb Requirements
+### Limb Requirements
 {:#limb-requirements}
 
-Many taijutsu require you to have x arms and/or legs free to utilize them. These come in the form of Tags: X Arms or X Legs with X being the amount of limbs free and usable for the technique.
+The tags **X Arms** and **X Legs** specify how many free, usable limbs a Taijutsu requires.
 
 ## Ninjutsu
 {:#ninjutsu}
 
-## Requirements
+### Requirements
 {:#requirements-2}
 
 Qualify for a Ninjutsu Rank through any one of the following: Corps rank, Chakra Control or Research. Elemental Ninjutsu instead uses the paired requirements below and also requires the appropriate Elemental Aptitude.
@@ -166,7 +166,7 @@ C: 12
 B: 22  
 A: 32
 
-## Elemental Requirements
+### Elemental Requirements
 {:#elemental-requirements}
 
 To learn ordinary Elemental Ninjutsu, meet both individual skill minima and the combined minimum. Corps rank and Research do not replace these requirements. Genjutsu retains Diplomacy and Research.
@@ -183,14 +183,14 @@ Elemental Affinity reduces one individual minimum and the combined minimum by it
 
 Genius may qualify for the next Jutsu rank using the preceding rank's skill thresholds, retaining its +3 use-cost surcharge. At E-rank qualification it may reach D-rank, but still needs the relevant Elemental Aptitude. Naturalist may qualify with Survival alone, using the individual minima in the table (D 5, C 10, B 20, A 30), reduced by Elemental Affinity. This replaces both skills and the combined minimum. Mentor exemption requires at least 150% of both individual minima and the combined minimum, rounded up, after Affinity; when using Naturalist, apply 150% to its Survival requirement instead.
 
-## Elemental Strength and Weaknesses
+### Elemental Strength and Weaknesses
 {:#elemental-strength-and-weaknesses}
 
 Elemental strengths follow this cycle:
 
 Earth > Water > Fire > Wind > Lightning > Earth
 
-## Created weapons, enhanced attacks and you!
+## Elemental Weapons and Enhanced Attacks
 {:#created-weapons-enhanced-attacks-and-you}
 
 Weapons and ninjutsu that empower taijutsu have a few special effects. First, when created they count as ninjutsu (for cases of chakra rolls and the like), however, when attacking they count as taijutsu. This means they do not gain the bonuses from things such as specialist which empower ninjutsu, they would only gain it from taijutsu. They do count as their element when opposing different elements, however. This applies to dual-elements effects as well. Created weapons only count for their element against element defenses, they do not gain any of the other benefits of being dual-element.
@@ -232,13 +232,13 @@ Hide Among Clones (Speed 4, or Speed \+6) You pull off a quick shell-game maneuv
 
 Observe (Speed 4\) Anyone can try to observe you and your clones to try and find a discrepancy, such as the clones not casting shadows or not leaving footprints behind. This allows them to make an Awareness roll against your Chakra Control; if they succeed, they can tell you apart from all your clones, and recognize those clones as such, until you hide among them again.
 
-In the case of getting attacked while you are hidden among your clones there is an order of operations that must be followed listed below:
+When attacked while hidden among your clones:
 
-\- Declare Attack by Attacker  
-\- Declare Defense by Defender (But don’t roll anything yet)  
-\-Check to see if a clone is hit or you: one is hit when you do not roll a 1 on a 1dx roll where x is the amount of clones \+1. You having 2 clones would mean you roll a 1d3 and you are hit on a 1  
-If a clone is hit and not the actual PC, both the attacker and defender advance their ic based on actions declared. (In this case you would not have to pay for Stamina or Chakra costs for techniques you intended to use as the defender and those techniques would also not be used. Any AP spent to make the speed a legal defense is still lost)  
-If the defending character is the randomized target, resolve the defenses declared before.
+1. The attacker declares their Attack.
+2. The defender declares a Defense without rolling.
+3. Roll 1dX, where X is the number of clones plus one. A 1 targets you; any other result targets a clone.
+4. If a clone is targeted, both characters advance IC for their declared actions. The defender does not use or pay Stamina or Chakra for the declared Defense, but any AP spent to make its Speed legal is lost.
+5. If you are targeted, resolve the declared Defense normally.
 
 ## Bukijutsu
 {:#bukijutsu}
@@ -248,12 +248,12 @@ If the defending character is the randomized target, resolve the defenses declar
 
 See [Learning Requirements]({{ '/rules/jutsu/bukijutsu/#learning-requirements-2' | relative_url }}).
 
-## Buki Attacks
+### Buki Attacks
 {:#buki-attacks}
 
 See [Buki Attacks]({{ '/rules/jutsu/bukijutsu/#buki-attacks-2' | relative_url }}).
 
-## Chain
+### Chain
 {:#chain}
 
 See [Chain]({{ '/rules/jutsu/bukijutsu/#chain-2' | relative_url }}).

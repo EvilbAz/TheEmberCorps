@@ -7,10 +7,10 @@
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
   <link rel="icon" href="{{ '/assets/img/ec-favicon.svg' | relative_url }}?v=2" type="image/svg+xml">
-  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260930-license-fix-v2">
-  <link rel="stylesheet" href="{{ '/assets/css/ambient-player.css' | relative_url }}?v=20261013-ambient-1">
-  {% if page.url == '/minecraft/' %}<link rel="stylesheet" href="{{ '/assets/css/minecraft.css' | relative_url }}?v=20260930-mc-v1">{% endif %}
-  {% if page.url == '/timeline/' %}<link rel="stylesheet" href="{{ '/assets/css/timeline.css' | relative_url }}?v=20261012-history-1">{% endif %}
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20261103-cleanup">
+  <link rel="stylesheet" href="{{ '/assets/css/ambient-player.css' | relative_url }}?v=20261103-cleanup">
+  <link rel="stylesheet" href="{{ '/assets/css/minecraft.css' | relative_url }}?v=20260930-mc-v1">
+  <link rel="stylesheet" href="{{ '/assets/css/timeline.css' | relative_url }}?v=20261012-history-1">
   <script>try{document.documentElement.dataset.theme=['dark','light','primal','abyss'].includes(localStorage.getItem('ember-theme'))?localStorage.getItem('ember-theme'):'dark';document.documentElement.dataset.appearance=localStorage.getItem('ember-appearance')||(['light','dark'].includes(document.documentElement.dataset.theme)?document.documentElement.dataset.theme:'dark')}catch(e){}</script>
 </head>
 <body data-base="{{ site.baseurl }}" data-volume="{{ page.volume_slug | default: '' }}" data-talent-section="{{ page.talent_section | default: '' }}" data-jutsu-index="{{ page.jutsu_index | default: false }}">
@@ -138,7 +138,7 @@
       <label class="ambient-volume" aria-label="Ambience volume"><span>VOL</span><input data-ambient-volume type="range" min="0" max="100" step="1" value="34"></label>
     </div>
     <div class="ambient-progress" aria-hidden="true"><span data-ambient-progress></span></div>
-    <div class="ambient-help"><span data-ambient-count>1 / 10</span> · The Minecraft Ember ambience playlist loops continuously once started.</div>
+    <div class="ambient-help"><span data-ambient-count>1 / 10</span> · Plays continuously as you browse. Shift-click ♫ for controls.</div>
   </div>
 </div><button class="primal-toggle" id="primal-toggle" type="button" aria-label="Enable Primal theme" aria-pressed="false" title="Primal mode">❧ <span>PRIMAL</span></button><button class="abyss-toggle" id="abyss-toggle" type="button" aria-label="Enable Abyss theme" aria-pressed="false" title="Abyss mode">≋ <span>ABYSS</span></button><button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle light or dark theme">◐</button></div>
     </header>
@@ -167,10 +167,11 @@
 </div>
 <div class="search-overlay" id="search-overlay" role="dialog" aria-modal="true" aria-label="Search the rulebooks" hidden>
  <div class="search-backdrop" id="search-backdrop"></div>
- <div class="search-panel"><div class="search-input-row"><span class="search-icon">⌕</span><input id="search-input" type="search" placeholder="Jutsu, clans, wounds, downtime..." autocomplete="off" spellcheck="false" aria-label="Search all six rulebooks"><button id="search-close" type="button" aria-label="Close search">ESC</button></div><div id="search-info" class="search-info">SEARCH ACROSS ALL SIX VOLUMES</div><div class="search-results" id="search-results" aria-live="polite"><div class="empty-search">Type a rule, jutsu or keyword to begin.</div></div><div class="search-footer"><span>↑ ↓ Navigate &nbsp; ↵ Open &nbsp; ESC Close</span><span>EMBER ARCHIVE</span></div></div>
+ <div class="search-panel"><div class="search-input-row"><span class="search-icon">⌕</span><input id="search-input" type="search" placeholder="Jutsu, clans, wounds, downtime..." autocomplete="off" spellcheck="false" aria-label="Search the entire field archive"><button id="search-close" type="button" aria-label="Close search">ESC</button></div><div id="search-info" class="search-info">SEARCH THE FIELD ARCHIVE</div><div class="search-results" id="search-results" aria-live="polite"><div class="empty-search">Type a rule, jutsu or keyword to begin.</div></div><div class="search-footer"><span>↑ ↓ Navigate &nbsp; ↵ Open &nbsp; ESC Close</span><span>EMBER ARCHIVE</span></div></div>
 </div>
-<script src="{{ '/assets/js/site.js' | relative_url }}?v=20260929-ec-palette-v4" defer></script>
-{% if page.url == '/timeline/' %}<script src="{{ '/assets/js/timeline.js' | relative_url }}?v=20261012-history-2" defer></script>{% endif %}
-  <script src="{{ '/assets/js/ambient-player.js' | relative_url }}?v=20261013-ambient-1" defer></script>
+<script src="{{ '/assets/js/site.js' | relative_url }}?v=20261103-cleanup" defer></script>
+<script src="{{ '/assets/js/timeline.js' | relative_url }}?v=20261103-cleanup" defer></script>
+  <script src="{{ '/assets/js/ambient-player.js' | relative_url }}?v=20261103-cleanup" defer></script>
+<script src="{{ "/assets/js/navigation.js" | relative_url }}?v=20261103" defer></script>
 </body>
 </html>

@@ -12,12 +12,12 @@ search = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(search)
 pages = search.sources()
 index = json.loads(search.INDEX.read_text())
+anchors = {route: {a or b for a, b in re.findall(r'\{:#([^\s}]+)[^}]*\}|\bid="([^"]+)"', body)} for route, (body, _, _) in pages.items()}
 for entry in index:
     route, _, fragment = entry['url'].partition('#')
     assert route in pages, entry['url']
     if fragment:
-        body = pages[route][0]
-        assert fragment in re.findall(r'\{:#([^}]+)\}|\bid="([^"]+)"', body) or re.search(r'(?:\{:#|\bid=")' + re.escape(fragment) + r'[}"]', body), entry['url']
+        assert fragment in anchors[route], entry['url']
 core = pages['/rules/core/'][0]
 wounds = (ROOT / '_includes/wounds.md').read_text()
 assert wounds in pages['/rules/core/'][0] and wounds in pages['/rules/wounds/'][0]
@@ -42,7 +42,7 @@ for route, (body, _, _) in pages.items():
             continue  # assets and external hosting sections are not Markdown pages
         if fragment:
             target_body = pages[target][0]
-            assert re.search(r'(?:\{:#|\bid=")' + re.escape(fragment) + r'[}"]', target_body), (route, match[1])
+            assert re.search(r'(?:\{:#|\bid=")' + re.escape(fragment) + r'(?:\s[^}]*)?[}"]', target_body), (route, match[1])
 # Preserve historical events and the factual NPC dossier records during editorial passes.
 before_timeline = subprocess.check_output(['git', 'show', 'HEAD:timeline.md'], cwd=ROOT)
 timeline_records = r'<(?:time|h[1-3]|p|blockquote)\b[^>]*>.*?</(?:time|h[1-3]|p|blockquote)>'

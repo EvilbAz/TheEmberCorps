@@ -1,6 +1,12 @@
 (() => {
+  let cleanup = () => {};
+  function init() {
+  cleanup();
+  const events = new AbortController();
+  let observer;
+  cleanup = () => { events.abort(); observer?.disconnect(); cancelAnimationFrame(frame); };
   const page = document.querySelector('.timeline-page');
-  if (!page) return;
+  if (!page) { cleanup = () => {}; return; }
   const entries = [...page.querySelectorAll('.timeline-entry')];
   const eras = [...page.querySelectorAll('.timeline-era, .timeline-present')];
   const links = [...page.querySelectorAll('.history-nav a')];
@@ -18,7 +24,7 @@
   });
 
   if ('IntersectionObserver' in window && !motion.matches) {
-    const observer = new IntersectionObserver(records => {
+    observer = new IntersectionObserver(records => {
       records.forEach(record => {
         if (!record.isIntersecting) return;
         record.target.classList.add('is-recorded');
@@ -37,7 +43,7 @@
       if (target && page.contains(target)) {
         target.querySelectorAll('.timeline-entry').forEach(entry => entry.classList.add('is-recorded'));
       }
-    });
+    }, {signal:events.signal});
   }
 
   const update = () => {
@@ -69,12 +75,15 @@
     });
   };
   const schedule = () => { if (!frame) frame = requestAnimationFrame(update); };
-  window.addEventListener('scroll', schedule, { passive: true });
-  window.addEventListener('resize', schedule);
-  window.addEventListener('pageshow', schedule);
+  window.addEventListener('scroll', schedule, { passive: true, signal:events.signal });
+  window.addEventListener('resize', schedule, {signal:events.signal});
+  window.addEventListener('pageshow', schedule, {signal:events.signal});
   motion.addEventListener('change', () => {
     if (motion.matches) entries.forEach(entry => entry.classList.add('is-recorded'));
     schedule();
-  });
+  }, {signal:events.signal});
   update();
+  }
+  document.addEventListener("ember:page",init);
+  init();
 })();

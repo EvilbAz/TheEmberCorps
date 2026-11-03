@@ -58,10 +58,13 @@ Ash never interferes with your vision. Each Ash you consume adds \+4 Ignite inst
 ## Native Feral Jutsu
 {:#native-feral-jutsu}
 
-### Cinder Release: Ashen Wake
-{:#cinder-release-ashen-wake}
+## C-Rank
+{:#c-rank .jutsu-rank-heading}
 
-***C-Rank***
+#### Kaiton: Haien - Cinder Release: Ashen Wake
+{:#cinder-release-ashen-wake .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 *A dirty wave of flame crawls across the battlefield. The fire lasts only a moment. The glowing ash left behind is the real technique.*
 
@@ -71,10 +74,13 @@ Ash never interferes with your vision. Each Ash you consume adds \+4 Ignite inst
 
 When Ashen Wake consumes Ash through Cinder Release, increase its Area by 2 per Ash consumed. The expanded Area counts as affected by the Jutsu. After the Attack resolves, the full Area gains Ash 1\.
 
-### Cinder Release: Ashfall
-{:#cinder-release-ashfall}
+## B-Rank
+{:#b-rank .jutsu-rank-heading}
 
-***B-Rank***
+#### Kaiton: Kōkai - Cinder Release: Ashfall
+{:#cinder-release-ashfall .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 *A slow fall of soot and ember fills the air. Every surface darkens, every breath tastes burnt and the whole field waits for a spark.*
 
@@ -86,10 +92,13 @@ On activation, the Area gains Ash 2\. Ashfall Anchors Ash in its Area while its 
 
 Every 10 IC after activation, increase that Area's Ash by 1, to a maximum of 5\. Ignite affecting creatures inside Ashfall gains \+1 Severity whenever the Area's Ash increases.
 
-### Cinder Release: Funeral Pyre
-{:#cinder-release-funeral-pyre}
+## A-Rank
+{:#a-rank .jutsu-rank-heading}
 
-***A-Rank***
+#### Kaiton: Kasō - Cinder Release: Funeral Pyre
+{:#cinder-release-funeral-pyre .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 *Every ember and soot-covered surface lifts into the air. For one horrible instant the battlefield glows orange. Then all of it catches.*
 

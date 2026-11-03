@@ -1,0 +1,6 @@
+{
+  "name": "ember-corps-rulebook",
+  "private": true,
+  "scripts": { "test": "node --test scripts/site.test.cjs" },
+  "devDependencies": { "jsdom": "30.1.3" }
+}

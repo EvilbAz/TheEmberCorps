@@ -7,7 +7,7 @@ jutsu_section: "general"
 permalink: "/rules/jutsu/general/"
 ---
 
-<div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
+<div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a><a href="{{ '/rules/jutsu/rules/#requirements-2' | relative_url }}">LEARNING REQUIREMENTS ↗</a></div>
 
 
 # General Ninjutsu
@@ -17,10 +17,12 @@ permalink: "/rules/jutsu/general/"
 {:#general}
 
 ## E-Rank
-{:#e-rank-4}
+{:#e-rank-4 .jutsu-rank-heading}
 
 #### Bakuchiku Senko - Firecracker Flash
-{:#bakuchiku-senko-firecracker-flash}
+{:#bakuchiku-senko-firecracker-flash .jutsu-technique}
+
+<span class="jutsu-rank-badge">E-Rank</span>
 
 A compact shinobi distraction technique that uses a pinch of chakra to ignite and scatter flash firecrackers at exactly the right moment, creating a sharp burst of light and noise that opens a window to vanish or reposition.
 
@@ -34,7 +36,9 @@ Effects: Choose a point within Range. You and every creature in the Area that ca
 After the burst resolves, you may immediately attempt to Hide if the flash creates a plausible break in line of sight. Targets gain \+2 to their opposed Initiative roll for each previous use of Firecracker Flash in the same combat.
 
 #### Bunshin no Jutsu - Clone Technique
-{:#bunshin-no-jutsu-clone-technique}
+{:#bunshin-no-jutsu-clone-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">E-Rank</span>
 
 One of the three basic ninja techniques, this creates one or more intangible copies of the user. These are nothing but weak constructs of chakra, and cannot interact with the world around them--though they can speak.
 
@@ -50,9 +54,11 @@ Use [Hide Among Clones and Observe]({{ '/rules/jutsu/rules/#bunshin' | relative_
 
 
 #### Henge no Jutsu - Transformation Technique
-{:#henge-no-jutsu-transformation-technique}
+{:#henge-no-jutsu-transformation-technique .jutsu-technique}
 
-This technique is as common as it is basic, yet to the ordinary civilian it's one of the most mysterious and feared capabilities ninja possess: the power to take the shape of another person. With this jutsu a ninja can alter their appearance to match that of another person or object. If used to transform into anything but another human, it only lets you take on the thing's shape and basic physical characteristics: turning into a rock wouldn't make you nearly invulnerable, turning into a bird would not let you fly, and while you could transform into a particularly large shuriken your 'edges' would be too dull to cut with--in the last case, however, you would be fairly aerodynamic.
+<span class="jutsu-rank-badge">E-Rank</span>
+
+You take the appearance of another person or object, copying its shape and basic physical characteristics. The transformation grants no special capabilities: a bird form cannot fly, a rock form is not invulnerable, and a shuriken form has no cutting edge, though it remains aerodynamic.
 
 Chakra: 5  
 Upkeep: 0  
@@ -67,7 +73,9 @@ If you try to turn into some piece of scenery, any ninja who come within 10 yard
 Any time you take damage, your Henge effect ends immediately; it's just an inherent flaw in the technique.
 
 #### Kakuremino no Jutsu - Cloak of Invisibility Technique
-{:#kakuremino-no-jutsu-cloak-of-invisibility-technique}
+{:#kakuremino-no-jutsu-cloak-of-invisibility-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">E-Rank</span>
 
 A basic fieldcraft technique that uses a correctly patterned cloak, sheet, or piece of scenery to turn a stationary shinobi into part of the background. It is simple enough for academy students to attempt, but convincing camouflage still depends on choosing the right cover and staying disciplined.
 
@@ -81,7 +89,9 @@ Requires a suitable cloak or improvised camouflage. While stationary and adjacen
 Moving more than 2 yards, attacking, or using a Jutsu with visible or audible effects ends this bonus. This does not conceal chakra from sensory techniques and provides no benefit if the camouflage is obviously inappropriate for the surroundings.
 
 #### Kawarimi no Jutsu - Substitution Technique
-{:#kawarimi-no-jutsu-substitution-technique}
+{:#kawarimi-no-jutsu-substitution-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">E-Rank</span>
 
 The final of the three basic ninja techniques--along with Bunshin and Henge--is the substitution technique, allowing a ninja to move so quickly they cannot be seen by the naked eye and replace themselves with a wooden log (don't ask where the wooden logs come from) or other harmless object.
 
@@ -95,7 +105,9 @@ Each time you use Kawarimi, its AP cost is increased by 5 for the rest of that b
 After successful use of Kawarimi, you may immediately attempt to Hide. Doing so has a cumulative \-2 penalty each time after that you use Kawarimi to do this in a single battle. Used this way, your opponent is allowed an immediate Awareness roll against your Stealth TN (though this does not apply to the cumulative bonus they would get for searching for you).
 
 #### Nawanuke no Jutsu - Rope Escape Technique
-{:#nawanuke-no-jutsu-rope-escape-technique}
+{:#nawanuke-no-jutsu-rope-escape-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">E-Rank</span>
 
 A foundational escape method taught alongside the academy's other survival basics. The user manipulates knots, posture, joints, and whatever slack is available until a restraint that looked secure suddenly is not.
 
@@ -109,7 +121,9 @@ Gain \+5 on the Athletics or Espionage roll used to escape mundane rope, wire, h
 This does not bypass chakra-created restraints, Fūinjutsu, active Grapple Control, or a restraint whose construction leaves no physical method of escape.
 
 #### Ninshiki Kaado - Ninja Info Cards
-{:#ninshiki-kaado-ninja-info-cards}
+{:#ninshiki-kaado-ninja-info-cards .jutsu-technique}
+
+<span class="jutsu-rank-badge">E-Rank</span>
 
 This jutsu uses specially prepared cards capable of being encoded with chakra. Although the cards appear blank, anyone familiar with this technique will be able to identify them.  
 The cards themselves are a trivial purchase (no cost or equipment entry associated with them). When chakra is applied to them (via use of this jutsu) they can be encoded with hidden information. This information can be retrieved the same way, but only by the person who stored the information to begin with.
@@ -122,10 +136,12 @@ Tags: Utility
 Effects: Performing this technique requires a surface to rest the cards on as they are encoded, one at a time, with chakra. Essentially any kind of information (images, graphs, maps, text) can be placed on the cards, though their size is a limiting factor. Since these can not be used to pass messages, they're typically used for more mundane uses, like holding ones shopping list.
 
 ## D-Rank
-{:#d-rank-4}
+{:#d-rank-4 .jutsu-rank-heading}
 
 #### Sumi Bunshin no Jutsu - Ink Clone Technique
-{:#sumi-bunshin-no-jutsu-ink-clone-technique}
+{:#sumi-bunshin-no-jutsu-ink-clone-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 The user breathes chakra through prepared ink and pulls it into the shape of a convincing human duplicate. Unlike an ordinary academy clone, the ink has enough substance to touch objects, leave tracks, speak, and sell a lie at close range.
 
@@ -140,8 +156,10 @@ Effects: Create one Ink Clone in an empty space within Range. It has 1 HP, no DR
 
 The clone uses your Espionage when impersonating you or performing a distraction. As a Speed 4 action, it may Feint one creature within 15 yards that can see it. Roll Espionage against the target's Awareness. On a success, that creature suffers \-2 Accuracy on its next Interrupt against anyone other than the clone before 10 IC pass. A creature that sees this clone destroyed automatically recognizes that specific clone as false.
 
-#### Chakra Suppression Technique
-{:#chakra-suppression-technique}
+#### Chakura Yokusei no Jutsu - Chakra Suppression Technique
+{:#chakra-suppression-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 The user lowers the 'noise' of their chakra until sensing them becomes difficult even when hiding physically is impossible.
 
@@ -157,7 +175,9 @@ While maintained, chakra-based Search and sensory checks against you suffer \-4.
 Using a damaging Jutsu immediately ends this upkeep after the attack resolves.
 
 #### Genjutsu Kai - Genjutsu Release
-{:#genjutsu-kai-genjutsu-release}
+{:#genjutsu-kai-genjutsu-release .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 The most common and perhaps most effective method of combatting genjutsu, if one ends up caught up in one and aware enough to realize it. Kai involves temporarily stopping the flow of chakra throughout the body, and then sending a burst to the brain in an attempt to force the attacker's chakra from their body.
 
@@ -170,7 +190,9 @@ Effects: This can be done on yourself, or someone else, but you must be able to 
 Against an Area Genjutsu, the user instead rolls Genjutsu Defense against the caster's original Genjutsu Offense. On success, the Area Genjutsu is dispelled in its entirety. This can be attempted on behalf of an affected ally even before that ally Realizes the illusion.
 
 #### Haruka Bakuhatsu no Jutsu - Remote Detonation Technique
-{:#haruka-bakuhatsu-no-jutsu-remote-detonation-technique}
+{:#haruka-bakuhatsu-no-jutsu-remote-detonation-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 Explosives are useful; and, more importantly, who doesn't love explosions? However, needing to be at ground zero of an impending explosion to set tags off is something which many shinobi, understandably, have reservations about, and severely diminishes the potential tactical uses.  
 Hence, this technique\! It allows a shinobi to detonate multiple exploding tags from a distance--not as great a distance as most would like, or as many as most shinobi would prefer, but it's better than doing it the old-fashioned way.
@@ -184,7 +206,9 @@ Effects: You detonate up to (Chakra Control skill ranks)/5 exploding tags within
 When using this technique, you may select a delay between 10 and (10 \+ Chakra Control skill ranks) IC--after that much time has passed, the tags will explode, damaging anyone within their range as usual.
 
 #### Kanashibari no Jutsu - Temporary Paralysis Technique
-{:#kanashibari-no-jutsu-temporary-paralysis-technique}
+{:#kanashibari-no-jutsu-temporary-paralysis-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 This technique temporarily restrains the victim with chakra, as if they were bound by invisible steel chains. Used effectively, it can temporarily debilitate a target for a short period of time.
 
@@ -197,7 +221,9 @@ Tags: Attack, Projectile
 Effects: This technique's Paralysis does not get a status roll and ends once its stun has expired. If used on an already-stunned victim, the Paralysis lasts until they recover from that stun.
 
 #### Shunshin no Jutsu - Body Flicker Technique
-{:#shunshin-no-jutsu-body-flicker-technique}
+{:#shunshin-no-jutsu-body-flicker-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 A high-speed movement technique which allows the user to travel incredible distances in the blink of an eye; used by a sufficiently powerful ninja, this can be mistaken for teleportation by an untrained observer.
 
@@ -209,7 +235,9 @@ Effects: You move as far as you could in a Speed X move action, where X is how m
 You may use this in addition to normal movement to help dodge an area-of-effect technique by increasing its Speed by 2\. Used this way the AP cost is doubled, and the movement is added onto your regular movement for determining AoE penalties.
 
 #### Utsusemi no Jutsu - Cicada Shell Technique
-{:#utsusemi-no-jutsu-cicada-shell-technique}
+{:#utsusemi-no-jutsu-cicada-shell-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 One of the oldest, most iconic techniques possessed by ninjas, in the eyes of civilians. It's very useful for the ninja who are concerned with acting "ninja-like", as it allows a shinobi to project their voice over an area while concealing their presence. This means that a shinobi can talk to someone without giving away their location, and can also be very unnerving.  
 This isn't a megaphone, and it doesn't let you broadcast your voice over entire towns. Your voice won't carry any farther than it normally would, but it seems to be coming from all around.
@@ -222,10 +250,12 @@ Tags: Utility, Self
 Effects: You can speak freely while hidden without giving people any indication of where you might be hiding.
 
 ## C-Rank
-{:#c-rank-4}
+{:#c-rank-4 .jutsu-rank-heading}
 
 #### Kagegakure no Jutsu - Hiding in Shadow Technique
-{:#kagegakure-no-jutsu-hiding-in-shadow-technique}
+{:#kagegakure-no-jutsu-hiding-in-shadow-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 A covert infiltration technique that compresses the user's chakra and body into the cast shadow of a nearby person or object. The technique is almost useless for fighting, but exceptional for tailing, surveillance, and getting through guarded spaces without presenting a visible body.
 
@@ -241,7 +271,9 @@ Effects: You enter the chosen shadow and move with it. While inside, ordinary si
 Exit Shadow (Speed 4): End the Upkeep and appear in any open space adjacent to the shadow. If the shadow completely disappears, the technique ends immediately and you are expelled into the nearest valid space.
 
 #### Chakra no Busan - Chakra Dispersal
-{:#chakra-no-busan-chakra-dispersal}
+{:#chakra-no-busan-chakra-dispersal .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 By channeling chakra to a specific section (usually the hands) you can counter simple projectile attacks by cutting their core causing the chakra to disperse. This process takes considerable chakra control and perfect timing.
 
@@ -250,8 +282,10 @@ Speed: 6
 Tags: Interrupt  
 Effects: This may be used to parry any C-rank or lower projectile ninjutsu originating over 5 yards away. The speed of this interrupt cannot be reduced below 3\.
 
-#### Chakra Strengthening
-{:#chakra-strengthening}
+#### Chakura Zōkyō - Chakra Strengthening
+{:#chakra-strengthening .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 A fairly simple, yet often impractically demanding technique. The user channels chakra into their limbs, increasing their speed and strength. Despite being very good at what it does, it rapidly takes a toll on one's energy reserves.
 
@@ -264,7 +298,9 @@ Effects: You have a \+X bonus to your physical damage bonus and dodge for the ne
 You can decide whether to use Stamina or Chakra for this technique's fatigue cost, but once you’ve made that choice, all future uses of Chakra Strengthening in this fight will use that choice.
 
 #### Fūsha Kage - Shadow Windmill Setup
-{:#fusha-kage-shadow-windmill-setup}
+{:#fusha-kage-shadow-windmill-setup .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 A giant shuriken, wire line, and transformation trick create a second trajectory inside the first.
 
@@ -284,7 +320,9 @@ After the target declares its Defense but before rolling, choose one: impose \-2
 The second roll cannot Wound above Major.
 
 #### Kawara Shuriken - Roof Tile Shuriken
-{:#kawara-shuriken-roof-tile-shuriken}
+{:#kawara-shuriken-roof-tile-shuriken .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 This technique lifts up nearby roof tiles and launches them at an opponent. The chakra used starts the tiles spinning and allows them to be controlled remotely, in addition to making them far stronger than normal roof tiles would be.
 
@@ -299,7 +337,9 @@ Effects: This requires you to be in a city or other area which has roofs (with t
 This is treated as a multi-throw, with the Chakra cost replacing the Stamina cost. You may 'throw' up to CHA/10 roof tiles, which deal 2d10 damage each. The Speed is the normal Speed of a multi-throw launching that many projectiles.
 
 #### Kikkake Bakuhatsu no Jutsu - Triggered Detonation Technique
-{:#kikkake-bakuhatsu-no-jutsu-triggered-detonation-technique}
+{:#kikkake-bakuhatsu-no-jutsu-triggered-detonation-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 Explosives are, to say the least, useful. Unfortunately, their utility as traps is severely limited by the fact that, normally, someone must be nearby watching over them to have them explode when necessary.  
 This technique allows tags to be set to detonate in advance, which both makes them viable as traps and allows the shinobi who placed them to attend to other matters.
@@ -311,8 +351,10 @@ Effects: You place X tags (up to a maximum of Chakra Control)/5. One or more (up
 Whenever someone comes in that many yards of a trigger tag, all the other tags it is linked with (by that usage of Triggered Detonation) will detonate that many IC later.  
 Tags placed with this technique may not be set off via Remote Detonation, nor may they be part of more than one 'set' of Triggered Detonation tags. All tags linked by a single usage of Triggered Detonation must be within (Chakra Control ranks) yards of each other.
 
-#### Beast Seal: Release
-{:#beast-seal-release}
+#### Jūin: Kai - Beast Seal: Release
+{:#beast-seal-release .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 A practical sealing technique used by monster handlers to transport trained creatures safely through dangerous territory. The monster is prepared into a dedicated Beast Seal and released when needed; the seal is a transport and safety tool, not a method of controlling the creature's mind.
 
@@ -328,7 +370,9 @@ If the monster is released after Initiative has begun, its first normal Action o
 Monster Taming allows you to learn Beast Seal: Release without meeting its normal rank requirement.
 
 #### Kyousanken no Jutsu - Iron Curtain Technique
-{:#kyousanken-no-jutsu-iron-curtain-technique}
+{:#kyousanken-no-jutsu-iron-curtain-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 The user places themself under a harmless genjutsu, which itself serves no purpose but makes it more difficult for other genjutsu to affect you normally.
 
@@ -340,7 +384,9 @@ Tags: Utility, Self, Aura
 Effects: So long as this technique's upkeep is maintained, you have a \+4 bonus to defensive genjutsu rolls. You may declare Iron Curtain as an Interrupt when targeted with genjutsu, following the normal rules for defensive interrupts and giving you its bonus for that defensive genjutsu roll. Iron Curtain does remain active (as if activated normally) after being used this way.
 
 #### Sakki Hōsha - Killing Intent Projection
-{:#sakki-hosha-killing-intent-projection}
+{:#sakki-hosha-killing-intent-projection .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 The user lets hostile chakra spill into the target's instincts before the actual attack begins.
 
@@ -358,7 +404,9 @@ Resolve against Resistance. On a full hit apply Immobilization 2 for 20 IC. This
 A target who has already resisted your Killing Intent this combat gains \+3 against subsequent uses.
 
 #### Sanzengarasu no Jutsu - Scattering One Thousand Crows Technique
-{:#sanzengarasu-no-jutsu-scattering-one-thousand-crows-technique}
+{:#sanzengarasu-no-jutsu-scattering-one-thousand-crows-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 This summons a flock of chakra-created and \-guided crows which surround and disorient them. The crows continuously multiply and clone themselves, and will soon surround the target entirely.
 
@@ -374,7 +422,9 @@ Effects: Choose one target within Range. Roll Ninjutsu Accuracy against its ordi
 An Area Attack that deals any damage to the affected target disperses these crows after the Attack resolves.
 
 #### Soushuujin - Manipulating Attack Blades
-{:#soushuujin-manipulating-attack-blades}
+{:#soushuujin-manipulating-attack-blades .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 This technique allows the user to briefly levitate multiple kunai in mid-air using chakra, and then direct them at an opponent, more quickly than if each was being thrown individually.
 
@@ -385,8 +435,10 @@ Tags: Link
 Effects: This is added to a multi-throw action. The Chakra cost is equal to the multi-throw's Stamina cost and replaces it; the Damage is that of the multi-throw, though your ninjutsu, rather than physical, damage bonus is used. You use CHA/10, rather than DEX/10, to determine how many kunai you may throw.  
 Because this technique essentially throws the projectiles in a straight line, and lacks something in precision, it cannot be used with shuriken (of any form) or senbon; only kunai. The Speed is 4, plus half the Speed of the regular multithrow action.
 
-#### Surface Hiding Technique
-{:#surface-hiding-technique}
+#### Hyōmen Kakure no Jutsu - Surface Hiding Technique
+{:#surface-hiding-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 Chakra flattens the body's outline into the colour and texture of a chosen surface.  
 Chakra: 20  
@@ -401,10 +453,12 @@ While touching a wall, ceiling, floor, large tree, or similar surface, you may i
 Moving more than 2 yards from that surface ends the technique.
 
 ## B-Rank
-{:#b-rank-4}
+{:#b-rank-4 .jutsu-rank-heading}
 
 #### Hari Jigoku - Needle Hell
-{:#hari-jigoku-needle-hell}
+{:#hari-jigoku-needle-hell .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 While Needle Jizo is active, the shinobi focuses more chakra into their hair. There is a telltale bristling and very obvious 'aiming' of their hair, before they fire of hundreds of sharpened hair-needles at nearby enemies. While these are very tiny, there are enough of them, moving fast enough, to pose a credible threat to all but the hardiest of shinobi.
 
@@ -419,9 +473,11 @@ Effects: X is a value up to Needle Jizo's current Upkeep; after using Needle Hel
 When this technique's Delay ends, anyone in the area will be automatically struck by the flying needles; raising ninjutsubased defenses ahead of time (such as Earth Shore Return or Water Encampment Wall) is explicitly allowed and automatically successful, but no defensive interrupts (such as dodging) function against this technique. In addition, any Damage Reduction a victim has is doubled against Needle Hell's damage.
 
 #### Hari Jizou - Needle Jizo
-{:#hari-jizou-needle-jizo}
+{:#hari-jizou-needle-jizo .jutsu-technique}
 
-By directing chakra into their hair, the shinobi causes it to grow rapidly. This results in their hair not only getting longer, but also growing in volume and hardening into what amounts to a forest of sharp, needle-thin and iron-hard spikes. Even the best-groomed hair becomes wild and spiky under the effects of this technique\! This can be used for a number of derivative techniques, and on its own provides a surprisingly strong defense, as the hair will wrap around its owner to protect them from attacks.  
+<span class="jutsu-rank-badge">B-Rank</span>
+
+Chakra rapidly lengthens and hardens your hair into a mass of sharp spikes that wraps around you to intercept attacks.
 When this technique ends, the user's hair returns to its normal length.
 
 Chakra: 20 \+ 3\*X  
@@ -436,7 +492,9 @@ Whenever you suffer an Ignite effect, X is reduced by half the Ignite's severity
 If X is reduced to 0, this technique ends.
 
 #### Kanchi Hadō - Sensory Pulse
-{:#kanchi-hado-sensory-pulse}
+{:#kanchi-hado-sensory-pulse .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 A brief sphere of chakra expands from the user and returns impressions of living chakra.
 
@@ -450,7 +508,9 @@ Effects:
 Perform a Search using Chakra Control with \+5 against creatures that possess chakra in Range. This counts as a search, and gains all benefits that a Ninja would normally gain to their searches.
 
 #### Kekkai Houjin - Barrier Encampment Method
-{:#kekkai-houjin-barrier-encampment-method}
+{:#kekkai-houjin-barrier-encampment-method .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 One of the most tried-and-true methods of setting traps using explosives, this puts an array of four explosive tags around the boundary of an area. If anyone tries to pass through the area the tags will detonate, spelling misfortune for the target.  
 Rumors of this technique "misfiring" and eradicating deer and bears are largely fabricated. Humans and Tamed Monsters will trigger it, but not ordinary fauna.
@@ -465,7 +525,9 @@ Notably, anyone outside the 'barrier' is unharmed; part of this technique is tha
 Directional defenses (such as Earth Shore Return) are insufficient to protect against this, a the explosion originates from multiple directions.
 
 #### Ranjishigami no Jutsu - Art of the Raging Lion's Mane
-{:#ranjishigami-no-jutsu-art-of-the-raging-lion-s-mane}
+{:#ranjishigami-no-jutsu-art-of-the-raging-lion-s-mane .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 Using their empowered hair, the Shinobi extends and manipulates it to grapple with and usually heavily damage their target.
 
@@ -482,7 +544,9 @@ You do not suffer any of the normal downsides from being involved in a grapple, 
 While using Art of the Raging Lion's Mane you do not receive any of Needle Jizo's normal benefits, but do suffer its normal penalties.
 
 #### Senri Bakuhatsu no Jutsu - Long-Range Detonation Technique
-{:#senri-bakuhatsu-no-jutsu-long-range-detonation-technique}
+{:#senri-bakuhatsu-no-jutsu-long-range-detonation-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 An improvement to the more basic remote detonation technique. As ninja become more powerful, they inevitably find themselves needing bigger explosions, and by extension, the ability to not get caught in their own explosions.
 
@@ -495,7 +559,9 @@ Tags: Utility
 Effects: You detonate up to (Chakra Control skill rank)/5 exploding tags within this technique's range, with X being the number of tags you detonate. In all other regards, it functions identically to the D-rank Remote Detonation Technique.
 
 #### Shoushagan no Jutsu - Vanishing Facial Copy Technique
-{:#shoushagan-no-jutsu-vanishing-facial-copy-technique}
+{:#shoushagan-no-jutsu-vanishing-facial-copy-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 Developed for spying and infiltration, this technique is highly effective, but grisly enough that most shinobi will deign not to even learn how to perform it, regardless of its efficacy. With this technique, you steal the face off of a corpse and make it your own.
 
@@ -509,10 +575,12 @@ This can be maintained indefinitely, but a Major or worse Head wound of any sort
 You may peel off and discard the face at will, ending this jutsu whenever you please. A discarded face cannot be reused.
 
 ## A-Rank
-{:#a-rank-4}
+{:#a-rank-4 .jutsu-rank-heading}
 
 #### Bunshin Daibakuha - Clone Great Explosion
-{:#bunshin-daibakuha-clone-great-explosion}
+{:#bunshin-daibakuha-clone-great-explosion .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 Fundamentally, most clones are little more than dense, mobile bundles of chakra. This technique takes advantage of that by essentially converting them into bombs, overloading them with the user's chakra and sending them to converge on a single point before exploding.
 
@@ -556,7 +624,9 @@ Stun: 15+5/clone
 Performing Clone Explosion with Shadow Clones has no Chakra cost.
 
 #### Meisaigakure no Jutsu - Hiding With Camouflage Technique
-{:#meisaigakure-no-jutsu-hiding-with-camouflage-technique}
+{:#meisaigakure-no-jutsu-hiding-with-camouflage-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 An advanced technique where a ninja distorts how light is reflected around their body with chakra inflections, which makes them almost invisible to most normal senses.
 
@@ -570,7 +640,9 @@ Once hidden by Meisaigakure, you are effectively invisible so long as you mainta
 If an enemy has a heightened sense of smell (such as an Inuzuka's ninken) or a doujutsu capable of viewing chakra, then your Stealth TN is considered 10 points lower (as if you were only in level 2 Stealth) for the purposes of hiding from them.
 
 #### Nunoshibari no Jutsu - Cloth Binding Technique
-{:#nunoshibari-no-jutsu-cloth-binding-technique}
+{:#nunoshibari-no-jutsu-cloth-binding-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 Chakra: 40  
 Upkeep: 12  
@@ -602,7 +674,9 @@ A total of 1000 or more damage will destroy the cloth bind, freeing the trapped 
 The victim can be freed by anyone able to remain in melee, as a Speed 20 Delay 20 action. After the cloth bind has been escaped (by any means), all seals on it dissipate and the cloth itself becomes useless.
 
 #### Shuriken Kage Bunshin no Jutsu - Shuriken Shadow Clone Technique
-{:#shuriken-kage-bunshin-no-jutsu-shuriken-shadow-clone-technique}
+{:#shuriken-kage-bunshin-no-jutsu-shuriken-shadow-clone-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 Based on the same principle as the much-more-advanced Shadow Clone technique, this creates copies of an object rather than a shinobi: specifically, as the name suggests, ordinary shuriken.  
 What makes this actually useful is the sheer number of shuriken that can be replicated with minimal exertion from the shinobi using it; for truly skilled ninja, it can easily reach into the hundreds.
@@ -624,8 +698,10 @@ You may attack any number of targets that way, using up to a maximum of X+1 shur
 This is treated as a ranged taijutsu multi-throw using shuriken, and does receive the normal \+2 Accuracy from shuriken. No matter how many people are targeted, this is treated as a single attack, with one Accuracy and one damage roll.  
 Shuriken Shadow Clone Technique cannot be used with poisoned weapons.
 
-#### Rasengan
-{:#rasengan}
+#### Rasengan - Spiralling Sphere
+{:#rasengan .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 A dense sphere of chakra spun through extreme shape transformation, the Rasengan grinds into the target before detonating its rotational force through them.
 
@@ -640,7 +716,9 @@ Tags: Attack, Melee, Blunt
 Effects: Rasengan ignores 20% of the target's Damage Reduction. Its damage is considered 25% higher for determining Wounds. Rasengan requires one free hand, but no handseals.
 
 #### Ōdama Rasengan - Big Ball Rasengan
-{:#odama-rasengan-big-ball-rasengan}
+{:#odama-rasengan-big-ball-rasengan .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 The user pours substantially more chakra into a Rasengan until the rotating sphere becomes large enough that the impact catches everyone standing too close to the target.
 
@@ -657,7 +735,9 @@ Tags: Attack, Melee, AoE, Blunt
 Effects: Choose one primary target in melee. Other creatures in the Area defend against the same Accuracy but take 50% final damage and half the listed Stun and Knockback. You are not affected by your own Area. Against the primary target, ignore 20% of Damage Reduction.
 
 #### Hiraishin no Jutsu - Flying Thunder God Technique
-{:#hiraishin-no-jutsu-flying-thunder-god-technique}
+{:#hiraishin-no-jutsu-flying-thunder-god-technique .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 A space-time technique built around personally prepared formulae. The user disappears from one point and arrives at one of their marks without crossing the distance between them.
 

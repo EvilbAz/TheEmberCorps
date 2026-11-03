@@ -698,7 +698,7 @@ It may fire a single Shuriken, fire a Volley, or launch its loaded Fūma Shurike
 ### Armor Crafting
 {:#armor-crafting}
 
-So… You want to create your own armor, huh? Maybe you’re too poor to afford the prices of all these sets of armor ,or maybe you simply don’t think what’s on the market is stylish enough to fit your fabulous aesthetics, either way, you’ve found yourself here as an Armorsmith.
+Craft armor by choosing its structure, protected location and traits.
 
 You can craft armor with X Artisan Points up to a max of your Artisan Ranks which you can spend on its traits (see below). Armor has a crafting TN of 15 \+ 3\*X and a cost of 2,500 \+ (500 × X) Ryō, where X is its Final Artisan Points. This consists of the cost for resources, tools, and any extra parts necessary.
 
@@ -875,7 +875,7 @@ Armor Immobilization and Stealth penalties stack across all worn pieces. Reduce 
 ## Craftsman
 {:#craftsman}
 
-You may not want to supply arms in the form of weapons, but there are plenty of other useful tools for hunter. From flash bombs and lockpicks to kunai and bows you want to supply basically everything else in a hunter’s toolkit.
+Craft tools and supplies for a hunter’s kit, from flash bombs and lockpicks to weapons.
 
 Upon gaining 1 Rank in the Artisan (Craftsman) Skill, you gain the ability to create equipment from the gear and exploding tags category. This requires you to spend a Downtime Slot on an “Equipment Crafting” Action, rolling your Artisan Skill vs a TN of the Artisan Points (explained below) determined by the item. You may pool your rolls until you amass enough to match the TN, which may take a number of Slots and/or Downtime Cycles.
 
@@ -919,7 +919,7 @@ Antidotes that act quickly enough to be useful in emergencies, such as combat, a
 ##### Uncraftable
 {:#uncraftable}
 
-Sadly due to technological limitations there are some things you as a hunters are unable to craft normally. You are unable to make the following items:
+The following items require technology unavailable to ordinary crafters:
 
 - Flashlight
 
@@ -963,12 +963,12 @@ Toxicology rolls carry over to the next Downtime until you’ve reached the TN, 
 
 Poisons are measured in doses. A dose is how much of the substance is required to poison a hunter and apply the effects of a particular brew. Whenever you Brew a new Poison, this is how much you make. Once, the main measurement unit was how many whales or elephants the poison could kill (The bare minimum needed to even begin affecting hunter) but we’ve long since moved past such archaic measurements.
 
-Every additional effect of a dose of Poison has a cost in Ryo, this represents the costs of ingredients and reagents and tools that are needed to be acquired to Brew that specific batch. If the total Ryo cost cannot be met, then the Brewer simply doesn’t have enough ingredients to make that Poison.
+Pay the total Ryō cost of the poison’s effects to obtain the ingredients, reagents and tools for the batch.
 
 #### Types of Poison
 {:#types-of-poison}
 
-Poisons have four possible vectors, or ways to inflict them upon the unfortunate souls fighting you: Contact, Injury, Inhalation, and Ingestion. When you start making a Poison, you must apply which vector is used to apply your Poison with. There are pros and cons to each form of Poison, and the skilled brewer knows that there is a right situation for every kind.
+Choose how the poison is delivered: Contact, Injury, Inhalation or Ingestion.
 
 Contact: Contact Poisons can be applied to any blunt or slashing weapon, and as long as you hit with the Contact Poison, even if you deal no damage, you apply a dose of the Poison. Contact Poisons gain no other effects.
 
@@ -983,7 +983,7 @@ No matter how many poisons you're afflicted by, or their type, similar effects d
 #### Time
 {:#time}
 
-When Hunters are in a fight, their hearts are beating a mile a minute (sometimes it literally is that fast), and their circulatory system is in full gear. While this tends to sharpen their reflexes and prepare their bodies for the fight, it also makes Poisons spread all that much faster through their system. During a fight or similarly high-stress scenarios, Duration of Poisons are measured in ICs, meaning its effects are applied every IC, including the Poison’s Severity. However, outside of combat, or when the Hunter is incapacitated, the heart slows down and the body has more resources to invest into battling the Poison, Duration during these times are measured in minutes rather than ICs. For example, a Poison Severity 5, Duration 75 applied outside of combat lasts for 75 minutes, and every minute they would lose 5 Vitality or HP.
+In combat or similarly stressful situations, Poison Duration is measured in IC and its effects apply each IC. Outside combat, or while the target is incapacitated, use minutes instead. For example, Poison Severity 5 with Duration 75 lasts 75 minutes outside combat, dealing 5 Vitality or HP damage each minute.
 
 #### Resisting Poison
 {:#resisting-poison}

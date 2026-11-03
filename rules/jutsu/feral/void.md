@@ -60,10 +60,13 @@ Your Void Attacks ignore 25% of DR granted by Chakra-based effects, increasing t
 ## Native Feral Jutsu
 {:#native-feral-jutsu}
 
-### Void Release: Hollow Needle
-{:#void-release-hollow-needle}
+## C-Rank
+{:#c-rank .jutsu-rank-heading}
 
-***C-Rank***
+#### Kyoton: Kūshin - Void Release: Hollow Needle
+{:#void-release-hollow-needle .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 *A tiny needle of colourless chakra slips through the target. The physical wound is small. The dead sensation spreading through their chakra network is not.*
 
@@ -73,10 +76,13 @@ Your Void Attacks ignore 25% of DR granted by Chakra-based effects, increasing t
 
 Hollow Needle ignores 50% of DR granted by Chakra-based techniques or abilities. On hit, apply Null 1 directly to the target.
 
-### Void Release: Hollow Domain
-{:#void-release-hollow-domain}
+## B-Rank
+{:#b-rank .jutsu-rank-heading}
 
-***B-Rank***
+#### Kyoton: Kūhaku Ryōiki - Void Release: Hollow Domain
+{:#void-release-hollow-domain .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 *Colour dulls at the edge of the field. Active chakra begins to drag, flicker and feel heavier to maintain.*
 
@@ -88,10 +94,13 @@ On activation, the Area gains Null 2\. Hollow Domain Anchors Null in its Area wh
 
 Every 10 IC after activation, increase that Area's Null by 1, to a maximum of 5\. A Ninjutsu effect activated while its creator is inside Hollow Domain uses the Area's Null to determine the creature's increased Chakra cost.
 
-### Void Release: Blackout
-{:#void-release-blackout}
+## A-Rank
+{:#a-rank .jutsu-rank-heading}
 
-***A-Rank***
+#### Kyoton: Anten - Void Release: Blackout
+{:#void-release-blackout .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 *The user floods an Area with chakra designed to destroy coherence in other chakra. Barriers flicker, Constructs fracture and maintained techniques suddenly feel expensive.*
 

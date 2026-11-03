@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Refresh rule excerpts and anchors from the published Markdown sources."""
+"""Build complete search sections from public source pages; keep explicit anchors."""
 from pathlib import Path
 from html import unescape
 import json
@@ -7,6 +7,7 @@ import re
 
 ROOT = Path(__file__).resolve().parents[1]
 INDEX = ROOT / 'assets/data/search-index.json'
+MD_HEADING = re.compile(r'^(#{1,6}) ([^\n]+)\n\{:#([^\s}]+)[^}]*\}', re.M)
 
 def expand(text):
     def include(match):
@@ -17,21 +18,23 @@ def plain(text):
     text = re.sub(r'<(?:style|script)\b.*?</(?:style|script)>', '', text, flags=re.S)
     text = re.sub(r'<[^>]+>', ' ', text)
     text = re.sub(r'{[{%].*?[}%]}', '', text, flags=re.S)
-    text = re.sub(r'\{:#.*?\}', '', text)
+    text = re.sub(r'\{:[^}]*\}', '', text)
     text = re.sub(r'\[([^]]+)\]\([^\n]*?\)', r'\1', text)
-    text = re.sub(r'\\([+*().!>\-])', r'\1', text)
+    text = re.sub(r'\\([+*().!><=\-\[\]])', r'\1', text)
     text = re.sub(r'[*#_`|]', '', text)
     return ' '.join(unescape(text).split())
 
 def sources():
     pages = {}
-    for path in sorted(ROOT.rglob('*.md')):
-        if any(part.startswith(('_', '.')) or part in ('scripts', 'minecraft-mod-source') for part in path.relative_to(ROOT).parts):
+    for path in sorted([*ROOT.rglob('*.md'), *ROOT.rglob('*.html')]):
+        if any(part.startswith(('_', '.')) or part in ('scripts', 'review', 'node_modules', 'vendor', 'minecraft-mod-source') for part in path.relative_to(ROOT).parts):
             continue
         text = path.read_text()
         if not text.startswith('---\n'):
             continue
         _, front, body = text.split('---', 2)
+        if re.search(r'^search:\s*false\s*$', front, re.M):
+            continue
         match = re.search(r'^permalink:\s*["\']?([^"\'\n]+)', front, re.M)
         if not match:
             continue
@@ -40,42 +43,36 @@ def sources():
         pages[match[1].strip()] = (expand(body), title[1] if title else path.stem, volume[1] if volume else '')
     return pages
 
+def sections(body):
+    matches = [(m.start(),m.end(),m[3],plain(m[2])) for m in MD_HEADING.finditer(body)]
+    # HTML directories, lore dossiers and timeline entries also belong in search.
+    for m in re.finditer(r'<([\w-]+)\b[^>]*\bid="([^"]+)"[^>]*>',body):
+        if m[1] in ('script','style','svg','path','input','button'): continue
+        tail = body[m.end():]
+        heading = re.search(r'<h[1-6]\b[^>]*>(.*?)</h[1-6]>',tail,re.S)
+        if re.fullmatch('h[1-6]',m[1]):
+            title = plain(tail.split('</'+m[1]+'>',1)[0])
+        elif heading:
+            title = plain(heading[1])
+        else:
+            title = plain(m[2].replace('-',' ')).title()
+        matches.append((m.start(),m.end(),m[2],title))
+    matches.sort()
+    return matches
+
 def rebuild():
-    old = json.loads(INDEX.read_text())
-    pages = sources()
     records = []
-    seen = set()
-    sections = {}
-    for url, (body, title, number) in pages.items():
-        matches = list(re.finditer(r'^(#{1,6}) ([^\n]+)\n\{:#([^}]+)\}', body, re.M))
-        sections[url] = {}
-        for i, match in enumerate(matches):
-            end = matches[i + 1].start() if i + 1 < len(matches) else len(body)
-            sections[url][match[3]] = (plain(match[2]), plain(body[match.end():end])[:207])
-    # Preserve handcrafted catalogue and directory entries, refreshing Markdown excerpts.
-    for record in old:
-        route, _, anchor = record['url'].partition('#')
-        if route not in pages:
-            continue
-        body, _, _ = pages[route]
-        current = sections[route].get(anchor)
-        if anchor and not current and anchor not in re.findall(r'\bid="([^"]+)"', body):
-            continue
-        item = dict(record)
-        if current:
-            item['title'], item['text'] = current
-        elif not anchor:
-            item['text'] = plain(body)[:207]
-        if item['url'] not in seen:
-            records.append(item)
-            seen.add(item['url'])
-    for route, by_anchor in sections.items():
-        _, title, number = pages[route]
-        for anchor, (heading, excerpt) in by_anchor.items():
-            url = route + '#' + anchor
-            if url not in seen:
-                records.append(dict(title=heading, volume=title, number=number, url=url, text=excerpt))
-                seen.add(url)
+    for route, (body,title,number) in sources().items():
+        matches = sections(body)
+        intro = plain(body[:matches[0][0]]) if matches else plain(body)
+        records.append(dict(title=title,volume=title,number=number,url=route,text=intro or title))
+        seen = set()
+        for i, (start,end,anchor,heading) in enumerate(matches):
+            assert anchor not in seen, f'Duplicate anchor: {route}#{anchor}'
+            seen.add(anchor)
+            stop = matches[i+1][0] if i+1 < len(matches) else len(body)
+            # Index all rules, costs and effects, not a truncated display excerpt.
+            records.append(dict(title=heading,volume=title,number=number,url=route+'#'+anchor,text=plain(body[end:stop])))
     return records
 
 if __name__ == '__main__':

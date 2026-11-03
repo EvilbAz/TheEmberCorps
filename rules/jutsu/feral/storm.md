@@ -63,10 +63,13 @@ Once per Action, originating a Storm Jutsu from a Storm Node leaves that Node's 
 ## Native Feral Jutsu
 {:#native-feral-jutsu}
 
-### Storm Release: Arc Javelin
-{:#storm-release-arc-javelin}
+## C-Rank
+{:#c-rank .jutsu-rank-heading}
 
-***C-Rank***
+#### Ranton: Raikō no Yari - Storm Release: Arc Javelin
+{:#storm-release-arc-javelin .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 *A thin spear of brilliant lightning tears through the air. The electricity clings to its victim and immediately searches for somewhere else to go.*
 
@@ -76,10 +79,13 @@ Once per Action, originating a Storm Jutsu from a Storm Node leaves that Node's 
 
 On hit, Arc Javelin applies Charge 1 before checking for an Arc. The new Charge can immediately serve as the first Storm Node.
 
-### Storm Release: Thunderhead
-{:#storm-release-thunderhead}
+## B-Rank
+{:#b-rank .jutsu-rank-heading}
 
-***B-Rank***
+#### Ranton: Raigumo - Storm Release: Thunderhead
+{:#storm-release-thunderhead .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 *A low ceiling of charged chakra gathers over the battlefield. Static crawls over every surface beneath it and lightning begins choosing its own paths.*
 
@@ -91,10 +97,13 @@ On activation, choose up to two creatures, objects or points in the Area and app
 
 Every 10 IC after activation, choose one creature, object or point in the Area and apply Charge 1\. This can create a new Storm Node or increase an existing one.
 
-### Storm Release: World Circuit
-{:#storm-release-world-circuit}
+## A-Rank
+{:#a-rank .jutsu-rank-heading}
 
-***A-Rank***
+#### Ranton: Sekai Kairo - Storm Release: World Circuit
+{:#storm-release-world-circuit .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 *Every charged creature and object becomes part of one enormous circuit. Lightning stops travelling from the user to the enemy and starts travelling everywhere.*
 

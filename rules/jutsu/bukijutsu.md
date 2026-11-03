@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/bukijutsu/"
 # Bukijutsu
 {:#bukijutsu-2}
 
-Bukijutsu builds on normal weapon attacks rather than replacing them. Bukijutsu adds strength-scaled damage and weapon-specific ways to break guards, punish defenses, disable weapons and finish a Chain. The core Chain structure is unchanged, but it is slightly more forgiving so using a sensible weapon action does not immediately erase the sequence you have built.
+Bukijutsu adds strength-scaled damage and weapon-specific effects to Basic Weapon Attacks. Use Chains to pressure a target and set up a finisher.
 
 ## Learning Requirements
 {:#learning-requirements-2}
@@ -147,16 +147,21 @@ Seamless Wind may carry one Fan-tagged Fuuton through an active Chain. The Fuuto
 ## Bukijutsu Stances
 {:#bukijutsu-stances}
 
-Stances are ordinary Self Upkeep Bukijutsu. You may maintain only one Bukijutsu Stance at a time; activating another ends the first. They do not end merely because you attack, move or defend. They use the normal Upkeep rules, may be activated through Preparation when legal, and interact with generic Upkeep effects only when those effects actually apply to Bukijutsu or to Upkeep generally. Effects written specifically for Ninjutsu Upkeep do not apply.
+Stances are Self Upkeep Bukijutsu. Maintain only one at a time; activating another ends the first. Attacking, moving and defending do not end a Stance. Stances use normal Upkeep and Preparation rules, but do not receive effects restricted to Ninjutsu Upkeep.
 
 Bukijutsu Stances do not cost XP to learn and are automatically unlocked when you meet the relevant Bukijutsu rank requirements.
 
 Bukijutsu Stances cannot be chosen as Signature Moves unless another rule explicitly allows it.
 
-#### High Guard
-{:#high-guard}
+### D-Rank
+{:#bukijutsu-stances-d-rank .jutsu-rank-heading}
 
-You hold the weapon high enough to threaten the first line immediately, accepting a more exposed defensive posture.
+#### Jōdan no Kamae - High Guard
+{:#high-guard .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
+
+You raise your weapon for a forceful attack, leaving yourself more exposed.
 
 Rank: D  
 Stamina: 8  
@@ -165,8 +170,10 @@ Speed: 4
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
 Effects: Your Chain 1 and Chain 2 Melee Bukijutsu gain +Athletics/5 Accuracy. Your Chain 3 Melee Bukijutsu gain +15% Final Damage.
 
-#### Low Guard
-{:#low-guard}
+#### Gedan no Kamae - Low Guard
+{:#low-guard .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
 
 The weapon stays low and close to the body, making it easier to receive an attack before committing to your own.
 
@@ -177,10 +184,12 @@ Speed: 4
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
 Effects: Gain +Athletics/5 to targeted Melee Parries. After fully defending against an enemy Attack, your next Melee Chain Attack against that enemy gains +15% Final Damage if it is your next non-Interrupt Action.
 
-#### Long Guard
-{:#long-guard}
+#### Nagai Kamae - Long Guard
+{:#long-guard .jutsu-technique}
 
-You extend the weapon into the space in front of you and make the opponent fight through its reach before they can reach your body.
+<span class="jutsu-rank-badge">D-Rank</span>
+
+You keep your weapon extended to hold an opponent at the edge of its reach.
 
 Rank: D  
 Stamina: 9  
@@ -189,10 +198,15 @@ Speed: 4
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
 Effects: Increase your Melee Weapon Reach by 50%, minimum +2 yards. Gain +Athletics/5 Parry against targeted Melee Attacks that began outside your unmodified weapon Reach.
 
-#### Open Guard
-{:#open-guard}
+### C-Rank
+{:#bukijutsu-stances-c-rank .jutsu-rank-heading}
 
-You deliberately leave a line available, using the invitation to make the defender commit before your real angle is chosen.
+#### Hiraki no Kamae - Open Guard
+{:#open-guard .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
+
+You leave an opening to draw the opponent into a committed defense.
 
 Rank: C  
 Stamina: 12  
@@ -201,8 +215,10 @@ Speed: 5
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
 Effects: After the target declares its Defense against your Chain Attack, impose a penalty of Athletics/5 on that Defense. The penalty applies once to each Attack, including one that generates multiple hits.
 
-#### Point Guard
-{:#point-guard}
+#### Kissaki no Kamae - Point Guard
+{:#point-guard .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 You keep the point or striking line fixed on one part of the opponent and sacrifice broader coverage for precision.
 
@@ -213,10 +229,15 @@ Speed: 5
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
 Effects: Reduce Called Shot Accuracy penalties with weapon attacks by Athletics/5, minimum 0. Called Shots gain +15% Wounding.
 
-#### Committed Guard
-{:#committed-guard}
+### B-Rank
+{:#bukijutsu-stances-b-rank .jutsu-rank-heading}
 
-You build every movement around the next heavy commitment, gaining force at the cost of reacting cleanly when the opponent moves first.
+#### Sutemi no Kamae - Committed Guard
+{:#committed-guard .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
+
+You commit your weight to heavy strikes.
 
 Rank: B  
 Stamina: 18  
@@ -229,10 +250,15 @@ Effects: Damaging Melee Bukijutsu gain +25% Wounding. Increase their printed Kno
 # Universal Bukijutsu
 {:#universal-bukijutsu}
 
-#### Weapon Recovery
-{:#weapon-recovery}
+### E-Rank
+{:#universal-bukijutsu-e-rank .jutsu-rank-heading}
 
-A weapon on the ground is not “out of the fight”; it is a problem of distance, timing, and who reaches it first. You hook it with a foot, catch a returning cord, snatch it from the dirt, or draw a replacement without surrendering the exchange you already built.
+#### Buki Kaishū - Weapon Recovery
+{:#weapon-recovery .jutsu-technique}
+
+<span class="jutsu-rank-badge">E-Rank</span>
+
+You recover or ready a weapon without losing the sequence of your attacks.
 
 Rank: E  
 Stamina: 4  
@@ -240,10 +266,15 @@ Speed: 3
 Tags: Chain X, Utility, Bukijutsu  
 Effects: Draw, pick up, or retrieve one weapon within arm’s reach without changing Chain value.
 
-#### Flowing Guard
-{:#flowing-guard}
+### D-Rank
+{:#universal-bukijutsu-d-rank .jutsu-rank-heading}
 
-A practiced stance change should not look like somebody stopping to remember a new pose. You let the old guard collapse naturally into the new one, moving hands, feet, and weapon through positions that remain dangerous the entire time.
+#### Ryūsui no Kamae - Flowing Guard
+{:#flowing-guard .jutsu-technique}
+
+<span class="jutsu-rank-badge">D-Rank</span>
+
+You shift your footing and grip into a new stance while maintaining pressure.
 
 Rank: D  
 Stamina: 6  
@@ -251,10 +282,15 @@ Speed: 3
 Tags: Chain X, Utility, Bukijutsu  
 Effects: Switch from one active Bukijutsu Stance to another you know without changing Chain value. Pay this technique’s Stamina and Speed instead of the new Stance’s activation costs. The old Stance ends and the new Upkeep begins.
 
-#### Weapon Breaker
-{:#weapon-breaker}
+### B-Rank
+{:#universal-bukijutsu-b-rank .jutsu-rank-heading}
 
-When an opponent trusts their weapon to catch yours, you punish the contact itself. The strike is allowed to bite into the defending edge, shaft, guard, or frame at the point of worst leverage, turning a successful defense into a durability problem.
+#### Buki Kudaki - Weapon Breaker
+{:#weapon-breaker .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
+
+Your strike bites into the weakest point of the weapon used to catch it.
 
 Rank: B  
 Stamina: \+10  
@@ -262,10 +298,12 @@ Speed: \+2
 Tags: Link, Bukijutsu  
 Effects: Use retroactively after your weapon Attack is successfully Parried or Blocked by a weapon. After that Defense resolves, inflict WDP equal to half the defending weapon’s damage-level threshold, rounded up. Use that weapon’s Durability + its wielder’s DEX/10. This is explicit weapon damage and applies once to that weapon per Attack.
 
-#### Chakra Reinforcement
-{:#chakra-reinforcement}
+#### Chakura Kyōka - Chakra Reinforcement
+{:#chakra-reinforcement .jutsu-technique}
 
-Chakra can make a weapon behave differently without changing what it physically is. You reinforce the part that matters for the injury you want—edge, point, striking face, or a projected chakra surface—letting one familiar weapon answer several kinds of protection.
+<span class="jutsu-rank-badge">B-Rank</span>
+
+You shape chakra around the weapon’s striking surface, changing the injury it inflicts.
 
 Rank: B  
 Chakra: 22  
@@ -274,8 +312,13 @@ Speed: 10
 Tags: Utility, Self, Upkeep, Bukijutsu  
 Effects: Choose Blunt, Slashing, Piercing or Energy. One held weapon may deal that wound type and gains a Damage Bonus equal to half your NDB. Calculate this bonus when activating the technique, before bonuses granted by maintained weapon techniques.
 
-#### Chakra Reach
-{:#chakra-reach}
+### A-Rank
+{:#universal-bukijutsu-a-rank .jutsu-rank-heading}
+
+#### Chakura Enshin - Chakra Reach
+{:#chakra-reach .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 Shaped chakra extends the weapon’s edge, point, or striking line beyond its physical reach, carrying the threat several yards past the material weapon.
 
@@ -290,10 +333,15 @@ Effects: One Melee Weapon gains additional Reach equal to the greater of its unm
 ## Chakra Flow
 {:#chakra-flow}
 
-#### Chakura Nagashi - Chakra Flow
-{:#chakura-nagashi-chakra-flow}
+### C-Rank
+{:#chakra-flow-c-rank .jutsu-rank-heading}
 
-By circulating elemental chakra through a weapon, the user transforms its properties. Blades may burn with unnatural heat, become impossibly heavy, or crackle with lightning. Even the rarest elemental natures can be channelled through steel, producing weapons as distinctive as their wielders.
+#### Chakura Nagashi - Chakra Flow
+{:#chakura-nagashi-chakra-flow .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
+
+You circulate elemental chakra through your weapons, coating them in flame, stone, lightning or another nature you can use.
 
 Rank: C  
 Chakra: 20  
@@ -400,8 +448,13 @@ Weapon Attacks gain Blast 4 and count as Bakuton Melee Attacks for the purpose o
 
 The weapon ignores 50% of the target's DR and deals double Final Damage against chakra-created Barriers and Constructs.
 
+### B-Rank
+{:#chakra-flow-b-rank .jutsu-rank-heading}
+
 #### Chakura Nagashi: Enkaku Dendō - Long Conduction
-{:#chakura-nagashi-enkaku-dendo-long-conduction}
+{:#chakura-nagashi-enkaku-dendo-long-conduction .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 Ordinary Chakra Flow fades as a weapon leaves its wielder's grasp. Through advanced chakra control, the user can sustain that current across greater distances, sending arrows trailing flame, shuriken crackling with lightning, or kunai carrying the crushing weight of earth.
 

@@ -1,0 +1,6 @@
+node_modules/
+_site/
+_preview/
+.jekyll-cache/
+__pycache__/
+*.pyc

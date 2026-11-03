@@ -234,12 +234,12 @@ As the name would suggest, this increases the damage you do with physical attack
 Damage bonus is unique in that it is calculated to a single decimal place. For example, with STR 25, your Physical Damage Bonus is 25/18 = 1.388..., recorded as 1.3 when truncated to one decimal place.
 
 Damage Bonus, Ninjutsu (NDB)  
-This functions practically identically to physical damage bonus, except that it applies to attacks based on their potency of your chakra rather than your physical strength, which generally means ninjutsu..
+Applies to attacks powered by chakra, usually Ninjutsu. It follows the same calculation and rounding rules as Physical Damage Bonus.
 
 - Your damage bonus is CHA/18.
 
 Willpower (WP)  
-Your overall strength of will. This is both your raw determination, and your confidence in your body's ability to keep going, and perform at a higher level, even when it, well, can't.
+Your determination and ability to push beyond your normal limits.
 
 - You have a base WP of 3 which can be increased mainly through uniques (such as Hidden Potential) or the Determined ability.
 
@@ -558,7 +558,7 @@ Certain abilities will also say "Requires: (something)". You cannot take any ran
 #### Brute Force
 {:#brute-force}
 
-You're good at... well, exactly what it sounds like: applying a lot of force all at once. It might be sheer physical strength, or you could just know how to strike properly.
+Your training puts greater force behind physical attacks.
 
 Each rank increases your physical damage bonus by 0.2.  
 Cost: 5  
@@ -697,7 +697,7 @@ Limit: AGI /20
 #### Runner
 {:#runner}
 
-You're both a distance runner and sprinter\! Pretty awesome, huh?
+You train for both speed and endurance.
 
 Every rank in this ability increases your AGI for the purpose of movement by 10% when you're taking a Move action; moving as part of an attack, or techniques such as Shunshin, do not receive Runner's bonus.
 
@@ -766,7 +766,7 @@ Requires: Combo Master 3
 #### Somatic Caster
 {:#somatic-caster}
 
-Sometimes you need to kick it up a notch in the middle of a sequence, perhaps your attacks are not strong enough or there’s a particular defense you can’t get around. Luckily Ninjutsu is there to solve your problems.
+You weave Ninjutsu into a combo to strengthen an attack or overcome a defense.
 
 You can use one non-interrupt Ninjutsu technique at any point during your current Combo. This reduces your CC equal to the rank of the jutsu used.
 
@@ -810,7 +810,7 @@ Limit: Number of distinct Grapple Jutsu you know
 #### Pressure
 {:#pressure}
 
-You know just how to hold a person so they’re holding your weight through the hard, hurty, parts of your body into the squishy, vulnerable parts of their body.
+You use your weight and leverage to drive pressure into vulnerable points.
 
 Each rank gives you \+1 to your Grapple Offense.  
 Cost: 4  
@@ -832,7 +832,7 @@ Limit: Athletics/5, max 4
 #### Escape Artist
 {:#escape-artist}
 
-You know just how to hold a person so they’re holding your weight through the hard, hurty, parts of your body into the squishy, vulnerable parts of their body.
+You use your weight and leverage to drive pressure into vulnerable points.
 
 Each rank gives you \+1 to your Grapple Defense.  
 Cost: 6  
@@ -2153,7 +2153,7 @@ Stabilise does not restore HP, remove a Wound or wake an Incapacitated creature.
 #### Take The Hit (Speed 6, Interrupt)
 {:#take-the-hit-speed-6-interrupt}
 
-Taking the hit is the glorious move the stronger person or sensei uses to protect their weaker ally\! Unlike other interrupts this only needs to be the same speed as the action it’s interrupting. You make a dodge roll with a \+5 bonus; if successful, you've leapt in the way of an attack aimed at your ally. If you fail, your ally takes 20% of the damage per point you failed by. (For example: If you fail by 2 points, you'd take 60% damage, and your ally 40% damage). If you are more than one yard away from the person you are attempting to take the hit for, you may take penalties to your take the hit roll. To determine if you do or not, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the distance between you and the person you are attempting to take the hit for, then congratulations, you can take the hit normally. If not, you have a \-2 penalty to your take the hit roll per yard you're short by. "The Nimble" ability reduces this penalty at the same rate it reduces area of effect dodge penalties.
+You intercept an attack aimed at an ally. Unlike other interrupts this only needs to be the same speed as the action it’s interrupting. You make a dodge roll with a \+5 bonus; if successful, you've leapt in the way of an attack aimed at your ally. If you fail, your ally takes 20% of the damage per point you failed by. (For example: If you fail by 2 points, you'd take 60% damage, and your ally 40% damage). If you are more than one yard away from the person you are attempting to take the hit for, you may take penalties to your take the hit roll. To determine if you do or not, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the distance between you and the person you are attempting to take the hit for, then congratulations, you can take the hit normally. If not, you have a \-2 penalty to your take the hit roll per yard you're short by. "The Nimble" ability reduces this penalty at the same rate it reduces area of effect dodge penalties.
 
 You may use interrupts to defend yourself, up to a maximum Speed of how many points your Take The Hit roll beat the opponent's accuracy, with the exception of Dodge. If your last non-interrupt action before Take The Hit was Prepare Blocking (see below) you can use the Block action vs this attack.
 
@@ -2589,7 +2589,7 @@ Ignore Armor bypasses the armour’s positive effects, including Absorption, Wou
 Certain things apply not to an individual, but to all things within a given area--their "area of effect", or AoE. These include things like explosions and smoke bombs The simpler type of AoEs are ones which are not directly offensive, such as a smoke bomb or a jutsu that creates a thick cloud of mist. These apply certain effects so long as you're in them, and can only be avoided by moving out.
 
 Others, however, are attacks: they cause damage to everyone within an area. Depending on that area, it may not even be possible to avoid one effectively.  
-When being subjected to an AoE attack, the first thing to determine is if you can dodge it effectively. To do this, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the effect's radius, then congratulations, you can dodge normally.  
+When being subjected to an AoE attack, the first thing to determine is if you can dodge it effectively. To do this, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the effect's radius, you can Dodge normally.  
 If not, you have a \-2 penalty to Dodge per yard you're short by.
 
 As AoEs are not, strictly speaking, targeting you, they have special stipulations. An AoE can be parried only by a defense that explicitly permits AoE Parries. Such a Parry grants no Partial Defense and only protects the person parrying unless stated otherwise. All other potential targets must still defend from the AoE themselves.

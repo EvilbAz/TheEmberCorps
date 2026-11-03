@@ -16,11 +16,13 @@
     ['Where the Roads End', 'where_the_roads_end.ogg']
   ];
 
+  const read = key => { try { return localStorage.getItem(key); } catch { return null; } };
+  const save = (key,value) => { try { localStorage.setItem(key,value); } catch {} };
   const audio = new Audio();
   audio.preload = 'metadata';
-  audio.volume = Number(localStorage.getItem('ember-ambient-volume') || 0.34);
+  audio.volume = Math.max(0, Math.min(1, Number(read('ember-ambient-volume') ?? 0.34) || 0));
 
-  let index = Number(localStorage.getItem('ember-ambient-track') || 0);
+  let index = Number(read('ember-ambient-track') || 0);
   if (!Number.isInteger(index) || index < 0 || index >= tracks.length) index = 0;
 
   const toggle = root.querySelector('[data-ambient-toggle]');
@@ -39,7 +41,7 @@
     const [name, file] = tracks[index];
     title.textContent = name;
     count.textContent = `${index + 1} / ${tracks.length}`;
-    localStorage.setItem('ember-ambient-track', String(index));
+    save('ember-ambient-track', String(index));
     if (audio.src !== new URL(sourceFor(file), location.href).href) audio.src = sourceFor(file);
     if ('mediaSession' in navigator) {
       navigator.mediaSession.metadata = new MediaMetadata({
@@ -53,6 +55,7 @@
   function setPlaying(state) {
     toggle.classList.toggle('is-playing', state);
     toggle.setAttribute('aria-pressed', String(state));
+    toggle.setAttribute('aria-label', state ? 'Pause Ember ambience' : 'Play Ember ambience');
     play.textContent = state ? 'Ⅱ' : '▶';
     play.setAttribute('aria-label', state ? 'Pause ambience' : 'Play ambience');
   }
@@ -106,7 +109,7 @@
   volume.value = Math.round(audio.volume * 100);
   volume.addEventListener('input', () => {
     audio.volume = Math.max(0, Math.min(1, Number(volume.value) / 100));
-    localStorage.setItem('ember-ambient-volume', String(audio.volume));
+    save('ember-ambient-volume', String(audio.volume));
   });
 
   audio.addEventListener('ended', () => changeTrack(1));

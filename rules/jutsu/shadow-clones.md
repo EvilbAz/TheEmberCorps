@@ -10,12 +10,12 @@ permalink: "/rules/jutsu/shadow-clones/"
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
 
 
-# Shadow Clones
+# Kage Bunshin - Shadow Clones
 {:#shadow-clones}
 
-Perhaps the pinnacle of development for the ninja replication technique is this jutsu. Whereas bunshin creates what are essentially illusions, shadow clones use chakra to create a perfect copy of the original person. Despite this, they are fairly delicate and unstable; a solid blow will harm the clone as if it was flesh and blood, but moments later the bunshin will vanish in a puff of smoke.
+Shadow clones are physical copies formed from chakra. A solid blow causes them to disperse in smoke.
 
-Although you do not have a mental link with your clones, when one ceases to exist (either because it's destroyed or because you voluntarily ended it) you gain memories of all the experiences it had in the time when it was separated from you. These memories, while 'legible', seem slightly unreal, the mental equivalent of looking at a photograph's negatives (meaning you can't confuse them with your own "real" memories).
+You have no mental link with your clones. When one ends or is destroyed, you receive its memories, which remain distinguishable from your own.
 
 Upkeep: 5 \* X
 

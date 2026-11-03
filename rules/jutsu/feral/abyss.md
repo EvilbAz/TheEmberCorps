@@ -54,10 +54,13 @@ Depth leaves you untouched. You ignore its Special Upkeep, Movement reduction an
 ## Native Feral Jutsu
 {:#native-feral-jutsu}
 
-### Abyss Release: Blackwater Undertow
-{:#abyss-release-blackwater-undertow}
+## C-Rank
+{:#c-rank .jutsu-rank-heading}
 
-***C-Rank***
+#### Shinenton: Kokusui no Hikishio - Abyss Release: Blackwater Undertow
+{:#abyss-release-blackwater-undertow .jutsu-technique}
+
+<span class="jutsu-rank-badge">C-Rank</span>
 
 *Black water spreads across the ground and everything caught within it begins sliding toward the centre, as though the battlefield has become the mouth of an ocean trench.*
 
@@ -67,10 +70,13 @@ Depth leaves you untouched. You ignore its Special Upkeep, Movement reduction an
 
 Blackwater Undertow pulls creatures towards the centre of its Area. Increase this forced movement by the highest Depth affecting each target, to a maximum increase of \+5 yards. After the Attack resolves, the Area gains Depth 1\.
 
-### Abyss Release: Sunken World
-{:#abyss-release-sunken-world}
+## B-Rank
+{:#b-rank .jutsu-rank-heading}
 
-***B-Rank***
+#### Shinenton: Suibotsu Sekai - Abyss Release: Sunken World
+{:#abyss-release-sunken-world .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
 
 *The ground disappears beneath a layer of perfectly still black water. Every few seconds it feels deeper, heavier and farther from the surface.*
 
@@ -82,10 +88,13 @@ On activation, the Area gains Depth 2\. Sunken World Anchors the Depth in its Ar
 
 Every 10 IC after activation, increase that Area's Depth by 1, to a maximum of 5\. Moving or reshaping the Area through another effect carries the Anchored Depth with the water Sunken World maintains.
 
-### Abyss Release: Hadal Grave
-{:#abyss-release-hadal-grave}
+## A-Rank
+{:#a-rank .jutsu-rank-heading}
 
-***A-Rank***
+#### Shinenton: Shinkai no Haka - Abyss Release: Hadal Grave
+{:#abyss-release-hadal-grave .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
 
 *The world beneath the victims seems to fall away. Black water floods outward without splashing as the pressure of an impossible depth closes around them.*
 

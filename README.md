@@ -34,3 +34,18 @@ Use a pull request or GitHub issue for typos, broken links or rules discrepancie
 This is a non-commercial, unofficial fan project inspired by Naruto and Monster Hunter. Naruto, Monster Hunter, and their respective characters, settings, terminology, and other protected material belong to their respective rights holders. Ember Corps is not affiliated with or endorsed by those rights holders.
 
 The repository's Creative Commons dedication applies only to original Ember Corps material to the extent its contributors have the right to license or dedicate that material. It does not grant rights to any third-party intellectual property used or referenced by the project.
+
+## Checks before publication
+
+After editing rules or headings, run:
+
+```sh
+python scripts/rebuild_search.py
+python scripts/validate_rules.py
+npm ci
+npm test
+```
+
+Search indexes complete sections and uses their explicit anchors. Keep anchors when renaming techniques. Give ranked techniques a `jutsu-technique` heading class and a visible `jutsu-rank-badge`; mark rank headings with `jutsu-rank-heading`. Letter ranks come from the published rules, not the technique name.
+
+The shared layout loads page behaviour once. Internal navigation replaces `#main` and `#sidebar`, preserving the music player. Page-specific behaviour must initialise on `ember:page` and clean up old listeners and observers. Standalone documents and downloads retain normal navigation.

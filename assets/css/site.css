@@ -622,3 +622,34 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 .home-v2 .home-quicklinks a:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
 @media(max-width:1100px){.home-v2 .home-quicklinks{grid-template-columns:repeat(2,minmax(0,1fr))}.home-v2 .home-quicklinks a:first-child{grid-row:auto;grid-column:1/-1;min-height:160px;padding:24px}.home-v2 .home-quicklinks a:first-child strong{max-width:none}}
 @media(max-width:600px){.home-v2 .home-quicklinks{grid-template-columns:minmax(0,1fr);padding:20px;gap:10px}.home-v2 .home-quicklinks a,.home-v2 .home-quicklinks a:first-child{grid-column:auto;min-height:0;padding:22px}.home-v2 .home-quicklinks strong{font-size:19px}.home-v2 .home-quicklinks a:first-child strong{font-size:25px}}
+
+/* Shared technique hierarchy; colours inherit the active site theme. */
+.prose .jutsu-rank-heading {
+  margin-top: 3.5rem;
+  padding: .8rem 1rem;
+  border-top: 3px solid var(--accent, #ef5961);
+  border-bottom: 1px solid var(--line, #49545b);
+  background: var(--surface);
+  color: var(--text, inherit);
+  letter-spacing: .08em;
+  scroll-margin-top: 90px;
+}
+.prose .jutsu-technique { margin-top: 2rem; margin-bottom: .35rem; scroll-margin-top: 90px; }
+.jutsu-rank-badge {
+  display: inline-block;
+  padding: .12rem .5rem;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  color: var(--accent, #ef5961);
+  font: 700 .75rem/1.5 var(--font-body, sans-serif);
+  letter-spacing: .06em;
+}
+.jutsu-rank-jumps { display:flex; flex-wrap:wrap; align-items:center; gap:.5rem; margin:0 0 1.5rem; padding: .8rem 0; border-bottom:1px solid var(--line, #49545b); }
+.jutsu-rank-jumps span { flex-basis:100%; color:var(--muted); font-size:.68rem; letter-spacing:.12em; }
+.jutsu-rank-jumps a { display:inline-block; padding:.35rem .7rem; border:1px solid var(--line, #49545b); border-radius:3px; font-size:.85rem; text-decoration:none; }
+.jutsu-rank-jumps a:hover, .jutsu-rank-jumps a.active { color:var(--accent, #ef5961); border-color:currentColor; }
+.jutsu-rank-jumps a:focus-visible, #rail-toc a:focus-visible { outline:2px solid currentColor; outline-offset:3px; }
+#main[aria-busy="true"] { cursor:progress; }
+#main:focus { outline:none; }
+@media (max-width:700px) { .prose .jutsu-rank-heading { margin-top:2.5rem; } }
+@media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
