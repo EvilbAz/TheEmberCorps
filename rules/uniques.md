@@ -21,7 +21,32 @@ Creation Uniques cost 1 UP each, may only be taken during character creation, an
 
 After character creation, gain 1 additional UP at 2,000, 3,000, 4,500, 6,000, and 7,000 total XP. UP cannot be spent during combat or an event.
 
-Some Uniques list Upgrades Into or Upgrades From. If you own the earlier Unique, you may replace it with the later one by paying only the difference in UP cost. The old Unique and its effects are removed and the new Unique takes its place. You never have to follow an upgrade path; if you can take the later Unique normally, you may buy it directly for its full cost. Buying a later Unique does not grant a Creation Unique you did not choose at character creation.
+Some Uniques list **Upgrades Into** or **Upgrades From**. Choose one Unique you own as the source and pay the difference in UP cost to replace it with the destination. You must meet the destination's requirements. Multiple listed sources are alternatives; their costs cannot be combined. You may instead buy a later Unique directly at its full cost.
+
+### Keeping Creation Effects
+{:#keeping-creation-effects}
+
+**When you upgrade a Creation Unique, retain all of its effects, including drawbacks, restrictions and choices.** These effects remain through every later upgrade in that chain, including upgrades through Avenger or Super Novice. Record the original Creation Unique alongside your current Unique; it still counts toward your maximum of two Creation Uniques and costs no additional UP to retain.
+
+Each upgrade entry states which Creation effects carry forward. Buying that entry directly does not grant a Creation Unique you did not choose at character creation. Non-Creation source effects are replaced unless the destination explicitly retains them; any inherited Creation effects always remain.
+
+Apply each inherited effect once. If a later Unique improves the same named action or replaces the same calculation, use its improved version while keeping the Creation Unique's other effects. Separate bonuses still apply together. For example, Chakra Sensor uses its improved sensing range and Scan Speed, retains Chakra Sensitive's other sensing benefits and Resistance penalty, and adds its maximum Chakra Control increase to Chakra Sensitive's increase.
+
+### Upgrade Paths
+{:#upgrade-paths}
+
+An upgrade is valid when either entry lists the path. **Any 1 Point Unique** includes a Creation or Clan Creation Unique you already chose at character creation. **Any 2 Point Unique** includes one carrying inherited Creation effects. Named exceptions still apply. Hidden Potential may upgrade into any 2 or 3 Point Unique; Avenger and Super Novice accept their listed wildcard sources without requiring every source to list them individually.
+
+| Creation Unique | Named upgrade chain |
+| --- | --- |
+| [Analyst](#analyst) | [Applied Knowledge](#applied-knowledge) |
+| [Chakra Sensitive](#chakra-sensitive) | [Chakra Sensor](#chakra-sensor) → [All-Seer](#all-seer) |
+| [Defender](#defender) | [Protector](#protector) → [Living Fortress](#living-fortress) |
+| [Specialist](#specialist) | [Pinnacle](#pinnacle) |
+| [Strong-Willed](#strong-willed) | [Surging Power](#surging-power) |
+| [Surgeon](#surgeon) | [Combat Medic](#combat-medic) → [Master Surgeon](#master-surgeon) |
+
+These chains retain the Creation Unique throughout. The wildcard routes above remain available to eligible sources.
 
 Unless an entry says otherwise, a Unique may be taken only once.
 
@@ -31,7 +56,7 @@ Unless an entry says otherwise, a Unique may be taken only once.
 ### Analyst
 {:#analyst}
 
-***Upgrades Into:** Applied Knowledge*
+*Upgrades Into: Applied Knowledge*
 
 *You have a habit of watching before you act. Gain \+5 Awareness. Rather than gaining AP every 20 IC in combat, you gain 60% as much (rounded up) every 10 IC. When the same creature uses the same broad kind of Attack against you consecutively—Katon into Katon, Weapon Taijutsu into Weapon Taijutsu, and so on—gain \+1 on your Defensive roll and 1 AP, stacking for each consecutive use. Track this separately for each attacker; changing attack type resets it.*
 
@@ -729,6 +754,8 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Applied Knowledge
 {:#applied-knowledge}
 
+**Creation inheritance:** If upgraded from [Analyst](#analyst), also retain all effects of Analyst.
+
 *You solve practical problems by knowing more than anyone reasonably should. Add Research ranks/5, max 10, to non-Research Skill rolls as a bonus. When you take this Unique, choose one non-Research skill as your field of profession; that skill can no longer have Ranks added to it and instead uses the same Skill ranks as you've bought in Research.*
 
 *Additionally, all non-Research and non-profession skills gain Research/10, max 10, to their maximum ranks.*
@@ -739,6 +766,8 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 
 ### Avenger
 {:#avenger}
+
+**Creation inheritance:** If upgraded from a Creation or Clan Creation Unique, also retain all effects of that original Unique.
 
 *Choose a person or group that has given you a reason not to forgive. Against a Hidden Village-sized group, gain \+2 Accuracy and d20 rolls. A single clan or organization raises this to \+3. A group of ten or fewer, or one named person, raises it to \+5. Against one named person, gain another \+1 for each full 1,000 XP they have over you. You also gain Killing Intent while confronting your chosen enemy.*
 
@@ -765,6 +794,8 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Chakra Sensor
 {:#chakra-sensor}
 
+**Creation inheritance:** If upgraded from [Chakra Sensitive](#chakra-sensitive), also retain all effects of Chakra Sensitive, using the improved sensing range and Scan below. A successful Scan also retains Chakra Sensitive’s comparison of the target’s chakra strength to yours.
+
 *You can feel chakra moving through the world around you. Increase maximum Chakra Control ranks by 3 and gain \+3 Genjutsu Defense. Your sensing range is CHA × 5 yards. Within that range you can identify familiar chakra signatures, tell when someone enters HP, sense their current Fatigue category when they make Chakra Exhaustion, and notice active Upkeep.*
 
 *Scan — Speed 6: make Chakra Control opposed by Chakra Control or Espionage against any creatures you choose in range. A target suffers a penalty equal to the total Upkeep it is maintaining. On success you know its exact location and broad chakra nature. A sensed creature is not Hidden from you unless an effect specifically conceals chakra sensing.*
@@ -775,6 +806,8 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 
 ### Combat Medic
 {:#combat-medic}
+
+**Creation inheritance:** If upgraded from [Surgeon](#surgeon), also retain all effects of Surgeon.
 
 *Requires: Medicine 8*
 
@@ -866,9 +899,11 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Protector
 {:#protector}
 
-*You will get there in time. Add RES once more to maximum Vitality and maximum HP. If you have enough movement to reach a willing creature, your Take the Hit automatically succeeds. While using Take the Hit, you are considered to be Blocking and may use any valid non-Dodge Defensive Interrupt against the intercepted Attack. You also gain the benefits of Close Ties and may designate any willing creature as an ally for its purposes.*
+**Creation inheritance:** If upgraded from [Defender](#defender), also retain all effects of Defender.
 
-*Upgrades From: Close Ties, Restrained*
+*You will get there in time. Add RES to maximum Vitality and maximum HP. If you have enough movement to reach a willing creature, your Take the Hit automatically succeeds. While using Take the Hit, you are considered to be Blocking and may use any valid non-Dodge Defensive Interrupt against the intercepted Attack. You also gain the benefits of Close Ties and may designate any willing creature as an ally for its purposes.*
+
+*Upgrades From: Defender, Close Ties, Restrained*
 
 *Upgrades Into: Living Fortress*
 
@@ -914,7 +949,9 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### All-Seer
 {:#all-seer}
 
-*Your chakra sense is closer to another set of eyes. Increase Chakra Sensing range to CHA × 10 yards and remember a number of signatures equal to CHA/10. Any creature in range that spends Chakra, pays Upkeep, or rolls Chakra Exhaustion reveals its exact location to you until the Action ends unless its effect explicitly defeats sensing. Scan is Speed 3 and may target everyone in range without penalty. When a sensed creature declares a Chakra-based hostile Action, you may spend 3 AP to identify its Rank and broad type; you and up to CHA/20 allies gain \+2 on Defensive rolls against that Action.*
+**Creation inheritance:** If your Chakra Sensor was upgraded from [Chakra Sensitive](#chakra-sensitive), also retain all effects of Chakra Sensitive, using All-Seer’s improved sensing range and Scan.
+
+*Your chakra sense is closer to another set of eyes. Increase Chakra Sensing range to CHA × 10 yards and remember a number of signatures equal to CHA/10. Any creature in range that spends Chakra, pays Upkeep, or rolls Chakra Exhaustion reveals its exact location to you until the Action ends unless its effect explicitly defeats sensing. Scan is Speed 3 and may target everyone in range without a multiple-target penalty. Roll Chakra Control against each target’s Chakra Control or Espionage, reducing its roll by its total maintained Upkeep. On success, learn its exact location and broad chakra nature; it is not Hidden from you unless an effect specifically conceals chakra sensing. When a sensed creature declares a Chakra-based hostile Action, you may spend 3 AP to identify its Rank and broad type; you and up to CHA/20 allies gain \+2 on Defensive rolls against that Action.*
 
 *Upgrades From: Chakra Sensor*
 
@@ -958,12 +995,16 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Living Fortress
 {:#living-fortress}
 
+**Creation inheritance:** If your Protector was upgraded from [Defender](#defender), also retain all effects of Defender.
+
 *Hitting you is frequently the least productive choice available. Gain DR equal to RES/4 and increase Block's damage reduction by 10%. Take the Hit reduces its final Speed by 3 and may include up to 3 yards of movement to reach the protected creature. When you successfully Take the Hit, reduce Final Damage to you by 20%; if you suffer a Wound, ignore that Wound's penalties until the battle ends. While you are Prepare Blocking, adjacent allies improve their own Block damage reduction by 10%.*
 
 *Upgrades From: Protector*
 
 ### Master Surgeon
 {:#master-surgeon}
+
+**Creation inheritance:** If your Combat Medic was upgraded from [Surgeon](#surgeon), also retain all effects of Surgeon.
 
 *Requires: Medicine 15*
 
@@ -983,6 +1024,8 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Pinnacle
 {:#pinnacle}
 
+**Creation inheritance:** If upgraded from [Specialist](#specialist), also retain all effects of Specialist, including its chosen Specialty and Incompetence.
+
 *Choose Taijutsu, Ninjutsu, or Genjutsu as your Pinnacle Specialty. If you reached Pinnacle by upgrading Specialist, use the same Specialty. Your Pinnacle Specialty gains \+1 Accuracy, or \+1 to Genjutsu offense, and \+2 on its relevant Stamina or Chakra Exhaustion rolls. At the start of each Specialty Action choose one Form:*
 
 - *Precision, \+3 Accuracy*  
@@ -991,7 +1034,7 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 - *Guard, \+3 on your next Defensive roll before your following Action.*  
   *Once per battle, spend 1 Willpower to enter Pinnacle State for 20 IC. While it lasts, choose two different Forms for each Specialty Action.*
 
-  *Upgrades From: Specialist*
+*Upgrades From: Specialist*
 
 
 ### Regenerative Chakra
@@ -1013,6 +1056,8 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Super Novice
 {:#super-novice}
 
+**Creation inheritance:** If upgraded from a Creation or Clan Creation Unique, or a 2 Point Unique carrying its effects, also retain all effects of that original Creation Unique.
+
 *You never settled into one specialty, so you learned to make that everyone else's problem. Gain a 10% XP bonus. Whenever you are Wounded, gain 1 temporary Willpower. This temporary Willpower lasts until the next time you are Wounded; if you have not spent it, it is replaced, and if you have spent it, you gain a new point.*
 
 *Upgrades From: Any 1 Point or 2 Point Unique except Elementally Gifted or Elementalist*
@@ -1020,9 +1065,11 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Surging Power
 {:#surging-power}
 
+**Creation inheritance:** If upgraded from [Strong-Willed](#strong-willed), also retain all effects of Strong-Willed.
+
 *The worse your condition becomes, the harder you are to shut down. Whenever you spend Willpower, halve current Stamina and Chakra Exhaustion penalties; instead, you may spend Willpower specifically to remove one of those penalties entirely. Spend 1 Willpower to ignore all penalties from one Wound until the battle ends. Reduce Fatigue penalties to Accuracy and Defensive rolls by half maximum Willpower, rounded down.*
 
-*Upgrades From: Boundless Chakra, Endless Energy, Tenacious*
+*Upgrades From: Strong-Willed, Boundless Chakra, Endless Energy, Tenacious*
 
 ### Tactician
 {:#tactician}
@@ -1039,5 +1086,3 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 *You do not so much escape notice as leave the part of the fight where attention can find you. Gain \+3 Dodge and \+4 Stealth. After a full Dodge or successful Hide, immediately move the distance you normally cover in 5 IC. At the end of that movement you may draw, sheathe, or Hide at Speed 0 if legal. Your first Attack within 10 IC gains \+3 Accuracy and \-2 final Speed.*
 
 *Upgrades From: Exceptionally Fast, Skirmisher*
-
-###
