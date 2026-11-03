@@ -101,7 +101,7 @@ permalink: "/rules/hunting/"
   <p class="reference-lead">Track dangerous beasts, learn how they fight, prepare for the encounter, then bring them down—or bring them home alive.</p>
   <div class="hunt-badges">
     <span class="hunt-badge"><strong>01</strong> Up to 4 Hunters</span>
-    <span class="hunt-badge"><strong>02</strong> Downtime Activity</span>
+    <span class="hunt-badge"><strong>02</strong> No DT to Depart</span>
     <span class="hunt-badge"><strong>03</strong> Shared Intel</span>
     <span class="hunt-badge"><strong>04</strong> Kill or Capture</span>
   </div>
@@ -111,7 +111,7 @@ permalink: "/rules/hunting/"
     <a href="#intel">Intel</a>
     <a href="#monster-tribes">Monster Tribes</a>
     <a href="#combat-classes">Combat Classes</a>
-    <a href="#starting-the-encounter">Start the Hunt</a>
+    <a href="#starting-the-encounter">Go on the Hunt</a>
     <a href="#wild-hunt-combat">Hunt Combat</a>
     <a href="#clinging">Clinging</a>
     <a href="#injury-open-wounds-and-broken-parts">Injury & Part Breaks</a>
@@ -121,14 +121,14 @@ permalink: "/rules/hunting/"
 </div>
 
 <div class="hunt-intro">
-<p>A <strong>Hunt</strong> is a special Downtime activity in which a small team tracks, studies, prepares for, and ultimately confronts a dangerous creature. The work your Team does before the fight can determine what you know, what advantages you begin with, and whether you are ready for what the monster can do.</p>
+<p>A <strong>Hunt</strong> is a GM-run adventure in which a small team tracks, studies, prepares for, and ultimately confronts a dangerous creature. Preparatory Hunt Actions use Downtime Slots, but <strong>going on the Hunt itself costs no Downtime</strong>. The work your Team does before the fight can determine what you know, what advantages you begin with, and whether you are ready for what the monster can do.</p>
 </div>
 
 <div class="hunt-flow" aria-label="The five stages of a Hunt">
   <div class="hunt-flow-step"><span>01</span><strong>Find It</strong><small>Track the target and learn its territory.</small></div>
   <div class="hunt-flow-step"><span>02</span><strong>Learn It</strong><small>Research its nature, habits and abilities.</small></div>
   <div class="hunt-flow-step"><span>03</span><strong>Prepare</strong><small>Build the tools and advantages you need.</small></div>
-  <div class="hunt-flow-step"><span>04</span><strong>Confront It</strong><small>Choose when the Team knows enough to strike.</small></div>
+  <div class="hunt-flow-step"><span>04</span><strong>Confront It</strong><small>Arrange a time with your GM and Team, then go. No DT cost.</small></div>
   <div class="hunt-flow-step"><span>05</span><strong>Finish It</strong><small>Kill, capture, drive off, or neutralise it.</small></div>
 </div>
 
@@ -141,7 +141,7 @@ Up to **4 players** may form a **Hunting Team** and take part in the same Hunt.
 
 You may only be part of **one active Hunt at a time**.
 
-Once the Hunt begins, the Team may spend Downtime gathering information and making preparations before choosing to confront the target. The Team does not have to complete every possible investigation before starting the encounter: deciding **when you know enough** is part of the Hunt.
+Once a Hunt is active, the Team may spend Downtime gathering information and making preparations before choosing to confront the target. These preparatory Actions are optional. The Team does not have to complete every investigation before the encounter: deciding **when you know enough** is part of the Hunt. **Going on the Hunt does not cost Downtime.**
 
 Intel and preparations gained during a Hunt belong to that Hunt and are available to the Hunting Team.
 
@@ -152,7 +152,7 @@ Intel and preparations gained during a Hunt belong to that Hunt and are availabl
 ## Hunt Actions
 {:#hunt-actions}
 
-While participating in an active Hunt, you gain access to special **Hunt Actions**. Each Hunt Action costs **1 Downtime Slot**.
+While participating in an active Hunt, you may use the four preparatory **Hunt Actions** below: Track, Research, Study Weakness and Prepare. Each costs **1 Downtime Slot**. **Going on a Hunt** is the final played encounter, not a Downtime Action, and costs **no Downtime Slots**.
 
 Choose the skill listed in the monster’s Hunt profile or Lore for every Hunt roll. Lore is always a valid alternative, including for Track, Research, Study Weakness and Prepare. Different creatures are found, understood, and prepared for in different ways, so each monster may call for different Skills or approaches.
 
@@ -240,12 +240,12 @@ A failure does not automatically end the Hunt. It means the situation has become
 
 ---
 
-## Starting the Encounter
+## Going on a Hunt
 {:#starting-the-encounter}
 
 The Team may choose to confront the target **at any time**.
 
-When the Team starts the final encounter, **every participating player spends 1 Downtime Slot**. Investigation ends and the Hunt becomes a played encounter using the monster's Hunt rules. Any Intel and Preparation the Team has earned carries into that encounter.
+When your Team is ready, **organise a time with your GM and the other Hunters on your Team, then go on the Hunt**. **Going on a Hunt costs no Downtime Slots** for anyone participating. When the encounter begins, investigation ends and the Hunt is played with the monster's Hunt rules. Any Intel and Preparation the Team has earned carries into the encounter.
 
 A Hunt is completed when the target is **killed, captured, driven away, or otherwise neutralised** in a way that resolves the Hunt.
 
@@ -455,7 +455,7 @@ Capturing a creature does not make it friendly, loyal or usable as a companion. 
 
 <div class="hunt-loop-panel">
 <h3>Before the Encounter</h3>
-<ol><li><strong>Track it.</strong> Find the creature and learn its territory.</li><li><strong>Research it.</strong> Discover its Tribe, habits and likely capabilities.</li><li><strong>Study it.</strong> Learn what can be exploited.</li><li><strong>Prepare.</strong> Build the traps, tools, routes and countermeasures you want available.</li><li><strong>Choose when to strike.</strong> More information costs more Downtime; starting sooner means accepting more unknowns.</li></ol>
+<ol><li><strong>Track it.</strong> Find the creature and learn its territory.</li><li><strong>Research it.</strong> Discover its Tribe, habits and likely capabilities.</li><li><strong>Study it.</strong> Learn what can be exploited.</li><li><strong>Prepare.</strong> Build the traps, tools, routes and countermeasures you want available.</li><li><strong>Go on the Hunt.</strong> When ready, organise a time with your GM and Team, then go. The encounter costs no Downtime; only optional preparation does.</li></ol>
 </div>
 
 <div class="hunt-loop-panel">
