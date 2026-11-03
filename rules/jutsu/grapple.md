@@ -41,7 +41,30 @@ Ground Fighting X: Requires you to be in a pin, make a grapple roll and on a suc
 
 Submission: Requires you to be in a pin, make a grapple roll and on a success your target receives all effects of the jutsu. When your submission is ended your IC is increased by 5\.
 
-You may only use one trapping or ground fighting jutsu (successfully) per grapple resetting when it changes category (clinch to pin or vice versa). Regardless of type, all grapple jutsu require all 4 limbs to be free except for Escape Grapple.
+You may only use one trapping or ground fighting jutsu (successfully) per grapple resetting when it changes category (clinch to pin or vice versa). Regardless of type, all grapple jutsu require all 4 limbs to be free except for Escape Grapple and techniques legally performed through a Weapon Grapple under the rules below.
+
+### Weapon-Assisted Grapple Taijutsu
+{:#weapon-assisted-grapple-taijutsu}
+
+A weapon that is **already maintaining a Weapon Grapple** may be used to perform certain **learned, ordinary Grapple Taijutsu**. The weapon must be capable of physically reproducing the hold, hook, twist or pull described by the technique. Merely holding a Chain weapon, hitting an enemy, or possessing a weapon with Reach does not qualify. The target must remain within the weapon's legal Weapon Grapple Range.
+
+The following ordinary Grapple Taijutsu may be performed through a qualifying Weapon Grapple:
+
+| Technique | Required weapon hold |
+| --- | --- |
+| **Arm Pin** | The weapon must catch and restrain the arm being pinned. |
+| **Underhook / Overhook** | The weapon must hook and lever the target's arm from below / above, respectively. |
+| **Single Leg Takedown** | The weapon must securely hold a leg and be able to establish a full Weapon Pin. A one-limb hold cannot do this on its own. |
+| **Hadaka Jime: Rear Naked Choke** | A flexible part of the weapon must be wrapped around the neck. The normal Pin prerequisite still applies. |
+| **Front Headlock** | The weapon must encircle or secure the head and neck with sufficient leverage to hold them down. |
+| **Kimura** | The weapon must secure the targeted arm and provide a second point of leverage to twist it; a single hook without a second grip is insufficient. |
+| **Mae Hadaka Jime: Guillotine Choke** | A flexible part of the weapon must be wrapped around the neck. Its special rules for use from a Clinch still apply. |
+
+**Resolution:** Use the jutsu's printed Stamina, Speed, Control, tags, Grapple roll, Clinch or Pin prerequisite, and other effects without modification. Performing the jutsu through a weapon does not make a separate weapon Attack, add the weapon's damage or Damage Bonus, apply its attack Specials, gain Bukijutsu rank damage, or advance or refresh a Bukijutsu Chain. Only bonuses that explicitly apply to Weapon Grapples or Grapple rolls still apply. The weapon remains occupied maintaining the hold.
+
+**Limb limits:** A weapon supplies only the grips or limbs its own rules allow. A Chain weapon maintaining a Weapon Grapple supplies the required limbs for the eligible techniques as described in [Chain Weapon Bukijutsu]({{ '/rules/jutsu/chain/' | relative_url }}#weapon-grapples). A weapon that counts as **one limb** can secure only its chosen arm or leg; it cannot by itself produce a full-body hold, a Weapon Pin, or a technique needing multiple separate grips. Any additional bodily grip or leverage must actually be available.
+
+Techniques involving the user's own body positioning or an incompatible hold cannot be channelled through a weapon. In particular, **Arm Bar, Knee Bar, Guard, Guard Pass, High C, Mount, Double Leg Takedown, Compression Lock, Ude Gaeshi, Full Nelson, Reversal and Turtle** do not qualify under this permission. They remain usable normally when their usual requirements are met, and a specific technique or item may expressly grant an exception.
 
 ### Control
 {:#control}
