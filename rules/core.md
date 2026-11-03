@@ -52,13 +52,13 @@ Start with a name, a role in the Corps, a heritage or a few personality traits. 
 ## Haven Ember and Heritage
 {:#haven-ember-and-heritage}
 
-Your character begins in Haven Ember and serves in the Ember Corps. They may also belong to a clan household, guild, caravan, faith or faction. Choose one Primary Heritage from [Clans & Lineages]({{ '/rules/clans/#heritage-cost-index' | relative_url }}); mixed ancestry does not grant additional heritage mechanics.
+Your character begins in Haven Ember and serves in the Ember Corps. They may also belong to a clan household, guild, caravan, faith or faction. Your Primary Heritage is chosen from [Clans & Lineages]({{ '/rules/clans/#heritage-cost-index' | relative_url }}) in Standard Mode or rolled using the Realistic Mode table below. Mixed ancestry does not grant additional heritage mechanics.
 
 The old Hidden Villages survive as ancestral homes, ruins and traditions. They are not current player allegiances. Inherited abilities require the heritage that grants them, unless an explicit rule allows another method of acquisition.
 
 **Choose Uniques**
 
-Begin with 6 Unique Points (UP). Pay your Heritage Cost from this pool, then spend or save the remainder. Creation Uniques can only be chosen at character creation. See [Uniques]({{ '/rules/uniques/' | relative_url }}) for costs and restrictions.
+Begin with 6 Unique Points (UP). In Standard Mode, pay your chosen Heritage's listed UP cost. In Realistic Mode, pay 1 UP instead of the rolled Heritage's listed cost. Spend or save your remaining UP. Creation Uniques can only be chosen at character creation. See [Uniques]({{ '/rules/uniques/' | relative_url }}) for costs and restrictions.
 
 ## Character Creation Modes
 {:#character-creation-modes}
@@ -73,9 +73,13 @@ Choose one Primary Heritage from the Heritage Cost Index in Volume III and pay i
 ### Realistic Mode
 {:#realistic-mode}
 
-Realistic Mode uses the lineage table below to generate heritage options. **Pay 1 additional UP** to enter Realistic Mode, then roll d100 to determine your Primary Heritage using the table below. Pay that heritage's normal UP cost separately from your remaining starting UP. You receive **+10% base XP** while playing in Realistic Mode. This modifies XP earned, not your starting XP or heritage cost.
+Realistic Mode uses the lineage table below to determine your Primary Heritage. **Spend 1 UP total** to enter Realistic Mode and roll d100. This **replaces the normal UP cost of the Heritage you roll**; you do not pay that Heritage's listed cost separately.
 
-You may reroll the d100 lineage result any number of times without sacrificing XP; once you commit to a result, record it on your character sheet and use that heritage. A reroll replaces the earlier result rather than adding another heritage. Your rolled Primary Heritage follows all ordinary restrictions and prerequisites.
+You gain **+10% Bonus XP** calculated from your Base XP, using the normal [Experience Bonuses](#experience-bonuses) rules. Bonus XP increases the XP you can spend, but is not part of your Base XP and does not increase XP-based progression, Skill Points, or Talent thresholds.
+
+You may reroll the d100 result **any number of times**, but **each reroll sacrifices 5% of your current Base XP**, rounded up to a whole XP. Deduct this XP from your Base XP, then recalculate your Bonus XP from the remaining amount. Each reroll replaces your previous result; only your final rolled Heritage applies, with its normal restrictions and prerequisites. The Realistic Mode UP cost remains 1 regardless of which Heritage you ultimately roll.
+
+For example, with 500 Base XP, your first reroll costs 25 XP. You then have 475 Base XP and 47 Bonus XP (10%, rounded down), for 522 spendable XP before other bonuses or expenditures.
 
 #### Realistic Lineage Table
 {:#realistic-lineage-table}
