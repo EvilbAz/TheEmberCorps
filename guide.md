@@ -102,7 +102,7 @@ Missions are GM-run jobs: expeditions, escorts, investigations, infiltrations, r
 ### Hunts
 {:#hunts}
 
-Hunts are encounters focused around monsters. They can involve preparation and investigation as well as the fight itself. Rewards depend on the creature and its Fight Value.
+Hunts are GM-run encounters focused around monsters. You can spend Downtime Slots on optional tracking, research and preparation beforehand, but **going on the Hunt itself costs no Downtime**. When the Team is ready, arrange a time with your GM and the Hunters joining you, then head out together. Rewards depend on the creature and its Fight Value. See the [Hunting rules]({{ '/rules/hunting/#starting-the-encounter' | relative_url }}).
 
 ### Downtime
 {:#downtime}
