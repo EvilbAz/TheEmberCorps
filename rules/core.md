@@ -79,7 +79,9 @@ You gain **+10% Bonus XP** calculated from your Base XP, using the normal [Exper
 
 You may reroll the d100 result **any number of times**, but **each reroll sacrifices 5% of your current Base XP**, rounded up to a whole XP. Deduct this XP from your Base XP, then recalculate your Bonus XP from the remaining amount. Each reroll replaces your previous result; only your final rolled Heritage applies, with its normal restrictions and prerequisites. The Realistic Mode UP cost remains 1 regardless of which Heritage you ultimately roll.
 
-For example, with 500 Base XP, your first reroll costs 25 XP. You then have 475 Base XP and 47 Bonus XP (10%, rounded down), for 522 spendable XP before other bonuses or expenditures.
+**The character sheet handles these calculations automatically.** When recording a Realistic Mode reroll, the sheet applies the XP sacrifice and updates Base XP, Bonus XP, and spendable XP. You do not need to calculate or recalculate these values yourself.
+
+For example, with 500 Base XP, your first reroll costs 25 XP. The sheet shows 475 Base XP and 47 Bonus XP (10%, rounded down), for 522 spendable XP before other bonuses or expenditures.
 
 #### Realistic Lineage Table
 {:#realistic-lineage-table}
