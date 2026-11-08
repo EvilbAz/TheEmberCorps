@@ -95,7 +95,7 @@ Rank: E
 Chakra: 7  
 Speed: 3  
 Tags: Chain X, Fan, Utility, Interrupt  
-Effects: Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. A full success also ends any effect carried solely by that projectile before it reaches you. This does not cancel an independent area effect or permit AoE defense.
+Effects: Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5. A full success also ends any effect carried solely by that projectile before it reaches you. An independent area effect still resolves.
 
 #### Ōnagi - Broad Sweep
 {:#broad-sweep .jutsu-technique}
@@ -220,7 +220,7 @@ Rank: C
 Stamina: 11  
 Speed: 4  
 Tags: Bukijutsu, Fan, Utility, Interrupt  
-Effects: Parry a targeted Melee Attack with +Athletics/5. On full success, your next Fan Chain 1 gains +20% Final Damage if it is your next non-Interrupt Action. This does not defend against AoEs.
+Effects: Parry a Melee Attack with +Athletics/5. On full success, your next Fan Chain 1 gains +20% Final Damage if it is your next non-Interrupt Action.
 
 ## B-Rank
 {:#b-rank-13 .jutsu-rank-heading}

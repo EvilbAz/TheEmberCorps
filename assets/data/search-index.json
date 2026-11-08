@@ -3049,7 +3049,7 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#boil",
-    "text": "E-Rank Type: Futton Ninjutsu, Rank E Chakra: 5 + X Speed: X/4 (Rounded Up) Tags: Interrupt, Utility Effects X is the number of gallons of battlefield water currently invested in the technique you are interrupting. You may use Boil as a Defensive Interrupt only against an Attack that currently has at least 1 gallon of battlefield water invested in it. Make a Ninjutsu Parry against the interrupted Attack's Accuracy with a +CHA/10 bonus. This Parry permits Partial Success against non-AoE Attacks. It cannot defend against an AoE unless another effect expressly grants that permission; an AoE Parry grants no Partial Success. On a full success, you are fully defended from the Attack and boil off X gallons before it resolves. If this leaves the Attack below its minimum Gallon Requirement, it fails for all targets. Otherwise, if its effects scale with gallons, recalculate them using the gallons that remain before resolving the Attack against any other targets. On Partial Success or failure, Boil destroys no gallons. Boil cannot erase Mokuton, Hyōton, or another advanced nature merely because Suiton helped create it. The interrupted technique must actually be using battlefield water at that moment. D-Rank"
+    "text": "E-Rank Type: Futton Ninjutsu, Rank E Chakra: 5 + X Speed: X/4 (Rounded Up) Tags: Interrupt, Utility Effects X is the number of gallons of battlefield water currently invested in the technique you are interrupting. You may use Boil as a Defensive Interrupt only against an Attack that currently has at least 1 gallon of battlefield water invested in it. Make a Ninjutsu Parry against the interrupted Attack's Accuracy with a +CHA/10 bonus. This Parry permits Partial Success against non-AoE Attacks. Against an AoE, apply the usual type or elemental advantage rule and require full success. The battlefield water requirement still applies. On a full success, you are fully defended from the Attack and boil off X gallons before it resolves. If this leaves the Attack below its minimum Gallon Requirement, it fails for all targets. Otherwise, if its effects scale with gallons, recalculate them using the gallons that remain before resolving the Attack against any other targets. On Partial Success or failure, Boil destroys no gallons. Boil cannot erase Mokuton, Hyōton, or another advanced nature merely because Suiton helped create it. The interrupted technique must actually be using battlefield water at that moment. D-Rank"
   },
   {
     "title": "Fukasu Gafu - Steam Canvas",
@@ -3189,7 +3189,7 @@
     "volume": "Clans & Lineages",
     "number": "III",
     "url": "/rules/clans/#suika-bunretsu-liquefaction-split",
-    "text": "B-Rank Type: Ninjutsu, Rank B Chakra: 30 Speed: 8 Tags: Interrupt, Utility, Movement Requires: Suika no Jutsu active Effects Choose G from 0–5 available gallons in Water Reserve and spend them with Chakra. As a Main Action, remove one external physical Immobilization and flow to a legal point within max(2, 2G) yards. As a Defensive Interrupt against one non-AoE, non-Genjutsu Attack, use the Parry below. Doton and Raiton cannot be Parried with this technique. Choose a continuous route through openings at least 1 inch wide. The listed movement distance is already adjusted for Hydration; sealed barriers stop it. Gallons spent are consumed. Removed restraints are left behind, while internal conditions, sealing effects and shadow possession remain. Make a Ninjutsu Parry with +1 per full 2 gallons spent. On full success, negate the Attack, remove one eligible restraint and move. On Partial Success, resolve the reduced Attack at your starting point, then remove the restraint and move if you remain able to act. On a full failure, remain in place. Hydration’s passive mitigation applies to damage you take. Ending Hydration during the hit cancels the escape and movement."
+    "text": "B-Rank Type: Ninjutsu, Rank B Chakra: 30 Speed: 8 Tags: Interrupt, Utility, Movement Requires: Suika no Jutsu active Effects Choose G from 0–5 available gallons in Water Reserve and spend them with Chakra. As a Main Action, remove one external physical Immobilization and flow to a legal point within max(2, 2G) yards. As a Defensive Interrupt against one Attack other than Genjutsu, use the Parry below. For an AoE, apply the usual type or elemental advantage rule and require full success. Doton and Raiton cannot be Parried with this technique. Choose a continuous route through openings at least 1 inch wide. The listed movement distance is already adjusted for Hydration; sealed barriers stop it. Gallons spent are consumed. Removed restraints are left behind, while internal conditions, sealing effects and shadow possession remain. Make a Ninjutsu Parry with +1 per full 2 gallons spent. On full success, negate the Attack, remove one eligible restraint and move. On Partial Success, resolve the reduced Attack at your starting point, then remove the restraint and move if you remain able to act. On a full failure, remain in place. Hydration’s passive mitigation applies to damage you take. Ending Hydration during the hit cancels the escape and movement."
   },
   {
     "title": "Hyūga",
@@ -5520,7 +5520,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#haven-ember-and-heritage",
-    "text": "Your character begins in Haven Ember and serves in the Ember Corps. They may also belong to a clan household, guild, caravan, faith or faction. Choose one Primary Heritage from Clans & Lineages; mixed ancestry does not grant additional heritage mechanics. The old Hidden Villages survive as ancestral homes, ruins and traditions. They are not current player allegiances. Inherited abilities require the heritage that grants them, unless an explicit rule allows another method of acquisition. Choose Uniques Begin with 6 Unique Points (UP). Pay your Heritage Cost from this pool, then spend or save the remainder. Creation Uniques can only be chosen at character creation. See Uniques for costs and restrictions."
+    "text": "Your character begins in Haven Ember and serves in the Ember Corps. They may also belong to a clan household, guild, caravan, faith or faction. Your Primary Heritage is chosen from Clans & Lineages in Standard Mode or rolled using the Realistic Mode table below. Mixed ancestry does not grant additional heritage mechanics. The old Hidden Villages survive as ancestral homes, ruins and traditions. They are not current player allegiances. Inherited abilities require the heritage that grants them, unless an explicit rule allows another method of acquisition. Choose Uniques Begin with 6 Unique Points (UP). In Standard Mode, pay your chosen Heritage's listed UP cost. In Realistic Mode, pay 1 UP instead of the rolled Heritage's listed cost. Spend or save your remaining UP. Creation Uniques can only be chosen at character creation. See Uniques for costs and restrictions."
   },
   {
     "title": "Character Creation Modes",
@@ -5541,7 +5541,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#realistic-mode",
-    "text": "Realistic Mode uses the lineage table below to generate heritage options. Pay 1 additional UP to enter Realistic Mode, then roll d100 to determine your Primary Heritage using the table below. Pay that heritage's normal UP cost separately from your remaining starting UP. You receive +10% base XP while playing in Realistic Mode. This modifies XP earned, not your starting XP or heritage cost. You may reroll the d100 lineage result any number of times without sacrificing XP; once you commit to a result, record it on your character sheet and use that heritage. A reroll replaces the earlier result rather than adding another heritage. Your rolled Primary Heritage follows all ordinary restrictions and prerequisites."
+    "text": "Realistic Mode uses the lineage table below to determine your Primary Heritage. Spend 1 UP total to enter Realistic Mode and roll d100. This replaces the normal UP cost of the Heritage you roll; you do not pay that Heritage's listed cost separately. You gain +10% Bonus XP calculated from your Base XP, using the normal Experience Bonuses rules. Bonus XP increases the XP you can spend, but is not part of your Base XP and does not increase XP-based progression, Skill Points, or Talent thresholds. You may reroll the d100 result any number of times, but each reroll sacrifices 5% of your current Base XP, rounded up to a whole XP. Deduct this XP from your Base XP, then recalculate your Bonus XP from the remaining amount. Each reroll replaces your previous result; only your final rolled Heritage applies, with its normal restrictions and prerequisites. The Realistic Mode UP cost remains 1 regardless of which Heritage you ultimately roll. The character sheet handles these calculations automatically. When recording a Realistic Mode reroll, the sheet applies the XP sacrifice and updates Base XP, Bonus XP, and spendable XP. You do not need to calculate or recalculate these values yourself. For example, with 500 Base XP, your first reroll costs 25 XP. The sheet shows 475 Base XP and 47 Bonus XP (10%, rounded down), for 522 spendable XP before other bonuses or expenditures."
   },
   {
     "title": "Realistic Lineage Table",
@@ -7074,7 +7074,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#parry-speed-3-interrupt",
-    "text": "This entails deflecting an opponent's weapon with your own, or stopping their bare hands with your own. Accordingly, weapon attacks may only be parried with weapons, and any other taijutsu attack may only be parried if you have at least one hand free to do so. Parrying works similarly to dodging, though uses an Accuracy roll to determine its success. If an effect penalises both Accuracy and defensive rolls, apply only its defensive-roll penalty to Parry. Accuracy-only penalties still apply. Parries against non-AoE Attacks use the normal Partial Defense rules. A Parry cannot defend against an AoE unless its entry explicitly allows it; when it does, it succeeds fully or fails and grants no Partial Defense. These rules apply to all Accuracy-based defensive parries, including Jutsu. Attacks that independently prohibit Partial Defense, such as rolled-Accuracy Ballistic Attacks, retain that restriction. The above is the standard parry option but there are more parry options listed elsewhere. A defensive option that uses an accuracy roll is considered a parry and sufferes the same penalties as listed above."
+    "text": "Roll Accuracy against the incoming Attack’s Accuracy. For a standard Parry, use a weapon against a Weapon Attack or a free hand against other Taijutsu. Some weapons and techniques let you Parry additional attack types. If an effect penalises both Accuracy and defensive rolls, apply only its defensive-roll penalty to Parry. Accuracy-only penalties still apply. Parrying an area attack. When an AoE would hit you, you can Parry it if the attack matches your Parry’s type or your Parry has elemental advantage against it. A Katon Ninjutsu Parry can stop a Katon or Fūton Ninjutsu AoE. A weapon can Parry a Weapon AoE, and a free hand can Parry an unarmed Taijutsu AoE. A Fan that can Parry both can defend against either. Apply the Parry’s usual Speed, rank, equipment, and attack requirements, including any Melee or Projectile requirement. Techniques that list additional AoE matchups can also defend against those attacks. An AoE Parry requires full success. On failure, take the attack’s full effects. Each other creature in the area defends separately unless the technique protects others. Against a non-AoE Attack, use normal Partial Defense unless the attack prohibits it. These rules apply to every defensive option that uses an Accuracy roll, including Jutsu Parries."
   },
   {
     "title": "Jutsu (Speed Variable, Interrupt)",
@@ -7487,7 +7487,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/#area-of-effect",
-    "text": "Certain things apply not to an individual, but to all things within a given area--their \"area of effect\", or AoE. These include things like explosions and smoke bombs The simpler type of AoEs are ones which are not directly offensive, such as a smoke bomb or a jutsu that creates a thick cloud of mist. These apply certain effects so long as you're in them, and can only be avoided by moving out. Others, however, are attacks: they cause damage to everyone within an area. Depending on that area, it may not even be possible to avoid one effectively. When being subjected to an AoE attack, the first thing to determine is if you can dodge it effectively. To do this, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the effect's radius, you can Dodge normally. If not, you have a -2 penalty to Dodge per yard you're short by. As AoEs are not, strictly speaking, targeting you, they have special stipulations. An AoE can be parried only by a defense that explicitly permits AoE Parries. Such a Parry grants no Partial Defense and only protects the person parrying unless stated otherwise. All other potential targets must still defend from the AoE themselves."
+    "text": "Certain things apply not to an individual, but to all things within a given area--their \"area of effect\", or AoE. These include things like explosions and smoke bombs The simpler type of AoEs are ones which are not directly offensive, such as a smoke bomb or a jutsu that creates a thick cloud of mist. These apply certain effects so long as you're in them, and can only be avoided by moving out. Others, however, are attacks: they cause damage to everyone within an area. Depending on that area, it may not even be possible to avoid one effectively. When being subjected to an AoE attack, the first thing to determine is if you can dodge it effectively. To do this, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the effect's radius, you can Dodge normally. If not, you have a -2 penalty to Dodge per yard you're short by. If the attack matches your Parry’s type or your Parry has elemental advantage, you can Parry the AoE. Only a full success protects you. Other creatures in the area resolve their own defenses unless the technique protects them too."
   },
   {
     "title": "Knockback",
@@ -10007,7 +10007,7 @@
     "volume": "Hunting",
     "number": "I",
     "url": "/rules/hunting/",
-    "text": "CORE RULES / FIELD REFERENCE Hunting Track dangerous beasts, learn how they fight, prepare for the encounter, then bring them down—or bring them home alive. 01 Up to 4 Hunters 02 No DT to Depart 03 Shared Intel 04 Kill or Capture Starting a Hunt Hunt Actions Intel Monster Tribes Combat Classes Go on the Hunt Hunt Combat Clinging Injury & Part Breaks Exertion Capture A Hunt is a GM-run adventure in which a small team tracks, studies, prepares for, and ultimately confronts a dangerous creature. Preparatory Hunt Actions use Downtime Slots, but going on the Hunt itself costs no Downtime. The work your Team does before the fight can determine what you know, what advantages you begin with, and whether you are ready for what the monster can do. 01 Find It Track the target and learn its territory. 02 Learn It Research its nature, habits and abilities. 03 Prepare Build the tools and advantages you need. 04 Confront It Choose when the Team knows enough to strike. 05 Finish It Kill, capture, drive off, or neutralise it. ---"
+    "text": "CORE RULES / FIELD REFERENCE Hunting Track dangerous beasts, learn how they fight, prepare for the encounter, then bring them down—or bring them home alive. 01 Up to 4 Hunters 02 No DT to Depart 03 Shared Intel 04 Kill or Capture Starting a Hunt Hunt Actions Intel Monster Tribes Combat Classes Go on the Hunt Hunt Combat Clinging Injury & Part Breaks Exertion Capture A Hunt is a GM-run adventure in which a small team tracks, studies, prepares for, and ultimately confronts a dangerous creature. Preparatory Hunt Actions use Downtime Slots, but going on the Hunt itself costs no Downtime . The work your Team does before the fight can determine what you know, what advantages you begin with, and whether you are ready for what the monster can do. 01 Find It Track the target and learn its territory. 02 Learn It Research its nature, habits and abilities. 03 Prepare Build the tools and advantages you need. 04 Confront It Arrange a time with your GM and Team, then go. No DT cost. 05 Finish It Kill, capture, drive off, or neutralise it. ---"
   },
   {
     "title": "Starting a Hunt",
@@ -10189,7 +10189,7 @@
     "volume": "Bow Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/bow/#cutting-arrow",
-    "text": "D-Rank An arrow is fired at another projectile rather than the attacker. Rank: D Stamina: 6 Speed: 3 Tags: Chain X, Bow, Utility, Interrupt Effects: Consume an arrow to Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. This does not defend against AoEs."
+    "text": "D-Rank An arrow is fired at another projectile rather than the attacker. Rank: D Stamina: 6 Speed: 3 Tags: Chain X, Bow, Utility, Interrupt Effects: Consume an arrow to Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5."
   },
   {
     "title": "Hiki Shibori - Held Draw",
@@ -10301,7 +10301,7 @@
     "volume": "Bukijutsu Rules",
     "number": "IV",
     "url": "/rules/jutsu/bukijutsu/#bukijutsu-scaling",
-    "text": "When these techniques use Athletics/5 for a roll bonus, penalty or extra weapon allowance, round down, with a minimum of 2 and maximum of 6. Other attribute divisions used for yards, status severity, Control or target counts round down and use their printed minimums and caps. Damage Bonus calculations retain the normal one-decimal rule. Reach and Range percentage increases use the weapon or technique's value before maintained Bukijutsu and setup bonuses. Calculate each increase from that same value; do not compound them. Final Damage and Wounding percentages use their normal system rules. PDB × Speed and percentage effects use the final Attack normally. A bonus for your next Chain Attack is consumed by that Attack and ends if that Chain ends. Other one-use benefits end when used or when the combat ends. Repeated applications of the same named effect do not stack. An Interrupt must explicitly allow AoE defense to Parry an AoE; such a Parry has no Partial Defense."
+    "text": "When these techniques use Athletics/5 for a roll bonus, penalty or extra weapon allowance, round down, with a minimum of 2 and maximum of 6. Other attribute divisions used for yards, status severity, Control or target counts round down and use their printed minimums and caps. Damage Bonus calculations retain the normal one-decimal rule. Reach and Range percentage increases use the weapon or technique's value before maintained Bukijutsu and setup bonuses. Calculate each increase from that same value; do not compound them. Final Damage and Wounding percentages use their normal system rules. PDB × Speed and percentage effects use the final Attack normally. A bonus for your next Chain Attack is consumed by that Attack and ends if that Chain ends. Other one-use benefits end when used or when the combat ends. Repeated applications of the same named effect do not stack. Weapon Parries work against matching AoEs. A Melee Weapon Parry can stop a sweeping Melee Weapon Attack. A Parry against Ranged Taijutsu can stop a volley of thrown weapons. Use the technique’s normal requirements and bonuses. Only full success defends you against the AoE."
   },
   {
     "title": "Rank-scaled weapon damage",
@@ -10371,14 +10371,14 @@
     "volume": "Bukijutsu Rules",
     "number": "IV",
     "url": "/rules/jutsu/bukijutsu/#low-guard",
-    "text": "D-Rank The weapon stays low and close to the body, making it easier to receive an attack before committing to your own. Rank: D Stamina: 8 Upkeep: 2 Speed: 4 Tags: Utility, Self, Upkeep, Bukijutsu Stance Effects: Gain +Athletics/5 to targeted Melee Parries. After fully defending against an enemy Attack, your next Melee Chain Attack against that enemy gains +15% Final Damage if it is your next non-Interrupt Action."
+    "text": "D-Rank The weapon stays low and close to the body, making it easier to receive an attack before committing to your own. Rank: D Stamina: 8 Upkeep: 2 Speed: 4 Tags: Utility, Self, Upkeep, Bukijutsu Stance Effects: Gain +Athletics/5 to Melee Parries. After fully defending against an enemy Attack, your next Melee Chain Attack against that enemy gains +15% Final Damage if it is your next non-Interrupt Action."
   },
   {
     "title": "Nagai Kamae - Long Guard",
     "volume": "Bukijutsu Rules",
     "number": "IV",
     "url": "/rules/jutsu/bukijutsu/#long-guard",
-    "text": "D-Rank You keep your weapon extended to hold an opponent at the edge of its reach. Rank: D Stamina: 9 Upkeep: 2 Speed: 4 Tags: Utility, Self, Upkeep, Bukijutsu Stance Effects: Increase your Melee Weapon Reach by 50%, minimum +2 yards. Gain +Athletics/5 Parry against targeted Melee Attacks that began outside your unmodified weapon Reach."
+    "text": "D-Rank You keep your weapon extended to hold an opponent at the edge of its reach. Rank: D Stamina: 9 Upkeep: 2 Speed: 4 Tags: Utility, Self, Upkeep, Bukijutsu Stance Effects: Increase your Melee Weapon Reach by 50%, minimum +2 yards. Gain +Athletics/5 Parry against Melee Attacks that began outside your unmodified weapon Reach."
   },
   {
     "title": "C-Rank",
@@ -10581,7 +10581,7 @@
     "volume": "Chain Weapon Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/chain/#moving-coil",
-    "text": "E-Rank The chain is kept alive around the body like a moving perimeter. Rank: E Stamina: 5 Upkeep: 1 Speed: 6 Tags: Chain X, Chain, Utility Effects: While maintained, gain +Athletics/5 Parry against targeted Ranged Taijutsu and increase Chain weapon Range by 25%, minimum +3 yards. This grants no AoE Parry permission."
+    "text": "E-Rank The chain is kept alive around the body like a moving perimeter. Rank: E Stamina: 5 Upkeep: 1 Speed: 6 Tags: Chain X, Chain, Utility Effects: While maintained, gain +Athletics/5 Parry against Ranged Taijutsu and increase Chain weapon Range by 25%, minimum +3 yards."
   },
   {
     "title": "Hiro Muchi - Wide Lash",
@@ -10623,7 +10623,7 @@
     "volume": "Chain Weapon Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/chain/#coiled-guard",
-    "text": "D-Rank The weapon is coiled into a defensive orbit close enough to parry melee attacks while still threatening at range. Rank: D Stamina: 9 Upkeep: 2 Speed: 8 Tags: Bukijutsu, Chain, Utility Effects: Gain +Athletics/5 Parry against targeted Melee Attacks and increase Chain weapon Range by 50%, minimum +6 yards. After a full Parry against an attacker in Range, you may initiate a Weapon Grapple, resolving starting Control normally. The chain must be free to hold it; one Parry cannot establish multiple Grapples. This grants no AoE Parry permission."
+    "text": "D-Rank The weapon is coiled into a defensive orbit close enough to parry melee attacks while still threatening at range. Rank: D Stamina: 9 Upkeep: 2 Speed: 8 Tags: Bukijutsu, Chain, Utility Effects: Gain +Athletics/5 Parry against Melee Attacks and increase Chain weapon Range by 50%, minimum +6 yards. After a full Parry against an attacker in Range, you may initiate a Weapon Grapple, resolving starting Control normally. The chain must be free to hold it; one Parry cannot establish multiple Grapples."
   },
   {
     "title": "C-Rank",
@@ -10665,7 +10665,7 @@
     "volume": "Chain Weapon Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/chain/#intercepting-coil",
-    "text": "B-Rank The chain whips into the path of incoming fire and keeps moving after the deflection, carrying your footing with it. Rank: B Stamina: 10 Speed: 4 Tags: Chain X, Chain, Utility, Interrupt Effects: Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, catch a physical projectile with the chain. If its attacker is in Chain Range and your chain is unoccupied, immediately initiate a Weapon Grapple against it using your Parry result as the attack Accuracy; it defends normally, then determine Control normally on a hit. This adds no further action time. This does not defend against AoEs."
+    "text": "B-Rank The chain whips into the path of incoming fire and keeps moving after the deflection, carrying your footing with it. Rank: B Stamina: 10 Speed: 4 Tags: Chain X, Chain, Utility, Interrupt Effects: Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, catch a physical projectile with the chain. If its attacker is in Chain Range and your chain is unoccupied, immediately initiate a Weapon Grapple against it using your Parry result as the attack Accuracy; it defends normally, then determine Control normally on a hit. This adds no further action time."
   },
   {
     "title": "Hane Modoshi - Snap Return",
@@ -10749,7 +10749,7 @@
     "volume": "Club Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/club/#brace",
-    "text": "E-Rank You brace the club across the incoming blow. Rank: E Stamina: 4 Speed: 3 Tags: Chain X, Club, Utility, Interrupt Effects: Parry a Melee Attack with +2. On success, reduce Knockback from that Attack to 0. This does not defend against AoEs."
+    "text": "E-Rank You brace the club across the incoming blow. Rank: E Stamina: 4 Speed: 3 Tags: Chain X, Club, Utility, Interrupt Effects: Parry a Melee Attack with +2. On success, reduce Knockback from that Attack to 0."
   },
   {
     "title": "Nagi Harai - Wide Swing",
@@ -11449,7 +11449,7 @@
     "volume": "Dual Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/dual/#off-hand-catch",
-    "text": "E-Rank The off-hand weapon exists to solve the problems the leading weapon creates. Rank: E Stamina: 4 Speed: 3 Tags: Chain X, Dual, Utility, Interrupt Effects: Parry a targeted Melee Attack with the off-hand weapon at +Athletics/5. On full success, your next Dual Chain Attack gains +15% Final Damage if it is your next non-Interrupt Action. This does not defend against AoEs."
+    "text": "E-Rank The off-hand weapon exists to solve the problems the leading weapon creates. Rank: E Stamina: 4 Speed: 3 Tags: Chain X, Dual, Utility, Interrupt Effects: Parry a Melee Attack with the off-hand weapon at +Athletics/5. On full success, your next Dual Chain Attack gains +15% Final Damage if it is your next non-Interrupt Action."
   },
   {
     "title": "Kaiten Randa - Turning Flurry",
@@ -11533,7 +11533,7 @@
     "volume": "Dual Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/dual/#counterpair",
-    "text": "B-Rank A full parry with one hand opens the line for the other. Rank: B Stamina: 10 Speed: 4 Tags: Chain X, Dual, Attack, Interrupt Effects: After fully Parrying a targeted Melee Attack, make an off-hand Basic Weapon Attack against the attacker at full damage if it is within Reach. Pay this technique’s Stamina and Interrupt Speed instead of that Basic Attack’s costs. The counter has its own Accuracy and Defense and is Chain X."
+    "text": "B-Rank A full parry with one hand opens the line for the other. Rank: B Stamina: 10 Speed: 4 Tags: Chain X, Dual, Attack, Interrupt Effects: After fully Parrying a Melee Attack, make an off-hand Basic Weapon Attack against the attacker at full damage if it is within Reach. Pay this technique’s Stamina and Interrupt Speed instead of that Basic Attack’s costs. The counter has its own Accuracy and Defense and is Chain X."
   },
   {
     "title": "A-Rank",
@@ -11736,7 +11736,7 @@
     "volume": "Fan Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/fan/#wind-screen",
-    "text": "E-Rank The fan catches a projectile in moving air instead of trying to meet it edge-on. Rank: E Chakra: 7 Speed: 3 Tags: Chain X, Fan, Utility, Interrupt Effects: Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. A full success also ends any effect carried solely by that projectile before it reaches you. This does not cancel an independent area effect or permit AoE defense."
+    "text": "E-Rank The fan catches a projectile in moving air instead of trying to meet it edge-on. Rank: E Chakra: 7 Speed: 3 Tags: Chain X, Fan, Utility, Interrupt Effects: Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5. A full success also ends any effect carried solely by that projectile before it reaches you. An independent area effect still resolves."
   },
   {
     "title": "Ōnagi - Broad Sweep",
@@ -11806,7 +11806,7 @@
     "volume": "Fan Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/fan/#closed-guard",
-    "text": "C-Rank The fan closes into a compact guard that can actually receive melee force. Rank: C Stamina: 11 Speed: 4 Tags: Bukijutsu, Fan, Utility, Interrupt Effects: Parry a targeted Melee Attack with +Athletics/5. On full success, your next Fan Chain 1 gains +20% Final Damage if it is your next non-Interrupt Action. This does not defend against AoEs."
+    "text": "C-Rank The fan closes into a compact guard that can actually receive melee force. Rank: C Stamina: 11 Speed: 4 Tags: Bukijutsu, Fan, Utility, Interrupt Effects: Parry a Melee Attack with +Athletics/5. On full success, your next Fan Chain 1 gains +20% Final Damage if it is your next non-Interrupt Action."
   },
   {
     "title": "B-Rank",
@@ -15103,7 +15103,7 @@
     "volume": "Polearm Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#haft-guard",
-    "text": "D-Rank You catch the incoming strike and push the opponent out along the shaft. Rank: D Stamina: 5 Speed: 3 Tags: Chain X, Polearm, Utility, Interrupt Effects: Parry a targeted Melee Attack with +Athletics/5. On a full success, push the attacker directly away to any legal point within your Polearm Reach. This cannot pass through obstacles and does not defend against AoEs."
+    "text": "D-Rank You catch the incoming strike and push the opponent out along the shaft. Rank: D Stamina: 5 Speed: 3 Tags: Chain X, Polearm, Utility, Interrupt Effects: Parry a Melee Attack with +Athletics/5. On a full success, push the attacker directly away to any legal point within your Polearm Reach. Obstacles stop this push."
   },
   {
     "title": "Enshin no Kamae - Extended Guard",
@@ -15152,7 +15152,7 @@
     "volume": "Polearm Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#crossbar-catch",
-    "text": "B-Rank You catch the projectile on the shaft and turn it aside. Rank: B Stamina: 8 Speed: 3 Tags: Chain X, Polearm, Utility, Interrupt Effects: Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, redirect a physical projectile at its attacker if that attacker is within the projectile’s remaining Range. Use your Parry result as Accuracy and the projectile’s original damage; it defends normally. This counter adds no further cost or action time and cannot itself be redirected. This does not defend against AoEs."
+    "text": "B-Rank You catch the projectile on the shaft and turn it aside. Rank: B Stamina: 8 Speed: 3 Tags: Chain X, Polearm, Utility, Interrupt Effects: Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, redirect a physical projectile at its attacker if that attacker is within the projectile’s remaining Range. Use your Parry result as Accuracy and the projectile’s original damage; it defends normally. This counter adds no further cost or action time and cannot itself be redirected."
   },
   {
     "title": "Suri Maai - Sliding Measure",
@@ -15180,7 +15180,7 @@
     "volume": "Polearm Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#levering-throw",
-    "text": "A-Rank You catch the attack on the haft, drop your weight under it, and use the polearm as a lever to throw the attacker off their base. Rank: A Stamina: 13 Speed: 4 Special: Knockback, Prone (see Effects) Tags: Chain X, Polearm, Utility, Interrupt Effects: Parry a targeted Melee Attack with +Athletics/5. On a full success, win one Athletics Status Roll against the attacker’s Resistance to apply Prone and Knockback equal to the greater of 10 or STR/3 in any legal direction. The throw may carry it beyond your Reach. This does not defend against AoEs. ← ALL JUTSU TYPES"
+    "text": "A-Rank You catch the attack on the haft, drop your weight under it, and use the polearm as a lever to throw the attacker off their base. Rank: A Stamina: 13 Speed: 4 Special: Knockback, Prone (see Effects) Tags: Chain X, Polearm, Utility, Interrupt Effects: Parry a Melee Attack with +Athletics/5. On a full success, win one Athletics Status Roll against the attacker’s Resistance to apply Prone and Knockback equal to the greater of 10 or STR/3 in any legal direction. The throw may carry it beyond your Reach. ← ALL JUTSU TYPES"
   },
   {
     "title": "Raiton · Lightning",
@@ -15649,7 +15649,7 @@
     "volume": "Jutsu Rules",
     "number": "IV",
     "url": "/rules/jutsu/rules/#elemental-strength-and-weaknesses",
-    "text": "Elemental strengths follow this cycle: Earth > Water > Fire > Wind > Lightning > Earth"
+    "text": "Elemental strengths follow this cycle: Earth > Water > Fire > Wind > Lightning > Earth Each element beats the next one in the cycle. An elemental Ninjutsu Parry can defend against an AoE Ninjutsu of its own element or one it beats. For example, a Suiton Parry can stop a Suiton or Katon AoE within the technique’s usual limits."
   },
   {
     "title": "Elemental Weapons and Enhanced Attacks",
@@ -16440,7 +16440,7 @@
     "volume": "Sword Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/sword/#bind-and-recover",
-    "text": "D-Rank You catch the attacking weapon and guide it aside. Rank: D Stamina: 6 Speed: 3 Tags: Chain X, Sword, Utility, Interrupt Effects: Parry a targeted Melee Attack with +Athletics/5. On a full success, your next Sword Chain Attack against that attacker gains +Athletics/5 Accuracy if it is your next non-Interrupt Action. This does not defend against AoEs."
+    "text": "D-Rank You catch the attacking weapon and guide it aside. Rank: D Stamina: 6 Speed: 3 Tags: Chain X, Sword, Utility, Interrupt Effects: Parry a Melee Attack with +Athletics/5. On a full success, your next Sword Chain Attack against that attacker gains +Athletics/5 Accuracy if it is your next non-Interrupt Action."
   },
   {
     "title": "Tanren no Ha - Tempered Edge",
@@ -16489,7 +16489,7 @@
     "volume": "Sword Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/sword/#intercepting-draw",
-    "text": "B-Rank You draw your sword into the path of an incoming attack. Rank: B Stamina: 12 Speed: 4 Tags: Chain X, Sword, Attack, Interrupt Effects: Requires a sheathed sword. Parry a targeted Melee Attack with +Athletics/5. On a full success, immediately make a Sword Basic Weapon Attack against the attacker at full damage if it is within Reach. The counter has its own Accuracy and Defense; its action time is included in this technique, and you pay the Basic Attack’s Stamina. End drawn. This does not defend against AoEs."
+    "text": "B-Rank You draw your sword into the path of an incoming attack. Rank: B Stamina: 12 Speed: 4 Tags: Chain X, Sword, Attack, Interrupt Effects: Requires a sheathed sword. Parry a Melee Attack with +Athletics/5. On a full success, immediately make a Sword Basic Weapon Attack against the attacker at full damage if it is within Reach. The counter has its own Accuracy and Defense; its action time is included in this technique, and you pay the Basic Attack’s Stamina. End drawn."
   },
   {
     "title": "Nōtō - Draw Reset",
@@ -16517,7 +16517,7 @@
     "volume": "Sword Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/sword/#perfect-bind",
-    "text": "A-Rank You catch the opposing weapon near its base and turn it aside. Rank: A Stamina: 13 Speed: 3 Tags: Chain X, Sword, Utility, Interrupt Effects: Parry a targeted Melee Attack with +Athletics/5. On a full success, choose one: Turn the Line — win an Athletics Status Roll against Resistance to move the attacker up to STR/5 yards in any legal direction and apply Prone; or Seal the Line — the attacking weapon cannot Parry your next Sword Chain Attack if it is your next non-Interrupt Action. This does not defend against AoEs. ← ALL JUTSU TYPES"
+    "text": "A-Rank You catch the opposing weapon near its base and turn it aside. Rank: A Stamina: 13 Speed: 3 Tags: Chain X, Sword, Utility, Interrupt Effects: Parry a Melee Attack with +Athletics/5. On a full success, choose one: Turn the Line — win an Athletics Status Roll against Resistance to move the attacker up to STR/5 yards in any legal direction and apply Prone; or Seal the Line — the attacking weapon cannot Parry your next Sword Chain Attack if it is your next non-Interrupt Action. ← ALL JUTSU TYPES"
   },
   {
     "title": "Thrown Bukijutsu",
@@ -21641,7 +21641,7 @@
     "volume": "Team Attacks",
     "number": "I",
     "url": "/rules/team-attacks/#release",
-    "text": "At the end of the IC that completes preparation, the lead declares the attack base using one component's printed attack form, Range and Area: targeted Melee, targeted Ranged, or AoE. Every component must be able to reach every chosen target from its contributor's position. A targeted component cannot be multiplied across an AoE; an AoE base requires every component to support that Area and its targets. Use the smallest legal Area where they differ. Any component that cannot legally contribute at release is removed and preparation is recalculated. Use the lead component's final Accuracy, including shared Links, for the combined Attack. Rank and defensive Speed are the highest component rank and final Speed. Combine all Keywords. A defense must be legal against the complete Attack: a projectile-only parry cannot stop a combined projectile-and-melee Attack, for example. AoE Parries must explicitly permit AoE defense and grant no Partial Defense. Parries against a non-AoE Team Attack use normal Partial Defense unless the Attack itself prohibits it. Each target declares one Defense against the entire Attack. Rolled-Accuracy Ballistic contributions prohibit Partial Defense for the whole Team Attack unless every Ballistic contributor chose Controlled Fire. If the lead component is rolled Accuracy, roll once at release. Every participant becomes free to act on the following IC; the preparation already paid the Attack's action time."
+    "text": "At the end of the IC that completes preparation, the lead declares the attack base using one component's printed attack form, Range and Area: targeted Melee, targeted Ranged, or AoE. Every component must be able to reach every chosen target from its contributor's position. A targeted component cannot be multiplied across an AoE; an AoE base requires every component to support that Area and its targets. Use the smallest legal Area where they differ. Any component that cannot legally contribute at release is removed and preparation is recalculated. Use the lead component's final Accuracy, including shared Links, for the combined Attack. Rank and defensive Speed are the highest component rank and final Speed. Combine all Keywords. A defense must be legal against the complete Attack: a projectile-only parry cannot stop a combined projectile-and-melee Attack, for example. For an AoE Team Attack, apply the AoE Parry rules to every component. One Parry must cover them all and succeed fully. Parries against a non-AoE Team Attack use normal Partial Defense unless the Attack itself prohibits it. Each target declares one Defense against the entire Attack. Rolled-Accuracy Ballistic contributions prohibit Partial Defense for the whole Team Attack unless every Ballistic contributor chose Controlled Fire. If the lead component is rolled Accuracy, roll once at release. Every participant becomes free to act on the following IC; the preparation already paid the Attack's action time."
   },
   {
     "title": "Damage, Links and Effects",
@@ -22432,7 +22432,7 @@
     "volume": "Uniques",
     "number": "II",
     "url": "/rules/uniques/#fan-of-knives",
-    "text": "You control the fight with well-placed throws. Increase the Range of Ranged Taijutsu by DEX/20 yards. Those Attacks gain +1% Final Damage per yard to the target, maximum 15 + DEX/10%. When you hit with a Ranged Taijutsu Attack, treat it as having hit by 1 point more than it actually did for Partial Success and any effect based on how much the Attack hit by. Multi-Throw may include DEX/40 additional weapons without increasing its normal Speed or cost. You may Parry a non-AoE ranged Attack with thrown weapons. On a successful Parry, immediately make a basic throw or Multi-Throw with those same weapons as an Interrupt, using the Parry result as its Accuracy. This counterthrow cannot further modify that Accuracy. Upgrades From: Quick Draw"
+    "text": "You control the fight with well-placed throws. Increase the Range of Ranged Taijutsu by DEX/20 yards. Those Attacks gain +1% Final Damage per yard to the target, maximum 15 + DEX/10%. When you hit with a Ranged Taijutsu Attack, treat it as having hit by 1 point more than it actually did for Partial Success and any effect based on how much the Attack hit by. Multi-Throw may include DEX/40 additional weapons without increasing its normal Speed or cost. You may Parry a ranged Attack with thrown weapons, including a Ranged Taijutsu or Weapon AoE. On a successful Parry, immediately make a basic throw or Multi-Throw with those same weapons as an Interrupt, using the Parry result as its Accuracy. This counterthrow cannot further modify that Accuracy. Upgrades From: Quick Draw"
   },
   {
     "title": "Fixer",

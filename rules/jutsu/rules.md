@@ -190,6 +190,8 @@ Elemental strengths follow this cycle:
 
 Earth > Water > Fire > Wind > Lightning > Earth
 
+Each element beats the next one in the cycle. An elemental Ninjutsu Parry can defend against an AoE Ninjutsu of its own element or one it beats. For example, a Suiton Parry can stop a Suiton or Katon AoE within the technique’s usual limits.
+
 ## Elemental Weapons and Enhanced Attacks
 {:#created-weapons-enhanced-attacks-and-you}
 

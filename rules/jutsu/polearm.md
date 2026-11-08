@@ -148,7 +148,7 @@ Rank: D
 Stamina: 5  
 Speed: 3  
 Tags: Chain X, Polearm, Utility, Interrupt  
-Effects: Parry a targeted Melee Attack with +Athletics/5. On a full success, push the attacker directly away to any legal point within your Polearm Reach. This cannot pass through obstacles and does not defend against AoEs.
+Effects: Parry a Melee Attack with +Athletics/5. On a full success, push the attacker directly away to any legal point within your Polearm Reach. Obstacles stop this push.
 
 #### Enshin no Kamae - Extended Guard
 {:#extended-guard .jutsu-technique}
@@ -222,7 +222,7 @@ Rank: B
 Stamina: 8  
 Speed: 3  
 Tags: Chain X, Polearm, Utility, Interrupt  
-Effects: Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, redirect a physical projectile at its attacker if that attacker is within the projectile’s remaining Range. Use your Parry result as Accuracy and the projectile’s original damage; it defends normally. This counter adds no further cost or action time and cannot itself be redirected. This does not defend against AoEs.
+Effects: Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, redirect a physical projectile at its attacker if that attacker is within the projectile’s remaining Range. Use your Parry result as Accuracy and the projectile’s original damage; it defends normally. This counter adds no further cost or action time and cannot itself be redirected.
 
 #### Suri Maai - Sliding Measure
 {:#sliding-measure .jutsu-technique}
@@ -266,7 +266,7 @@ Stamina: 13
 Speed: 4  
 Special: Knockback, Prone (see Effects)  
 Tags: Chain X, Polearm, Utility, Interrupt  
-Effects: Parry a targeted Melee Attack with +Athletics/5. On a full success, win one Athletics Status Roll against the attacker’s Resistance to apply Prone and Knockback equal to the greater of 10 or STR/3 in any legal direction. The throw may carry it beyond your Reach. This does not defend against AoEs.
+Effects: Parry a Melee Attack with +Athletics/5. On a full success, win one Athletics Status Roll against the attacker’s Resistance to apply Prone and Knockback equal to the greater of 10 or STR/3 in any legal direction. The throw may carry it beyond your Reach.
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>

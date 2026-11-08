@@ -86,7 +86,7 @@ Rank: E
 Stamina: 4  
 Speed: 3  
 Tags: Chain X, Dual, Utility, Interrupt  
-Effects: Parry a targeted Melee Attack with the off-hand weapon at +Athletics/5. On full success, your next Dual Chain Attack gains +15% Final Damage if it is your next non-Interrupt Action. This does not defend against AoEs.
+Effects: Parry a Melee Attack with the off-hand weapon at +Athletics/5. On full success, your next Dual Chain Attack gains +15% Final Damage if it is your next non-Interrupt Action.
 
 #### Kaiten Randa - Turning Flurry
 {:#turning-flurry .jutsu-technique}
@@ -219,7 +219,7 @@ Rank: B
 Stamina: 10  
 Speed: 4  
 Tags: Chain X, Dual, Attack, Interrupt  
-Effects: After fully Parrying a targeted Melee Attack, make an off-hand Basic Weapon Attack against the attacker at full damage if it is within Reach. Pay this technique’s Stamina and Interrupt Speed instead of that Basic Attack’s costs. The counter has its own Accuracy and Defense and is Chain X.
+Effects: After fully Parrying a Melee Attack, make an off-hand Basic Weapon Attack against the attacker at full damage if it is within Reach. Pay this technique’s Stamina and Interrupt Speed instead of that Basic Attack’s costs. The counter has its own Accuracy and Defense and is Chain X.
 
 ## A-Rank
 {:#a-rank-15 .jutsu-rank-heading}

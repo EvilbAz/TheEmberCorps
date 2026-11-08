@@ -858,7 +858,7 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 
 *You control the fight with well-placed throws. Increase the Range of Ranged Taijutsu by DEX/20 yards. Those Attacks gain \+1% Final Damage per yard to the target, maximum 15 \+ DEX/10%. When you hit with a Ranged Taijutsu Attack, treat it as having hit by 1 point more than it actually did for Partial Success and any effect based on how much the Attack hit by.*
 
-*Multi-Throw may include DEX/40 additional weapons without increasing its normal Speed or cost. You may Parry a non-AoE ranged Attack with thrown weapons. On a successful Parry, immediately make a basic throw or Multi-Throw with those same weapons as an Interrupt, using the Parry result as its Accuracy. This counterthrow cannot further modify that Accuracy.*
+*Multi-Throw may include DEX/40 additional weapons without increasing its normal Speed or cost. You may Parry a ranged Attack with thrown weapons, including a Ranged Taijutsu or Weapon AoE. On a successful Parry, immediately make a basic throw or Multi-Throw with those same weapons as an Interrupt, using the Parry result as its Accuracy. This counterthrow cannot further modify that Accuracy.*
 
 *Upgrades From: Quick Draw*
 

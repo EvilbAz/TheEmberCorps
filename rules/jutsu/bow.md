@@ -146,7 +146,7 @@ Rank: D
 Stamina: 6  
 Speed: 3  
 Tags: Chain X, Bow, Utility, Interrupt  
-Effects: Consume an arrow to Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. This does not defend against AoEs.
+Effects: Consume an arrow to Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5.
 
 #### Hiki Shibori - Held Draw
 {:#held-draw .jutsu-technique}

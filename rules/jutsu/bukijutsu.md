@@ -54,7 +54,9 @@ When these techniques use **Athletics/5** for a roll bonus, penalty or extra wea
 
 Reach and Range percentage increases use the weapon or technique's value before maintained Bukijutsu and setup bonuses. Calculate each increase from that same value; do not compound them. Final Damage and Wounding percentages use their normal system rules. PDB × Speed and percentage effects use the final Attack normally.
 
-A bonus for your next Chain Attack is consumed by that Attack and ends if that Chain ends. Other one-use benefits end when used or when the combat ends. Repeated applications of the same named effect do not stack. An Interrupt must explicitly allow AoE defense to Parry an AoE; such a Parry has no Partial Defense.
+A bonus for your next Chain Attack is consumed by that Attack and ends if that Chain ends. Other one-use benefits end when used or when the combat ends. Repeated applications of the same named effect do not stack.
+
+Weapon Parries work against matching AoEs. A Melee Weapon Parry can stop a sweeping Melee Weapon Attack. A Parry against Ranged Taijutsu can stop a volley of thrown weapons. Use the technique’s normal requirements and bonuses. Only full success defends you against the AoE.
 
 ## Rank-scaled weapon damage
 {:#rank-scaled-weapon-damage}
@@ -182,7 +184,7 @@ Stamina: 8
 Upkeep: 2  
 Speed: 4  
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
-Effects: Gain +Athletics/5 to targeted Melee Parries. After fully defending against an enemy Attack, your next Melee Chain Attack against that enemy gains +15% Final Damage if it is your next non-Interrupt Action.
+Effects: Gain +Athletics/5 to Melee Parries. After fully defending against an enemy Attack, your next Melee Chain Attack against that enemy gains +15% Final Damage if it is your next non-Interrupt Action.
 
 #### Nagai Kamae - Long Guard
 {:#long-guard .jutsu-technique}
@@ -196,7 +198,7 @@ Stamina: 9
 Upkeep: 2  
 Speed: 4  
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
-Effects: Increase your Melee Weapon Reach by 50%, minimum +2 yards. Gain +Athletics/5 Parry against targeted Melee Attacks that began outside your unmodified weapon Reach.
+Effects: Increase your Melee Weapon Reach by 50%, minimum +2 yards. Gain +Athletics/5 Parry against Melee Attacks that began outside your unmodified weapon Reach.
 
 ### C-Rank
 {:#bukijutsu-stances-c-rank .jutsu-rank-heading}

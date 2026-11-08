@@ -4241,7 +4241,7 @@ Explosion: After the linked declaration resolves, other creatures within 3 yards
 
 X is the number of gallons of battlefield water currently invested in the technique you are interrupting. You may use Boil as a Defensive Interrupt only against an Attack that currently has at least 1 gallon of battlefield water invested in it.
 
-Make a Ninjutsu Parry against the interrupted Attack's Accuracy with a \+CHA/10 bonus. This Parry permits Partial Success against non-AoE Attacks. It cannot defend against an AoE unless another effect expressly grants that permission; an AoE Parry grants no Partial Success. On a full success, you are fully defended from the Attack and boil off X gallons before it resolves. If this leaves the Attack below its minimum Gallon Requirement, it fails for all targets. Otherwise, if its effects scale with gallons, recalculate them using the gallons that remain before resolving the Attack against any other targets. On Partial Success or failure, Boil destroys no gallons.
+Make a Ninjutsu Parry against the interrupted Attack's Accuracy with a \+CHA/10 bonus. This Parry permits Partial Success against non-AoE Attacks. Against an AoE, apply the usual type or elemental advantage rule and require full success. The battlefield water requirement still applies. On a full success, you are fully defended from the Attack and boil off X gallons before it resolves. If this leaves the Attack below its minimum Gallon Requirement, it fails for all targets. Otherwise, if its effects scale with gallons, recalculate them using the gallons that remain before resolving the Attack against any other targets. On Partial Success or failure, Boil destroys no gallons.
 
 Boil cannot erase Mokuton, Hyōton, or another advanced nature merely because Suiton helped create it. The interrupted technique must actually be using battlefield water at that moment.
 
@@ -4551,7 +4551,7 @@ End the Blob when its Immobilization reaches 0, the victim moves more than 3 yar
 
 **Effects**
 
-Choose G from 0–5 available gallons in Water Reserve and spend them with Chakra. As a Main Action, remove one external physical Immobilization and flow to a legal point within max(2, 2G) yards. As a Defensive Interrupt against one non-AoE, non-Genjutsu Attack, use the Parry below. Doton and Raiton cannot be Parried with this technique.
+Choose G from 0–5 available gallons in Water Reserve and spend them with Chakra. As a Main Action, remove one external physical Immobilization and flow to a legal point within max(2, 2G) yards. As a Defensive Interrupt against one Attack other than Genjutsu, use the Parry below. For an AoE, apply the usual type or elemental advantage rule and require full success. Doton and Raiton cannot be Parried with this technique.
 
 Choose a continuous route through openings at least 1 inch wide. The listed movement distance is already adjusted for Hydration; sealed barriers stop it. Gallons spent are consumed. Removed restraints are left behind, while internal conditions, sealing effects and shadow possession remain.
 

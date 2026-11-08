@@ -2136,13 +2136,15 @@ The best defense against any attack is simply not being hit.When you dodge an at
 #### Parry (Speed 3, Interrupt)
 {:#parry-speed-3-interrupt}
 
-This entails deflecting an opponent's weapon with your own, or stopping their bare hands with your own. Accordingly, weapon attacks may only be parried with weapons, and any other taijutsu attack may only be parried if you have at least one hand free to do so. Parrying works similarly to dodging, though uses an Accuracy roll to determine its success.
+Roll Accuracy against the incoming Attack’s Accuracy. For a standard Parry, use a weapon against a Weapon Attack or a free hand against other Taijutsu. Some weapons and techniques let you Parry additional attack types.
 
 If an effect penalises both Accuracy and defensive rolls, apply only its defensive-roll penalty to Parry. Accuracy-only penalties still apply.
 
-Parries against non-AoE Attacks use the normal Partial Defense rules. A Parry cannot defend against an AoE unless its entry explicitly allows it; when it does, it succeeds fully or fails and grants no Partial Defense. These rules apply to all Accuracy-based defensive parries, including Jutsu. Attacks that independently prohibit Partial Defense, such as rolled-Accuracy Ballistic Attacks, retain that restriction.
+**Parrying an area attack.** When an AoE would hit you, you can Parry it if the attack matches your Parry’s type or your Parry has elemental advantage against it. A Katon Ninjutsu Parry can stop a Katon or Fūton Ninjutsu AoE. A weapon can Parry a Weapon AoE, and a free hand can Parry an unarmed Taijutsu AoE. A Fan that can Parry both can defend against either. Apply the Parry’s usual Speed, rank, equipment, and attack requirements, including any Melee or Projectile requirement. Techniques that list additional AoE matchups can also defend against those attacks.
 
-The above is the standard parry option but there are more parry options listed elsewhere. A defensive option that uses an accuracy roll is considered a parry and sufferes the same penalties as listed above.
+An AoE Parry requires full success. On failure, take the attack’s full effects. Each other creature in the area defends separately unless the technique protects others. Against a non-AoE Attack, use normal Partial Defense unless the attack prohibits it.
+
+These rules apply to every defensive option that uses an Accuracy roll, including Jutsu Parries.
 
 #### Jutsu (Speed Variable, Interrupt)
 {:#jutsu-speed-variable-interrupt}
@@ -2598,7 +2600,7 @@ Others, however, are attacks: they cause damage to everyone within an area. Depe
 When being subjected to an AoE attack, the first thing to determine is if you can dodge it effectively. To do this, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the effect's radius, you can Dodge normally.  
 If not, you have a \-2 penalty to Dodge per yard you're short by.
 
-As AoEs are not, strictly speaking, targeting you, they have special stipulations. An AoE can be parried only by a defense that explicitly permits AoE Parries. Such a Parry grants no Partial Defense and only protects the person parrying unless stated otherwise. All other potential targets must still defend from the AoE themselves.
+If the attack matches your Parry’s type or your Parry has elemental advantage, you can [Parry](#parry-speed-3-interrupt) the AoE. Only a full success protects you. Other creatures in the area resolve their own defenses unless the technique protects them too.
 
 #### Knockback
 {:#knockback}

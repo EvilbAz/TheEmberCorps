@@ -105,7 +105,7 @@ Stamina: 5
 Upkeep: 1  
 Speed: 6  
 Tags: Chain X, Chain, Utility  
-Effects: While maintained, gain +Athletics/5 Parry against targeted Ranged Taijutsu and increase Chain weapon Range by 25%, minimum +3 yards. This grants no AoE Parry permission.
+Effects: While maintained, gain +Athletics/5 Parry against Ranged Taijutsu and increase Chain weapon Range by 25%, minimum +3 yards.
 
 #### Hiro Muchi - Wide Lash
 {:#wide-lash .jutsu-technique}
@@ -179,7 +179,7 @@ Stamina: 9
 Upkeep: 2  
 Speed: 8  
 Tags: Bukijutsu, Chain, Utility  
-Effects: Gain +Athletics/5 Parry against targeted Melee Attacks and increase Chain weapon Range by 50%, minimum +6 yards. After a full Parry against an attacker in Range, you may initiate a Weapon Grapple, resolving starting Control normally. The chain must be free to hold it; one Parry cannot establish multiple Grapples. This grants no AoE Parry permission.
+Effects: Gain +Athletics/5 Parry against Melee Attacks and increase Chain weapon Range by 50%, minimum +6 yards. After a full Parry against an attacker in Range, you may initiate a Weapon Grapple, resolving starting Control normally. The chain must be free to hold it; one Parry cannot establish multiple Grapples.
 
 ## C-Rank
 {:#c-rank-14 .jutsu-rank-heading}
@@ -238,7 +238,7 @@ Rank: B
 Stamina: 10  
 Speed: 4  
 Tags: Chain X, Chain, Utility, Interrupt  
-Effects: Parry a targeted Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, catch a physical projectile with the chain. If its attacker is in Chain Range and your chain is unoccupied, immediately initiate a Weapon Grapple against it using your Parry result as the attack Accuracy; it defends normally, then determine Control normally on a hit. This adds no further action time. This does not defend against AoEs.
+Effects: Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, catch a physical projectile with the chain. If its attacker is in Chain Range and your chain is unoccupied, immediately initiate a Weapon Grapple against it using your Parry result as the attack Accuracy; it defends normally, then determine Control normally on a hit. This adds no further action time.
 
 #### Hane Modoshi - Snap Return
 {:#snap-return .jutsu-technique}

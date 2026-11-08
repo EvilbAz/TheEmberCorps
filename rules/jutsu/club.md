@@ -88,7 +88,7 @@ Rank: E
 Stamina: 4  
 Speed: 3  
 Tags: Chain X, Club, Utility, Interrupt  
-Effects: Parry a Melee Attack with +2. On success, reduce Knockback from that Attack to 0. This does not defend against AoEs.
+Effects: Parry a Melee Attack with +2. On success, reduce Knockback from that Attack to 0.
 
 #### Nagi Harai - Wide Swing
 {:#wide-swing .jutsu-technique}

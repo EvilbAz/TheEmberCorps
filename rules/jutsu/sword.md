@@ -144,7 +144,7 @@ Rank: D
 Stamina: 6  
 Speed: 3  
 Tags: Chain X, Sword, Utility, Interrupt  
-Effects: Parry a targeted Melee Attack with +Athletics/5. On a full success, your next Sword Chain Attack against that attacker gains +Athletics/5 Accuracy if it is your next non-Interrupt Action. This does not defend against AoEs.
+Effects: Parry a Melee Attack with +Athletics/5. On a full success, your next Sword Chain Attack against that attacker gains +Athletics/5 Accuracy if it is your next non-Interrupt Action.
 
 #### Tanren no Ha - Tempered Edge
 {:#tempered-edge .jutsu-technique}
@@ -220,7 +220,7 @@ Rank: B
 Stamina: 12  
 Speed: 4  
 Tags: Chain X, Sword, Attack, Interrupt  
-Effects: Requires a sheathed sword. Parry a targeted Melee Attack with +Athletics/5. On a full success, immediately make a Sword Basic Weapon Attack against the attacker at full damage if it is within Reach. The counter has its own Accuracy and Defense; its action time is included in this technique, and you pay the Basic Attack’s Stamina. End drawn. This does not defend against AoEs.
+Effects: Requires a sheathed sword. Parry a Melee Attack with +Athletics/5. On a full success, immediately make a Sword Basic Weapon Attack against the attacker at full damage if it is within Reach. The counter has its own Accuracy and Defense; its action time is included in this technique, and you pay the Basic Attack’s Stamina. End drawn.
 
 #### Nōtō - Draw Reset
 {:#draw-reset .jutsu-technique}
@@ -264,7 +264,7 @@ Rank: A
 Stamina: 13  
 Speed: 3  
 Tags: Chain X, Sword, Utility, Interrupt  
-Effects: Parry a targeted Melee Attack with +Athletics/5. On a full success, choose one: Turn the Line — win an Athletics Status Roll against Resistance to move the attacker up to STR/5 yards in any legal direction and apply Prone; or Seal the Line — the attacking weapon cannot Parry your next Sword Chain Attack if it is your next non-Interrupt Action. This does not defend against AoEs.
+Effects: Parry a Melee Attack with +Athletics/5. On a full success, choose one: Turn the Line — win an Athletics Status Roll against Resistance to move the attacker up to STR/5 yards in any legal direction and apply Prone; or Seal the Line — the attacking weapon cannot Parry your next Sword Chain Attack if it is your next non-Interrupt Action.
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
