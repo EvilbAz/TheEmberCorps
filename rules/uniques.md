@@ -222,7 +222,7 @@ For example, at 2,000 XP you have 100 base Skill Points plus 25 bonus Skill Poin
 
 *You have trained to meet attacks head-on and brush them aside. Parry becomes a Speed 2 Interrupt and gains \+2. Jutsu-based defenses that use an Accuracy roll gain \+2 Accuracy and reduce Base Speed by 2, minimum 1\. You may Parry weapons with your bare hands and Parry unarmed Attacks with a weapon.*
 
-*Whenever you parry an attack with your hands or a weapon, you may immediately make an attack of a speed equal to your Parry’s Final Speed, with an Accuracy of your Parry Roll. This attack deals damage equal to your Relevant Damage Bonus \* the final speed of the attack.*
+*When you successfully Parry with your hands or a weapon, you may immediately retaliate against the attacker. Use your Parry roll as the attack’s Accuracy and your Parry’s Final Speed as its Speed. On a hit, deal (relevant Damage Bonus × Parry’s Final Speed) + Xd6 damage. X is the number of points your Parry roll exceeded the incoming attack’s Accuracy.*
 
 *Suffer \-4 Dodge.*
 

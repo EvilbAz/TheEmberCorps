@@ -419,35 +419,35 @@ A weapon cannot contain more projectiles than its Capacity. Reload Speed is not 
 
 <h4 id="6-launcher-frames">6. Launcher Frames</h4>
 
-A Launcher supplies an attack's Speed, Stamina, Accuracy, Range, and Delay. The loaded projectile supplies Damage Dice, Damage Type, and projectile-specific effects. A launched Kunai or Shuriken does not also use its printed thrown Speed, Stamina, Range, or Delay.
+A Launcher supplies an attack's Speed, Stamina, Accuracy, Range, and Delay. The loaded projectile supplies Damage Dice, Damage Type, and projectile-specific effects. When firing Kunai or Shuriken from the ordinary magazine, add one die of the projectile’s printed size to the attack, once per single shot or Volley. A launched Kunai or Shuriken does not also use its printed thrown Speed, Stamina, Range, or Delay.
 
 Launcher Range is provided by the mechanism and does not scale with STR unless a specific frame or effect says otherwise. When making a single-projectile Called Shot through a Launcher, reduce the Called Shot's Accuracy penalty by 1. This does not apply to Volley.
 
 ##### Wrist Launcher
 {:#wrist-launcher}
 
-Cost: 5,000 Ryō. \[Small, One-Handed, Launcher, Kunai, Projectile\]. Speed 8; Stamina 8; Accuracy \+0; Range 15; Delay 1; Capacity 3; Volley Limit 3; Reload 5; Durability 30\.
+Cost: 5,000 Ryō. \[Small, One-Handed, Launcher, Kunai, Projectile\]. Speed 5; Stamina 5; Accuracy \+0; Range 15; Delay 1; Capacity 6; Volley Limit 3; Reload 3; Durability 30\.
 
 The Wrist Launcher may make single-projectile Basic Weapon Attacks. It does not possess Volley unless it purchases the Volley Mechanism Component.
 
 ##### Repeating Kunai Launcher
 {:#repeating-kunai-launcher}
 
-Cost: 9,000 Ryō. \[Medium, Two-Handed, Launcher, Kunai, Projectile\]. Speed 10; Stamina 10; Accuracy \+1; Range 25; Delay 1; Capacity 6; Volley Limit 5; Reload 6; Durability 40\.
+Cost: 9,000 Ryō. \[Medium, Two-Handed, Launcher, Kunai, Projectile\]. Speed 6; Stamina 6; Accuracy \+1; Range 25; Delay 1; Capacity 12; Volley Limit 6; Reload 4; Durability 40\.
 
 The Repeating Kunai Launcher possesses Volley.
 
 ##### Rotary Shuriken Launcher
 {:#rotary-shuriken-launcher}
 
-Cost: 9,000 Ryō. \[Medium, Two-Handed, Launcher, Shuriken, Projectile\]. Speed 8; Stamina 9; Accuracy \-1; Range 25; Delay 1; Capacity 8; Volley Limit 6; Reload 6; Durability 40\.
+Cost: 9,000 Ryō. \[Medium, Two-Handed, Launcher, Shuriken, Projectile\]. Speed 5; Stamina 5; Accuracy \+0; Range 25; Delay 1; Capacity 12; Volley Limit 6; Reload 4; Durability 40\.
 
-The Rotary Shuriken Launcher possesses Volley. A Shuriken's printed \+2 Accuracy still applies when fired through a Launcher, so a Rotary Shuriken Launcher firing ordinary Shuriken has \+1 total Accuracy.
+The Rotary Shuriken Launcher possesses Volley. A Shuriken's printed \+2 Accuracy still applies when fired through a Launcher, so a Rotary Shuriken Launcher firing ordinary Shuriken has \+2 total Accuracy.
 
 ##### Heavy Shuriken Launcher
 {:#heavy-shuriken-launcher}
 
-Cost: 13,000 Ryō. \[Large, Two-Handed, Launcher, Shuriken, Projectile\]. Speed 12; Stamina 15; Accuracy \-2; Range 35; Delay 2; Capacity 8; Volley Limit 4; Reload 7; Durability 55\.
+Cost: 13,000 Ryō. \[Large, Two-Handed, Launcher, Shuriken, Projectile\]. Speed 7; Stamina 9; Accuracy \-1; Range 35; Delay 2; Capacity 16; Volley Limit 8; Reload 5; Durability 55\.
 
 The Heavy Shuriken Launcher possesses Volley and may purchase the Fūma Cradle Component. A Shuriken's printed \+2 Accuracy still applies when fired through it.
 
@@ -459,7 +459,7 @@ Choose at least 2 loaded compatible projectiles of the same projectile type, up 
 
 The Attack uses the Launcher's Base Speed. Increase Final Speed by \+1 for every 2 projectiles fired beyond the first 2, rounded up. Increase Stamina by \+1 for every 2 projectiles fired, rounded up.
 
-Make one Accuracy roll. Each projectile contributes its normal printed Base Damage Dice. Physical Damage Bonus is calculated using the normal Multi-Throw rule, increasing the user's Physical Damage Bonus by \+0.25 for each projectile fired.
+Make one Accuracy roll. Add the printed Damage Dice of every projectile fired and the Launcher’s one extra die. For this Attack, increase your PDB by 1 per projectile fired. Multiply the adjusted PDB by the Attack’s damage-calculation Speed once for the whole Volley.
 
 Wounds inflicted by Volley have their severity reduced by one category, to a minimum of Minor, as with ordinary Multi-Throw. Every projectile fired is removed from the Launcher's Capacity.
 
@@ -686,7 +686,7 @@ Heavy Shuriken Launcher. 13 Component AP. Fūma Cradle 7 AP, Extended Guide 1 3 
 
 Crafting TN is 15 \+ (4 × 13), for a total of 67\. Crafting Cost is 13,000 \+ (750 × 13), for a total of 22,750 Ryō.
 
-The Black Rain has Capacity 10 for ordinary Shuriken and a separate Fūma Cradle holding one Fūma Shuriken. Because it has spent at least 12 AP on Components, it gains \+2 Base Damage Dice and \+2 Base Stamina. These bonus Damage Dice apply once to an ordinary Attack, Volley, or Fūma Launch, rather than once per projectile.
+The Black Rain has Capacity 18 for ordinary Shuriken and a separate Fūma Cradle holding one Fūma Shuriken. Because it has spent at least 12 AP on Components, it gains \+2 Base Damage Dice and \+2 Base Stamina. These bonus Damage Dice apply once to an ordinary Attack, Volley, or Fūma Launch, rather than once per projectile.
 
 It may fire a single Shuriken, fire a Volley, or launch its loaded Fūma Shuriken using Fūma Launch. The ordinary magazine and Fūma chamber are Reloaded separately.
 
@@ -1474,46 +1474,46 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 ##### Kunai Launchers
 {:#kunai-launchers-2}
 
-**Wristline Launcher — 4,000 Ryō. AP 3\.** Wrist Launcher frame. Speed 8; Stamina 8; Accuracy \+0; Range 15; Delay 1; Capacity 3; Volley Limit 3; Reload 5; Durability 30\.
+**Wristline Launcher — 4,000 Ryō. AP 3\.** Wrist Launcher frame. Speed 5; Stamina 5; Accuracy \+0; Range 15; Delay 1; Capacity 6; Volley Limit 3; Reload 3; Durability 30\.
 
 **Installed Components:** Retrieval Spool. May fire Kunai attached to up to 10 yards of Ninja Wire and retrieve a launched Kunai with an unobstructed path as a Speed 3 Utility action.
 
-**Wirecaster — 6,750 Ryō. AP 9\.** Wrist Launcher frame. Speed 8; Stamina 9; Accuracy \+0; Range 15; Delay 1; Capacity 5; Volley Limit 3; Reload 5; Durability 30\.
+**Wirecaster — 6,750 Ryō. AP 9\.** Wrist Launcher frame. Speed 5; Stamina 6; Accuracy \+0; Range 15; Delay 1; Capacity 8; Volley Limit 3; Reload 3; Durability 30\.
 
 **Installed Components:** Retrieval Spool, Expanded Magazine 1, Volley Mechanism. Gains Volley and \+1 Launcher Damage Die per Attack. May fire Kunai attached to up to 10 yards of Ninja Wire and retrieve a launched Kunai with an unobstructed path as a Speed 3 Utility action.
 
-**Field Repeater — 6,000 Ryō. AP 3\.** Repeating Kunai Launcher frame. Speed 10; Stamina 10; Accuracy \+1; Range 30; Delay 1; Capacity 6; Volley Limit 5; Reload 6; Durability 40\.
+**Field Repeater — 6,000 Ryō. AP 3\.** Repeating Kunai Launcher frame. Speed 6; Stamina 6; Accuracy \+1; Range 30; Delay 1; Capacity 12; Volley Limit 6; Reload 4; Durability 40\.
 
 **Installed Components:** Extended Guide 1\. Possesses Volley.
 
-**Barrage Repeater — 8,250 Ryō. AP 8\.** Repeating Kunai Launcher frame. Speed 10; Stamina 11; Accuracy \+1; Range 25; Delay 1; Capacity 10; Volley Limit 5; Reload 6; Durability 40\.
+**Barrage Repeater — 8,250 Ryō. AP 8\.** Repeating Kunai Launcher frame. Speed 6; Stamina 7; Accuracy \+1; Range 25; Delay 1; Capacity 16; Volley Limit 6; Reload 4; Durability 40\.
 
 **Installed Components:** Expanded Magazine 2, Rapid Index. Gains \+1 Launcher Damage Die per Attack. Ignore the first \+1 Final Speed increase imposed by Volley.
 
-**Rescue Repeater — 8,250 Ryō. AP 8\.** Repeating Kunai Launcher frame. Speed 10; Stamina 11; Accuracy \+1; Range 25; Delay 1; Capacity 8; Volley Limit 5; Reload 6; Durability 40\.
+**Rescue Repeater — 8,250 Ryō. AP 8\.** Repeating Kunai Launcher frame. Speed 6; Stamina 7; Accuracy \+1; Range 25; Delay 1; Capacity 14; Volley Limit 6; Reload 4; Durability 40\.
 
 **Installed Components:** Retrieval Spool, Split Feed, Expanded Magazine 1\. Gains \+1 Launcher Damage Die per Attack. Volley may include two different loaded Kunai patterns. May fire Kunai attached to 10 yards of Ninja Wire and retrieve a launched Kunai with an unobstructed path as a Speed 3 Utility action.
 
 ##### Shuriken Launchers
 {:#shuriken-launchers-2}
 
-**Deep-Mag Rotary — 5,500 Ryō. AP 2\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 9; Accuracy \-1 (+2 with ordinary Shuriken); Range 25; Delay 1; Capacity 10; Volley Limit 6; Reload 6; Durability 40\.
+**Deep-Mag Rotary — 5,500 Ryō. AP 2\.** Rotary Shuriken Launcher frame. Speed 5; Stamina 5; Accuracy \+0 (+2 with ordinary Shuriken); Range 25; Delay 1; Capacity 14; Volley Limit 6; Reload 4; Durability 40\.
 
 **Installed Components:** Expanded Magazine 1\. Possesses Volley.
 
-**Stormwheel — 8,250 Ryō. AP 8\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 10; Accuracy \-1 (+2 with ordinary Shuriken); Range 25; Delay 1; Capacity 12; Volley Limit 6; Reload 6; Durability 40\.
+**Stormwheel — 8,250 Ryō. AP 8\.** Rotary Shuriken Launcher frame. Speed 5; Stamina 6; Accuracy \+0 (+2 with ordinary Shuriken); Range 25; Delay 1; Capacity 16; Volley Limit 6; Reload 4; Durability 40\.
 
 **Installed Components:** Expanded Magazine 2, Rapid Index. Gains \+1 Launcher Damage Die per Attack. Ignore the first \+1 Final Speed increase imposed by Volley.
 
-**Marksman Rotary — 8,750 Ryō. AP 9\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 10; Accuracy \-1 (+2 with ordinary Shuriken); Range 35; Delay 1; Capacity 8; Volley Limit 6; Reload 6; Durability 40\.
+**Marksman Rotary — 8,750 Ryō. AP 9\.** Rotary Shuriken Launcher frame. Speed 5; Stamina 6; Accuracy \+0 (+2 with ordinary Shuriken); Range 35; Delay 1; Capacity 12; Volley Limit 6; Reload 4; Durability 40\.
 
 **Installed Components:** Extended Guide 2, Split Feed. Gains \+1 Launcher Damage Die per Attack. Volley may include two different loaded Shuriken patterns.
 
-**Ironstorm — 11,750 Ryō. AP 11\.** Heavy Shuriken Launcher frame. Speed 12; Stamina 16; Accuracy \-2 (+2 with ordinary Shuriken); Range 40; Delay 2; Capacity 12; Volley Limit 4; Reload 7; Durability 55\.
+**Ironstorm — 11,750 Ryō. AP 11\.** Heavy Shuriken Launcher frame. Speed 7; Stamina 10; Accuracy \-1 (+2 with ordinary Shuriken); Range 40; Delay 2; Capacity 20; Volley Limit 8; Reload 5; Durability 55\.
 
 **Installed Components:** Expanded Magazine 2, Rapid Index, Extended Guide 1\. Gains \+1 Launcher Damage Die per Attack. Ignore the first \+1 Final Speed increase imposed by Volley.
 
-**The Black Rain — 13,250 Ryō. AP 13\.** Heavy Shuriken Launcher frame. Speed 12; Stamina 17; Accuracy \-2 (+2 with ordinary Shuriken); Range 40; Delay 2; Capacity 10; Volley Limit 4; Reload 7; Durability 55 (+10%).
+**The Black Rain — 13,250 Ryō. AP 13\.** Heavy Shuriken Launcher frame. Speed 7; Stamina 11; Accuracy \-1 (+2 with ordinary Shuriken); Range 40; Delay 2; Capacity 18; Volley Limit 8; Reload 5; Durability 55 (+10%).
 
 **Installed Components:** Fūma Cradle, Extended Guide 1, Expanded Magazine 1, Sturdy 1\. Gains \+2 Launcher Damage Dice per Attack and a separate one-Fūma chamber. Fūma Launch: Speed 16; Stamina 20; Delay 5; Damage (4 \+ STR/12 \+ 2)d12; Reload 8\. Use the greater of the current Launcher Range and STR/3 for Fūma Launch; retain the Fūma Shuriken’s normal hit-margin and Wounding effects.
 
