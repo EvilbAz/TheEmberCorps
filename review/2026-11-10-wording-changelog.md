@@ -23,3 +23,7 @@
 ## Checks
 
 Compared rule numbers, table rows, navigation targets, and inline scripts and styles against the previous revision. The search index contains the same 3,347 destinations. The rules validator checked 78 source pages. All nine site tests passed, including search, rank navigation, browser history and music playback across page changes.
+
+## Menus and navigation
+
+Removed the automatic subtitles under rulebook titles, repeated field-manual labels, and filler captions on homepage, Jutsu and equipment cards. Monster roles, Scar types, item statistics and control hints still appear where players use them.

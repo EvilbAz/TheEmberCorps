@@ -44,7 +44,6 @@ permalink: /timeline/
       <svg class="history-seal-mark" viewBox="0 0 100 100"><use href="#history-haven"/></svg>
     </div>
     <div class="history-embers" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></div>
-    <div class="eyebrow">EMBER ARCHIVE / LIVING HISTORY</div>
     <h1>THE TIMELINE<br><span>OF EMBER.</span></h1>
     <p class="lead">The story of Ember Corps as it happened: hunts beyond the walls, disasters at home, and the scars left upon the Haven.</p>
     <div class="timeline-legend"><span><i class="tl-dot hunt"></i> Hunt</span><span><i class="tl-dot haven"></i> Haven</span><span><i class="tl-dot crisis"></i> Crisis</span><span><i class="tl-dot calamity"></i> Calamity</span></div>

@@ -22,7 +22,6 @@
       <span class="brand-copy"><strong>EMBER CORPS</strong><small>NARUTO WORLD · 1.0</small></span>
     </a>
     <button class="sidebar-search search-trigger" type="button" aria-label="Search all rules"><span class="magnify">⌕</span><span>Search the rules...</span><kbd>⌘ K</kbd></button>
-    <div class="nav-eyebrow">FIELD MANUAL <span>06 VOLUMES</span></div>
     <nav class="volume-nav">
       {% assign books = "core|Core Rules|I;uniques|Uniques|II;clans|Clans & Lineages|III;jutsu|Jutsu Compendium|IV;talents|Talents, Ranks & Hunter Classes|V;equipment|Equipment & Crafting|VI" | split: ";" %}
       {% for entry in books %}{% assign b = entry | split: "|" %}
@@ -77,11 +76,11 @@
               <nav id="toc" class="toc equipment-side-links" aria-label="Equipment and Crafting sections">
                 {% if page.equipment_catalogue or page.armor_catalogue %}
                   <a href="{{ '/rules/equipment/' | relative_url }}" class="equipment-return-link">← EQUIPMENT &amp; CRAFTING</a>
-                  {% if page.armor_catalogue %}<span class="equipment-side-group">ARMOR CATALOGUE</span>{% assign armor_sections = "Mobile Armor|armor-mobile,Protective Armor|armor-protective,Encased Armor|armor-encased" | split: "," %}{% for section in armor_sections %}{% assign part = section | split: "|" %}<a href="{{ '/rules/standard-armor/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>{% endfor %}<div class="equipment-catalogue-slot"><a class="equipment-catalogue-link" href="{{ '/rules/standard-weapons/' | relative_url }}"><strong>WEAPON CATALOGUE</strong><small>Browse ready-made weapons ↗</small></a></div>{% else %}<span class="equipment-side-group">WEAPON CATALOGUE</span>
+                  {% if page.armor_catalogue %}<span class="equipment-side-group">ARMOR CATALOGUE</span>{% assign armor_sections = "Mobile Armor|armor-mobile,Protective Armor|armor-protective,Encased Armor|armor-encased" | split: "," %}{% for section in armor_sections %}{% assign part = section | split: "|" %}<a href="{{ '/rules/standard-armor/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>{% endfor %}<div class="equipment-catalogue-slot"><a class="equipment-catalogue-link" href="{{ '/rules/standard-weapons/' | relative_url }}"><strong>WEAPON CATALOGUE</strong></a></div>{% else %}<span class="equipment-side-group">WEAPON CATALOGUE</span>
                   {% assign catalogue_sections = "Small Weapons|catalog-small-weapons,Medium Weapons|catalog-medium-weapons,Large Weapons|catalog-large-weapons,Extreme Weapons|catalog-extreme-weapons,Matched Weapons|catalog-matched-weapons,Bows|catalog-bows-2,Crossbows|catalog-crossbows-2,Kunai Launchers|catalog-kunai-launchers-2,Shuriken Launchers|catalog-shuriken-launchers-2,Kunai & Shuriken|catalog-projectiles,Ammunition|catalog-ammunition" | split: "," %}
                   {% for section in catalogue_sections %}{% assign part = section | split: "|" %}
                     <a href="{{ '/rules/standard-weapons/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
-                  {% endfor %}<div class="equipment-catalogue-slot"><a class="equipment-catalogue-link" href="{{ '/rules/standard-armor/' | relative_url }}"><strong>ARMOR CATALOGUE</strong><small>Browse ready-made armor ↗</small></a></div>{% endif %}
+                  {% endfor %}<div class="equipment-catalogue-slot"><a class="equipment-catalogue-link" href="{{ '/rules/standard-armor/' | relative_url }}"><strong>ARMOR CATALOGUE</strong></a></div>{% endif %}
                 {% else %}
                   <span class="equipment-side-group">CRAFTING</span>
                   {% assign craft_sections = "Crafting Overview|crafting,Melee Weapon Crafting|weapon-crafting,Ranged Weapon Crafting|ranged-weapon-crafting,Armor Crafting|armor-crafting,Craftsman|craftsman,Poisons|poison" | split: "," %}
@@ -94,8 +93,7 @@
                     <a href="{{ '/rules/equipment/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
                   {% endfor %}
                   <div class="equipment-catalogue-slot">
-                    <span>FIELD ARMORY</span>
-                    <a class="equipment-catalogue-link" href="{{ '/rules/standard-weapons/' | relative_url }}"><strong>WEAPON CATALOGUE</strong><small>Illustrated ready-made weapons ↗</small></a><a class="equipment-catalogue-link" href="{{ '/rules/standard-armor/' | relative_url }}"><strong>ARMOR CATALOGUE</strong><small>Illustrated ready-made armor ↗</small></a>
+                    <a class="equipment-catalogue-link" href="{{ '/rules/standard-weapons/' | relative_url }}"><strong>WEAPON CATALOGUE</strong></a><a class="equipment-catalogue-link" href="{{ '/rules/standard-armor/' | relative_url }}"><strong>ARMOR CATALOGUE</strong></a>
                   </div>
                 {% endif %}
               </nav>
@@ -120,7 +118,7 @@
     <header class="topbar">
       <button class="menu-toggle" id="menu-toggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
       <a class="top-brand" href="{{ '/' | relative_url }}">EMBER <em>CORPS</em></a>
-      <div class="top-right"><span class="top-status"><span class="status-dot"></span> FIELD REFERENCE</span><button class="top-search search-trigger" aria-label="Search rules">⌕ <span>Search</span> <kbd>/</kbd></button><div class="ambient-player" data-ambient-player>
+      <div class="top-right"><button class="top-search search-trigger" aria-label="Search rules">⌕ <span>Search</span> <kbd>/</kbd></button><div class="ambient-player" data-ambient-player>
   <button class="ambient-toggle" data-ambient-toggle type="button" aria-label="Play Ember ambience" aria-pressed="false" aria-expanded="false" title="Ember ambience — click to play/pause, right-click for controls">
     <span class="ambient-note" aria-hidden="true">♫</span>
     <span class="ambient-eq" aria-hidden="true"><i></i><i></i><i></i></span>
@@ -128,7 +126,7 @@
   </button>
   <div class="ambient-panel" data-ambient-panel>
     <div class="ambient-panel-head">
-      <div><small>EMBER THEME AMBIENCE</small><div class="ambient-track-title" data-ambient-title>Wild Pass</div></div>
+      <div><div class="ambient-track-title" data-ambient-title>Wild Pass</div></div>
       <button class="ambient-control" data-ambient-panel-toggle type="button" aria-label="Close ambience controls">×</button>
     </div>
     <div class="ambient-controls">
@@ -146,16 +144,13 @@
       {% if page.volume_slug %}
       <div class="rulebook-main">
         <div class="breadcrumbs"><a href="{{ '/' | relative_url }}">THE ARCHIVE</a><span>/</span><span>VOL. {{ page.volume }}</span></div>
-        <div class="book-hero"><div class="eyebrow">FIELD MANUAL <span class="accent-bar"></span> VOLUME {{ page.volume }}</div><h1>{{ page.title | escape }}</h1><p class="book-subtitle">{% case page.volume_slug %}{% when 'core' %}Character creation and the rules of play.{% when 'uniques' %}Creation Uniques and their upgrade paths.{% when 'clans' %}Heritage rules, grouped by UP cost.{% when 'jutsu' %}{% if page.jutsu_index %}Choose a discipline to browse its techniques.{% else %}Techniques and rules for this discipline.{% endif %}{% when 'talents' %}Talent categories and rank benefits.{% when 'equipment' %}Weapons, equipment and crafting rules.{% endcase %}</p><div class="book-meta"><span>EMBER CORPS 1.0</span><span class="meta-sep">·</span><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Discord rules updates ↗</a></div></div>
+        <div class="book-hero"><h1>{{ page.title | escape }}</h1><div class="book-meta"><span>EMBER CORPS 1.0</span><span class="meta-sep">·</span><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Discord rules updates ↗</a></div></div>
         {% if page.volume_slug == 'talents' %}
           <nav class="talent-tabbar" aria-label="Talent categories">
             {% for tab in site.data.talent_navigation.tabs %}
               <a href="{{ tab.url | relative_url }}" class="talent-tab {% if page.talent_section == tab.slug %}is-active{% endif %}" {% if page.talent_section == tab.slug %}aria-current="page"{% endif %}>{{ tab.title }}</a>
             {% endfor %}
           </nav>
-          {% for tab in site.data.talent_navigation.tabs %}
-            {% if page.talent_section == tab.slug %}<p class="talent-tab-description">{{ tab.description }}</p>{% endif %}
-          {% endfor %}
         {% endif %}
         <div class="reading-layout {% if page.jutsu_index %}catalog-reading{% endif %}"><article class="prose rulebook-content" id="rule-content">{{ content }}</article><aside class="reading-rail"><div class="rail-label">ON THIS PAGE</div><nav id="rail-toc" aria-label="Contents on this page"></nav><a class="back-top" href="#">↑ BACK TO TOP</a></aside></div>
         <div class="book-bottom"><span>END OF VOLUME {{ page.volume }}</span><a href="{{ '/' | relative_url }}">Return to the archive →</a></div>
@@ -167,7 +162,7 @@
 </div>
 <div class="search-overlay" id="search-overlay" role="dialog" aria-modal="true" aria-label="Search the rulebooks" hidden>
  <div class="search-backdrop" id="search-backdrop"></div>
- <div class="search-panel"><div class="search-input-row"><span class="search-icon">⌕</span><input id="search-input" type="search" placeholder="Jutsu, clans, wounds, downtime..." autocomplete="off" spellcheck="false" aria-label="Search the entire field archive"><button id="search-close" type="button" aria-label="Close search">ESC</button></div><div id="search-info" class="search-info">SEARCH THE FIELD ARCHIVE</div><div class="search-results" id="search-results" aria-live="polite"><div class="empty-search">Type a rule, jutsu or keyword to begin.</div></div><div class="search-footer"><span>↑ ↓ Navigate &nbsp; ↵ Open &nbsp; ESC Close</span><span>EMBER ARCHIVE</span></div></div>
+ <div class="search-panel"><div class="search-input-row"><span class="search-icon">⌕</span><input id="search-input" type="search" placeholder="Jutsu, clans, wounds, downtime..." autocomplete="off" spellcheck="false" aria-label="Search the entire field archive"><button id="search-close" type="button" aria-label="Close search">ESC</button></div><div id="search-info" class="search-info">SEARCH THE FIELD ARCHIVE</div><div class="search-results" id="search-results" aria-live="polite"><div class="empty-search">Type a rule, jutsu or keyword to begin.</div></div><div class="search-footer"><span>↑ ↓ Navigate &nbsp; ↵ Open &nbsp; ESC Close</span></div></div>
 </div>
 <script src="{{ '/assets/js/site.js' | relative_url }}?v=20261103-cleanup" defer></script>
 <script src="{{ '/assets/js/timeline.js' | relative_url }}?v=20261103-cleanup" defer></script>

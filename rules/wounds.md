@@ -8,7 +8,6 @@ permalink: "/rules/wounds/"
 ---
 
 <div class="reference-directory wounds-directory">
-  <div class="reference-kicker">CORE RULES / QUICK REFERENCE</div>
   <h1>Wounds</h1>
   <p class="reference-lead">Find the severity of the hit, then look up the Wound by damage type and location.</p>
   <div class="reference-jumps">

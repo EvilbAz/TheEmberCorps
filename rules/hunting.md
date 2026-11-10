@@ -96,7 +96,6 @@ permalink: "/rules/hunting/"
 </style>
 
 <div class="reference-directory hunting-directory">
-  <div class="reference-kicker">CORE RULES / FIELD REFERENCE</div>
   <h1>Hunting</h1>
   <p class="reference-lead">Track dangerous beasts, learn how they fight, prepare for the encounter, then bring them down—or bring them home alive.</p>
   <div class="hunt-badges">
