@@ -12,7 +12,7 @@ permalink: "/rules/talents/monster-taming/"
 # Monster Taming
 {:#monster-taming-2}
 
-Monster Taming is the practice of acquiring, training and fielding dangerous creatures. Your monster might be captured during a Hunt, raised from an egg or young, bred for work, rescued, purchased, inherited, or obtained through another appropriate method. However you found it, the result is one named Tamed Monster that grows alongside you.
+With Monster Taming, you train a creature to work and fight alongside you. Your monster might be captured during a Hunt, raised from an egg or young, bred for work, rescued, purchased, inherited, or obtained through another appropriate method. However you found it, the result is one named Tamed Monster that grows alongside you.
 
 Your Tamed Monster is a separate creature with its own position, Initiative, Vitality and IC track. Its Independent Actions do not spend your AP; Monster Techniques spend Command AP from your AP pool.
 

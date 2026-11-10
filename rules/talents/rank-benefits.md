@@ -12,7 +12,7 @@ permalink: "/rules/talents/rank-benefits/"
 
 Corps ranks reflect training, responsibility and service to Haven Ember. Strays gain no Rank Benefits. On reaching Trailhand, Huntsman, Warden or Legend, gain that rank’s Automatic Benefit and choose one benefit from that rank or a lower rank. Each benefit may be selected once unless stated otherwise.
 
-A Talent that grants a Rank Benefit teaches the selected ability; it does not confer the rank, office or authority associated with it.
+Learning a Rank Benefit through a Talent gives you the selected ability. Its rank, office and authority still have to be earned.
 
 ### Stray
 {:#stray}

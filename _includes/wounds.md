@@ -15,7 +15,7 @@ A single source of damage can inflict a Minor, Major, Severe or Critical Wound. 
 | Severe | 50% | 65% |
 | Critical | 75% | 80% |
 
-Meeting a threshold inflicts that category; use the highest threshold reached. Apply Wounding modifiers to the damage used for this comparison, without increasing actual damage taken.
+Use the highest threshold the damage reaches. Apply Wounding modifiers to the damage used for this comparison, without increasing actual damage taken.
 
 For a Hunter with 600 maximum Vitality and 200 maximum HP, 100 Vitality damage causes a Minor Wound; 100 HP damage causes a Major Wound. If that hit instead removes the last 60 Vitality and then 40 HP, each pool reaches its Minor threshold, causing two Minor Wounds.
 

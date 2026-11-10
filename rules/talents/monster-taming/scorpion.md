@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/scorpion/"
 
 Role: Control / Poison
 
-Scorpions are punishing control monsters with armour, pincers and venomous counterattacks. They are slow but dangerous to approach carelessly.
+A scorpion is slow enough to keep ahead of. Get close and you have to deal with its armour, pincers and venomous sting.
 
 ## Profile
 {:#profile-14}

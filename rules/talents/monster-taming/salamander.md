@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/salamander/"
 
 Role: Control / Survival
 
-Salamanders are durable utility monsters, comfortable in hostile environments and difficult to keep injured or displaced.
+A salamander can work in places that would drive other creatures back. It’s hard to keep one hurt or force it from its footing.
 
 ## Profile
 {:#profile-5}

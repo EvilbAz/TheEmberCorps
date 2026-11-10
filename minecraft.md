@@ -10,7 +10,7 @@ permalink: "/minecraft/"
   <div class="mc-hero-copy">
     <span class="mc-kicker">EMBER CORPS / MINECRAFT 1.12.2 / PLAYER PACK 1.2.3</span>
     <h1>BUILD A HOME.<br><em>HUNT THE WASTES.</em></h1>
-    <p>Ember Corps has a Minecraft world of its own: a dangerous multiplayer survival server where you become a ninja, explore the Wastes, hunt monsters, discover strange places and help turn scattered shelters into thriving Hunter outposts.</p>
+    <p>On the Ember Corps survival server, you play a ninja in the Wastes. Hunt with other players, explore, and build your shelters into Hunter outposts.</p>
     <div class="mc-actions">
       <a href="https://drive.google.com/file/d/1mdnghHDn47iJoIKp18BVfbeyOLO8U4qJ/view" target="_blank" rel="noopener">DOWNLOAD PLAYER PACK ↓</a>
       <a class="mc-ghost" href="#first-steps">HOW TO PLAY</a>

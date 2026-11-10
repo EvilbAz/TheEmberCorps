@@ -6,16 +6,12 @@ volume_slug: "uniques"
 permalink: "/rules/uniques/"
 ---
 
-*Rare gifts, habits, talents, and training that make one hunter different from another.*
-
-*“Two hunters can learn the same technique. They should never feel like the same person.”*
-
 # Uniques
 {:#uniques}
 
-Uniques are unusual talents, habits, gifts, and kinds of training that set one hunter apart from another. They grant abilities and advantages that ordinary XP purchases usually cannot.
+A Unique gives your Hunter a gift, habit or training that ordinary XP purchases rarely cover.
 
-At character creation you receive 6 Unique Points (UP). Heritage Cost from Volume III is paid from this same pool. Any UP you do not spend may be saved.
+You start with 6 Unique Points (UP). Pay your Heritage Cost from those points and keep any you have left.
 
 Creation Uniques cost 1 UP each, may only be taken during character creation, and you may have no more than two. Clan Creation Uniques follow the same rules and count toward that maximum.
 
@@ -960,7 +956,7 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 
 *There is no wrong weapon in your hands. Gain \+2 Accuracy and \+2 Parry with any weapon you can legally wield, and drawing, sheathing, or switching weapons is Speed 0 which may be performed as an interrupt. After changing weapon shapes, choose two for the next Attack: \+2 Accuracy, \-2 final Speed, \+15% Final Damage, or ignore 10 DR.*
 
-*Perfect Arsenal — Speed 3, lasts 20 IC: at the start of each Action, you may reassign one weapon Ability or Weapon Focus you possess to the weapon currently in hand. Once during Perfect Arsenal, after fully defending with Parry, immediately make a basic weapon Attack at half its normal final Speed, rounded up \- this attack does not increase your IC for the purposes of determining when you act next, and any Delay it has is reduced to 0\. Each time you reactivate Perfect Arsenal each combat, it’s final speed is increased by \+1. Activating it while it is already active instead replaces the duration, and increases it’s speed.*
+*Perfect Arsenal — Speed 3, lasts 20 IC: at the start of each Action, you may reassign one weapon Ability or Weapon Focus you possess to the weapon currently in hand. Once during Perfect Arsenal, after fully defending with Parry, immediately make a basic weapon Attack at half its normal final Speed, rounded up \- this attack does not increase your IC when determining when you act next, and any Delay it has is reduced to 0\. Each time you reactivate Perfect Arsenal each combat, it’s final speed is increased by \+1. Activating it while it is already active instead replaces the duration, and increases it’s speed.*
 
 *Upgrades From: Weapon Master*
 

@@ -7,7 +7,7 @@ jutsu_index: true
 permalink: "/rules/jutsu/"
 ---
 
-<div class="jutsu-intro"><p>Choose a discipline to open its complete rules and techniques. Each school has its own page, so you can read Katon, Genjutsu or a weapon art without scrolling through the entire compendium.</p></div>
+<div class="jutsu-intro"><p>Pick a school to find its rules and techniques by rank.</p></div>
 
 <div class="jutsu-catalog">
 <section class="jutsu-catalog-group"><div class="jutsu-group-heading"><h2>GETTING STARTED</h2><span>04 ENTRIES</span></div><div class="jutsu-type-grid "><a href="{{ '/rules/jutsu/rules/' | relative_url }}" class="jutsu-type-card"><span class="jutsu-card-eyebrow">VOL. IV / FIELD ENTRY</span><h3>Jutsu Rules <span>↗</span></h3><p>Foundational mechanics, learning requirements and technique terminology.</p></a>

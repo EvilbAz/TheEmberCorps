@@ -10,14 +10,14 @@ permalink: "/rules/jutsu/feral/glass/"
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a><a href="{{ '/rules/jutsu/feral/' | relative_url }}">FERAL ELEMENTS ↗</a></div>
 
 
-<p class="jutsu-shared-note"><strong>Shared mechanics:</strong> Scar timing, anchoring, Fade, Overrun and Developments are in the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
+<p class="jutsu-shared-note">For Scar timing, anchoring, Fade, Overrun and Developments, see the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
 
 # GLASS RELEASE
 {:#glass-release}
 
 ***Doton → Glass | Scar: Shards***
 
-*Doton users build things to last. Glass Release builds them to break. Earth flashes into brilliant blades and structures whose destruction is part of the technique.*
+*Earth turns to glass in your hands. Shape it into a blade or a wall, and plan for where the shards will fall.*
 
 ## Feral Conversion
 {:#feral-conversion}

@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/bear/"
 
 Role: Guardian / Grapple
 
-Bears are slow, brutally durable protectors. They excel at bodyguarding, grappling and forcing enemies to deal with them first.
+A bear can stand between you and a charging beast and wrestle it to the ground. Give it time to get there.
 
 ## Profile
 {:#profile-6}

@@ -6,17 +6,17 @@ description: "Start here: character creation, Discord roleplay, Initiative Count
 permalink: "/guide/"
 ---
 
-<div class="guide-hero" id="welcome"><div class="guide-hero-copy"><span class="guide-eyebrow">EMBER CORPS / FIELD MANUAL 00</span><h1>YOUR STORY<br>STARTS <em>HERE.</em></h1><p>A field guide for fresh Hunters, first-time roleplayers and veterans arriving from D&amp;D 5e.</p><div class="guide-hero-actions"><a class="guide-cta" href="#five-minute-version">START READING ↘</a><a class="guide-ghost" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">JOIN THE DISCORD ↗</a></div></div><div class="guide-hero-emblem ec-logo" aria-hidden="true"><span class="ec-monster"></span><span class="ec-letters"></span></div></div>
+<div class="guide-hero" id="welcome"><div class="guide-hero-copy"><span class="guide-eyebrow">EMBER CORPS / FIELD MANUAL 00</span><h1>YOUR FIRST<br><em>HUNTER.</em></h1><p>A field guide for fresh Hunters, first-time roleplayers and veterans arriving from D&amp;D 5e.</p><div class="guide-hero-actions"><a class="guide-cta" href="#five-minute-version">START READING ↘</a><a class="guide-ghost" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">JOIN THE DISCORD ↗</a></div></div><div class="guide-hero-emblem ec-logo" aria-hidden="true"><span class="ec-monster"></span><span class="ec-letters"></span></div></div>
 
 <div class="guide-stat-strip"><div><strong>500 XP</strong><span>YOUR STARTING BUILD</span></div><div><strong>2 / WEEK</strong><span>FREE DOWNTIME SLOTS</span></div><div><strong>NO ROUNDS</strong><span>CONTINUOUS COMBAT</span></div></div>
 
 <nav class="guide-quicknav" aria-label="Guide chapters"><a href="#five-minute-version"><span>01</span> GET STARTED</a><a href="#ic-and-ooc"><span>02</span> IC &amp; OOC</a><a href="#server-loop"><span>03</span> LIFE ON DISCORD</a><a href="#speed"><span>04</span> SPEED &amp; IC</a><a href="#first-day"><span>05</span> FIRST DAY</a></nav>
 
-**Naruto World: Ember Corps** is a persistent, text-based Naruto-inspired roleplaying game. You make a Hunter, roleplay them with other players in Discord, improve them with XP and Downtime, and take them on missions and hunts in a shared world.
+**Naruto World: Ember Corps** is a text-based Naruto game played on Discord. You play a Hunter from Haven Ember. The same character goes on hunts, takes missions and spends downtime back home.
 
-If you are coming from D&D 5e, the most important thing to know is this: **Ember Corps is not played as a weekly party campaign with six-second rounds.** The server is the game table. Your character exists between missions. You can roleplay with other characters, train, craft, spar, investigate the world, join GM events and develop relationships whenever play is available.
+If you’ve played D&D 5e, the biggest change is what happens between adventures. You can ask another player for a scene, train, craft, spar, investigate or join a GM event. Combat uses Initiative Counts in place of six-second rounds.
 
-> **5e translation:** think of your character sheet as your persistent character, Discord scenes as the campaign table, Missions as adventures, Jutsu as techniques/spells, and XP as both advancement and the currency used to buy much of that advancement.
+> Jutsu are your techniques. You earn XP through play and spend it directly on advances.
 
 [Join the Ember Corps Discord](https://discord.gg/TheEmberCorps)
 
@@ -28,20 +28,20 @@ If you are coming from D&D 5e, the most important thing to know is this: **Ember
 3. **Roleplay in character.** Find other Hunters, start scenes and let your character become part of the setting.
 4. **Join Missions and Hunts.** These are GM-run adventures and major encounters.
 5. **Spend XP and Downtime.** Learn techniques, buy abilities, develop talents, craft or invent equipment, research threats and improve your character.
-6. **Keep playing the person, not just the build.** Relationships, rivalries, discoveries and consequences carry between scenes.
+6. **Pick up where you left off.** If another Hunter saved your skin on a mission, go find them when you’re back in Haven Ember.
 
 You can ask for help. A new player is not expected to know every Jutsu tag, crafting option or combat interaction on day one.
 
 ## IC and OOC: Two Different Worlds
 {:#ic-and-ooc}
 
-If you have only played games around a physical or virtual tabletop, **IC** may be unfamiliar.
+Players use IC in two ways. In Discord channel names it means **In Character**.
 
-**IC means In Character.** IC channels are the fictional locations where your Hunter speaks, moves and interacts with other characters. Keep all in-world writing in those channels.
+IC channels are the fictional locations where your Hunter speaks, moves and interacts with other characters. Keep all in-world writing in those channels.
 
 **OOC means Out of Character.** OOC channels are where you, the player, ask rules questions, organise scenes, discuss builds, chat and make jokes. **IC and OOC always belong in separate channels**—do not interrupt an IC scene with a rules question or treat an OOC conversation as something your Hunter heard.
 
-<div class="guide-callout"><strong>IMPORTANT: TWO MEANINGS OF IC</strong><p>In roleplay, IC means <b>In Character</b>. In combat, IC means <b>Initiative Count</b>. Same abbreviation, completely different jobs.</p></div>
+<div class="guide-callout"><strong>IMPORTANT: TWO MEANINGS OF IC</strong><p>In roleplay, IC means <b>In Character</b>. In combat, IC means <b>Initiative Count</b>.</p></div>
 
 <div class="guide-channel-grid"><div class="guide-channel guide-channel-ic"><span>IN CHARACTER / IC CHANNEL</span><strong>#rp-thread · #mission-ic · #hunting-ic</strong><p>Write what your Hunter says and does in the appropriate roleplay, mission or hunting channel.</p></div><div class="guide-channel guide-channel-ooc"><span>OUT OF CHARACTER / OOC CHANNEL</span><strong>#general-ooc · #mission-ooc · #hunting-ooc</strong><p>Ask questions, coordinate scenes and discuss rules in the matching OOC channel.</p></div></div>
 
@@ -78,9 +78,9 @@ An IC scene is an interaction between characters, such as conversation, training
 
 **Example:** If someone announces a monster's weakness in an OOC planning channel, your Hunter does not automatically know it. Discover that information through IC play or an appropriate GM-approved source.
 
-Your character does **not** automatically know something because you read it OOC. Likewise, hostility between characters is not hostility between players. Keep the two layers separate.
+Two Hunters can fall out in a scene and their players can still get along.
 
-<div class="guide-tip"><span>FIELD TIP / 01</span><strong>You don't have to wait for a GM to start playing.</strong><p>Introduce your Hunter, ask another player for a scene and arrange a scene in `#rp-and-spar-request`, then write it in `#rp-thread`. Keep planning and rules questions in OOC channels.</p></div>
+<div class="guide-tip"><span>FIELD TIP / 01</span><strong>You don't have to wait for a GM to start playing.</strong><p>Introduce your Hunter and ask for a scene in `#rp-and-spar-request`, then write it in `#rp-thread`. Keep planning and rules questions in OOC channels.</p></div>
 
 ## What Do I Actually Do on the Server?
 {:#server-loop}
@@ -111,7 +111,7 @@ Downtime represents meaningful work your Hunter does away from active scenes. Yo
 
 Completed Downtime actions using a slot grant **5 XP**.
 
-## Your Character Sheet, Without the Panic
+## Reading Your Character Sheet
 {:#sheet}
 
 Ember Corps has more numbers than 5e, but you only need to understand what your own character uses.
@@ -231,21 +231,19 @@ Your clan, elements, Talents, equipment and abilities determine which techniques
 
 Spend XP to improve attributes, learn Jutsu and buy abilities. Total XP also unlocks Skill Points, Talent Points and other progression benefits.
 
-Your character therefore grows piece by piece. Two Hunters with similar total XP can spend it very differently and play nothing alike.
+Two Hunters with the same XP might spend it on completely different things.
 
 ## Hunter Ranks and Classes
 {:#ranks}
 
-Hunter progression represents your place within Ember Corps as well as mechanical development. Rank is not a direct replacement for a 5e character level, and **Hunter Classes are not D&D classes**. Do not assume that choosing one locks you into a traditional Fighter/Wizard/Rogue progression.
-
-Treat them as Ember Corps progression systems. Read them after you understand your basic character concept rather than trying to build around unfamiliar labels immediately.
+Your rank tells people where you stand in the Corps. A Hunter Class is a Corps specialty. Choosing one still leaves you free to build your character and spend XP as you see fit within the usual rules.
 
 ## Money and Gear
 {:#gear}
 
 **Ryō** buys equipment. The Equipment & Crafting volume contains the full building system for players who enjoy designing gear, but you do not need to learn crafting to begin.
 
-The **Pre-Made Weapon Catalogue** and **Pre-Made Armor Catalogue** exist specifically so you can buy functional equipment without becoming an armorsmith on your first day.
+For starting gear, pick something from the **Pre-Made Weapon Catalogue** or **Pre-Made Armor Catalogue**.
 
 <div class="guide-callout"><strong>STILL CONFUSED ABOUT SPEED?</strong><p>Forget everything else for a moment: act when your IC arrives, resolve your action, add its Speed, and write down your next IC. The timeline moves to the next character due to act.</p><a href="{{ '/rules/core/#initiative-rolls' | relative_url }}">READ THE FULL COMBAT RULES ↗</a></div>
 
@@ -264,8 +262,6 @@ If you have just joined, this is enough:
 8. Before your first fight, pick one reliable attack and one defence; check their costs and Speed. When combat happens, remember **current IC + Speed = next IC**.
 9. Learn the more detailed rules when they actually become relevant.
 
-Nobody benefits from you trying to memorise the entire archive before writing your first IC post.
-
 <div class="guide-final-cta"><span>YOUR NEXT MISSION</span><h2>MAKE YOUR HUNTER.<br><em>JOIN THE STORY.</em></h2><p>Start with a character concept. The community can help you with the numbers.</p><a class="guide-cta" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">ENTER THE DISCORD ↗</a></div>
 
 ## Where to Go Next
@@ -275,7 +271,7 @@ Nobody benefits from you trying to memorise the entire archive before writing yo
 
 **Buildcrafting:** [Attributes and Character Creation]({{ '/rules/core/#determine-attributes' | relative_url }}) · [Abilities]({{ '/rules/core/#abilities' | relative_url }})
 
-**Learning combat properly:** [Core Rules — Initiative Rolls & Flow of Time]({{ '/rules/core/#initiative-rolls' | relative_url }})
+**Combat timing:** [Core Rules — Initiative Rolls & Flow of Time]({{ '/rules/core/#initiative-rolls' | relative_url }})
 
 **Choosing techniques:** [Jutsu Compendium]({{ '/rules/jutsu/' | relative_url }})
 
@@ -286,5 +282,3 @@ Nobody benefits from you trying to memorise the entire archive before writing yo
 **Understanding the setting:** [World & Lore]({{ '/lore/' | relative_url }})
 
 **Need a human being:** [Join the Discord](https://discord.gg/TheEmberCorps)
-
-The full rules are a reference library, not an entrance exam. Start with a Hunter you want to play. The rest becomes much easier once the rules have a character and a scene to attach themselves to.

@@ -14,7 +14,7 @@ Two to four Hunters may prepare a combined Attack. Each contributes one damaging
 ## Preparation
 {:#preparation}
 
-Each Hunter joins on their own turn by entering a Variable Speed Utility Action. Declare the component Attack, its costs, Links, AP expenditure and final Speed at that point. Required handseals must be completed before joining. Pay the Attack's costs when joining; ammunition and consumables are committed then. Effects that require a target to be in Range are checked at release.
+Each Hunter joins on their own turn by entering a Variable Speed Utility Action. Declare the component Attack, its costs, Links, AP expenditure and final Speed at that point. Finish any required handseals before you join. When you join, pay the Attack’s costs and commit its ammunition and consumables. Check whether the target is in Range when the team releases the Attack.
 
 The preparation target equals the sum of the components' final Speeds. Each IC a Hunter remains preparing contributes 1 toward that shared target. Every participating Hunter must join, pay their costs and contribute at least 1 IC before release. The total cannot be reduced by AP, time already spent on handseals, Delay or waiting before joining. Each participant also completes their component's Delay while preparing; release waits for both the shared target and every component's Delay to be complete.
 

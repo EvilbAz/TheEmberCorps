@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/hyena/"
 
 Role: Pack Offence / Pursuit
 
-Hyenas are relentless opportunists. They thrive on injured prey, morale pressure and repeatedly opening the same target for allies.
+Hyenas wear down injured prey. Each time a hyena gets at the same target, its pack has another opening.
 
 ## Profile
 {:#profile-15}

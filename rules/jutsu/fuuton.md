@@ -17,7 +17,7 @@ Wind (Fuuton)
 
 Blocking reduces the damage of Wind techniques by only 25%.
 
-Using a fan you can rapidly manipulate wind and infuse it with chakra on any technique with the fan tag. When determining seal speed for jutsu with the Fan Tag, any hands wiedling a fan are treated as being open. (Meaning wielding 1 or even 2 fans would allow you to use your full seal speed on fan jutsu).
+For a jutsu with the Fan tag, a hand holding a fan counts as free when you determine Seal Speed. You get your full Seal Speed whether you’re wielding 1 fan or 2.
 
 Oh and if there’s no air or any gasses around (Even water has air in it), then you can’t use Fuuton, but… If you’re in a situation like that then you probably have bigger problems to worry about.
 

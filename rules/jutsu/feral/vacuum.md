@@ -10,14 +10,14 @@ permalink: "/rules/jutsu/feral/vacuum/"
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a><a href="{{ '/rules/jutsu/feral/' | relative_url }}">FERAL ELEMENTS ↗</a></div>
 
 
-<p class="jutsu-shared-note"><strong>Shared mechanics:</strong> Scar timing, anchoring, Fade, Overrun and Developments are in the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
+<p class="jutsu-shared-note">For Scar timing, anchoring, Fade, Overrun and Developments, see the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
 
 # VACUUM RELEASE
 {:#vacuum-release}
 
 ***Fūton → Vacuum | Scar: Dead Air***
 
-*Fūton controls air. Vacuum Release controls the space left when air is gone. Its techniques create pressure differentials, silence and sudden implosions.*
+*Draw the air out of a space and the sound goes with it. The pressure drops and the space can suddenly implode.*
 
 ## Feral Conversion
 {:#feral-conversion}

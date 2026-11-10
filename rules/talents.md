@@ -18,7 +18,7 @@ Milestone talents and rank benefits for long-term character growth.
 ### Introduction
 {:#introduction}
 
-Talents grant rare training or exceptional aptitude. They cost Talent Points rather than XP.
+Spend Talent Points on specialised training or an exceptional aptitude. You buy these separately from your XP purchases.
 
 ### Acquiring Talents
 {:#acquiring-talents}

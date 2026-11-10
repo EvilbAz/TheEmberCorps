@@ -15,11 +15,11 @@ permalink: "/rules/jutsu/suiton/"
 
 Water (Suiton)
 
-Water is at a disadvantage among elemental jutsu in that it requires raw material to use (earth techniques do as well, but it's rare to find oneself in a situation without ground).Unless the fight is taking place near a river (a small stream won't cut it) or a lake, or, say, on a boat, it's not going to be from the environment.
+Suiton needs water. A lake, a river or the water beneath a boat can supply it. A small stream won’t do.
 
-Accordingly, most water jutsu tend to be very weak or have limited effectiveness unless the shinobi supplies enough “Gallons of Water”, not to mention quite costly. However, using enough gallons of water can turn an ineffectual technique into quite a fearsome force. Even water, in enough quantity, can be turned into a destructive tsunami.
+Most Suiton jutsu are costly and have little effect without enough water behind them.
 
-Using “Gallons of Water” is quite easy, you simply mention how many Gallons you are investing into a Jutsu when you use it, and modify its “G” (Standing for, you guessed it, Water) variable according to how many Gallons you chose. Though it should be kept in mind that most Suiton Jutsus have a minimum and a maximum amount of Water you can invest into it (Typically displayed like this: 4 \> 12 Gallons of Water), anything more or less and the technique breaks down. If a Technique has a Gallon requirement of 0, that means you may use it without spending any Water on it, though that also means it’ll be quite weak.
+When you use the jutsu, declare how many Gallons of Water you invest. That number is G. Stay within the listed minimum and maximum (for example, 4 to 12 Gallons of Water) or the technique fails. A minimum of 0 lets you use the jutsu without spending water, though it will be weak.
 
 Only one quarter of Gallons invested in a Suiton jutsu are consumed (rounded up). The remaining Gallons are deposited back onto the battlefield after the technique resolves. Minimum Gallon requirements are checked when the technique is used, before any Gallons are returned.
 
@@ -313,7 +313,7 @@ This jutsu's effects persist for 50 IC even after you drop the upkeep. However, 
 
 <span class="jutsu-rank-badge">C-Rank</span>
 
-Inhaling a large amount of air and performing the necessary seals, the user will expel a copious amount of water from his/her mouth. The wave of water produced will slam against its opponent and can then be utilized for other techniques.
+Take a deep breath, form the seals and spit a wave of water at your opponent. You can use the water for other techniques afterwards.
 
 Chakra: 19  
 Damage: 10d10+60  
@@ -655,7 +655,7 @@ Seal Speed: 28
 Gallons Requirement: 50 \> 100
 
 Tags: Utility, Environmental  
-Effects: When you first use this Technique, you create a levitating ball of water, and perform one Tendral Whipping Attack (mentioned below) for free. A So long as you maintain this technique, your pet giant levitating ball of water will fight for you\! It acts 1 IC after it's created and can take the following Actions, by spending your AP:
+Effects: When you first use this Technique, you create a levitating ball of water, and perform one Tendral Whipping Attack (mentioned below) for free. As long as you maintain this technique, your pet giant levitating ball of water will fight for you\! It acts 1 IC after it's created and can take the following Actions, by spending your AP:
 
 \[X AP, Speed X\] Move: It moves as if it had taken a Speed (X)\*5 action, using your CHA in place of its AGI. It cannot (deliberately) move outside its max range. If it does end up outside that range, it can take no actions other than moving towards you.
 

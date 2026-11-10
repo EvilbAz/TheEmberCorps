@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/moth/"
 
 Role: Control / Scouting
 
-Moths are fragile evasive support monsters. They specialize in flight, dust, concealment, sensory disruption and battlefield utility.
+A moth scatters dust from the air to hide its allies and confuse their pursuers. Its wings are fragile.
 
 ## Profile
 {:#profile-12}

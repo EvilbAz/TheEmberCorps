@@ -13,7 +13,7 @@ permalink: "/rules/talents/enhancements/"
 ### Celerity
 {:#celerity}
 
-Training has sharpened your reactions and shortened wasted movement.
+You’ve practised the draw, the turn and the first step until each comes a little quicker.
 
 #### Core Talent
 {:#core-talent}

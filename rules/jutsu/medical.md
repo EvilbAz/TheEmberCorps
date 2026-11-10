@@ -17,8 +17,8 @@ permalink: "/rules/jutsu/medical/"
 {:#requirements-4}
 
 Medical Ninjutsu transfers chakra to heal injuries and illness. The same anatomical knowledge can also be used to harm.  
-Unless otherwise specified in their descriptions, you may not use any medical jutsu on yourself. For the sake of quick reference, the jutsu a medic may perform on themself are: Vital Repair, Tourniquet Technique, Temporary Suture, and Mystical Palm.  
-If any Medical Ninjutsu technique has a listed Upkeep, that Upkeep is paid by the recipient of the technique, rather than the medic; this represents the medic adjusting the flows of that person's chakra to preserve their health. This does mean that those techniques can be voluntarily (or forcibly) ended, though the "Dazed" Wound will specifically not do so. You must meet all listed requirements to learn medical ninjutsu of a given rank.
+You can only use medical jutsu on yourself if the entry allows it. Vital Repair, Tourniquet Technique, Temporary Suture and Mystical Palm all allow self-treatment.<br>
+The recipient pays any listed Upkeep for Medical Ninjutsu. The medic adjusts the recipient’s chakra flow to sustain the treatment. These techniques can end voluntarily or by force, but the Dazed Wound does not end them. To learn a medical jutsu, meet every requirement listed for its rank.
 
 D: 5 Chakra Control, 5 Medicine, Medical Training (talent)  
 C: 10 Chakra Control, 15 Medicine, Medical Training (talent)  

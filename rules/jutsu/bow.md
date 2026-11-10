@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/bow/"
 # Bow Bukijutsu
 {:#bow-bukijutsu}
 
-*Bow techniques reward patience and a clear sightline. Mark your quarry, pin its movement and choose the shot that brings it down.*
+*Pick a clear line to your quarry. A well-placed arrow can pin it long enough to line up the next shot.*
 
 ## E-Rank
 {:#e-rank-16 .jutsu-rank-heading}
@@ -153,7 +153,7 @@ Effects: Consume an arrow to Parry a Ranged Taijutsu or Projectile Attack with +
 
 <span class="jutsu-rank-badge">D-Rank</span>
 
-The bow is held in a disciplined firing posture, the sightline settling more firmly each moment the target remains predictable.
+You steady the bow and watch your target. The longer they keep to the same path, the easier the shot.
 
 Rank: D  
 Stamina: 9  
@@ -170,7 +170,7 @@ Effects: While maintained, Bow attacks gain +Athletics/5 Accuracy against target
 
 <span class="jutsu-rank-badge">C-Rank</span>
 
-You place the arrow directly through one target’s line and keep enough force behind it to threaten the body standing behind them.
+Line up the shot so the arrow can carry through the first target and hit the one behind them.
 
 Rank: C  
 Stamina: \+8  

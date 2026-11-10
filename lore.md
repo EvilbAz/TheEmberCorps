@@ -6,7 +6,7 @@ permalink: /lore/
 <div class="simple-page lore-page" markdown="1">
 <div class="eyebrow">EMBER ARCHIVE / WORLD RECORD</div>
 <h1>THE WORLD<br><span>BEYOND THE WALLS.</span></h1>
-<p class="lead">The old nations are gone. The Bloom is not. Here are the places, events and people a Hunter might know before setting foot in the Wastes.</p>
+<p class="lead">What survived the fall of the old nations, who runs Haven Ember, and what its Hunters know about the Wastes.</p>
 <nav class="lore-index" aria-label="Lore chapters"><a href="#history">01 / History</a><a href="#world">02 / The World</a><a href="#haven">03 / Haven Ember</a><a href="#people">04 / Haven Figures</a><a href="#reputation">05 / Renowned Hunters</a><a href="#open-records">06 / The Uncharted World</a></nav>
 
 ## History

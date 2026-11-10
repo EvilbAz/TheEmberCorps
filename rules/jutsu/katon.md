@@ -15,7 +15,7 @@ permalink: "/rules/jutsu/katon/"
 
 Fire (Katon)
 
-If you ever find yourself completely submerged in water, Katon jutsu won't work. This can be done in any environment with 1k+ Gallons, but requires a container that can retain that much (like a lake).
+Katon jutsu won’t work while you’re completely submerged. You can submerge in an area with 1k+ Gallons if it can hold that much water, like a lake.
 
 Exploding Dice  
 Katon jutsu often have \!o\>X this is called exploding dice and causes an additional roll whenever a target number is met.
@@ -557,7 +557,7 @@ Effects: Whoever you hit with this technique becomes a living bomb but it initia
 
 You may also perform a Speed 5, Seal Speed 20 action to detonate someone immediately. When a person is detonated, they make a Chakra 30 roll; whether they pass or fail has no effect on the technique, though as normal they might advance in Fatigue.
 
-The explosion itself is Area 25\. The bomb themselves may not defend against it, though anyone else can. The technique's damage is considered 25% higher for the purposes of wounding the bomb.
+The explosion itself is Area 25\. The bomb themselves may not defend against it, though anyone else can. The technique's damage is considered 25% higher when wounding the bomb.
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>

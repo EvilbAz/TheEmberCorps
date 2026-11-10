@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/wyrm/"
 
 Role: Elemental / Bruiser
 
-Wyrms are hardy draconic generalists. They combine scales, unusual movement and a chosen breath affinity, but lack the extreme specialization of other species.
+A wyrm has tough scales, its own way of getting around and a breath affinity you choose. That gives it a few different jobs on a hunt.
 
 ## Profile
 {:#profile-17}

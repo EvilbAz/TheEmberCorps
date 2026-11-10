@@ -10,14 +10,14 @@ permalink: "/rules/jutsu/feral/abyss/"
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a><a href="{{ '/rules/jutsu/feral/' | relative_url }}">FERAL ELEMENTS ↗</a></div>
 
 
-<p class="jutsu-shared-note"><strong>Shared mechanics:</strong> Scar timing, anchoring, Fade, Overrun and Developments are in the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
+<p class="jutsu-shared-note">For Scar timing, anchoring, Fade, Overrun and Developments, see the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
 
 # ABYSS RELEASE
 {:#abyss-release}
 
 ***Suiton → Abyss | Scar: Depth***
 
-*Normal water moves around you. Abyssal water feels impossibly heavy, as though a few inches of black water carry the pressure of an ocean trench.*
+*Wade into a few inches of that black water and you’ll feel the weight of an ocean pressing down on you.*
 
 ## Feral Conversion
 {:#feral-conversion}

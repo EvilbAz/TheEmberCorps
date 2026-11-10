@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/boar/"
 
 Role: Breach / Frontline
 
-Boars are creatures of commitment: heavy, direct and practical. They break formations, clear roads and turn their bodies into moving obstacles.
+Send a boar down a blocked road and it’ll put its weight into clearing it. In a fight, that same charge can split a formation.
 
 ## Profile
 {:#profile-3}

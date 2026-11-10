@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/mantis/"
 
 Role: Precision / Counter
 
-Mantises are precision predators. They favor stillness, reach, clean counters and attacks that punish exposed limbs or careless approaches.
+A mantis waits with its forelegs folded. An exposed limb or a hunter who steps too close gives it an opening.
 
 ## Profile
 {:#profile-4}

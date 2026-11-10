@@ -9,7 +9,7 @@ permalink: "/rules/skill-actions/"
 # Skill Actions
 {:#skill-actions}
 
-These skill actions are available to every Hunter. Entries without Interrupt or Link are main Utility Actions. Roll 1d20 + the named skill. Use the listed Speed; ordinary AP reductions apply. An opposed check succeeds only when the acting Hunter beats the defender. No fatigue cost applies unless listed. A failed attempt still spends its Speed. Benefits from the same named action do not stack. A pending benefit cannot be rerolled or replaced before it is used or ends. Unused roll benefits end with the combat or scene. Information checks can be repeated when there is new evidence to examine; repeating the same examination does not reveal more information. A combat skill action is a combat roll for Specialization granted by Genius.
+These skill actions are available to every Hunter. Entries without Interrupt or Link are main Utility Actions. Roll 1d20 + the named skill. Use the listed Speed; ordinary AP reductions apply. On an opposed check, you must beat the defender. Pay fatigue only if the action lists a cost. You spend the Speed even if you fail. Benefits from the same named action do not stack. A pending benefit cannot be rerolled or replaced before it is used or ends. Unused roll benefits end with the combat or scene. Information checks can be repeated when there is new evidence to examine; repeating the same examination does not reveal more information. A combat skill action is a combat roll for Specialization granted by Genius.
 
 ### Scaling with the roll
 {:#skill-action-scaling}

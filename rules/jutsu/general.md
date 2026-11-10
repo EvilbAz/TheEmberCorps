@@ -24,7 +24,7 @@ permalink: "/rules/jutsu/general/"
 
 <span class="jutsu-rank-badge">E-Rank</span>
 
-A compact shinobi distraction technique that uses a pinch of chakra to ignite and scatter flash firecrackers at exactly the right moment, creating a sharp burst of light and noise that opens a window to vanish or reposition.
+You light a handful of firecrackers with chakra. The flash and crack give you a moment to slip away.
 
 Chakra: 5  
 Range: 8  
@@ -374,7 +374,7 @@ Monster Taming allows you to learn Beast Seal: Release without meeting its norma
 
 <span class="jutsu-rank-badge">C-Rank</span>
 
-The user places themself under a harmless genjutsu, which itself serves no purpose but makes it more difficult for other genjutsu to affect you normally.
+You put yourself under a harmless genjutsu. While it holds, other genjutsu have a harder time taking effect.
 
 Chakra: 20  
 Upkeep: 4  
@@ -486,7 +486,7 @@ Seal Speed: 15
 Upkeep: X  
 Tags: Utility  
 Effects: X has a maximum of 10\. Your hair's length increases by X feet\! However, now you have a lot of bulky, chakra-strengthened hair, that gets in the way when you're trying to do super-fast ninja battles. When dodging, or moving as part of an attack, you suffer an X/2 immobilization penalty (rounded up); in the case of moving while attacking, this applies to the distance you can move, the Accuracy of the attack itself, and anything else you may need to do until the next IC.  
-You gain a Damage Reduction of (Ninjutsu damage bonus)\* (X)/2, which is doubled while blocking. Additionally, the damage you take is considered (2.5)\*(X)% lower for the purposes of determining wounds. Anyone attacking you from a distance of (X/3) yards or less will take (your ninjutsu damage bonus)\*(speed of their attack) damage; this does not apply if X is 2 or lower. So long as X is 3 or higher, this applies to all melee attacks.  
+You gain a Damage Reduction of (Ninjutsu damage bonus)\* (X)/2, which is doubled while blocking. Additionally, the damage you take is considered (2.5)\*(X)% lower when determining wounds. Anyone attacking you from a distance of (X/3) yards or less will take (your ninjutsu damage bonus)\*(speed of their attack) damage; this does not apply if X is 2 or lower. So long as X is 3 or higher, this applies to all melee attacks.<br>
 As a Speed 10, Chakra 5+5\*Y action, you may increase X's value by Y, up to the maximum of 10\.  
 Whenever you suffer an Ignite effect, X is reduced by half the Ignite's severity; whenever your suffer a Slashing wound, X is reduced by 1 per level of the wound's severity (1 for a Minor, 2 for a Major, and so on).  
 If X is reduced to 0, this technique ends.
@@ -538,7 +538,7 @@ Range: 10\*X yards
 Requires: Needle Jizo active  
 Tags: Utility  
 Effects: This technique uses the current upkeep of Needle Jizo as X.  
-When using this technique, make an Accuracy roll which ignores immobilization penalties. If it hits, your hair grapples the target; you may then immediately use a Grapple technique of B-rank or lower that you know, with no Stamina or Chakra cost, at only half its normal Speed, as if you had your opponent pinned. So long as your hair maintains this grapple, you may continue to use it to perform grapple techniques; your hair has up to X 'limbs', for the purposes of determining which locks and holds you can maintain. All Grapple techniques after the first use their normal Speed, and have a Chakra cost equal to (and replacing) their normal Stamina cost.  
+When using this technique, make an Accuracy roll which ignores immobilization penalties. If it hits, your hair grapples the target; you may then immediately use a Grapple technique of B-rank or lower that you know, with no Stamina or Chakra cost, at only half its normal Speed, as if you had your opponent pinned. So long as your hair maintains this grapple, you may continue to use it to perform grapple techniques; your hair has up to X 'limbs', when determining which locks and holds you can maintain. All Grapple techniques after the first use their normal Speed, and have a Chakra cost equal to (and replacing) their normal Stamina cost.<br>
 Techniques performed this way use (ninjutsu damage bonus \+ X) rather than your physical bonus. You use CHA in place of STR for your damage dice and grapple checks, and have a \+X bonus to your grapple rolls and grapple TNs with Art of the Raging Lion's Mane. If an opponent fails an Escape Grapple attempt by 20 or more, they are unable to break free; Escape Grapple simply fails, with a Speed of 4 and a Stamina cost of (4 \+ the amount they fail by, as normal).  
 You do not suffer any of the normal downsides from being involved in a grapple, and your opponent cannot perform grapple techniques against you. f you and your victim move more than this technique's range from one another, they break free automatically. Once they do break free, your Needle Jizo ends (its X being set to 0). If you end Art of the Raging Lion's Mane yourself, however, Needle Jizo is not ended prematurely, but this can only be done on your IC.  
 While using Art of the Raging Lion's Mane you do not receive any of Needle Jizo's normal benefits, but do suffer its normal penalties.

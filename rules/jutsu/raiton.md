@@ -15,7 +15,7 @@ permalink: "/rules/jutsu/raiton/"
 
 Lightning (Raiton)
 
-Nothing out of the ordinary here\! This is chakra-based electricity, not real electricity, so it has no special ability to, say, electrocute everyone in contact with water, or anything like that (Though some specific Raiton jutsus DO have similar effects to actual electricity, that is inherent to those jutsus and not the element as a whole).
+Raiton uses chakra to make lightning. Hitting water only shocks the people touching it if the jutsu says it does. Other properties of ordinary electricity also depend on the technique.
 
 ## E-Rank
 {:#e-rank-8 .jutsu-rank-heading}
@@ -135,7 +135,7 @@ Upkeep: 4
 Speed: 6  
 Seal Speed: 8  
 Tags: Utility  
-Effects: Your AGI is treated as 25% higher for the purposes of movement. Additionally, so long as you maintain this Technique’s Upkeep, you gain a special Movement Action called Blink.
+Effects: Your AGI is treated as 25% higher for movement. Additionally, so long as you maintain this Technique’s Upkeep, you gain a special Movement Action called Blink.
 
 Blink \[Stamina: X, Speed X\]: You may choose to declare a Speed X Move Action, where X has a max of AGI/5. Unlike normal movement (which is handled on an IC-by-IC basis), the movement for this action is resolved immediately. However, moving this way has a Stamina cost equal to X. You may not reduce this Action's Speed by spending AP.
 
@@ -351,7 +351,7 @@ If the nearest viable target is somebody in stealth, it will still target them a
 
 <span class="jutsu-rank-badge">B-Rank</span>
 
-Lightning is compressed around the hand into a screaming thrust designed to end a close exchange.
+You gather lightning around your hand and drive it forward. Up close, the noise is a scream.
 
 Chakra: 32  
 Damage: 34d8\*1d4  

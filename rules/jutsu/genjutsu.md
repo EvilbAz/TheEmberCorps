@@ -292,7 +292,7 @@ Realizes: 5 \+ X IC
 
 <span class="jutsu-rank-badge">C-Rank</span>
 
-A genjutsu whose greatest limitation is that it requires physical contact, the user places their hand on a target and sends them immediately into a deep slumber. Very nice for infiltration without raising a fuss.
+Place a hand on the target and send them straight into a deep sleep. Handy when you need to get past someone quietly.
 
 Chakra: 20  
 Range: Touch  

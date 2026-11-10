@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/panther/"
 
 Role: Stealth / Assault
 
-Panthers are extreme offensive hunters. They are accurate, fast and lethal from concealment, but their poor Defence makes bad positioning costly.
+A panther strikes fast and accurately from hiding. If it gets caught in the open, its poor Defence shows.
 
 ## Profile
 {:#profile-21}

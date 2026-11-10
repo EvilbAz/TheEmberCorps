@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/unarmed/"
 # Unarmed Taijutsu
 {:#unarmed-taijutsu}
 
-Not much to say here. You hit people with your fists, feet, and in all manner of other creative ways. These techniques can stand on their own but contains integral pieces for Combo and Grapple jutsu.
+Punches, kicks, and a few less conventional uses for your elbows. You can fight with these techniques alone or use them in Combos and Grapples.
 
 ## E-Rank
 {:#e-rank .jutsu-rank-heading}
@@ -340,7 +340,7 @@ Effects: This follows the rules for the D-rank Reppuu technique (including its M
 
 <span class="jutsu-rank-badge">C-Rank</span>
 
-The user secures the opponent around the torso or hips, shifts their center of gravity, and drives them over the shoulder or backward into the ground. The technique is less about raw lifting strength than committing to the throw before the opponent can recover their footing.
+Grab the torso or hips, take your opponent off balance and throw them over your shoulder or drive them backwards into the ground. Commit before they can get their feet under them.
 
 Stamina: 18  
 Damage: (STR/5)d10  
@@ -378,7 +378,7 @@ Damage: (STR/5)d10
 Speed: 13  
 Delay: 5  
 Tags: Attack, Blunt, Melee  
-Effects: Before wounds or damage are calculated, this completely destroys any armor protecting the location it hits. Against objects this jutsu always does its max damage. If the object is not chakra enhanced nor made of chakra you double its speed for the purposes of dealing damage.
+Effects: Before wounds or damage are calculated, this completely destroys any armor protecting the location it hits. Against objects this jutsu always does its max damage. If the object is not chakra enhanced nor made of chakra you double its speed when calculating damage.
 
 ## B-Rank
 {:#b-rank .jutsu-rank-heading}

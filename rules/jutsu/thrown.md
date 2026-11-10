@@ -169,7 +169,7 @@ Effects: Halve the Speed added by Multi-Throw, rounding the remaining added Spee
 
 <span class="jutsu-rank-badge">C-Rank</span>
 
-You split the throw across two opponents, using separate lines so neither target can read the whole release from one hand motion.
+Throw at two opponents from different angles so neither can read both throws from the movement of your hand.
 
 Rank: C  
 Stamina: \+8  

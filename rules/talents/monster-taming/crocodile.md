@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/crocodile/"
 
 Role: Ambush / Grapple
 
-Crocodiles are ambush grapplers. They are difficult to dislodge, frightening in water and built to turn one clean bite into control.
+A crocodile waits in the water for a good bite. Once it gets its jaws around something, it’s hard to prise loose.
 
 ## Profile
 {:#profile-7}

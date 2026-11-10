@@ -17,7 +17,7 @@ permalink: "/rules/equipment/"
 ### Weapon Crafting
 {:#weapon-crafting}
 
-Weapon Crafting lets you build a melee weapon from its frame upward. Choose its Structure, spend Artisan Points on Components, then add any Special Properties you are able to craft.
+To build a melee weapon, start with its frame. Choose a Structure, spend Artisan Points on Components, then add any Special Properties you can craft.
 
 A weapon's Final Artisan Points cannot exceed your Artisan ranks when you craft it. Crafting TN is 15 \+ (4 × Final Artisan Points). Crafting Cost is 5,000 Ryō \+ (750 × Final Artisan Points).
 
@@ -2060,7 +2060,7 @@ Effect: Y is distance to the Tag in yards. You can set the Detonation time betwe
 
 Other than placing a Tag by hand, there are two other ways to use them:
 
-Attaching to a Weapon: As part of a ranged attack, multi-throw or jutsu that uses ranged weapons, you can add a Chakra 10 cost (or \+10 if it already had one), Seal Speed 6 (or \+6) and Speed \+5 to the attack in order to attach 1 Tag to the attack. Whether it hits or misses, the Tagged weapon always ends up at the position of the target. It will Detonate 15 IC after the attack resolves (unless a new Detonation application is used before it explodes).
+Attaching to a Weapon: As part of a ranged attack, multi-throw or jutsu that uses ranged weapons, you can add a Chakra 10 cost (or \+10 if it already had one), Seal Speed 6 (or \+6) and Speed \+5 to the attack to attach 1 Tag to the attack. Whether it hits or misses, the Tagged weapon always ends up at the position of the target. It will Detonate 15 IC after the attack resolves (unless a new Detonation application is used before it explodes).
 
 Attaching after Failed defense: Against any type of Melee Attack that hits you, you can perform a Spd 1 Interrupt (after resolving the attack, but before advancing IC) to attach 1 Tag to your attacker (in the relevant part of their body or weapon). Anyone who has a Tag attached to them in this manner rolls the higher of Awareness or Survival vs the one who attached the Tag’s Espionage or Stealth whichever is higher, on a success, they realise the Tag is attached and immediately detach it, leaving it at the position that the attack took place. If this check fails, the attacker notices the Tag too late and it then requires a Spd 5 action to remove (removed Tags are dropped at the location they were removed, they cannot be thrown or reattached to something else). If a Tag explodes while still attached to someone, they cannot defend against it. Blocking does work against attached Tags, however.
 

@@ -888,7 +888,7 @@ For that use, the Jutsu is treated as belonging to the new element for all purpo
   * **Defence Jutsu:** Alongside any elemental advantages, reduce the Jutsu’s base speed by 2, to a minimum of 3\.  
   * **Utility Jutsu:**  The Jutsu creates a bright light, and reduces darkness based Vis by 5 within an X yard radius, where X is the rank while active.  
 * Doton (Earth)  
-  * **Attack Jutsu:** For each damage die rolled, add \+1d4 damage to the Jutsu’s final damage for the purposes of determining wounds.  
+  * **Attack Jutsu:** For each damage die rolled, add \+1d4 damage to the Jutsu’s final damage when determining wounds.<br>
   * **Defence Jutsu:** Alongside any elemental advantages, you gain DR equal to the Jutsu’s Rank \* 5 until your next action, this stacks with itself.  
   * **Utility Jutsu:**  The technique may create or manipulate mundane earth, stone, or similar natural terrain appropriate to its existing effects.  
 * Fuuton (Wind)  
@@ -901,7 +901,7 @@ For that use, the Jutsu is treated as belonging to the new element for all purpo
   * **Utility Jutsu:**  You may expend 0\>X gallons for this Jutsu, where X is it’s rank, for every Gallon spend, decrease the Jutsu’s final speed by 2\.  
 * Raiton (Lightning)  
   * **Attack Jutsu:** The Jutsu inflicts Paralysis equal to it’s Rank on a successful hit  
-  * **Defence Jutsu:** Alongside any elemental advantages, the jutsu counts as X Speed less, to a minimum of 1 for the purposes of determining how much your IC increases, where X is its Rank.  
+  * **Defence Jutsu:** Alongside any elemental advantages, the jutsu counts as X Speed less, to a minimum of 1 when determining how much your IC increases, where X is its Rank.<br>
   * **Utility Jutsu:**  N/A
 
 If a Jutsu qualifies as more than one type, choose whether it is treated as an Attack, Defence, or Utility Jutsu when Elemental Expression is used. It gains only that Expression.
@@ -2049,7 +2049,7 @@ Blocking reduces the damage of unarmed and ninjutsu attacks by 50% and weapon da
 
 (Speed and Stamina Variable, Attack, Projectile)
 
-Anyone familiar with fictionalized depictions of hunter has no doubt seen them flinging a handful of shuriken with pinpoint aim. As this game follows Hunters, it stands to reason that they can do this\! The term, appropriately enough, is "Multi-Throwing."
+With a Multi-Throw, you throw a handful of weapons in one attack.
 
 By default, you may only throw one type of weapon at once; you could throw 6 shuriken, but not 4 shuriken and 2 kunai in the same action. After choosing your weapon, you decide how many you want to throw.
 
@@ -2079,14 +2079,14 @@ Perform Handseals actions are necessary to perform most Ninjutsu and Genjutsu. Y
 
 Handseals require the use of both hands, and if they're interrupted for any reason you have to start over again.
 
-You can Dodge and perform any actions that do not require hands while performing handseals. If you take damage while forming handseals (between the declaration of your Perform Handseals action and when you actually use the jutsu), you must exceed 10 \+ (damage dealt / 10\) on a Chakra Control skill roll in order to continue. Failure means you automatically Abort your Perform Handseals action.
+You can Dodge and perform any actions that do not require hands while performing handseals. If you take damage while forming handseals (between the declaration of your Perform Handseals action and when you actually use the jutsu), you must exceed 10 \+ (damage dealt / 10\) on a Chakra Control skill roll to continue. Failure means you automatically Abort your Perform Handseals action.
 
 #### Perform Jutsu
 {:#perform-jutsu}
 
 (Speed and Stamina or Chakra Variable)
 
-Hunter can perform superhuman feats or manipulate the elements to create effects by creating Chakra inside them and channeling it into Techniques. There are three grand categories of techniques or “Jutsu” that Hunter can employ.
+Hunters channel chakra through techniques called Jutsu. These fall into three broad categories.
 
 Ninjutsu, the techniques that manipulate elements, space and time.
 
@@ -2101,7 +2101,7 @@ Each Jutsu will have its speed, cost and effects listed under its entry and rule
 
 (Speed Variable, Utility)
 
-For the most part, hunter can move faster than ordinary people. When you actually devote time to moving in battle, you travel (AGI)\*(number of IC spent moving)/50 yards.
+When you take a Move action in battle, you travel (AGI)\*(number of IC spent moving)/50 yards.
 
 As movement is Speed Variable it does not occur all at once. Instead every IC spent moving you travel the amount that you would have in that time. So if you travel 1 Yard every IC, even if you declare a Speed 10 Move Action, after 5 IC you would have moved 5 Yards.
 
@@ -2131,7 +2131,7 @@ Defensive Interrupts are the actual defenses taken to mitigate an attack. You ca
 #### Dodge (Speed 2, Interrupt)
 {:#dodge-speed-2-interrupt}
 
-The best defense against any attack is simply not being hit.When you dodge an attack you roll 1d20+(AGI)/10, plus any other bonuses to dodge you may have, such as from abilities or uniques, against the attack's Accuracy. Success means you completely avoid the attack and its effects.
+To Dodge, roll 1d20+(AGI)/10, plus any other bonuses to dodge you may have, such as from abilities or uniques, against the attack's Accuracy. Success means you completely avoid the attack and its effects.
 
 #### Parry (Speed 3, Interrupt)
 {:#parry-speed-3-interrupt}
@@ -2253,7 +2253,7 @@ Alternatively, you may choose to Abort as part of an Interrupt--for example, abo
 
 When you make a Dodge or another eligible defensive roll against an attack, for each point you fail by, you take 20% of its effects including statuses (rounded up). This still counts as a failed defense.
 
-With regards to defensive jutsu: Partial success typically applies to any jutsu which works similarly to a Dodge. That is, you make a d20 roll, and if successful the attack you are defending against does not hit you. However, if the technique has another effect (such as making a d20 roll, and if you succeed you reduce the attack's damage by a set amount), partial success does not apply. Parries grant Partial Success against non-AoE Attacks, but never against AoEs. Rolled-Accuracy Ballistic Attacks prohibit Partial Success regardless of defense; Controlled Fire restores it for eligible defenses, including non-AoE Parries.
+Partial Success usually applies to defensive jutsu that work like a Dodge. You roll a d20, and a success avoids the attack. However, if the technique has another effect (such as making a d20 roll, and if you succeed you reduce the attack's damage by a set amount), partial success does not apply. Parries grant Partial Success against non-AoE Attacks, but never against AoEs. Rolled-Accuracy Ballistic Attacks prohibit Partial Success regardless of defense; Controlled Fire restores it for eligible defenses, including non-AoE Parries.
 
 That can be confusing, so, it's example time\! So for an Accuracy 15 attack, 14 would deal 20% of its effects, 13 deals 40%, etc. Even though failing by 5 points would still deal 100%, it counts as a partial success for anything that cares about it (such as Substitution) but a 9 would not count as a partial success.
 
@@ -2329,7 +2329,7 @@ In case that wasn't clear, this cannot, by itself, take you from level 2 to leve
 #### Shunshin
 {:#shunshin}
 
-Whenever you take an action that enters you into stealth, whether that is the hide action or some kind of jutsu or ability, you may immediately perform the D rank General Ninjutsu “shunshin” as an interrupt in order to move yourself without affecting your Stealth. Hunter don’t like to be predictable after all, doing this in order to prevent enemies from simply nuking the location they were last seen with area affecting techniques.
+Whenever you take an action that enters you into stealth, whether that is the hide action or some kind of jutsu or ability, you may immediately perform the D rank General Ninjutsu “shunshin” as an interrupt to move yourself without affecting your Stealth. Hunter don’t like to be predictable after all, doing this to prevent enemies from simply nuking the location they were last seen with area affecting techniques.
 
 ### Stealth Levels
 {:#stealth-levels}
@@ -2525,7 +2525,7 @@ If someone ignites you again while you are already on fire (seriously, what kind
 #### Immobility
 {:#immobility}
 
-Immobilization effects are ones such as being stuck in mud or partially bound with ropes. An immobilization penalty reduces your defensive and grapple rolls by its value, and your Accuracy by half (rounded down) of its value; additionally, each point of immobilization penalty reduces your AGI for the purposes of movement by 10%. Immobilization 10 is "completely immobilized"; you cannot move at all, being rooted to your location (you could still attack and even attempt to dodge, just at a severe penalty). No matter how high your an immobilization penalty gets, its actual applied penalty can never go beyond \-10. Multiple immobilization penalties do not stack; if you're suffering from a \-8 and a \-4, you ignore the \-4 until the \-8 goes away.
+Immobilization effects are ones such as being stuck in mud or partially bound with ropes. An immobilization penalty reduces your defensive and grapple rolls by its value, and your Accuracy by half (rounded down) of its value; additionally, each point of immobilization penalty reduces your AGI for movement by 10%. Immobilization 10 is "completely immobilized"; you cannot move at all, being rooted to your location (you could still attack and even attempt to dodge, just at a severe penalty). No matter how high your an immobilization penalty gets, its actual applied penalty can never go beyond \-10. Multiple immobilization penalties do not stack; if you're suffering from a \-8 and a \-4, you ignore the \-4 until the \-8 goes away.
 
 #### Paralysis
 {:#paralysis}
@@ -2605,7 +2605,7 @@ If the attack matches your Parry’s type or your Parry has elemental advantage,
 #### Knockback
 {:#knockback}
 
-Certain jutsu have an effect referred to as "knockback", which does about what it sounds like: pushes you away from its user or point of origin. Knockback is measured in yards; a 10 yard knockback means that, if you are hit, you will be moved 10 yards away from wherever the jutsu originated from.  
+Knockback pushes you away from the attacker or the point where the jutsu began. Measure it in yards. If a hit inflicts Knockback 10, move 10 yards away from that point.<br>
 Some may have more complex rules, such as pushing you to the edge of their area of effect.
 
 When a technique knocks you back a certain number of yards, if partial defense applies then you will also reduce the knockback by that amount.  

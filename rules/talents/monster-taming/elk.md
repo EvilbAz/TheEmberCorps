@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/elk/"
 
 Role: Escort / Mobility
 
-Elk are mobile guides and protective escorts. They excel at travel, terrain crossing, carrying allies and using antlers to redirect danger.
+An elk can carry a Hunter over rough ground. When something threatens its rider, it can turn the attacker aside with its antlers.
 
 ## Profile
 {:#profile-16}

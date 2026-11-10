@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/serpent/"
 
 Role: Control / Poison
 
-Serpents are control and counter monsters. They use venom, coils, shedding and patient positioning rather than raw mass.
+A serpent waits until it can bring its coils and venom to bear. Shedding its skin gives it another way out of trouble.
 
 ## Profile
 {:#profile-9}

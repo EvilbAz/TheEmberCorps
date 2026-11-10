@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/tortoise/"
 
 Role: Fortress / Protection
 
-Tortoises are fortress monsters. They are poor pursuers and weak attackers, but exceptionally difficult to remove and excellent at sheltering allies.
+A tortoise won’t run down fleeing prey or hit especially hard. It’s the one you want beside a wounded ally who needs shelter.
 
 ## Profile
 {:#profile-10}

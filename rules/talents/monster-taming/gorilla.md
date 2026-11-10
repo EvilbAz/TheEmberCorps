@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/gorilla/"
 
 Role: Grapple / Utility
 
-Gorillas are powerful brawlers and protectors. They excel at climbing, throws, grapples and physically controlling the space around allies.
+A gorilla can climb after its handler or stay below and wrestle anything that follows. In a grapple it has the strength to throw its quarry.
 
 ## Profile
 {:#profile-11}

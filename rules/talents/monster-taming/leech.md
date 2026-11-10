@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/leech/"
 
 Role: Sustain / Support
 
-Leeches are sustain monsters. They cling, drain, transfer vitality and purge harmful substances rather than winning through direct offence.
+A leech clings to its host and drains it. It can also pass vitality to an ally or draw out harmful substances.
 
 ## Profile
 {:#profile-18}

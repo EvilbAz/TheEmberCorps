@@ -185,7 +185,7 @@ Effects: Increase the Range of Fan Bukijutsu and Fuuton cast through this fan by
 
 <span class="jutsu-rank-badge">C-Rank</span>
 
-The attack leaves a clean tailwind behind it, turning the space you just cut through into a lane for movement.
+A tailwind follows the cut. Move with it.
 
 Rank: C  
 Stamina: \+8  

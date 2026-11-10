@@ -121,7 +121,7 @@ permalink: "/rules/hunting/"
 </div>
 
 <div class="hunt-intro">
-<p>A <strong>Hunt</strong> is a GM-run adventure in which a small team tracks, studies, prepares for, and ultimately confronts a dangerous creature. Preparatory Hunt Actions use Downtime Slots, but <strong>going on the Hunt itself costs no Downtime</strong>. The work your Team does before the fight can determine what you know, what advantages you begin with, and whether you are ready for what the monster can do.</p>
+<p>A <strong>Hunt</strong> is a GM-run job. Your team can track the creature, study it and prepare before facing it. Preparatory Hunt Actions use Downtime Slots, but <strong>going on the Hunt itself costs no Downtime</strong>. What you learn beforehand can give your team an advantage when the fight starts.</p>
 </div>
 
 <div class="hunt-flow" aria-label="The five stages of a Hunt">

@@ -174,7 +174,7 @@ Seal Speed: 18
 Tags: Barrier, Seals 2+  
 Effects: You conjure a barrier between the chosen fixed seals with a height of 3 Yards. It affects any jutsu that passes through this area. Attacks are immune to this barrier if they are ground based, originate from 5 Yards or higher, or have an Area which completely encompasses the barrier’s area.
 
-This automatically parries any jutsu of D-Rank or lower that attempts to pass through. Any jutsu of C or B-Rank has its rank reduced by 1 for the purposes of defending and reduces the damage by 50%, after which the barrier is destroyed. A-Rank jutsu are unaffected by this barrier and automatically destroy it. After being destroyed the barrier is regenerated after 30 IC or after the jutsu is recast.
+This automatically parries any jutsu of D-Rank or lower that attempts to pass through. Any jutsu of C or B-Rank has its rank reduced by 1 when defending and reduces the damage by 50%, after which the barrier is destroyed. A-Rank jutsu are unaffected by this barrier and automatically destroy it. After being destroyed the barrier is regenerated after 30 IC or after the jutsu is recast.
 
 Speed Cast (Speed 6, Chakra 15, Interrupt, Seals 4\)  
 By quickly throwing 4 pre-inscribed seals you conjure the chakra pane between them to defend any projectile ninjutsu originating from 5 Yards or more from its intended target. Make a ninjutsu parry with a \-1 per rank of the jutsu. On a success the jutsu is disrupted by the above effects of the Karasu \- Glass Pane.
@@ -440,7 +440,7 @@ Seal Speed: 20
 Tags: Barrier, Seals 4  
 Effects: You conjure a barrier between four seals with an enclosed area and a height of 20 Yards. Attacks are immune to this barrier if they originate from 30 Yards or higher, or have an Area which completely encompasses the barrier’s area. The barrier is separated into its four sides and after being destroyed a side is regenerated after 100 IC or after the jutsu is recast.
 
-This automatically parries any ranged taijutsu or jutsu of C-Rank or lower, that attempts to pass through. Any jutsu of B or A-Rank has its rank reduced by 1 for the purposes of defending and reduces the damage by 200 or 50% (whichever is higher). If 50% is used that side of the barrier is destroyed.
+This automatically parries any ranged taijutsu or jutsu of C-Rank or lower, that attempts to pass through. Any jutsu of B or A-Rank has its rank reduced by 1 when defending and reduces the damage by 200 or 50% (whichever is higher). If 50% is used that side of the barrier is destroyed.
 
 If a person would pass through the bounds of the barrier they may make a Speed 2 Interrupt to stop just outside the barrier. If the movement was forced they must make an Athletics check against a TN of 15+Knockback. Choosing to pass through the barrier deals (Research Ranks) \* (NDB) Energy Damage to the target and destroys that side of the barrier.
 

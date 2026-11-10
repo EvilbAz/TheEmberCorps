@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/polearm/"
 # Polearm Bukijutsu
 {:#polearm-bukijutsu}
 
-*A polearm keeps enemies at the tip of the weapon. Catch an approach, hold your reach and drive through a broken guard.*
+*Keep the point between you and your opponent. If they want to reach you, they have to get past it.*
 
 ## E-Rank
 {:#e-rank-12 .jutsu-rank-heading}

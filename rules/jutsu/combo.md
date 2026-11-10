@@ -214,7 +214,7 @@ Effects: You and your opponent both make Parry rolls. If your result is higher, 
 
 <span class="jutsu-rank-badge">B-Rank</span>
 
-The user of this technique launches into a sequence of strikes designed to alternately wind, disorient, and daze their opponent, combining those effects to prevent their adversary from fighting back effectively for as long as possible.
+Wind your opponent with one strike and catch them with the next before they can get their bearings.
 
 Speed: 4  
 Combo Bonus: \+1dD damage, \+1 Stamina, \+1 Speed  

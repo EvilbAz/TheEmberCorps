@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/lynx/"
 
 Role: Reaction / Counterattack
 
-Lynxes are reactive hunters built around speed, awareness and sudden retaliation. They are at their best when an enemy commits first.
+A lynx watches for the moment its quarry commits to a strike, then darts in to counter.
 
 ## Profile
 {:#profile-2}

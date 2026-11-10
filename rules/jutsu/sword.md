@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/sword/"
 # Sword Bukijutsu
 {:#sword-bukijutsu}
 
-*Sword techniques exploit an opponent’s habits. Change your angle, catch a familiar defense and finish through the opening.*
+*Watch how your opponent defends the first cut. Change the angle on the next one.*
 
 ## E-Rank
 {:#e-rank-10 .jutsu-rank-heading}

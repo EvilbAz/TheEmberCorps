@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/dual/"
 # Dual Bukijutsu
 {:#dual-bukijutsu}
 
-*With a weapon in each hand, you can draw the guard with one strike and punish it with the next.*
+*Draw their guard with one weapon. Strike with the other.*
 
 ## E-Rank
 {:#e-rank-15 .jutsu-rank-heading}
@@ -139,7 +139,7 @@ Effects: Requires two weapons. On a full hit, choose two different wound locatio
 
 <span class="jutsu-rank-badge">D-Rank</span>
 
-Two visible threats are used to split attention before the attack starts.
+Show them both blades. Make them guess which hand will strike.
 
 Rank: D  
 Stamina: 5  
@@ -152,7 +152,7 @@ Effects: Oppose the target’s Awareness with Espionage. On success, choose Dodg
 
 <span class="jutsu-rank-badge">D-Rank</span>
 
-The weapons settle into a shared rhythm, one hand recovering while the other remains live.
+As one hand recovers from a swing, the other is ready to strike.
 
 Rank: D  
 Stamina: 9  

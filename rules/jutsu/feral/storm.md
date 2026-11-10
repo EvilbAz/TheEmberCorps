@@ -10,14 +10,14 @@ permalink: "/rules/jutsu/feral/storm/"
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a><a href="{{ '/rules/jutsu/feral/' | relative_url }}">FERAL ELEMENTS ↗</a></div>
 
 
-<p class="jutsu-shared-note"><strong>Shared mechanics:</strong> Scar timing, anchoring, Fade, Overrun and Developments are in the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
+<p class="jutsu-shared-note">For Scar timing, anchoring, Fade, Overrun and Developments, see the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
 
 # STORM RELEASE
 {:#storm-release}
 
 ***Raiton → Storm | Scar: Charge***
 
-*Ordinary Raiton produces lightning. Storm Release teaches that lightning where to go next. Hair rises, metal hums and every marked creature becomes another piece of the circuit.*
+*Your hair stands on end and nearby metal hums. When the lightning strikes, it can jump from one marked creature to the next.*
 
 ## Feral Conversion
 {:#feral-conversion}

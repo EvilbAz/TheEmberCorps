@@ -11,7 +11,7 @@ permalink: "/rules/clans/"
 
 Every player character belongs to Haven Ember and serves in the Ember Corps. Heritage describes ancestry, inherited physiology, family techniques, or surviving schools of training; it does not grant citizenship or allegiance to an old Hidden Village.
 
-Choose one Primary Heritage. Mixed ancestry is valid narratively, but only your Primary Heritage grants its starting features, affinities, exclusive abilities, and clan-jutsu access unless a rule explicitly says otherwise.
+Choose one Primary Heritage. Your Hunter can have mixed ancestry. Only your Primary Heritage grants its starting features, affinities, exclusive abilities, and clan-jutsu access unless a rule explicitly says otherwise.
 
 Heritage Cost is paid from the 6 Unique Points granted at character creation. It is not a Unique, does not count toward Creation Uniques, and is not paid again later.
 
@@ -739,7 +739,7 @@ Reduce the Final Damage you take by NDB × 4, counting after all other reduction
 
 Hokori training makes the structure of solid matter unusually intuitive. As a Speed 5 Utility Action while touching an unattended solid object, terrain feature, or created barrier, you may make a Chakra Control check in place of Research, Artisan, or Survival to determine its composition, approximate thickness, hollows, seams, and obvious structural weaknesses. The GM sets the TN based on complexity.
 
-This is analysis, not supernatural omniscience. It does not reveal hidden creatures, seals, poison, ownership, history, or chakra properties you could not otherwise sense, and it grants no direct Accuracy or Damage bonus.
+Your analysis does not reveal hidden creatures, seals, poison, ownership, history, or chakra properties you could not otherwise sense, and it grants no direct Accuracy or Damage bonus.
 
 ## Abilities
 {:#abilities-18}
@@ -984,7 +984,7 @@ When you hold Red, White, and Orange at the same time, they immediately become T
 ### Vaulting Form
 {:#vaulting-form}
 
-The glaive is a weapon, walking stick, spring pole, and an extremely irresponsible answer to the question of whether hunters need terrain in order to jump.
+The glaive is a weapon, walking stick, spring pole, and an extremely irresponsible answer to the question of whether hunters need terrain to jump.
 
 You gain the following action while holding your Insect Glaive and able to move:
 
@@ -1006,7 +1006,7 @@ At Trailhand or 2,500 total XP, whichever comes first, the Corps will reforge th
 
 **Effects**
 
-Choose one Kinsect strain. This represents how your companion has been bred and trained; the exact species and appearance are cosmetic. You may change strain with one Downtime Slot if you have access to Haven Ember's breeders or an equivalent facility.
+Choose one Kinsect strain. The strain reflects how your companion was bred and trained. Choose any species and appearance you like. You may change strain with one Downtime Slot if you have access to Haven Ember's breeders or an equivalent facility.
 
 Assist \- When you hit with an Insect Glaive Attack while your Kinsect is housed, the Kinsect joins the strike. Add one additional weapon damage die. While Triple Up is active, add two weapon damage dice instead.
 
@@ -1981,7 +1981,7 @@ Heritage Cost: 1 UP
 
 *The Vanguard Corps are Haven Ember's front-line monster hunters: weapon masters trained to stand close enough to a beast to read the twitch before the charge, the shoulder before the claw, and the half-second opening after several tons of muscle commits to the wrong direction.*
 
-Where other Corps traditions are built around a bloodline, a companion, or a piece of forbidden technology, the Vanguard Corps are built around practice. Their armouries are filled with oversized blades, crushing hammers, shielded lances, transforming weapons and field repairs scarred by things that should have killed the person holding them.
+Vanguard Hunters learn their trade through practice. Their armouries hold oversized blades, crushing hammers, shielded lances and transforming weapons. Most still carry the marks of field repairs.
 
 Vanguard training covers weapon forms suited to different openings in a monster’s attacks.
 
@@ -2044,7 +2044,7 @@ Certain Disciplines grant Vanguard Guard. While you have Vanguard Guard, you may
 
 **Qualifying Weapon:** Large or Extreme Two-Handed Sword.
 
-Great Sword hunters accept that they will not swing often. The entire style is built around making the swing that matters.
+A Great Sword takes time to swing. Pick an opening worth the wait.
 
 ● \[Speed 3, Stamina 4, Utility\] Charge — Gain Charge 1, to a maximum of Charge 3\. If you voluntarily move more than 2 yards, make an Attack without consuming Charge, change weapons, or stop wielding the Great Sword, lose all Charge.
 
@@ -2920,7 +2920,7 @@ Ballistic Hunters maintain their own magazines, barrels and seal plates, adaptin
 
 Only characters with the Ballistic Corps Heritage may wield a weapon with the Firearm or Ballistic tag unless a rule explicitly states otherwise.
 
-This is a hard Heritage restriction. Characters without this Heritage cannot make Ballistic Attacks, Reload or Brace a firearm, benefit from Ballistic Attachments, use specialist Ballistic ammunition, or use Ballistic Modifications. They may carry, sell, transport or study the equipment, but possessing it never grants access to its combat rules. General Equipment access never overrides this restriction unless a rule explicitly names the Ballistic Corps restriction.
+Characters without this Heritage cannot make Ballistic Attacks, Reload or Brace a firearm, benefit from Ballistic Attachments, use specialist Ballistic ammunition, or use Ballistic Modifications. They may carry, sell, transport or study the equipment, but possessing it never grants access to its combat rules. General Equipment access never overrides this restriction unless a rule explicitly names the Ballistic Corps restriction.
 
 A Ballistic Weapon is a ranged Weapon. It uses the normal Attack and ranged-defense rules, but does not add Physical Damage Bonus. Instead, Ballistic Attacks add Ballistic Damage Bonus (BDB) equal to DEX / 24, rounded as normal.
 
@@ -3648,7 +3648,7 @@ Requires 5,000 total XP and Heavy. Increase Damage by \+2 Damage Dice and Durabi
 ## Ballistic Ammunition
 {:#ballistic-ammunition}
 
-A weapon may only load ammunition listed in its Compatible Ammo line or granted by one of its Modifications. A Load fills one magazine regardless of the weapon's exact Magazine value; this is an abstraction for play.
+A weapon may only load ammunition listed in its Compatible Ammo line or granted by one of its Modifications. A Load fills one magazine regardless of the weapon's exact Magazine value.
 
 ### Standard Load
 {:#standard-load}
@@ -4421,7 +4421,7 @@ Your internal reserve is 20 gallons. You recover all missing internal gallons af
 
 **Effects**
 
-Fire a compressed droplet from one fingertip. It ignores 20% Armor Absorption. If this attack is a Surprise attack, it deals 20% additional damage for the purposes of determining wounds. If this attack is a *Sneak Attack* it is considered speed 1+G  for the purposes of determining defences.
+Fire a compressed droplet from one fingertip. It ignores 20% Armor Absorption. If this attack is a Surprise attack, it deals 20% additional damage when determining wounds. If this attack is a *Sneak Attack* it is considered speed 1+G  when determining defences.
 
 ### Suika no Jutsu - Hydration Technique
 {:#suika-no-jutsu-hydration-technique .jutsu-technique}
@@ -8369,7 +8369,7 @@ Skeletal Modifications: Any three.
 ### The Curse of Hatred
 {:#the-curse-of-hatred}
 
-The Uchiha Clan have always had a strong connection to others. You are no different than the rest. Your emotions often overwhelm you, and you find yourself in places where you feel like the entire world is against you \- even when everything around you says otherwise. Whenever an ally within your line of sight suffers a Wound, you may designate the enemy responsible as the object of your hatred. Until that enemy is defeated, you gain \+2 Accuracy against them and your attacks against them deal \+10% Final Damage. However, you suffer \-2 Dodge against attacks from all other enemies. If the wounded ally is someone with whom you have an established in-character bond, your first attack against the responsible enemy also gains \-2 Final Speed, but counts as its base speed for the purposes of dealing damage.
+The Uchiha Clan have always had a strong connection to others. You are no different than the rest. Your emotions often overwhelm you, and you find yourself in places where you feel like the entire world is against you \- even when everything around you says otherwise. Whenever an ally within your line of sight suffers a Wound, you may designate the enemy responsible as the object of your hatred. Until that enemy is defeated, you gain \+2 Accuracy against them and your attacks against them deal \+10% Final Damage. However, you suffer \-2 Dodge against attacks from all other enemies. If the wounded ally is someone with whom you have an established in-character bond, your first attack against the responsible enemy also gains \-2 Final Speed, but counts as its base speed when calculating damage.
 
 You may only have one object of hatred at a time.
 

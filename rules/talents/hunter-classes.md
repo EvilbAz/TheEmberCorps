@@ -35,7 +35,7 @@ Hunters trained to bring down dangerous creatures.
 ##### Bring it Down
 {:#bring-it-down}
 
-Treat damage you deal as 25% higher for Wound determination only.
+When determining Wounds, treat the damage you deal as 25% higher. This applies only to that calculation.
 
 #### Anchor
 {:#anchor}

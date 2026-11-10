@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/roc/"
 
 Role: Mobility / Rescue
 
-Rocs are aerial control monsters. They trade raw durability for flight, transport, diving attacks and the ability to reposition allies or enemies.
+A roc carries allies through the air and dives on its quarry. It can shift enemies out of position, but takes a beating poorly.
 
 ## Profile
 {:#profile-8}

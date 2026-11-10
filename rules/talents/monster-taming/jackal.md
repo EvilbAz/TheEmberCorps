@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/jackal/"
 
 Role: Pursuit / Tracking
 
-Jackals are relentless pursuit hunters. They excel at tracking, repositioning around wounded prey, and turning a retreat into a bad decision.
+A jackal tracks wounded prey and circles it when it tries to pull away.
 
 ## Profile
 {:#profile}

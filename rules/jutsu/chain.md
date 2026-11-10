@@ -145,7 +145,7 @@ Effects: If the target is in your Weapon Grapple, this technique gains Trapping 
 
 <span class="jutsu-rank-badge">D-Rank</span>
 
-The chain separates into several committed lines, each loop hunting a different limb or body as the user works the weapon across the field.
+You swing the chain in loops, catching at different limbs or reaching for several opponents at once.
 
 Rank: D  
 Stamina: \+13  
@@ -172,7 +172,7 @@ Effects: Anchor the chain around scenery or change its attack angle. Your next C
 
 <span class="jutsu-rank-badge">D-Rank</span>
 
-The weapon is coiled into a defensive orbit close enough to parry melee attacks while still threatening at range.
+Keep the chain circling close enough to catch a blow, with enough slack to strike at range.
 
 Rank: D  
 Stamina: 9  

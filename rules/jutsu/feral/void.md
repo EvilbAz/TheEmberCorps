@@ -10,14 +10,14 @@ permalink: "/rules/jutsu/feral/void/"
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a><a href="{{ '/rules/jutsu/feral/' | relative_url }}">FERAL ELEMENTS ↗</a></div>
 
 
-<p class="jutsu-shared-note"><strong>Shared mechanics:</strong> Scar timing, anchoring, Fade, Overrun and Developments are in the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
+<p class="jutsu-shared-note">For Scar timing, anchoring, Fade, Overrun and Developments, see the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
 
 # VOID RELEASE
 {:#void-release}
 
 ***Non-Elemental → Void | Scar: Null***
 
-*Void is the sixth Feral Element only by convenience. It has no nature of its own. It is raw chakra trained to make other chakra lose coherence.*
+*Hunters count Void as the sixth Feral Element for convenience. It has no nature of its own. You use raw chakra to disrupt other chakra.*
 
 ## Feral Conversion
 {:#feral-conversion}

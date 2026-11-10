@@ -10,7 +10,7 @@ permalink: "/rules/wounds/"
 <div class="reference-directory wounds-directory">
   <div class="reference-kicker">CORE RULES / QUICK REFERENCE</div>
   <h1>Wounds</h1>
-  <p class="reference-lead">A dedicated reference for wound severity, damage types, locations, recovery, and every wound result. Use the links below to jump straight to the table you need.</p>
+  <p class="reference-lead">Find the severity of the hit, then look up the Wound by damage type and location.</p>
   <div class="reference-jumps">
     <a href="#explanation">Wound Rules</a>
     <a href="#blunt">Blunt</a>

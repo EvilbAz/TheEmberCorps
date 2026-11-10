@@ -138,7 +138,7 @@ Effects: You are Clinching your opponent. X is the number of times you've succes
 
 <span class="jutsu-rank-badge">E-Rank</span>
 
-A simple move, extending your arm out to force your opponent's dominant hand against their chest and limit its mobility.
+Pin your opponent’s dominant hand against their chest with your arm.
 
 Stamina: 15  
 Speed: 6  

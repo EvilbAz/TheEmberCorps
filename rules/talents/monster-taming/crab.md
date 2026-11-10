@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/crab/"
 
 Role: Defence / Grapple
 
-Crabs are defensive controllers. Their shell and pincers dominate narrow spaces, punish movement and hold targets in place.
+A crab can hold a narrow passage with its shell facing the enemy and its pincers ready for anything that tries to squeeze past.
 
 ## Profile
 {:#profile-19}

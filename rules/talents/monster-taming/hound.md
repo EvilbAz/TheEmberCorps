@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/hound/"
 
 Role: Tracking / Teamwork
 
-Hounds are reliable hunting partners. They specialize in scent, teamwork, takedowns and protecting the person they have accepted as their handler.
+A hound follows a scent, brings prey down with its handler and stays close when its handler needs protecting.
 
 ## Profile
 {:#profile-20}

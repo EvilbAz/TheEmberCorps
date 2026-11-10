@@ -15,7 +15,7 @@ permalink: "/rules/talents/monster-taming/beetle/"
 
 Role: Siege / Defence
 
-Beetles are armoured laborers and siege bodies. They trade speed for carrying power, stubborn defence, burrowing and horn-driven control.
+Beetles haul heavy loads, dig through earth and use their horns to shift whatever blocks the way. Their shells make up for their slow pace.
 
 ## Profile
 {:#profile-13}

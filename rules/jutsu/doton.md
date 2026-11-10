@@ -15,7 +15,7 @@ permalink: "/rules/jutsu/doton/"
 
 Earth (Doton)
 
-In the rare situation that there is no earth available (such as on a boat or space), these jutsu are very difficult to use. A few may remain usable (if, for example, they involve you regurgitating huge amounts of mud, instead of manipulating the environment), but most will not. If you are in such a situation, then you’ll need to supply enough chakra to create the earth yourself and account for this, increasing the base cost of any Doton jutsu used by \+5.
+On a boat or anywhere else without earth, most Doton techniques have nothing to work with. Some already supply their own material, like jutsu that have you spit up mud. Without earth, any Doton jutsu you use costs \+5 base Chakra to create the earth yourself.
 
 ## E-Rank
 {:#e-rank-5 .jutsu-rank-heading}
@@ -136,7 +136,7 @@ Against ranged attacks, mud clones can take 50 points of damage before being des
 
 <span class="jutsu-rank-badge">D-Rank</span>
 
-Using the dirt around you to create a mud like substance around your torso, your arms, and your chest. It acts as a powerful medium and can be activated with chakra in order to cause people to stick to you.
+Using the dirt around you to create a mud like substance around your torso, your arms, and your chest. It acts as a powerful medium and can be activated with chakra to cause people to stick to you.
 
 Chakra: 12  
 Upkeep: 4  
@@ -279,7 +279,7 @@ Upkeep: 5
 Speed: 6  
 Seal Speed: 15  
 Tags: Utility, Self, Aura  
-Effects: You increase your AGI stat for the purposes of movement by CHA/2. You may choose to end this technique at any time, or as part of a D rank or higher damage dealing Doton jutsu. If you end it as part of a jutsu, that technique gains a Stun equal to 2+(your ninjutsu damage bonus)/3, or increases its existing Stun by that much, from absorbing the mud used in this technique.
+Effects: You increase your AGI stat for movement by CHA/2. You may choose to end this technique at any time, or as part of a D rank or higher damage dealing Doton jutsu. If you end it as part of a jutsu, that technique gains a Stun equal to 2+(your ninjutsu damage bonus)/3, or increases its existing Stun by that much, from absorbing the mud used in this technique.
 
 This is incompatible with effects which increase your normal movement speed--such as the Runner ability, and Racing Thunder Technique. While Mud Wave is active, you do not receive their benefits.
 

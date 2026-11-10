@@ -10,14 +10,14 @@ permalink: "/rules/jutsu/feral/cinder/"
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a><a href="{{ '/rules/jutsu/feral/' | relative_url }}">FERAL ELEMENTS ↗</a></div>
 
 
-<p class="jutsu-shared-note"><strong>Shared mechanics:</strong> Scar timing, anchoring, Fade, Overrun and Developments are in the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
+<p class="jutsu-shared-note">For Scar timing, anchoring, Fade, Overrun and Developments, see the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
 
 # CINDER RELEASE
 {:#cinder-release}
 
 ***Katon → Cinder | Scar: Ash***
 
-*Katon is about the flame. Cinder Release is about what survives it. Soot, embers and half-dead fire turn the battlefield into fuel for the next ignition.*
+*Soot and embers cling to the ground after the flames die down. A Cinder Hunter can set them alight again.*
 
 ## Feral Conversion
 {:#feral-conversion}
