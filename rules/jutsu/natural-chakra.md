@@ -864,7 +864,7 @@ Summons — A Summon does not gain its summoner's Natural Chakra Talent. Sage cr
 
 Modes — Sage Mode may coexist with another Mode unless either effect says otherwise.
 
-Genjutsu — Sage Mode does not inherently increase Genjutsu Accuracy or damage. Sage sensory effects may help locate a Genjutsu user but do not automatically identify or break a Genjutsu.
+Genjutsu — Sage Mode does not inherently increase Genjutsu Accuracy or damage. Sage Sense can locate the caster with Awareness or Survival. Use the normal Genjutsu Defense roll to recognize an illusion, even if you have already found its caster.
 
 Senjutsu — Senjutsu is a tag for an effect empowered by balanced Natural Chakra.
 

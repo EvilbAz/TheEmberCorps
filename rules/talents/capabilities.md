@@ -57,7 +57,7 @@ Shadow Screen — After you successfully Dodge an Attack, you may exchange posit
 
 Memory Relay — When a Kage Bunshin is dismissed, you may deliberately review what it learned. Once per Hunt or Mission, a clone that spent meaningful time scouting, studying, or observing may grant +3 to one subsequent Research, Study Weakness, Awareness, Survival, or Espionage roll based on that information. This does not generate additional Intel by itself.
 
-Legion Method — When creating three or more Kage Bunshin at once, reduce the total Chakra cost of the technique by 10%, minimum 1.
+Legion Method — When creating three or more Kage Bunshin at once, reduce their combined Kage Bunshin Upkeep by 10% (round the final cost up, minimum 1) while at least three from that casting remain.
 
 Perfect Double — While you are maintaining exactly one Kage Bunshin, that clone gains +2 on Defensive Rolls and +2 Accuracy on its Attacks.
 

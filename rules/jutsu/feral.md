@@ -37,6 +37,8 @@ Void Release requires access to B-Rank Non-Elemental Ninjutsu.
 
 When declaring a C-Rank or higher Ninjutsu of the matching base nature, you may Feralize it. The Jutsu keeps its normal tags and gains its Feral Release tag. Abyss remains Suiton, Storm remains Raiton, Glass remains Doton, Vacuum remains Fūton and Cinder remains Katon for elemental interactions. Void remains Non-Elemental.
 
+A Scar alone cannot break Genjutsu. If a Scar effect inflicts a real Wound, resolve the normal Wound release for that victim.
+
 Feral Conversion applies to Jutsu with a target, Area, Construct, Barrier, weapon or persistent effect that the Release can scar or transform.
 
 ## Feral Intensity

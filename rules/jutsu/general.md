@@ -191,9 +191,7 @@ Chakra: 10 \+ X
 Speed: 8  
 Seal Speed: 5  
 Tags: Utility  
-Effects: This can be done on yourself, or someone else, but you must be able to touch the other person when performing the jutsu. This allows the person it's used on to make another roll against a Genjutsu affecting them, with a bonus of X. X has a limit of (5+XP/300). You also gain an additional \+2 for every time you’ve used genjutsu kai in a row.
-
-Against an Area Genjutsu, the user instead rolls Genjutsu Defense against the caster's original Genjutsu Offense. On success, the Area Genjutsu is dispelled in its entirety. This can be attempted on behalf of an affected ally even before that ally Realizes the illusion.
+Effects: Choose one illusion you have recognized on yourself, or touch another victim to help them. Choose X up to 5 + your XP/300. The victim rolls Genjutsu Defense + X against the original Offense. On a tie or better, they escape. Against an Area illusion, the Kai user rolls instead. Success dispels that casting for everyone. Use the roller’s own familiarity bonus.
 
 #### Haruka Bakuhatsu no Jutsu - Remote Detonation Technique
 {:#haruka-bakuhatsu-no-jutsu-remote-detonation-technique .jutsu-technique}

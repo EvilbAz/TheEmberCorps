@@ -345,7 +345,7 @@ A shinobi who knows a C-rank or higher Fūinjutsu can find the mark by examining
 While you have a target marked by Tsuiseki Fuuin \- Tracking Seal you gain the following action:
 
 Seek (Speed 20, Delay 10, Chakra 15\)  
-You learn the direction and approximate distance to the person you're tracking. In combat this allows you to make a free search action that ignores any external awareness penalties affecting you with a \+10 bonus.
+You learn the direction and approximate distance to the person you're tracking. Seek requires you to stay still while it resolves. It gives a bearing even in combat, but cannot pinpoint a hidden creature or replace a Search.
 
 ## B-Rank
 {:#b-rank-20 .jutsu-rank-heading}

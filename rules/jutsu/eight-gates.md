@@ -58,7 +58,7 @@ Each Action with a Stamina or Chakra cost while the Gates are open has the follo
 
 For example, with Gate 2 open, a Speed 8 unarmed attack reduced to Speed 4 by spending 4 AP gives a self-wounding chance of (5 × 2) + 4 + 4 = 18%. Roll 1d100; a result of 18 or lower inflicts a Wound.
 
-These Wounds cannot normally be prevented or reduced in severity. Perfected Release explicitly permits one reduction per battle for Gate 6 or lower. The gates inflict Blunt wounds. When you suffer one, roll for location.
+These Wounds cannot normally be prevented or reduced in severity. Perfected Release explicitly permits one reduction per battle for Gate 6 or lower. Gate Wounds count as real Wounds for breaking Genjutsu. The gates inflict Blunt wounds. When you suffer one, roll for location.
 
 The first wound you suffer on a given location in a single week (real-world day) from the gates is a Minor wound. The second is a Major, the third a Severe, and the fourth a Critical.
 

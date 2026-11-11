@@ -127,11 +127,11 @@ While in a grapple this modifies an attack turning it into a grapple jutsu. You 
 
 You grab onto an opponent, with the intent to not let go\! It's not normally a preferred method of fighting among ninja, but it defines the fighting style of specialized users.
 
-Stamina: 8 \+ 2\*X  
+Stamina: 6 on a miss, 12 on a hit  
 Accuracy: \+2  
 Speed: 12  
 Tags: Attack, Melee  
-Effects: You are Clinching your opponent. X is the number of times you've successfully initiated a grapple in this fight.
+Effects: On a hit, you and the target enter a Clinch.
 
 #### Ude Osae - Arm Pin
 {:#arm-pin .jutsu-technique}

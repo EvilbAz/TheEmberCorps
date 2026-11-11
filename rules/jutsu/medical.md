@@ -62,10 +62,10 @@ By touching someone and sending pulses of chakra throughout the recipient's tenk
 
 Chakra: 10  
 Range: Touch  
-Speed: 10, Delay 10  
+Speed: 8, Delay 8  
 Requires: Willing Target  
 Tags: Utility  
-Effects: This gives a \+5 bonus to any Medicine rolls to treat a person using mundane means (such as a First Aid kit). You also know a target's Fatigue level, percent of remaining HP and Vitality, any wounds they're suffering from, any illnesses they have, any poisons they're afflicted with, and any other health issues they may be suffering from. These are in general terms, for example from an in-character perspective a fatigue 5 would be exhausted almost to the point of running out of chakra or passing out.
+Effects: This gives a +10 bonus to any Medicine rolls to treat a person using mundane means (such as a First Aid kit). You also know a target's Fatigue level, percent of remaining HP and Vitality, any wounds they're suffering from, any illnesses they have, any poisons they're afflicted with, and any other health issues they may be suffering from. These are in general terms, for example from an in-character perspective a fatigue 5 would be exhausted almost to the point of running out of chakra or passing out.
 
 #### Shiketsu no Jutsu - Tourniquet Technique
 {:#shiketsu-no-jutsu-tourniquet-technique .jutsu-technique}

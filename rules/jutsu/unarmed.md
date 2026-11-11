@@ -45,7 +45,7 @@ A subtle trick that almost every ninja knows--and knows how to detect. Still, th
 Stamina: \+2  
 Speed: \+2  
 Tags: Link  
-Effects: This is added to any other melee-range Unarmed or Combo Attack, and increases that action's Stamina and Speed by 2 each. Make an opposed Espionage roll; if you beat their result, you've tricked them with your feint. If successful, this triples the Speed of their defensive action for the purpose of determining when they'll act next.
+Effects: This is added to any other melee-range Unarmed or Combo Attack, and increases that action's Stamina and Speed by 2 each. Make an opposed Espionage roll; if you beat their result, you've tricked them with your feint. If successful, this doubles the final Speed of their defensive action for the purpose of determining when they'll act next.
 
 This doesn't prevent it from being a valid Interrupt against your attack.
 

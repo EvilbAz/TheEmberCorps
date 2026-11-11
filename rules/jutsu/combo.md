@@ -25,7 +25,7 @@ permalink: "/rules/jutsu/combo/"
 ### Combos
 {:#combos}
 
-A combo starts with a **Combo Counter (CC) of 0**, tracked against one target. Each hit with a Combo-tagged jutsu increases CC by 1. Multiply the technique’s Cadence (listed as Combo Counter) by your CC and apply it to the attack. For example, +1dX damage and −1 Speed per CC grants +3dX damage and −3 Speed at CC 3, and no benefit at CC 0.
+A combo starts with a **Combo Counter (CC) of 0**, tracked against one target. Use the CC you had when you declared the attack. After a Combo-tagged jutsu hits, increase CC by 1. Multiply the technique’s Cadence (listed as Combo Counter) by your CC and apply it to the attack. For example, +1dX damage and −1 Speed per CC grants +3dX damage and −3 Speed at CC 3, and no benefit at CC 0.
 
 An Opener’s **Momentum** lasts until the combo ends and applies only to Combo-tagged jutsu, not Finishers.
 
@@ -41,7 +41,7 @@ During a combo, you may use a new Opener to change its Momentum. The new Opener 
 
 When a Combo ends, remove its Counter and bonuses. It ends when:
 
-- You make any action without the Combo Tag, or the Wait action
+- You Wait or take an action without the Combo tag, except when switching Openers as described above.
 
 - You use any interrupt requiring seals.
 
@@ -63,7 +63,7 @@ Hitting a clone of your intended target does not break your combo, but it does n
 
 A rapid sequence of attacks keeps the opponent under pressure.
 
-Combo Counter: \+2dD damage, \-1 Speed, \+1/2 Stamina  
+Combo Counter: +1dD damage, −1 Speed  
 Tags: Combo
 
 #### Yaburi Yashi - Smashing Palm

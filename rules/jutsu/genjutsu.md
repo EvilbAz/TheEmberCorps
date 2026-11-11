@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/genjutsu/"
 # Genjutsu
 {:#genjutsu}
 
-Genjutsu changes what a target perceives. The user can hide an object, sell a false opening, or make an opponent hesitate. Each combat illusion gives the victim a point at which they can recognize it and attempt Kai.
+Genjutsu changes what a target perceives. The user can hide an object, sell a false opening, or make an opponent hesitate. Roll once when the illusion takes hold and keep the result for anyone who later tries to break it.
 
 ### Requirements
 {:#requirements-3}
@@ -35,37 +35,30 @@ A Warden or Legend also qualifies to learn C-rank Genjutsu, provided they posses
 ### Genjutsu Rolls
 {:#genjutsu-rolls}
 
-When using Genjutsu the caster has their Genjutsu Offense and anyone interacting with it (explained below) must roll Genjutsu Defense to defend against it. Though defense is not always rolled immediately.
+Roll Genjutsu Offense once per casting. Each target rolls its own Genjutsu Defense when the technique calls for it. The defender wins ties. Apply the technique’s listed Accuracy, modifiers to the relevant Genjutsu roll, modifiers to all d20 rolls, and the usual offensive or defensive Fatigue penalty.
 
 \[M3\] Genjutsu Off: 1d20 \+ XP/400 \+ Abilities/Uniques
 
 \[M4\] Genjutsu Def: 1d20 \+ XP/200 \+ Abilities/Uniques
 
-All Genjutsu fall under 3 types. Direct, Indirect, and Area which dictates how the illusion takes hold. Each Jutsu has a tag of the corresponding type. A Genjutsu Attack's listed Accuracy modifies Genjutsu Offense. A Genjutsu status or Special effect applies on a full Genjutsu hit; do not make a second Chakra Control status roll unless the Jutsu explicitly requires one:
+**Direct.** The target defends when you cast. Only they perceive the illusion.
 
-Direct: Genjutsu with this tag directly target an opponent affecting only their perception and are imperceivable to others. Choose a target in range, they must roll their Genjutsu Defense vs your Offense.
+**Indirect.** Follow the entry for what gives the illusion away and who rolls. An observer inspecting a false object may use a different skill.
 
-Indirect: These jutsu often rely on subtlety and usually affect objects. Each jutsu dictates when Genjutsu Defense is rolled, if at all.
-
-**Area:** Rather than targeting a specific person or object you use a thin layer of chakra to create a zone designed to fool anyone inside. However, they are more fragile and prone to breaking. Each jutsu dictates when Genjutsu Defense is rolled.
-
-A Genjutsu's Duration begins when the technique successfully takes effect, not when the victim realizes they are trapped. It ends when that Duration expires, even if the victim has not realized it. If an entry specifies its own effect duration instead of a Duration field, use that duration. A Genjutsu with Upkeep but no listed Duration lasts while that Upkeep is maintained unless its Effects state otherwise.
-
-Additionally, each time a genjutsu is successfully used against you in combat, you have a (cumulative) \+3 bonus to defensive rolls against that specific jutsu for the rest of the battle.
+**Area.** Roll Offense once and compare it with each eligible creature’s Defense. Track victims separately. A full hit applies the listed effects without a second status roll unless the entry calls for one.
 
 ### Breaking Genjutsu
 {:#breaking-genjutsu}
 
-By their nature, it's hard to realize that one is suffering from the effects of a genjutsu technique. It's possible to be afflicted by a genjutsu that you know and use frequently, with obvious 'tells', and still mistake it for reality--such is the nature of delusions.
+**Recognition.** On the initial roll, if your Defense fails by 1–5, the illusion takes hold but you Realize immediately. If you fail by 6 or more, you believe it. Waiting alone doesn’t reveal it. Follow any special opportunities in the entry, such as observing a Haze Clone. For Hell Viewing and other entries that scale with hit margin, X is that margin unless the entry defines it differently. To find it, subtract the target’s Defense from the original Offense.
 
-Every combat Genjutsu states when its victim Realizes the illusion. For Realizes entries, X means the margin by which the user's Genjutsu Offense beat that target's Genjutsu Defense, unless the entry defines another variable. Realization cannot occur later than the technique's remaining Duration; if its Duration ends first, the illusion ends without a separate Realize action. Once the target Realizes, they may attempt Genjutsu Kai or any special escape method explicitly listed by that technique. Merely realizing an illusion does not end it.
+**Kai.** Once you Realize, you can use [Genjutsu Kai]({{ '/rules/jutsu/general/#genjutsu-kai-genjutsu-release' | relative_url }}). An ally can use Kai by touch even before you Realize. Recognizing an illusion gives you a chance to act. Its effects continue until you escape.
 
-An illusory Wound applies the listed penalties to its victim. It deals no HP damage, cannot trigger benefits or releases that require a real Wound, and leaves no Wound to heal. Where real and illusory Wounds or multiple illusory Wounds impose the same penalty at the same location, use the strongest. Conditions caused by an illusory Wound end with the illusion.
+**Familiarity.** After a casting takes hold in combat, gain +5 on subsequent defensive rolls against that named technique for the rest of the battle, including your own Kai roll. This stacks once per successful casting, even across different casters. A recognition check or release attempt adds no further bonus.
 
-Most Genjutsu can end in three ways:  
-- Genjutsu Kai: a victim may attempt it after Realizing, and another creature may use it on a victim whether or not the victim has Realized.  
-- A real Major or higher Wound immediately ends Direct Genjutsu affecting that victim, whether or not they have Realized, unless the affected technique expressly says that Wounds do not end it.  
-- The listed Duration expires or the caster stops paying Upkeep. These clocks begin on application, not realization.
+**Wounds.** When you suffer a real Wound of any severity, immediately end each Genjutsu affecting you unless its entry says otherwise. Other victims remain affected. An illusory Wound causes the listed penalties and related conditions, deals no HP damage, and triggers no benefit or release that needs a real Wound. At the same location, use the strongest overlapping penalty. Conditions caused by the illusion end with it.
+
+**Duration.** Count from the IC the technique takes effect. It ends when its Duration expires or its Upkeep stops. A Genjutsu cast in combat also ends when combat ends. Maintained Area illusions other than Clones, sleep, Fog of War, illusions requiring a helpless subject, and techniques that inflict Stun follow their own duration instead.
 
 ## E-Rank
 {:#e-rank-18 .jutsu-rank-heading}
@@ -86,7 +79,6 @@ Duration: 40 IC
 Tags: Utility, Area  
 Effects: When you cast, choose which creatures currently inside the Area hear the distractions. Roll Genjutsu Offense once. Each chosen creature defends immediately. On a failure it suffers −2 Awareness and halves its bonus for consecutive Searches (round up) while inside. Leaving suspends the penalties; returning before the Duration ends restores them for a still-affected victim. Once a creature escapes the illusion, re-entry does not affect it again.
 
-Realizes: 10 + 2×X IC
 
 #### Mousou Enmu no Jutsu - Illusory Mist Technique
 {:#mousou-enmu-no-jutsu-illusory-mist-technique .jutsu-technique}
@@ -102,9 +94,8 @@ Speed: 8
 Seal Speed: 10  
 Duration: 30 IC  
 Tags: Attack, Area, Environmental  
-Effects: Choose which creatures in the Area perceive the false mist. Each chosen creature rolls Genjutsu Defense against your Genjutsu Offense. On a failure, it suffers \-2 Visibility for the Duration. The illusion does not penalize Genjutsu Defense; ordinary wind cannot disperse it, but Genjutsu Kai and normal expiration work as usual.
+Effects: The mist moves with you. Choose creatures inside it when you cast. Each defends once. A victim takes −4 Visibility and −2 Genjutsu Defense while inside the mist, starting after the initial roll. Leaving suspends both penalties. They return if the victim re-enters before the illusion ends. Wind cannot disperse the mist.
 
-Realizes: 5 \+ X IC
 
 #### Senpuku no Jutsu - Concealment Technique
 {:#senpuku-no-jutsu-concealment-technique .jutsu-technique}
@@ -139,7 +130,6 @@ Seal Speed: 12
 Tags: Utility, Area  
 Effects: Choose N targets within the Area (N is the number of targets, minimum 1). Each target rolls Genjutsu Defense against your Offense. On a failure, you enter Stealth against that target and its Search rolls to find you suffer a penalty equal to its margin of failure (M). While hidden this way, ranged-weapon, basic-weapon and unarmed Attacks reduce your Stealth TN by 3 instead of ending Stealth; other Attacks reduce it by 3 × Jutsu Rank. Once a creature finds you, the illusion has no further effect on that creature. The technique ends when no affected targets remain.
 
-Realizes: 3×M IC (calculate M separately for each target)
 
 #### Magen: Jigoku Kouka no Jutsu - Demonic Illusion: Descending Hell Technique
 {:#magen-jigoku-kouka-no-jutsu-demonic-illusion-descending-hell-technique .jutsu-technique}
@@ -156,7 +146,6 @@ Seal Speed: 13
 Duration: 20 IC  
 Tags: Attack, Area  
 Effects: Choose creatures in Area; each rolls Genjutsu Defense against the caster's Offense on application. Victims perceive a descending fireball. Exactly 20 IC after the Jutsu resolves, reduced by your Genjutsu Mastery ranks (minimum 10 IC), the fireball appears to land. Victims still inside the original Area who have not escaped the illusion suffer Stun 10\. Leaving the Area before impact avoids the Stun. Its countdown begins on application; realizing the illusion does not restart it.  
-Realizes: 5 \+ X IC
 
 #### Magen: Narakumi no Jutsu - Demonic Illusion: Hell Viewing Technique
 {:#magen-narakumi-no-jutsu-demonic-illusion-hell-viewing-technique .jutsu-technique}
@@ -174,7 +163,6 @@ Duration: 20 IC
 Tags: Attack, Direct  
 Effects: On a full hit, inflict Stun 3 + X, up to Stun 8. After the first time the target is affected each day, use Stun X, up to Stun 5. Once per day per target, a margin of 10 or more also costs the victim 1 Willpower. Having no Willpower left does not increase the Stun.
 
-Realizes: 5 \+ X IC
 
 #### Oboro Bunshin no Jutsu - Haze Clone Technique
 {:#oboro-bunshin-no-jutsu-haze-clone-technique .jutsu-technique}
@@ -224,7 +212,7 @@ Chakra: 18
 Range: 40  
 Speed: 12  
 Seal Speed: 14  
-Duration: 1 Day
+Duration: 30 minutes per point of hit margin
 
 Tags: Attack, Direct  
 Effects: Someone affected by this technique will find themselves (and their group if they are guiding) continually walking in circles if they try to travel any appreciable distance (half a mile or more). Every hour, they're allowed a new Genjutsu Defense roll against your original result, to see if they notice the effects (although this will not break the technique on its own).
@@ -269,7 +257,6 @@ Effects:
 On a full hit, for 20 IC the target treats all hostile creatures as 3 yards farther from or closer to them, chosen when cast, for Range and Move-with-Attack calculations.
 
 This does not physically move anyone, change AoE locations or create physical barriers. Once the victim Realizes, it may use Genjutsu Kai to escape as normal; Realizing alone does not end it.  
-Realizes: 8 \+ X IC
 
 #### Magen: Maboroshi Kizu - Phantom Pain
 {:#magen-maboroshi-kizu-phantom-pain .jutsu-technique}
@@ -289,8 +276,7 @@ Effects:
 
 Choose Head, Torso, Arm, or Leg. On a full hit, for 20 IC the target suffers the effect of a Minor Wound in that location without actually receiving a Wound.
 
-This cannot stack with a real Wound in the same location; apply whichever penalty is worse. Its Stun 4 applies on a full Genjutsu hit. A real Major Wound, Genjutsu Kai after Realizing, or the 20 IC effect duration ends the illusion.  
-Realizes: 5 \+ X IC
+This cannot stack with a real Wound in the same location; apply whichever penalty is worse. Its Stun 4 applies on a full Genjutsu hit. The illusion lasts up to 20 IC.  
 
 #### Nemuri - Sleep
 {:#nemuri-sleep .jutsu-technique}
@@ -320,10 +306,9 @@ Upkeep: 15
 Speed: 25  
 Seal Speed: 20  
 Duration: 30 IC  
-Special: Costs 1 Willpower  
+Special: Requires 2 available Willpower. Spend them only on a hit.  
 Tags: Attack, Direct  
 Effects: The target rolls Genjutsu Defense against your Offense. On a full hit, it perceives a convincing false combat or escape and cannot take normal non-defensive Actions while affected. After Realizing, it may attempt Genjutsu Kai. If actual danger threatens it (an incoming Attack, a nearby explosive, or similar), the illusion ends immediately before that danger resolves, and the target may defend normally. The 30 IC Duration begins when this Jutsu takes effect.  
-Realizes: 4×X IC
 
 #### Shunou Kaimetsu - Brain Destruction
 {:#shunou-kaimetsu-brain-destruction .jutsu-technique}
@@ -339,15 +324,14 @@ Speed: 20
 Seal Speed: 18  
 Duration: 70 \- 10×Y IC  
 Tags: Attack, Direct  
-Effects: Choose a damage type before Genjutsu Defense is rolled. On a full hit, the victim suffers one illusory Wound of that type at a randomly rolled location: Major if its Genjutsu Defense failed by 5+, otherwise Minor. Y is the illusory Wound severity (Minor 1, Major 2). Determine Upkeep and Duration from Y after the hit resolves. X in Realizes is the Genjutsu hit margin.
+Effects: Choose a damage type before Genjutsu Defense is rolled. On a full hit, the victim suffers one illusory Wound of that type at a randomly rolled location: Minor on a margin of 1–4, Major on 5–9, or Severe on 10 or more. Y is 1, 2 or 3 respectively. Use Y for Upkeep and Duration.
 
 The victim suffers that illusory Wound's normal penalties and directly caused statuses, but it does not reduce HP or create a real Wound. Healing or Wound-ignoring abilities may suppress its penalties at their normal cost; those resources remain spent when the illusion ends, but healing cannot end this Genjutsu by itself.
 
-Statuses directly created by the illusory Wound end when the Genjutsu ends. Real Fatigue accumulated while acting under its penalties does not disappear. The illusion cannot directly cause death or permanent unconsciousness. A real Major or higher Wound ends it under the normal Direct Genjutsu rule.
+Statuses directly created by the illusory Wound end when the Genjutsu ends. Real Fatigue accumulated while acting under its penalties does not disappear. The illusion cannot directly cause death or unconsciousness. Any real Wound ends it under the usual Wound rule.
 
 A new Brain Destruction on the same victim replaces the previous one.
 
-Realizes: 5 \+ X IC
 
 ## B-Rank
 {:#b-rank-18 .jutsu-rank-heading}
@@ -369,9 +353,25 @@ Duration: 20
 Tags: Attack, Area  
 Effects: Choose creatures within Area; each makes Genjutsu Defense against the caster's Offense. On a failure, the victim suffers \-4 Visibility and \-4 on Awareness checks that rely on sound. Positive sensory bonuses from Enhanced Hearing and Enhanced Sight are halved (rounded down) for rolls affected by this illusion. This never removes ranks, prerequisites, techniques or the non-sensory benefits of those abilities.
 
-The victim does not gain any benefit to real Wound penalties from this technique. All effects end when the victim escapes the illusion or its 20 IC Duration expires.
+The victim ignores Minor Wound penalties. A new Minor Wound cannot break this curse or another illusion on that victim while the curse lasts. Major and worse Wounds still break illusions normally. When the curse ends, existing Minor Wound penalties return. All effects end when the victim escapes the illusion or its 20 IC Duration expires.
 
-Realizes: 10 \+ 2 \* X
+
+#### Magen: Nijū Kokoni Arazu no Jutsu - Double False Surroundings
+{:#magen-niju-kokoni-arazu-double-false-surroundings .jutsu-technique}
+
+<span class="jutsu-rank-badge">B-Rank</span>
+
+The first illusion hides a second. The guard releases the illusion hiding a doorway and sees a brick wall where the boards stood.
+
+Chakra: Twice the linked technique’s cost + 10  
+Upkeep: Linked technique’s Upkeep + 5  
+Speed: Linked technique’s Speed + 10  
+Seal Speed: Linked technique’s Seal Speed + 10  
+Requires: False Surroundings Technique  
+Tags: Link, Genjutsu  
+Effects: Link to False Surroundings. Describe two different appearances for the same place. Use the same Area and the same six-hour clock for both. Roll a separate Genjutsu Offense for each layer when you cast, applying False Surroundings’ usual +5 to each.
+
+Each observer first encounters the outer layer. Whether they identify it on the first roll or Realize later, Kai is still needed to strip it away. On releasing it, they immediately test the inner layer as if encountering False Surroundings again. A second successful Kai clears the scene for that observer. In combat, count familiarity separately for each layer that actually fools them. Recognizing a layer alone never exposes the next. One observer’s Kai leaves other observers where they were. A real Wound releases that victim from both layers. Expiration or ending Upkeep removes both for everyone. You can only link this technique once per casting.
 
 #### Jigyaku no Jutsu - Time Reversal Technique
 {:#jigyaku-no-jutsu-time-reversal-technique .jutsu-technique}
@@ -406,7 +406,6 @@ Effects:
 
 On a full hit, the target takes −4 Awareness on checks that rely on sound. The first time each IC it declares a defensive Interrupt against a hostile action, increase that Interrupt’s Final Speed by 2. Echo Chamber cannot reach a target unable to hear the initial sound.
 
-Realizes: 8 + X IC
 
 #### Magen: Jubaku Satsu - Demon Illusion: Tree Binding Death
 {:#magen-jubaku-satsu-demon-illusion-tree-binding-death .jutsu-technique}
@@ -422,9 +421,8 @@ Speed: 25
 Seal Speed: 25  
 Duration: 80 IC  
 Tags: Attack, Direct  
-Effects: On a full hit, inflict Immobilization 10\. Beginning once the victim Realizes the illusion, it may attempt Genjutsu Defense against the caster's original Offense every 20 IC; each attempt after the first gains a cumulative \+3. A success ends Tree Binding. Effects that normally reduce Immobilization penalties do not reduce this technique's Immobilization.
+Effects: On a hit, the victim suffers Immobilization 10 and cannot move voluntarily, even if it reduces the penalty. Forced movement still works. Every 10 IC after the hit, an unaware victim may roll Defense against the original Offense to Realize, gaining +1 on the first check, +2 on the second, and so on. Success permits Kai. It does not release the victim from the tree.
 
-Realizes: 10 IC
 
 #### Magen: Obore Yume - Drowning Dream
 {:#magen-obore-yume-drowning-dream .jutsu-technique}
@@ -443,7 +441,7 @@ Special: Illusory Suffocation 2
 Tags: Attack, Direct, Genjutsu, Visual, Tactile  
 Effects: On a full hit, the victim feels itself sinking and suffers −2 to Stamina and Chakra Exhaustion rolls from illusory Suffocation. Each time it declares an Attack or a jutsu requiring handseals, raise the severity by 1 after that action, to a maximum of 4. Count each action once. As a Speed 6 Utility action the victim may steady its breathing and reduce severity by 2. At 0 the illusion ends. The penalty equals the current severity. Do not roll Stamina when this illusory severity increases. It ends immediately with the illusion.
 
-Realizes: 8 \+ X IC. If the target takes real Suiton damage before escaping, it gains \+3 on its next eligible Genjutsu Defense or Kai roll against Drowning Dream, as real sensation conflicts with the illusion.
+If the target takes real Suiton damage before escaping, it gains \+3 on its next eligible Genjutsu Defense or Kai roll against Drowning Dream, as real sensation conflicts with the illusion.
 
 #### Magen: Tetsuotome no Jutsu - Demonic Illusion: Iron Maiden Technique
 {:#magen-tetsuotome-no-jutsu-demonic-illusion-iron-maiden-technique .jutsu-technique}
@@ -462,9 +460,8 @@ Duration: 40 IC
 Tags: Attack, Direct  
 Effects: On a full Genjutsu hit, apply Stun 10 and choose one location (head, torso, abdomen, one arm or one leg). The victim suffers one illusory Minor Piercing Wound in that location, or a Slashing Wound if the head is chosen. If the Genjutsu Offense beats their Defense by 10+, upgrade that one illusory Wound to Major and increase Stun to 15\. Determine these benefits when the Jutsu resolves; never charge retroactive Chakra or Upkeep costs.
 
-The illusory Wound follows Brain Destruction's rules for penalties and removing directly caused statuses. A real Major Wound ends Iron Maiden under the normal Direct Genjutsu rule.
+The illusory Wound follows Brain Destruction's rules for penalties and removing directly caused statuses.
 
-Realizes: 15 IC
 
 #### Sakki - Killing Intent
 {:#sakki-killing-intent .jutsu-technique}
@@ -484,7 +481,6 @@ Special: Stun 5 + X (maximum 12)
 Tags: Attack, Direct  
 Effects: You and the target must have direct line of sight (neither may suffer Visibility \-6 or worse). X is the margin by which the target fails Genjutsu Defense. On a full hit, apply Stun 5+X (maximum 12) and Paralysis equal to X/3 (rounded down, maximum 6\) while the Stun lasts. Both statuses end if the Genjutsu ends first.
 
-Realizes: X IC
 
 ## A-Rank
 {:#a-rank-18 .jutsu-rank-heading}
@@ -531,7 +527,6 @@ Duration: 50 IC
 Tags: Attack, Direct  
 Effects: On a full hit, the victim sees its limbs move a moment before they actually do. When it declares a non-Interrupt Action of Final Speed 10 or more, increase that Action’s Final Speed by 4 for timing only. Use the original Speed for damage. After each affected Action resolves, the victim rolls Genjutsu Defense against the original Offense; success ends the illusion. Shorter actions and defensive Interrupts do not trigger it.
 
-Realizes: 5 \+ X IC
 
 #### Kokuangyo no Jutsu - Bringer of-Darkness Technique
 {:#kokuangyo-no-jutsu-bringer-of-darkness-technique .jutsu-technique}
@@ -548,7 +543,6 @@ Seal Speed: 30
 Tags: Attack, Direct  
 Effects: On a full hit, apply \-10 Visibility to the victim. It cannot gain visual benefits of an active Dōjutsu against things it cannot see, but non-visual Dōjutsu powers and effects already created remain active. Creatures may attempt to Hide from it even if the victim has a way to reduce its Visibility penalty. The illusion lasts while the caster maintains Upkeep.
 
-Realizes: 10 \+ 3\*X IC
 
 #### Nehan Shouja no Jutsu - Temple of Nirvana Technique
 {:#nehan-shouja-no-jutsu-temple-of-nirvana-technique .jutsu-technique}
@@ -565,7 +559,6 @@ Duration: 1 Hour
 Tags: Attack, Area  
 Effects: This cannot be used during combat. Every creature except the caster within the Area makes Genjutsu Defense against the caster's Offense. On failure it falls asleep for up to one hour; vigorous shaking, exceptionally loud noises, real injury or expiration of the effect wakes it. Targets receive their ordinary Genjutsu Defense regardless of relative XP. An unconscious victim cannot act to use Kai, but an ally may release them normally.
 
-Realizes: Upon waking. A sleeping victim cannot use Genjutsu Kai on itself; another creature may release it normally.
 
 #### Sennou Sousa no Jutsu - Memory-Concealing Manipulative Sand Technique
 {:#sennou-sousa-no-jutsu-memory-concealing-manipulative-sand-technique .jutsu-technique}

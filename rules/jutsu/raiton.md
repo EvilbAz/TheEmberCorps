@@ -59,13 +59,13 @@ If done at range, choose an unoccupied object within range, the next person to t
 The user extends a hand and releases a short pulse of lightning chakra. It lacks the force of advanced Raiton, but the abrupt muscle shock makes it an excellent academy-level harassment technique against several nearby targets.
 
 Chakra: 10  
-Damage: 1d12\*1d4  
+Damage: 1d6\*1d4  
 Range: 10  
-Speed: 6  
+Speed: 4  
 Seal Speed: 6  
-Special: Paralysis 1 for 20 IC  
+Special: Paralysis 2 for 20 IC  
 Tags: Attack, Projectile, Energy  
-Effects: Shocking Burst's Speed may not be reduced below 4\. This can target up to three targets in range.
+Effects: Choose one target in Range or pulse outward in a 10-yard Area centered on yourself. The pulse hits everyone except you, including allies. Defenders suffer no AoE Dodge penalty against the pulse. Minimum final Speed 4.
 
 ## D-Rank
 {:#d-rank-8 .jutsu-rank-heading}

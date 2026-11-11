@@ -112,7 +112,8 @@ Range: 12
 Speed: 10  
 Seal Speed: 10  
 Special: Stun 4  
-Tags: Attack, Piercing, Ground-Based
+Tags: Attack, Piercing, Ground-Based  
+Effects: Increase damage by 10% when determining Wound severity only.
 
 #### Doro Bunshin no Jutsu - Mud Clone Technique
 {:#doro-bunshin-no-jutsu-mud-clone-technique .jutsu-technique}

@@ -553,7 +553,7 @@ Range: 25
 
 Speed: 8
 
-Tags: Utility, Genjutsu, Sound
+Tags: Utility, Indirect, Genjutsu, Sound
 
 Effects
 
@@ -576,7 +576,7 @@ Area: 6
 
 Speed: 10
 
-Tags: Utility, Genjutsu
+Tags: Utility, Indirect, Genjutsu
 
 Effects
 
@@ -605,7 +605,7 @@ Speed: 14
 
 Special: Stun 2
 
-Tags: Attack, Genjutsu, Sound, Control
+Tags: Attack, Area, Genjutsu, Sound, Control
 
 Effects
 
@@ -632,7 +632,7 @@ Speed: 14
 
 Seal Speed: 18
 
-Tags: Attack, Genjutsu
+Tags: Attack, Direct, Genjutsu
 
 Effects
 
@@ -2376,15 +2376,15 @@ Mind Transmission Relay does not share senses, memories, or unwilling thoughts.
 **Speed:** 14  
 **Delay:** 6  
 **Seal Speed:** 14  
-**Tags:** Attack, Genjutsu, Control
+**Tags:** Attack, Direct, Genjutsu, Control
 
 **Effects**
 
-Resolve this as an Accuracy Roll against the target's Genjutsu Defense. On a full success your body becomes Incapacitated and your mind occupies the target for up to 30 IC.
+Roll Genjutsu Offense with the listed Accuracy against the target’s Genjutsu Defense. On a full success your body becomes Incapacitated and your mind occupies the target for up to 30 IC.
 
 While occupying them, you can cause ordinary movement, speech, Basic Actions, and non-clan physical actions. You cannot access their memories, bloodline, Jutsu, Uniques, or Willpower.
 
-Each time the controlled body suffers a Major or worse Wound, the target may spend 1 Willpower to immediately end the technique. You can end it as a Speed 0 action.
+Possession uses its own Wound release. Each time the controlled body suffers a Major or worse Wound, the target may spend 1 Willpower to immediately end the technique. You can end it as a Speed 0 action.
 
 **B-Rank**
 
@@ -2401,7 +2401,7 @@ Each time the controlled body suffers a Major or worse Wound, the target may spe
 **Seal Speed:** 22  
 **Special:** Confusion
 
-**Tags:** Attack, Genjutsu, Control
+**Tags:** Attack, Direct, Genjutsu, Control
 
 **Effects**
 
@@ -8591,7 +8591,7 @@ If the attack creates a Wound, leave a burning path across its Area for 20 IC. A
 **Chakra:** 28  
 **Range:** Eye Contact  
 **Speed:** 10  
-**Tags:** Attack, Genjutsu, Control  
+**Tags:** Attack, Direct, Genjutsu, Control  
 **Requires:** Stage 2 Sharingan
 
 **Effects**

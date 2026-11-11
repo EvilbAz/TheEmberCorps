@@ -107,11 +107,11 @@ Effects: This technique has a \+15% wounding.
 
 By blowing air from your mouth, you can change direction in mid-air. This allows you to control where you land when falling (avoiding the sharp rocks when you jump off a waterfall, that kind of thing) and may be useful for avoiding mid-air hazards.
 
-Chakra: 12  
+Chakra: 8  
 Speed: 2  
-Seal Speed: 7  
+Seal Speed: 6  
 Tags: Utility, Interrupt  
-Effects: This can also be used when falling from any height, to slow yourself sufficiently to avoid being harmed by the impact from hitting the ground. Also whenever you make a grapple defense roll, you can use this technique to give you \+3.
+Effects: While airborne, steer toward a landing point you can reach. As an Interrupt while falling, cancel the damage from landing.
 
 #### Fuuton: Shikisetsufuu Shou - Wind Release: Four Seasonal Winds Palm
 {:#fuuton-shikisetsufuu-shou-wind-release-four-seasonal-winds-palm .jutsu-technique}

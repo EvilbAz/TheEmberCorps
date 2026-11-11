@@ -83,7 +83,7 @@ Range: 10
 Speed: 7  
 Seal Speed: 8  
 Tags: Attack, Projectile  
-Effects: Your opponent is covered in the flammable saliva for 30 IC. During so, the first time they are hit by a Katon technique, the saliva ignites, applying an Ignite 5 effect to the unfortunate victim. The severity of this effect is increased by 2 for each rank the jutsu is above E (7 for a D-rank jutsu, 9 for a C-rank, and so forth).
+Effects: On a hit, coat the target for 30 IC. The first damaging Katon jutsu to hit them consumes the coating and applies Ignite 5, plus 2 per rank of the triggering jutsu above E. Environmental fire cannot set it off. A technique that explicitly ignites Sticky Fire still works.
 
 #### Katon: Houenka - Fire Release: Flame Flower
 {:#katon-houenka-fire-release-flame-flower .jutsu-technique}
