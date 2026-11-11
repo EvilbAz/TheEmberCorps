@@ -123,6 +123,13 @@
   primal?.addEventListener('click', () => setTheme(document.documentElement.dataset.theme === 'primal' ? appearance : 'primal'));
   abyss?.addEventListener('click', () => setTheme(document.documentElement.dataset.theme === 'abyss' ? appearance : 'abyss'));
 
+  const keywordTones = [
+    ['gold', /^(Combo|Opener|Finisher|Chain|Link|Charge|Preparation|Raiton|Storm)\b/i],
+    ['orange', /^(Attack|Melee|Projectile|Weapon|Blunt|Piercing|Slashing|Energy|Katon|Cinder|Ballistic)$/i],
+    ['blue', /^(Defense|Defensive|Variable Defensive Action|Interrupt|Counter|Barrier|Suiton|Abyss)$/i],
+    ['violet', /^(Genjutsu|Sensory|Dōjutsu|Visual|Auditory|Tactile|Sound|Ritual|Sealing|Seals|Unseal|Fūinjutsu|Void)\b/i],
+    ['green', /^(Healing|Medical|Movement|Environmental|Ground-Based|Doton|Fuuton|Fūton|Sage Art|Sage Kata)$/i]
+  ];
   let observer, pageEvents;
   function initPage() {
     observer?.disconnect(); pageEvents?.abort(); pageEvents = new AbortController();
@@ -141,6 +148,10 @@
       }).catch(() => {});
     }
     const rule = $('#rule-content'); if (!rule) return;
+    for (const badge of rule.querySelectorAll('.jutsu-keyword')) {
+      const tone = keywordTones.find(([, pattern]) => pattern.test(badge.textContent.trim()));
+      if (tone) badge.dataset.tone = tone[0];
+    }
     for (const table of rule.querySelectorAll('table')) {
       if (table.parentElement.classList.contains('table-scroll')) continue;
       const box = document.createElement('div'); box.className = 'table-scroll'; box.tabIndex = 0;

@@ -647,7 +647,17 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 }
 .jutsu-rank-badge { color:#f78789; }
 :root[data-theme=light] .jutsu-rank-badge { color:#a43142; }
-.jutsu-keyword { background:var(--surface); border-color:var(--line); }
+/* Solid keyword badges keep the same palette across all reading themes. */
+.jutsu-keyword {
+  color: #fff;
+  background: #176663;
+  border-color: #60bcb2;
+}
+.jutsu-keyword[data-tone="gold"]   { background:#785006; border-color:#ebbd63; }
+.jutsu-keyword[data-tone="orange"] { background:#913b20; border-color:#f5a57f; }
+.jutsu-keyword[data-tone="blue"]   { background:#285d8a; border-color:#88bbeb; }
+.jutsu-keyword[data-tone="violet"] { background:#67448a; border-color:#c9a7ec; }
+.jutsu-keyword[data-tone="green"]  { background:#33673f; border-color:#93c999; }
 .jutsu-rank-jumps { display:flex; flex-wrap:wrap; align-items:center; gap:.5rem; margin:0 0 1.5rem; padding: .8rem 0; border-bottom:1px solid var(--line, #49545b); }
 .jutsu-rank-jumps span { flex-basis:100%; color:var(--muted); font-size:.68rem; letter-spacing:.12em; }
 .jutsu-rank-jumps a { display:inline-block; padding:.35rem .7rem; border:1px solid var(--line, #49545b); border-radius:3px; font-size:.85rem; text-decoration:none; }
