@@ -120,10 +120,10 @@ While in a grapple this modifies an attack turning it into a grapple jutsu. You 
 ## E-Rank
 {:#e-rank-3 .jutsu-rank-heading}
 
-#### Tsukami - Grab
+#### ( <span lang="ja">掴み</span> ) Tsukami - Grab
 {:#grab .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span></span>
 
 You grab onto an opponent, with the intent to not let go\! It's not normally a preferred method of fighting among ninja, but it defines the fighting style of specialized users.
 
@@ -133,10 +133,10 @@ Speed: 12
 Tags: Attack, Melee  
 Effects: On a hit, you and the target enter a Clinch.
 
-#### Ude Osae - Arm Pin
+#### ( <span lang="ja">腕押さえ</span> ) Ude Osae - Arm Pin
 {:#arm-pin .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Trapping 4</span> <span class="jutsu-keyword">Ground Fighting 4</span></span>
 
 Pin your opponent’s dominant hand against their chest with your arm.
 
@@ -147,10 +147,10 @@ Special: Control 1
 Tags: Trapping 4, Ground Fighting 4  
 Effects: The opponent can not use the pinned arm for any jutsu which require it and have their seals increased by 3\.
 
-#### Ude Hishigi - Arm Bar
+#### ( <span lang="ja">腕挫</span> ) Ude Hishigi - Arm Bar
 {:#arm-bar .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Submission</span></span>
 
 You squeeze someone's arm between your knees and pull. This hurts…a lot.
 
@@ -162,10 +162,10 @@ Special: Control 5
 Tags: Submission  
 Effects: After applying this submission every consecutive use has its Stamina reduced by 5, automatically hits and does not reduce your control. Your opponent takes the listed damage (not including speed \* db) and their control is reduced by 1\. While consecutively using this submission your maximum control is increased by 6\. Your opponent also loses access to the targeted arm, any object held with it is dropped, and their seal speed reduction is halved.
 
-#### Hiza Hishigi - Knee Bar
+#### ( <span lang="ja">膝挫</span> ) Hiza Hishigi - Knee Bar
 {:#knee-bar .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Submission</span></span>
 
 Similar to an arm bar you push their knee up and pull the leg to cause pain
 
@@ -177,10 +177,10 @@ Special: Control 5
 Tags: Submission  
 Effects: After applying this submission every consecutive use has its Stamina reduced by 5, automatically hits and does not reduce your control. Your opponent takes the listed damage (not including speed \* db) and their control is reduced by 3\. While consecutively using this submission your maximum control is increased by 10\. Your opponent also loses access to the targeted leg.
 
-#### Kumi Nuke - Escape Grapple
+#### ( <span lang="ja">組み抜け</span> ) Kumi Nuke - Escape Grapple
 {:#escape-grapple .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Link</span></span>
 
 Being held in place by one person and then punched into submission by all their friends is a pretty exceptionally undignified way for a ninja to go down. Accordingly, ninja are usually taught the basics of how to writhe their way out of all manner of holds.
 
@@ -193,10 +193,10 @@ Effects: This is added on to a Break Clinch or Escape Pin. X has a max of the X 
 ## D-Rank
 {:#d-rank-3 .jutsu-rank-heading}
 
-#### Shita Sashi - Underhook
+#### ( <span lang="ja">下差し</span> ) Shita Sashi - Underhook
 {:#underhook .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Trapping 3</span></span>
 
 You slide your arm underneath your opponents to secure a grip and push upwards to make them lose their balance.
 
@@ -207,10 +207,10 @@ Special: Control 1
 Tags: Trapping 3  
 Effects: This can be stacked up to twice. If an opponent has an Overhook on you then the Speed of this jutsu is halved and Control is reduced to 0\.
 
-#### Uwa Karami - Overhook
+#### ( <span lang="ja">上絡み</span> ) Uwa Karami - Overhook
 {:#overhook .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Trapping 3</span></span>
 
 You slide your arm above your opponents to secure a grip and push downwards to make them lose their balance.
 
@@ -221,10 +221,10 @@ Special: Control 1
 Tags: Trapping 3  
 Effects: This can be stacked up to twice. If an opponent has an Underhook on you then the Speed of this jutsu is halved and Control is reduced to 0\.
 
-#### Kata Ashi Dori - Single Leg Takedown
+#### ( <span lang="ja">片足取り</span> ) Kata Ashi Dori - Single Leg Takedown
 {:#single-leg-takedown .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Takedown</span></span>
 
 Crouching low and dropping to a knee you seize your opponent's leg. Then forcing your body up along with it you cause your opponent to lose their balance and hopefully fall.
 
@@ -234,10 +234,10 @@ Special: Control 6
 Tags: Takedown  
 Effects: Even if you fail this grapple roll your opponent is left at immobility 4 until the next time they use the Repositioning action.
 
-#### Hadaka Jime - Rear Naked Choke
+#### ( <span lang="ja">裸絞め</span> ) Hadaka Jime - Rear Naked Choke
 {:#hadaka-jime-rear-naked-choke .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Submission</span></span>
 
 You wrap a limb or flexible material around their neck. While ninja have stronger lungs than most people, if deprived of air for long enough anyone will lose consciousness.
 
@@ -247,10 +247,10 @@ Special: Control 9
 Tags: Submission  
 Effects: After applying this submission every consecutive use has its Stamina reduced by 5, automatically hits, and does not reduce your control, your opponent gains \+1 suffocation and their control is reduced by 2\.
 
-#### Dō Osae - Guard
+#### ( <span lang="ja">胴押さえ</span> ) Dō Osae - Guard
 {:#guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Ground Fighting 6</span> <span class="jutsu-keyword">2 Legs</span></span>
 
 You lay back on the ground and attempt to control your opponent with your legs. While it can leave you vulnerable to striking attacks, it's difficult to escape for your grappled opponent.
 
@@ -260,10 +260,10 @@ Special: Control 2
 Tags: Ground Fighting 6, 2 Legs  
 Effects: This may only be used while being pinned and you may use your grapple defense bonus \+ 10 in place of your grapple offense. Your speed is reduced to 0 until the grapple changes category.
 
-#### Kaeshi - Reversal
+#### ( <span lang="ja">返し</span> ) Kaeshi - Reversal
 {:#reversal .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Link</span></span>
 
 Stamina: \+X if Successful  
 Speed: \+X, Delay 4+X  
@@ -273,10 +273,10 @@ Effects: This is added on to an Escape Pin action and on a success the pin is re
 ## C-Rank
 {:#c-rank-3 .jutsu-rank-heading}
 
-#### Kata Sukui - High C
+#### ( <span lang="ja">肩掬い</span> ) Kata Sukui - High C
 {:#high-c .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Trapping 6</span></span>
 
 You slide down to a knee and wrap around their leg with your arms. This gives you a stable position under them to quickly take them down. Don’t wait too long though.
 
@@ -287,10 +287,10 @@ Special: Control 4
 Tags: Trapping 6  
 Effects: You and your opponent gain immobility 2 as long as the clinch remains. This may be used after an underhook. The control cost is reduced by 1 for every successful Underhook you’ve made.
 
-#### Mae Kubi Gatame - Front Headlock
+#### ( <span lang="ja">前首固め</span> ) Mae Kubi Gatame - Front Headlock
 {:#front-headlock .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Trapping 6</span> <span class="jutsu-keyword">Ground Fighting 4</span></span>
 
 You slide your arm above your opponents to secure a grip and push downwards to make them lose their balance.
 
@@ -302,10 +302,10 @@ Tags: Trapping 6, Ground Fighting 4
 
 Effects: This may be used after an Overhook and in a Clinch or Pin. The control cost is reduced by 2 after a successful Overhook.
 
-#### Ashi Nuki - Guard Pass
+#### ( <span lang="ja">足抜き</span> ) Ashi Nuki - Guard Pass
 {:#guard-pass .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Ground Fighting 5</span></span>
 
 Stamina: 16  
 Speed: 4  
@@ -313,10 +313,10 @@ Special: Control 1
 Tags: Interrupt, Ground Fighting 5  
 Effects: This may be used in reaction to an opponent using the Guard jutsu.
 
-#### Uma Nori - Mount
+#### ( <span lang="ja">馬乗り</span> ) Uma Nori - Mount
 {:#mount .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Ground Fighting 10</span></span>
 
 After taking your opponent to the ground you force them onto their back and straddle their torso. This puts you in the perfect position to advance into a submission hold or just wail on them.
 
@@ -329,10 +329,10 @@ Effects: Your speed is reduced to 0\.
 ## B-Rank
 {:#b-rank-3 .jutsu-rank-heading}
 
-#### Ude Garami - Kimura
+#### ( <span lang="ja">腕絡み</span> ) Ude Garami - Kimura
 {:#kimura .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Trapping 4</span> <span class="jutsu-keyword">Ground Fighting 6</span></span>
 
 You grab your opponent's wrist and wrap your other arm around theirs to create a firm hold. This is extremely versatile and can be used in many different situations.
 
@@ -343,10 +343,10 @@ Special: Control 2
 Tags: Trapping 4, Ground Fighting 6  
 Effects: The opponent loses access to the targeted arm and gains immobility 2 until this technique ends or the grapple changes category.
 
-#### Morote Gari - Double Leg Takedown
+#### ( <span lang="ja">双手刈り</span> ) Morote Gari - Double Leg Takedown
 {:#double-leg-takedown .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Takedown</span></span>
 
 You bring up both of your opponents legs and slam them to the ground. This is a more powerful but riskier alternative to the Single Leg Takedown.
 
@@ -356,10 +356,10 @@ Special: Control 7, Stun 8
 Tags: Takedown  
 Effects: After pinning your opponent they lose 2 control.
 
-#### Atsubaku Gatame - Compression Lock
+#### ( <span lang="ja">圧迫固め</span> ) Atsubaku Gatame - Compression Lock
 {:#compression-lock .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Submission</span></span>
 
 A general term for any position where you press a muscle into a bone. This causes immense pain and is likely to leave them needing a trip to the hospital
 
@@ -374,10 +374,10 @@ Effects: Target a specific limb of your opponent’s. After applying this submis
 ## A-Rank
 {:#a-rank-3 .jutsu-rank-heading}
 
-#### Ude Gaeshi - Arm Reversal
+#### ( <span lang="ja">腕返し</span> ) Ude Gaeshi - Arm Reversal
 {:#ude-gaeshi-arm-reversal .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 With a grip on your opponent's arm you violently twist into a roll. When it works they can floor an opponent caught off guard, when it doesn’t you’ll find yourself in a bad situation
 
@@ -388,10 +388,10 @@ Special: Control 8
 Tags: Interrupt  
 Effects: While in a clinch you can use this to interrupt an opponent's attack forcing a grapple roll. On a success you prevent the attack and if you succeed by 5+ you pin the enemy. On a fail you may still defend as normal but with a \-3 penalty to any rolls.
 
-#### Hijutsu: Full Nelson - Secret Technique: Full Nelson
+#### ( <span lang="ja">秘術・羽交い締め</span> ) Hijutsu: Hagai Jime - Secret Technique: Full Nelson
 {:#hijutsu-full-nelson-secret-technique-full-nelson .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Submission</span> <span class="jutsu-keyword">Trapping 10</span></span>
 
 With both arms you encircle the opponent's arm under the armpit, and secure at the opponent's neck. This restricts their movement making it very difficult to escape or even fight back.
 
@@ -401,10 +401,10 @@ Special: Control 8
 Tags: Submission, Trapping 10  
 Effects: Your opponent gains immobility 6 and you gain half as much. After applying this submission every consecutive use has its Stamina reduced by 10, Control reduced to 0, automatically hits and your opponent loses 5 Control. This may allow you to increase your control to double its normal maximum until this jutsu ends.
 
-#### Mae Hadaka Jime - Guillotine Choke
+#### ( <span lang="ja">前裸絞め</span> ) Mae Hadaka Jime - Guillotine Choke
 {:#mae-hadaka-jime-guillotine-choke .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Submission</span></span>
 
 A powerful chokehold from the front encircling your opponents neck like a guillotine (huh like the name). This cuts off their airflow and can be used from a standing position.
 
@@ -414,10 +414,10 @@ Special: Control 8
 Tags: Submission  
 Effects: After applying this submission every consecutive use has its Stamina reduced by 5, automatically hits and does not reduce your control.You may use this in a clinch but its control cost is increased by 5\. Your opponent is pinned and after applying this submission every consecutive use you maintain this Submission your opponent rolls grapple defense vs your offense. Regardless if they pass they gain 1 suffocation, \+1 for every 7 they failed by.
 
-#### Kame no Kamae - Turtle
+#### ( <span lang="ja">亀の構え</span> ) Kame no Kamae - Turtle
 {:#turtle .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Link</span></span>
 
 Curling up into a ball as an opponent chokes you out is a natural reaction, but as a master grappler you know how to turn this position into a strength and break out of whatever hold your opponent has you in.
 

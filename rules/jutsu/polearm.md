@@ -18,10 +18,10 @@ permalink: "/rules/jutsu/polearm/"
 ## E-Rank
 {:#e-rank-12 .jutsu-rank-heading}
 
-#### Nuke Zuki - Passing Thrust
+#### ( <span lang="ja">抜け突き</span> ) Nuke Zuki - Passing Thrust
 {:#passing-thrust .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Attack</span></span>
 
 The thrust is carried through a passing step so the point threatens beyond the weapon’s usual measure.
 
@@ -32,10 +32,10 @@ Speed: \+0
 Tags: Chain 1, Polearm, Attack  
 Effects: Increase the weapon’s unmodified Reach by 50%, minimum +2 yards. On a full hit, the target cannot use Take the Hit until it completes its next non-Interrupt Action.
 
-#### Ishizuki Uke - Butt-End Check
+#### ( <span lang="ja">石突き受け</span> ) Ishizuki Uke - Butt-End Check
 {:#butt-end-check .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Movement</span></span>
 
 The rear of the weapon becomes a second striking end.
 
@@ -48,10 +48,10 @@ Special: Knockback 4
 Tags: Chain 1, Polearm, Attack, Movement  
 Effects: Treat the attack as Blunt. On a full hit, the target takes −2 to its next Attack against you before your next Action. On a successful Special, you may follow the target up to the distance it was moved, ending within your normal Reach.
 
-#### Nui Zuki - Threading Thrust
+#### ( <span lang="ja">縫い突き</span> ) Nui Zuki - Threading Thrust
 {:#threading-thrust .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Attack</span></span>
 
 The point is threaded through a small defensive window rather than swung around the guard.
 
@@ -62,10 +62,10 @@ Speed: \+1
 Tags: Chain 2, Polearm, Attack  
 Effects: Defensive Interrupts against this Attack count as +1 Base Speed for Defense Validity. Reduce the target armor’s flat DR by 20% for this Attack, after applying its damage-type matchup.
 
-#### Oshikomi Zuki - Driving Thrust
+#### ( <span lang="ja">押し込み突き</span> ) Oshikomi Zuki - Driving Thrust
 {:#driving-thrust .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Attack</span></span>
 
 This is a committed line attack that spends the polearm’s reach aggressively.
 
@@ -76,10 +76,10 @@ Speed: \+5
 Tags: Chain 3, Polearm, Attack  
 Effects: Gain additional Reach equal to half the weapon’s unmodified Reach, minimum 2 yards, and +15% Wounding.
 
-#### Yari Gamae - Set Spear
+#### ( <span lang="ja">槍構え</span> ) Yari Gamae - Set Spear
 {:#set-spear .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 The user stops chasing the opponent and makes the opponent enter the weapon instead.
 
@@ -89,10 +89,10 @@ Speed: 5
 Tags: Chain X, Polearm, Attack, Interrupt  
 Effects: When a creature enters your Reach, make a Polearm Basic Weapon Attack at 85% final damage. It is Chain X.
 
-#### Kaiten Uchi - Rotation Strike
+#### ( <span lang="ja">回転打ち</span> ) Kaiten Uchi - Rotation Strike
 {:#rotation-strike .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Attack</span></span>
 
 The whole polearm is rotated through a controlled arc.
 
@@ -107,10 +107,10 @@ Effects: Attack all chosen enemies in Reach. If only one creature is targeted, g
 ## D-Rank
 {:#d-rank-12 .jutsu-rank-heading}
 
-#### Karame Gaeshi - Catch and Turn
+#### ( <span lang="ja">絡め返し</span> ) Karame Gaeshi - Catch and Turn
 {:#catch-and-turn .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Attack</span></span>
 
 The hook, blade, or shaft catches posture instead of simply striking it.
 
@@ -122,10 +122,10 @@ Special: Knockback 4 or Prone
 Tags: Chain 2, Polearm, Attack  
 Effects: On a full hit, choose one: Turn — resolve Knockback equal to the greater of 4 or STR/8 in any legal direction; or Sweep — resolve Prone normally.
 
-#### Nuidome Zuki - Pinning Thrust
+#### ( <span lang="ja">縫い止め突き</span> ) Nuidome Zuki - Pinning Thrust
 {:#pinning-thrust .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Attack</span></span>
 
 You brace the haft and drive the point through the target’s line with enough commitment that the impact itself disrupts their movement.
 
@@ -137,10 +137,10 @@ Special: Immobilization 2
 Tags: Chain 3, Polearm, Attack  
 Effects: This Attack deals Piercing wounds and gains +15% Wounding. Resolve Immobilization with severity equal to the greater of 2 or Athletics/10, maximum 6. It ends when the target spends a Speed 3 Utility Action to free the impaled clothing or equipment.
 
-#### E no Kamae - Haft Guard
+#### ( <span lang="ja">柄の構え</span> ) E no Kamae - Haft Guard
 {:#haft-guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 You catch the incoming strike and push the opponent out along the shaft.
 
@@ -150,10 +150,10 @@ Speed: 3
 Tags: Chain X, Polearm, Utility, Interrupt  
 Effects: Parry a Melee Attack with +Athletics/5. On a full success, push the attacker directly away to any legal point within your Polearm Reach. Obstacles stop this push.
 
-#### Enshin no Kamae - Extended Guard
+#### ( <span lang="ja">延伸の構え</span> ) Enshin no Kamae - Extended Guard
 {:#extended-guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Utility</span></span>
 
 You hold the point forward and force approaching enemies to deal with it.
 
@@ -167,10 +167,10 @@ Effects: Increase Polearm Reach by 50%, minimum +2 yards. While maintained, when
 ## C-Rank
 {:#c-rank-12 .jutsu-rank-heading}
 
-#### Buki Kake - Weapon Hook
+#### ( <span lang="ja">武器掛け</span> ) Buki Kake - Weapon Hook
 {:#weapon-hook .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Attack</span></span>
 
 The head or shaft catches the opponent’s weapon and drags its line away from where they want to use it.
 
@@ -181,10 +181,10 @@ Speed: \+2
 Tags: Chain 2, Polearm, Attack  
 Effects: On a full hit, choose one held weapon. Until the target completes a Speed 3 Utility Action to free it, it cannot use that weapon to Attack or Parry. You must keep the Polearm in hand and the target within Reach; releasing the hook ends the restriction. You may continue Polearm Chain Attacks against that target while maintaining the hook.
 
-#### E Mawashi - Shaft Pivot
+#### ( <span lang="ja">柄回し</span> ) E Mawashi - Shaft Pivot
 {:#shaft-pivot .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Attack</span></span>
 
 You move around the opponent with the shaft between you and their weapon.
 
@@ -194,10 +194,10 @@ Speed: +0
 Tags: Link, Polearm, Attack  
 Effects: Link to a Polearm Attack against your chained target. If the target uses a weapon to Parry, halve that weapon’s positive Parry modifiers, rounded down. On a full hit, choose that weapon: it cannot Parry your next Polearm Chain Attack. Other legal defenses remain available.
 
-#### Tobi Bō - Leaping Pole
+#### ( <span lang="ja">跳び棒</span> ) Tobi Bō - Leaping Pole
 {:#leaping-pole .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Movement</span></span>
 
 The shaft is planted and used as a lever for the body.
 
@@ -211,10 +211,10 @@ Effects: Vault toward a target using Move with an Attack calculated from the Att
 ## B-Rank
 {:#b-rank-12 .jutsu-rank-heading}
 
-#### Yokogi Uke - Crossbar Catch
+#### ( <span lang="ja">横木受け</span> ) Yokogi Uke - Crossbar Catch
 {:#crossbar-catch .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 You catch the projectile on the shaft and turn it aside.
 
@@ -224,10 +224,10 @@ Speed: 3
 Tags: Chain X, Polearm, Utility, Interrupt  
 Effects: Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, redirect a physical projectile at its attacker if that attacker is within the projectile’s remaining Range. Use your Parry result as Accuracy and the projectile’s original damage; it defends normally. This counter adds no further cost or action time and cannot itself be redirected.
 
-#### Suri Maai - Sliding Measure
+#### ( <span lang="ja">摺り間合い</span> ) Suri Maai - Sliding Measure
 {:#sliding-measure .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Utility</span></span>
 
 You slide your grip to extend the point or put your weight behind the head.
 
@@ -240,10 +240,10 @@ Effects: Choose a benefit for your next non-Interrupt Action, which must be a Po
 ## A-Rank
 {:#a-rank-12 .jutsu-rank-heading}
 
-#### Issen Zuki - Through-Line
+#### ( <span lang="ja">一閃突き</span> ) Issen Zuki - Through-Line
 {:#through-line .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Attack</span></span>
 
 You carry the thrust through the chained target and keep moving with it, using the opening to either pass their body or send the point into the next threat on the same line.
 
@@ -254,10 +254,10 @@ Speed: \+5
 Tags: Chain 3, Polearm, Attack  
 Effects: Gain +30% Wounding and ignore half the target armor’s Absorption and flat DR after its damage-type matchup. On a full hit, you may strike one creature directly behind it and within Reach at full damage. The second creature defends against the same Accuracy result. Resolve Chain progression once.
 
-#### Teko Nage - Levering Throw
+#### ( <span lang="ja">梃子投げ</span> ) Teko Nage - Levering Throw
 {:#levering-throw .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Polearm</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 You catch the attack on the haft, drop your weight under it, and use the polearm as a lever to throw the attacker off their base.
 

@@ -61,10 +61,10 @@ Shards never impede your movement. Each Shard consumed for Glass Release's Chakr
 ## C-Rank
 {:#c-rank .jutsu-rank-heading}
 
-#### Garasuton: Hahen no Yari - Glass Release: Splinter Lance
+#### ( <span lang="ja">硝子遁・破片の槍</span> ) Garasuton: Hahen no Yari - Glass Release: Splinter Lance
 {:#glass-release-splinter-lance .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Slashing</span> <span class="jutsu-keyword">Ground-Based</span> <span class="jutsu-keyword">Doton</span> <span class="jutsu-keyword">Glass</span></span>
 
 *The ground flashes white and translucent before bursting upward into a needle of razor glass. Fragments scatter across the impact site.*
 
@@ -77,10 +77,10 @@ Splinter Lance gains \+2 Accuracy against a target standing within Shards. After
 ## B-Rank
 {:#b-rank .jutsu-rank-heading}
 
-#### Garasuton: Kagami no Toride - Glass Release: Mirror Bastion
+#### ( <span lang="ja">硝子遁・鏡の砦</span> ) Garasuton: Kagami no Toride - Glass Release: Mirror Bastion
 {:#glass-release-mirror-bastion .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Barrier</span> <span class="jutsu-keyword">Ground-Based</span> <span class="jutsu-keyword">Doton</span> <span class="jutsu-keyword">Glass</span></span>
 
 *A perfectly smooth wall of translucent glass erupts from the earth. Every impact sends another web of fractures racing through the battlefield around it.*
 
@@ -97,10 +97,10 @@ Reducing the wall to 0 HP ends Mirror Bastion's Upkeep. When Mirror Bastion ends
 ## A-Rank
 {:#a-rank .jutsu-rank-heading}
 
-#### Garasuton: Yaiba no Seidō - Glass Release: Cathedral of Knives
+#### ( <span lang="ja">硝子遁・刃の聖堂</span> ) Garasuton: Yaiba no Seidō - Glass Release: Cathedral of Knives
 {:#glass-release-cathedral-of-knives .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Slashing</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Ground-Based</span> <span class="jutsu-keyword">Doton</span> <span class="jutsu-keyword">Glass</span></span>
 
 *The landscape becomes transparent. Stone, rubble and earth vanish beneath rising glass spires. A heartbeat later the entire cathedral begins to crack.*
 

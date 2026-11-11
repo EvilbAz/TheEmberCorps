@@ -158,10 +158,10 @@ Bukijutsu Stances cannot be chosen as Signature Moves unless another rule explic
 ### D-Rank
 {:#bukijutsu-stances-d-rank .jutsu-rank-heading}
 
-#### Jōdan no Kamae - High Guard
+#### ( <span lang="ja">上段の構え</span> ) Jōdan no Kamae - High Guard
 {:#high-guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu Stance</span></span>
 
 You raise your weapon for a forceful attack, leaving yourself more exposed.
 
@@ -172,10 +172,10 @@ Speed: 4
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
 Effects: Your Chain 1 and Chain 2 Melee Bukijutsu gain +Athletics/5 Accuracy. Your Chain 3 Melee Bukijutsu gain +15% Final Damage.
 
-#### Gedan no Kamae - Low Guard
+#### ( <span lang="ja">下段の構え</span> ) Gedan no Kamae - Low Guard
 {:#low-guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu Stance</span></span>
 
 The weapon stays low and close to the body, making it easier to receive an attack before committing to your own.
 
@@ -186,10 +186,10 @@ Speed: 4
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
 Effects: Gain +Athletics/5 to Melee Parries. After fully defending against an enemy Attack, your next Melee Chain Attack against that enemy gains +15% Final Damage if it is your next non-Interrupt Action.
 
-#### Nagai Kamae - Long Guard
+#### ( <span lang="ja">長い構え</span> ) Nagai Kamae - Long Guard
 {:#long-guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu Stance</span></span>
 
 You keep your weapon extended to hold an opponent at the edge of its reach.
 
@@ -203,10 +203,10 @@ Effects: Increase your Melee Weapon Reach by 50%, minimum +2 yards. Gain +Athlet
 ### C-Rank
 {:#bukijutsu-stances-c-rank .jutsu-rank-heading}
 
-#### Hiraki no Kamae - Open Guard
+#### ( <span lang="ja">開きの構え</span> ) Hiraki no Kamae - Open Guard
 {:#open-guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu Stance</span></span>
 
 You leave an opening to draw the opponent into a committed defense.
 
@@ -217,10 +217,10 @@ Speed: 5
 Tags: Utility, Self, Upkeep, Bukijutsu Stance  
 Effects: After the target declares its Defense against your Chain Attack, impose a penalty of Athletics/5 on that Defense. The penalty applies once to each Attack, including one that generates multiple hits.
 
-#### Kissaki no Kamae - Point Guard
+#### ( <span lang="ja">切先の構え</span> ) Kissaki no Kamae - Point Guard
 {:#point-guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu Stance</span></span>
 
 You keep the point or striking line fixed on one part of the opponent and sacrifice broader coverage for precision.
 
@@ -234,10 +234,10 @@ Effects: Reduce Called Shot Accuracy penalties with weapon attacks by Athletics/
 ### B-Rank
 {:#bukijutsu-stances-b-rank .jutsu-rank-heading}
 
-#### Sutemi no Kamae - Committed Guard
+#### ( <span lang="ja">捨て身の構え</span> ) Sutemi no Kamae - Committed Guard
 {:#committed-guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu Stance</span></span>
 
 You commit your weight to heavy strikes.
 
@@ -255,10 +255,10 @@ Effects: Damaging Melee Bukijutsu gain +25% Wounding. Increase their printed Kno
 ### E-Rank
 {:#universal-bukijutsu-e-rank .jutsu-rank-heading}
 
-#### Buki Kaishū - Weapon Recovery
+#### ( <span lang="ja">武器回収</span> ) Buki Kaishū - Weapon Recovery
 {:#weapon-recovery .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Bukijutsu</span></span>
 
 You recover or ready a weapon without losing the sequence of your attacks.
 
@@ -271,10 +271,10 @@ Effects: Draw, pick up, or retrieve one weapon within arm’s reach without chan
 ### D-Rank
 {:#universal-bukijutsu-d-rank .jutsu-rank-heading}
 
-#### Ryūsui no Kamae - Flowing Guard
+#### ( <span lang="ja">流水の構え</span> ) Ryūsui no Kamae - Flowing Guard
 {:#flowing-guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Bukijutsu</span></span>
 
 You shift your footing and grip into a new stance while maintaining pressure.
 
@@ -287,10 +287,10 @@ Effects: Switch from one active Bukijutsu Stance to another you know without cha
 ### B-Rank
 {:#universal-bukijutsu-b-rank .jutsu-rank-heading}
 
-#### Buki Kudaki - Weapon Breaker
+#### ( <span lang="ja">武器砕き</span> ) Buki Kudaki - Weapon Breaker
 {:#weapon-breaker .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Bukijutsu</span></span>
 
 Your strike bites into the weakest point of the weapon used to catch it.
 
@@ -300,10 +300,10 @@ Speed: \+2
 Tags: Link, Bukijutsu  
 Effects: Use retroactively after your weapon Attack is successfully Parried or Blocked by a weapon. After that Defense resolves, inflict WDP equal to half the defending weapon’s damage-level threshold, rounded up. Use that weapon’s Durability + its wielder’s DEX/10. This is explicit weapon damage and applies once to that weapon per Attack.
 
-#### Chakura Kyōka - Chakra Reinforcement
+#### ( <span lang="ja">チャクラ強化</span> ) Chakura Kyōka - Chakra Reinforcement
 {:#chakra-reinforcement .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu</span></span>
 
 You shape chakra around the weapon’s striking surface, changing the injury it inflicts.
 
@@ -317,10 +317,10 @@ Effects: Choose Blunt, Slashing, Piercing or Energy. One held weapon may deal th
 ### A-Rank
 {:#universal-bukijutsu-a-rank .jutsu-rank-heading}
 
-#### Chakura Enshin - Chakra Reach
+#### ( <span lang="ja">チャクラ延伸</span> ) Chakura Enshin - Chakra Reach
 {:#chakra-reach .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu</span></span>
 
 Shaped chakra extends the weapon’s edge, point, or striking line beyond its physical reach, carrying the threat several yards past the material weapon.
 
@@ -338,10 +338,10 @@ Effects: One Melee Weapon gains additional Reach equal to the greater of its unm
 ### C-Rank
 {:#chakra-flow-c-rank .jutsu-rank-heading}
 
-#### Chakura Nagashi - Chakra Flow
+#### ( <span lang="ja">チャクラ流し</span> ) Chakura Nagashi - Chakra Flow
 {:#chakura-nagashi-chakra-flow .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu</span></span>
 
 You circulate elemental chakra through your weapons, coating them in flame, stone, lightning or another nature you can use.
 
@@ -453,10 +453,10 @@ The weapon ignores 50% of the target's DR and deals double Final Damage against 
 ### B-Rank
 {:#chakra-flow-b-rank .jutsu-rank-heading}
 
-#### Chakura Nagashi: Enkaku Dendō - Long Conduction
+#### ( <span lang="ja">チャクラ流し・遠隔伝導</span> ) Chakura Nagashi: Enkaku Dendō - Long Conduction
 {:#chakura-nagashi-enkaku-dendo-long-conduction .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Bukijutsu</span></span>
 
 Ordinary Chakra Flow fades as a weapon leaves its wielder's grasp. Through advanced chakra control, the user can sustain that current across greater distances, sending arrows trailing flame, shuriken crackling with lightning, or kunai carrying the crushing weight of earth.
 

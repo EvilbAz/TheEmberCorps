@@ -32,10 +32,10 @@ You can't use water someone else is carrying into battle (Like through a Contain
 ## E-Rank
 {:#e-rank-9 .jutsu-rank-heading}
 
-#### Haneru - Splash
+#### ( <span lang="ja">跳ねる</span> ) Haneru - Splash
 {:#haneru-splash .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Projectile</span></span>
 
 A deliberately tiny Suiton exercise: the user flicks a controlled burst of water with just enough force to drench a person, cool a surface, or put out something that was never meant to be a battlefield inferno.
 
@@ -47,10 +47,10 @@ Seal Speed: 2
 Tags: Utility, Projectile  
 Effects: Create roughly 1 gallon of clean water at the target point. This deals no damage. It extinguishes ordinary non-chakra flame in its Area and may remove 1 point of Ignite from a willing target, but cannot affect Burns or an Ignite created by a B-Rank or higher technique.
 
-#### Mizudama no Jutsu - Water Sphere Technique
+#### ( <span lang="ja">水玉の術</span> ) Mizudama no Jutsu - Water Sphere Technique
 {:#mizudama-no-jutsu-water-sphere-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Blunt</span></span>
 
 The user gathers the water used in this technique in front of them as they perform the handseals, and then directs it at an opponent as a high-speed projectile.
 
@@ -63,10 +63,10 @@ Gallons Requirement: 0 \> 2
 
 Tags: Attack, Projectile, Blunt
 
-#### Mizuhane - Water Splash
+#### ( <span lang="ja">水跳ね</span> ) Mizuhane - Water Splash
 {:#mizuhane-water-splash .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Link</span></span>
 
 Chakra: 5 \+ G\*2  
 Speed: \+G  
@@ -78,10 +78,10 @@ Effects: This is used alongside a Dodge Interrupt, and provides it with a \+G bo
 ## D-Rank
 {:#d-rank-9 .jutsu-rank-heading}
 
-#### Suiton: Mizu Doka - Water Blending Technique
+#### ( <span lang="ja">水遁・水同化</span> ) Suiton: Mizu Doka - Water Blending Technique
 {:#suiton-mizu-doka-water-blending-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Stealth</span></span>
 
 A thin film of chakra-laced water bends light around the user's outline and carries the colours of the surrounding terrain across their body. It is less perfect than true invisibility, but it works while moving and is especially effective in rain, mist, rivers, and wet terrain.
 
@@ -95,10 +95,10 @@ Effects: While maintained, gain \+4 Stealth against checks that rely primarily o
 
 This technique does not conceal sound, scent, footprints, or chakra. Making an attack or using a damaging Jutsu ends the Upkeep after that action resolves.
 
-#### Kirigakure no Jutsu - Hidden Mist Technique
+#### ( <span lang="ja">霧隠れの術</span> ) Kirigakure no Jutsu - Hidden Mist Technique
 {:#kirigakure-no-jutsu-hidden-mist-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Aura</span></span>
 
 Chakra: 2 \+ G\*2  
 Upkeep: 4  
@@ -110,10 +110,10 @@ Tags: Utility, AoE, Environmental, Aura
 
 Effects: The mist follows you and affects everyone in its Area, including you. It starts at Visibility −2. Every full 10 IC of Upkeep the penalty worsens by 1, to a maximum severity of 2 + G/3 (rounded down). A partial clearing reduces the existing severity; it can build back up on the same clock. An effect that disperses the whole mist ends the jutsu. When you drop Upkeep voluntarily, the mist stays where you left it and fades by 1 severity every 5 IC.
 
-#### Mekkyaku - Extinguishment
+#### ( <span lang="ja">滅却</span> ) Mekkyaku - Extinguishment
 {:#mekkyaku-extinguishment .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Projectile</span></span>
 
 It was recently discovered that covering oneself in water is a highly effective countermeasure to being on fire\! Thus, this technique: An alternative to the ever-popular "stop, drop, and roll", the ninja drenches themselves or a nearby object in water.
 
@@ -126,10 +126,10 @@ Gallons Requirement: 1 \> X
 Tags: Utility, Projectile  
 Effects: This reduces any Ignite penalties a target is suffering from by the amount of Gallons spent on this Technique.
 
-#### Mizu Souzou no Jutsu - Water Creation Technique
+#### ( <span lang="ja">水創造の術</span> ) Mizu Souzou no Jutsu - Water Creation Technique
 {:#mizu-souzou-no-jutsu-water-creation-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Link</span></span>
 
 You convert raw chakra into pure water. This technique is popular among serious users of suiton techniques, as it lets them avoid picking and choosing their battles so carefully, and allows them to eschew the practice of carrying around large gourds of water (which, in addition to giving away their specialty, are unpleasantly heavy).
 
@@ -139,10 +139,10 @@ Seal Speed: 5 \+ X
 Tags: Utility, Link  
 Effects: You create X gallons of water. This may be used alongside a Jutsu with a Gallon cost. When used this way, add half X (rounded up) to that Jutsu's Chakra cost; Water Creation adds no Seal Speed and does not resolve as a separate action. It may also be used alone, in which case the created water is deposited on the battlefield or in a container you are wearing that has space for it.
 
-#### Suiton: Namerakana Amamizu - Water Release: Rainwater Slick
+#### ( <span lang="ja">水遁・滑らかな雨水</span> ) Suiton: Namerakana Amamizu - Water Release: Rainwater Slick
 {:#suiton-namerakana-amamizu-water-release-rainwater-slick .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 The user splashes a small area with water, infusing it with their chakra. This layer of chakra causes the water to support a person's weight for just long enough that when it gives out, they'll risk slipping and falling embarrassingly. Anything coated in this is, similarly, hard to hold on to.
 
@@ -158,10 +158,10 @@ Anyone who moves through this area by any means must choose to halve their speed
 
 Anybody inside the Area of Rainwater Slick suffers from Immobilization \-1, as they have to put a little more thought into all of their actions.
 
-#### Suiton: Shigure - Water Release: Drizzle
+#### ( <span lang="ja">水遁・時雨</span> ) Suiton: Shigure - Water Release: Drizzle
 {:#suiton-shigure-water-release-drizzle .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Blunt</span></span>
 
 The user condenses the water in the air to fire multiple blasts in unison. This allows for large crowd control or by focusing them into single targets it produces a much stronger attack.
 
@@ -175,10 +175,10 @@ Gallons Requirement: 2 \> 8
 Tags: Attack, Projectile, Blunt  
 Effects: You fire G number of projectiles and can direct them at a single target or split them between any number of targets. The X for this jutsu is determined by the number of projectiles thrown at each individual target.
 
-#### Suiton: Teppoudama - Water Release: Liquid Bullet
+#### ( <span lang="ja">水遁・鉄砲玉</span> ) Suiton: Teppoudama - Water Release: Liquid Bullet
 {:#suiton-teppoudama-water-release-liquid-bullet .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Blunt</span></span>
 
 The user kneads chakra and converts it into water inside their stomach, then spits it out in the form of a dense, chakra propelled ball. Its greatest boon to suiton users is that it can be used in an area without any preexisting water.
 
@@ -190,10 +190,10 @@ Seal Speed: 11
 Tags: Attack, Projectile, Blunt  
 Effects: This adds 3 gallons of water to the battlefield every time it's used.
 
-#### Takigakure Ryu, Mizukiri no Yaiba - Hidden Waterfall Style, Water-Cutting Blade
+#### ( <span lang="ja">滝隠れ流・水切りの刃</span> ) Takigakure Ryu, Mizukiri no Yaiba - Hidden Waterfall Style, Water-Cutting Blade
 {:#takigakure-ryu-mizukiri-no-yaiba-hidden-waterfall-style-water-cutting-blade .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Creation</span></span>
 
 Originally developed by the Hidden Waterfall village, this technique has since spread into wider use. The first half of the name is generally dropped, though some choose to keep it out of respect. The jutsu creates a blade out of water, kept as strong as most metals by the chakra infusing it.
 
@@ -213,10 +213,10 @@ The weapon has a third of its normal Durability
 
 (2) Your weapon may add Gallons up to your ranks in this ability to the attack Its Damage Dice is increased by Gallons used \* 5 . Max G (the G used in weapon creation)
 
-#### Tako no Katachi - Octopus Form
+#### ( <span lang="ja">蛸の形</span> ) Tako no Katachi - Octopus Form
 {:#tako-no-katachi-octopus-form .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span></span>
 
 A body of water formed around the user’s arms into long whip-like tendrils which can be used to grasp or strike an opponent or to intercept incoming attacks.
 
@@ -232,10 +232,10 @@ Effects: You may create X whips to a max of Chakra Control Ranks /5. The range o
 ## C-Rank
 {:#c-rank-9 .jutsu-rank-heading}
 
-#### Mizu Bunshin no Jutsu - Water Clone Technique
+#### ( <span lang="ja">水分身の術</span> ) Mizu Bunshin no Jutsu - Water Clone Technique
 {:#mizu-bunshin-no-jutsu-water-clone-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Clone</span></span>
 
 An advanced form of the standard Bunshin no Jutsu, this creates clones out of water. Since they're solid (well, relatively) these clones can be used to perform tasks the user is unable or unwilling to do for themselves. While they're weaker than their user, they can still prove dangerous in combat.
 
@@ -254,10 +254,10 @@ A clone can be created with a Sword (From the Standard Equipment options) in han
 \[Variable AP\] The clone may make any basic unarmed or weapon attack, by paying 1 AP per 2 Speed of that action.  
 \[5 \+ X AP\] The clone can use itself to create a water prison (as per Suiton: Suirou no Jutsu) and on a success the clone is destroyed. X is the number of gallons for the jutsu’s cost and requires no actual gallons. You must pay the Chakra cost rather than the clones (though they still gain the upkeep. If you go to the prison you can take it over by assuming it’s upkeep, and from then on you are treated as having used the jutsu.
 
-#### Mizugakure no Jutsu - Hidden in Water Technique
+#### ( <span lang="ja">水隠れの術</span> ) Mizugakure no Jutsu - Hidden in Water Technique
 {:#mizugakure-no-jutsu-hidden-in-water-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Ground-Based</span> <span class="jutsu-keyword">Aura</span></span>
 
 The user sinks into a shallow pool of water, much too little to actually fit a person (it's ninja magic, don't ask questions), where they'll be able to easily lie in wait for a target to pass by, or spy on someone who might be near.
 
@@ -272,10 +272,10 @@ Effects: You hide, and immediately enter Stealth 3\. If an opponent does not hav
 
 The puddle being reduced below 10 gallons, results in you being harmlessly ejected.
 
-#### Mizutamari no Jutsu - Pool of Water Technique
+#### ( <span lang="ja">水溜まりの術</span> ) Mizutamari no Jutsu - Pool of Water Technique
 {:#mizutamari-no-jutsu-pool-of-water-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 A moderately advanced technique is the appropriately named water-walking technique; molding chakra below one's feet to 'stand' on patches of water without any actual expenditure of energy, and, once it's perfected, only minimal concentration. This technique builds upon that concept, creating a 'cushion' of static, almost-solid water beneath each foot that the ninja stands on to avoid direct contact with the ground.
 
@@ -289,10 +289,10 @@ Requires: Water Walking Ability
 Tags: Utility, Ground-Based  
 Effects: You reduce any immobilization penalties due to the condition of the ground you're crossing by G, and ignore any other mechanical effects (such as damage for walking across caltrops) if they're C-rank or lower; if they're B-rank or above, you instead halve them. You are considered not directly in contact with the ground (for say, the Doton jutsu Shindou).
 
-#### Suiton: Mizuame Nabara - Water Release: Syrup Capture Field
+#### ( <span lang="ja">水遁・水飴拿原</span> ) Suiton: Mizuame Nabara - Water Release: Syrup Capture Field
 {:#suiton-mizuame-nabara-water-release-syrup-capture-field .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 The user converts chakra into water, and infuses it with enough chakra to alter its composition, making it extremely viscous. They then spit it out in a stream of sticky, highly adhesive liquid.
 
@@ -307,10 +307,10 @@ Effects: If a person has the ability to walk on water, they may cross this area 
 
 This jutsu's effects persist for 50 IC even after you drop the upkeep. However, so long as the upkeep is maintained, you may control the syrup enough to have it try to 'grab' anyone using water-walking to cross it unaffected; if the attack hits, the person is stuck in the syrup as if they weren't using water-walking. This is a Speed 6 action, with a Chakra cost of 15\.
 
-#### Suiton: Mizurappa - Water Release: Violent Water Wave
+#### ( <span lang="ja">水遁・水乱波</span> ) Suiton: Mizurappa - Water Release: Violent Water Wave
 {:#suiton-mizurappa-water-release-violent-water-wave .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span></span>
 
 Take a deep breath, form the seals and spit a wave of water at your opponent. You can use the water for other techniques afterwards.
 
@@ -323,10 +323,10 @@ Seal Speed: 10
 Tags: Attack, AoE, Blunt  
 Effects: This technique adds 5 gallons of water to the battlefield every time it's used.
 
-#### Suiton: Suijinchū - Water Formation Pillar
+#### ( <span lang="ja">水遁・水陣柱</span> ) Suiton: Suijinchū - Water Formation Pillar
 {:#suiton-suijinheki-water-formation-pillar .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Barrier</span> <span class="jutsu-keyword">Suiton</span></span>
 
 A vertical wall of water rises to catch an incoming attack and collapse around it.
 
@@ -340,10 +340,10 @@ Make a Ninjutsu Parry against a damaging Melee, Projectile, or AoE attack. On fu
 
 On success, add 10 gallons of water to your location after resolution. Against Raiton, suffer \-2 to the Parry.
 
-#### Suiton: Suikoudan - Water Release: Water Shark Blast
+#### ( <span lang="ja">水遁・水鮫弾</span> ) Suiton: Suikoudan - Water Release: Water Shark Blast
 {:#suiton-suikoudan-water-release-water-shark-blast .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span></span>
 
 After creating the handseals, you launch water in projectile form at an opponent. Some ninja like to etch the outline of a shark's head into the end of this projectile; others, who believe that being a ninja is very serious business, prefer to omit that part of the technique. Experienced users can even use this to allow themselves to fly quickly through the water, while protecting themselves with the might of the tearing shark.
 
@@ -357,10 +357,10 @@ Gallons Requirement: 5 \> 12
 Tags: Attack, AoE, Blunt  
 Effects: You may move to any location along the area of this technique, unhindered by anything which would normally prevent you from moving. You may ignore other Ground-Based effects during this movement.
 
-#### Suiton: Suirou no Jutsu - Water Release: Water Prison Technique
+#### ( <span lang="ja">水遁・水牢の術</span> ) Suiton: Suirou no Jutsu - Water Release: Water Prison Technique
 {:#suiton-suirou-no-jutsu-water-release-water-prison-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span></span>
 
 The user gathers the chakra around their hand, and forms the required water into a sphere which encloses its victim. Due to the density of the chakra used in this technique, the water is stronger than steel. It is not, however, airtight. Yeah, don't ask how that works. We don't know either.
 
@@ -379,10 +379,10 @@ Anyone with a Chakra Control Rank of G\*2 or above is able to mold the chakra ar
 
 To maintain the water prison, you must keep one hand on it. Dodging requires you to end the effect; if you take damage, you must make a Chakra Control check against a TN of 5+(damage taken)/10 or the prison ends. Although you can't move, you can still take most other actions that are possible one-handed while maintaining the prison's upkeep.
 
-#### Umi no Tate no Jutsu - Ocean Shield Technique
+#### ( <span lang="ja">海の盾の術</span> ) Umi no Tate no Jutsu - Ocean Shield Technique
 {:#umi-no-tate-no-jutsu-ocean-shield-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 A derivative of a more advanced technique, this was created to help teach up-and-coming suiton users the foundations of that jutsu, and help keep them alive until they were skilled enough to learn it. It creates a circular barrier of water around you, which surges up to protect you from... well, whatever convinces you that you'd need to use this technique.
 
@@ -397,10 +397,10 @@ Effects: You may Parry a Melee, Ranged or AoE Attack with a Bonus of \+(G/3). Th
 ## B-Rank
 {:#b-rank-9 .jutsu-rank-heading}
 
-#### Benzaiten no Jutsu - River Goddess Technique
+#### ( <span lang="ja">弁財天の術</span> ) Benzaiten no Jutsu - River Goddess Technique
 {:#benzaiten-no-jutsu-river-goddess-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Aura</span></span>
 
 Named after the deity who supposedly watches over a major river, this technique coats the user's body with a thin layer of chakra-infused water. It offers no real protection from impacts or weapons, but can be an effective supplement to one's defenses against heat and other unpleasantness.
 
@@ -413,10 +413,10 @@ Gallons Requirement: 10 \> 15
 Tags: Utility, Self, Aura  
 Effects: You end any ongoing ignites on you. So long as this is maintained you cannot gain any by Ignite or Burn statuses, and you take (10+G)% less damage from Katon Jutsu (applied after other reductions).
 
-#### Suiton: Bakusui Shouha - Water Release: Exploding Water Shockwave
+#### ( <span lang="ja">水遁・爆水衝波</span> ) Suiton: Bakusui Shouha - Water Release: Exploding Water Shockwave
 {:#suiton-bakusui-shouha-water-release-exploding-water-shockwave .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span></span>
 
 The user creates an enormous amount of water by spewing it from their mouth, flooding the battlefield and potentially crushing foes in its path. Best of all, they get to look awesome while doing it\! The wave rises up from beneath the user, and they can 'ride' it to its destination.
 
@@ -432,10 +432,10 @@ Effects: X is your ninjutsu damage bonus and produces that many gallons. This Te
 
 As part of this technique, you may move up to half its Area in yards, in any direction. The Area of this Technique does not move with you \- it remains centered on where your movement began.
 
-#### Suiton: Goshokuzame - Five Feeding Sharks
+#### ( <span lang="ja">水遁・五食鮫</span> ) Suiton: Goshokuzame - Five Feeding Sharks
 {:#suiton-goshokuzame-five-feeding-sharks .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Suiton</span></span>
 
 Five chakra sharks move through water as a coordinated hunting pattern.
 
@@ -451,10 +451,10 @@ Requires the target to be touching a body of wat	er containing at least 20 gallo
 
 A target uses one Defensive Interrupt but rolls separately against each shark. Combine damage only for Wounding after all hits.
 
-#### Suiton: Suidanha - Water Severing Wave
+#### ( <span lang="ja">水遁・水断波</span> ) Suiton: Suidanha - Water Severing Wave
 {:#suiton-suidanha-water-severing-wave .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Slashing</span> <span class="jutsu-keyword">Suiton</span></span>
 
 A thin, high-pressure stream turns water into a cutting tool.
 
@@ -471,10 +471,10 @@ Requires 8 gallons of available water or \+5 Chakra to create it.
 
 Against unattended objects and created Barriers, treat Damage as 25% higher. It does not bypass Armor or DR against creatures.
 
-#### Suiton: Suigadan - Water Release: Water Fang Bullet
+#### ( <span lang="ja">水遁・水牙弾</span> ) Suiton: Suigadan - Water Release: Water Fang Bullet
 {:#suiton-suigadan-water-release-water-fang-bullet .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Piercing</span></span>
 
 This move forms multiple pressurized, spiraling columns of water that have a drill-like ability to pierce and destroy their target. As this attack can originate from any body of water (rather than being shot directly from the attacker), in the right environments this has a 360 degree range of attack, making it incredibly difficult to defend against adequately.
 
@@ -489,10 +489,10 @@ Gallons Requirement: 6  \> 16
 Tags: Attack, Projectile, Piercing  
 Effects: If there are at least 10 Gallons of Water left in the Background after this Technique is used (or one is, say, over a lake, river, or other body of water such as Syrup Capture Field), this Technique is automatically a Surprise Attack.
 
-#### Suiton: Suijinheki - Water Release: Water Encampment Wall
+#### ( <span lang="ja">水遁・水陣壁</span> ) Suiton: Suijinheki - Water Release: Water Encampment Wall
 {:#suiton-suijinheki-water-release-water-encampment-wall .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Environmental</span></span>
 
 This defensive technique creates a wall of water around you, which forms a violently churning defensive perimeter. When lacking water in the environment to use, a talented shinobi can form it in their stomach and spit it out.
 
@@ -509,10 +509,10 @@ Once Suijinheki has been deployed, it lasts for your damage bonus in initiative 
 
 This technique protects you and anyone within its area from any jutsu strong against this up to B-rank, and all other techniques (including taijutsu) up to A-rank.
 
-#### Suiton: Suikyō - Water Mirror
+#### ( <span lang="ja">水遁・水鏡</span> ) Suiton: Suikyō - Water Mirror
 {:#suiton-suikyo-water-mirror .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Barrier</span> <span class="jutsu-keyword">Suiton</span></span>
 
 A flat reflective water surface creates a momentary duplicate of an incoming attack's shape.
 
@@ -526,10 +526,10 @@ Use against a Projectile Ninjutsu up to B-rank. Make a Ninjutsu Parry at \-2.
 
 On success the attack is negated and the mirror breaks. If you beat the attack by 5+, the attacker suffers NDB×5 damage of the original technique's damage type; this reflected damage cannot Wound.
 
-#### Suiton: Suiryuudan - Water Release: Water Dragon Blast
+#### ( <span lang="ja">水遁・水龍弾</span> ) Suiton: Suiryuudan - Water Release: Water Dragon Blast
 {:#suiton-suiryuudan-water-release-water-dragon-blast .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Blunt</span></span>
 
 This technique shapes a large amount of water into a giant, dragon-shaped projectile which seeks out and crashes into whoever you direct it at. What it lacks for in complexity, it makes up for by being a highly effective tool in any Suiton using shinobi's arsenal.
 
@@ -543,10 +543,10 @@ Special: Knockback G/2 (round down)
 
 Tags: Attack, Projectile, Blunt
 
-#### Suiton: Takitsubo no Jutsu - Water Release: Waterfall Basin Technique
+#### ( <span lang="ja">水遁・滝壺の術</span> ) Suiton: Takitsubo no Jutsu - Water Release: Waterfall Basin Technique
 {:#suiton-takitsubo-no-jutsu-water-release-waterfall-basin-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Environmental</span></span>
 
 You use existing water to drill down to an underground source, then draw it to the surface as a geyser. The resulting water can supply a camp or support other Suiton techniques.
 
@@ -558,10 +558,10 @@ Gallons Requirement: 10 \> 25
 Tags: Utility, Environmental  
 Effects: This Technique adds (G/5) Gallons of Water onto the Background every 5 IC, for a Duration of 100 ICs.
 
-#### Suiton: Uramiame - Water Release: Grudge Rain
+#### ( <span lang="ja">水遁・恨み雨</span> ) Suiton: Uramiame - Water Release: Grudge Rain
 {:#suiton-uramiame-water-release-grudge-rain .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span></span>
 
 As a weather-manipulation jutsu, this technique is extremely taxing upon its user. Upon its completion a large storm cloud is created, which proceeds to, as storm clouds are prone to do, rain. This rain saps the chakra from anyone it comes in contact with, and transfers it through the pooling water to the technique's user.
 
@@ -577,10 +577,10 @@ Effects: Every 10 IC, everyone other than the user and up to Chakra Control/5 pe
 ## A-Rank
 {:#a-rank-9 .jutsu-rank-heading}
 
-#### Dai Bakusui Shouha - Great Exploding Water Shockwave
+#### ( <span lang="ja">大爆水衝波</span> ) Dai Bakusui Shouha - Great Exploding Water Shockwave
 {:#dai-bakusui-shouha-great-exploding-water-shockwave .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span> <span class="jutsu-keyword">Environmental</span></span>
 
 A stronger but less directly offensive version of the B-rank Exploding Water Shockwave, the user spits out a truly prodigious amount of water.
 
@@ -597,10 +597,10 @@ Effects: This adds 40 Gallons of Water to the Background. So long as there are a
 
 Additionally, anyone who is standing in its Area will begin sinking even if they have the Water Walking Ability (The currents are simply too tumultuous). They can swim at half their normal movement speed (movement-increasing jutsu typically will not work), and until they've exited the area suffer Suffocation 1 every 15 IC. Alternatively, they can take a Speed 2 action to stay at the surface for the next 15 IC.
 
-#### Suiton: Daibakufu - Water Release: Great Waterfall
+#### ( <span lang="ja">水遁・大瀑布</span> ) Suiton: Daibakufu - Water Release: Great Waterfall
 {:#suiton-daibakufu-water-release-great-waterfall .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span></span>
 
 This is one of the most powerful water ninjutsu in existence; once the appropriate seals are formed, the user unleashes a devastating tidal wave which tears across the battlefield like a scaled-down tsunami, knocking aside people, trees, and small buildings in its path.
 
@@ -617,10 +617,10 @@ Gallons Requirement: 20 \> 40
 Tags: Attack, AoE, Blunt  
 Effects: The wave pushes targets it hits away from you along its line.
 
-#### Suiton: Daikoudan - Water Release: Great Shark Blast
+#### ( <span lang="ja">水遁・大鮫弾</span> ) Suiton: Daikoudan - Water Release: Great Shark Blast
 {:#suiton-daikoudan-water-release-great-shark-blast .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span></span>
 
 This creates an enormous shark out of water and sends it crashing across the battlefield at whichever party has offended the user sufficiently for them to feel the need to do so. Aside from impacting its primary target, the shark is massive enough to cause significant collateral damage. The technique's true secret, however, is its ability to absorb any chakra it comes in contact with and use that energy to further empower itself.
 
@@ -638,10 +638,10 @@ Use Great Shark Blast to Interrupt a Projectile Attack whose Speed is at least t
 
 If the incoming damage is higher, take the difference. On a tie, both attacks end. If the shark wins, the attacker defends against its original damage roll, using any Accuracy bonuses from the interrupted attack. Resolve that defense normally.
 
-#### Suiton: Suiryuuben - Water Release: Water Hydra Whip
+#### ( <span lang="ja">水遁・水龍鞭</span> ) Suiton: Suiryuuben - Water Release: Water Hydra Whip
 {:#suiton-suiryuuben-water-release-water-hydra-whip .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Environmental</span></span>
 
 This jutsu creates a levitating orb of water which can project numerous whips and tendrils of water. These tendrils can be guided to targets by remote manipulation of the orb's chakra, even changing direction in mid-trajectory to find their targets. On top of that, they're sharp-tipped and more than capable of perforating opponents many times over.
 

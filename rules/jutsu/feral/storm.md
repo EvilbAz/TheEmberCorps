@@ -66,10 +66,10 @@ Once per Action, originating a Storm Jutsu from a Storm Node leaves that Node's 
 ## C-Rank
 {:#c-rank .jutsu-rank-heading}
 
-#### Ranton: Raikō no Yari - Storm Release: Arc Javelin
+#### ( <span lang="ja">嵐遁・雷光の槍</span> ) Ranton: Raikō no Yari - Storm Release: Arc Javelin
 {:#storm-release-arc-javelin .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Raiton</span> <span class="jutsu-keyword">Storm</span></span>
 
 *A thin spear of brilliant lightning tears through the air. The electricity clings to its victim and immediately searches for somewhere else to go.*
 
@@ -82,10 +82,10 @@ On hit, Arc Javelin applies Charge 1 before checking for an Arc. The new Charge 
 ## B-Rank
 {:#b-rank .jutsu-rank-heading}
 
-#### Ranton: Raigumo - Storm Release: Thunderhead
+#### ( <span lang="ja">嵐遁・雷雲</span> ) Ranton: Raigumo - Storm Release: Thunderhead
 {:#storm-release-thunderhead .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Raiton</span> <span class="jutsu-keyword">Storm</span></span>
 
 *A low ceiling of charged chakra gathers over the battlefield. Static crawls over every surface beneath it and lightning begins choosing its own paths.*
 
@@ -100,10 +100,10 @@ Every 10 IC after activation, choose one creature, object or point in the Area a
 ## A-Rank
 {:#a-rank .jutsu-rank-heading}
 
-#### Ranton: Sekai Kairo - Storm Release: World Circuit
+#### ( <span lang="ja">嵐遁・世界回路</span> ) Ranton: Sekai Kairo - Storm Release: World Circuit
 {:#storm-release-world-circuit .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Raiton</span> <span class="jutsu-keyword">Storm</span></span>
 
 *Every charged creature and object becomes part of one enormous circuit. Lightning stops travelling from the user to the enemy and starts travelling everywhere.*
 

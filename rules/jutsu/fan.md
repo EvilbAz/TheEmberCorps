@@ -18,10 +18,10 @@ permalink: "/rules/jutsu/fan/"
 ## E-Rank
 {:#e-rank-13 .jutsu-rank-heading}
 
-#### Hiraki Kaze - Opening Gust
+#### ( <span lang="ja">開き風</span> ) Hiraki Kaze - Opening Gust
 {:#opening-gust .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Movement</span></span>
 
 The first gust is modest but highly controllable.
 
@@ -35,10 +35,10 @@ Special: Knockback 4 (Drive) or Knockback 2 (Ride the Gust)
 Tags: Chain 1, Fan, Attack, Movement  
 Effects: Resolve Knockback equal to the greater of 4 or CHA/10. On a successful Special, choose any legal direction. If this breaks the target’s Reach to a creature it was restraining, apply the restraint’s normal separation rules.
 
-#### Ōgi no Ha - Folding Edge
+#### ( <span lang="ja">扇の刃</span> ) Ōgi no Ha - Folding Edge
 {:#folding-edge .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Attack</span></span>
 
 The fan snaps shut and is used like a short baton or edged frame.
 
@@ -50,10 +50,10 @@ Accuracy: \+1
 Tags: Chain 1, Fan, Attack  
 Effects: Melee only. On a full hit, the target takes −Athletics/5 Parry against your next Fan Chain attack.
 
-#### Kaeshi Kaze - Reversing Gust
+#### ( <span lang="ja">返し風</span> ) Kaeshi Kaze - Reversing Gust
 {:#reversing-gust .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Attack</span></span>
 
 The fan snaps the current back toward you, pulling the target into a shorter and less comfortable distance.
 
@@ -67,10 +67,10 @@ Special: Knockback 3
 Tags: Chain 2, Fan, Attack  
 Effects: Resolve Knockback using the greater of 3 or CHA/10; successful Knockback moves the target toward you rather than away.
 
-#### Zenkai Ōgi - Full Fan Gust
+#### ( <span lang="ja">全開扇</span> ) Zenkai Ōgi - Full Fan Gust
 {:#full-fan-gust .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Attack</span></span>
 
 The fan opens fully and the entire span contributes to one committed burst, driving a wall of air through the target hard enough to carry both body and guard with it.
 
@@ -84,10 +84,10 @@ Special: Knockback 5
 Tags: Chain 3, Fan, Attack  
 Effects: Gain +15% Wounding. Use the greater of 5 or CHA/10 as the printed Knockback.
 
-#### Kaze no Maku - Wind Screen
+#### ( <span lang="ja">風の幕</span> ) Kaze no Maku - Wind Screen
 {:#wind-screen .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 The fan catches a projectile in moving air instead of trying to meet it edge-on.
 
@@ -97,10 +97,10 @@ Speed: 3
 Tags: Chain X, Fan, Utility, Interrupt  
 Effects: Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5. A full success also ends any effect carried solely by that projectile before it reaches you. An independent area effect still resolves.
 
-#### Ōnagi - Broad Sweep
+#### ( <span lang="ja">大薙ぎ</span> ) Ōnagi - Broad Sweep
 {:#broad-sweep .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Attack</span></span>
 
 The fan is used to claim a broad patch of battlefield with one sweep.
 
@@ -117,10 +117,10 @@ Effects: Attack all chosen enemies in Area. Speed×PDB is divided among targets 
 ## D-Rank
 {:#d-rank-13 .jutsu-rank-heading}
 
-#### Gyakufū - Backdraft
+#### ( <span lang="ja">逆風</span> ) Gyakufū - Backdraft
 {:#backdraft .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Movement</span></span>
 
 The current is turned across the target rather than straight through them.
 
@@ -134,10 +134,10 @@ Special: Knockback 4
 Tags: Chain 2, Fan, Attack, Movement  
 Effects: Resolve Knockback equal to the greater of 4 or CHA/8 in any sideways direction. On a full hit, the target also takes a penalty of Athletics/5 on its next ranged Attack, consumed by that Attack.
 
-#### Suna Harai - Dust Sweep
+#### ( <span lang="ja">砂払い</span> ) Suna Harai - Dust Sweep
 {:#dust-sweep .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Attack</span></span>
 
 The sweep is designed to clear a lane whether the attack connects cleanly or not.
 
@@ -150,10 +150,10 @@ Speed: \+5
 Tags: Chain 3, Fan, Attack  
 Effects: Targets that fully Dodge move to the Area edge as part of that Defense. Targets hit suffer Visibility equal to the greater of 2 or Athletics/10, maximum 5, until they clear their eyes with a Speed 3 Utility Action. Apply Partial Defense to the severity normally.
 
-#### Kaze Yomi - Wind Sense
+#### ( <span lang="ja">風読み</span> ) Kaze Yomi - Wind Sense
 {:#wind-sense .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Utility</span></span>
 
 Tiny changes in pressure, cloth, dust, hair, and projectile flight are read as information.
 
@@ -163,10 +163,10 @@ Speed: 4
 Tags: Chain X, Fan, Utility  
 Effects: Make a Search using Chakra Control or Awareness with +Athletics/5. Your next Fan Attack against a creature located by this Search ignores Visibility penalties if it is your next non-Interrupt Action. It still requires a clear attack path.
 
-#### Michibiki no Kaze - Guided Wind
+#### ( <span lang="ja">導きの風</span> ) Michibiki no Kaze - Guided Wind
 {:#guided-wind .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Utility</span></span>
 
 The fan is held as a stable channel for both weapon pressure and Fuuton.
 
@@ -180,10 +180,10 @@ Effects: Increase the Range of Fan Bukijutsu and Fuuton cast through this fan by
 ## C-Rank
 {:#c-rank-13 .jutsu-rank-heading}
 
-#### Kirikaze - Shearing Wake
+#### ( <span lang="ja">切り風</span> ) Kirikaze - Shearing Wake
 {:#shearing-wake .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Attack</span></span>
 
 A tailwind follows the cut. Move with it.
 
@@ -196,10 +196,10 @@ Speed: \+2
 Tags: Chain 1, Fan, Attack  
 Effects: On a full hit, strip away the target’s maintained Prepare Blocking or equivalent Blocking stance. It must declare that stance again to regain its benefits. This does not end unrelated Upkeeps or cancel the Defense already resolved.
 
-#### Yokokaze no Ashi - Crosswind Step
+#### ( <span lang="ja">横風の足</span> ) Yokokaze no Ashi - Crosswind Step
 {:#crosswind-step .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Attack</span></span>
 
 The user lets the fan pull their body through a short movement while preserving the chain.
 
@@ -209,10 +209,10 @@ Speed: +1
 Tags: Link, Fan, Attack  
 Effects: Link to a Fan Attack. On a successful Knockback Special, you choose its direction. The target also becomes Prone using that same successful Status Roll. If the Attack has no Knockback, it gains Knockback equal to CHA/5, minimum 4.
 
-#### Toji no Kamae - Closed Guard
+#### ( <span lang="ja">閉じの構え</span> ) Toji no Kamae - Closed Guard
 {:#closed-guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 The fan closes into a compact guard that can actually receive melee force.
 
@@ -225,10 +225,10 @@ Effects: Parry a Melee Attack with +Athletics/5. On full success, your next Fan 
 ## B-Rank
 {:#b-rank-13 .jutsu-rank-heading}
 
-#### Kaeshi Hayate - Returning Gale
+#### ( <span lang="ja">返し疾風</span> ) Kaeshi Hayate - Returning Gale
 {:#returning-gale .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Movement</span></span>
 
 The return current drags the target across your line while carrying you into the space their balance just abandoned.
 
@@ -242,10 +242,10 @@ Special: Knockback 5
 Tags: Chain 2, Fan, Attack, Movement  
 Effects: Use the greater of 5 or CHA/5 as the printed Knockback. On a successful Special, choose any sideways direction and follow up to the target’s actual movement along a legal path. This follow replaces Move with an Attack for this technique.
 
-#### Taenaki Kaze - Seamless Wind
+#### ( <span lang="ja">絶えなき風</span> ) Taenaki Kaze - Seamless Wind
 {:#seamless-wind .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Utility</span></span>
 
 The fan catches the rhythm of a Fuuton and carries it through the current exchange, allowing wind chakra to pass through the sequence without forcing the weapon flow to reset.
 
@@ -258,10 +258,10 @@ Effects: Once per Chain, your next Fan-tagged Fuuton used may be used without br
 ## A-Rank
 {:#a-rank-13 .jutsu-rank-heading}
 
-#### Kazeyoke - Windbreak
+#### ( <span lang="ja">風避け</span> ) Kazeyoke - Windbreak
 {:#windbreak .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Attack</span></span>
 
 You split the battlefield with one violent current and leave the air behind it too unstable for clean projectile fire.
 
@@ -275,10 +275,10 @@ Special: Knockback 6
 Tags: Chain 3, Fan, Attack  
 Effects: Use the greater of 10 or CHA/3 as the printed Knockback. Gain +25% Final Damage. The Line remains turbulent until your next non-Interrupt Action; Ranged Taijutsu and Projectile Attacks crossing it take an Accuracy penalty of Athletics/5.
 
-#### Mukyoku no Nagare - Perfect Current
+#### ( <span lang="ja">無極の流れ</span> ) Mukyoku no Nagare - Perfect Current
 {:#perfect-current .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Fan</span> <span class="jutsu-keyword">Utility</span></span>
 
 You shape a single clean current around an obstacle, letting the next attack arrive from a line the target cannot simply read from your stance.
 

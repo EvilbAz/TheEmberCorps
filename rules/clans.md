@@ -114,10 +114,10 @@ Once per Attack, reduce Visibility penalties against a thrown weapon by 1 per ra
 
 **D-Rank**
 
-### Kage Shuriken no Jutsu - Shadow Shuriken Technique
+### ( <span lang="ja">影手裏剣の術</span> ) Kage Shuriken no Jutsu - Shadow Shuriken Technique
 {:#kage-shuriken-no-jutsu-shadow-shuriken-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Weapon</span></span>
 
 **Type:** Bukijutsu, Rank D  
 **Stamina:** 12  
@@ -134,10 +134,10 @@ After seeing the target's first Defense result, you can force them to reroll tha
 
 **C-Rank**
 
-### Fūma Shuriken: Engetsu - Returning Crescent
+### ( <span lang="ja">風魔手裏剣・円月</span> ) Fūma Shuriken: Engetsu - Returning Crescent
 {:#fuma-shuriken-engetsu-returning-crescent .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Weapon</span></span>
 
 **Type: Bukijutsu**, Rank C  
 **Stamina:** 14  
@@ -199,10 +199,10 @@ Suiton techniques using at least 20 gallons of natural water cost 1 less Chakra 
 
 **C-Rank**
 
-### Suiton: Kairyū no Michi - Sea Dragon Wake
+### ( <span lang="ja">水遁・海流の道</span> ) Suiton: Kairyū no Michi - Sea Dragon Wake
 {:#suiton-kairyu-no-michi-sea-dragon-wake .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Suiton</span></span>
 
 **Type:** Suiton Ninjutsu, Rank C
 
@@ -278,10 +278,10 @@ Fūton attacks against you while Smoke Body is active gain \+3 Accuracy. On a fu
 
 **D-Rank**
 
-### Kemuri Kakure - Vanishing Haze
+### ( <span lang="ja">煙隠れ</span> ) Kemuri Kakure - Vanishing Haze
 {:#kemuri-kakure-vanishing-haze .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Smoke</span></span>
 
 Type: Ninjutsu, Rank D
 
@@ -299,10 +299,10 @@ Until the end of your next Action, reduce penalties to Stealth caused by moving 
 
 **C-Rank**
 
-### Kemuri Utsusemi - Smoke Cicada Escape
+### ( <span lang="ja">煙空蝉</span> ) Kemuri Utsusemi - Smoke Cicada Escape
 {:#kemuri-utsusemi-smoke-cicada-escape .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Movement</span></span>
 
 **Type:** Ninjutsu, Rank C
 
@@ -406,10 +406,10 @@ The Junsugan does not see through solid obstacles and does not identify techniqu
 
 **C-Rank**
 
-### Kyōkai Ayumi - Boundary Step
+### ( <span lang="ja">境界歩み</span> ) Kyōkai Ayumi - Boundary Step
 {:#kyokai-ayumi-boundary-step .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Movement</span> <span class="jutsu-keyword">Dōjutsu</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 20  
@@ -457,10 +457,10 @@ Rank 3: Using the **Mentor** downtime action, you can learn any Jutsu that you h
 
 **D-Rank**
 
-### Tanjun Hien - Simple Flying Swallow
+### ( <span lang="ja">単純飛燕</span> ) Tanjun Hien - Simple Flying Swallow
 {:#tanjun-hien-simple-flying-swallow .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Weapon</span></span>
 
 **Type: Bukijutsu**, Rank D  
 **Chakra:** \+8  
@@ -477,10 +477,10 @@ A weapon must have a defined striking edge or point to use Hien.
 
 **C-Rank**
 
-### Haisekishō - Burning Ash
+### ( <span lang="ja">灰積焼</span> ) Haisekishō - Burning Ash
 {:#haisekisho-burning-ash .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Katon Ninjutsu, Rank C  
 **Chakra:** 24  
@@ -514,8 +514,12 @@ You can detonate the cloud with any damaging Katon that touches it. When detonat
 
 You can deliberately skim a recent sensory memory from another person.
 
-### \[Speed 10, Chakra 10, Utility, Touch, Genjutsu\] Read Memory
-{:#speed-10-chakra-10-utility-touch-genjutsu-read-memory}
+### ( <span lang="ja">記憶読み</span> ) Kioku Yomi - Read Memory
+{:#speed-10-chakra-10-utility-touch-genjutsu-read-memory .jutsu-technique}
+
+<span class="jutsu-badges"><span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Touch</span> <span class="jutsu-keyword">Genjutsu</span></span>
+
+\[Speed 10, Chakra 10, Utility, Touch, Genjutsu\]
 
 Against a willing or unconscious living target, no attack roll is required. Against a resisting target, make a normal Genjutsu Attack at Touch range.
 
@@ -540,10 +544,10 @@ No Heritage-specific purchasable abilities.
 
 **D-Rank**
 
-### Oto Genjutsu: Karigoe - Borrowed Voice
+### ( <span lang="ja">音幻術・借り声</span> ) Oto Genjutsu: Karigoe - Borrowed Voice
 {:#oto-genjutsu-borrowed-voice .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Indirect</span> <span class="jutsu-keyword">Genjutsu</span> <span class="jutsu-keyword">Sound</span></span>
 
 Type: Genjutsu, Rank D
 
@@ -561,10 +565,10 @@ Create a voice or other sound you have personally heard, originating from any po
 
 If you have successfully Read Memory containing the sound or voice, the reproduction is exact. A suspicious observer may contest your Genjutsu Accuracy with Awareness to identify it as false.
 
-### Kioku Utsushi - Memory Projection
+### ( <span lang="ja">記憶写し</span> ) Kioku Utsushi - Memory Projection
 {:#kioku-utsushi-memory-projection .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Indirect</span> <span class="jutsu-keyword">Genjutsu</span></span>
 
 Type: Genjutsu, Rank D
 
@@ -586,10 +590,10 @@ This technique does not control behaviour or conceal physical interaction with t
 
 **C-Rank**
 
-### Magen: Kuzureuta - Broken Refrain
+### ( <span lang="ja">魔幻・崩れ歌</span> ) Magen: Kuzureuta - Broken Refrain
 {:#magen-broken-refrain .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Area</span> <span class="jutsu-keyword">Genjutsu</span> <span class="jutsu-keyword">Sound</span> <span class="jutsu-keyword">Control</span></span>
 
 Type: Genjutsu, Rank C
 
@@ -615,10 +619,10 @@ On a full hit, apply Stun 2\. Until the end of the target’s next Action, the f
 
 If cast through Sound-Hidden Tradition, targets must be able to hear you when the technique resolves.
 
-### Kioku Sōshitsu - Memory Blocking Technique
+### ( <span lang="ja">記憶喪失</span> ) Kioku Sōshitsu - Memory Blocking Technique
 {:#kioku-soshitsu-memory-blocking-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Direct</span> <span class="jutsu-keyword">Genjutsu</span></span>
 
 **Type:** Genjutsu, Rank C
 
@@ -676,10 +680,10 @@ After a successful Take the Hit, reduce the intercepted attack’s Final Damage 
 
 **D-Rank**
 
-### Raiton: Ikazuchi Ayumi - Thunder Intercept
+### ( <span lang="ja">雷遁・雷歩み</span> ) Raiton: Ikazuchi Ayumi - Thunder Intercept
 {:#raiton-ikazuchi-ayumi-thunder-intercept .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Raiton</span> <span class="jutsu-keyword">Movement</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Self</span></span>
 
 Type: Ninjutsu, Rank D
 
@@ -701,10 +705,10 @@ Thunder Intercept cannot move through barriers or effects that would normally st
 
 **C-Rank**
 
-### Raiton: Raimei Tate - Thunder Guard
+### ( <span lang="ja">雷遁・雷鳴盾</span> ) Raiton: Raimei Tate - Thunder Guard
 {:#raiton-raimei-tate-thunder-guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Raiton</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Raiton Ninjutsu, Rank C
 
@@ -780,8 +784,10 @@ A Jutsu cannot generate Calibration from Jinton itself, and spending a Calibrati
 
 **C-Rank**
 
-### Jinton: Keii Kekkai - Coordinate Lattice
-{:#jinton-keii-kekkai-coordinate-lattice}
+### ( <span lang="ja">塵遁・経緯結界</span> ) Jinton: Keii Kekkai - Coordinate Lattice
+{:#jinton-keii-kekkai-coordinate-lattice .jutsu-technique}
+
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Jinton</span></span>
 
 Type: C Rank \- Jutsu  
 Chakra: 18  
@@ -811,8 +817,10 @@ The lattice is obvious to anyone who can see it. Enemies are free to leave it, w
 
 **B-Rank**
 
-### Jinton: Genkai Hakuri - Boundary Detachment
-{:#jinton-genkai-hakuri-boundary-detachment}
+### ( <span lang="ja">塵遁・限界剥離</span> ) Jinton: Genkai Hakuri - Boundary Detachment
+{:#jinton-genkai-hakuri-boundary-detachment .jutsu-technique}
+
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Jinton</span></span>
 
 Type: B Rank \- Jutsu  
 Chakra: 40  
@@ -833,8 +841,10 @@ During the Delay, the forming boundary is visible. If you suffer a Major or wors
 
 **A-Rank**
 
-### Jinton: Hakuri Kekkai - Detachment Prism
-{:#jinton-hakuri-kekkai-detachment-prism}
+### ( <span lang="ja">塵遁・剥離結界</span> ) Jinton: Hakuri Kekkai - Detachment Prism
+{:#jinton-hakuri-kekkai-detachment-prism .jutsu-technique}
+
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Jinton</span></span>
 
 Type: A Rank \- Jutsu  
 Chakra: 55  
@@ -907,10 +917,10 @@ At the second Rank of this ability, your speed doubles while swimming, and you d
 
 **B-Rank**
 
-### Suiton: Sameodori Kekkai - Shark-Dance Water Prison
+### ( <span lang="ja">水遁・鮫踊り結界</span> ) Suiton: Sameodori Kekkai - Shark-Dance Water Prison
 {:#suiton-sameodori-kekkai-shark-dance-water-prison .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Suiton</span></span>
 
 **Type:** Suiton Ninjutsu, Rank B  
 **Chakra:** 34  
@@ -1062,10 +1072,10 @@ When Triple Up ends normally, choose Red, White, or Orange. You retain that sing
 
 **D-Rank**
 
-#### Ryōchū no Shirushi - Kinsect Mark
+#### ( <span lang="ja">猟虫の印</span> ) Ryōchū no Shirushi - Kinsect Mark
 {:#kinsect-mark .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type: Bukijutsu**, Rank D  
 **Stamina:** 8  
@@ -1078,10 +1088,10 @@ Link this technique to an Insect Glaive Attack while your Kinsect is housed. If 
 
 Kinsect Mark cannot be linked to Dispatch Kinsect, Grand Harvest, or another technique that already sends the Kinsect away from you.
 
-#### Nobori Kamakiri - Rising Mantis
+#### ( <span lang="ja">登り蟷螂</span> ) Nobori Kamakiri - Rising Mantis
 {:#rising-mantis .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Movement</span> <span class="jutsu-keyword">Aerial</span></span>
 
 **Type: Bukijutsu**, Rank D  
 **Stamina:** 14  
@@ -1098,10 +1108,10 @@ If you have White Extract, use your full Vault distance instead. If you finish t
 ### C-Rank
 {:#c-rank-2}
 
-#### Chōyaku no Mai - Vaulting Dance
+#### ( <span lang="ja">跳躍の舞</span> ) Chōyaku no Mai - Vaulting Dance
 {:#vaulting-dance .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Movement</span> <span class="jutsu-keyword">Aerial</span></span>
 
 **Type: Bukijutsu**, Rank C  
 **Stamina:** 16  
@@ -1117,10 +1127,10 @@ Twist around the haft and use the impact as another launch point. If the Attack 
 
 If you have Red Extract, add two weapon damage dice.
 
-#### Kariudo no Yobimodoshi - Hunter's Recall
+#### ( <span lang="ja">狩人の呼び戻し</span> ) Kariudo no Yobimodoshi - Hunter's Recall
 {:#hunter-s-recall .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Movement</span> <span class="jutsu-keyword">Aerial</span></span>
 
 **Type: Bukijutsu**, Rank C  
 **Stamina:** 12  
@@ -1140,10 +1150,10 @@ If you have White Extract before this technique begins, increase the movement by
 ### B-Rank
 {:#b-rank-2}
 
-#### Daihōsaku - Grand Harvest
+#### ( <span lang="ja">大豊作</span> ) Daihōsaku - Grand Harvest
 {:#grand-harvest .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 24  
@@ -1161,10 +1171,10 @@ On a hit, choose two different Extract colors the target can provide. The Kinsec
 
 On a miss, the Kinsect immediately returns without an Extract. Grand Harvest cannot gain the same color twice and cannot be modified by Kinsect Mark.
 
-#### Rakka Suisei - Falling Comet
+#### ( <span lang="ja">落下彗星</span> ) Rakka Suisei - Falling Comet
 {:#falling-comet .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Movement</span> <span class="jutsu-keyword">Aerial</span></span>
 
 **Type: Bukijutsu**, Rank B  
 **Stamina:** 24  
@@ -1185,10 +1195,10 @@ If you have Orange Extract, reduce any Wounding penalty caused by a successful B
 ### A-Rank
 {:#a-rank-2}
 
-#### Sandan Shōten - Threefold Ascension
+#### ( <span lang="ja">三段昇天</span> ) Sandan Shōten - Threefold Ascension
 {:#threefold-ascension .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Movement</span> <span class="jutsu-keyword">Aerial</span></span>
 
 **Type: Bukijutsu**, Rank A  
 **Stamina:** 30  
@@ -1274,10 +1284,10 @@ Once per combat, after suffering a Major or worse Wound, you may spend 1 Devotio
 
 **C-Rank**
 
-### Seibetsu no En - Consecrated Circle
+### ( <span lang="ja">聖別の円</span> ) Seibetsu no En - Consecrated Circle
 {:#consecrated-circle .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Ritual</span> <span class="jutsu-keyword">Environmental</span></span>
 
 **Type:** Fūinjutsu, Rank C
 
@@ -1305,10 +1315,10 @@ Leaving the circle suppresses these benefits but does not end the circle.
 
 **B-Rank**
 
-### Jujutsu: Shiji Hyōketsu - Blood Rite Link
+### ( <span lang="ja">呪術・死司憑血</span> ) Jujutsu: Shiji Hyōketsu - Blood Rite Link
 {:#jujutsu-shiji-hyoketsu-blood-rite-link .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Ritual</span> <span class="jutsu-keyword">Mark</span></span>
 
 **Type:** Fūinjutsu, Rank B
 
@@ -1386,10 +1396,10 @@ Hunger returns to 0 after combat.
 
 **D-Rank**
 
-### Hikisaki Tobi - Rending Pounce
+### ( <span lang="ja">引き裂き飛び</span> ) Hikisaki Tobi - Rending Pounce
 {:#rending-pounce .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Movement</span> <span class="jutsu-keyword">Trapping</span></span>
 
 Type: Taijutsu, Rank D
 
@@ -1411,10 +1421,10 @@ Rending Pounce cannot be used if you could not legally Grapple the target.
 
 **C-Rank**
 
-### Kamiawase - Lockjaw
+### ( <span lang="ja">噛み合わせ</span> ) Kamiawase - Lockjaw
 {:#lockjaw .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Trapping</span></span>
 
 Type: Taijutsu, Rank C
 
@@ -1440,10 +1450,10 @@ Lockjaw can trigger Predator’s Jaw normally.
 
 **B-Rank**
 
-### Jūkei - Beast Form
+### ( <span lang="ja">獣形</span> ) Jūkei - Beast Form
 {:#beast-form .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Transformation</span></span>
 
 **Type:** Ninjutsu, Rank B
 
@@ -1500,10 +1510,10 @@ After a battle, the Swarm Pool returns to maximum after 1 hour if at least 1 poi
 
 **D-Rank**
 
-### Hachimitsu Numa - Honey Mire
+### ( <span lang="ja">蜂蜜沼</span> ) Hachimitsu Numa - Honey Mire
 {:#hachimitsu-numa-honey-mire .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span></span>
 
 **Type:** Ninjutsu, Rank D  
 **Chakra:** 14  
@@ -1526,10 +1536,10 @@ Clean Honey — Speed 5 Utility Action: remove 1 Severity from yourself or a wil
 
 **C-Rank**
 
-### Hachibakudan - Bee Bomb Swarm
+### ( <span lang="ja">蜂爆弾</span> ) Hachibakudan - Bee Bomb Swarm
 {:#hachibakudan-bee-bomb-swarm .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 22  
@@ -1550,10 +1560,10 @@ If the attack fully hits, you can leave 5 bees behind as a visible hazard. The n
 
 **B-Rank**
 
-### Mitsurō Bunshin - Beeswax Clone
+### ( <span lang="ja">蜜蝋分身</span> ) Mitsurō Bunshin - Beeswax Clone
 {:#mitsuro-bunshin-beeswax-clone .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Clone</span> <span class="jutsu-keyword">Creation</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 28  
@@ -1632,10 +1642,10 @@ You can Target multiple people with the Kagemane and Kagenui Techniques. Every p
 
 **D-Rank**
 
-### Kagemane no Jutsu - Shadow Imitation Technique
+### ( <span lang="ja">影真似の術</span> ) Kagemane no Jutsu - Shadow Imitation Technique
 {:#kagemane-no-jutsu-shadow-imitation-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type:** Ninjutsu, Rank D  
 **Chakra:** 16 + 2X  
@@ -1676,10 +1686,10 @@ Release one or all victims as Speed 0, ending their share of Upkeep. Release als
 
 **C-Rank**
 
-### Kage Nui no Jutsu - Shadow Sewing Technique
+### ( <span lang="ja">影縫いの術</span> ) Kage Nui no Jutsu - Shadow Sewing Technique
 {:#kage-nui-no-jutsu-shadow-sewing-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Piercing</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 10 + 2X  
@@ -1700,10 +1710,10 @@ Break Needles — Speed 5 Utility Action: the victim rolls Resistance against yo
 
 Each casting increases Kagemane’s escalating-use value once, hit or miss. When you use Kagemane on a creature restrained by your Shadow Sewing, reduce its −6 Accuracy penalty by that restraint’s current Severity, minimum 0. If possession attaches, release that creature’s needles. Multiple Shadow Bind uses one shared Upkeep X for the casting; the last victim’s release ends it. A new application replaces your previous needles on the same creature rather than stacking.
 
-### Kagebuki Shibari no Jutsu - Shadow Neck-Binding Technique
+### ( <span lang="ja">影武器縛りの術</span> ) Kagebuki Shibari no Jutsu - Shadow Neck-Binding Technique
 {:#kagebuki-shibari-no-jutsu-shadow-neck-binding-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** +5  
@@ -1721,10 +1731,10 @@ The linked technique follows its own repeat-use and ending rules. Only this oppo
 
 **B-Rank**
 
-### Kageyose no Jutsu - Shadow Endgame Technique
+### ( <span lang="ja">影寄せの術</span> ) Kageyose no Jutsu - Shadow Endgame Technique
 {:#kageyose-no-jutsu-shadow-endgame-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Preparation</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 25  
@@ -1852,10 +1862,10 @@ You cannot benefit from multiple Echoes on the same roll.
 
 **C-Rank**
 
-### Rinne: Shiroi Kaji - Samsara: White Forge
+### ( <span lang="ja">輪廻・白い鍛冶</span> ) Rinne: Shiroi Kaji - Samsara: White Forge
 {:#samsara-white-forge .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Creation</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 24  
@@ -1872,10 +1882,10 @@ Created weapons use ordinary equipment profiles and gain no free upgrades.
 
 **B-Rank**
 
-### Rinne: Kuroi Bunkai - Samsara: Black Reduction
+### ( <span lang="ja">輪廻・黒い分解</span> ) Rinne: Kuroi Bunkai - Samsara: Black Reduction
 {:#samsara-black-reduction .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 32  
@@ -1931,10 +1941,10 @@ A character may not hold both expressions unless a later Talent explicitly allow
 
 **C-Rank**
 
-### Hankyō Kuzushi - Feedback Break
+### ( <span lang="ja">反響崩し</span> ) Hankyō Kuzushi - Feedback Break
 {:#feedback-break .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Sound</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 20  
@@ -1953,10 +1963,10 @@ This is a Sound effect and is blocked by effects that explicitly prevent sound p
 
 **B-Rank**
 
-### Fukutsu no Sanka - Anthem of the Unbroken
+### ( <span lang="ja">不屈の賛歌</span> ) Fukutsu no Sanka - Anthem of the Unbroken
 {:#anthem-of-the-unbroken .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Sound</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 30  
@@ -2233,10 +2243,10 @@ This does not create a second Opening.
 ### D-Rank
 {:#d-rank-2}
 
-#### Kariudo no Ayumi - Hunter's Step
+#### ( <span lang="ja">狩人の歩み</span> ) Kariudo no Ayumi - Hunter's Step
 {:#hunter-s-step .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Movement</span></span>
 
 Type: Bukijutsu, Rank D  
 Stamina: 10  
@@ -2251,10 +2261,10 @@ If the linked Attack consumed Hunter's Opening, increase this movement to 3 yard
 ### C-Rank
 {:#c-rank-3}
 
-#### Hakai Uchi - Breaker Strike
+#### ( <span lang="ja">破壊打ち</span> ) Hakai Uchi - Breaker Strike
 {:#breaker-strike .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Weapon</span></span>
 
 Type: Bukijutsu, Rank C  
 Stamina: 16  
@@ -2270,10 +2280,10 @@ If Partbreaker also applies, these bonuses are additive rather than multiplicati
 ### B-Rank
 {:#b-rank-3}
 
-#### Chōbatsu Nuki - Punishing Draw
+#### ( <span lang="ja">懲罰抜き</span> ) Chōbatsu Nuki - Punishing Draw
 {:#punishing-draw .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Weapon</span></span>
 
 Type: Bukijutsu, Rank B  
 Stamina: 22  
@@ -2290,10 +2300,10 @@ In addition to Punishing Draw's listed bonus Damage Dice, choose one normal Hunt
 ### A-Rank
 {:#a-rank-3}
 
-#### Senjin Shokei - Vanguard Execution
+#### ( <span lang="ja">先陣処刑</span> ) Senjin Shokei - Vanguard Execution
 {:#vanguard-execution .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Weapon</span></span>
 
 Type: Bukijutsu, Rank A  
 Stamina: 30  
@@ -2342,10 +2352,10 @@ Mind Network does not read unwilling thoughts and does not reveal information a 
 
 **D-Rank**
 
-### Shindenshin no Jutsu - Mind Transmission Relay
+### ( <span lang="ja">心伝身の術</span> ) Shindenshin no Jutsu - Mind Transmission Relay
 {:#shindenshin-no-jutsu-mind-transmission-relay .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Clan</span></span>
 
 **Type:** Ninjutsu, Rank D  
 **Chakra:** 12  
@@ -2364,10 +2374,10 @@ Mind Transmission Relay does not share senses, memories, or unwilling thoughts.
 
 **C-Rank**
 
-### Shintenshin no Jutsu - Mind Body Switch Technique
+### ( <span lang="ja">心転身の術</span> ) Shintenshin no Jutsu - Mind Body Switch Technique
 {:#shintenshin-no-jutsu-mind-body-switch-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Direct</span> <span class="jutsu-keyword">Genjutsu</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type:** Genjutsu, Rank C  
 **Chakra:** 24  
@@ -2388,10 +2398,10 @@ Possession uses its own Wound release. Each time the controlled body suffers a M
 
 **B-Rank**
 
-### Shinranshin no Jutsu - Mind Disturbance Technique
+### ( <span lang="ja">心乱身の術</span> ) Shinranshin no Jutsu - Mind Disturbance Technique
 {:#shinranshin-no-jutsu-mind-disturbance-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Direct</span> <span class="jutsu-keyword">Genjutsu</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type:** Genjutsu, Rank B  
 **Chakra:** 34  
@@ -2477,10 +2487,10 @@ Additionally, the Aburame gets access to the following actions:
 
 **E-Rank**
 
-### Hijutsu: Konchū no Bōdō - Insect Insurrection
+### ( <span lang="ja">秘術・昆虫の暴動</span> ) Hijutsu: Konchū no Bōdō - Insect Insurrection
 {:#hijutsu-konchu-no-bodo-hidden-technique-insect-insurrection .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Link</span></span>
 
 **Type:** Ninjutsu, Rank E  
 **Speed:** +2; +5 on an Area Attack  
@@ -2495,10 +2505,10 @@ The insect is hidden at Stealth TN 25 + your Stealth bonus and may be found with
 
 Remove Insects — Speed 5 Utility Action: after discovering your infestation, the creature removes up to two of your female insects from itself. This also ends effects supplied by those removed insects.
 
-### Hijutsu: Mushiyose - Secret Technique: Bug Gathering
+### ( <span lang="ja">秘術・蟲寄せ</span> ) Hijutsu: Mushiyose - Secret Technique: Bug Gathering
 {:#hijutsu-mushiyose-secret-technique-bug-gathering .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Ninjutsu, Rank E  
 **Chakra:** 10  
@@ -2512,10 +2522,10 @@ This grants the Aburame a \+5 bonus on relevant Survival, Awareness, and Researc
 
 **D-Rank**
 
-### Hijutsu: Kikaichū Mushikui - Destruction Bug Bite
+### ( <span lang="ja">秘術・寄壊蟲虫食い</span> ) Hijutsu: Kikaichū Mushikui - Destruction Bug Bite
 {:#hijutsu-kikaichu-mushikui-hidden-technique-destruction-bug-bite .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Ninjutsu, Rank D  
 **Chakra:** 15  
@@ -2535,10 +2545,10 @@ Your insects already on the target gain one Stealth Level, maximum 3. Their Stea
 
 **C-Rank**
 
-### Hijutsu: Mushidama - Bug Sphere
+### ( <span lang="ja">秘術・蟲玉</span> ) Hijutsu: Mushidama - Bug Sphere
 {:#hijutsu-mushidama-hidden-technique-bug-sphere .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 24  
@@ -2557,10 +2567,10 @@ The enclosed Swarm occupies the victim’s space. An Area Attack containing that
 
 While enclosed, use the Swarm only for Bug Bite against that target, Insect Screen protecting a creature sharing its space, or Return. Ending Upkeep restores its previous radius around its current position and removes this Immobilization. Return uses its normal Speed and Range to bring the Swarm into you. Destruction of the Swarm ends the Jutsu. The same Swarm can enclose only one target.
 
-### Hijutsu: Mushikabe - Insect Screen
+### ( <span lang="ja">秘術・蟲壁</span> ) Hijutsu: Mushikabe - Insect Screen
 {:#hijutsu-mushikabe-insect-screen .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 18  
@@ -2572,10 +2582,10 @@ While enclosed, use the Swarm only for Bug Bite against that target, Insect Scre
 
 Pull the Swarm across an incoming attack. Choose yourself or one ally inside the Swarm. The Swarm takes the attack's final damage before the protected character. If the attack is single-target and the Swarm still has HP remaining afterward, the protected character is considered not to have been hit. Area attacks still affect the protected character normally, but the Swarm takes only half of the damage it would normally suffer from that Area.
 
-### Mushi Bunshin no Jutsu - Bug Clone Technique
+### ( <span lang="ja">蟲分身の術</span> ) Mushi Bunshin no Jutsu - Bug Clone Technique
 {:#mushi-bunshin-no-jutsu-bug-clone-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Clone</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 12 \+ 4\*X  
@@ -2598,10 +2608,10 @@ While one or more Clones are active, the Aburame gain access to the following ac
 
 * \[Speed 10\] Masquerade \- With the Aburame’s direct help and guidance, the Swarm condenses down fully into a perfectly you-shaped area or returns to its normal shape. While you-shaped, it gains a \+5 bonus on any rolls to convince other people that it is you. This action can only be used if there is only one clone.
 
-### Parasitic Destruction Insect Technique - Kikaichu no Jutsu
+### ( <span lang="ja">寄壊蟲の術</span> ) Kikaichū no Jutsu - Parasitic Destruction Insect Technique
 {:#parasitic-destruction-insect-technique-kikaichu-no-jutsu .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Range:** CHA/10  
@@ -2623,10 +2633,10 @@ Aburame gain access to the following actions to utilize their Kikaichu:
 
 **B-Rank**
 
-### Hijutsu: Mushitatsumaki - Devouring Cyclone
+### ( <span lang="ja">秘術・蟲竜巻</span> ) Hijutsu: Mushitatsumaki - Devouring Cyclone
 {:#hijutsu-mushitatsumaki-devouring-cyclone .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Piercing</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 30  
@@ -2638,10 +2648,10 @@ Aburame gain access to the following actions to utilize their Kikaichu:
 
 Everyone hostile inside the Swarm is attacked. On a hit, deal irreducible HP damage equal to 8 \+ twice the number of female insects on that target, maximum 28, and place one female insect. A target with 3 or more female insects also suffers \-2 to its next Chakra Exhaustion roll. After resolving this technique, the Swarm loses HP equal to CHA; if this would reduce it to 0, leave it at 1 instead.
 
-### Mushi Kame no Jutsu - Bug Jar Technique
+### ( <span lang="ja">蟲瓶の術</span> ) Mushi Kame no Jutsu - Bug Jar Technique
 {:#mushi-kame-no-jutsu-bug-jar-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Speed:** Variable  
@@ -2721,10 +2731,10 @@ Each rank grants 5 Calorie Points (CP). Spend CP one-for-one to reduce the Chakr
 
 **D-Rank**
 
-### Baika no Jutsu - Multi-Size Technique
+### ( <span lang="ja">倍化の術</span> ) Baika no Jutsu - Multi-Size Technique
 {:#baika-no-jutsu-multi-size-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Taijutsu, Rank D  
 **Chakra:** 15 \+ X/2  
@@ -2746,10 +2756,10 @@ X has a maximum of AGI/2. You subtract X points from your AGI, and add X/2 to yo
 
 * Your Taijutsu attacks have a reach of \+1 yards.
 
-### Nikudan Sensha - Human Bullet Tank
+### ( <span lang="ja">肉弾戦車</span> ) Nikudan Sensha - Human Bullet Tank
 {:#nikudan-sensha-human-bullet-tank .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Movement</span></span>
 
 **Type:** Taijutsu, Rank D  
 **Chakra:** 20  
@@ -2768,10 +2778,10 @@ Release any Grapple you control on activation. Against a Grapple holding you, ga
 
 Ending Upkeep is Speed 0 and ends Rolling. Losing Baika or Chō Baika also ends it. You can replace Baika with Chō Baika without interrupting Rolling when the new size form takes effect in the same Action.
 
-### Kaiten Assai - Rolling Crush
+### ( <span lang="ja">回転圧砕</span> ) Kaiten Assai - Rolling Crush
 {:#rolling-crush .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span> <span class="jutsu-keyword">Movement</span></span>
 
 **Type:** Taijutsu, Rank D  
 **Stamina:** 15  
@@ -2792,10 +2802,10 @@ Rolling Crush leaves the rolling form active, hit or miss. It grants only the mo
 
 **C-Rank**
 
-### Bubun Baika no Jutsu - Partial Multi-Size Technique
+### ( <span lang="ja">部分倍化の術</span> ) Bubun Baika no Jutsu - Partial Multi-Size Technique
 {:#bubun-baika-no-jutsu-partial-multi-size-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Link</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Chakra:** 5 \+ X/4  
@@ -2806,10 +2816,10 @@ Rolling Crush leaves the rolling form active, hit or miss. It grants only the mo
 
 This is added on to any Taijutsu Attack. During that attack your STR is increased by X, to a maximum of double your normal STR. You cannot use this while Baika no Jutsu or Cho Baika no Jutsu are active.
 
-### Nikudan Hari Sensha - Spiked Human Bullet Tank
+### ( <span lang="ja">肉弾針戦車</span> ) Nikudan Hari Sensha - Spiked Human Bullet Tank
 {:#nikudan-hari-sensha-spiked-human-bullet-tank .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Movement</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Chakra:** 30  
@@ -2828,10 +2838,10 @@ You may turn freely on a later Move Action. Each Rolling Crush still requires it
 
 **B-Rank**
 
-### Cho Baika no Jutsu - Super Multi-Size Technique
+### ( <span lang="ja">超倍化の術</span> ) Cho Baika no Jutsu - Super Multi-Size Technique
 {:#cho-baika-no-jutsu-super-multi-size-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Taijutsu, Rank B  
 **Chakra:** 20 \+ X/2  
@@ -2863,10 +2873,10 @@ When active, the following effects are applied:
 
 * You are immune to any environmental effect with an area of X/5 or less.
 
-### Chōdan Bakugeki - Butterfly Bullet Bombing
+### ( <span lang="ja">蝶弾爆撃</span> ) Chōdan Bakugeki - Butterfly Bullet Bombing
 {:#chodan-bakugeki-butterfly-bullet-bombing .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span></span>
 
 **Type:** Taijutsu, Rank B  
 **Chakra:** 40  
@@ -2884,10 +2894,10 @@ After Move-with-Attack movement, strike a primary target within Unarmed reach an
 
 Pay Chakra after applying Calorie Conversion, using the resulting cost for the exhaustion roll. If reduced to 0, no Chakra Exhaustion roll is required. Resolve CP recovery under Calorie Conversion normally.
 
-### Chō Chakra Mode - Butterfly Mode
+### ( <span lang="ja">蝶チャクラモード</span> ) Chō Chakura Mōdo - Butterfly Mode
 {:#cho-chakra-mode-butterfly-mode .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 25  
@@ -3950,10 +3960,10 @@ Once per Week's Rest, you may redesign your Hunter Arm's Modifications without s
 ### D-Rank
 {:#d-rank-3}
 
-#### Handō no Ayumi - Recoil Step
+#### ( <span lang="ja">反動の歩み</span> ) Handō no Ayumi - Recoil Step
 {:#recoil-step .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Movement</span> <span class="jutsu-keyword">Ballistic</span></span>
 
 Type: Bukijutsu, Rank D
 
@@ -3969,10 +3979,10 @@ Link to a Ballistic Attack. After the Attack resolves, move up to AGI / 20 yards
 
 If the weapon has Heavy, halve this movement unless you were Braced when the triggering Attack was declared. This movement cannot pass through creatures or solid barriers.
 
-#### Haya Sōten - Quick Chamber
+#### ( <span lang="ja">早装填</span> ) Haya Sōten - Quick Chamber
 {:#quick-chamber .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Ballistic</span></span>
 
 Type: Bukijutsu, Rank D
 
@@ -3993,10 +4003,10 @@ Quick Chamber is a Reload for effects that modify or trigger from Reloading.
 ### C-Rank
 {:#c-rank-4}
 
-#### Hakai Dan - Breaker Shot
+#### ( <span lang="ja">破壊弾</span> ) Hakai Dan - Breaker Shot
 {:#breaker-shot .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Ballistic</span></span>
 
 Type: Bukijutsu, Rank C
 
@@ -4014,10 +4024,10 @@ Make a Ballistic Attack. It deals \+50% damage to Armor Durability, physical Bar
 
 If fired with Pierce ammunition, the Attack also gains \+5% Wounding.
 
-#### Engo Shageki - Covering Fire
+#### ( <span lang="ja">援護射撃</span> ) Engo Shageki - Covering Fire
 {:#covering-fire .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Ballistic</span></span>
 
 Type: Bukijutsu, Rank C
 
@@ -4039,10 +4049,10 @@ Hit or miss, until the beginning of your next Action that creature suffers \-2 o
 
 Covering Fire is one Attack. Burst cannot also modify it.
 
-#### Shunsha - Snap Shot
+#### ( <span lang="ja">瞬射</span> ) Shunsha - Snap Shot
 {:#snap-shot .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Ballistic</span></span>
 
 Type: Bukijutsu, Rank C
 
@@ -4067,10 +4077,10 @@ This Attack has no weapon Delay.
 ### B-Rank
 {:#b-rank-4}
 
-#### Mōjū no Shōjun - Predator's Zero
+#### ( <span lang="ja">猛獣の照準</span> ) Mōjū no Shōjun - Predator's Zero
 {:#predator-s-zero .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Ballistic</span></span>
 
 Type: Bukijutsu, Rank B
 
@@ -4088,10 +4098,10 @@ Until you voluntarily move, Reload, change weapons, choose a different target fo
 
 If your weapon is Scoped, you may Aim as part of Predator's Zero without additional Speed. Predator's Zero ends after one Attack.
 
-#### Kariudo no Dansō - Hunter's Magazine
+#### ( <span lang="ja">狩人の弾倉</span> ) Kariudo no Dansō - Hunter's Magazine
 {:#hunter-s-magazine .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Ballistic</span></span>
 
 Type: Bukijutsu, Rank B
 
@@ -4112,10 +4122,10 @@ Hunter's Magazine does not allow incompatible ammunition and does not duplicate 
 ### A-Rank
 {:#a-rank-4}
 
-#### Hiryū Shokei - Wyvern Execution
+#### ( <span lang="ja">飛竜処刑</span> ) Hiryū Shokei - Wyvern Execution
 {:#wyvern-execution .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Ballistic</span> <span class="jutsu-keyword">Piercing</span></span>
 
 Type: Bukijutsu, Rank A
 
@@ -4227,10 +4237,10 @@ Explosion: After the linked declaration resolves, other creatures within 3 yards
 
 **E-Rank**
 
-### Futtō - Boil
+### ( <span lang="ja">沸騰</span> ) Futtō - Boil
 {:#boil .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Futton Ninjutsu, Rank E  
 **Chakra:** 5 \+ X  
@@ -4247,10 +4257,10 @@ Boil cannot erase Mokuton, Hyōton, or another advanced nature merely because Su
 
 **D-Rank**
 
-### Fukasu Gafu - Steam Canvas
+### ( <span lang="ja">吹かすガフ</span> ) Fukasu Gafu - Steam Canvas
 {:#fukasu-gafu-steam-canvas .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Environmental</span></span>
 
 **Type:** Futton Ninjutsu, Rank D  
 **Chakra:** 15  
@@ -4268,10 +4278,10 @@ After a Melee Attack made against you resolves, the attacker takes CHA/2 Energy 
 
 If the mist is dispersed, both effects are suppressed until the start of your next Action. If you are still maintaining the Upkeep at that point, the mist returns at full strength.
 
-### Futton: Atsuryoku Gyakufunsha - Steam Reversal
+### ( <span lang="ja">沸遁・圧力逆噴射</span> ) Futton: Atsuryoku Gyakufunsha - Steam Reversal
 {:#futton-atsuryoku-gyakufunsha-steam-reversal .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 **Type:** Futton Ninjutsu, Rank D  
 **Chakra:** 12  
@@ -4287,10 +4297,10 @@ If this movement takes you outside the space affected by the Attack, the Attack 
 
 **C-Rank**
 
-### Futton: Kairiki Musō - Unrivalled Strength
+### ( <span lang="ja">沸遁・怪力無双</span> ) Futton: Kairiki Musō - Unrivalled Strength
 {:#futton-kairiki-muso-unrivalled-strength .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Futton Ninjutsu, Rank C  
 **Chakra:** 24  
@@ -4307,10 +4317,10 @@ Once per Action, after a damaging Taijutsu Attack is not fully avoided but befor
 
 **B-Rank**
 
-### Futton: Fushoku Kiri - Corrosive Mist Prison
+### ( <span lang="ja">沸遁・腐食霧</span> ) Futton: Fushoku Kiri - Corrosive Mist Prison
 {:#futton-fushoku-kiri-corrosive-mist-prison .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Futton Ninjutsu, Rank B  
 **Chakra:** 36  
@@ -4328,10 +4338,10 @@ While the Upkeep is maintained, another creature that enters the Area or begins 
 
 Whenever Armor absorbs Damage from this Jutsu, double the Durability lost from that Absorption. Damage this Jutsu deals directly to Armor or created barriers is also doubled. Each time Armor absorbs Damage from the mist, reduce that Armor piece's Absorption by 5%, to a maximum reduction of 25% from this Jutsu. This reduction remains while its wearer is inside the mist and until the end of their next Action after leaving it.
 
-### Sekai no Tokeru - Dissolving World
+### ( <span lang="ja">世界の溶ける</span> ) Sekai no Tokeru - Dissolving World
 {:#sekai-no-tokeru-dissolving-world .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Futton Ninjutsu, Rank B  
 **Chakra: 25 \+ X/5 (Rounded Up)**  
@@ -4350,8 +4360,10 @@ Other creatures in the Area defend against this Jutsu normally. A creature that 
 
 **Unranked**
 
-### Jōki Kikan - Steam Engine
-{:#joki-kikan-steam-engine}
+### ( <span lang="ja">蒸気機関</span> ) Jōki Kikan - Steam Engine
+{:#joki-kikan-steam-engine .jutsu-technique}
+
+<span class="jutsu-badges"><span class="jutsu-rank-badge">Unranked</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Futton Ninjutsu, Unranked  
 **Chakra:** 5  
@@ -4404,10 +4416,10 @@ Your internal reserve is 20 gallons. You recover all missing internal gallons af
 
 **D-Rank**
 
-### Mizudeppō no Jutsu - Water Gun
+### ( <span lang="ja">水鉄砲の術</span> ) Mizudeppō no Jutsu - Water Gun
 {:#mizudeppo-no-jutsu-water-gun .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Piercing</span></span>
 
 **Type:** Ninjutsu, Rank D  
 **Chakra:** 12  
@@ -4423,10 +4435,10 @@ Your internal reserve is 20 gallons. You recover all missing internal gallons af
 
 Fire a compressed droplet from one fingertip. It ignores 20% Armor Absorption. If this attack is a Surprise attack, it deals 20% additional damage when determining wounds. If this attack is a *Sneak Attack* it is considered speed 1+G  when determining defences.
 
-### Suika no Jutsu - Hydration Technique
+### ( <span lang="ja">水化の術</span> ) Suika no Jutsu - Hydration Technique
 {:#suika-no-jutsu-hydration-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 **Type:** Suiton Ninjutsu, Rank D  
 **Chakra:** 8  
@@ -4452,10 +4464,10 @@ You may fuel Suiton from Water Reserve while Hydrated. Remove all invested gallo
 
 **C-Rank**
 
-### Masakana Namiochiru - Demon Fishwave
+### ( <span lang="ja">マサカナ波落ちる</span> ) Masakana Namiochiru - Demon Fishwave
 {:#masakana-namiochiru-demon-fishwave .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Transformation</span></span>
 
 **Type:** Suiton Ninjutsu, Rank C  
 **Chakra:** 22  
@@ -4474,10 +4486,10 @@ While maintained, gain +1 PDB and NDB per full 20 gallons held and DR equal to h
 
 A Suiton-only Attack that hits you deals no damage, but its other effects resolve normally. Absorb up to your available capacity from the water still present after that Jutsu’s normal consumption; place any remainder on the battlefield. If the Attack hits several eligible Fishwaves, divide its remaining gallons equally among them, rounding down and capping each share at its available capacity. Leave all unabsorbed water on the battlefield. Against Doton, halve Fishwave’s DR; Raiton ignores it. Mixed-element Attacks use Hydration’s damage table and do not feed Fishwave.
 
-### Gekitō Tsunami - Crashing Tsunami
+### ( <span lang="ja">激闘津波</span> ) Gekitō Tsunami - Crashing Tsunami
 {:#crashing-tsunami .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Blunt</span> <span class="jutsu-keyword">Movement</span></span>
 
 **Type:** Suiton Taijutsu, Rank C  
 **Stamina:** 18  
@@ -4495,10 +4507,10 @@ Move your normal Move-with-Attack allowance, already halved by Hydration, plus C
 
 **B-Rank**
 
-### Gōsuiwan no Jutsu - Great Water Arm
+### ( <span lang="ja">豪水腕の術</span> ) Gōsuiwan no Jutsu - Great Water Arm
 {:#gosuiwan-no-jutsu-great-water-arm .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Suiton Ninjutsu, Rank B  
 **Chakra:** 20 + 3X  
@@ -4514,10 +4526,10 @@ Unarmed and Taijutsu Attacks using this arm gain Knockback X/2, rounded down, re
 
 Maintain only one Great Water Arm. Hydration suppresses its benefits while its Upkeep remains payable; ending Hydration restores them. Partial Hydrification does not suppress it. Ending Great Water Arm restores the arm; if your weapon then requires a second hand, occupy that hand or drop the weapon.
 
-### Obomizu Katamari no Jutsu - Drowning Water Blob Technique
+### ( <span lang="ja">溺水塊の術</span> ) Obomizu Katamari no Jutsu - Drowning Water Blob Technique
 {:#obomizu-katamari-no-jutsu-drowning-water-blob-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type:** Suiton Ninjutsu, Rank B  
 **Chakra:** 24  
@@ -4538,10 +4550,10 @@ Break Free — Speed 6 Utility Action: the victim rolls Athletics or Resistance 
 
 End the Blob when its Immobilization reaches 0, the victim moves more than 3 yards from you, or you end Upkeep or Hydration. Its Immobilization then ends and Suffocation begins fading normally. The water is part of your body: Attacks directed at it target you from its location and use your defenses and Hydration. One Area Attack covering both you and the Blob damages you only once.
 
-### Suika Bunretsu - Liquefaction Split
+### ( <span lang="ja">水化分裂</span> ) Suika Bunretsu - Liquefaction Split
 {:#suika-bunretsu-liquefaction-split .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Movement</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 30  
@@ -4608,10 +4620,10 @@ Whenever you successfully apply Sealed Tenketsu to a target, increase the applie
 
 **E-Rank**
 
-### Jyuuken - Gentle Fist
+### ( <span lang="ja">柔拳</span> ) Jyuuken - Gentle Fist
 {:#jyuuken-gentle-fist .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Piercing</span> <span class="jutsu-keyword">Opener</span></span>
 
 **Type:** Clan Unarmed Taijutsu, Rank E  
 **Chakra:** 8  
@@ -4642,10 +4654,10 @@ Sealed Tenketsu stacks fully with itself, but the victim's body naturally tries 
 
 **D-Rank**
 
-### Hakke Sanjuuni Shou - Eight Trigrams Thirty-Two Palms
+### ( <span lang="ja">八卦三十二掌</span> ) Hakke Sanjuuni Shou - Eight Trigrams Thirty-Two Palms
 {:#hakke-sanjuuni-shou-eight-trigrams-thirty-two-palms .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Finisher 2</span> <span class="jutsu-keyword">Piercing</span></span>
 
 **Type:** Combo Taijutsu, Rank D  
 **Stamina:** 16  
@@ -4663,10 +4675,10 @@ This attack uses your NDB and reduces Blocking’s effectiveness by 25%, ignores
 
 **C-Rank**
 
-### Hakke Kuushou - Eight Trigrams Empty Palm
+### ( <span lang="ja">八卦空掌</span> ) Hakke Kuushou - Eight Trigrams Empty Palm
 {:#hakke-kuushou-eight-trigrams-empty-palm .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Piercing</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Chakra:** 8  
@@ -4686,10 +4698,10 @@ This jutsu follows the same rules as Jyuuken with the following exceptions:
 
 * The attack applies knockback of (CHA/10) yards directly away from the user.
 
-### Hakke Kūshō - Vacuum Wall Palm
+### ( <span lang="ja">八卦空壁掌</span> ) Hakke Kūhekishō - Vacuum Wall Palm
 {:#hakke-kusho-vacuum-wall-palm .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span> <span class="jutsu-keyword">Projectile</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Stamina:** 14  
@@ -4704,10 +4716,10 @@ This jutsu follows the same rules as Jyuuken with the following exceptions:
 
 A compressed palm strike travels through the air. On hit, apply Sealed Tenketsu 1\. A creature already suffering Sealed Tenketsu is knocked back a number of yards equal to half its current severity.
 
-### Hakke Rokujuyon Shou - Eight Trigrams Sixty-Four Palms
+### ( <span lang="ja">八卦六十四掌</span> ) Hakke Rokujuyon Shou - Eight Trigrams Sixty-Four Palms
 {:#hakke-rokujuyon-shou-eight-trigrams-sixty-four-palms .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Finisher 4</span> <span class="jutsu-keyword">Piercing</span></span>
 
 **Type:** Combo Taijutsu, Rank C  
 **Stamina:** 24  
@@ -4723,10 +4735,10 @@ Combo Bonus: \+5d4 damage, \+2 Stun, \+1 Sealed Tenketsu, \+1 Immobilize
 
 This attack uses your NDB and inflicts Sealed Tenketsu 2, reduces Blocking’s effectiveness by 50%, ignores armor, and bypasses half of an opponent’s DR. This attack may not be converted with Jyuuken. The immobility from this technique ends when the target's stun condition goes away. Half of this technique’s damage is dealt directly to an opponent’s HP while the rest is dealt to their vitality as normal (or hp is they run out of vitality. This technique calculates wounding by taking the total damage and comparing it to the opponents hp wounding thresholds.
 
-### Hakkeshou Kaiten - Eight Trigrams Palm Revolving Heaven
+### ( <span lang="ja">八卦掌回天</span> ) Hakkeshou Kaiten - Eight Trigrams Palm Revolving Heaven
 {:#hakkeshou-kaiten-eight-trigrams-palm-revolving-heaven .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Stamina:** 10 \+ X  
@@ -4745,10 +4757,10 @@ Kaiten's radius is up to CHA/20 yards. Anyone in range when it's activated must 
 
 This technique's only true weakness is that it is ineffective if the user cannot spin. If suffering from a \-6 or greater immobilization penalty or you are prone, you cannot utilize Kaiten.
 
-### Juukenpo Ichigekishin - Gentle Fist Art One Blow Body
+### ( <span lang="ja">柔拳法一撃身</span> ) Juukenpo Ichigekishin - Gentle Fist Art One Blow Body
 {:#juukenpo-ichigekishin-gentle-fist-art-one-blow-body .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Chakra:** 15+X  
@@ -4762,10 +4774,10 @@ This jutsu ends the effect of any Immobilization penalty on the Hyūga stemming 
 
 **B-Rank**
 
-### Hakke Hyaku Nijuuhachi Shou - Eight Trigrams One Hundred Twenty-Eight Palms
+### ( <span lang="ja">八卦百二十八掌</span> ) Hakke Hyaku Nijuuhachi Shou - Eight Trigrams One Hundred Twenty-Eight Palms
 {:#hakke-hyaku-nijuuhachi-shou-eight-trigrams-one-hundred-twenty-eight-palms .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Finisher 5</span> <span class="jutsu-keyword">Piercing</span></span>
 
 **Type:** Combo Taijutsu, Rank B  
 **Stamina:** 34  
@@ -4781,10 +4793,10 @@ Combo Bonus: \+10d4 damage, \+2 Stun, \+2 Sealed Tenketsu, \+2 Immobilize while 
 
 This attack uses your NDB and reduces Blocking’s effectiveness by 50%, ignores armor, and bypasses the opponent's DR. This attack may not be converted with Jyuuken. The immobility from this technique ends when the target's stun condition goes away. Half of this technique’s damage is dealt directly to an opponent’s HP while the rest is dealt to their vitality as normal (or hp is they run out of vitality. This technique calculates wounding by taking the total damage and comparing it to the opponents hp wounding thresholds.
 
-### Jūho Sōshiken - Gentle Step Twin Lion Fists
+### ( <span lang="ja">柔歩双獅拳</span> ) Jūho Sōshiken - Gentle Step Twin Lion Fists
 {:#juho-soshiken-gentle-step-twin-lion-fists .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 30  
@@ -4796,10 +4808,10 @@ This attack uses your NDB and reduces Blocking’s effectiveness by 50%, ignores
 
 Chakra lions form around your hands. Your Gentle Fist attacks gain \+1 Accuracy and treat their final damage as 25% higher for Wounding. Whenever one hits a creature suffering Sealed Tenketsu, increase its next Chakra Exhaustion cost by that target's Sealed Tenketsu severity, maximum \+6. When you fully defend against a melee attack, you can spend 4 AP to make a Gentle Fist Basic Attack against the attacker as a Speed 6 attack without moving your Initiative Count.
 
-### Hakke Nihyaku Gjouroku Sho - Eight Trigrams Two-Hundred Fifty-Six Palms
+### ( <span lang="ja">八卦二百五十六掌</span> ) Hakke Nihyaku Gojūroku Shō - Eight Trigrams Two-Hundred Fifty-Six Palms
 {:#hakke-nihyaku-gjouroku-sho-eight-trigrams-two-hundred-fifty-six-palms .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Finisher 8</span> <span class="jutsu-keyword">Piercing</span></span>
 
 **Type:** Combo Taijutsu, Rank A  
 **Stamina:** 40  
@@ -4903,10 +4915,10 @@ If the creature cannot legally Break Away, it must Hold Ground.
 
 **D-Rank**
 
-### Dainamikku Mākingu - Dynamic Marking
+### ( <span lang="ja">ダイナミックマーキング</span> ) Dainamikku Mākingu - Dynamic Marking
 {:#dynamic-marking .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Taijutsu, Rank D  
 **Stamina:** 6  
@@ -4918,10 +4930,10 @@ If the creature cannot legally Break Away, it must Hold Ground.
 
 Your Ninken marks one target by scent. This can be Dodged but not Blocked or Parried. On hit, you and your Ninken know the target's direction while within Survival x 20 yards for the remainder of the scene, and ignore the first 2 points of Visibility penalties when attacking or Searching for that target. A marked target cannot become completely untrackable through mundane scent masking.
 
-### Shikyaku no Jutsu - Four Legs Technique
+### ( <span lang="ja">四脚の術</span> ) Shikyaku no Jutsu - Four Legs Technique
 {:#shikyaku-no-jutsu-four-legs-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Ninjutsu, Rank D  
 **Chakra:** 12  
@@ -4933,10 +4945,10 @@ Your Ninken marks one target by scent. This can be Dodged but not Blocked or Par
 
 Your AGI counts 25% higher for purposes of movement while you are using this, you cannot use ninjutsu or hold weapons (even in your teeth). All Taijutsu attacks deal slashing damage and increase their wounding by 25%. Any benefits your Ninken gains from “Bestial Teamwork” you gain also, and if anyone enters stealth within AGI yards of you whilst this is active, you get an immediate awareness roll vs their Stealth TN. Ninjutsu and genjutsu effects which you had used prior and are still in effect, remain in effect.
 
-### Tsuga - Passing Fang
+### ( <span lang="ja">通牙</span> ) Tsuga - Passing Fang
 {:#tsuga-passing-fang .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Slashing</span></span>
 
 **Type:** Taijutsu, Rank D  
 **Stamina:** 10 \+ X/3  
@@ -4956,10 +4968,10 @@ This attack’s damage is increased by 1% for every 2 yards you traveled to your
 
 **C-Rank**
 
-### Gatsuga - Fang Passing Fang
+### ( <span lang="ja">牙通牙</span> ) Gatsuga - Fang Passing Fang
 {:#gatsuga-fang-passing-fang .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Finisher 3</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Stamina:** 10 \+ 5\*X  
@@ -4983,10 +4995,10 @@ Set X to any number up to your cadence rank, and you do this jutsu that many tim
 
 This attack’s damage is increased by 1% for every 2 yards you travel to your target as part of this jutsu, calculated per each attack. Additionally, unlike normal attacks, you don’t have to stop at your opponent and can continue moving using any remaining movement to move past your opponent. Your move while attacking is determined using the Speed 10 per attack.
 
-### Jujin Bunshin - Beast Human Clone
+### ( <span lang="ja">獣人分身</span> ) Jujin Bunshin - Beast Human Clone
 {:#jujin-bunshin-beast-human-clone .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Clone</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Chakra:** 15  
@@ -5008,10 +5020,10 @@ If you are in a combo, attacks from your ninken don’t break your combo, and ev
 
 Your Ninken in Jujin Bunshin calculate their vitality for wounding purposes as being 75% of your maximum vitality (Instead of 50%), and if they take a severe wound whilst in Jujin Bunshin, they are knocked out of the technique. If this happens, or the technique is ended for any other reason, your Ninken rejoins the IC on the IC the technique ended. If the technique was ended via a wound, the ninken will still need to wait out the stun it just received before it can take any actions.
 
-### Renzoku Gatsuga - Fang Relay
+### ( <span lang="ja">連続牙通牙</span> ) Renzoku Gatsuga - Fang Relay
 {:#renzoku-gatsuga-fang-relay .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Link</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Stamina:** 18  
@@ -5025,10 +5037,10 @@ Declare one valid melee Taijutsu attack for yourself and one for your Ninken. Re
 
 **B-Rank**
 
-### Jinju Konbi Henge: Sotoro - Human Beast Combination Transformation: DoubleHeaded Wolf
+### ( <span lang="ja">人獣混合変化・双頭狼</span> ) Jinju Konbi Henge: Sotoro - Human Beast Combination Transformation: DoubleHeaded Wolf
 {:#jinju-konbi-henge-sotoro-human-beast-combination-transformation-doubleheaded-wolf .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Taijutsu, Rank B  
 **Chakra:** 25  
@@ -5050,10 +5062,10 @@ Turning into this form also allows you to be ridden as a Speed 2 Delay 2 action.
 
 **A-Rank**
 
-### Garouga - Wolf Passing Fang
+### ( <span lang="ja">牙狼牙</span> ) Garouga - Wolf Passing Fang
 {:#garouga-wolf-passing-fang .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Finisher 5</span> <span class="jutsu-keyword">Slashing</span></span>
 
 **Type:** Taijutsu, Rank A  
 **Stamina:** 10 \+ 10\*X  
@@ -5083,10 +5095,10 @@ Two Bodies, One Hunt. Your Ninken is an active combat partner rather than a seco
 
 Bestial Teamwork improves every 300 total XP instead of every 400 XP. Whenever a Bestial Teamwork choice would be duplicated by another effect, you can choose another valid option instead.
 
-### Jinjū Konbi: Santōrō - Three-Headed Beast
+### ( <span lang="ja">人獣混合・三頭狼</span> ) Jinjū Konbi: Santōrō - Three-Headed Beast
 {:#jinju-konbi-santoro-three-headed-beast .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Transformation</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Ninjutsu, Rank A  
 **Chakra:** 45  
@@ -5200,10 +5212,10 @@ If you reach **0 WP while Senninka is active**, you gain **Bloodlust**. Until yo
 
 **E-Rank**
 
-### Kassokuken - Piston Fist
+### ( <span lang="ja">活塞拳</span> ) Kassokuken - Piston Fist
 {:#kassokuken-piston-fist .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Blunt</span></span>
 
 **Type:** Taijutsu, Rank E  
 **Stamina:** +5  
@@ -5221,10 +5233,10 @@ The Attack gains Knockback 4, increased to Knockback 6 if Jet Booster is active 
 
 **D-Rank**
 
-### Masakari - Weapon Form
+### ( <span lang="ja">鉞</span> ) Masakari - Weapon Form
 {:#masakari-weapon-form .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Transformation</span></span>
 
 **Type:** Taijutsu, Rank D  
 **Chakra:** 12  
@@ -5244,10 +5256,10 @@ The limb has no separate WDP or Durability; an Attack that damages the transform
 
 **C-Rank**
 
-### Funsha Kasoku - Jet Booster
+### ( <span lang="ja">噴射加速</span> ) Funsha Kasoku - Jet Booster
 {:#jet-booster .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Transformation</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Chakra:** 15  
@@ -5267,10 +5279,10 @@ While Jet Booster is maintained, you gain the following actions:
 
 **Lotus Cannon — [Speed 10, Delay 5, Chakra 15, Attack, Projectile, Energy]:** Make one Ninjutsu Attack against a target within 40 yards. Roll your Basic Unarmed Attack's base damage dice, then add NDB × Lotus Cannon's Final Speed. Lotus Cannon is not an Unarmed Attack and does not use PDB.
 
-### Senpō: Funsha Rendan - Sage Art: Jet Barrage
+### ( <span lang="ja">仙法・噴射連弾</span> ) Senpō: Funsha Rendan - Sage Art: Jet Barrage
 {:#sage-art-jet-barrage .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Blunt</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Stamina:** 18  
@@ -5286,10 +5298,10 @@ Fire three compressed chakra blasts and make one Taijutsu Projectile Attack. Whe
 
 Jet Barrage is resolved as one Attack with one damage pool. It counts as a Multi-Throw for defenses and effects that explicitly care about Multi-Throw, including the normal Multi-Throw reduction to Wound severity. Its individual projectiles cannot independently Wound or trigger repeated-hit effects unless another rule explicitly says otherwise.
 
-### Sennin no Kōkaku - Sage Carapace
+### ( <span lang="ja">仙人の甲殻</span> ) Sennin no Kōkaku - Sage Carapace
 {:#sage-carapace .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Transformation</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 20  
@@ -5307,10 +5319,10 @@ When an Attack hits you, you may spend 1 SC before damage is applied to increase
 
 **B-Rank**
 
-### Saibō Kyūin - Cellular Regeneration Absorption
+### ( <span lang="ja">細胞吸引</span> ) Saibō Kyūin - Cellular Regeneration Absorption
 {:#saibo-kyuin-cellular-regeneration-absorption .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Submission</span> <span class="jutsu-keyword">Healing</span></span>
 
 **Type:** Taijutsu, Rank B  
 **Stamina:** 24  
@@ -5327,10 +5339,10 @@ Track how much Vitality and HP this damage actually removes. Recover half the Vi
 
 Each repeat pays Stamina 24 and Control 5 and requires a new Submission check. Breaking contact ends the Submission and applies the normal Submission ending penalty to your next Action.
 
-### Saibō Haishutsu - Cellular Regeneration Ejection
+### ( <span lang="ja">細胞排出</span> ) Saibō Haishutsu - Cellular Regeneration Ejection
 {:#saibo-kyuin-cellular-regeneration-ejection .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Healing</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 24  
@@ -5346,10 +5358,10 @@ Restore **RES × 2 Vitality per SC** to the target, up to its maximum.
 
 If you spend 3 SC, you may also suppress the penalties of one Major or Severe Blunt, Slashing or Piercing Wound on that target for 20 IC. The injury and any missing body part remain; only penalties imposed by that Wound are suppressed. Reapplying this effect to the same Wound refreshes the duration. Critical Wounds are unaffected.
 
-### Saibō Saisei - Cellular Rebirth
+### ( <span lang="ja">細胞再生</span> ) Saibō Saisei - Cellular Rebirth
 {:#saibo-saisei-cellular-rebirth .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Healing</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 26  
@@ -5364,10 +5376,10 @@ If you spend exactly 3 SC, you may instead remove one Minor Blunt, Piercing, or 
 
 **A-Rank**
 
-### Senninka - Sage Transformation
+### ( <span lang="ja">仙人化</span> ) Senninka - Sage Transformation
 {:#senninka-sage-transformation .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Transformation</span></span>
 
 **Type:** Ninjutsu, Rank A  
 **Chakra:** 20  
@@ -5415,8 +5427,10 @@ Your next non-Interrupt Action is scheduled **5 + 5L IC** after declaration, plu
 ## Passives
 {:#passives-14}
 
-### Denji Yuusei - Electromagnetic Dominance
-{:#denji-yuusei-electromagnetic-dominance}
+### ( <span lang="ja">電磁優勢</span> ) Denji Yuusei - Electromagnetic Dominance
+{:#denji-yuusei-electromagnetic-dominance .jutsu-technique}
+
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span></span>
 
 Your manipulation of magnetic chakra has lots of potential uses\! All of the following have a Chakra 10 cost, and are considered to be E-Ranked Jiton Ninjutsu effects:
 
@@ -5503,10 +5517,10 @@ This Ability grants no authority over other characters.
 
 **D-Rank**
 
-### Suna no Yoroi - Sand Armor
+### ( <span lang="ja">砂の鎧</span> ) Suna no Yoroi - Sand Armor
 {:#suna-no-yoroi-sand-armor .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Creation</span></span>
 
 **Type:** Jiton Ninjutsu, Rank D  
 **Chakra:** 18  
@@ -5525,10 +5539,10 @@ Maintain one Sand Armor at a time. It has no separate HP and cannot be targeted 
 
 **C-Rank**
 
-### Jiton: Sabaku Kyū - Sand Coffin
+### ( <span lang="ja">磁遁・砂縛柩</span> ) Jiton: Sabaku Kyū - Sand Coffin
 {:#jiton-sabaku-kyu-sand-coffin .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** \+8  
@@ -5539,10 +5553,10 @@ Maintain one Sand Armor at a time. It has no separate HP and cannot be targeted 
 
 Add this to a damaging Jiton Attack. On hit, consume 4 gallons of Sand and apply Immobilization equal to 2 \+ the Rank of the linked technique (E=1 through A=5), maximum 7\. If the Jiton already applies Immobilization, instead increase that status by 2\. Sand used this way remains attached to the target until the Immobilization ends, then returns to the battlefield.
 
-### Mujona Kaihō - Merciless World Order
+### ( <span lang="ja">無情な解放</span> ) Mujona Kaihō - Merciless World Order
 {:#mujona-kaiho-merciless-world-order .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Environmental</span></span>
 
 **Type:** Jiton Ninjutsu, Rank C  
 **Chakra:** 20  
@@ -5569,10 +5583,10 @@ Use the volley’s effective Speed for damage bonus and defense legality. Defend
 
 **B-Rank**
 
-### Jiton: Sabaku Sōsō - Sand Burial
+### ( <span lang="ja">磁遁・砂瀑送葬</span> ) Jiton: Sabaku Sōsō - Sand Burial
 {:#jiton-sabaku-soso-sand-burial .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Control</span> <span class="jutsu-keyword">Blunt</span> <span class="jutsu-keyword">Slashing</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 20 \+ 3X  
@@ -5587,10 +5601,10 @@ Use the volley’s effective Speed for damage bonus and defense legality. Defend
 
 X is the target's Sand Coffin Immobilization, maximum 8\. This attack cannot be Dodged, because the Sand is already attached, though other valid defenses still apply. After resolving the attack, remove the Sand Coffin Immobilization. If it inflicts a Wound, also inflict a second Blunt Wound one severity lower, minimum Minor.
 
-### Jiton: Satetsu Shigure - Iron Sand Drizzle
+### ( <span lang="ja">磁遁・砂鉄時雨</span> ) Jiton: Satetsu Shigure - Iron Sand Drizzle
 {:#jiton-satetsu-shigure-iron-sand-drizzle .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Piercing</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 34  
@@ -5657,10 +5671,10 @@ Elements that are strong against Mokuton are treated as dealing twice the amount
 
 **D-Rank**
 
-### Jukai Shinshoku - Sea of Trees Erosion
+### ( <span lang="ja">樹海侵食</span> ) Jukai Shinshoku - Sea of Trees Erosion
 {:#jukai-shinshoku-sea-of-trees-erosion .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 **Type:** Mokuton Ninjutsu, Rank D  
 **Chakra:** 10 + 2X  
@@ -5677,10 +5691,10 @@ A creature standing in newly grown squares adds X yards to its Sea of Thorns mov
 
 **C-Rank**
 
-### Moku Bunshin no Jutsu - Wood Clone Technique
+### ( <span lang="ja">木分身の術</span> ) Moku Bunshin no Jutsu - Wood Clone Technique
 {:#moku-bunshin-no-jutsu-wood-clone-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Clone</span></span>
 
 **Type:** Mokuton Ninjutsu, Rank C  
 **Upkeep:** 3\*X  
@@ -5694,10 +5708,10 @@ You create X Wood clones up to 3, which follow most normal rules for clones, but
 
 Wood clones have your mind, and can act independently. You are aware of their location, and they yours, though your senses are not linked. You can reabsorb a 'living' wood clone by touching it, in which case you 'download' all its memories.
 
-### Mokuton: Mokujōheki - Wood Dome Wall
+### ( <span lang="ja">木遁・木錠壁</span> ) Mokuton: Mokujōheki - Wood Dome Wall
 {:#mokuton-mokujoheki-wood-dome-wall .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 24  
@@ -5711,10 +5725,10 @@ Raise a curved wooden shell around yourself and allies within 3 yards. It has HP
 
 **B-Rank**
 
-### Mokuton: Jukai Kōtan - Nativity of a Sea of Trees
+### ( <span lang="ja">木遁・樹界降誕</span> ) Mokuton: Jukai Kōtan - Nativity of a Sea of Trees
 {:#mokuton-jukai-koutan-wood-release-nativity-of-a-sea-of-trees .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 **Type:** Mokuton Ninjutsu, Rank B  
 **Chakra:** 10 + X  
@@ -5733,10 +5747,10 @@ The forest remains until destroyed and uses Sea of Thorns’ normal movement, da
 
 Alternatively, pay Chakra 10+2X to grow a wooden building within the same Area, without attacking. Its squares have CHA HP and use the Sea of Thorns clearing rules, but cause no thorn damage. With Chakra Control 10 or less it is a crude shelter; 11–20 allows a one-storey cabin of up to three rooms; 21–30 allows an ordinary one-storey wooden building; 31+ allows two storeys. Choose doors and windows when casting. Occupied spaces remain open.
 
-### Mokuton: Mokuryū - Wood Dragon
+### ( <span lang="ja">木遁・木龍</span> ) Mokuton: Mokuryū - Wood Dragon
 {:#mokuton-mokuryu-wood-dragon .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Grapple</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type:** Mokuton Ninjutsu, Rank B  
 **Chakra:** 36  
@@ -5760,10 +5774,10 @@ Each actual Chakra Exhaustion failure by the victim reduces this casting’s Upk
 
 **A-Rank**
 
-### Mokuton: Kajukai Kōrin - Advent of Flowering Trees
+### ( <span lang="ja">木遁・花樹界降臨</span> ) Mokuton: Kajukai Kōrin - Advent of Flowering Trees
 {:#mokuton-kajukai-korin-advent-of-flowering-trees .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 **Type:** Ninjutsu, Rank A  
 **Chakra:** 50  
@@ -5855,10 +5869,10 @@ Any Katon or Fuuton Technique may be converted to Shakuton, with the following e
 
 **C-Rank**
 
-### Kasou no Jutsu - Cremation Technique
+### ( <span lang="ja">火葬の術</span> ) Kasou no Jutsu - Cremation Technique
 {:#kasou-no-jutsu-cremation-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span></span>
 
 **Type:** Shakuton Ninjutsu, Rank C  
 **Chakra:** 20  
@@ -5870,10 +5884,10 @@ Any Katon or Fuuton Technique may be converted to Shakuton, with the following e
 
 This technique makes no Accuracy Roll. Instead, the target makes the normal opposed Status Check against the technique. On failure, they gain Ignite equal to their current Dehydration, maximum Ignite 6\. Then halve their current Dehydration, rounded down. Effects that specifically protect against Status Attacks apply normally.
 
-### Shakuton: Kajōsatsu - Scorching Murder
+### ( <span lang="ja">灼遁・過蒸殺</span> ) Shakuton: Kajōsatsu - Scorching Murder
 {:#shakuton-kajosatsu-scorching-murder .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 24  
@@ -5887,10 +5901,10 @@ Spend one Scorch Orb and attack a single target. Deal 8d10 Energy damage. On hit
 
 **B-Rank**
 
-### Sabaku no Keshin - Incarnation of Desert
+### ( <span lang="ja">砂漠の化身</span> ) Sabaku no Keshin - Incarnation of Desert
 {:#sabaku-no-keshin-incarnation-of-desert .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span></span>
 
 **Type:** Shakuton Ninjutsu, Rank B  
 **Chakra:** 21  
@@ -5905,10 +5919,10 @@ Change the Weather Condition within the Area to Extreme Heat. Everyone within th
 
 Furthermore, the heat makes explosive expenditure difficult. Whenever a creature other than you spends AP during an Action or Clash Beat, the first 5 AP it spends during that declaration each cost 1 additional AP. This surcharge cannot exceed 5 AP on a single Action or Beat. Once per Action or Beat after that creature spends AP, it takes unreducible damage equal to twice its current Dehydration, maximum 10\. A creature with 0 Dehydration takes no damage from this effect.
 
-### Shakuton: Taiyōrin - Solar Halo
+### ( <span lang="ja">灼遁・太陽輪</span> ) Shakuton: Taiyōrin - Solar Halo
 {:#shakuton-taiyorin-solar-halo .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 30  
@@ -5922,10 +5936,10 @@ Immediately create three Scorch Orbs. While maintained, the first Orb you spend 
 
 **A-Rank**
 
-### Shakuton: Sōshiki Taiyō - Funeral Sun
+### ( <span lang="ja">灼遁・葬式太陽</span> ) Shakuton: Sōshiki Taiyō - Funeral Sun
 {:#shakuton-soshiki-taiyo-funeral-sun .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Ninjutsu, Rank A  
 **Chakra:** 45  
@@ -5991,10 +6005,10 @@ Failing a fatigue roll with this ability causes you to advance 1 less fatigue le
 
 **D-Rank**
 
-### Kingusari no Jutsu - Golden Chain Technique
+### ( <span lang="ja">金鎖の術</span> ) Kingusari no Jutsu - Golden Chain Technique
 {:#kingusari-no-jutsu-golden-chain-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Sealing</span> <span class="jutsu-keyword">Projectile</span></span>
 
 **Type:** Fūinjutsu, Rank D  
 **Chakra:** +5  
@@ -6008,10 +6022,10 @@ Link to one single-target Sealing Jutsu with the Mark tag. Perform its handseals
 
 Its Range becomes Chain Range +5 yards and its Melee tag becomes Projectile. Resolve the Mark’s normal Accuracy and defense; a hit applies the seal without a separate weapon strike. Apply its Chakra cost to the Chain’s WDP once. A Chain holding a creature or maintaining a Barrier is unavailable until released.
 
-### Kusari Gitai - Chain Mimicry
+### ( <span lang="ja">鎖擬態</span> ) Kusari Gitai - Chain Mimicry
 {:#kusari-gitai-chain-mimicry .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span></span>
 
 **Type:** Bukijutsu, Rank D  
 **Chakra:** 10 + 5X  
@@ -6037,10 +6051,10 @@ All attacks form one Action. Copies disappear after resolution and do not duplic
 
 **C-Rank**
 
-### Kagura no Inochi - Life-Force Transfer
+### ( <span lang="ja">神楽の命</span> ) Kagura no Inochi - Life-Force Transfer
 {:#kagura-no-inochi-life-force-transfer .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Healing</span> <span class="jutsu-keyword">Melee</span></span>
 
 **Type:** Medical Ninjutsu, Rank C  
 **Chakra:** 20  
@@ -6051,10 +6065,10 @@ All attacks form one Action. Copies disappear after resolution and do not duplic
 
 Touch a willing target. Lose up to CHA HP and restore five times that amount as Vitality to the target. For every 10 HP you give, the target may also reduce one Poison, Bleed, or Burn severity by 1\. This cannot restore your own Vitality and cannot transfer more HP than would leave you at 1 HP.
 
-### Kongō Fūsa - Chakra Suppression Lock
+### ( <span lang="ja">金剛封鎖</span> ) Kongō Fūsa - Chakra Suppression Lock
 {:#kongo-fusa-chakra-suppression-lock .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Grapple</span> <span class="jutsu-keyword">Sealing</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 22  
@@ -6067,10 +6081,10 @@ Touch a willing target. Lose up to CHA HP and restore five times that amount as 
 
 Make a Grapple attack with a chain. On success, in addition to normal Grapple effects, the target gains Sealed Chakra 2\. While it remains Grappled by the chain, each failed Chakra Exhaustion roll increases Sealed Chakra by 1, maximum 6\. Sealed Chakra is a penalty to Chakra Exhaustion and Seal Speed. It falls by 1 whenever the target successfully uses Break Grapple, Rest, or spends a Speed 6 action to force their chakra through the seal.
 
-### Kongō Kekkai - Adamantine Barrier
+### ( <span lang="ja">金剛結界</span> ) Kongō Kekkai - Adamantine Barrier
 {:#kongo-kekkai-adamantine-barrier .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Barrier</span> <span class="jutsu-keyword">Sealing</span></span>
 
 **Type:** Fūinjutsu, Rank C  
 **Chakra:** +12  
@@ -6089,10 +6103,10 @@ The Chain remains committed until this linked Barrier ends; you may use other Ac
 
 **A-Rank**
 
-### Shishō Kekkai - Four-Corner Adamantine Barrier
+### ( <span lang="ja">四象結界</span> ) Shishō Kekkai - Four-Corner Adamantine Barrier
 {:#shisho-kekkai-four-corner-adamantine-barrier .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Barrier</span> <span class="jutsu-keyword">Sealing</span></span>
 
 **Type:** Fūinjutsu, Rank A  
 **Chakra:** 45  
@@ -6181,10 +6195,10 @@ This is a Status Effect applied across its entire Area that lasts for 10 \+ Chak
 
 **E-Rank**
 
-### Fushoku no Jōnetsu - Caustic Passion
+### ( <span lang="ja">腐食の情熱</span> ) Fushoku no Jōnetsu - Caustic Passion
 {:#caustic-passion .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 **Type:** Yōton Ninjutsu, Rank E  
 **Chakra:** 10  
@@ -6200,10 +6214,10 @@ As a Defensive Interrupt, instead defend against an Attack consisting entirely o
 
 **D-Rank**
 
-### Yōton: Iō no Mon - Lava Release: Gates of Brimstone
+### ( <span lang="ja">溶遁・硫黄の門</span> ) Yōton: Iō no Mon - Lava Release: Gates of Brimstone
 {:#lava-release-gates-of-brimstone .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Environmental</span></span>
 
 **Type:** Yōton Ninjutsu, Rank D  
 **Chakra:** +4, plus the linked Jutsu’s Rank  
@@ -6224,10 +6238,10 @@ Clean Residue — Speed 5 Utility Action: remove 2 Severity from yourself or a w
 
 **C-Rank**
 
-### Yōton: Yōgan Yoroi - Lava Armour
+### ( <span lang="ja">溶遁・溶岩鎧</span> ) Yōton: Yōgan Yoroi - Lava Armour
 {:#yoton-yogan-yoroi-lava-armour .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 24  
@@ -6247,10 +6261,10 @@ Coat yourself in your Volcanic Expression. Its effects begin after the activatio
 
 **B-Rank**
 
-### Yōton: Kyūgoku Funka - Lava Release: Nine Hells Erupting Armageddon
+### ( <span lang="ja">溶遁・窮極噴火</span> ) Yōton: Kyūgoku Funka - Lava Release: Nine Hells Erupting Armageddon
 {:#lava-release-nine-hells-erupting-armageddon .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 **Type:** Yōton Ninjutsu, Rank B  
 **Chakra:** 36  
@@ -6281,10 +6295,10 @@ After the final repeat, end this Upkeep. You may end it earlier as Speed 0, canc
 
 - Rubber: eruptions apply Volcanic Expression normally. From the first eruption until the Upkeep ends, forced movement beginning in a vent’s Area gains up to 3 yards at your choice. Apply that bonus once per movement, using only the largest bonus if it also crosses your other Rubber fields.
 
-### Yōton: Kazanryū - Volcanic Surge
+### ( <span lang="ja">溶遁・火山流</span> ) Yōton: Kazanryū - Volcanic Surge
 {:#yoton-kazanryu-volcanic-surge .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 **Type:** Yōton Ninjutsu, Rank B  
 **Chakra:** 34  
@@ -6308,10 +6322,10 @@ The strip lasts 20 IC. It follows the connected ground surface and stops at a so
 
 **A-Rank**
 
-### Yōton: Karyū Shōten - Eruption Ascendant
+### ( <span lang="ja">溶遁・火龍昇天</span> ) Yōton: Karyū Shōten - Eruption Ascendant
 {:#yoton-karyu-shoten-eruption-ascendant .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 **Type:** Yōton Ninjutsu, Rank A  
 **Chakra:** 48  
@@ -6383,8 +6397,8 @@ While within 2 yards of Ice you created, gain \+2 Dodge and \+20% movement. When
 
 Hyōton conversion costs are reduced by 2 Chakra, minimum \+1. Ice structures you create gain 25% more HP and Durability.
 
-### Suitenhoufukyuu - Water Sky Convergence
-{:#suitenhoufukyuu-water-sky-convergence}
+### ( <span lang="ja">水天包仏</span> ) Suiten Hōfutsu - Water Sky Convergence
+{:#suitenhoufukyuu-water-sky-convergence .jutsu-technique}
 
 **Type:** Heritage Technique / Passive
 
@@ -6406,10 +6420,10 @@ For Suiton only, you may replace handseals with additional Base Speed. Add any L
 
 **D-Rank**
 
-### Hijutsu: Sensatsu Suishou - Secret Technique: Thousand Flying Water Needles
+### ( <span lang="ja">秘術・千殺水翔</span> ) Hijutsu: Sensatsu Suishou - Secret Technique: Thousand Flying Water Needles
 {:#hijutsu-sensatsu-suishou-secret-technique-thousand-flying-water-needles .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Piercing</span></span>
 
 **Type:** Suiton Ninjutsu, Rank D  
 **Chakra:** 16  
@@ -6427,10 +6441,10 @@ This technique's damage is considered 25% higher for the purpose of inflicting w
 
 **C-Rank**
 
-### Hijutsu: Makyo Hyosho - Secret Technique: Demonic Mirror Ice Crystals
+### ( <span lang="ja">秘術・魔鏡氷晶</span> ) Hijutsu: Makyo Hyosho - Secret Technique: Demonic Mirror Ice Crystals
 {:#hijutsu-makyo-hyosho-secret-technique-demonic-mirror-ice-crystals .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Environmental</span></span>
 
 **Type:** Hyoton Ninjutsu, Rank C  
 **Chakra:** 15+X/2  
@@ -6463,10 +6477,10 @@ If X is 20 or higher, this Jutsu forms a cage around an area. Stop tracking indi
 
 This user cannot benefit from this Jutsu, either the individual mirrors or the cage, if they are Grabbed or incapable of movement. Using this Jutsu again removes all previously established Demonic Ice Mirrors, releasing their Upkeep appropriately.
 
-### Hyōton: Hyōheki - Ice Dome
+### ( <span lang="ja">氷遁・氷壁</span> ) Hyōton: Hyōheki - Ice Dome
 {:#hyoton-hyoheki-ice-dome .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 22  
@@ -6480,10 +6494,10 @@ Raise an ice shell around yourself or a point within 10 yards. It has HP equal t
 
 **B-Rank**
 
-### Hyōton: Jisarenhyō - Earthen Consecutive Chains of Ice
+### ( <span lang="ja">氷遁・地鎖連氷</span> ) Hyōton: Jisarenhyō - Earthen Consecutive Chains of Ice
 {:#hyouton-jisarenhyo-ice-release-earthen-consecutive-chains-of-ice .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type:** Hyōton Ninjutsu, Rank B  
 **Chakra:** 28  
@@ -6502,10 +6516,10 @@ When the victim pays a positive Chakra cost for an Action, reset that fade timer
 
 End the Jutsu when your temporary Hyōton Immobilization reaches 0, you end Upkeep, or the victim moves beyond twice casting Range. Remaining ice then fades normally, without Chakra reactions. Permanent Wound-replacement freezes do not sustain this Jutsu. Recasting on the same victim replaces your previous Upkeep and preserves its reaction timer.
 
-### Hyōton: Sensatsu Kōri - Thousand Ice Needles
+### ( <span lang="ja">氷遁・千殺氷</span> ) Hyōton: Sensatsu Kōri - Thousand Ice Needles
 {:#hyoton-sensatsu-kori-thousand-ice-needles .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Piercing</span></span>
 
 **Type:** Hyōton Ninjutsu, Rank B  
 **Chakra:** 32  
@@ -6522,10 +6536,10 @@ Choose G from 0–10. Create G gallons of Ice or invest G available gallons of I
 
 Apply Immobilization 2 if G=0, or 4 if G is at least 1, reduced for Partial Defense. This replaces the usual Hyōton rider. With your other temporary Hyōton applications, use the highest Severity and refresh the 10-IC fade timer rather than adding Severities. Against a target already suffering at least 3 of your Hyōton Immobilization at declaration, gain +2 Accuracy.
 
-### Makyō Reversal - Mirror Step
+### ( <span lang="ja">魔鏡返し</span> ) Makyō Gaeshi - Mirror Step
 {:#makyo-reversal-mirror-step .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Movement</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 20  
@@ -7003,10 +7017,10 @@ Only one Defensive Interrupt against the same incoming Attack can benefit from M
 #### D-Rank
 {:#d-rank}
 
-### Kugutsu no Jutsu - Puppet Technique
+### ( <span lang="ja">傀儡の術</span> ) Kugutsu no Jutsu - Puppet Technique
 {:#kugutsu-no-jutsu-puppet-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Puppet</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Ninjutsu, Rank D  
 **Chakra:** 8  
@@ -7029,10 +7043,10 @@ You cannot maintain ordinary Clones while Kugutsu no Jutsu is active, and Clones
 
 A Puppet acting reveals that Puppet normally. The User remains subject to ordinary Awareness, sensing, line-of-sight and Chakra-thread tracing from their own position.
 
-### Kugutsu Kuchiyose no Jutsu - Puppet Summoning Technique
+### ( <span lang="ja">傀儡口寄せの術</span> ) Kugutsu Kuchiyose no Jutsu - Puppet Summoning Technique
 {:#kugutsu-kuchiyose-no-jutsu-puppet-summoning-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Puppet</span> <span class="jutsu-keyword">Sealing</span> <span class="jutsu-keyword">Link</span></span>
 
 **Type:** Sealing Ninjutsu, Rank D  
 **Chakra:** 5 \+ X  
@@ -7051,10 +7065,10 @@ Karashi may learn and use this technique without Seal Training or other general 
 #### C-Rank
 {:#c-rank}
 
-### Kugutsu Henge no Jutsu - Puppet Transformation Technique
+### ( <span lang="ja">傀儡変化の術</span> ) Kugutsu Henge no Jutsu - Puppet Transformation Technique
 {:#kugutsu-henge-no-jutsu-puppet-transformation-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Puppet</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 14  
@@ -7073,10 +7087,10 @@ The transformation ends if the Puppet becomes Disabled or Inactive, ceases to be
 #### B-Rank
 {:#b-rank}
 
-### Kugutsu Kawarimi - Puppet Substitution
+### ( <span lang="ja">傀儡変わり身</span> ) Kugutsu Kawarimi - Puppet Substitution
 {:#puppet-substitution .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Puppet</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 20  
@@ -7096,10 +7110,10 @@ If the Primary cannot legally occupy the User’s former position, the technique
 #### A-Rank
 {:#a-rank}
 
-### Hyakushu Enbu - Hundred-Hand Performance
+### ( <span lang="ja">百手演舞</span> ) Hyakushu Enbu - Hundred-Hand Performance
 {:#hundred-hand-performance .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Puppet</span></span>
 
 **Type:** Ninjutsu, Rank A  
 **Chakra:** \+20  
@@ -7697,10 +7711,10 @@ A standard prepared clay pouch supplies a battle. Without clay you cannot perfor
 
 **E-Rank**
 
-### Bakuton: Hanekaeri - Backblast
+### ( <span lang="ja">爆遁・跳ね返り</span> ) Bakuton: Hanekaeri - Backblast
 {:#bakuton-hanekaeri-backblast .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Link</span></span>
 
 **Type:** Bakuton Ninjutsu, Rank E  
 **Chakra:** 8  
@@ -7715,10 +7729,10 @@ Link to Dodge at Speed \+2; add this movement to the distance available to escap
 
 Backblast cannot Link to itself.
 
-### Bakuton: Jirai Dageki - Landmine Strike
+### ( <span lang="ja">爆遁・地雷打撃</span> ) Bakuton: Jirai Dageki - Landmine Strike
 {:#bakuton-jirai-dageki-landmine-strike .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Taijutsu, Rank E  
 **Chakra:** 8  
@@ -7736,10 +7750,10 @@ Landmine Strike uses your Ninjutsu Damage Bonus (NDB) instead of your Physical D
 
 Landmine Strike requires no handseals.
 
-### C1: Kibaku Kumo - Creeping Bomb
+### ( <span lang="ja">C1・起爆蜘蛛</span> ) C1: Kibaku Kumo - Creeping Bomb
 {:#c1-kibaku-kumo-creeping-bomb .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Clay</span> <span class="jutsu-keyword">Creation</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Bakuton Ninjutsu, Rank E  
 **Chakra:** 10  
@@ -7758,10 +7772,10 @@ Before it arrives, Awareness against your Ninjutsu Accuracy spots it. If spotted
 
 **D-Rank**
 
-### Bakuton: Bakushō - Repulsive Burst
+### ( <span lang="ja">爆遁・爆掌</span> ) Bakuton: Bakushō - Repulsive Burst
 {:#bakuton-bakusho-repulsive-burst .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 **Type:** Bakuton Ninjutsu, Rank D  
 **Chakra:** 15  
@@ -7776,10 +7790,10 @@ Use as a Defensive Interrupt against a Melee Attack originating within 2 yards. 
 
 On success the Attack is Parried and the attacker suffers this technique's Blast. Repulsive Burst deals no damage.
 
-### Bakuton: Hasaishō - Breaching Palm
+### ( <span lang="ja">爆遁・破砕掌</span> ) Bakuton: Hasaishō - Breaching Palm
 {:#bakuton-hasaisho-breaching-palm .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Taijutsu, Rank D  
 **Chakra:** 16  
@@ -7797,10 +7811,10 @@ Breaching Palm uses your Ninjutsu Damage Bonus (NDB) instead of your Physical Da
 
 When Shaped Charge is used with Breaching Palm, its structural Final Damage increase is \+100% rather than \+50%. It gains no extra benefit against living targets.
 
-### C1: Tsubasa - Explosive Clay Bird
+### ( <span lang="ja">C1・翼</span> ) C1: Tsubasa - Explosive Clay Bird
 {:#c1-tsubasa-explosive-clay-bird .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Clay</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Bakuton Ninjutsu, Rank D  
 **Chakra:** 18  
@@ -7821,10 +7835,10 @@ Treat the Attack's origin as any point up to 10 yards above its target.
 
 **C-Rank**
 
-### Bakuton: Jiraika Kairō - Detonation Minefield
+### ( <span lang="ja">爆遁・地雷火回廊</span> ) Bakuton: Jiraika Kairō - Detonation Minefield
 {:#bakuton-jiraika-kairo-detonation-minefield .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Trap</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 28  
@@ -7836,10 +7850,10 @@ Treat the Attack's origin as any point up to 10 yards above its target.
 
 Place up to five invisible explosive nodes in the area. Each has Stealth TN 20 \+ your Espionage bonus. When a hostile creature comes within 2 yards of a node, you can detonate it as Speed 0, dealing 6d10 Energy damage in Area 3 and applying Knockback 4\. A creature can trigger only two nodes from the same movement Action. Unused nodes last until the scene ends.
 
-### Bakuton: Kūchū Bakuha - Airburst
+### ( <span lang="ja">爆遁・空中爆破</span> ) Bakuton: Kūchū Bakuha - Airburst
 {:#bakuton-kuchu-bakuha-airburst .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Bakuton Ninjutsu, Rank C  
 **Chakra:** 22  
@@ -7856,10 +7870,10 @@ Place up to five invisible explosive nodes in the area. Each has Stealth TN 20 \
 
 Airburst follows the normal rules for Blast and Controlled Demolition.
 
-### Bakuton: Rensa Shōgeki - Chain Impact
+### ( <span lang="ja">爆遁・連鎖衝撃</span> ) Bakuton: Rensa Shōgeki - Chain Impact
 {:#bakuton-rensa-shogeki-chain-impact .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Link</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Chakra:** \+12  
@@ -7878,10 +7892,10 @@ Chain Impact can only be used once during the same Action.
 
 **B-Rank**
 
-### Bakuton: Hakai Kairō - Demolition Corridor
+### ( <span lang="ja">爆遁・破壊回廊</span> ) Bakuton: Hakai Kairō - Demolition Corridor
 {:#bakuton-hakai-kairo-demolition-corridor .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Bakuton Ninjutsu, Rank B  
 **Chakra:** 34  
@@ -7899,10 +7913,10 @@ Blast always moves affected creatures toward the far end of the Line rather than
 
 If Concussive Detonation is used, the Line's width becomes 4\.
 
-### Bakuton: Naibu Hōkai - Internal Rupture
+### ( <span lang="ja">爆遁・内部崩壊</span> ) Bakuton: Naibu Hōkai - Internal Rupture
 {:#bakuton-naibu-hokai-internal-rupture .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Taijutsu, Rank B  
 **Chakra:** 32  
@@ -7920,10 +7934,10 @@ Internal Rupture uses your Ninjutsu Damage Bonus (NDB) instead of your Physical 
 
 On a full hit, treat Damage as 20% higher only for determining Wounds. This bonus does not apply on a Partial Hit.
 
-### Bakuton: Rensa Bakuhatsu - Chain Reaction
+### ( <span lang="ja">爆遁・連鎖爆発</span> ) Bakuton: Rensa Bakuhatsu - Chain Reaction
 {:#bakuton-rensa-bakuhatsu-chain-reaction .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 34  
@@ -7935,10 +7949,10 @@ On a full hit, treat Damage as 20% higher only for determining Wounds. This bonu
 
 Deal 10d12 Energy damage. On hit, immediately detonate every Detonation Mark on the target for no additional Speed. For each Mark detonated this way, increase the attack's Wounding value by 10% and its Knockback by 2\. If this Wounds, place one Mark on every hostile creature within 3 yards of the target.
 
-### C2: Ryū - Explosive Clay Dragon
+### ( <span lang="ja">C2・竜</span> ) C2: Ryū - Explosive Clay Dragon
 {:#c2-ryu-explosive-clay-dragon .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Clay</span> <span class="jutsu-keyword">Creation</span></span>
 
 **Type:** Bakuton Ninjutsu, Rank B  
 **Chakra:** 30  
@@ -7955,10 +7969,10 @@ Dragon HP \= 50 \+ CHA×2. It cannot defend separately. AoE affecting you affect
 
 Creating another Dragon ends the old one. The Dragon never gets its own Initiative Count or Actions.
 
-### C3: Ōgata Bakudan - Grand Bomb
+### ( <span lang="ja">C3・大型爆弾</span> ) C3: Ōgata Bakudan - Grand Bomb
 {:#c3-ogata-bakudan-grand-bomb .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Clay</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Bakuton Ninjutsu, Rank B  
 **Chakra:** 40  
@@ -7979,10 +7993,10 @@ If destroyed before the Delay ends, the technique fails harmlessly. When the Del
 
 **A-Rank**
 
-### Bakuton: Itten Hōkai - Point of Ruin
+### ( <span lang="ja">爆遁・一点崩壊</span> ) Bakuton: Itten Hōkai - Point of Ruin
 {:#bakuton-itten-hokai-point-of-ruin .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span></span>
 
 **Type:** Taijutsu, Rank A  
 **Chakra:** 42  
@@ -8003,10 +8017,10 @@ The original target is attacked normally. Every other creature in the Area is at
 
 The original target cannot also be hit by the Area portion.
 
-### Bakuton: Sekai Kudaki - Worldbreaker
+### ( <span lang="ja">爆遁・世界砕き</span> ) Bakuton: Sekai Kudaki - Worldbreaker
 {:#bakuton-sekai-kudaki-worldbreaker .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Blunt</span></span>
 
 **Type:** Taijutsu, Rank A  
 **Chakra:** 45  
@@ -8020,10 +8034,10 @@ Worldbreaker uses your Ninjutsu Damage Bonus (NDB) instead of your Physical Dama
 
 Strike the ground, structure, or creature and detonate inward. Deal 14d12 Energy damage and Blast 10\. Against structures and barriers, deal double final damage. Against a creature with 2 or more Detonation Marks, consume two Marks to make this attack count as 25% higher for Wounding and apply Stun 8\.
 
-### C4: Garuda - Microscopic Detonation Field
+### ( <span lang="ja">C4・迦楼羅</span> ) C4: Garuda - Microscopic Detonation Field
 {:#c4-garuda-microscopic-detonation-field .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Master Technique</span></span>
 
 **Type:** Ninjutsu, Rank A  
 **Chakra:** 50  
@@ -8137,10 +8151,10 @@ This may be used a number of times per battle equal to your ranks in this abilit
 
 **E-Rank**
 
-### Shikotsumyaku - Dead Bone Pulse
+### ( <span lang="ja">屍骨脈</span> ) Shikotsumyaku - Dead Bone Pulse
 {:#shikotsumyaku-dead-bone-pulse .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Ninjutsu, Rank E  
 **Chakra:** 8  
@@ -8153,10 +8167,10 @@ Gain two Skeletal Modifications. You can link Shikotsumyaku to another Kaguya Cl
 
 **D-Rank**
 
-### Karamatsu no Mai - Dance of the Larch
+### ( <span lang="ja">唐松の舞</span> ) Karamatsu no Mai - Dance of the Larch
 {:#karamatsu-no-mai-dance-of-the-larch .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 **Type:** Taijutsu, Rank D  
 **Chakra:** 16  
@@ -8171,10 +8185,10 @@ You can parry any Ranged Taijutsu and Ninjutsu Attack that occurs further than 1
 
 Skeletal Modifications: Blades, Spurs
 
-### Teshi Sendan - Ten-Finger Drilling Bullets
+### ( <span lang="ja">十指穿弾</span> ) Teshi Sendan - Ten-Finger Drilling Bullets
 {:#teshi-sendan-ten-finger-drilling-bullets .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Piercing</span></span>
 
 **Type:** Taijutsu, Rank D  
 **Chakra:** 10 \+ 2\*X  
@@ -8201,10 +8215,10 @@ You can take Weapon Focus: Teshi Sendan, which decreases its Chakra cost appropr
 
 Skeletal Modifications: Osteogenesis, Blade, Spurs
 
-### Tsubaki no Mai - Dance of the Camellia
+### ( <span lang="ja">椿の舞</span> ) Tsubaki no Mai - Dance of the Camellia
 {:#tsubaki-no-mai-dance-of-the-camellia .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Creation</span></span>
 
 **Type:** Ninjutsu, Rank D  
 **Chakra:** 10 \+ X/2  
@@ -8229,10 +8243,10 @@ Skeletal Modifications: Blades, Spurs, Osteogenesis
 
 **C-Rank**
 
-### Shikotsu Yoroi - Dance of the Husk
+### ( <span lang="ja">屍骨鎧</span> ) Shikotsu Yoroi - Dance of the Husk
 {:#shikotsu-yoroi-dance-of-the-husk .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 24  
@@ -8244,10 +8258,10 @@ Skeletal Modifications: Blades, Spurs, Osteogenesis
 
 Expend any number of Ossification Modifications, minimum 1\. Gain DR 10 per Modification expended, maximum DR 50\. This DR applies after Indestructible Skeleton. While active, successful Blocks reduce final damage by 75% instead of 50%. Each time this technique prevents 25% or more of your maximum Vitality in one hit, reduce its granted DR by 10\.
 
-### Tessenka no Mai - Dance of the Clematis
+### ( <span lang="ja">鉄線花の舞</span> ) Tessenka no Mai - Dance of the Clematis
 {:#tessenka-no-mai-dance-of-the-clematis .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Chakra:** 25  
@@ -8276,10 +8290,10 @@ Osteogenesis: \-2 Stamina cost
 
 Skeletal Modifications: Any two.
 
-### Yanagi no Mai - Dance of the Willow
+### ( <span lang="ja">柳の舞</span> ) Yanagi no Mai - Dance of the Willow
 {:#yanagi-no-mai-dance-of-the-willow .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Preparation</span></span>
 
 **Type:** Taijutsu, Rank C  
 **Chakra:** 15  
@@ -8300,10 +8314,10 @@ After resolving a thrust, gain one Ossification, Blades or Spurs Modification, o
 
 **B-Rank**
 
-### Hone no Hakaba - Bone Grave
+### ( <span lang="ja">骨の墓場</span> ) Hone no Hakaba - Bone Grave
 {:#hone-no-hakaba-bone-grave .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Piercing</span> <span class="jutsu-keyword">Grapple</span></span>
 
 **Type:** Taijutsu, Rank B  
 **Stamina:** 22  
@@ -8317,10 +8331,10 @@ After resolving a thrust, gain one Ossification, Blades or Spurs Modification, o
 
 Expend up to 5 Skeletal Modifications. For each expended Modification, add \+1 Accuracy or \+2d12 damage, chosen separately. On hit, bone lances cage the target and apply Immobilization 4\. If at least 3 Modifications were expended, you can immediately attempt a Grapple using RES in place of STR without increasing your IC.
 
-### Sawarabi no Mai - Dance of the Seedling Fern
+### ( <span lang="ja">早蕨の舞</span> ) Sawarabi no Mai - Dance of the Seedling Fern
 {:#sawarabi-no-mai-dance-of-the-seedling-fern .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Piercing</span></span>
 
 **Type:** Taijutsu, Rank B  
 **Chakra:** 30  
@@ -8505,10 +8519,10 @@ While Sharingan is active, reduce penalties applied to a Multi-throw to a maximu
 
 **C-Rank**
 
-### Katon: Hōsenka Tsumabeni - Phoenix Flower Crimson Nail
+### ( <span lang="ja">火遁・鳳仙花爪紅</span> ) Katon: Hōsenka Tsumabeni - Phoenix Flower Crimson Nail
 {:#katon-hosenka-tsumabeni-phoenix-flower-crimson-nail .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Katon</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Link</span></span>
 
 **Type:** Ninjutsu, Rank C  
 **Chakra:** 22 + 2X; also pay the Multi-Throw’s Stamina  
@@ -8539,10 +8553,10 @@ Each stage allows one defense, with its own legality, costs and IC advancement. 
 
 All weapons committed to this technique are destroyed when the Action resolves, including those stopped by the fire-stage defense. They cannot be recovered.
 
-### Uchiha Ryū: Sōfūshasan no Tachi - Manipulated Windmill Triple Blade
+### ( <span lang="ja">うちは流・操風車三ノ大刀</span> ) Uchiha Ryū: Sōfūshasan no Tachi - Manipulated Windmill Triple Blade
 {:#uchiha-ryu-sofushasan-no-tachi-manipulated-windmill-triple-blade .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type: Bukijutsu**, Rank C  
 **Stamina:** 16  
@@ -8560,10 +8574,10 @@ If the attack misses but is a partial, the weapons remain positioned around the 
 
 **B-Rank**
 
-### Katon: Gōryūka no Jutsu - Great Dragon Fire Technique
+### ( <span lang="ja">火遁・豪龍火の術</span> ) Katon: Gōryūka no Jutsu - Great Dragon Fire Technique
 {:#katon-goryuka-no-jutsu-great-dragon-fire-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Katon</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 34  
@@ -8582,10 +8596,10 @@ Launch a dragon-shaped mass of flame down the line. If you spend 2 Reads on one 
 
 If the attack creates a Wound, leave a burning path across its Area for 20 IC. A creature crossing 3 or more yards of the path takes NDB x 3 Energy damage once per Action.
 
-### Magen: Kageutsushi - Demonic Illusion: False Opening
+### ( <span lang="ja">魔幻・影写し</span> ) Magen: Kageutsushi - Demonic Illusion: False Opening
 {:#magen-kageutsushi-demonic-illusion-false-opening .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Direct</span> <span class="jutsu-keyword">Genjutsu</span> <span class="jutsu-keyword">Control</span></span>
 
 **Type:** Genjutsu, Rank B  
 **Chakra:** 28  
@@ -8600,10 +8614,10 @@ On a successful Genjutsu attack, the target sees a deliberate opening where none
 
 At Stage 3, you can spend 2 Reads on the target when declaring this technique to increase the defense penalty to \-4.
 
-### Sharingan: Gyakuyomi - Sharingan: Counter-Read
+### ( <span lang="ja">写輪眼・逆読み</span> ) Sharingan: Gyakuyomi - Sharingan: Counter-Read
 {:#sharingan-counter-read .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Defense</span> <span class="jutsu-keyword">Counter</span></span>
 
 **Type:** Ninjutsu, Rank B  
 **Chakra:** 18  
@@ -8615,10 +8629,10 @@ At Stage 3, you can spend 2 Reads on the target when declaring this technique to
 
 When a creature with at least 2 Reads targets you with a single-target Attack, spend 2 Reads and make a legal Dodge or Parry. Gain \+2 to that defense. On success, after the attack resolves you can immediately take one of the following without increasing your IC: move up to 4 yards; make a Basic Weapon or Unarmed Attack at \-2 Accuracy; or use a retained copied technique with final Speed 6 or less at 75% Final Damage. Pay all normal costs of the chosen option.
 
-### Magen: Kyouten Chiten - Demonic Illusion: Mirror Heaven and Earth Change
+### ( <span lang="ja">魔幻・鏡天地転</span> ) Magen: Kyouten Chiten - Demonic Illusion: Mirror Heaven and Earth Change
 {:#magen-kyouten-chiten-demonic-illusion-mirror-heaven-and-earth-change .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Genjutsu</span></span>
 
 **Type:** Genjutsu, Rank B  
 **Chakra:** As reflected technique  

@@ -20,10 +20,10 @@ Raiton uses chakra to make lightning. Hitting water only shocks the people touch
 ## E-Rank
 {:#e-rank-8 .jutsu-rank-heading}
 
-#### Rashinban no Jutsu - Compass Technique
+#### ( <span lang="ja">羅針盤の術</span> ) Rashinban no Jutsu - Compass Technique
 {:#rashinban-no-jutsu-compass-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 It's about what it sounds like. The user channels lightning elemental chakra into a needle, or kunai, or similar-sized and \-shaped object, which will then, when laid flat (sometimes requiring a few taps to help it along) point towards magnetic north.
 
@@ -33,10 +33,10 @@ Seal Speed: 12
 Tags: Utility  
 Effects: Allows a single kunai or senbon to be used as a compass for 6 hours or until used in an attack. It's not quite perfect, but it's good enough for most uses. In combat, this jutsu allows the user to perform a Search action (that stacks and does not interrupt previous Searches) with a \+2 bonus per severity of Raiton-induced Paralysis on any targets within CHA yards.
 
-#### Seiden - Static Electricity
+#### ( <span lang="ja">静電</span> ) Seiden - Static Electricity
 {:#seiden-static-electricity .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 A small arc of lightning jumps from your fingertips to ignite flammable material or deliver a painful shock. You can also charge an object so it shocks the next person who touches it.
 
@@ -51,10 +51,10 @@ Effects: If done at touch, make a Taijutsu ACC attack. This can also be used on 
 
 If done at range, choose an unoccupied object within range, the next person to try and pick it up will get para 1 for 10 ICs and Stun 5\. And will drop the object.
 
-#### Shougeki Heki - Shocking Burst
+#### ( <span lang="ja">衝撃壁</span> ) Shougeki Heki - Shocking Burst
 {:#shougeki-heki-shocking-burst .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 The user extends a hand and releases a short pulse of lightning chakra. It lacks the force of advanced Raiton, but the abrupt muscle shock makes it an excellent academy-level harassment technique against several nearby targets.
 
@@ -70,10 +70,10 @@ Effects: Choose one target in Range or pulse outward in a 10-yard Area centered 
 ## D-Rank
 {:#d-rank-8 .jutsu-rank-heading}
 
-#### Jinrai no Jutsu - Thunderclap Technique
+#### ( <span lang="ja">迅雷の術</span> ) Jinrai no Jutsu - Thunderclap Technique
 {:#jinrai-no-jutsu-thunderclap-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span></span>
 
 The user puts both hands together, forming a miniature thunderbolt between his hands, splitting the air and forming an extremely loud BANG, which is rather startling when you're a few feet from it, and not expecting it. It has the added benefits of temporarily deafening the opponent.
 
@@ -86,10 +86,10 @@ Special: Stun 8
 Tags: Attack, AoE  
 Effects: Anybody that gains stun, for the next 30 ICs, receives a \-5 to all Awareness checks alongside losing all their ranks in Enhanced Hearing and any other Ability that requires it. This jutsu cannot be used again for 100 IC.
 
-#### Juude - Electric Charge
+#### ( <span lang="ja">充電</span> ) Juude - Electric Charge
 {:#juude-electric-charge .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span></span>
 
 Rubbing your hands together you create a large electrical charge, which only needs the slightest touch to be delivered, and will temporarily energize the opponent with an amount of lightning-elemental chakra.
 
@@ -101,10 +101,10 @@ Seal Speed: 8
 Tags: Attack, Melee  
 Effects: The next ranged Raiton technique used against the target within 30 IC gains \+1 Accuracy, plus the severity of any Paralysis they have (replacing any accuracy bonus it already had). Thus, when using Raiton against someone with Juude and Paralysis 3 you'd have a \+4 Accuracy bonus.
 
-#### Kaminari no Hoippu - Lightning Whip
+#### ( <span lang="ja">雷のホイップ</span> ) Kaminari no Hoippu - Lightning Whip
 {:#kaminari-no-hoippu-lightning-whip .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Creation</span></span>
 
 You mold your chakra into a cackling weapon made entirely of lightning energy that extends from your hand. This weapon’s cutting power can bypass almost any defense, though it’s harder to control than a solid weapon would be.
 
@@ -123,10 +123,10 @@ The weapon has a third of its normal Durability
 
 (3) Your weapon gains a Paralysis 2 for 10 ic from this weapon. Max 1
 
-#### Kyousou Ikazuchi no Jutsu - Racing Thunder Technique
+#### ( <span lang="ja">競走雷の術</span> ) Kyousou Ikazuchi no Jutsu - Racing Thunder Technique
 {:#kyousou-ikazuchi-no-jutsu-racing-thunder-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 By pumping your legs full of lightning chakra, you raise your muscle's response time, and their power as well. Unfortunately, this is all focused on just your legs.
 
@@ -139,10 +139,10 @@ Effects: Your AGI is treated as 25% higher for movement. Additionally, so long a
 
 Blink \[Stamina: X, Speed X\]: You may choose to declare a Speed X Move Action, where X has a max of AGI/5. Unlike normal movement (which is handled on an IC-by-IC basis), the movement for this action is resolved immediately. However, moving this way has a Stamina cost equal to X. You may not reduce this Action's Speed by spending AP.
 
-#### Mahi Kyukei - Paralysis Break
+#### ( <span lang="ja">麻痺休憩</span> ) Mahi Kyukei - Paralysis Break
 {:#mahi-kyukei-paralysis-break .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span></span>
 
 You flick a bead of unstable lightning at the target. It forces lingering Raiton energy out of their body, briefly seizing their muscles as it discharges.
 
@@ -153,10 +153,10 @@ Seal Speed: 10
 Tags: Attack, Projectile  
 Effects: Choose one creature within Range with a timed Raiton-induced Paralysis effect. A willing target can accept the change; against an unwilling target, make a Projectile Attack. On a full hit or willing use, double the severity of one such effect to a maximum of 6 without lowering its current severity. Halve its remaining duration, rounded up. Each application of Paralysis can be altered this way once. Environmental Paralysis cannot be chosen.
 
-#### Nage no Ushinawa Jutsu - Subjugating Cattle Lasso Technique
+#### ( <span lang="ja">投げの牛縄の術</span> ) Nage no Ushinawa Jutsu - Subjugating Cattle Lasso Technique
 {:#nage-no-ushinawa-jutsu-subjugating-cattle-lasso-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span></span>
 
 You connect two kunai or shuriken with fine wire and charge it with lightning. Thrown to either side of the target, the weapons swing inward and wrap the electrified wire around them.
 
@@ -169,10 +169,10 @@ Requires: 2 Kunai or Shuriken and 5 yards of Ninja Wire
 Tags: Attack, Projectile  
 Effects: The target enters a Clinch, with the wire instead of you, and has Paralysis 2 and Immob 2 so long as they are clinched by the wire. The Wire is treated as having 10+CHA/4 Grapple Offense to any relevant Break Clinch or Escape Grapple attempts.
 
-#### Shinkei Attou no Jutsu - Nerve Overloading Technique
+#### ( <span lang="ja">神経圧倒の術</span> ) Shinkei Attou no Jutsu - Nerve Overloading Technique
 {:#shinkei-attou-no-jutsu-nerve-overloading-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span></span>
 
 You send a 'spark' of chakra into an enemy, stimulating any electrical chakra already in their system and sending them into several seconds of agonizing convulsions.
 
@@ -185,10 +185,10 @@ Special: Stun 3×X (maximum 12)
 Tags: Attack, Projectile  
 Effects: Choose a target with Raiton-induced Paralysis. Before rolling Accuracy, choose X from 1 to 4, up to the severity of one timed Raiton Paralysis effect on it. On a full hit, spend X severity from that effect and inflict Stun 3×X. Any remaining severity keeps its original timer. On a miss or partial hit, leave the Paralysis in place and inflict no Stun.
 
-#### Shuurai - Lightning Strike
+#### ( <span lang="ja">襲雷</span> ) Shuurai - Lightning Strike
 {:#shuurai-lightning-strike .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 You focus energy to the tips of your fingers on either hand, then point at an opponent, releasing a reasonably sized bolt of electricity. This is nothing like real lightning, but it looks similar and is just as fast\! Well… Not really, but it is really fast… Really… You have to believe me.
 
@@ -202,10 +202,10 @@ Special: Paralysis 1 for 15 IC
 Tags: Attack, Projectile, Energy  
 Effects: This ignores DR by 50% when dealing damage.
 
-#### Taiyouken - Solar Flare
+#### ( <span lang="ja">太陽拳</span> ) Taiyouken - Solar Flare
 {:#taiyouken-solar-flare .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span></span>
 
 You gather Chakra within your body and release it in a blinding flash of light that blinds opponents who are not fast enough to close their eyes. Whether you blind them or they close their eyes in time, this gives you a window to hide from them.
 
@@ -219,10 +219,10 @@ Effects: When you use this technique, you and anyone in the Area make an opposed
 ## C-Rank
 {:#c-rank-8 .jutsu-rank-heading}
 
-#### Chuubu Gaki no Jutsu - Ghoul Paralysis Technique
+#### ( <span lang="ja">中風餓鬼の術</span> ) Chuubu Gaki no Jutsu - Ghoul Paralysis Technique
 {:#chuubu-gaki-no-jutsu-ghoul-paralysis-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span></span>
 
 After making contact with an enemy, you send a powerful pulse of electricity through their body, momentarily overstimulating their nervous system. For several seconds afterwards, the recipient of the shock will find their body sluggish and poorly responsive. While not actual harmful, this is exceptionally painful.
 
@@ -233,10 +233,10 @@ Special: Paralysis 4 for 40 IC
 Tags: Attack, Melee  
 Effects: Even if the target succeeds on their Status Check they gain Paralysis 2 for 20 ICs.
 
-#### Faraday Kēji no Jutsu - Faraday Cage Technique
+#### ( <span lang="ja">ファラデーケージの術</span> ) Faraday Kēji no Jutsu - Faraday Cage Technique
 {:#faraday-keji-no-jutsu-faraday-cage-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 Named after the legendary lightning style user who created it, this technique distributes a powerful electric charge in a box shape around them. The cage snaps shut as an attack comes in.
 
@@ -249,10 +249,10 @@ Effects: Parry with Ninjutsu Accuracy. Gain +2 if the attacker has Raiton-induce
 
 This works against elements weak to Raiton up to A-rank, strong against it up to C-rank, and other eligible attacks up to B-rank.
 
-#### Kangekiha - Wave of Inspiration
+#### ( <span lang="ja">感激波</span> ) Kangekiha - Wave of Inspiration
 {:#kangekiha-wave-of-inspiration .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 Focusing a great amount of lightning chakra into their hands the user then places them on or near something that will conduct the attack into their opponent. Be it something metal or something wet, or whatever, as long as there is a conductive material, there will be a target who is hit\!
 
@@ -268,10 +268,10 @@ Effects: Use Accuracy −4 if you and the target touch the same continuous condu
 
 Before rolling, you may draw on one timed Raiton Paralysis effect on the target for +1 Accuracy per point, up to +4. On a full hit, spend the severity used; otherwise it remains. The water or conductor does not spread the attack to anyone else.
 
-#### Raiton: Amigumo - Lightning Release: Spider Web
+#### ( <span lang="ja">雷遁・網蜘蛛</span> ) Raiton: Amigumo - Lightning Release: Spider Web
 {:#raiton-amigumo-lightning-release-spider-web .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 Chakra: 20  
 Damage: 2d20d1\*3d6  
@@ -285,10 +285,10 @@ Effects: If this Technique is the last attack you used, and you haven't performe
 
 When used consecutively, add half the damage of the highest of all previous consecutive uses for the purpose of determining wounds. For example, say you dealt 60, then 40, then 50 damage with it. For determining if you wounded your opponent, the first technique would be treated as 60 damage, the second as (40 \+ 60/2) \= 70, and the third as (50 \+ 60/2) \= 80\.
 
-#### Shimeshi Ryouiki - Dampening Field
+#### ( <span lang="ja">示し領域</span> ) Shimeshi Ryouiki - Dampening Field
 {:#shimeshi-ryouiki-dampening-field .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Environmental</span></span>
 
 Concentrating your chakra, you project an invisible, wide area dome of chakra. Maintaining its stability requires you to stay practically immobile at its center, but the effects are virtually impossible to circumvent without finding the originator.
 
@@ -304,10 +304,10 @@ Effects: While you maintain the field, electronics and magnetized compasses insi
 
 You must remain stationary. You may end the field by dropping its Upkeep. If you move or are moved, the field ends.
 
-#### Shougeki Ken - Shocking Fist
+#### ( <span lang="ja">衝撃拳</span> ) Shougeki Ken - Shocking Fist
 {:#shougeki-ken-shocking-fist .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Aura</span></span>
 
 You focus your chakra around your extremities and transform it into an electric current that numbs whoever you pummel with your Taijutsu attacks. And bypasses any protection they may have had to directly shock their internal organs.
 
@@ -321,10 +321,10 @@ As long as this technique is maintained, your Unarmed and Combo Taijutsu attacks
 
 Your Taijutsu Attacks ignore armor and treat DR as if it is 33% lower.
 
-#### Tesura Karui - Tesla Minor
+#### ( <span lang="ja">テスラ軽</span> ) Tesura Karui - Tesla Minor
 {:#tesura-karui-tesla-minor .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Creation</span></span>
 
 This generates a semi-stable mass of lightning chakra which will be released right in front of you. The mass is a bright and crackling sphere of chakra that will fly at a leisurely pace towards the closest person charged with Raiton chakra. Anyone unfortunate enough to come into contact with it will receive a dangerous shock through their system as the sphere of Lightning bursts, causing a surprising amount of destruction.
 
@@ -341,10 +341,10 @@ If the nearest viable target is somebody in stealth, it will still target them a
 ## B-Rank
 {:#b-rank-8 .jutsu-rank-heading}
 
-#### Chidori - Thousand Birds
+#### ( <span lang="ja">千鳥</span> ) Chidori - Thousand Birds
 {:#chidori .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Piercing</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Raiton</span> <span class="jutsu-keyword">Charge</span></span>
 
 You gather lightning around one hand. The crackle rises to a shriek as you close on your target.
 
@@ -364,10 +364,10 @@ Taking the run-up gives you −1 Defense until your next non-Interrupt Action. A
 
 At X ≥ 15, a full hit inflicts Paralysis 5 for 20 IC, whether you ran or stood your ground.
 
-#### Chidori Nagashi - Chidori Current
+#### ( <span lang="ja">千鳥流し</span> ) Chidori Nagashi - Chidori Current
 {:#chidori-nagashi-chidori-current .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Raiton</span></span>
 
 Lightning erupts around the user's body and travels through nearby conductive contact.
 
@@ -384,10 +384,10 @@ The Area is centered on you and does not affect you.
 
 Creatures in direct contact with metal or water connected to you suffer \-2 to Dodge against this Attack, but Blocking and Parry are unaffected.
 
-#### Gian - False Darkness
+#### ( <span lang="ja">偽暗</span> ) Gian - False Darkness
 {:#gian-false-darkness .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 Developed in Kumogakure for long-range bombardment, this technique draws lightning chakra through the atmosphere and gathers it into spear-shaped bolts. You hurl the bolts like javelins; they accelerate sharply as they descend.
 
@@ -402,10 +402,10 @@ Special: This technique receives only half your damage bonus.
 Tags: Attack, Projectile, Energy  
 Effects: X has a max of 3\. Each X represents an attack, performing a different ACC attack and damage for each dividing the Speed between each attack that hit. The target only needs to declare one interrupt, moving their IC and paying any appropriate costs only once, but they still roll to defend against each attack. Whatever interrupt the target has chosen is the one they must use to defend against all attacks. Every thunderbolt from Gian that hits applies a stacking Paralysis \+1 for a Duration 20 that stacks only from the same instance of Gian.
 
-#### Hiyaku Raikoui - Chain Lightning
+#### ( <span lang="ja">飛躍雷光</span> ) Hiyaku Raikoui - Chain Lightning
 {:#hiyaku-raikoui-chain-lightning .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 You hold out your fingers and fire a focused bolt of lightning which then, after striking the target, goes to find a new target, then another, amplifying itself each time it passes through someone's chakra circulatory system.
 
@@ -419,10 +419,10 @@ Effects: This has an Accuracy bonus equal to the severity of Paralysis its targe
 
 After hitting one person it can then 'jump' to any other target within half the original range from its most recent victim, doing 10% more damage for each target previously hit. Every target can only be attacked once and the maximum number of targets a single activation of Chain Lightning can hit is equal to your Ninjutsu Damage Bonus.
 
-#### Raijuu Hashiri no Jutsu - Lightning Beast Running Technique
+#### ( <span lang="ja">雷獣走りの術</span> ) Raijuu Hashiri no Jutsu - Lightning Beast Running Technique
 {:#raijuu-hashiri-no-jutsu-lightning-beast-running-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 Charging both your hands with a powerful electric current, you slam them together and expel a creature made of pure lightning, in whatever form you choose (one of a realistic, quadruped animal). The beast then runs at your enemy, connected to your hands by a lightning 'leash' that allows you to redirect the attack if an enemy defends against it.
 
@@ -435,10 +435,10 @@ Special: Paralysis 2 for 30 IC
 Tags: Attack, Projectile, Energy  
 Effects: After seeing the result of your opponent's defense, you may choose to make them reroll it. If you do this, they keep the second result (even if it's better). If you use this option, Raijuu Hashiri's damage is halved for the purpose of determining wounds, and its Paralysis status is removed. You may also use the redirect to send the beast after a different target; it still suffers the usual reductions this way.
 
-#### Raiton Bunshin no Jutsu - Lightning Release Clone Technique
+#### ( <span lang="ja">雷遁分身の術</span> ) Raiton Bunshin no Jutsu - Lightning Release Clone Technique
 {:#raiton-bunshin-no-jutsu-lightning-release-clone-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Clone</span></span>
 
 You form a partly independent copy of yourself from lightning. It can fight, but breaks apart when struck and discharges electricity into the attacker.
 
@@ -464,10 +464,10 @@ Anyone who destroys a Lightning Clone within a 1 yard range takes this technique
 
 Lightning Clones use your base Stamina and Chakra Exhaustion bonuses, as if they were a Fatigue 1 version of you without any temporary benefits (such as having eaten a Soldier Pill before creating them). If a clone fails a Fatigue roll, it vanishes just as if it had been struck.
 
-#### Raiton: Fukushuu Kaminarikami - Lightning Release: Avenging Lightning God
+#### ( <span lang="ja">雷遁・復讐雷神</span> ) Raiton: Fukushuu Kaminarikami - Lightning Release: Avenging Lightning God
 {:#raiton-fukushuu-kaminarikami-lightning-release-avenging-lightning-god .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Energy</span></span>
 
 You divert your chakra to surge across your skin, building up something akin to a strong static charge. Unlike actual static electricity, this is incredibly dangerous.
 
@@ -483,10 +483,10 @@ Effects: You can use this technique as an Interrupt against any attacks or offen
 
 This inflicts Paralysis equal to the severity of wounds inflicted from both sides of this technique for 15 IC (if they dealt a major and you dealt a minor it would be 3). Use the speed of your opponent's attack for determining damage rather than the speed of this jutsu.
 
-#### Raiton: Raiden - Lightning Transmission
+#### ( <span lang="ja">雷遁・雷伝</span> ) Raiton: Raiden - Lightning Transmission
 {:#raiton-raiden-lightning-transmission .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Raiton</span></span>
 
 Two points of chakra form a lethal electrical line between them.
 
@@ -504,10 +504,10 @@ Requires you and a willing ally, clone, weapon tether, or placed conductor withi
 
 The Attack fills the line connecting the endpoints. Neither endpoint is affected. If the second endpoint is destroyed or moves out of Range before resolution, the technique fails.
 
-#### Raiton: Shichuu Shibari - Lightning Release: Four Pillar Bind
+#### ( <span lang="ja">雷遁・四柱しばり</span> ) Raiton: Shichuu Shibari - Lightning Release: Four Pillar Bind
 {:#raiton-shichuu-shibari-lightning-release-four-pillar-bind .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span></span>
 
 Four pillars of rock, each about twenty feet tall, are summoned around an enemy (don't ask how that works for a lightning jutsu). Lightning arcs between the pillars, flooding the area with electricity. While the damage done by this technique is fairly mild, it can easily immobilize someone within the area.
 
@@ -523,10 +523,10 @@ Effects: Each of the Pillars has 50+CHA HP and is situated on the four corners o
 ## A-Rank
 {:#a-rank-8 .jutsu-rank-heading}
 
-#### Chidori Senbon - Thousand Birds Needles
+#### ( <span lang="ja">千鳥千本</span> ) Chidori Senbon - Thousand Birds Needles
 {:#chidori-senbon .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Piercing</span> <span class="jutsu-keyword">Energy</span></span>
 
 Shape transformation stretches the Chidori into a storm of needle-thin lightning. The technique gives up the brutal certainty of a hand thrust for reach, precision, and the ability to saturate a small area with piercing arcs.
 
@@ -545,10 +545,10 @@ Choose one target normally, or center the technique on a 4-yard Area. If used as
 
 Against a single target, reduce Armor effectiveness by 20% for this Attack. Chidori Senbon cannot be linked to another projectile technique or used in the same action as Chidori.
 
-#### Juurokuchuu Shibari - Sixteen Pillar Bind
+#### ( <span lang="ja">十六柱しばり</span> ) Juurokuchuu Shibari - Sixteen Pillar Bind
 {:#juurokuchuu-shibari-sixteen-pillar-bind .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span></span>
 
 Just as the four pillar bind, this surrounds the area, though this time it's a bit more solid. After creating a large, oven-like structure it then electrocutes the entire area inside, frying the contents and hopefully making it hard for them to escape.
 
@@ -567,10 +567,10 @@ For each layer a person is inside they suffer \-2 Immobilize and 1 Paralyze. If 
 
 This lasts so long as you maintain its upkeep. You are immune to its effects.
 
-#### Kouken Rairyuu - Guardian Lightning Dragon
+#### ( <span lang="ja">後見雷龍</span> ) Kouken Rairyuu - Guardian Lightning Dragon
 {:#kouken-rairyuu-guardian-lightning-dragon .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 Harnessing a great amount of chakra, you create a field of lightning that swirls around you and coalesces into the crackling outline of an electric dragon. From there you can keep it at the ready, or attack an unfortunate foe immediately.
 
@@ -585,10 +585,10 @@ Effects: When you use this technique, you may choose to lower its Chakra cost by
 
 It will automatically attack the first person to move within 10 yards of you (it will not, however, trigger this effect if you move closer to them), with \+4 Accuracy. You may also launch the dragon at any time while it's still around, as a Chakra 30 Speed 14 action.
 
-#### Kuroi Kaminari - Black Lightning
+#### ( <span lang="ja">黒い雷</span> ) Kuroi Kaminari - Black Lightning
 {:#kuroi-kaminari-black-lightning .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Raiton</span></span>
 
 Dense dark lightning sacrifices spread for brutal nervous-system pressure.
 
@@ -605,10 +605,10 @@ On a full hit, if the target already has Raiton-induced Paralysis, increase Woun
 
 After resolving, end 2 Severity of Raiton-induced Paralysis on the target as the built charge violently discharges.
 
-#### Raikiri - Lightning Cutter
+#### ( <span lang="ja">雷切</span> ) Raikiri - Lightning Cutter
 {:#raikiri-lightning-cutter .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Piercing</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Raiton</span></span>
 
 A refined Chidori concentrates more of the current into a smaller, cleaner killing edge.
 
@@ -622,10 +622,10 @@ Special: Paralysis 4 for 25 IC
 Tags: Attack, Melee, Piercing, Energy, Raiton  
 Effects: Requires Chidori. Ignore 50% of both Damage Reduction and Armor effectiveness for this attack.
 
-#### Raitama - Ball Lightning
+#### ( <span lang="ja">雷玉</span> ) Raitama - Ball Lightning
 {:#raitama-ball-lightning .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Creation</span></span>
 
 You bind a sphere of lightning inside a mesh of chakra and leave it hovering or concealed inside an object, usually the ground. It seeks out a nearby target and detonates on contact. When concealed inside an object, it can only be detected with chakra-detecting dōjutsu such as the Byakugan.
 
@@ -639,10 +639,10 @@ Effects: Set a range up to 60, whenever someone other than you enters this range
 
 This can be left sitting in the air (as an effective deterrent), or submerged into any available surface (the floor, the walls). If you are within 60 Yards, you can prevent the ball from activating by concentrating on it (though you'd typically need line of sight to know if this is necessary).
 
-#### Tenchu - Wrath of Heaven
+#### ( <span lang="ja">天誅</span> ) Tenchu - Wrath of Heaven
 {:#tenchu-wrath-of-heaven .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span></span>
 
 This technique truly earns its name. As the handseals are completed electricity will begin to arc along the user's body and wisps of dark smoke will rise from them, a result of the overwhelming, uncontainable amounts of chakra this jutsu requires.  
 That chakra is converted directly into electricity and released in a blast every bit as devastatingly powerful as a genuine bolt of lightning.
@@ -658,10 +658,10 @@ Effects: The effectiveness of partial defense is halved against this technique: 
 
 After rolling damage for Tenchu, you may spend a point of Willpower to reroll it and take the higher of the two results.
 
-#### Kirin - Qilin
+#### ( <span lang="ja">麒麟</span> ) Kirin - Qilin
 {:#kirin .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Raiton</span></span>
 
 Rather than creating lightning from chakra, the user seizes control of a naturally charged storm and directs a true lightning strike down onto the battlefield.
 

@@ -57,10 +57,10 @@ Depth leaves you untouched. You ignore its Special Upkeep, Movement reduction an
 ## C-Rank
 {:#c-rank .jutsu-rank-heading}
 
-#### Shinenton: Kokusui no Hikishio - Abyss Release: Blackwater Undertow
+#### ( <span lang="ja">深淵遁・黒水の引き潮</span> ) Shinenton: Kokusui no Hikishio - Abyss Release: Blackwater Undertow
 {:#abyss-release-blackwater-undertow .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Suiton</span> <span class="jutsu-keyword">Abyss</span></span>
 
 *Black water spreads across the ground and everything caught within it begins sliding toward the centre, as though the battlefield has become the mouth of an ocean trench.*
 
@@ -73,10 +73,10 @@ Blackwater Undertow pulls creatures towards the centre of its Area. Increase thi
 ## B-Rank
 {:#b-rank .jutsu-rank-heading}
 
-#### Shinenton: Suibotsu Sekai - Abyss Release: Sunken World
+#### ( <span lang="ja">深淵遁・水没世界</span> ) Shinenton: Suibotsu Sekai - Abyss Release: Sunken World
 {:#abyss-release-sunken-world .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Suiton</span> <span class="jutsu-keyword">Abyss</span></span>
 
 *The ground disappears beneath a layer of perfectly still black water. Every few seconds it feels deeper, heavier and farther from the surface.*
 
@@ -91,10 +91,10 @@ Every 10 IC after activation, increase that Area's Depth by 1, to a maximum of 5
 ## A-Rank
 {:#a-rank .jutsu-rank-heading}
 
-#### Shinenton: Shinkai no Haka - Abyss Release: Hadal Grave
+#### ( <span lang="ja">深淵遁・深海の墓</span> ) Shinenton: Shinkai no Haka - Abyss Release: Hadal Grave
 {:#abyss-release-hadal-grave .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Suiton</span> <span class="jutsu-keyword">Abyss</span></span>
 
 *The world beneath the victims seems to fall away. Black water floods outward without splashing as the pressure of an impossible depth closes around them.*
 

@@ -63,10 +63,10 @@ Your Void Attacks ignore 25% of DR granted by Chakra-based effects, increasing t
 ## C-Rank
 {:#c-rank .jutsu-rank-heading}
 
-#### Kyoton: Kūshin - Void Release: Hollow Needle
+#### ( <span lang="ja">虚遁・空針</span> ) Kyoton: Kūshin - Void Release: Hollow Needle
 {:#void-release-hollow-needle .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Non-Elemental</span> <span class="jutsu-keyword">Void</span></span>
 
 *A tiny needle of colourless chakra slips through the target. The physical wound is small. The dead sensation spreading through their chakra network is not.*
 
@@ -79,10 +79,10 @@ Hollow Needle ignores 50% of DR granted by Chakra-based techniques or abilities.
 ## B-Rank
 {:#b-rank .jutsu-rank-heading}
 
-#### Kyoton: Kūhaku Ryōiki - Void Release: Hollow Domain
+#### ( <span lang="ja">虚遁・空白領域</span> ) Kyoton: Kūhaku Ryōiki - Void Release: Hollow Domain
 {:#void-release-hollow-domain .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Non-Elemental</span> <span class="jutsu-keyword">Void</span></span>
 
 *Colour dulls at the edge of the field. Active chakra begins to drag, flicker and feel heavier to maintain.*
 
@@ -97,10 +97,10 @@ Every 10 IC after activation, increase that Area's Null by 1, to a maximum of 5\
 ## A-Rank
 {:#a-rank .jutsu-rank-heading}
 
-#### Kyoton: Anten - Void Release: Blackout
+#### ( <span lang="ja">虚遁・暗転</span> ) Kyoton: Anten - Void Release: Blackout
 {:#void-release-blackout .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Non-Elemental</span> <span class="jutsu-keyword">Void</span></span>
 
 *The user floods an Area with chakra designed to destroy coherence in other chakra. Barriers flicker, Constructs fracture and maintained techniques suddenly feel expensive.*
 

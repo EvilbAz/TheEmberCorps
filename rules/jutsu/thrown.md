@@ -18,10 +18,10 @@ permalink: "/rules/jutsu/thrown/"
 ## E-Rank
 {:#e-rank-17 .jutsu-rank-heading}
 
-#### Nijū Nage - Double Cast
+#### ( <span lang="ja">二重投げ</span> ) Nijū Nage - Double Cast
 {:#double-cast .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span></span>
 
 Two compatible tools leave the hand on nearly the same line.
 
@@ -32,10 +32,10 @@ Damage: +floor(STR/15)dS
 Tags: Chain 1, Thrown, Attack  
 Effects: Throw two compatible weapons at one target and choose before its Defense: Crossed Blades — use one Accuracy roll and one Defense; each weapon contributes 55% of its damage, with its own damage type and legal payload, then apply that Defense’s result normally; or Decoy — one weapon deals no damage and distracts the guard, imposing an Athletics/5 penalty if the target Parries, while the other deals its full damage. Both weapons are spent; Chain advances once if the Attack hits.
 
-#### Senbon no Sasoi - Needle Lead
+#### ( <span lang="ja">千本の誘い</span> ) Senbon no Sasoi - Needle Lead
 {:#needle-lead .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span></span>
 
 A precise throw opens a bleeding cut or catches the target as it attacks.
 
@@ -47,10 +47,10 @@ Accuracy: \+1
 Tags: Chain 1, Thrown, Attack  
 Effects: Requires Kunai, Shuriken or Senbon. On a full hit choose one: Bleed — resolve Bleed equal to the greater of 2 or Athletics/10, maximum 6, using Athletics against Resistance; or Disrupt — the target takes an Accuracy penalty of Athletics/5 on its next Attack. Declare which projectile carries a poison or other payload before the Defense.
 
-#### Sō Shuriken - Manipulated Shuriken
+#### ( <span lang="ja">操手裏剣</span> ) Sō Shuriken - Manipulated Shuriken
 {:#manipulated-shuriken .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span></span>
 
 A tug on concealed wire sends the shuriken back toward its target.
 
@@ -61,10 +61,10 @@ Damage: +floor(STR/15)dS
 Tags: Chain 2, Thrown, Attack  
 Effects: Requires Ninja Wire for the entire clear projectile route. After the target fully defends, you may redirect the weapon along a clear return path within its remaining Range and force one repeat of that Defense. Reuse its paid Stamina, Chakra, AP and Speed; it pays and advances time only once. If the repeated Defense fails, resolve its ordinary Partial Defense against an Attack dealing 75% Final Damage. The repeated result replaces the first. Keep the wire committed until the Attack finishes; then you may retrieve the weapon along that route if it is not embedded or held.
 
-#### Fūma Rendan - Fuuma Barrage
+#### ( <span lang="ja">風魔連弾</span> ) Fūma Rendan - Fuuma Barrage
 {:#fuuma-barrage .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span></span>
 
 Two fuuma shuriken cross the target’s path in quick succession.
 
@@ -75,10 +75,10 @@ Damage: +max(2, floor(STR/15))dS
 Tags: Chain 3, Thrown, Attack  
 Effects: Fuuma Shuriken only. Throw two weapons in succession, rolling and defending separately. Each hit deals 65% of weapon dice plus this technique’s Damage dice plus PDB × final Speed; combine damage for Wounding only. If both fully hit the same creature, resolve Prone using Athletics against Resistance as the crossing blades break its footing.
 
-#### Fukumi Senbon - Hidden Mouth Needle
+#### ( <span lang="ja">含み千本</span> ) Fukumi Senbon - Hidden Mouth Needle
 {:#hidden-mouth-needle .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span></span>
 
 You spit a concealed senbon before the target sees you reach for a weapon.
 
@@ -88,10 +88,10 @@ Speed: +0
 Tags: Link, Thrown, Attack  
 Effects: Link to a Senbon Attack or Senbon Multi-Throw. Produce one concealed Senbon as part of the Attack without a Draw action; it counts toward normal ammunition and projectile limits. The first use against a creature that has not seen you use this trick is a Surprise Attack even if you were not Hidden. Other projectiles must already be readied normally.
 
-#### Senjō Issei - Field Volley
+#### ( <span lang="ja">戦場一斉</span> ) Senjō Issei - Field Volley
 {:#field-volley .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span></span>
 
 The throw widens into a spread of tools that blankets an area, the user fanning their release so several targets are threatened by the same handful.
 
@@ -106,10 +106,10 @@ Effects: Supply one thrown weapon per chosen creature in Area, within your norma
 ## D-Rank
 {:#d-rank-17 .jutsu-rank-heading}
 
-#### Hane Nage - Banked Throw
+#### ( <span lang="ja">跳ね投げ</span> ) Hane Nage - Banked Throw
 {:#banked-throw .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span></span>
 
 You bounce the weapon off a hard surface or another projectile to strike from a new angle.
 
@@ -120,10 +120,10 @@ Speed: \+2
 Tags: Chain 2, Thrown, Attack  
 Effects: Choose a bank point along a clear route within total throwing Range. Use a hard surface, or throw an additional compatible weapon to create the ricochet point; that extra weapon counts toward your Multi-Throw limit and costs its normal Multi-Throw increments but deals no damage. Measure the Attack’s final approach from the bank point and reduce Visibility penalties by Athletics/5. Both segments must be clear. This changes the attack angle without automatically granting Surprise.
 
-#### Tsukami Nage - Handful Throw
+#### ( <span lang="ja">掴み投げ</span> ) Tsukami Nage - Handful Throw
 {:#handful-throw .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span></span>
 
 The user empties a full handful in one practiced release, splitting the weapons between targets as the throw opens across the battlefield.
 
@@ -134,10 +134,10 @@ Damage: +floor(STR/10)dS
 Tags: Chain 3, Thrown, Attack  
 Effects: Multi-throw up to Athletics/5 additional weapons beyond your normal allowance, splitting them among legal targets. Use normal Multi-Throw damage and costs; distribute this technique’s extra dice once per target across its projectiles. Each target defends separately. Against a creature fully hit by at least two projectiles, you may resolve Immobilization equal to Athletics/5 using Athletics against Resistance, pinning its clothing or equipment. It can remove this Immobilization with a Speed 3 Utility Action.
 
-#### Kaeshi Nage - Return Flick
+#### ( <span lang="ja">返し投げ</span> ) Kaeshi Nage - Return Flick
 {:#return-flick .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 You draw your scattered weapons back into your hands with a sweep of chakra.
 
@@ -147,10 +147,10 @@ Speed: 3
 Tags: Chain X, Thrown, Utility, Interrupt  
 Effects: After your Thrown Attack resolves, recover its missed or deflected weapons along clear return paths within normal throwing Range. Weapons embedded in a creature, held by someone else, destroyed or consumed cannot be recovered this way. The recovered weapons are ready in your hands or carried holders; recovering them does not grant another Attack.
 
-#### Tōte no Kata - Throwing Form
+#### ( <span lang="ja">投手の型</span> ) Tōte no Kata - Throwing Form
 {:#throwing-form .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Utility</span></span>
 
 Years of throwing have stripped wasted motion from the draw, grip, and release.
 
@@ -164,10 +164,10 @@ Effects: Halve the Speed added by Multi-Throw, rounding the remaining added Spee
 ## C-Rank
 {:#c-rank-17 .jutsu-rank-heading}
 
-#### Jūji Nage - Crossfire Cast
+#### ( <span lang="ja">十字投げ</span> ) Jūji Nage - Crossfire Cast
 {:#crossfire-cast .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span></span>
 
 Throw at two opponents from different angles so neither can read both throws from the movement of your hand.
 
@@ -178,10 +178,10 @@ Damage: +floor(STR/7)dS
 Tags: Chain 1, Thrown, Attack  
 Effects: Throw one compatible weapon at each of two creatures at 60% Final Damage, rolling and defending separately. You may use this at Chain 0, 1 or 2. If the original chained target is hit, you may preserve your current Chain value against it. Alternatively, choose a hit creature and begin a new Chain 1 against it, ending the previous Chain and any unused Opening. This does not maintain two Chains or advance a preserved Chain.
 
-#### Kado no Ito - Corner Wire
+#### ( <span lang="ja">角の糸</span> ) Kado no Ito - Corner Wire
 {:#corner-wire .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Utility</span></span>
 
 Ninja Wire is attached or routed before the next throw so the projectile can travel farther and turn a corner the hand alone could not produce.
 
@@ -191,10 +191,10 @@ Speed: 3
 Tags: Chain X, Thrown, Utility  
 Effects: Route Ninja Wire from your hand or a thrown weapon you have already placed along a clear path. Your next Thrown Chain Attack gains +50% Range and may turn up to 90 degrees along that route. Supply wire for the entire route; it cannot pass through solid barriers. You may keep a placed weapon as the anchor for later uses, but each Attack needs its own use of Corner Wire. Cutting, detaching or retrieving the wire ends the setup.
 
-#### Shikake Buki - Rigged Weapon
+#### ( <span lang="ja">仕掛け武器</span> ) Shikake Buki - Rigged Weapon
 {:#rigged-weapon .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span></span>
 
 You fix the payload to the projectile as you prepare the throw.
 
@@ -207,10 +207,10 @@ Effects: Link to a Thrown Attack. As part of readying it, apply up to two compat
 ## B-Rank
 {:#b-rank-17 .jutsu-rank-heading}
 
-#### Kaeshi no En - Returning Arc
+#### ( <span lang="ja">返しの円</span> ) Kaeshi no En - Returning Arc
 {:#returning-arc .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span></span>
 
 The weapon continues through its first line and curves toward a second target before it loses momentum.
 
@@ -221,10 +221,10 @@ Speed: \+3
 Tags: Chain 2, Thrown, Attack  
 Effects: After the first strike resolves, direct the weapon along a clear path within its remaining Range. Choose another creature, or the original target only if it fully defended the first strike. Make a new Accuracy roll; the target defends normally against 80% Final Damage. This Attack cannot also force a Defense reroll. Resolve Chain progression once against the original chained target. If neither strike leaves the weapon embedded or held, it returns to your hand along a clear remaining route.
 
-#### Sanpu Hashiri - Scatter Run
+#### ( <span lang="ja">散布走り</span> ) Sanpu Hashiri - Scatter Run
 {:#scatter-run .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span></span>
 
 You spread a prepared handful across the target’s guard, choosing which tools carry the real threat.
 
@@ -237,10 +237,10 @@ Effects: Link to a Multi-Throw. Gain +Athletics/5 Accuracy and up to Athletics/5
 ## A-Rank
 {:#a-rank-17 .jutsu-rank-heading}
 
-#### Fūma no Shinigami - Fuuma Reaper
+#### ( <span lang="ja">風魔の死神</span> ) Fūma no Shinigami - Fuuma Reaper
 {:#fuuma-reaper .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Attack</span></span>
 
 You send a Fuuma Shuriken through a continuous cutting route, forcing several targets to solve the same spinning weapon from different angles.
 
@@ -251,10 +251,10 @@ Damage: +max(4, floor(STR/3))dS
 Tags: Chain 3, Thrown, Attack  
 Effects: Fuuma Shuriken only. Choose up to 3 + Athletics/10 creatures or exposed mundane bindings along one continuous clear path within Range. Roll Accuracy separately against each hostile creature; each defends normally. A hit deals weapon dice plus this technique’s Damage dice plus PDB × final Speed and gains +20% Wounding. For a binding on a willing or helpless creature, you may instead sever that ordinary rope, net or strap without damaging the creature; this does not cut chakra restraints or armor. Each target can be struck once. Resolve Chain progression once against your chained target; if it cannot legally be included, this finisher cannot be declared.
 
-#### Ito no Ori - Wire Cage
+#### ( <span lang="ja">糸の檻</span> ) Ito no Ori - Wire Cage
 {:#wire-cage .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Thrown</span> <span class="jutsu-keyword">Utility</span></span>
 
 Four thrown anchors pull Ninja Wire tight around a patch of battlefield, turning movement through it into a hazard.
 

@@ -26,10 +26,10 @@ Katon jutsu often have \!o\>X this is called exploding dice and causes an additi
 ## E-Rank
 {:#e-rank-7 .jutsu-rank-heading}
 
-#### Asayake no Jutsu - Morning Glow Technique
+#### ( <span lang="ja">朝焼けの術</span> ) Asayake no Jutsu - Morning Glow Technique
 {:#asayake-no-jutsu-morning-glow-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 In addition to being good practice for chakra control, many fire-using ninja find it useful when left without supplies. It creates a small, warm ball of fire that hovers around its user's palm, over their fingertips, or so forth. This ball is not hot enough to ignite, well, anything, but it's particularly bright for its size.
 
@@ -40,10 +40,10 @@ Seal Speed: 8
 Tags: Utility  
 Effects: The orb sheds light equivalent to a small oil lamp. This reduces darkness-based visibility effects by 4\.
 
-#### Enmaku no Jutsu - Smokescreen Technique
+#### ( <span lang="ja">煙幕の術</span> ) Enmaku no Jutsu - Smokescreen Technique
 {:#enmaku-no-jutsu-smokescreen-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Environmental</span></span>
 
 A low-level technique which sees some use even by more experienced ninja, in certain situations. It causes a Katon jutsu to release a prodigious amount of smoke before it burns out, reducing visibility over an area.
 
@@ -54,10 +54,10 @@ Effects: Link this to a damaging Katon. When the attack resolves, smoke fills Ar
 
 You may instead raise smoke from a creature with Ignite within 10 yards. Pay Chakra 6, Speed 5, Seal Speed 5. Use half its Ignite severity for R, rounded down (minimum 1, maximum 5). This does not consume Ignite.
 
-#### Hinotama no Jutsu - Fireball Technique
+#### ( <span lang="ja">火の玉の術</span> ) Hinotama no Jutsu - Fireball Technique
 {:#hinotama-no-jutsu-fireball-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 This jutsu is so weak it's considered a training exercise among academy students who're quick to grasp the basics of katon jutsu. After performing the handseals the user focuses chakra in their hand and projects it into a fist-sized ball of fire, which they can then shoot at a target.
 
@@ -71,10 +71,10 @@ Tags: Attack, Projectile, Energy
 ## D-Rank
 {:#d-rank-7 .jutsu-rank-heading}
 
-#### Enkounebai no Jutsu - Sticky Fire Technique
+#### ( <span lang="ja">炎光粘りの術</span> ) Enkounebai no Jutsu - Sticky Fire Technique
 {:#enkounebai-no-jutsu-sticky-fire-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span></span>
 
 You spit out a mass of chakra-infused saliva; it's clear, odorless, extremely sticky, very flammable, and kind of gross to get hit by.
 
@@ -85,10 +85,10 @@ Seal Speed: 8
 Tags: Attack, Projectile  
 Effects: On a hit, coat the target for 30 IC. The first damaging Katon jutsu to hit them consumes the coating and applies Ignite 5, plus 2 per rank of the triggering jutsu above E. Environmental fire cannot set it off. A technique that explicitly ignites Sticky Fire still works.
 
-#### Katon: Houenka - Fire Release: Flame Flower
+#### ( <span lang="ja">火遁・鳳炎花</span> ) Katon: Houenka - Fire Release: Flame Flower
 {:#katon-houenka-fire-release-flame-flower .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 After completing the handseals, the user creates three balls of fire-elemented chakra: one in each palm, and one in their mouth, all three of which can be fired separately or focused on a single target.
 
@@ -100,10 +100,10 @@ Seal Speed: 10
 Tags: Attack, Projectile, Energy  
 Effects: This technique hits up to three separate targets. For each fireball beyond the first directed at the same target, the damage they take is increased by 3d6, and the technique has \+1 accuracy.
 
-#### Katon: Houyoku - Fire Release: Phoenix Wings
+#### ( <span lang="ja">火遁・鳳翼</span> ) Katon: Houyoku - Fire Release: Phoenix Wings
 {:#katon-houyoku-fire-release-phoenix-wings .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Link</span></span>
 
 This technique wreaths part of your body--generally a  
 forearm and hand, but it can vary depending on the needs of the technique--with chakra-based flames\! It's quite flashy, and could be considered low-grade nin-taijutsu, as it then combines those flames with a physical attack of your choice.
@@ -113,10 +113,10 @@ Seal Speed: 10
 Tags: Link  
 Effects: This is added on to any non grapple unarmed taijutsu attack. The technique uses your ninjutsu, rather than physical damage bonus, and inflicts Burns 4\.
 
-#### Katon: Shitai Entou - Fire Release: Flame Tongue
+#### ( <span lang="ja">火遁・四体炎筒</span> ) Katon: Shitai Entou - Fire Release: Flame Tongue
 {:#katon-shitai-entou-fire-release-flame-tongue .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 Originally thought to be a technique that required a prolonged diet of special, possibly chakra-enhanced chemicals, this was later discovered to be actually a fairly simple Katon jutsu. The user breathes out a thick, nearly solid stream of fire from their mouth--typically at another person, whom they would like to injure.
 
@@ -128,10 +128,10 @@ Seal Speed: 13
 Special: Burns 3  
 Tags: Attack, Projectile, Energy
 
-#### Nenshou Yari no Jutsu - Burning Spear Technique
+#### ( <span lang="ja">燃焼槍の術</span> ) Nenshou Yari no Jutsu - Burning Spear Technique
 {:#nenshou-yari-no-jutsu-burning-spear-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Creation</span></span>
 
 This jutsu creates a polearm out of pure flame, which the user can hold unharmed (and without lighting their clothes on fire). Konoha once tried to have a treaty passed to ban the use of this technique, though nobody else quite understands what all the fuss is about.
 
@@ -150,10 +150,10 @@ The weapon has a third of its normal Durability
 
 (3) Your weapon gains a Ignite 2 or \+1 to Ignite from this weapon. Max 1
 
-#### Ryuuseiu no Jutsu - Meteor Shower Technique
+#### ( <span lang="ja">流星雨の術</span> ) Ryuuseiu no Jutsu - Meteor Shower Technique
 {:#ryuuseiu-no-jutsu-meteor-shower-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Link</span></span>
 
 The user gathers intense fire chakra in their palms or fingertips before throwing several weapons which ignite in mid-air. Aside from being painful, being hit by flaming bits of metal carries other risks.
 
@@ -166,10 +166,10 @@ Effects: This is added on to any multi-throw with X being the number of weapons 
 ## C-Rank
 {:#c-rank-7 .jutsu-rank-heading}
 
-#### Katon: Gōkakyū no Jutsu - Fire Release: Great Fireball Technique
+#### ( <span lang="ja">火遁・豪火球の術</span> ) Katon: Gōkakyū no Jutsu - Fire Release: Great Fireball Technique
 {:#katon-gokakyu-no-jutsu-fire-release-great-fireball-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span></span>
 
 Generations ago, this technique was passed down from father to son within the Uchiha clan as an informal, but sometimes very serious, rite of passage. As time passed its use spread first to other Konoha ninja, and then much further.
 
@@ -182,10 +182,10 @@ Seal Speed: 15
 Special: Burns 6  
 Tags: Attack, AoE, Energy
 
-#### Hi no Tatsumaki no Jutsu - Fire Tornado Technique
+#### ( <span lang="ja">火の竜巻の術</span> ) Hi no Tatsumaki no Jutsu - Fire Tornado Technique
 {:#hi-no-tatsumaki-no-jutsu-fire-tornado-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 The user shoots a burst of flame coiling around them into a swirling orb of fire surrounding them.
 
@@ -198,10 +198,10 @@ Effects: You parry an incoming attack. If you successfully defend, this immediat
 
 This works against elements that are weak to it up to A rank, elements that are strong to it up to C-rank, and all other Jutsu up to B-rank.
 
-#### Housenka no Jutsu - Phoenix Sage Fire Technique
+#### ( <span lang="ja">鳳仙火の術</span> ) Housenka no Jutsu - Phoenix Sage Fire Technique
 {:#housenka-no-jutsu-phoenix-sage-fire-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Link</span></span>
 
 After performing the handseals, the user exhales a cluster of small fireballs, each concealing one or more shuriken.
 
@@ -212,10 +212,10 @@ Special: Burns X/3
 Tags: Link  
 Effects: This is added on to any multi-throw with X being the number of weapons used in this technique and they are ruined, and cannot be retrieved or reused. This technique uses your ninjutsu damage bonus instead of your physical damage bonus.
 
-#### Ikari o Moe no Jutsu - Blazing Fury Technique
+#### ( <span lang="ja">怒りを燃えの術</span> ) Ikari o Moe no Jutsu - Blazing Fury Technique
 {:#ikari-o-moe-no-jutsu-blazing-fury-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Aura</span></span>
 
 A very, very popular technique among hand-to-hand combatants, whose opinions of it range from "pretty cool" to "totally awesome", this wreathes their hands, and sometimes feet, elbow, and knees, in a faint reddish glow of chakra. When they strike, that chakra ignites on impact, resulting in a burst of flame being delivered to their unfortunate foe. It's quite flashy.
 
@@ -228,10 +228,10 @@ Effects: The damage dice of all Unarmed and combo jutsu become \!o\>D. For examp
 
 Additionally, if an attack augmented by Blazing Fury inflicts wounds of any sort, it also causes an Energy wound of one category lower,  (a punch that inflicted a Major Blunt wound would also inflict a Minor Energy wound. A Minor would do no additional wound).
 
-#### Kasumi Enbu no Jutsu - Mist Blaze Dance Technique
+#### ( <span lang="ja">霞炎舞の術</span> ) Kasumi Enbu no Jutsu - Mist Blaze Dance Technique
 {:#kasumi-enbu-no-jutsu-mist-blaze-dance-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Environmental</span></span>
 
 Once you perform the handseals, this jutsu allows you to exhale a slightly translucent cloud of potentially flammable gas. Even so much as a spark will spell trouble for anyone unfortunate enough to be within it. As an added effect, the glass is ever-so-slightly toxic.
 
@@ -247,10 +247,10 @@ Effects: Place the cloud within Range. It lasts 30 + Chakra Control ranks IC whi
 
 The cloud ends when it detonates. Roll the listed Energy damage once and use your casting Accuracy for a Speed 8 AoE. Anyone inside can defend normally, including on the IC the cloud appears. Before detonation, each full 15 IC spent inside inflicts Suffocation 1, to a maximum of 5 from this technique. Overlapping clouds count once per creature.
 
-#### Katon: Endan - Fire Release: Flame Bullet
+#### ( <span lang="ja">火遁・炎弾</span> ) Katon: Endan - Fire Release: Flame Bullet
 {:#katon-endan-fire-release-flame-bullet .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 You spit a compact shot of chakra-fed oil and ignite it as it leaves your mouth.
 
@@ -268,10 +268,10 @@ Before rolling Accuracy, you may pay \+4 Chakra to split the prepared oil into a
 
 Splitting the technique does not increase its Speed or Seal Speed and cannot be used to strike the same target twice.
 
-#### Katon: Gōenka - Great Flame
+#### ( <span lang="ja">火遁・豪炎華</span> ) Katon: Gōenka - Great Flame
 {:#katon-goenka-great-flame .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Katon</span></span>
 
 A dense fireball bursts into a broad detonation rather than travelling as a long stream.
 
@@ -289,10 +289,10 @@ Flammable unattended objects in the Area ignite after the Attack resolves.
 
 This technique creates no persistent damaging terrain on its own.
 
-#### Katon: Haisekishō - Ash Pile Burning
+#### ( <span lang="ja">火遁・灰積焼</span> ) Katon: Haisekishō - Ash Pile Burning
 {:#katon-haisekisho-ash-pile-burning .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Katon</span></span>
 
 A cloud of hot ash becomes a trap the moment the user clicks their teeth or sparks a flame.
 
@@ -310,10 +310,10 @@ The ash cloud persists for 30 IC and gives \-2 Visibility inside.
 
 You may detonate it as a Speed 3, Chakra 5 action while within Range. On detonation, make the Attack using your current Accuracy, then the cloud ends.
 
-#### Ryuuka no Jutsu - Dragon Fire Technique
+#### ( <span lang="ja">龍火の術</span> ) Ryuuka no Jutsu - Dragon Fire Technique
 {:#ryuuka-no-jutsu-dragon-fire-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 This jutsu is painfully slow and inaccurate, making its usefulness situational at best. Most users of the technique find some way to bind or disable their opponents before trying to attack with it. On the other hand, if it manages to connect it can be astonishingly devastating.
 
@@ -326,10 +326,10 @@ Seal Speed: 16
 Special: Burns 8, Ignite 6, This technique benefits from double the user's ninjutsu damage bonus  
 Tags: Attack, Projectile, Energy
 
-#### Yoen no Jutsu - Ember-Burning Technique
+#### ( <span lang="ja">妖炎の術</span> ) Yoen no Jutsu - Ember-Burning Technique
 {:#yoen-no-jutsu-ember-burning-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span></span>
 
 One of the few katon jutsu which lacks offensive applications, this technique's rank comes from the precision necessary to perform it without lighting oneself on fire. It literally burns dirt, grime, sweat, and contaminants from the target's clothes and body (without, notably, causing either to go up in flames themselves). It can also be used to sterilize (or, if necessary, cauterize) wounds by tracing them with one's fingertips.
 
@@ -346,10 +346,10 @@ If used to treat an injury (external injuries which have left open wounds only),
 ## B-Rank
 {:#b-rank-7 .jutsu-rank-heading}
 
-#### Akuchori Nabe - Devil's Cooking Pot
+#### ( <span lang="ja">灰汁取り鍋</span> ) Akuchori Nabe - Devil's Cooking Pot
 {:#akuchori-nabe-devil-s-cooking-pot .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span></span>
 
 This technique is known for two things. The first is the distinctive, raspy sound made when the user exhales the dark gray cloud of smoke produced by this technique, rather like a death rattle. The second is being wantonly destructive. Due to the composition of the cloud's chakra, it ignites at the outside first, and implodes upon itself, creating a pyroclastic pressure-cooker effect.
 
@@ -363,10 +363,10 @@ Effects: Any damaging Katon jutsu of C-rank or higher will be sufficient to igni
 
 If the technique also has an area of effect, add half of the lower AoE (Akuchori Nabe's or that of the technique which detonated it) to the full higher one; this is the area for the new, combined technique.
 
-#### Gouryuuka no Jutsu - Great Dragon Fire Technique
+#### ( <span lang="ja">豪龍火の術</span> ) Gouryuuka no Jutsu - Great Dragon Fire Technique
 {:#gouryuuka-no-jutsu-great-dragon-fire-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span></span>
 
 The user of this technique compresses a large amount of chakra in their body, and exhales it as a single, massive burst of fire in the shape of a dragon's head. Due to this technique's nature, enough of the chakra used in it is retained briefly in the user's body to swiftly prepare a second blast.
 
@@ -379,10 +379,10 @@ Seal Speed: 22
 Tags: Attack, AoE, Energy  
 Effects: If this was the last jutsu you performed, its Chakra cost is reduced by 1 and its Seal Speed by 2, and it gains \+1 Accuracy. These bonuses stack, bringing it as low as Chakra 30 and Seal Speed 10, and giving up to \+5 Accuracy.
 
-#### Jikoku Kasou no Jutsu - Instant Cremation Technique
+#### ( <span lang="ja">地獄火葬の術</span> ) Jikoku Kasou no Jutsu - Instant Cremation Technique
 {:#jikoku-kasou-no-jutsu-instant-cremation-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 Arguably the most stylish jutsu in existence, after performing the requisite handseals the user keeps their hands charged with chakra (though they do not glow, or burn). From that point on, all they have to do is point at a target and focus for a few seconds, and a location will erupt in flames.
 
@@ -400,10 +400,10 @@ Effects: X is your Cremation upkeep which is increased as you cast this jutsu an
 
 For example, if you had used Instant Cremation three times, you would have an Upkeep 6, and your next use of it would increase it to 8 for 8d20\!\>12 damage.
 
-#### Katon: Enrin - Flame Whorl
+#### ( <span lang="ja">火遁・炎輪</span> ) Katon: Enrin - Flame Whorl
 {:#katon-enrin-flame-whorl .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Katon</span> <span class="jutsu-keyword">Energy</span></span>
 
 A ring of flame rolls out from your feet and flares where it meets a burning target.
 
@@ -415,10 +415,10 @@ Seal Speed: 12
 Tags: Attack, AoE, Katon, Energy  
 Effects: Roll damage once. On a full hit against a target with Ignite, you may consume up to 5 of its Ignite severity. Add 12 damage per point consumed against that target. Decide separately for each target.
 
-#### Katon: Joushou Ootori - Fire Release: Rising Phoenix Blast
+#### ( <span lang="ja">火遁・上昇大鳥</span> ) Katon: Joushou Ootori - Fire Release: Rising Phoenix Blast
 {:#katon-joushou-ootori-fire-release-rising-phoenix-blast .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 The user gathers chakra around them--the 'rising phoenix' actually refers to the visible heat ripples and wisps of flame rising around the ninja performing it-- and unleashes a stream of dark, searingly hot fire at their opponents. The flames of this technique are hot enough to disintegrate most incoming attacks.
 
@@ -436,10 +436,10 @@ Against a ranged ninjutsu attack: Compare the damage of the two techniques; if t
 
 Against Fuuton jutsu you may interrupt AoE jutsu. Rising Phoenix Blast's damage is increased by 25% for elements weak to it and reduced by 25% against elements strong against it.
 
-#### Katon: Karyuu Endan - Fire Release: Serpent Flame Bullet
+#### ( <span lang="ja">火遁・火龍炎弾</span> ) Katon: Karyuu Endan - Fire Release: Serpent Flame Bullet
 {:#katon-karyuu-endan-fire-release-serpent-flame-bullet .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 The shinobi gathers chakra in their mouth, before converting it to fire and shooting it out. The flame shoots out in three sections, each one taking on the appearance of a serpent which explodes on impact with its own target.
 
@@ -452,10 +452,10 @@ Special: Ignite 7, Burns 5
 Tags: Attack, Projectile, Energy  
 Effects: This technique may target up to three separate people. You may not direct these 'extra' attacks at the same person for added damage.
 
-#### Katon: Ryūen Hōka - Dragon Flame Song
+#### ( <span lang="ja">火遁・龍炎放歌</span> ) Katon: Ryūen Hōka - Dragon Flame Song
 {:#katon-ryuen-hoka-dragon-flame-song .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Katon</span></span>
 
 Several compressed dragon-shaped flames arrive from staggered angles.
 
@@ -478,10 +478,10 @@ Damage from the flames is combined only for Wounding after all hits resolve.
 ## A-Rank
 {:#a-rank-7 .jutsu-rank-heading}
 
-#### Katon: Karyuudan - Fire Release: Fire Dragon Bullet
+#### ( <span lang="ja">火遁・火龍弾</span> ) Katon: Karyuudan - Fire Release: Fire Dragon Bullet
 {:#katon-karyuudan-fire-release-fire-dragon-bullet .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Energy</span></span>
 
 Generally considered to be the pinnacle of how destructive a technique can be without rendering it useless in a majority of situations, the user forms a mass of fire in the vague shape of a dragon's head in front of them, and then fires a volley of blazing projectiles at their unfortunate target of choice.
 
@@ -494,10 +494,10 @@ Seal Speed: 30
 Tags: Attack, Projectile, Energy  
 Effects: This technique inflicts Burns of (damage dealt)/50. You may target up to three people with this technique, using the same Accuracy for each. You can not target the same person repeatedly to enhance the technique's effect.
 
-#### Katon: Ryuujin Bakuha - Fire Release: Dragon King Blast
+#### ( <span lang="ja">火遁・龍神爆破</span> ) Katon: Ryuujin Bakuha - Fire Release: Dragon King Blast
 {:#katon-ryuujin-bakuha-fire-release-dragon-king-blast .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span></span>
 
 The pinnacle of wide-area indiscriminate destruction. The user exhales a cloud of not-quite-invisible vapor with a metallic taste, which rapidly expands. Once they've finished, they channel just a small bit of chakra into it, turning the gas from inert to violently reactive and engulfing the area in a fireball which has no peer. The user is protected from this explosion; their friends, however, are not.
 
@@ -515,10 +515,10 @@ If an effect is used which would disperse the gas cloud (such as the A-rank Fuut
 
 Ryuujin Bakuha inflicts an Energy wound, and two Blunt wounds of the same severity. If it's used in a confined space (such as indoors, or in a cave) it does an additional 10d20\!\>16 damage, and its effects are raised to Burns 25, Ignite 25, and Stun 20\.
 
-#### Maru o Moyashi no Jutsu - Burning Circle Technique
+#### ( <span lang="ja">丸を燃やしの術</span> ) Maru o Moyashi no Jutsu - Burning Circle Technique
 {:#maru-o-moyashi-no-jutsu-burning-circle-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Environmental</span></span>
 
 Popular among bounty-hunting ninja, this technique creates a circular wall of flame surrounding an area. While it's by no means impregnable, attempting to charge through a virtually solid sheet of chakra-fueled fire tends to have the expected result. It's useful both for ensuring an opponent won't run away (or making them pay for trying to do so), and for keeping an adversary isolated from the battle.
 
@@ -534,10 +534,10 @@ Effects: This creates a circular wall of flame where you may choose to have the 
 
 The wall itself is 1 yard thick, and (ninjutsu damage bonus) \* 3 yards tall. Anyone who crosses the wall takes only the listed damage, as well as an Ignite equal to the user's ninjutsu damage bonus, and a Burn equal to twice the user's ninjutsu damage bonus.
 
-#### Sunde Bakudan - Living Bomb
+#### ( <span lang="ja">寸で爆弾</span> ) Sunde Bakudan - Living Bomb
 {:#sunde-bakudan-living-bomb .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Energy</span></span>
 
 A technique invented in the middle of the Third Shinobi World War--and, as the horrors from that era go, it's only slightly atrocious.  
 The user molds a mass of volatile fire-elemental chakra and, rather than forming it into a jutsu, injects it directly into a foe. The chakra will last a few minutes at most, before surging through their chakra coils violently and turning them into the catalyst for a powerful explosion.  

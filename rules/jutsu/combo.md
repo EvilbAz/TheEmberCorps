@@ -56,20 +56,20 @@ Hitting a clone of your intended target does not break your combo, but it does n
 ## E-Rank
 {:#e-rank-2 .jutsu-rank-heading}
 
-#### Rendan - Combo
+#### ( <span lang="ja">連弾</span> ) Rendan - Combo
 {:#rendan-combo .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Combo</span></span>
 
 A rapid sequence of attacks keeps the opponent under pressure.
 
 Combo Counter: +1dD damage, −1 Speed  
 Tags: Combo
 
-#### Yaburi Yashi - Smashing Palm
+#### ( <span lang="ja">破りヤシ</span> ) Yaburi Yashi - Smashing Palm
 {:#yaburi-yashi-smashing-palm .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Finisher 1</span></span>
 
 You drive an open palm upward into the opponent’s stomach, knocking the air from their lungs.
 
@@ -83,10 +83,10 @@ Effects: This is an automatic called shot to the abdomen. If it’s blocked, the
 ## D-Rank
 {:#d-rank-2 .jutsu-rank-heading}
 
-#### Hebi Rendan - Snake Combo
+#### ( <span lang="ja">蛇連弾</span> ) Hebi Rendan - Snake Combo
 {:#hebi-rendan-snake-combo .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Combo</span></span>
 
 A tricky attack designed to slip around defenses.
 
@@ -95,10 +95,10 @@ Speed: \-2
 Combo Counter: \-1 to parry this jutsu, \+1/2 Stamina  
 Tags: Combo
 
-#### Shoushitsu - Rising Knee
+#### ( <span lang="ja">昇膝</span> ) Shoushitsu - Rising Knee
 {:#shoushitsu-rising-knee .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Finisher 2</span></span>
 
 The user gets in close and slams their knee into the midsection of their opponent. While not complex, the pain experienced is enough to make them double over in pain, leaving them vulnerable for a few seconds.
 
@@ -108,10 +108,10 @@ Speed: 12
 Combo Bonus: \+1dD, \+2 Stun, \+1 Stamina  
 Tags: Finisher 2
 
-#### Asshou - Pressure Palm
+#### ( <span lang="ja">圧掌</span> ) Asshou - Pressure Palm
 {:#asshou-pressure-palm .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Finisher 3</span></span>
 
 A downward palm strike to the stomach or lower back drives the air from the target’s lungs.
 
@@ -123,10 +123,10 @@ Requires: Target to be Prone.
 Combo Bonus: Target makes a Stamina Check of (5 \* Combo Counter)  
 Tags: Finisher 3
 
-#### Gekido Denka - Furious Charge
+#### ( <span lang="ja">激怒電荷</span> ) Gekido Denka - Furious Charge
 {:#gekido-denka-furious-charge .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 You maintain your rhythm while chasing an opponent, keeping the combo alive as they retreat.
 
@@ -139,10 +139,10 @@ Effects: You may use this jutsu in response to entering a combo as a Speed 0 int
 ## C-Rank
 {:#c-rank-2 .jutsu-rank-heading}
 
-#### Shishi Rendan - Lion Combo
+#### ( <span lang="ja">獅子連弾</span> ) Shishi Rendan - Lion Combo
 {:#shishi-rendan-lion-combo .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Combo</span></span>
 
 Ideally meant to be used after performing Kage Buyo, this is a series of high-speed punches and kicks.
 
@@ -152,10 +152,10 @@ Speed: \+2
 Combo Counter: \+1/2 Accuracy (rounded down), \+1/2 Stamina  
 Tags: Combo
 
-#### Reikoku Kagai - Relentless Assault
+#### ( <span lang="ja">冷酷加害</span> ) Reikoku Kagai - Relentless Assault
 {:#reikoku-kagai-relentless-assault .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Combo</span></span>
 
 You close in and hammer the target with repeated strikes, wearing down their guard.
 
@@ -166,10 +166,10 @@ Speed: \+4
 Combo Counter: Blocking/DR is 5% less effective, \+15 damage  
 Tags: Combo
 
-#### Shishi Danmaku - Lion Barrage
+#### ( <span lang="ja">獅子弾幕</span> ) Shishi Danmaku - Lion Barrage
 {:#shishi-danmaku-lion-barrage .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Finisher 3</span></span>
 
 A popular way to end the similarly-named combo-assault, the Lion Barrage was often taught to students along with Lion Combo itself. Advanced taijutsu users, however, have been known to appreciate the flexibility and fluidity that comes from separating the techniques. The Lion Barrage is simply a series of fast, strong fist and knee strikes.
 
@@ -180,10 +180,10 @@ Accuracy: \+4
 Combo Bonus: \+2dD  
 Tags: Finisher 3
 
-#### Bunka-ken - Splintering Fist
+#### ( <span lang="ja">分化拳</span> ) Bunka-ken - Splintering Fist
 {:#bunka-ken-splintering-fist .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Finisher 5</span> <span class="jutsu-keyword">Link</span></span>
 
 A powerful blow that smashes through defenses. Your attack carries an almost concussive force behind it, enough to overcome all but the most resilient of enemies.
 
@@ -193,10 +193,10 @@ Combo Bonus: Ignore 10% of DR, Enemy gains \-2 DR for the rest of the fight
 Tags: Finisher 5, Link  
 Effects: This is added on to a Basic Unarmed Attack. Your base unarmed dice are treated as rolling their maximum on each dice.
 
-#### Hangeki Rendan - Counter Combo
+#### ( <span lang="ja">反撃連弾</span> ) Hangeki Rendan - Counter Combo
 {:#hangeki-rendan-counter-combo .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 You catch a break in your opponent’s rhythm and turn their combo against them.
 
@@ -209,10 +209,10 @@ Effects: You and your opponent both make Parry rolls. If your result is higher, 
 ## B-Rank
 {:#b-rank-2 .jutsu-rank-heading}
 
-#### Hasu Rendan - Lotus Combo
+#### ( <span lang="ja">蓮連弾</span> ) Hasu Rendan - Lotus Combo
 {:#hasu-rendan-lotus-combo .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Combo</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 Wind your opponent with one strike and catch them with the next before they can get their bearings.
 
@@ -221,10 +221,10 @@ Combo Bonus: \+1dD damage, \+1 Stamina, \+1 Speed
 Tags: Combo, Interrupt  
 Effects: This may be used as an interrupt after missing a combo jutsu. This jutsu becomes an attack gaining that attack’s Combo Bonus (On a hit it only increases your CC by a max of 1).
 
-#### Hokuto no Ken - Fist of the North Star
+#### ( <span lang="ja">北斗の拳</span> ) Hokuto no Ken - Fist of the North Star
 {:#hokuto-no-ken-fist-of-the-north-star .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Finisher 3</span></span>
 
 Delivering a precise, rapid, and powerful series of blows to vital points on an opponent’s body, this causes their blood vessels to spontaneously rupture, resulting in both internal hemorrhaging and dramatic external bleeding, sometimes even resulting in a brief spray of blood immediately after its use.
 
@@ -236,10 +236,10 @@ Combo Bonus: \+1dD, \+3 Bleed
 Tags: Finisher 3  
 Effects: Even if Hokuto no Ken is parried or blocked, it still inflicts its full Bleed.
 
-#### Shougekishou - Upwards Attacking Palm
+#### ( <span lang="ja">衝撃掌</span> ) Shougekishou - Upwards Attacking Palm
 {:#shougekishou-upwards-attacking-palm .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Finisher 2</span></span>
 
 A difficult attack to connect with, the shinobi brings their palm from waist height and strikes upwards to full extension. This makes it exceptionally difficult to connect with, though if the user does hit they'll send their opponent flying away.
 
@@ -253,10 +253,10 @@ Effects: If you are in a clinch, the Accuracy penalty is negated. The clinch is 
 
 If no enemy has acted since you executed this Finisher you may use any Finisher of Rank C against the target. This Finisher is treated as if you had 1 less CC as before using Upwards Attacking Palm.
 
-#### Aragami no Jutsu - God of Battle Technique
+#### ( <span lang="ja">荒神の術</span> ) Aragami no Jutsu - God of Battle Technique
 {:#aragami-no-jutsu-god-of-battle-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Aura</span></span>
 
 Repeated strikes force openings in the opponent’s guard, building momentum with each hit.
 
@@ -266,10 +266,10 @@ Speed: 6
 Tags: Utility, Aura  
 Effects: After your first attack in a combo you increase your CC by \+1 every time you hit with a Combo jutsu, to a maximum of 6\. This does not stack with the bonus from Combo Master.
 
-#### Mouretsu Tora no Jutsu - Furious Tiger Technique
+#### ( <span lang="ja">猛烈虎の術</span> ) Mouretsu Tora no Jutsu - Furious Tiger Technique
 {:#mouretsu-tora-no-jutsu-furious-tiger-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Finisher 0</span> <span class="jutsu-keyword">Link</span></span>
 
 You break off your combo with an abrupt transition back into more traditional taijutsu techniques, taking advantage of the momentum and rhythm you’ve built up to deliver one devastating blow.
 
@@ -281,20 +281,20 @@ Effects: This is added on to any Unarmed Taijutsu granting it this jutsu’s Com
 ## A-Rank
 {:#a-rank-2 .jutsu-rank-heading}
 
-#### Nanto Rendan - South Star Combo
+#### ( <span lang="ja">南斗連弾</span> ) Nanto Rendan - South Star Combo
 {:#nanto-rendan-south-star-combo .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Combo</span></span>
 
 A high-level combo rhythm built around sharp, repeated impacts to nerves and joints. Each connected strike makes the next interruption harder to time, gradually turning the target's own loss of coordination into the sequence's momentum.
 
 Tags: Combo  
 Effects: Paralysis gained from this Combo Counter is treated as a single source and cannot exceed Paralysis 6\. When the Combo ends, any remaining Paralysis from South Star Combo begins reducing by 1 every 10 IC as normal.
 
-#### Akuma no Isoi - Devil’s Rush
+#### ( <span lang="ja">悪魔の急ぎ</span> ) Akuma no Isoi - Devil’s Rush
 {:#akuma-no-isoi-devil-s-rush .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Finisher 1</span> <span class="jutsu-keyword">Link</span></span>
 
 You force chakra through your arms or legs until they overheat, delivering burning strikes at the cost of scorching your own body.
 
@@ -305,10 +305,10 @@ Combo Counter: \+2d6\!\>o damage, \+2 Ignite
 Tags: Finisher 1, Link  
 Effects: This is added on to a Basic Attack. If you hit, your target rolls Resistance against your Athletics. On a success, the severity of the Ignite is halved. You suffer Burns with a severity equal to the Ignite you inflict.
 
-#### Taiyou Douyou no Jutsu - Solar Agitation Technique
+#### ( <span lang="ja">太陽動揺の術</span> ) Taiyou Douyou no Jutsu - Solar Agitation Technique
 {:#taiyou-douyou-no-jutsu-solar-agitation-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Finisher 5</span></span>
 
 A heavy strike to the solar plexus knocks the breath from the target and disrupts their concentration.
 
@@ -320,10 +320,10 @@ Combo Bonus: \+3 Stun, \+1 to target’s Chakra penalty, \+1d20 damage, \+2 Stam
 Tags: Finisher 5  
 Effects: This has an additional feature if used against an opponent who was performing handseals. If the total Stun from Solar Agitation is greater than the Speed of their Perform Handseals action, the victim automatically Aborts their Perform Handseals action (as if they had failed the Chakra Control roll against the attack’s damage dealt), and must make a Chakra Exhaustion roll against the technique aborted.
 
-#### Senkagami no Jutsu - God of War Technique
+#### ( <span lang="ja">戦神の術</span> ) Senkagami no Jutsu - God of War Technique
 {:#senkagami-no-jutsu-god-of-war-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 You recover from a missed finishing blow without losing the rhythm of your assault.
 

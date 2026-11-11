@@ -24,10 +24,10 @@ Oh and if there’s no air or any gasses around (Even water has air in it), then
 ## E-Rank
 {:#e-rank-6 .jutsu-rank-heading}
 
-#### Fuusajin no Jutsu - Dust Wind Technique
+#### ( <span lang="ja">風砂塵の術</span> ) Fuusajin no Jutsu - Dust Wind Technique
 {:#fuusajin-no-jutsu-dust-wind-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Fan</span></span>
 
 You use a burst of wind to blow dust, dirt, or other loose particles up into the air, producing an irritating cloud that briefly obscures the visions of people caught inside of it.
 
@@ -39,10 +39,10 @@ Seal Speed: 8
 Tags: Attack, AoE, Fan  
 Effects: Anyone hit suffers \-4 visibility for the next 10 IC.
 
-#### Soujikaze no Jutsu - Cleansing Wind Technique
+#### ( <span lang="ja">掃除風の術</span> ) Soujikaze no Jutsu - Cleansing Wind Technique
 {:#soujikaze-no-jutsu-cleansing-wind-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Fan</span></span>
 
 The basic "manipulate the surrounding air to do what you want" technique, leading into many more powerful jutsu that operate on the same premise. It's still useful, for a sufficiently resourceful ninja.
 
@@ -57,10 +57,10 @@ Effects: This reduces any existing visibility penalties resulting from smoke, mi
 ## D-Rank
 {:#d-rank-6 .jutsu-rank-heading}
 
-#### Fuuton: Fuuma Shuriken no Jutsu - Wind Shuriken
+#### ( <span lang="ja">風遁・風魔手裏剣の術</span> ) Fuuton: Fuuma Shuriken no Jutsu - Wind Shuriken
 {:#fuuton-fuuma-shuriken-no-jutsu-wind-shuriken .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Creation</span></span>
 
 You gather the wind in your hands into the shape of a ranged weapon, plating it with your chakra to be hard as iron and sharp as steel. Scholars still argue to this day whether the popular ranged taijutsu weapon was named after this technique, or this technique was named after the popular ranged taijutsu weapon.
 
@@ -71,10 +71,10 @@ Seal Speed: 10
 Tags: Utility, Self, Creation  
 Effects: You create X Kunai or Shuriken up to your Multithrow Limit. Alternatively you may make any other ranged weapon in which case X becomes 12 for Exotic weapons or 8 for any other. These items increase their range by 10 and have \+20% wounding. After throwing these weapons you may immediately recast this jutsu at no IC cost.
 
-#### Fuuton: Hineri Dangan - Wind Release: Twister Shot
+#### ( <span lang="ja">風遁・捻り弾丸</span> ) Fuuton: Hineri Dangan - Wind Release: Twister Shot
 {:#fuuton-hineri-dangan-wind-release-twister-shot .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Slashing</span> <span class="jutsu-keyword">Fan</span></span>
 
 Holding their hand half-grasped, the user blows a constant stream of wind into their hand which begins to spiral around in a ball or small tornado shape. The tornado is then sent out toward the target as the hand is opened.
 
@@ -85,10 +85,10 @@ Speed: 8
 Seal Speed: 13  
 Tags: Attack, Projectile, Slashing, Fan
 
-#### Fuuton: Kazekiri - Wind Release: Wind Cutter
+#### ( <span lang="ja">風遁・風切り</span> ) Fuuton: Kazekiri - Wind Release: Wind Cutter
 {:#fuuton-kazekiri-wind-release-wind-cutter .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Slashing</span> <span class="jutsu-keyword">Fan</span></span>
 
 The user generates a narrow arc of wind and chakra, which is sent out to cut things like ropes, lines, and people.
 
@@ -100,10 +100,10 @@ Seal Speed: 12
 Tags: Attack, Projectile, Slashing, Fan  
 Effects: This technique has a \+15% wounding.
 
-#### Fuuton Nagare - Wind Release Stream
+#### ( <span lang="ja">風遁流れ</span> ) Fuuton Nagare - Wind Release Stream
 {:#fuuton-nagare-wind-release-stream .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 By blowing air from your mouth, you can change direction in mid-air. This allows you to control where you land when falling (avoiding the sharp rocks when you jump off a waterfall, that kind of thing) and may be useful for avoiding mid-air hazards.
 
@@ -113,10 +113,10 @@ Seal Speed: 6
 Tags: Utility, Interrupt  
 Effects: While airborne, steer toward a landing point you can reach. As an Interrupt while falling, cancel the damage from landing.
 
-#### Fuuton: Shikisetsufuu Shou - Wind Release: Four Seasonal Winds Palm
+#### ( <span lang="ja">風遁・四季節風掌</span> ) Fuuton: Shikisetsufuu Shou - Wind Release: Four Seasonal Winds Palm
 {:#fuuton-shikisetsufuu-shou-wind-release-four-seasonal-winds-palm .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 In a fashion similar to how ninja knead chakra into their palms and feet to stick to walls and ceilings, you gather wind elemental chakra, but project and hold it just beyond your body to supplement your unarmed strikes.
 
@@ -128,10 +128,10 @@ Requires: Chakra Control 7
 Tags: Utility  
 Effects: Once per non-grapple unarmed attack, on a full hit you may give one target Knockback 2. If it moves, you may follow up to 2 yards along a legal path, stopping within melee range. This uses your normal movement restrictions and cannot trigger another attack. Multiple hits in one action grant one push and one follow.
 
-#### Fuuton: Taikyaku Haretsu - Wind Release: Bursting Retreat
+#### ( <span lang="ja">風遁・退却破裂</span> ) Fuuton: Taikyaku Haretsu - Wind Release: Bursting Retreat
 {:#fuuton-taikyaku-haretsu-wind-release-bursting-retreat .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Link</span></span>
 
 You take in a deep breath, then exhale a mixture of air and chakra with enough speed and force to augment a backwards leap, allowing you to hastily escape... well, whatever manner of unpleasantness you felt the need to get away from.
 
@@ -141,10 +141,10 @@ Seal Speed: 8 \+ X
 Tags: Link  
 Effects: This technique is used alongside a Dodge interrupt and increases the yards you can move (for determining AoE penalties) by X.
 
-#### Hagitoru Aori no Jutsu - Tearing Gust Technique
+#### ( <span lang="ja">剥ぎ取る煽りの術</span> ) Hagitoru Aori no Jutsu - Tearing Gust Technique
 {:#hagitoru-aori-no-jutsu-tearing-gust-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Fan</span></span>
 
 Generally performed with a fan as a matter of practicality, this technique unleashes a burst of wind that will not only deflect projectiles, but also strip them of any chakra they may be infused with.
 
@@ -154,10 +154,10 @@ Seal Speed: 12
 Tags: Interrupt, Fan  
 Effects: Parry a ranged Taijutsu attack with Ninjutsu Accuracy. On a full success, stop it. On a partial parry, you may strip one linked non-Katon Ninjutsu from the attack before calculating its remaining damage and effects. A failed parry strips nothing. Use the normal AoE parry rules.
 
-#### Kaze no Senpūki - Fan of Wind
+#### ( <span lang="ja">風の扇風機</span> ) Kaze no Senpūki - Fan of Wind
 {:#kaze-no-senpuki-fan-of-wind .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Creation</span></span>
 
 You form your wind condensing it around your hand. Not exactly a fan but this serves a similar function to one being able to reduce fuuton seal speeds and act as a fan for all intents and purposes.
 
@@ -175,10 +175,10 @@ The weapon has a third of its normal Durability
 
 (1) Your weapon gains a 5% wounding bonus. Max 5\.
 
-#### Rakuyou Buyou - Falling Leaves Dance
+#### ( <span lang="ja">落葉舞踊</span> ) Rakuyou Buyou - Falling Leaves Dance
 {:#rakuyou-buyou-falling-leaves-dance .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 Using the wind, you kick up any light debris in the area (leaves in a forest, sand in a desert, conveniently ubiquitous scraps of paper in a town) to swirl around you just long enough for you to make a sneaky, ninja-fast getaway.
 
@@ -191,10 +191,10 @@ Effects: You Hide, with a \+5 bonus.
 ## C-Rank
 {:#c-rank-6 .jutsu-rank-heading}
 
-#### Fuuton: Daitoppa - Wind Release: Great Breakthrough
+#### ( <span lang="ja">風遁・大突破</span> ) Fuuton: Daitoppa - Wind Release: Great Breakthrough
 {:#fuuton-daitoppa-wind-release-great-breakthrough .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Blunt</span></span>
 
 A relatively simple technique which creates a sudden gust of wind. Its actual force varies wildly based upon the strength of the user. A superior shinobi will produce alarmingly destructive results, while a weaker one would be better off finding other methods to attack.
 
@@ -208,10 +208,10 @@ Special: This technique benefits from double the user's ninjutsu damage bonus
 Tags: Attack, Projectile, Blunt  
 Effects: This applies Knockback to all victims equal to your NDB.
 
-#### Fuuton: Jūha Shō - Beast Wave Palm
+#### ( <span lang="ja">風遁・獣波掌</span> ) Fuuton: Jūha Shō - Beast Wave Palm
 {:#fuuton-juha-sho-beast-wave-palm .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Fuuton</span></span>
 
 A sweeping hand releases a crescent of wind broad enough to punish clustered movement.
 
@@ -229,10 +229,10 @@ If at least two targets are fully hit, increase Knockback to 6 for all fully hit
 
 This does not increase damage for hitting multiple creatures.
 
-#### Fuuton: Reppūshō - Wind Release: Gale Palm
+#### ( <span lang="ja">風遁・烈風掌</span> ) Fuuton: Reppūshō - Wind Release: Gale Palm
 {:#fuuton-reppusho-wind-release-gale-palm .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Blunt</span></span>
 
 The user claps their hands and releases a compact gale. Used alone it bowls enemies off balance; used behind a thrown weapon, the same burst turns an ordinary projectile into a much faster and harder-to-read shot.
 
@@ -249,10 +249,10 @@ Instead of making the listed Attack, you may link Gale Palm to one thrown-weapon
 
 When used as a link, Gale Palm deals no separate damage and cannot be combined with another Jutsu that already modifies the projectile's flight.
 
-#### Fuuton: Shinkūjin - Vacuum Blade
+#### ( <span lang="ja">風遁・真空刃</span> ) Fuuton: Shinkūjin - Vacuum Blade
 {:#fuuton-shinkujin-vacuum-blade .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Weapon</span> <span class="jutsu-keyword">Fuuton</span></span>
 
 Wind condenses along a weapon until the edge extends beyond the metal.
 
@@ -267,10 +267,10 @@ Choose one held Melee Weapon. Its attacks gain 2 yards of Range and deal Slashin
 
 Its attacks ignore 10% Armor effectiveness. This does not stack with another chakra-flow weapon coating.
 
-#### Fuuton: Shinkuuha - Wind Release: Vacuum Wave
+#### ( <span lang="ja">風遁・真空波</span> ) Fuuton: Shinkuuha - Wind Release: Vacuum Wave
 {:#fuuton-shinkuuha-wind-release-vacuum-wave .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Slashing</span></span>
 
 The user takes in a deep breath an spins while exhaling, forming several rotating blades of wind that cover a substantial area around them, slicing through multiple foes at once while leaving allies unharmed
 
@@ -282,10 +282,10 @@ Seal Speed: 20
 Tags: Attack, AoE, Slashing  
 Effects: This technique may differentiate between enemies and allies within its area of effect.
 
-#### Kamaitachi no Jutsu - Sickle Wind Technique
+#### ( <span lang="ja">鎌鼬の術</span> ) Kamaitachi no Jutsu - Sickle Wind Technique
 {:#kamaitachi-no-jutsu-sickle-wind-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Slashing</span> <span class="jutsu-keyword">Fan</span></span>
 
 This technique allows you to create and manipulate many small air currents and vacuum pockets in the form of a whirling gale, which is directed at an opponent before it dissipates. This produces injuries that resemble what one would expect to see from dozens of blades.
 
@@ -297,10 +297,10 @@ Seal Speed: 15
 Tags: Attack, Projectile, Slashing, Fan  
 Effects: This technique has \+30% wounding.
 
-#### Kazekame Kaigara no Jutsu - Wind Turtle's Shell Technique
+#### ( <span lang="ja">風亀貝殻の術</span> ) Kazekame Kaigara no Jutsu - Wind Turtle's Shell Technique
 {:#kazekame-kaigara-no-jutsu-wind-turtle-s-shell-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 The technique creates a rotating dome of wind around the user, chakra-infused air moving quickly enough to blur the image of the person inside, and deflect many incoming attacks. However, the technique is a far cry from being a true absolute defense.
 
@@ -312,10 +312,10 @@ Effects: Choose yourself or one ally within 5 yards as the protected target. Thi
 
 This works against elements that are weak to it up to A rank with a \+4 bonus, elements that are strong to it up to C-rank with no bonus, and all other Jutsu up to B-rank with a \+2 bonus.
 
-#### Tobu Choyaku no Jutsu - Vaulting Leap Technique
+#### ( <span lang="ja">飛ぶ跳躍の術</span> ) Tobu Choyaku no Jutsu - Vaulting Leap Technique
 {:#tobu-choyaku-no-jutsu-vaulting-leap-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 After performing the seals for this jutsu you amass chakra in your feet, then expel it to generate a powerful burst of wind while kicking off the ground with a power leap. To the inexperienced, the results look almost like flight.
 
@@ -332,10 +332,10 @@ If you are suffering from an Immobilization penalty, the distance you're able to
 ## B-Rank
 {:#b-rank-6 .jutsu-rank-heading}
 
-#### Daikamaitachi no Jutsu - Great Sickle Wind Technique
+#### ( <span lang="ja">大鎌鼬の術</span> ) Daikamaitachi no Jutsu - Great Sickle Wind Technique
 {:#daikamaitachi-no-jutsu-great-sickle-wind-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Slashing</span> <span class="jutsu-keyword">Fan</span></span>
 
 The user of this technique releases a powerful burst of wind, chakra concentrating the air into several layered air streams. This creates pockets of both vacuums and high-speed air which have enough focused force behind them to cut down trees.
 
@@ -349,10 +349,10 @@ Effects: This can be used as an attack or a defensive against a ranged taijutsu 
 
 As an Interrupt its Base Speed is reduced to 12\. You parry the incoming attack with a \+2 bonus. If you successfully defend, Great Sickle Wind Technique immediately acts as an attack at no extra cost, using the results of your parry roll as its Accuracy and its speed for both damage and legal defenses from the opponent is equal to what it was when used as a defense.
 
-#### Fuuton: Ama no Yachimata - Wind Release: Crossroads of Heaven
+#### ( <span lang="ja">風遁・天の八衢</span> ) Fuuton: Ama no Yachimata - Wind Release: Crossroads of Heaven
 {:#fuuton-ama-no-yachimata-wind-release-crossroads-of-heaven .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Aura</span></span>
 
 One of the more reliable defensive measures Fuuton users are capable of deploying, this creates a sphere of whipping winds around them. Aside from dramatically tossing their hair, causing loose clothes to flap about, and knocking up loose terrain, this makes a sufficiently skilled user virtually impervious to most long-range assaults.
 
@@ -363,10 +363,10 @@ Seal Speed: 25
 Tags: Utility, Self, Aura  
 Effects: The jutsu automatically parries any attack with the projectile tag, with a \+5 bonus against elements weak to this and ranged taijutsu. This technique uses your base Ninjutsu Parry for a B-rank Fuuton, unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply. Because it is considered to be the technique parrying incoming attacks, and not you, you cannot modify its accuracy further (such as with Willpower or AP). You also gain a \+3 to Grapple Defense.
 
-#### Fuuton: Atsugai - Pressure Damage
+#### ( <span lang="ja">風遁・圧害</span> ) Fuuton: Atsugai - Pressure Damage
 {:#fuuton-atsugai-pressure-damage .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Fuuton</span></span>
 
 Compressed wind detonates outward like an invisible shell.
 
@@ -384,10 +384,10 @@ The Knockback originates from the Area's centre.
 
 Against loose smoke, mist, gas, or airborne particulate terrain, this technique disperses an amount of Area equal to its own Area after resolving damage.
 
-#### Fuuton: Fūatsu Ami - Pressure Net
+#### ( <span lang="ja">風遁・風圧網</span> ) Fuuton: Fūatsu Ami - Pressure Net
 {:#fuuton-fuatsu-ami-pressure-net .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Fuuton</span></span>
 
 Intersecting pressure lines make rapid movement through a chosen zone dangerous.
 
@@ -404,10 +404,10 @@ For 30 IC, creatures inside that use movement other than the Move Action at half
 
 This environmental damage cannot Wound and ends if the Area is completely enclosed from airflow by a Barrier.
 
-#### Fuuton: Fuujin Kokyuu - Wind Release: Wind God's Breath
+#### ( <span lang="ja">風遁・風神呼吸</span> ) Fuuton: Fuujin Kokyuu - Wind Release: Wind God's Breath
 {:#fuuton-fuujin-kokyuu-wind-release-wind-god-s-breath .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Fan</span></span>
 
 You unleash a wave of chakra converted into gale-force winds, knocking away everyone and everything around you. So long as the winds remain, approaching you is exceedingly difficult. At the same time, those winds will whip any nearby fires into a raging fury.
 
@@ -419,10 +419,10 @@ Seal Speed: 22
 Tags: Utility, AoE, Environmental, Fan  
 Effects: Every IC, everyone in the technique's radius is pushed 0.5+CHA/80 yards away from you, towards its edge. All elements weak to this and ranged taijutsu attacks within this area have their damage reduced by 25%. However, all Fuuton has \+3 Accuracy, and all elements strong against this deals \+15% damage. These effects apply to any jutsu originating inside, passing through or targeting someone within the area.
 
-#### Fuuton: Higashikaze no Me - Wind Release: Eye of the East Wind
+#### ( <span lang="ja">風遁・東風の目</span> ) Fuuton: Higashikaze no Me - Wind Release: Eye of the East Wind
 {:#fuuton-higashikaze-no-me-wind-release-eye-of-the-east-wind .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 An advanced surveillance technique that, ultimately, falls far short of the efficacy its designers had hoped for. Once activated, it allows the users to view air currents, and, for lack of a better term, 'highlights' inconsistent ones--it's something like visual sonar.  
 The idea behind the technique was that this would let its user pinpoint enemies by being able to find their breathing.  
@@ -435,10 +435,10 @@ Seal Speed: 22
 Tags: Utility  
 Effects: You increase your awareness rolls by your (Chakra Control / 5). Additionally, when targeted by a Surprise or Sneak Attack, you may make an Awareness roll against a Stealth roll from your opponent; if your result is higher, their attack is not considered a Surprise Attack or Sneak Attack.
 
-#### Fuuton: Shinkuu Renpa - Wind Release: Vacuum Serial Waves
+#### ( <span lang="ja">風遁・真空連波</span> ) Fuuton: Shinkuu Renpa - Wind Release: Vacuum Serial Waves
 {:#fuuton-shinkuu-renpa-wind-release-vacuum-serial-waves .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Slashing</span></span>
 
 This technique's user takes a deep breath in, and then exhales several blades of high-speed, chakra-infused wind at varying angles. This technique's power can vary greatly depending on the amount of chakra put into the formation of those wind blades, the number created, and how the user chooses to focus them.
 
@@ -452,10 +452,10 @@ Effects: You may target up to X (max of 5\) people with Shinkuu Renpa as a singl
 
 Against ninjutsu-based defenses, Shinkuu Renpa is considered one rank higher, or to deal twice as much damage, as applicable. (For example, a 200 damage Shinkuu Renpa against a 100 damage wall would destroy the wall and still deal 150 damage to whatever was behind it).
 
-#### Fuuton: Shinkuugyoku - Wind Release: Vacuum Sphere
+#### ( <span lang="ja">風遁・真空玉</span> ) Fuuton: Shinkuugyoku - Wind Release: Vacuum Sphere
 {:#fuuton-shinkuugyoku-wind-release-vacuum-sphere .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Piercing</span></span>
 
 The user exhales their breath as several small blasts of wind chakra, each not much larger than a marble but traveling at extreme speeds and possessing incredible penetrating power. Their small size can make them difficult to land a strong blow with, which is compensated for by dispersing them over a significant range.
 
@@ -471,10 +471,10 @@ Effects: On a full hit, push the target up to 5 yards directly away from you. Ch
 ## A-Rank
 {:#a-rank-6 .jutsu-rank-heading}
 
-#### Fuuton: Kitakaze - Wind Release: The North Wind
+#### ( <span lang="ja">風遁・北風</span> ) Fuuton: Kitakaze - Wind Release: The North Wind
 {:#fuuton-kitakaze-wind-release-the-north-wind .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span></span>
 
 The north wind cleanses the world of its impurities and soothes the raging elements. Once its handseals are completed, a calm but strong wind blows in from the north. This technique is limited that it can only be used outside.
 
@@ -484,10 +484,10 @@ Seal Speed: 30
 Tags: Utility, AoE  
 Effects: All environmental effects caused by ninjutsu (such as Yomi Numa, or Four Pillar Bind) end immediately, and no such techniques may be activated for double the user's ninjutsu damage bonus worth of IC; however, this cannot end or disperse B- or A-rank Katon techniques. Any Ignite status effects have their severity halved (round down), and any Immobilization with set durations (meaning, ones that fade by a certain amount every so-many IC) are removed, as is any Paralysis that was originally caused by a Raiton technique.
 
-#### Renkuudan - Compressed Air Blast
+#### ( <span lang="ja">練空弾</span> ) Renkuudan - Compressed Air Blast
 {:#renkuudan-compressed-air-blast .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Blunt</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Fūton</span> <span class="jutsu-keyword">Charge</span></span>
 
 A Sand technique said to come from a monster that terrorized the country more than 150 years ago. You draw a deep breath, compress the air in your lungs with chakra, and spit it out in a single blast.
 
@@ -504,10 +504,10 @@ At X ≥ 10, a full hit inflicts Knockback equal to X, up to Knockback 30. At X 
 
 Reduce any Wound caused by Renkuudan by one category. A Major Wound becomes Minor, and a Minor Wound deals no Wound.
 
-#### Fuuton: Shinkuu Taigyoku - Wind Release: Vacuum Great Sphere
+#### ( <span lang="ja">風遁・真空大玉</span> ) Fuuton: Shinkuu Taigyoku - Wind Release: Vacuum Great Sphere
 {:#fuuton-shinkuu-taigyoku-wind-release-vacuum-great-sphere .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span> <span class="jutsu-keyword">Fan</span></span>
 
 If the Vacuum Sphere technique can be considered a spray of wind-chakra bullets (not that ninja actually know what such things are\!), then the Great Vacuum Sphere is a gigantic wind-chakra cannon ball.  
 In terms that ninja actually do understand, this creates a large sphere-shaped vacuum, which is then launched forwards. Anyone who comes in contact with the vacuum is sucked inside, and then either slammed against either the first solid object it encounters or just hit by what amounts to a wall of high-velocity air from every direction as the chakra in the technique dissipates and the technique collapses on them.
@@ -522,10 +522,10 @@ Special: Knockback (see below)
 Tags: Attack, AoE, Blunt, Fan  
 Effects: On a full hit, push the target to the far end of the line. Obstacles stop this movement normally.
 
-#### Kaze no Yaiba - Blade of Wind
+#### ( <span lang="ja">風の刃</span> ) Kaze no Yaiba - Blade of Wind
 {:#kaze-no-yaiba-blade-of-wind .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Slashing</span></span>
 
 A concentrated blade of wind cuts at close range. The demanding technique has seen limited use among Sunagakure’s ANBU.
 
@@ -541,10 +541,10 @@ Special: This technique receives only half your damage bonus
 Tags: Attack, Melee, Slashing  
 Effects: If the attack hits, you may use it consecutively. Each consecutive attack skips the handseals, costs 30 Chakra hit or miss, and increases the Upkeep by 3. When you release the Upkeep, the blade dissipates.
 
-#### Okamaitachi no Jutsu - Scything Wind Technique
+#### ( <span lang="ja">大鎌鼬の術</span> ) Okamaitachi no Jutsu - Scything Wind Technique
 {:#okamaitachi-no-jutsu-scything-wind-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Slashing</span> <span class="jutsu-keyword">Fan</span></span>
 
 Almost always used with a fan, this technique creates a vast number of heavy air currents and vacuum pockets, varying greatly in speed, width, and angle, with their integrity maintained by chakra. Where they intersect, the crossing currents tear apart anything unfortunate enough to be in their way.
 
@@ -558,10 +558,10 @@ Seal Speed: 28
 Tags: Attack, Projectile, Slashing, Fan  
 Effects: Choose up to three targets within Range. Resolve each as a Projectile attack using the same Accuracy and damage rolls. On a full hit, you may push that target up to 5 yards directly away from you.
 
-#### Fuuton: Rasenshuriken - Wind Release: Rasenshuriken
+#### ( <span lang="ja">風遁・螺旋手裏剣</span> ) Fuuton: Rasenshuriken - Wind Release: Rasenshuriken
 {:#fuuton-rasenshuriken-wind-release-rasenshuriken .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Slashing</span> <span class="jutsu-keyword">Fuuton</span></span>
 
 A completed wind-nature evolution of the Rasengan. The spinning core bursts into countless microscopic blades of wind that tear through both flesh and the target's chakra network.
 

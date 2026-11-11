@@ -18,10 +18,10 @@ permalink: "/rules/jutsu/bow/"
 ## E-Rank
 {:#e-rank-16 .jutsu-rank-heading}
 
-#### Shirushi no Ya - Marking Shot
+#### ( <span lang="ja">印の矢</span> ) Shirushi no Ya - Marking Shot
 {:#marking-shot .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Attack</span></span>
 
 The first arrow is used to establish a sightline rather than chase immediate damage.
 
@@ -33,10 +33,10 @@ Accuracy: \+1
 Tags: Chain 1, Bow, Attack  
 Effects: Bow only. On a full hit, Mark the target until your Chain against it ends. Your next Bow Chain 2 against it gains +Athletics/5 Accuracy, increased by 1 if it voluntarily moved after being Marked. That Attack consumes the Mark. A new Mark replaces your previous one.
 
-#### Nuidome no Ya - Pinning Shot
+#### ( <span lang="ja">縫い止めの矢</span> ) Nuidome no Ya - Pinning Shot
 {:#pinning-shot .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Attack</span></span>
 
 The arrow catches clothing or equipment, hampering the target’s movement.
 
@@ -48,10 +48,10 @@ Special: Immobilization 2
 Tags: Chain 1, Bow, Attack  
 Effects: Bow only. Resolve Immobilization with severity equal to the greater of 2 or Athletics/10, maximum 6. It ends when the target removes the arrow with a Speed 3 Utility Action.
 
-#### Shahō - Angle Shot
+#### ( <span lang="ja">射法</span> ) Shahō - Angle Shot
 {:#angle-shot .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Attack</span></span>
 
 You send the arrow toward an exposed angle in the defender’s guard.
 
@@ -62,10 +62,10 @@ Speed: \+2
 Tags: Chain 2, Bow, Attack  
 Effects: If the target uses the same broad Defense it used against your Chain 1, that Defense takes −Athletics/5.
 
-#### Tasha - Multiple Shot
+#### ( <span lang="ja">多射</span> ) Tasha - Multiple Shot
 {:#multiple-shot .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Attack</span></span>
 
 The bow is used as a platform for several distinct releases in one action.
 
@@ -76,10 +76,10 @@ Damage: +max(2, floor(STR/15))dS
 Tags: Chain 3, Bow, Attack  
 Effects: Fire two arrows. Each uses the weapon dice plus this technique’s Damage dice; divide Speed×PDB evenly between them. Declare targets and roll Accuracy separately. Both may target your chained creature, or one may target a held weapon or worn armor piece on it using normal Called Shot penalties, item defenses and structural damage rules. Combine successful hits on the creature for Wounding only; item damage does not also damage its wielder.
 
-#### Hayatsugae - Quick Nock
+#### ( <span lang="ja">早番え</span> ) Hayatsugae - Quick Nock
 {:#quick-nock .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Utility</span></span>
 
 You nock the next arrow in the same motion that lowers the bow, keeping the string, grip, and sightline ready before the target sees a reset.
 
@@ -89,10 +89,10 @@ Speed: 2
 Tags: Chain X, Bow, Utility  
 Effects: Nock an arrow. Your next Bow Chain attack has \-2 Speed, minimum Base Speed 3\.
 
-#### Issei Shageki - Volley
+#### ( <span lang="ja">一斉射撃</span> ) Issei Shageki - Volley
 {:#volley .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Attack</span></span>
 
 A high arc of arrows claims an area instead of one target, filling the space with descending shots and forcing everyone beneath it to find an answer at once.
 
@@ -107,10 +107,10 @@ Effects: Fire a volley; attack all chosen creatures in Area. Each target takes w
 ## D-Rank
 {:#d-rank-16 .jutsu-rank-heading}
 
-#### Futatsuya - Twin Arrow
+#### ( <span lang="ja">二つ矢</span> ) Futatsuya - Twin Arrow
 {:#twin-arrow .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Attack</span></span>
 
 Two arrows share one draw and release timing but remain separate attacks.
 
@@ -121,10 +121,10 @@ Damage: +floor(STR/10)dS
 Tags: Chain 2, Bow, Attack  
 Effects: Fire two arrows at the chained target, each at 60% Final Damage. Roll Accuracy separately; the defender declares one legal defensive method, pays its cost and Speed once, and rolls it separately against each arrow. If either fully hits and you know Marking Shot, establish or refresh your Bow Mark. Resolve Chain progression once; Partial Defense applies to each hit normally.
 
-#### Seimitsu Shageki - Precision Shot
+#### ( <span lang="ja">精密射撃</span> ) Seimitsu Shageki - Precision Shot
 {:#precision-shot .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Attack</span></span>
 
 The final arrow is chosen for penetration and wound placement.
 
@@ -135,10 +135,10 @@ Speed: \+5
 Tags: Chain 3, Bow, Attack  
 Effects: Gain +30% Wounding. Reduce the target armor’s Absorption and flat DR by 50% for this Attack, after its damage-type matchup. If the target has your Bow Mark, consume it when declaring to gain +Athletics/5 Accuracy.
 
-#### Kiriya - Cutting Arrow
+#### ( <span lang="ja">切り矢</span> ) Kiriya - Cutting Arrow
 {:#cutting-arrow .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 An arrow is fired at another projectile rather than the attacker.
 
@@ -148,10 +148,10 @@ Speed: 3
 Tags: Chain X, Bow, Utility, Interrupt  
 Effects: Consume an arrow to Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5.
 
-#### Hiki Shibori - Held Draw
+#### ( <span lang="ja">引き絞り</span> ) Hiki Shibori - Held Draw
 {:#held-draw .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Utility</span></span>
 
 You steady the bow and watch your target. The longer they keep to the same path, the easier the shot.
 
@@ -165,10 +165,10 @@ Effects: While maintained, Bow attacks gain +Athletics/5 Accuracy against target
 ## C-Rank
 {:#c-rank-16 .jutsu-rank-heading}
 
-#### Itotōshi - Threaded Shot
+#### ( <span lang="ja">糸通し</span> ) Itotōshi - Threaded Shot
 {:#threaded-shot .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Attack</span></span>
 
 Line up the shot so the arrow can carry through the first target and hit the one behind them.
 
@@ -180,10 +180,10 @@ Accuracy: \+1
 Tags: Chain 1, Bow, Attack  
 Effects: On a full hit, you may also attack one creature directly behind the target within the bow’s remaining Range for 60% Final Damage, using the same Accuracy result. It defends separately. The secondary hit cannot establish or advance Chain.
 
-#### Ugoki Hiki - Mobile Draw
+#### ( <span lang="ja">動き引き</span> ) Ugoki Hiki - Mobile Draw
 {:#mobile-draw .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Movement</span></span>
 
 The draw is maintained through movement so the user can relocate without throwing away the shot, keeping shoulders, string, and target line stable while the feet change position.
 
@@ -193,10 +193,10 @@ Speed: +0
 Tags: Link, Bow, Attack, Movement  
 Effects: Link to a Bow Attack. Move with that Attack using its full final Speed, in any legal direction. The movement does not remove Held Draw’s benefit for this Attack. If the target Dodges, double its Defense Speed when advancing its next action; Interrupt validity is unchanged. Bow only.
 
-#### Kyōka no Ya - Reinforced Arrow
+#### ( <span lang="ja">強化の矢</span> ) Kyōka no Ya - Reinforced Arrow
 {:#reinforced-arrow .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Utility</span></span>
 
 Chakra is fed into the ammunition as it leaves the bow, hardening the arrow’s flight and edge so it can bite cleanly into both flesh and chakra-made structures.
 
@@ -210,10 +210,10 @@ Effects: Ammunition fired from one bow counts as chakra-enhanced, gains +20% Wou
 ## B-Rank
 {:#b-rank-16 .jutsu-rank-heading}
 
-#### Ikari no Ya - Anchor Shot
+#### ( <span lang="ja">錨の矢</span> ) Ikari no Ya - Anchor Shot
 {:#anchor-shot .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Attack</span></span>
 
 The arrow is driven through gear or flesh and fixed into nearby terrain, turning a hit into a hard limit on where the target can go.
 
@@ -224,10 +224,10 @@ Speed: \+4
 Tags: Chain 2, Bow, Attack  
 Effects: On a full hit, resolve Immobilization with severity equal to the greater of 3 or Athletics/10, maximum 6. If there is solid terrain within the target’s Reach, you may instead anchor it there; it cannot voluntarily move away until it removes the arrow as a Speed 5 Utility Action or destroys the anchor. The ordinary Immobilization ends when the target removes the arrow with that same Action.
 
-#### Shasen - Sightline
+#### ( <span lang="ja">射線</span> ) Shasen - Sightline
 {:#sightline .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Utility</span></span>
 
 You study the wind, the sightline and the target’s movement before drawing.
 
@@ -240,10 +240,10 @@ Effects: Make a Search with +Athletics/5 Awareness. Your next Bow Attack against
 ## A-Rank
 {:#a-rank-16 .jutsu-rank-heading}
 
-#### Tenraku no Ya - Skyfall Shot
+#### ( <span lang="ja">転落の矢</span> ) Tenraku no Ya - Skyfall Shot
 {:#skyfall-shot .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Bow</span> <span class="jutsu-keyword">Attack</span></span>
 
 You send the arrow high above the target, then bring it down in a steep, plunging shot.
 
@@ -254,10 +254,10 @@ Speed: \+6
 Tags: Bukijutsu, Bow, Attack  
 Effects: Choose a clear arcing projectile path within Bow Range and ignore Visibility penalties against a creature you can locate. Gain +25% Final Damage and +30% Wounding. On a full hit, resolve Prone using Athletics against Resistance. This adds no Delay beyond the weapon’s normal Bukijutsu Delay.
 
-#### Kariudo no Mihari - Hunter's Watch
+#### ( <span lang="ja">狩人の見張り</span> ) Kariudo no Mihari - Hunter's Watch
 {:#hunter-s-watch .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu</span></span>
 
 You settle into a firing lane and punish movement through it instead of waiting for a perfect stationary shot.
 

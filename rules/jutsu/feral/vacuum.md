@@ -59,10 +59,10 @@ Dead Air carries no penalty for you: you breathe, hear, speak and fire projectil
 ## C-Rank
 {:#c-rank .jutsu-rank-heading}
 
-#### Shinkūton: Iki Nusumi - Vacuum Release: Breath Thief
+#### ( <span lang="ja">真空遁・息盗み</span> ) Shinkūton: Iki Nusumi - Vacuum Release: Breath Thief
 {:#vacuum-release-breath-thief .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Fūton</span> <span class="jutsu-keyword">Vacuum</span></span>
 
 *The air vanishes from a small section of the battlefield. The atmosphere crashes back in a moment later, dragging everything nearby toward the empty space.*
 
@@ -75,10 +75,10 @@ Breath Thief pulls creatures towards the centre of its Area. A creature already 
 ## B-Rank
 {:#b-rank .jutsu-rank-heading}
 
-#### Shinkūton: Chinmoku no Ma - Vacuum Release: Silent Room
+#### ( <span lang="ja">真空遁・沈黙の間</span> ) Shinkūton: Chinmoku no Ma - Vacuum Release: Silent Room
 {:#vacuum-release-silent-room .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Fūton</span> <span class="jutsu-keyword">Vacuum</span></span>
 
 *The world inside the field goes quiet. Dust hangs strangely, projectiles fight the pressure boundary and every breath becomes deliberate.*
 
@@ -93,10 +93,10 @@ Every 10 IC after activation, increase that Dead Air by 1, to a maximum of 5\. S
 ## A-Rank
 {:#a-rank .jutsu-rank-heading}
 
-#### Shinkūton: Taiki Hōkai - Vacuum Release: Atmospheric Collapse
+#### ( <span lang="ja">真空遁・大気崩壊</span> ) Shinkūton: Taiki Hōkai - Vacuum Release: Atmospheric Collapse
 {:#vacuum-release-atmospheric-collapse .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Fūton</span> <span class="jutsu-keyword">Vacuum</span></span>
 
 *The user tears the pressure out of a wide Area and lets the atmosphere violently correct itself. Bodies and debris are dragged inward before the implosion hits.*
 

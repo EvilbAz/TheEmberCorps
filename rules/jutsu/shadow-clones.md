@@ -10,8 +10,8 @@ permalink: "/rules/jutsu/shadow-clones/"
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
 
 
-# Kage Bunshin - Shadow Clones
-{:#shadow-clones}
+# ( <span lang="ja">影分身</span> ) Kage Bunshin - Shadow Clones
+{:#shadow-clones .jutsu-technique}
 
 Shadow clones are physical copies formed from chakra. A solid blow causes them to disperse in smoke.
 

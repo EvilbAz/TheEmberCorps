@@ -18,10 +18,10 @@ permalink: "/rules/jutsu/dual/"
 ## E-Rank
 {:#e-rank-15 .jutsu-rank-heading}
 
-#### Nidan Giri - Double Cut
+#### ( <span lang="ja">二段斬り</span> ) Nidan Giri - Double Cut
 {:#double-cut .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Attack</span></span>
 
 Both weapons attack during the same entry, but they do not have to succeed together.
 
@@ -32,10 +32,10 @@ Damage: +floor(STR/15)dS
 Tags: Chain 1, Dual, Attack  
 Effects: Make one Attack with each held weapon at 55% final damage each. Roll Accuracy separately. If either hits, Chain 1 is established.
 
-#### Hasami Ashi - Scissor Step
+#### ( <span lang="ja">挟み足</span> ) Hasami Ashi - Scissor Step
 {:#scissor-step .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Attack</span></span>
 
 The two weapons close like shears while the feet circle the target.
 
@@ -47,10 +47,10 @@ Accuracy: \+1
 Tags: Chain 1, Dual, Attack  
 Effects: Requires two weapons. Choose one to attack and use the other to threaten the defender. If the target Parries, it takes a penalty of Athletics/5. If it Dodges, double that Defense’s final Speed when advancing its next action; Interrupt validity is unchanged.
 
-#### Kōgo Giri - Alternating Cuts
+#### ( <span lang="ja">交互斬り</span> ) Kōgo Giri - Alternating Cuts
 {:#alternating-cuts .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Attack</span></span>
 
 The hands alternate in a broken rhythm, changing line and timing with every swing.
 
@@ -61,10 +61,10 @@ Speed: \+1
 Tags: Chain 2, Dual, Attack  
 Effects: If this Attack uses a different leading weapon from your previous damaging Dual Chain Attack, gain +Athletics/5 Accuracy. Declare the leading weapon before the Defense; it supplies this Attack’s damage type and weapon properties.
 
-#### Hasami Uchi - Closing Pair
+#### ( <span lang="ja">挟み打ち</span> ) Hasami Uchi - Closing Pair
 {:#closing-pair .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Attack</span></span>
 
 The finisher commits both hands to the same exchange.
 
@@ -75,10 +75,10 @@ Damage: +floor(STR/15)dS
 Tags: Chain 3, Dual, Attack  
 Effects: Make one Attack with each weapon at 65% Final Damage, rolling and defending separately. Combine successful hits for Wounding only. If both fully hit the same creature, resolve Prone using Athletics against Resistance. Resolve Chain progression once.
 
-#### Soete Uke - Off-Hand Catch
+#### ( <span lang="ja">添え手受け</span> ) Soete Uke - Off-Hand Catch
 {:#off-hand-catch .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 The off-hand weapon exists to solve the problems the leading weapon creates.
 
@@ -88,10 +88,10 @@ Speed: 3
 Tags: Chain X, Dual, Utility, Interrupt  
 Effects: Parry a Melee Attack with the off-hand weapon at +Athletics/5. On full success, your next Dual Chain Attack gains +15% Final Damage if it is your next non-Interrupt Action.
 
-#### Kaiten Randa - Turning Flurry
+#### ( <span lang="ja">回転乱打</span> ) Kaiten Randa - Turning Flurry
 {:#turning-flurry .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Attack</span></span>
 
 The user turns both weapons through the surrounding space at once, each hand carving a separate line through the enemies close enough to be caught in the rotation.
 
@@ -106,10 +106,10 @@ Effects: Make one Accuracy roll with each weapon against every chosen enemy in A
 ## D-Rank
 {:#d-rank-15 .jutsu-rank-heading}
 
-#### Sayū no Kamae - Split Guard
+#### ( <span lang="ja">左右の構え</span> ) Sayū no Kamae - Split Guard
 {:#split-guard .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Attack</span></span>
 
 Each weapon asks a separate defensive question.
 
@@ -120,10 +120,10 @@ Damage: +floor(STR/10)dS
 Tags: Chain 2, Dual, Attack  
 Effects: Make one Attack with each weapon at 60% final damage. The target chooses and resolves a Defense against each Attack. If it uses the same broad Defense against both, its second roll takes −Athletics/5. If it uses two different broad Defenses, each successful hit gains \+2dS. Chain advances if either Attack hits.
 
-#### Jūji Todome - Cross Finish
+#### ( <span lang="ja">十字止め</span> ) Jūji Todome - Cross Finish
 {:#cross-finish .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Attack</span></span>
 
 You cross both attack lines through different parts of the target, forcing the defender to contain two wound lines at once before either hand can recover.
 
@@ -134,10 +134,10 @@ Speed: \+6
 Tags: Chain 3, Dual, Attack  
 Effects: Requires two weapons. On a full hit, choose two different wound locations; if the Attack wounds, apply one wound at the normal location and a second wound one severity lower at the other location. The secondary wound cannot exceed Minor severity.
 
-#### Te no Sasoi - Hand Feint
+#### ( <span lang="ja">手の誘い</span> ) Te no Sasoi - Hand Feint
 {:#hand-feint .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Utility</span></span>
 
 Show them both blades. Make them guess which hand will strike.
 
@@ -147,10 +147,10 @@ Speed: 3
 Tags: Chain X, Dual, Utility  
 Effects: Oppose the target’s Awareness with Espionage. On success, choose Dodge or Parry; that Defense takes a penalty of 2 plus 1 per full 5 points you won by, maximum 6, against your next Dual Chain Attack.
 
-#### Sōryū - Paired Flow
+#### ( <span lang="ja">双龍</span> ) Sōryū - Paired Flow
 {:#paired-flow .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Utility</span></span>
 
 As one hand recovers from a swing, the other is ready to strike.
 
@@ -164,10 +164,10 @@ Effects: While wielding two weapons, gain +Athletics/5 Parry. When a Dual Chain 
 ## C-Rank
 {:#c-rank-15 .jutsu-rank-heading}
 
-#### Nite Oi - Split Pursuit
+#### ( <span lang="ja">二手追い</span> ) Nite Oi - Split Pursuit
 {:#split-pursuit .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Attack</span></span>
 
 Each hand takes a different opponent, opening pressure on two fronts before the user decides which target to pursue.
 
@@ -178,10 +178,10 @@ Damage: +floor(STR/7)dS
 Tags: Chain 1, Dual, Attack  
 Effects: Make one Attack with each weapon at 60% final damage. The attacks must target different creatures. If either hits, choose one hit creature as your chained target.
 
-#### Sente Kōtai - Changing Lead
+#### ( <span lang="ja">先手交替</span> ) Sente Kōtai - Changing Lead
 {:#changing-lead .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Utility</span></span>
 
 The style changes which weapon is “leading” without changing what is held.
 
@@ -194,10 +194,10 @@ Effects: Swap which held weapon is leading. Your next Dual Chain Attack may use 
 ## B-Rank
 {:#b-rank-15 .jutsu-rank-heading}
 
-#### Buki Gatame - Weapon Lock
+#### ( <span lang="ja">武器固め</span> ) Buki Gatame - Weapon Lock
 {:#weapon-lock .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Attack</span></span>
 
 The two weapons close around the line the defender committed, trapping that weapon between them for the next exchange.
 
@@ -208,10 +208,10 @@ Speed: \+3
 Tags: Chain 2, Dual, Attack  
 Effects: Requires two weapons. On a full hit, if the target used a weapon to Block or Parry, that weapon cannot be used to Block or Parry your next Dual Chain attack.
 
-#### Sōgeki Gaeshi - Counterpair
+#### ( <span lang="ja">双撃返し</span> ) Sōgeki Gaeshi - Counterpair
 {:#counterpair .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 A full parry with one hand opens the line for the other.
 
@@ -224,10 +224,10 @@ Effects: After fully Parrying a Melee Attack, make an off-hand Basic Weapon Atta
 ## A-Rank
 {:#a-rank-15 .jutsu-rank-heading}
 
-#### Jūji Shokei - Crossed Execution
+#### ( <span lang="ja">十字処刑</span> ) Jūji Shokei - Crossed Execution
 {:#crossed-execution .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Attack</span></span>
 
 One hand attacks the target while the other deliberately destroys the guard protecting them.
 
@@ -238,10 +238,10 @@ Damage: +floor(STR/3)dS
 Tags: Chain 3, Dual, Attack  
 Effects: Requires two weapons. Make one Attack with each at full damage, rolling and defending separately. One strikes the target and gains +25% Wounding; the other strikes a held weapon or worn armor piece. Resolve that structural hit as a direct attack on the item, using normal item defenses and armor matchups. It does not also damage the wielder. Chain ends after both attacks resolve.
 
-#### Bunryū - Divergent Current
+#### ( <span lang="ja">分流</span> ) Bunryū - Divergent Current
 {:#divergent-current .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Dual</span> <span class="jutsu-keyword">Utility</span></span>
 
 Each weapon carries a different chakra treatment, letting the pair answer two different defenses in the same exchange.
 

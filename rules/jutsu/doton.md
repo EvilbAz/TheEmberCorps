@@ -20,10 +20,10 @@ On a boat or anywhere else without earth, most Doton techniques have nothing to 
 ## E-Rank
 {:#e-rank-5 .jutsu-rank-heading}
 
-#### Doton: Shindou - Earth Release: Tremor
+#### ( <span lang="ja">土遁・震動</span> ) Doton: Shindou - Earth Release: Tremor
 {:#doton-shindou-earth-release-tremor .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 Extra earth-elemental chakra is infused with another Doton technique. When the technique hits the ground, or somebody touches the ground, it causes the earth itself to shake violently in that exact spot. The property damage potential's pretty impressive, but nothing compared to serious offensive jutsu.
 
@@ -35,10 +35,10 @@ Effects: This is added on to any damage-dealing Doton jutsu with X being the jut
 
 This can be used on its own as Chakra 8, Speed 6, and Seal Speed 6\. In this case it's Radius 10, Stun 5, centered on (but not affecting) yourself. It does also require a Defense roll in this case.
 
-#### Ganseki Tsuppari - Rock Thrust
+#### ( <span lang="ja">岩石突っ張り</span> ) Ganseki Tsuppari - Rock Thrust
 {:#ganseki-tsuppari-rock-thrust .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Blunt</span> <span class="jutsu-keyword">Projectile</span></span>
 
 With a stomp or palm motion, the user drives a fist-sized rock, short stone spike, or narrow column of earth toward the target. It is the basic offensive lesson of Doton: move existing ground quickly enough that it behaves like a projectile.
 
@@ -49,10 +49,10 @@ Speed: 8
 Seal Speed: 6  
 Tags: Attack, Blunt, Projectile
 
-#### Mimizu no Jutsu - Earthworm Technique
+#### ( <span lang="ja">蚯蚓の術</span> ) Mimizu no Jutsu - Earthworm Technique
 {:#mimizu-no-jutsu-earthworm-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 Sending a tiny rumble through the earth ahead of you, you cause the area around your opponents to explosively sprout spikes from the ground into their ankles and shins\! It's rather painful and good for catching a small group of opponents.
 
@@ -66,10 +66,10 @@ Special: Rocky Terrain 1
 Tags: Attack, AoE, Environmental, Ground-Based  
 Effects: Dodging this technique allows people to avoid its initial damage, but they are still inside the field of rock spikes. Anyone inside the affected area moving by any means other than the Move action at half speed, takes 1d4+NDB\*(Yards move inside the Area) Piercing Damage.
 
-#### Monosugai no Jutsu - Earth Shaping Technique
+#### ( <span lang="ja">モノスガイの術</span> ) Monosugai no Jutsu - Earth Shaping Technique
 {:#monosugai-no-jutsu-earth-shaping-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 Chakra softens natural stone beneath your hands into a clay-like texture, allowing you to shape it, dig into it or form handholds.
 
@@ -79,10 +79,10 @@ Seal Speed: 5
 Tags: Utility, Ground-Based  
 Effects: Mold stone within reach like clay. When climbing an earthen surface, shape holds for +5 Athletics on your climb. You may leave the holds in place: the next ally to climb that stretch within 30 IC gains +3 Athletics. Both bonuses require direct use of the holds.
 
-#### Yurokensei - Tremorsense
+#### ( <span lang="ja">ユロケンセイ</span> ) Yurokensei - Tremorsense
 {:#yurokensei-tremorsense .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 Often placing a hand to the ground after the seals to feel the vibrations, this technique helps you find nearby creatures and enemies. Most importantly, enemies\! Their steps, no matter how quiet, can be sensed by you from a great distance\!
 
@@ -99,10 +99,10 @@ Anyone not hiding is located automatically; if you find someone you know exactly
 ## D-Rank
 {:#d-rank-5 .jutsu-rank-heading}
 
-#### Doki Kantsuu no Jutsu - Earthen Skewer Technique
+#### ( <span lang="ja">土気貫通の術</span> ) Doki Kantsuu no Jutsu - Earthen Skewer Technique
 {:#doki-kantsuu-no-jutsu-earthen-skewer-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Piercing</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 Rock Thrust, except actually meant to do serious harm to people outside of training matches. You summon a spike of earth actually capable of skewering an enemy\! This can also be more of a solid hit, not as pointy, as to whatever degree they want, and can even look like a fist or some similar, stylized attack, but it's still just big rocks coming at you.
 
@@ -115,10 +115,10 @@ Special: Stun 4
 Tags: Attack, Piercing, Ground-Based  
 Effects: Increase damage by 10% when determining Wound severity only.
 
-#### Doro Bunshin no Jutsu - Mud Clone Technique
+#### ( <span lang="ja">泥分身の術</span> ) Doro Bunshin no Jutsu - Mud Clone Technique
 {:#doro-bunshin-no-jutsu-mud-clone-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Clone</span></span>
 
 An advanced variation of Bunshin no Jutsu, this jutsu creates solid clones made from the earth beneath a shinobi's feet, which change their appearance to look like the user. They have many advantages over normal clones, but are significantly more difficult to create.
 
@@ -132,10 +132,10 @@ If someone strikes a mud clone with an unarmed attack, they suffer a \-4 immobil
 
 Against ranged attacks, mud clones can take 50 points of damage before being destroyed (and revealed as clones).
 
-#### Doton: Nebaneba Shita Karada - Earth Style: Sticky Body Technique
+#### ( <span lang="ja">土遁・粘々した体</span> ) Doton: Nebaneba Shita Karada - Earth Style: Sticky Body Technique
 {:#doton-nebaneba-shita-karada-earth-style-sticky-body-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Aura</span></span>
 
 Using the dirt around you to create a mud like substance around your torso, your arms, and your chest. It acts as a powerful medium and can be activated with chakra to cause people to stick to you.
 
@@ -149,10 +149,10 @@ Effects: Gain +2 Grapple Offense. Activating Sticky Body in a grapple has Contro
 
 When a melee attack makes contact with you, roll Chakra Control against the attacker’s Resistance once for that action. On success, its striking limb or weapon sticks to the mud. Treat the attacker as Clinched until it pulls free. It can add 2 IC to the triggering attack to pull free immediately or spend a Speed 2 action later. An attack that misses or is fully parried does not make contact.
 
-#### Doton: Renga no Jutsu - Earth Release: Practice Brick Technique
+#### ( <span lang="ja">土遁・煉瓦の術</span> ) Doton: Renga no Jutsu - Earth Release: Practice Brick Technique
 {:#doton-renga-no-jutsu-earth-release-practice-brick-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 A rudimentary defensive Earth Release used to raise a quick barricade from existing ground. The wall is not impressive by veteran standards, but it is fast, cheap, and particularly useful when several shinobi build a defensive line together.
 
@@ -167,10 +167,10 @@ Raise a wall up to 4 yards long and 2 yards high with HP equal to 50 \+ (NDB×5)
 
 As an Interrupt, the wall can protect one creature from an attack originating more than 5 yards away if the wall can physically stand between source and target. If the wall is destroyed, remaining damage carries through normally. Adjacent Practice Brick walls may touch, but each keeps its own HP.
 
-#### Iwa Funsai Buin - Rock Smashing Staff
+#### ( <span lang="ja">岩粉砕ブイン</span> ) Iwa Funsai Buin - Rock Smashing Staff
 {:#iwa-funsai-buin-rock-smashing-staff .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Creation</span></span>
 
 You shape nearby rock or chakra-bound earth into a heavy blunt weapon, such as a hammer or staff.
 
@@ -189,10 +189,10 @@ The weapon has a third of its normal Durability
 
 (2) Missing an attack makes an Area 1 underneath the target that becomes Rocky Terrain 1\. \+2 area for every additional rank in this ability
 
-#### Jishin Shushou - Earth Shaking Palm
+#### ( <span lang="ja">地震手掌</span> ) Jishin Shushou - Earth Shaking Palm
 {:#jishin-shushou-earth-shaking-palm .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 Harnessing a large amount of chakra into the palm of your hand, you then slam it down into the ground in front of you to blast rocks and debris up to distract your opponents, allowing you to quickly escape their field of view or capitalize on the momentary distraction.
 
@@ -204,10 +204,10 @@ Special: Stun 5
 Tags: Attack, Utility, AoE, Ground-Based  
 Effects: Resolve Stun 5 against other creatures touching the ground in the Area. The upheaval buries up to 2 loose background gallons at the point of impact. Carried water and standing bodies of water are unaffected. After the attack resolves you may immediately attempt to Hide under the normal Stealth rules.
 
-#### Shinjuu Zanshu no Jutsu - Double Suicide Decapitation Technique
+#### ( <span lang="ja">心中斬首の術</span> ) Shinjuu Zanshu no Jutsu - Double Suicide Decapitation Technique
 {:#shinjuu-zanshu-no-jutsu-double-suicide-decapitation-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Melee</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 After thoroughly concealing yourself, this technique allows you to move through the ground for a short amount of time, long enough to position yourself under the enemy and pull them down under the ground.
 
@@ -218,10 +218,10 @@ Seal Speed: 8
 Tags: Attack, Melee, Ground-Based  
 Effects: This technique can only be used from stealth or underground, and uses your Taijutsu accuracy (rather than Ninjutsu). If you hit, you inflict them with a \-1 Immobilization Penalty per point your Accuracy beats their defense, to a maximum of \-6. They can dig themselves out from underground as a Speed 10 action which removes the penalty entirely. Until they get rid of the Immobilization penalty from this technique they can not move (as they are stuck to the spot), but can otherwise attack and defend themselves.
 
-#### Tama no Nendo - Clay Bullet
+#### ( <span lang="ja">玉の粘土</span> ) Tama no Nendo - Clay Bullet
 {:#tama-no-nendo-clay-bullet .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Blunt</span></span>
 
 Pushing your chakra into the ground beneath you, you pull up a ball of earth and mud, globby and chakra filled that you then launch or literally throw sometimes at the opponent. Once on them, the mud is held semi-cohesive by the chakra lacing it, which can restrict the victim's movement.
 
@@ -238,10 +238,10 @@ Effects: The Immobilization penalty fades by 1 every 15 initiative counts. Someo
 ## C-Rank
 {:#c-rank-5 .jutsu-rank-heading}
 
-#### Deiryū no Henkō - Mud Flow Deflect
+#### ( <span lang="ja">泥流の変更</span> ) Deiryū no Henkō - Mud Flow Deflect
 {:#deiryu-no-henko-mud-flow-deflect .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 A bank of mud rises between the attack and the person you want to shield.
 
@@ -254,10 +254,10 @@ Effects: Parry with a +3 bonus to protect yourself or one target within Range. T
 
 This works against elements weak to Doton up to A-rank, strong against it up to C-rank, and other eligible attacks (including Taijutsu) up to B-rank.
 
-#### Dochuu Eigyo no Jutsu - Moving Underground as if Swimming Technique
+#### ( <span lang="ja">土中映魚の術</span> ) Dochuu Eigyo no Jutsu - Moving Underground as if Swimming Technique
 {:#dochuu-eigyo-no-jutsu-moving-underground-as-if-swimming-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 This technique reduces the consistency of earth into less than that of fine sand by channeling chakra into it, allowing the user to dig through it with ease. This affects the entire body, and the earth returns to its normal consistency after they've passed.
 
@@ -267,10 +267,10 @@ Speed: 2
 Tags: Utility, Self, Ground-Based  
 Effects: This may only be used while underground, such as from the effects of Moguragakure no Jutsu, or Buried to burrow through solid rock. While you maintain this technique's upkeep, you can move underground up to a yard deep (any deeper any you would begin to be crushed by the pressure of the earth around you), using CHA/2 in place of AGI for determining your movement speed.
 
-#### Doro Nami no Jutsu - Mud Wave Technique
+#### ( <span lang="ja">泥波の術</span> ) Doro Nami no Jutsu - Mud Wave Technique
 {:#doro-nami-no-jutsu-mud-wave-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Aura</span></span>
 
 Your chakra being applied to your legs, you turn the ground below your feet into mud which you then stand upon, riding the wave at increased speeds as you flow across the battlefield. This is a good mode of transportation, and a good way to enhance an earth attack\!
 
@@ -283,10 +283,10 @@ Effects: You increase your AGI stat for movement by CHA/2. You may choose to end
 
 This is incompatible with effects which increase your normal movement speed--such as the Runner ability, and Racing Thunder Technique. While Mud Wave is active, you do not receive their benefits.
 
-#### Doroku Gaeshi - Earth Shore Return
+#### ( <span lang="ja">土陸返し</span> ) Doroku Gaeshi - Earth Shore Return
 {:#doroku-gaeshi-earth-shore-return .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 Slamming both hands into the ground, the user can cause a large rectangle wall of earth to pop up in front of them, covering whatever attack someone may be directing at them.
 
@@ -297,10 +297,10 @@ Seal Speed: 8 \+ 2\*X
 Tags: Interrupt  
 Effects: X is the rank of the Jutsu interrupted and may be used against any valid attack, even one not targeting you. Earth Shore Return can't be used against attacks originating 5 yards or less away from you and can only protect a single target. This creates a wall that absorbs X\*50 \+ NDB times the Speed of the Attack. If destroyed, any remaining damage carries on to you (in which case you cannot defend against it further) or whoever else you used this to protect (in which case, they can).
 
-#### Doryuu Taiga - Earth Flow River
+#### ( <span lang="ja">土流大河</span> ) Doryuu Taiga - Earth Flow River
 {:#doryuu-taiga-earth-flow-river .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 You cause a long stretch of nearby ground to become mud and slide your opponents down a torrenting river of rocks and dirt, spewing them out at the end. This often leaves people hurt, and disoriented\!
 
@@ -313,10 +313,10 @@ Special: Knockback CHA/8
 Tags: Attack, AoE, Blunt, Ground-Based  
 Effects: Everyone receives a Stun equal to how far they are Knocked Back; the stun is divided by 3 if they block. If this is blocked by an effect which halts its progress (such as Earth Shore Return or is parried), nobody behind that effect is affected.
 
-#### Doton: Kajūgan no Jutsu - Added-Weight Rock
+#### ( <span lang="ja">土遁・加重岩の術</span> ) Doton: Kajūgan no Jutsu - Added-Weight Rock
 {:#doton-kajugan-no-jutsu-added-weight-rock .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Doton</span></span>
 
 Earth chakra multiplies the target's effective weight until even lifting a foot feels argumentative.
 
@@ -333,10 +333,10 @@ On a full hit, Movement is reduced by 20% and all non-Search Actions have Base S
 
 A target may spend Speed 6 and pass Resistance vs your Chakra Control to end it early. This does not stack with itself.
 
-#### Doton: Keijūgan no Jutsu - Light-Weight Rock
+#### ( <span lang="ja">土遁・軽重岩の術</span> ) Doton: Keijūgan no Jutsu - Light-Weight Rock
 {:#doton-keijugan-no-jutsu-light-weight-rock .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span></span>
 
 Weight drains from the body until movement becomes almost careless.
 
@@ -352,10 +352,10 @@ A willing target gains \+20% Movement and reduces falling damage by 75%.
 
 Their PDB is reduced by 1 while this is maintained.
 
-#### Kaigeki Chite - Crushing Earth Hand
+#### ( <span lang="ja">壊撃地手</span> ) Kaigeki Chite - Crushing Earth Hand
 {:#kaigeki-chite-crushing-earth-hand .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Creation</span></span>
 
 You create a huge hand of rock that you can manipulate and wield, in place of your actual hand. Though you have no physical connection to the large hand, your chakra flowing through it is controlled by an intense focus on your right hand. Or left hand, if that's your main.
 
@@ -366,10 +366,10 @@ Seal Speed: 15
 Tags: Utility, Creation  
 Effects: You can use the giant rock hand to use any non grapple E or D rank Taijutsu technique, or simply a basic attack, as long as the ability is one that anyone could learn, utilizing your hands. No kicks or clan jutsu allowed\! It may use C rank techniques, but doing so counts as 2 uses. The rock hand is good for only 2 uses, at which point it breaks apart into ordinary rocks unless you pay its Chakra cost again; doing so has no speed or seal speed, but still has its Chakra cost and preserves it for 2 more uses. The hand uses your CHA \+ 50 as its STR, for the purpose of determining its damage bonus.
 
-#### Moguragakure no Jutsu - Hiding Like a Mole Technique
+#### ( <span lang="ja">土竜隠れの術</span> ) Moguragakure no Jutsu - Hiding Like a Mole Technique
 {:#moguragakure-no-jutsu-hiding-like-a-mole-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 Channeling your chakra into the ground below you, you turn the dirt or earth or rock into fine sand. It affects your entire body so you simply slide down quickly, but only making a tunnel big enough for one person. After digging your way down, you can sense everything going on above still, and can even cover the hole to make it seem like you never even burrowed away.
 
@@ -383,10 +383,10 @@ You are hidden at Stealth 2 and your opponent is allowed an immediate Awareness 
 
 Anyone can attack you while you are under the ground, and any defensive roll you take while submerged takes a \-6 penalty. An attack which deals at least CHA \+ 50 damage will break through the surface of the earth above you, ending your submerged state forcefully, but the actual damage dealt to you will be reduced by half (after seeing if it does enough to break the earth above you). The Damage of Raiton Attacks is doubled before all calculations when targeting you in this manner.
 
-#### Retsudotensho - Split Earth Turn Around Palm
+#### ( <span lang="ja">裂土転掌</span> ) Retsudotensho - Split Earth Turn Around Palm
 {:#retsudotensho-split-earth-turn-around-palm .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 This technique causes the ground surrounding the enemy to spiral inwards on itself, burying them alive or crushing them. This technique is capable of causing quite a bit of damage to the area. This technique is much more damaging if used in rocky mountainous areas, or inside a cave.
 
@@ -402,10 +402,10 @@ Tags: Attack, AoE, Blunt, Ground-Based
 ## B-Rank
 {:#b-rank-5 .jutsu-rank-heading}
 
-#### Doryu Ken - Earth Style Fist
+#### ( <span lang="ja">土流拳</span> ) Doryu Ken - Earth Style Fist
 {:#doryu-ken-earth-style-fist .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Aura</span></span>
 
 By surrounding your arm or leg in a coat of solidified earth, you can attack an opponent while being protected from direct contact with them.
 
@@ -416,10 +416,10 @@ Seal Speed: 18
 Tags: Utility, Self, Aura  
 Effects: So long as this technique is maintained, your taijutsu attacks are enhanced. You suffer no 'on-contact' effects (such as damage from punching a foe covered in spikes) from performing unarmed or combo attacks. Additionally, unarmed parries cannot be used against your attacks and any weapon parries take triple the amount of damage to their durability.
 
-#### Doryuu Jouheki - Earth Flow Rampart
+#### ( <span lang="ja">土流城壁</span> ) Doryuu Jouheki - Earth Flow Rampart
 {:#doryuu-jouheki-earth-flow-rampart .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Interrupt</span> <span class="jutsu-keyword">Environmental</span></span>
 
 The most powerful direct Doton-based defense, the user either manipulates the surrounding terrain or generates (using chakra\!) and spits out an prodigious amount of flowing earth which forms a wall and solidifies. Either way, this creates a barrier coated with chakra that will stop most attacks totally.
 
@@ -431,10 +431,10 @@ Effects: This jutsu can only be used against attacks which originated more than 
 
 You create what is basically a huge wall\! It can be up to the following dimensions: Length \= X, Width \= X/4, Height \= X/2 and has HP equal to (NDB \+ X)\*10 . It takes 50% extra damage from Raiton, but only half damage from Suiton and Katon. This lasts for 100 IC or until its HP is reduced to 0\.
 
-#### Doryuukatsu - Earth Flow Divide
+#### ( <span lang="ja">土流割</span> ) Doryuukatsu - Earth Flow Divide
 {:#doryuukatsu-earth-flow-divide .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Blunt</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 You force chakra through underground Dragon Veins, splitting the earth into a deep chasm. The rupture can tear through walls, camps and barricades.
 
@@ -446,10 +446,10 @@ Seal Speed: 20
 Tags: Attack, Blunt, AoE, Ground-Based  
 Effects: Any damage from this technique is tripled against any structures.
 
-#### Doton: Domu - Earth Release: Iron Skin
+#### ( <span lang="ja">土遁・土矛</span> ) Doton: Domu - Earth Release: Iron Skin
 {:#doton-domu-earth-release-iron-skin .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Aura</span></span>
 
 You direct chakra to flow through the skin over all portions of your body, increasing your body's defensive power to its utmost limit. This causes your skin to darken in response to the earth-elemented chakra, taking on a dull gray-brown, almost black color. This hardening also empowers your physical attacks, making this a useful, if draining, all-purpose technique.
 
@@ -460,10 +460,10 @@ Seal Speed: 20
 Tags: Utility, Self, Aura  
 Effects: You gain CHA/3 Damage Reduction, and increase your Physical Damage Bonus by that amount /10. Raiton bypasses all this technique’s effects.
 
-#### Doton: Dorou Domu Kekkai - Earth Release: Earth Prison Dome of Magnificent Nothingness
+#### ( <span lang="ja">土遁・土牢堂無結界</span> ) Doton: Dorou Domu Kekkai - Earth Release: Earth Prison Dome of Magnificent Nothingness
 {:#doton-dorou-domu-kekkai-earth-release-earth-prison-dome-of-magnificent-nothingness .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span></span>
 
 This creates a dome chamber around a small group of enemies, which you enlace in your own chakra to make it extra hard to escape.
 
@@ -481,10 +481,10 @@ You have your Chakra penalty reduced by 1 per person inside the dome.
 The dome regains NDB\*3 HP, up to its maximum.  
 You must keep one hand on the dome at all times; if you break contact the above effects end (and cannot be reestablished), but the dome retains any HP it had at that point.
 
-#### Doton: Doryou Dango - Earth Release: Earth Mausoleum Dumpling
+#### ( <span lang="ja">土遁・土陵団子</span> ) Doton: Doryou Dango - Earth Release: Earth Mausoleum Dumpling
 {:#doton-doryou-dango-earth-release-earth-mausoleum-dumpling .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span></span>
 
 Channelling chakra into your arms and the ground below you, you place your hands on the earth and lift up an incredibly large (no, really, just look at the Area on this thing\!) ball of earth and rock, which is then thrown at your enemies.
 
@@ -497,10 +497,10 @@ Seal Speed: 22
 Special: Stun 12  
 Tags: Attack, AoE, Blunt
 
-#### Doton: Gōremu no Jutsu - Earth Golem
+#### ( <span lang="ja">土遁・剛隷武の術</span> ) Doton: Gōremu no Jutsu - Earth Golem
 {:#doton-goremu-no-jutsu-earth-golem .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Creation</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 Stone pulls itself into a broad-shouldered servant animated by the user's chakra.
 
@@ -517,10 +517,10 @@ The golem shares your action economy. When you take an Action you may have the g
 
 Only one Earth Golem from you may exist at a time.
 
-#### Doton: Iwagakure no Jutsu - Earth Release: Hidden Among Rocks Technique
+#### ( <span lang="ja">土遁・岩隠れの術</span> ) Doton: Iwagakure no Jutsu - Earth Release: Hidden Among Rocks Technique
 {:#doton-iwagakure-no-jutsu-earth-release-hidden-among-rocks-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 This technique allows you to blend into rocks and remain hidden. Even the texture of your body takes on that of the stones, and it's quite possible (indeed, more than a few experienced Huntsman have embarrassing stories about it) to have an enemy physically sit on you without realizing you're there.
 
@@ -531,10 +531,10 @@ Seal Speed: 24
 Tags: Utility, Ground-Based  
 Effects: This allows you to enter level 3 Stealth, and gives a \+10 bonus to your stealth checks while it's maintained. However, it requires rocky terrain (such as the inside of a cave, a mountain path, the debris from a destroyed wall, or a large boulder), and you cannot move (blinking and breathing are okay) while it's maintained.
 
-#### Doton: Yomi Numa - Swamp of the Underworld
+#### ( <span lang="ja">土遁・黄泉沼</span> ) Doton: Yomi Numa - Swamp of the Underworld
 {:#doton-yomi-numa-swamp-of-the-underworld .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Ground-Based</span></span>
 
 Solid ground liquefies into a deep adhesive bog under the target's feet.
 
@@ -551,10 +551,10 @@ On a full hit apply Immobilization 5, reduced by 1 every 15 IC after leaving the
 
 The swamp persists for 40 IC. Creatures moving through it use half Movement unless an effect lets them ignore Ground-Based terrain.
 
-#### Iwa Bunshin - Rock Clone
+#### ( <span lang="ja">岩分身</span> ) Iwa Bunshin - Rock Clone
 {:#iwa-bunshin-rock-clone .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Clone</span></span>
 
 You either gather animate rocks from you, or actually generate them with chakra and regurgitate a stream of stones (somehow, you're protected from a cut esophagus or chipped teeth during this process). Either way, the rocks then take on a human shape and appearance.
 
@@ -572,10 +572,10 @@ Effects: You create X (to a max of 3\) clones that can look like yourself or any
 ## A-Rank
 {:#a-rank-5 .jutsu-rank-heading}
 
-#### Doryuudan - Earth Dragon Blast
+#### ( <span lang="ja">土龍弾</span> ) Doryuudan - Earth Dragon Blast
 {:#doryuudan-earth-dragon-blast .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Projectile</span> <span class="jutsu-keyword">Blunt</span></span>
 
 A dragon-like head of rock, mud, and dirt rises up from the ground, its maw wide open. From said maw, it launches dozens of high-velocity projectiles of dense, chakra-infused earth\! While not as visually impressive as some techniques, Doryuudan is incredibly demanding upon its user--and incredibly devastating to its victims.
 
@@ -592,10 +592,10 @@ Effects: On a full hit against a target touching the ground, the ground within 3
 
 If you already knew Rock Barrage, replace it with Earth Dragon Blast. If you already knew both, recover the XP you spent on Rock Barrage.
 
-#### Doton: Chidoukaku - Earth Release: Moving Earth Core
+#### ( <span lang="ja">土遁・地動核</span> ) Doton: Chidoukaku - Earth Release: Moving Earth Core
 {:#doton-chidoukaku-earth-release-moving-earth-core .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 The user lowers or raises the ground in the surrounding area at high speed, creating giant depressions or spires. Despite how this might seem, it's fairly harmless to the surrounding area. People, plants, and buildings in the affected area will be largely undisturbed. The sides of the hole or spire are quite sturdy, and it's not in danger of collapsing on its own.
 
@@ -605,10 +605,10 @@ Seal Speed: 30
 Tags: Utility, Interrupt  
 Effects: X has a max of 10\. This affects everything in a square of up to 50 yards on a side, centered on its user. It moves the ground in that area X\*NDB yards straight up, or straight down. If you manage to use this as an interrupt (uh, yeah, good luck with that), this will allow you to avoid a technique if you move yourself out of its range. If raised, it has an HP equal to 10 \* its height. If lowered, projectile attacks can multiply their range by X granting a \-X penalty to its accuracy.
 
-#### Doton: Ganchūsō - Rising Stone Spears
+#### ( <span lang="ja">土遁・岩柱槍</span> ) Doton: Ganchūsō - Rising Stone Spears
 {:#doton-ganchuso-rising-stone-spears .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Ground-Based</span> <span class="jutsu-keyword">Piercing</span></span>
 
 The ground answers in a forest of angled stone meant to herd as much as impale.
 
@@ -626,10 +626,10 @@ After the initial attack the Area becomes Rocky Terrain 4 for 40 IC.
 
 A creature that fully Dodges may choose to move to any edge of the Area rather than only the distance its Dodge normally permits.
 
-#### Doton: Sando no Jutsu - Earth Release: Mountain Earth Technique
+#### ( <span lang="ja">土遁・山土の術</span> ) Doton: Sando no Jutsu - Earth Release: Mountain Earth Technique
 {:#doton-sando-no-jutsu-earth-release-mountain-earth-technique .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Blunt</span></span>
 
 The user creates two monolithic walls up from the ground, destroying the environment for several hundred yards in either direction, and sends them at one another. As they approach each other, their momentum builds, starting off slow and ending with a collision that removes the third dimension from anything unlucky enough to be caught between them.
 

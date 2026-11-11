@@ -18,10 +18,10 @@ permalink: "/rules/jutsu/club/"
 ## E-Rank
 {:#e-rank-11 .jutsu-rank-heading}
 
-#### Oshikomi Uchi - Driving Blow
+#### ( <span lang="ja">押し込み打ち</span> ) Oshikomi Uchi - Driving Blow
 {:#driving-blow .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Movement</span></span>
 
 You drive the target back with a heavy strike.
 
@@ -33,10 +33,10 @@ Special: Knockback 3
 Tags: Chain 1, Club, Attack, Movement  
 Effects: Resolve Knockback using the greater of 3 or STR/10 as its printed severity. On a successful Special, choose to follow the target’s actual movement, ending within Reach, or increase the resulting distance by 50%. Obstacles stop movement normally.
 
-#### Kiriage Uchi - Rising Blow
+#### ( <span lang="ja">切り上げ打ち</span> ) Kiriage Uchi - Rising Blow
 {:#rising-blow .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span></span>
 
 You swing upward beneath the target’s guard.
 
@@ -48,10 +48,10 @@ Special: Stun 3
 Tags: Chain 1, Club, Attack  
 Effects: Apply the printed Stun normally. If the target was already Stunned, replace this Stun with +20% Final Damage.
 
-#### Kaeshi Uchi - Returning Swing
+#### ( <span lang="ja">返し打ち</span> ) Kaeshi Uchi - Returning Swing
 {:#returning-swing .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span></span>
 
 You strike into the opening left by the opponent's attack.
 
@@ -62,10 +62,10 @@ Speed: +2
 Tags: Chain 2, Club, Attack  
 Effects: If this is your first non-Interrupt Action after resolving an Attack directed at you by the target, this Attack gains +Athletics/5 Accuracy.
 
-#### Furioroshi - Overhead Blow
+#### ( <span lang="ja">振り下ろし</span> ) Furioroshi - Overhead Blow
 {:#overhead-blow .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span></span>
 
 You bring the weapon down on the target's head.
 
@@ -77,10 +77,10 @@ Special: Stun 5
 Tags: Chain 3, Club, Attack  
 Effects: Make a Called Shot to the Head using its normal penalty. Gain +15% Wounding. There is no additional Accuracy or failed-Attack penalty.
 
-#### Fumibari - Brace
+#### ( <span lang="ja">踏ん張り</span> ) Fumibari - Brace
 {:#brace .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Interrupt</span></span>
 
 You brace the club across the incoming blow.
 
@@ -90,10 +90,10 @@ Speed: 3
 Tags: Chain X, Club, Utility, Interrupt  
 Effects: Parry a Melee Attack with +2. On success, reduce Knockback from that Attack to 0.
 
-#### Nagi Harai - Wide Swing
+#### ( <span lang="ja">薙ぎ払い</span> ) Nagi Harai - Wide Swing
 {:#wide-swing .jutsu-technique}
 
-<span class="jutsu-rank-badge">E-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span></span>
 
 You sweep the weapon across several nearby opponents.
 
@@ -109,10 +109,10 @@ Effects: Attack all enemies in reach. Divide Speed×PDB evenly among targets hit
 ## D-Rank
 {:#d-rank-11 .jutsu-rank-heading}
 
-#### Wakibara Uchi - Rib Shot
+#### ( <span lang="ja">脇腹打ち</span> ) Wakibara Uchi - Rib Shot
 {:#rib-shot .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span></span>
 
 You strike the target’s ribs to disrupt their breathing and posture.
 
@@ -123,10 +123,10 @@ Speed: \+1
 Tags: Chain 2, Club, Attack  
 Effects: On a full hit, choose one: Smother the Breath — the target’s next Attack takes an Accuracy penalty of Athletics/5; or Rattle the Frame — apply Stun equal to the greater of 4 or half your PDB, rounded down. Smother the Breath ends after that Attack.
 
-#### Yoroi Wari - Armor Crack
+#### ( <span lang="ja">鎧割り</span> ) Yoroi Wari - Armor Crack
 {:#armor-crack .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span></span>
 
 You direct the weapon’s weight into armour or a barrier.
 
@@ -137,17 +137,17 @@ Speed: \+4
 Tags: Chain 3, Club, Attack  
 Effects: After defense, deal this Attack’s damage directly to the struck armor piece, Barrier or Construct before resolving damage against its wearer. Apply structural damage-type matchups once. If that protection breaks, resolve the hit against the wearer without that protection; otherwise use its remaining protection normally. This structural strike is additional damage and does not bypass the target’s Defense.
 
-#### Taiatari - Body Check
+#### ( <span lang="ja">体当たり</span> ) Taiatari - Body Check
 {:#body-check .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span></span>
 
 This action is available to all Hunters as [Shove]({{ '/rules/core/#shove' | relative_url }}). It requires no Club or Chain and does not advance Chain.
 
-#### Saki Omori - Head-Heavy Grip
+#### ( <span lang="ja">先重り</span> ) Saki Omori - Head-Heavy Grip
 {:#head-heavy-grip .jutsu-technique}
 
-<span class="jutsu-rank-badge">D-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Utility</span></span>
 
 Chakra and a shifted grip increase the weapon’s leverage.
 
@@ -161,10 +161,10 @@ Effects: One blunt weapon gains additional Reach equal to the greater of 2 yards
 ## C-Rank
 {:#c-rank-11 .jutsu-rank-heading}
 
-#### Gedan Barai - Low Sweep
+#### ( <span lang="ja">下段払い</span> ) Gedan Barai - Low Sweep
 {:#low-sweep .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span></span>
 
 You drive the club through the target’s base instead of through their centre, forcing them to choose between footing and impact.
 
@@ -176,10 +176,10 @@ Special: Knockback 4 or Prone
 Tags: Chain 1, Club, Attack  
 Effects: On a full hit, choose Prone or Knockback equal to the greater of 6 or STR/5, then resolve the Special normally.
 
-#### Mijika Mochi - Short Grip
+#### ( <span lang="ja">短持ち</span> ) Mijika Mochi - Short Grip
 {:#short-grip .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Utility</span></span>
 
 You adjust your grip to regain control of the heavy weapon.
 
@@ -189,10 +189,10 @@ Speed: 2
 Tags: Chain X, Club, Utility  
 Effects: For your next Club Chain Attack, halve temporary Accuracy penalties and weapon Delay, rounding the remaining values down. If neither applies, gain +15% Final Damage and you may treat it as Piercing by concentrating force into the weapon’s end. The benefit ends if your next non-Interrupt Action is not that Attack.
 
-#### Kabe Kudaki - Wallbreaker
+#### ( <span lang="ja">壁砕き</span> ) Kabe Kudaki - Wallbreaker
 {:#wallbreaker .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Bukijutsu</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span></span>
 
 You strike a wall or defence with the weapon’s full weight.
 
@@ -206,10 +206,10 @@ Effects: Against Armor, Barriers and unattended objects, this Attack deals \+45%
 ## B-Rank
 {:#b-rank-11 .jutsu-rank-heading}
 
-#### Kamae Kuzushi - Guard Rattle
+#### ( <span lang="ja">構え崩し</span> ) Kamae Kuzushi - Guard Rattle
 {:#guard-rattle .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Chain 2</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span></span>
 
 You hit the defending weapon or limb hard enough to shake its hold.
 
@@ -220,10 +220,10 @@ Speed: \+2
 Tags: Chain 2, Club, Attack  
 Effects: If a weapon Blocks or Parries this Attack, it suffers WDP equal to its damage-level threshold after defense, even if its wielder takes no damage. It cannot Parry your next Club Chain Attack. Otherwise, a full hit applies Stun equal to the greater of 5 or your PDB, rounded down. This is explicit weapon damage.
 
-#### Daichi Shōgeki - Ground Shock
+#### ( <span lang="ja">大地衝撃</span> ) Daichi Shōgeki - Ground Shock
 {:#ground-shock .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Chain X</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span></span>
 
 You slam the weapon into the ground, sending an impact through nearby footing.
 
@@ -236,10 +236,10 @@ Effects: Strike the ground in an Area equal to the greater of 5 yards or STR/5, 
 ## A-Rank
 {:#a-rank-11 .jutsu-rank-heading}
 
-#### Gekitotsu Kudaki - Collision Breaker
+#### ( <span lang="ja">激突砕き</span> ) Gekitotsu Kudaki - Collision Breaker
 {:#collision-breaker .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Chain 3</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span></span>
 
 You strike hard enough to send the opponent sprawling.
 
@@ -251,10 +251,10 @@ Special: Knockback 12
 Tags: Chain 3, Club, Attack  
 Effects: Use the greater of 12 or STR/3 as the printed Knockback. On a full hit, also apply Stun equal to the greater of 4 or your PDB, rounded down. Gain +25% Final Damage and +25% Wounding. No collision is required.
 
-#### Mōshin - Juggernaut Rush
+#### ( <span lang="ja">猛進</span> ) Mōshin - Juggernaut Rush
 {:#juggernaut-rush .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Chain 1</span> <span class="jutsu-keyword">Club</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">Movement</span></span>
 
 You charge through the enemy's position and drive them out of the fight's centre.
 

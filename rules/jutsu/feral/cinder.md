@@ -61,10 +61,10 @@ Ash never interferes with your vision. Each Ash you consume adds \+4 Ignite inst
 ## C-Rank
 {:#c-rank .jutsu-rank-heading}
 
-#### Kaiton: Haien - Cinder Release: Ashen Wake
+#### ( <span lang="ja">灰遁・灰煙</span> ) Kaiton: Haien - Cinder Release: Ashen Wake
 {:#cinder-release-ashen-wake .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">C-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Katon</span> <span class="jutsu-keyword">Cinder</span></span>
 
 *A dirty wave of flame crawls across the battlefield. The fire lasts only a moment. The glowing ash left behind is the real technique.*
 
@@ -77,10 +77,10 @@ When Ashen Wake consumes Ash through Cinder Release, increase its Area by 2 per 
 ## B-Rank
 {:#b-rank .jutsu-rank-heading}
 
-#### Kaiton: Kōkai - Cinder Release: Ashfall
+#### ( <span lang="ja">灰遁・紅灰</span> ) Kaiton: Kōkai - Cinder Release: Ashfall
 {:#cinder-release-ashfall .jutsu-technique}
 
-<span class="jutsu-rank-badge">B-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Katon</span> <span class="jutsu-keyword">Cinder</span></span>
 
 *A slow fall of soot and ember fills the air. Every surface darkens, every breath tastes burnt and the whole field waits for a spark.*
 
@@ -95,10 +95,10 @@ Every 10 IC after activation, increase that Area's Ash by 1, to a maximum of 5\.
 ## A-Rank
 {:#a-rank .jutsu-rank-heading}
 
-#### Kaiton: Kasō - Cinder Release: Funeral Pyre
+#### ( <span lang="ja">灰遁・火葬</span> ) Kaiton: Kasō - Cinder Release: Funeral Pyre
 {:#cinder-release-funeral-pyre .jutsu-technique}
 
-<span class="jutsu-rank-badge">A-Rank</span>
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Attack</span> <span class="jutsu-keyword">AoE</span> <span class="jutsu-keyword">Energy</span> <span class="jutsu-keyword">Environmental</span> <span class="jutsu-keyword">Katon</span> <span class="jutsu-keyword">Cinder</span></span>
 
 *Every ember and soot-covered surface lifts into the air. For one horrible instant the battlefield glows orange. Then all of it catches.*
 

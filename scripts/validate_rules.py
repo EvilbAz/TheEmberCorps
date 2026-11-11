@@ -32,6 +32,16 @@ assert 'Speed -5' not in pages['/rules/clans/'][0]
 assert 'combat ends in a victory' not in pages['/rules/clans/'][0]
 assert 'whatever Medicine action' not in pages['/rules/talents/capabilities/'][0]
 for route, (body, _, _) in pages.items():
+    for section in re.split(r'(?=^#+ )', body, flags=re.M):
+        if ' .jutsu-technique}' not in section:
+            continue
+        heading = section.splitlines()[0]
+        assert re.fullmatch(r'#+ \( <span lang="ja">[^<]+</span> \) .+ - .+', heading), heading
+        tags = re.search(r'^[ \t*_]*(?:Tags?|Keywords?)\**\s*:\**[ \t]*(.+)$', section, re.I | re.M)
+        if tags:
+            expected = [tag.strip() for tag in tags[1].strip('* ').split(',')]
+            shown = re.findall(r'<span class="jutsu-keyword">([^<]+)</span>', section)
+            assert shown == expected, (heading, expected, shown)
     assert '[ HERE ]' not in body, route
     if route in ('/rules/core/', '/rules/wounds/', '/rules/equipment/'):
         assert not re.search(r'\{:#\d', body), f'{route}: numeric anchors need explicit HTML ids'

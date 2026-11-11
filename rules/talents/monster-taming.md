@@ -86,8 +86,10 @@ This Talent grants one Standard Tamed Monster, not an Apex-class creature. Addit
 # Fielding Your Monster
 {:#fielding-your-monster}
 
-## Beast Seal: Release
-{:#beast-seal-release}
+## ( <span lang="ja">獣封印・解</span> ) Kemono Fūin: Kai - Beast Seal: Release
+{:#beast-seal-release .jutsu-technique}
+
+<span class="jutsu-badges"><span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Sealing</span></span>
 
 Chakra: 25
 
