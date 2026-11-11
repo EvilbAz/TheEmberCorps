@@ -1002,7 +1002,7 @@ You gain the following action while holding your Insect Glaive and able to move:
 
 A technique with the Aerial tag may be used while Falling as the direct result of your own Vault or another Insect Glaive Corps technique. The Aerial tag has no rules on its own beyond identifying techniques for Corps abilities and effects.
 
-At Trailhand or 2,500 total XP, whichever comes first, the Corps will reforge the glaive around the hunter who has actually survived long enough to understand it. Your Bonded Insect Glaive gains 5 bonus Artisan Points that may only be spent on Weapon Features, not Structure or Special Properties. These bonus points count toward tier prerequisites and the weapon's total Artisan Points for wielding restrictions, but do not require you personally to possess the Artisan ranks needed to craft them; the Corps armourers perform the work. You may redesign these 5 bonus points with one Downtime Slot. Replacing a permanently lost Bonded Insect Glaive removes these points until the replacement is reforged with one Downtime Slot.
+At Trailhand or 2,500 total XP, whichever comes first, the Corps will reforge the glaive around the hunter who has actually survived long enough to understand it. Your Bonded Insect Glaive gains 5 bonus Artisan Points that may only be spent on Weapon Features, not Structure or Special Properties. These bonus points count toward tier prerequisites and the weapon's Final AP, but do not require you personally to possess the Artisan ranks needed to craft them; the Corps armourers perform the work. You may redesign these 5 bonus points with one Downtime Slot. Replacing a permanently lost Bonded Insect Glaive removes these points until the replacement is reforged with one Downtime Slot.
 
 ## Abilities
 {:#abilities-35}
@@ -2938,7 +2938,7 @@ When making an attack of any type with a Ballistic Weapon, instead of using a ba
 
 Ballistic Weapons cannot Parry ranged attacks. They may Parry Melee Weapon or Melee Unarmed attacks using their listed Parry modifier.
 
-Forge Rating: A catalogue firearm's Forge Rating counts as its Artisan Point total for wield restrictions and any effect that checks Artisan Points. A Hunter Arm's Forge Rating is equal to the number of Modification Points currently installed on it; you may always wield your own Hunter Arm regardless of Forge Rating.
+Forge Rating: A catalogue firearm's Forge Rating counts as its Artisan Point total for any effect that checks Artisan Points. A Hunter Arm's Forge Rating is equal to the number of Modification Points currently installed on it.
 
 Durability: Firing a Ballistic Weapon does not generate WDP by itself. It still uses normal Durability, Damage Level and WDP rules when struck, damaged or stressed by another effect.
 

@@ -1,5 +1,9 @@
 # Crafting and pre-made armor
 
+## Wielding weapons
+
+You can use a weapon of any Final AP. The Athletics + 10 cap and its over-limit penalties are gone for melee weapons, ranged weapons and thrown weapons. This also covers the Bonded Insect Glaive and Ballistic Corps firearms. Your Artisan ranks still limit the weapon you can make. Weapon-specific handling and Heritage requirements still apply. Armor keeps its Resistance + 10 wear limit.
+
 ## Making your own gear
 
 - Materials for weapons, armor, ammunition and ordinary gear cost one eighth of the shop price. Use the listed price for a pre-made pattern or the frame and AP formula for a custom build. Apply your crafting discount, then round up to the next whole Ryō. Poisons and antidotes use their own recipes.
@@ -28,6 +32,8 @@ Each weight now has two choices for each of the four slots. Arm and leg pieces c
 | Encased | Gatewarden Cuirass | 420 Durability, up from 350 | 7,000 | 875 | 28 |
 | Encased | Breakwater Kote | 1 less Stun and 2 less Bleed | 5,500 | 688 | 22 |
 | Encased | Quarry Sabatons | 3 less Knockback | 5,500 | 688 | 22 |
+
+A crafting audit confirmed all 24 patterns’ AP budgets, defensive stats, prices and crafting TNs. The cards now give each leg piece its own Knockback percentage, spell out the arm armor blocking tradeoff and distinguish built-in bonuses from the totals shown.
 
 All 24 patterns have illustrated item cards showing weight, slot, shop price, materials, crafting TN, AP, Durability, Absorption, Immobilization and Stealth. Each card opens that piece’s full stat block. You can also find individual patterns by name in rulebook search.
 
