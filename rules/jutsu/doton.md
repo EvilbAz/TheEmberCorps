@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/doton/"
 # Doton: Earth Style
 {:#doton-earth-style}
 
-Earth (Doton)
+Doton raises walls, breaks structures, and uses Stun and rough ground to hold enemies in place.
 
 On a boat or anywhere else without earth, most Doton techniques have nothing to work with. Some already supply their own material, like jutsu that have you spit up mud. Without earth, any Doton jutsu you use costs \+5 base Chakra to create the earth yourself.
 
@@ -243,16 +243,16 @@ Effects: The Immobilization penalty fades by 1 every 15 initiative counts. Someo
 
 <span class="jutsu-rank-badge">C-Rank</span>
 
-As implied up there, this can be used to protect anyone in range.
+A bank of mud rises between the attack and the person you want to shield.
 
 Chakra: 24  
 Range: 16  
 Speed: 8  
 Seal Speed: 8  
 Tags: Interrupt  
-Effects: You parry an attack with a \+3 bonus. Mud Flow Deflect may be used against any valid attack, even one not targeting you. Earth Shore Return can't be used against attacks originating 5 yards or less away from you and can only protect a single target.
+Effects: Parry with a +3 bonus to protect yourself or one target within Range. The attack must originate more than 5 yards from you.
 
-This works against elements that are weak to it up to A rank, elements that are strong to it up to C-rank, and all other Jutsu (including Taijutsu) up to B-rank. Fuuma Shuriken).
+This works against elements weak to Doton up to A-rank, strong against it up to C-rank, and other eligible attacks (including Taijutsu) up to B-rank.
 
 #### Dochuu Eigyo no Jutsu - Moving Underground as if Swimming Technique
 {:#dochuu-eigyo-no-jutsu-moving-underground-as-if-swimming-technique .jutsu-technique}
@@ -580,13 +580,17 @@ Effects: You create X (to a max of 3\) clones that can look like yourself or any
 A dragon-like head of rock, mud, and dirt rises up from the ground, its maw wide open. From said maw, it launches dozens of high-velocity projectiles of dense, chakra-infused earth\! While not as visually impressive as some techniques, Doryuudan is incredibly demanding upon its user--and incredibly devastating to its victims.
 
 Chakra: 40  
-Damage: 64d10  
+Damage: 48d10  
 Range: 60  
 Speed: 26  
 Seal Speed: 30  
 Special: Stun 10  
 Tags: Attack, Projectile, Blunt  
-Effects: Blocking reduces this technique's damage by only 25%.
+Effects: On a full hit against a target touching the ground, the ground within 3 yards of them becomes Rocky Terrain 3 for 20 IC.
+
+<span id="iwa-renda-no-jutsu-rock-barrage-technique"></span>
+
+If you already knew Rock Barrage, replace it with Earth Dragon Blast. If you already knew both, recover the XP you spent on Rock Barrage.
 
 #### Doton: Chidoukaku - Earth Release: Moving Earth Core
 {:#doton-chidoukaku-earth-release-moving-earth-core .jutsu-technique}
@@ -630,30 +634,14 @@ A creature that fully Dodges may choose to move to any edge of the Area rather t
 The user creates two monolithic walls up from the ground, destroying the environment for several hundred yards in either direction, and sends them at one another. As they approach each other, their momentum builds, starting off slow and ending with a collision that removes the third dimension from anything unlucky enough to be caught between them.
 
 Chakra: 45  
-Damage: 150d6  
+Damage: 90d6  
 Accuracy: \-10  
 Range: 100  
 Area: 80  
 Speed: 30, Delay 30  
 Seal Speed: 26  
+Special: Stun 12  
 Tags: Attack, AoE, Blunt  
-Effects: This technique cannot be parried and its damage is doubled for determining if it inflicts wounds. If (Heh, “If”) it does cause a wound, it also causes an extra wound of the next lower severity, two of the severity below that, and so forth. Thus, if it inflicted a Critical Wound, it would also inflict a Severe, two Majors, and three Minors.
-
-#### Iwa Renda no Jutsu - Rock Barrage Technique
-{:#iwa-renda-no-jutsu-rock-barrage-technique .jutsu-technique}
-
-<span class="jutsu-rank-badge">A-Rank</span>
-
-After performing the necessary seals, the user channels chakra into the rocks and stone around them. Their chakra causes large rocks to shatter into smaller ones, which are then launched as high-velocity projectiles towards potentially dozens of targets.
-
-Chakra: 38  
-Damage: (10 \+ 2\*X)d20  
-Accuracy: \+X/8  
-Range: 7 \* Base NDB  
-Speed: 30  
-Seal Speed: 26  
-Tags: Attack, Projectile, Blunt  
-Effects: You fire up to (base ninjutsu damage bonus) projectiles. You may target the same person multiple times with X being the number of projectiles at a single target.
-
+Effects: After the walls collide, the Area becomes Rocky Terrain 4 for 40 IC. Resolve defenses and Wounds normally.
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>

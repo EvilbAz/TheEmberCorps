@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/katon/"
 # Katon: Fire Style
 {:#katon-fire-style}
 
-Fire (Katon)
+Katon burns targets and keeps pressure on them. Ignite sets up follow-up attacks, and several techniques spread fire across a group.
 
 Katon jutsu won’t work while you’re completely submerged. You can submerge in an area with 1k+ Gallons if it can hold that much water, like a lake.
 
@@ -407,18 +407,15 @@ For example, if you had used Instant Cremation three times, you would have an Up
 
 <span class="jutsu-rank-badge">B-Rank</span>
 
-A rotating ring of flame catches incoming force and throws heat back outward.
+A ring of flame rolls out from your feet and flares where it meets a burning target.
 
 Chakra: 28  
-Damage: 8d10\!o\>8  
-Speed: 8  
+Damage: 22d10  
+Area: 5  
+Speed: 12  
 Seal Speed: 12  
-Tags: Interrupt, Katon, Energy  
-Effects:
-
-Parry an incoming damaging Melee or Projectile attack using Ninjutsu Accuracy. This works against elements neutral to Katon up to B-rank, weak to Katon up to A-rank, and strong against Katon only up to C-rank.
-
-On a full success, after the attack is stopped, the attacker takes the listed Base Damage if within 3 yards. This retaliation gains no Speed×NDB.
+Tags: Attack, AoE, Katon, Energy  
+Effects: Roll damage once. On a full hit against a target with Ignite, you may consume up to 5 of its Ignite severity. Add 12 damage per point consumed against that target. Decide separately for each target.
 
 #### Katon: Joushou Ootori - Fire Release: Rising Phoenix Blast
 {:#katon-joushou-ootori-fire-release-rising-phoenix-blast .jutsu-technique}

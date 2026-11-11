@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/fuuton/"
 # Fuuton: Wind Style
 {:#fuuton-wind-style}
 
-Wind (Fuuton)
+Fūton turns aside projectiles, clears the air, and pushes enemies out of position.
 
 Blocking reduces the damage of Wind techniques by only 25%.
 
@@ -308,7 +308,7 @@ Chakra: 14 \+ (X \* 3\)
 Speed: 8  
 Seal Speed: 8  
 Tags: Interrupt  
-Effects: This may be used to parry any ranged attack with a bonus depending on the element used (see below). X is 1 per the technique’s rank above D.
+Effects: Choose yourself or one ally within 5 yards as the protected target. This may be used to parry a ranged attack against that target with a bonus depending on the element used (see below). X is 1 per the technique’s rank above D.
 
 This works against elements that are weak to it up to A rank with a \+4 bonus, elements that are strong to it up to C-rank with no bonus, and all other Jutsu up to B-rank with a \+2 bonus.
 
@@ -460,13 +460,13 @@ Against ninjutsu-based defenses, Shinkuu Renpa is considered one rank higher, or
 The user exhales their breath as several small blasts of wind chakra, each not much larger than a marble but traveling at extreme speeds and possessing incredible penetrating power. Their small size can make them difficult to land a strong blow with, which is compensated for by dispersing them over a significant range.
 
 Chakra: 32  
-Damage: 11d6\*5  
+Damage: 9d6 × 5  
 Range: 30  
 Cube: 10  
 Speed: 21  
 Seal Speed: 20  
 Tags: Attack, AoE, Piercing  
-Effects: This jutsu gains \+75% wounding bonus. If someone Takes the Hit for Shinkuugyoku, whoever they were defending will still take 75% damage, so long as the defender received a Major or greater wound.
+Effects: On a full hit, push the target up to 5 yards directly away from you. Choose the distance separately for each target.
 
 ## A-Rank
 {:#a-rank-6 .jutsu-rank-heading}
@@ -500,7 +500,7 @@ Seal Speed: 25
 Tags: Attack, Blunt, Projectile, Fūton, Charge  
 Effects: Hold your breath while charging. For every full 2 IC charged, add one d12 to the starting pool of 2d12. Multiply the dice total by 5, then add double your normal NDB damage for a Speed 10 attack.
 
-At X ≥ 10, a full hit inflicts Knockback equal to X. At X ≥ 25, a target moved by this Knockback also falls Prone.
+At X ≥ 10, a full hit inflicts Knockback equal to X, up to Knockback 30. At X ≥ 25, a target moved by this Knockback also falls Prone.
 
 Reduce any Wound caused by Renkuudan by one category. A Major Wound becomes Minor, and a Minor Wound deals no Wound.
 
@@ -513,14 +513,14 @@ If the Vacuum Sphere technique can be considered a spray of wind-chakra bullets 
 In terms that ninja actually do understand, this creates a large sphere-shaped vacuum, which is then launched forwards. Anyone who comes in contact with the vacuum is sucked inside, and then either slammed against either the first solid object it encounters or just hit by what amounts to a wall of high-velocity air from every direction as the chakra in the technique dissipates and the technique collapses on them.
 
 Chakra: 45  
-Damage: 20d8\*5  
+Damage: 14d8 × 5  
 Accuracy: \+2  
 Line: 10, 30  
 Speed: 26  
 Seal Speed: 28  
-Special: Stun 10  
+Special: Knockback (see below)  
 Tags: Attack, AoE, Blunt, Fan  
-Effects: Enemies do not receive the benefit of partial defense against this jutsu. The severity of any wounds it inflicts is increased by one category (minor to major, severe to critical, and so forth) and anyone hit is pushed back to the far end of its range.
+Effects: On a full hit, push the target to the far end of the line. Obstacles stop this movement normally.
 
 #### Kaze no Yaiba - Blade of Wind
 {:#kaze-no-yaiba-blade-of-wind .jutsu-technique}
@@ -539,9 +539,7 @@ Speed: 18, \+4 if it hits
 Seal Speed: 27  
 Special: This technique receives only half your damage bonus  
 Tags: Attack, Melee, Slashing  
-Effects: This technique's damage cannot be blocked, and the effectiveness of an opponent's damage reduction is halved. If this technique hits, it may be used consecutively. If you do so, its Seal Speed is removed, and its Chakra cost is reduced to 30 whether or not it hits. However, each attack increases its Upkeep by 3\. Once you release this Upkeep, the blade dissipates.
-
-Kaze no Yaiba gains a \+50% wounding bonus.
+Effects: If the attack hits, you may use it consecutively. Each consecutive attack skips the handseals, costs 30 Chakra hit or miss, and increases the Upkeep by 3. When you release the Upkeep, the blade dissipates.
 
 #### Okamaitachi no Jutsu - Scything Wind Technique
 {:#okamaitachi-no-jutsu-scything-wind-technique .jutsu-technique}
@@ -553,14 +551,12 @@ Almost always used with a fan, this technique creates a vast number of heavy air
 As effective as this technique is, slicing and smashing anything short of fortified stonework, it can be somewhat unreliable, as there's an element of chance about just how many different ways a victim will be shredded.
 
 Chakra: 42  
-Damage: 7d10\*8  
+Damage: 5d10 × 8  
 Range: 40  
 Speed: 26  
 Seal Speed: 28  
 Tags: Attack, Projectile, Slashing, Fan  
-Effects: This may target any number of people within range, and for the purposes of evading is considered to have an Area equal to its Range.
-
-Scything Wind gains a \+50% wounding bonus.
+Effects: Choose up to three targets within Range. Resolve each as a Projectile attack using the same Accuracy and damage rolls. On a full hit, you may push that target up to 5 yards directly away from you.
 
 #### Fuuton: Rasenshuriken - Wind Release: Rasenshuriken
 {:#fuuton-rasenshuriken-wind-release-rasenshuriken .jutsu-technique}

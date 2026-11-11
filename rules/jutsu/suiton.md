@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/suiton/"
 # Suiton: Water Style
 {:#suiton-water-style}
 
-Water (Suiton)
+Suiton protects allies, controls movement, and leaves water behind for later techniques.
 
 Suiton needs water. A lake, a river or the water beneath a boat can supply it. A small stream won’t do.
 
@@ -324,7 +324,7 @@ Seal Speed: 10
 Tags: Attack, AoE, Blunt  
 Effects: This technique adds 5 gallons of water to the battlefield every time it's used.
 
-#### Suiton: Suijinheki - Water Formation Pillar
+#### Suiton: Suijinchū - Water Formation Pillar
 {:#suiton-suijinheki-water-formation-pillar .jutsu-technique}
 
 <span class="jutsu-rank-badge">C-Rank</span>
@@ -337,7 +337,7 @@ Seal Speed: 12
 Tags: Interrupt, Barrier, Suiton  
 Effects:
 
-Make a Ninjutsu Parry against a damaging Melee, Projectile, or AoE attack. On full success, protect only yourself unless the technique's Area explicitly fits behind the wall.
+Make a Ninjutsu Parry against a damaging Melee, Projectile, or AoE attack. On full success, protect yourself. The pillar only shields its user.
 
 On success, add 10 gallons of water to your location after resolution. Against Raiton, suffer \-2 to the Parry.
 
@@ -535,12 +535,12 @@ On success the attack is negated and the mirror breaks. If you beat the attack b
 This technique shapes a large amount of water into a giant, dragon-shaped projectile which seeks out and crashes into whoever you direct it at. What it lacks for in complexity, it makes up for by being a highly effective tool in any Suiton using shinobi's arsenal.
 
 Chakra: 16 \+ G  
-Damage: 20d6 \+ G\*10 \+ 15  
+Damage: 16d6 + G×5 + 15  
 Range: 50  
 Speed: 18  
 Seal Speed: 23  
 Gallons Requirement: 10 \> 20  
-Special: Stun 10
+Special: Knockback G/2 (round down)
 
 Tags: Attack, Projectile, Blunt
 
@@ -608,15 +608,15 @@ This is one of the most powerful water ninjutsu in existence; once the appropria
 Long ago, exceptionally skilled shinobi were able to fill their impromptu waterfall with all manner of weapons, which were propelled within the wave at incredible speeds. This had the effect of making it an almost inevitably deadly technique that would leave pools of blood mixed in with the water. However, use of that aspect of the technique was forbidden due to its unbelievable power, and as peace settled across the lands the secret of how to do that was lost.
 
 Chakra: 30 \+ G/2  
-Damage: G\*10 \+ 30  
+Damage: G×6 + 30  
 Line: 20, 80  
 Speed: 24  
 Seal Speed: 28  
-Special: Stun 14  
+Special: Knockback G  
 Gallons Requirement: 20 \> 40
 
 Tags: Attack, AoE, Blunt  
-Effects: This Technique pushes any targets hit with a Knockback of G.
+Effects: The wave pushes targets it hits away from you along its line.
 
 #### Suiton: Daikoudan - Water Release: Great Shark Blast
 {:#suiton-daikoudan-water-release-great-shark-blast .jutsu-technique}
@@ -626,7 +626,7 @@ Effects: This Technique pushes any targets hit with a Knockback of G.
 This creates an enormous shark out of water and sends it crashing across the battlefield at whichever party has offended the user sufficiently for them to feel the need to do so. Aside from impacting its primary target, the shark is massive enough to cause significant collateral damage. The technique's true secret, however, is its ability to absorb any chakra it comes in contact with and use that energy to further empower itself.
 
 Chakra: 30 \+ G/2  
-Damage: 18d20 \+ G\*8 \+ 20  
+Damage: 16d20 + G×5 + 20  
 Line: 5, 60  
 Speed: 20  
 Seal Speed: 26  
@@ -635,9 +635,9 @@ Gallons Requirement: 12 \> 30
 Tags: Attack, Interrupt, Projectile, AoE, Blunt  
 Effects: As an interrupt this technique's Seal Speed is reduced by 10, its Chakra cost is increased by 10 and can only target the attacker.
 
-Daikoudan may be used to Interrupt techniques so long as its Speed is equal to or less than theirs, but can only Interrupt Projectile Attacks. Compare the damage of these attacks with Jutsu weak to it reduced by 25%, and Jutsu strong against it increased by 25%. If the incoming attack does more damage, you are hit by it, but it has its damage reduced by your damage. If Daikoudan's damage is greater, it becomes an attack against the opponent with any Accuracy bonuses (but not penalties) of the attack it countered.
+Use Great Shark Blast to Interrupt a Projectile Attack whose Speed is at least this technique’s Speed. For the comparison, reduce the incoming damage by 25% if its element is weak to Suiton, or increase it by 25% if strong against Suiton. Roll the shark’s damage once. Add 5×G to that roll when stopping the projectile.
 
-Similarly, if a ninjutsu-based defense is used against Daikoudan, and fails to stop it completely, it does full damage (bypassing even partial defense).
+If the incoming damage is higher, take the difference. On a tie, both attacks end. If the shark wins, the attacker defends against its original damage roll, using any Accuracy bonuses from the interrupted attack. Resolve that defense normally.
 
 #### Suiton: Suiryuuben - Water Release: Water Hydra Whip
 {:#suiton-suiryuuben-water-release-water-hydra-whip .jutsu-technique}

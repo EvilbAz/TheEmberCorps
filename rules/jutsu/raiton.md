@@ -13,7 +13,7 @@ permalink: "/rules/jutsu/raiton/"
 # Raiton: Lightning Style
 {:#raiton-lightning-style}
 
-Lightning (Raiton)
+Raiton closes distance, inflicts Paralysis, and rewards striking while an opponent is impaired.
 
 Raiton uses chakra to make lightning. Hitting water only shocks the people touching it if the jutsu says it does. Other properties of ordinary electricity also depend on the technique.
 
@@ -238,17 +238,16 @@ Effects: Even if the target succeeds on their Status Check they gain Paralysis 2
 
 <span class="jutsu-rank-badge">C-Rank</span>
 
-Named after the legendary lightning style user who created it, this technique distributes a powerful electric charge in a box shape around them. This defense begins relatively weak compared to similar techniques but grows in strength with repeated use.
+Named after the legendary lightning style user who created it, this technique distributes a powerful electric charge in a box shape around them. The cage snaps shut as an attack comes in.
 
-Chakra: 16 \+ 2\*X  
-Upkeep: X  
+Chakra: 18  
 Speed: 8  
 Seal Speed: 8
 
 Tags: Interrupt  
-Effects: You parry an incoming attack with a X\*2 Bonus. X begins at 1 and increases by 1 for every time you cast this jutsu to a max of 4\. X resets after you move more than 5 Yards from where you first used it, use any jutsu beside a lightning technique, or take an interrupt besides this one.
+Effects: Parry with Ninjutsu Accuracy. Gain +2 if the attacker has Raiton-induced Paralysis. On a full success, you may move up to 3 yards after the attack resolves, following normal movement restrictions.
 
-This works against elements that are weak to it up to A rank, elements that are strong to it up to C-rank, and all other Jutsu, up to B-rank.
+This works against elements weak to Raiton up to A-rank, strong against it up to C-rank, and other eligible attacks up to B-rank.
 
 #### Kangekiha - Wave of Inspiration
 {:#kangekiha-wave-of-inspiration .jutsu-technique}
@@ -301,13 +300,9 @@ Area: CHA
 Speed: 13  
 Seal Speed: 22  
 Tags: Utility, AoE, Self, Environmental  
-Effects: So long as you maintain this Jutsu's upkeep, you are afflicted by Immobility 10, which can not be reduced or removed by any means.  You can not end this Jutsu like normal; you must take a Speed 10, Delay 5 action to end this Jutsu's Upkeep. No actions can be performed so long as the Upkeep is maintained. Moving somehow or being forcibly moved causes this Jutsu to end.
+Effects: While you maintain the field, electronics and magnetized compasses inside it stop working. Chakra-based sensing inside the field takes −10 to Awareness and Chakra Control checks made to detect a creature. This affects allies and enemies alike.
 
-Within the field, all chakra-based sensing (such as Byakugan's vision, chakra-sensory ninja, and the Yurokensei technique) receive \-10 to Awareness and Chakra Control. Electronic and electrical devices in this area are also useless (Including a magnetized compass made using Raiton).
-
-The damping also interferes with other lightning-based chakra, reducing the damage of all Raiton in its range to 50%.
-
-Finally, the large amounts of ambient lightning chakra interferes with earth-based chakra. Doton techniques in this area have their damage reduced by 40%, and their Chakra costs and Upkeeps (if relevant) increased by 6\.
+You must remain stationary. You may end the field by dropping its Upkeep. If you move or are moved, the field ends.
 
 #### Shougeki Ken - Shocking Fist
 {:#shougeki-ken-shocking-fist .jutsu-technique}
@@ -618,18 +613,14 @@ After resolving, end 2 Severity of Raiton-induced Paralysis on the target as the
 A refined Chidori concentrates more of the current into a smaller, cleaner killing edge.
 
 Chakra: 42  
-Damage: 52d10  
-Accuracy: \-2  
+Damage: 50d10  
+Accuracy: +1  
 Range: Melee  
-Speed: 18  
-Seal Speed: 22  
+Speed: 12  
+Seal Speed: 14  
 Special: Paralysis 4 for 25 IC  
 Tags: Attack, Melee, Piercing, Energy, Raiton  
-Effects:
-
-Requires Chidori. Ignore 25% DR and 25% Armor effectiveness.
-
-After resolving, increase Chakra penalty by 2\. This penalty is applied even if the Attack misses.
+Effects: Requires Chidori. Ignore 50% of both Damage Reduction and Armor effectiveness for this attack.
 
 #### Raitama - Ball Lightning
 {:#raitama-ball-lightning .jutsu-technique}

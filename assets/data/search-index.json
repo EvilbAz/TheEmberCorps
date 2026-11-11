@@ -11092,7 +11092,7 @@
     "volume": "Doton · Earth",
     "number": "IV",
     "url": "/rules/jutsu/doton/#doton-earth-style",
-    "text": "Earth (Doton) On a boat or anywhere else without earth, most Doton techniques have nothing to work with. Some already supply their own material, like jutsu that have you spit up mud. Without earth, any Doton jutsu you use costs +5 base Chakra to create the earth yourself."
+    "text": "Doton raises walls, breaks structures, and uses Stun and rough ground to hold enemies in place. On a boat or anywhere else without earth, most Doton techniques have nothing to work with. Some already supply their own material, like jutsu that have you spit up mud. Without earth, any Doton jutsu you use costs +5 base Chakra to create the earth yourself."
   },
   {
     "title": "E-Rank",
@@ -11211,7 +11211,7 @@
     "volume": "Doton · Earth",
     "number": "IV",
     "url": "/rules/jutsu/doton/#deiryu-no-henko-mud-flow-deflect",
-    "text": "C-Rank As implied up there, this can be used to protect anyone in range. Chakra: 24 Range: 16 Speed: 8 Seal Speed: 8 Tags: Interrupt Effects: You parry an attack with a +3 bonus. Mud Flow Deflect may be used against any valid attack, even one not targeting you. Earth Shore Return can't be used against attacks originating 5 yards or less away from you and can only protect a single target. This works against elements that are weak to it up to A rank, elements that are strong to it up to C-rank, and all other Jutsu (including Taijutsu) up to B-rank. Fuuma Shuriken)."
+    "text": "C-Rank A bank of mud rises between the attack and the person you want to shield. Chakra: 24 Range: 16 Speed: 8 Seal Speed: 8 Tags: Interrupt Effects: Parry with a +3 bonus to protect yourself or one target within Range. The attack must originate more than 5 yards from you. This works against elements weak to Doton up to A-rank, strong against it up to C-rank, and other eligible attacks (including Taijutsu) up to B-rank."
   },
   {
     "title": "Dochuu Eigyo no Jutsu - Moving Underground as if Swimming Technique",
@@ -11365,7 +11365,14 @@
     "volume": "Doton · Earth",
     "number": "IV",
     "url": "/rules/jutsu/doton/#doryuudan-earth-dragon-blast",
-    "text": "A-Rank A dragon-like head of rock, mud, and dirt rises up from the ground, its maw wide open. From said maw, it launches dozens of high-velocity projectiles of dense, chakra-infused earth! While not as visually impressive as some techniques, Doryuudan is incredibly demanding upon its user--and incredibly devastating to its victims. Chakra: 40 Damage: 64d10 Range: 60 Speed: 26 Seal Speed: 30 Special: Stun 10 Tags: Attack, Projectile, Blunt Effects: Blocking reduces this technique's damage by only 25%."
+    "text": "A-Rank A dragon-like head of rock, mud, and dirt rises up from the ground, its maw wide open. From said maw, it launches dozens of high-velocity projectiles of dense, chakra-infused earth! While not as visually impressive as some techniques, Doryuudan is incredibly demanding upon its user--and incredibly devastating to its victims. Chakra: 40 Damage: 48d10 Range: 60 Speed: 26 Seal Speed: 30 Special: Stun 10 Tags: Attack, Projectile, Blunt Effects: On a full hit against a target touching the ground, the ground within 3 yards of them becomes Rocky Terrain 3 for 20 IC."
+  },
+  {
+    "title": "Iwa Renda No Jutsu Rock Barrage Technique",
+    "volume": "Doton · Earth",
+    "number": "IV",
+    "url": "/rules/jutsu/doton/#iwa-renda-no-jutsu-rock-barrage-technique",
+    "text": "If you already knew Rock Barrage, replace it with Earth Dragon Blast. If you already knew both, recover the XP you spent on Rock Barrage."
   },
   {
     "title": "Doton: Chidoukaku - Earth Release: Moving Earth Core",
@@ -11386,14 +11393,7 @@
     "volume": "Doton · Earth",
     "number": "IV",
     "url": "/rules/jutsu/doton/#doton-sando-no-jutsu-earth-release-mountain-earth-technique",
-    "text": "A-Rank The user creates two monolithic walls up from the ground, destroying the environment for several hundred yards in either direction, and sends them at one another. As they approach each other, their momentum builds, starting off slow and ending with a collision that removes the third dimension from anything unlucky enough to be caught between them. Chakra: 45 Damage: 150d6 Accuracy: -10 Range: 100 Area: 80 Speed: 30, Delay 30 Seal Speed: 26 Tags: Attack, AoE, Blunt Effects: This technique cannot be parried and its damage is doubled for determining if it inflicts wounds. If (Heh, “If”) it does cause a wound, it also causes an extra wound of the next lower severity, two of the severity below that, and so forth. Thus, if it inflicted a Critical Wound, it would also inflict a Severe, two Majors, and three Minors."
-  },
-  {
-    "title": "Iwa Renda no Jutsu - Rock Barrage Technique",
-    "volume": "Doton · Earth",
-    "number": "IV",
-    "url": "/rules/jutsu/doton/#iwa-renda-no-jutsu-rock-barrage-technique",
-    "text": "A-Rank After performing the necessary seals, the user channels chakra into the rocks and stone around them. Their chakra causes large rocks to shatter into smaller ones, which are then launched as high-velocity projectiles towards potentially dozens of targets. Chakra: 38 Damage: (10 + 2X)d20 Accuracy: +X/8 Range: 7 Base NDB Speed: 30 Seal Speed: 26 Tags: Attack, Projectile, Blunt Effects: You fire up to (base ninjutsu damage bonus) projectiles. You may target the same person multiple times with X being the number of projectiles at a single target. ← ALL JUTSU TYPES"
+    "text": "A-Rank The user creates two monolithic walls up from the ground, destroying the environment for several hundred yards in either direction, and sends them at one another. As they approach each other, their momentum builds, starting off slow and ending with a collision that removes the third dimension from anything unlucky enough to be caught between them. Chakra: 45 Damage: 90d6 Accuracy: -10 Range: 100 Area: 80 Speed: 30, Delay 30 Seal Speed: 26 Special: Stun 12 Tags: Attack, AoE, Blunt Effects: After the walls collide, the Area becomes Rocky Terrain 4 for 40 IC. Resolve defenses and Wounds normally. ← ALL JUTSU TYPES"
   },
   {
     "title": "Dual Bukijutsu",
@@ -12674,7 +12674,7 @@
     "volume": "Fūton · Wind",
     "number": "IV",
     "url": "/rules/jutsu/fuuton/#fuuton-wind-style",
-    "text": "Wind (Fuuton) Blocking reduces the damage of Wind techniques by only 25%. For a jutsu with the Fan tag, a hand holding a fan counts as free when you determine Seal Speed. You get your full Seal Speed whether you’re wielding 1 fan or 2. Oh and if there’s no air or any gasses around (Even water has air in it), then you can’t use Fuuton, but… If you’re in a situation like that then you probably have bigger problems to worry about."
+    "text": "Fūton turns aside projectiles, clears the air, and pushes enemies out of position. Blocking reduces the damage of Wind techniques by only 25%. For a jutsu with the Fan tag, a hand holding a fan counts as free when you determine Seal Speed. You get your full Seal Speed whether you’re wielding 1 fan or 2. Oh and if there’s no air or any gasses around (Even water has air in it), then you can’t use Fuuton, but… If you’re in a situation like that then you probably have bigger problems to worry about."
   },
   {
     "title": "E-Rank",
@@ -12821,7 +12821,7 @@
     "volume": "Fūton · Wind",
     "number": "IV",
     "url": "/rules/jutsu/fuuton/#kazekame-kaigara-no-jutsu-wind-turtle-s-shell-technique",
-    "text": "C-Rank The technique creates a rotating dome of wind around the user, chakra-infused air moving quickly enough to blur the image of the person inside, and deflect many incoming attacks. However, the technique is a far cry from being a true absolute defense. Chakra: 14 + (X 3) Speed: 8 Seal Speed: 8 Tags: Interrupt Effects: This may be used to parry any ranged attack with a bonus depending on the element used (see below). X is 1 per the technique’s rank above D. This works against elements that are weak to it up to A rank with a +4 bonus, elements that are strong to it up to C-rank with no bonus, and all other Jutsu up to B-rank with a +2 bonus."
+    "text": "C-Rank The technique creates a rotating dome of wind around the user, chakra-infused air moving quickly enough to blur the image of the person inside, and deflect many incoming attacks. However, the technique is a far cry from being a true absolute defense. Chakra: 14 + (X 3) Speed: 8 Seal Speed: 8 Tags: Interrupt Effects: Choose yourself or one ally within 5 yards as the protected target. This may be used to parry a ranged attack against that target with a bonus depending on the element used (see below). X is 1 per the technique’s rank above D. This works against elements that are weak to it up to A rank with a +4 bonus, elements that are strong to it up to C-rank with no bonus, and all other Jutsu up to B-rank with a +2 bonus."
   },
   {
     "title": "Tobu Choyaku no Jutsu - Vaulting Leap Technique",
@@ -12891,7 +12891,7 @@
     "volume": "Fūton · Wind",
     "number": "IV",
     "url": "/rules/jutsu/fuuton/#fuuton-shinkuugyoku-wind-release-vacuum-sphere",
-    "text": "B-Rank The user exhales their breath as several small blasts of wind chakra, each not much larger than a marble but traveling at extreme speeds and possessing incredible penetrating power. Their small size can make them difficult to land a strong blow with, which is compensated for by dispersing them over a significant range. Chakra: 32 Damage: 11d65 Range: 30 Cube: 10 Speed: 21 Seal Speed: 20 Tags: Attack, AoE, Piercing Effects: This jutsu gains +75% wounding bonus. If someone Takes the Hit for Shinkuugyoku, whoever they were defending will still take 75% damage, so long as the defender received a Major or greater wound."
+    "text": "B-Rank The user exhales their breath as several small blasts of wind chakra, each not much larger than a marble but traveling at extreme speeds and possessing incredible penetrating power. Their small size can make them difficult to land a strong blow with, which is compensated for by dispersing them over a significant range. Chakra: 32 Damage: 9d6 × 5 Range: 30 Cube: 10 Speed: 21 Seal Speed: 20 Tags: Attack, AoE, Piercing Effects: On a full hit, push the target up to 5 yards directly away from you. Choose the distance separately for each target."
   },
   {
     "title": "A-Rank",
@@ -12912,28 +12912,28 @@
     "volume": "Fūton · Wind",
     "number": "IV",
     "url": "/rules/jutsu/fuuton/#renkuudan-compressed-air-blast",
-    "text": "A-Rank A Sand technique said to come from a monster that terrorized the country more than 150 years ago. You draw a deep breath, compress the air in your lungs with chakra, and spit it out in a single blast. Chakra: 35 + X/5 Damage: (2 + X/2)d12 × 5 Accuracy: +X/5 Range: 30 + X Speed: 10 Seal Speed: 25 Tags: Attack, Blunt, Projectile, Fūton, Charge Effects: Hold your breath while charging. For every full 2 IC charged, add one d12 to the starting pool of 2d12. Multiply the dice total by 5, then add double your normal NDB damage for a Speed 10 attack. At X ≥ 10, a full hit inflicts Knockback equal to X. At X ≥ 25, a target moved by this Knockback also falls Prone. Reduce any Wound caused by Renkuudan by one category. A Major Wound becomes Minor, and a Minor Wound deals no Wound."
+    "text": "A-Rank A Sand technique said to come from a monster that terrorized the country more than 150 years ago. You draw a deep breath, compress the air in your lungs with chakra, and spit it out in a single blast. Chakra: 35 + X/5 Damage: (2 + X/2)d12 × 5 Accuracy: +X/5 Range: 30 + X Speed: 10 Seal Speed: 25 Tags: Attack, Blunt, Projectile, Fūton, Charge Effects: Hold your breath while charging. For every full 2 IC charged, add one d12 to the starting pool of 2d12. Multiply the dice total by 5, then add double your normal NDB damage for a Speed 10 attack. At X ≥ 10, a full hit inflicts Knockback equal to X, up to Knockback 30. At X ≥ 25, a target moved by this Knockback also falls Prone. Reduce any Wound caused by Renkuudan by one category. A Major Wound becomes Minor, and a Minor Wound deals no Wound."
   },
   {
     "title": "Fuuton: Shinkuu Taigyoku - Wind Release: Vacuum Great Sphere",
     "volume": "Fūton · Wind",
     "number": "IV",
     "url": "/rules/jutsu/fuuton/#fuuton-shinkuu-taigyoku-wind-release-vacuum-great-sphere",
-    "text": "A-Rank If the Vacuum Sphere technique can be considered a spray of wind-chakra bullets (not that ninja actually know what such things are!), then the Great Vacuum Sphere is a gigantic wind-chakra cannon ball. In terms that ninja actually do understand, this creates a large sphere-shaped vacuum, which is then launched forwards. Anyone who comes in contact with the vacuum is sucked inside, and then either slammed against either the first solid object it encounters or just hit by what amounts to a wall of high-velocity air from every direction as the chakra in the technique dissipates and the technique collapses on them. Chakra: 45 Damage: 20d85 Accuracy: +2 Line: 10, 30 Speed: 26 Seal Speed: 28 Special: Stun 10 Tags: Attack, AoE, Blunt, Fan Effects: Enemies do not receive the benefit of partial defense against this jutsu. The severity of any wounds it inflicts is increased by one category (minor to major, severe to critical, and so forth) and anyone hit is pushed back to the far end of its range."
+    "text": "A-Rank If the Vacuum Sphere technique can be considered a spray of wind-chakra bullets (not that ninja actually know what such things are!), then the Great Vacuum Sphere is a gigantic wind-chakra cannon ball. In terms that ninja actually do understand, this creates a large sphere-shaped vacuum, which is then launched forwards. Anyone who comes in contact with the vacuum is sucked inside, and then either slammed against either the first solid object it encounters or just hit by what amounts to a wall of high-velocity air from every direction as the chakra in the technique dissipates and the technique collapses on them. Chakra: 45 Damage: 14d8 × 5 Accuracy: +2 Line: 10, 30 Speed: 26 Seal Speed: 28 Special: Knockback (see below) Tags: Attack, AoE, Blunt, Fan Effects: On a full hit, push the target to the far end of the line. Obstacles stop this movement normally."
   },
   {
     "title": "Kaze no Yaiba - Blade of Wind",
     "volume": "Fūton · Wind",
     "number": "IV",
     "url": "/rules/jutsu/fuuton/#kaze-no-yaiba-blade-of-wind",
-    "text": "A-Rank A concentrated blade of wind cuts at close range. The demanding technique has seen limited use among Sunagakure’s ANBU. The user emits chakra from their fingertips, forming a virtually invisible \"sword\" of intense, high-speed winds, which lasts just long enough to make a single attack with. This technique leaves very distinctive wounds, deep slashes with hundreds of miniscule tears at the edges. Chakra: 25, +15 if it hits Upkeep: 0 Damage: 4d1210 Accuracy: +4 Speed: 18, +4 if it hits Seal Speed: 27 Special: This technique receives only half your damage bonus Tags: Attack, Melee, Slashing Effects: This technique's damage cannot be blocked, and the effectiveness of an opponent's damage reduction is halved. If this technique hits, it may be used consecutively. If you do so, its Seal Speed is removed, and its Chakra cost is reduced to 30 whether or not it hits. However, each attack increases its Upkeep by 3. Once you release this Upkeep, the blade dissipates. Kaze no Yaiba gains a +50% wounding bonus."
+    "text": "A-Rank A concentrated blade of wind cuts at close range. The demanding technique has seen limited use among Sunagakure’s ANBU. The user emits chakra from their fingertips, forming a virtually invisible \"sword\" of intense, high-speed winds, which lasts just long enough to make a single attack with. This technique leaves very distinctive wounds, deep slashes with hundreds of miniscule tears at the edges. Chakra: 25, +15 if it hits Upkeep: 0 Damage: 4d1210 Accuracy: +4 Speed: 18, +4 if it hits Seal Speed: 27 Special: This technique receives only half your damage bonus Tags: Attack, Melee, Slashing Effects: If the attack hits, you may use it consecutively. Each consecutive attack skips the handseals, costs 30 Chakra hit or miss, and increases the Upkeep by 3. When you release the Upkeep, the blade dissipates."
   },
   {
     "title": "Okamaitachi no Jutsu - Scything Wind Technique",
     "volume": "Fūton · Wind",
     "number": "IV",
     "url": "/rules/jutsu/fuuton/#okamaitachi-no-jutsu-scything-wind-technique",
-    "text": "A-Rank Almost always used with a fan, this technique creates a vast number of heavy air currents and vacuum pockets, varying greatly in speed, width, and angle, with their integrity maintained by chakra. Where they intersect, the crossing currents tear apart anything unfortunate enough to be in their way. As effective as this technique is, slicing and smashing anything short of fortified stonework, it can be somewhat unreliable, as there's an element of chance about just how many different ways a victim will be shredded. Chakra: 42 Damage: 7d108 Range: 40 Speed: 26 Seal Speed: 28 Tags: Attack, Projectile, Slashing, Fan Effects: This may target any number of people within range, and for the purposes of evading is considered to have an Area equal to its Range. Scything Wind gains a +50% wounding bonus."
+    "text": "A-Rank Almost always used with a fan, this technique creates a vast number of heavy air currents and vacuum pockets, varying greatly in speed, width, and angle, with their integrity maintained by chakra. Where they intersect, the crossing currents tear apart anything unfortunate enough to be in their way. As effective as this technique is, slicing and smashing anything short of fortified stonework, it can be somewhat unreliable, as there's an element of chance about just how many different ways a victim will be shredded. Chakra: 42 Damage: 5d10 × 8 Range: 40 Speed: 26 Seal Speed: 28 Tags: Attack, Projectile, Slashing, Fan Effects: Choose up to three targets within Range. Resolve each as a Projectile attack using the same Accuracy and damage rolls. On a full hit, you may push that target up to 5 yards directly away from you."
   },
   {
     "title": "Fuuton: Rasenshuriken - Wind Release: Rasenshuriken",
@@ -13801,7 +13801,7 @@
     "volume": "Katon · Fire",
     "number": "IV",
     "url": "/rules/jutsu/katon/#katon-fire-style",
-    "text": "Fire (Katon) Katon jutsu won’t work while you’re completely submerged. You can submerge in an area with 1k+ Gallons if it can hold that much water, like a lake. Exploding Dice Katon jutsu often have !o>X this is called exploding dice and causes an additional roll whenever a target number is met. [[6d8!\\ Rolls six 8-sided dice, exploding any die that lands on a 2 or 1 [[6d8!>2]] => Rolls six 8-sided dice, exploding any die that lands on a 2 thru 8"
+    "text": "Katon burns targets and keeps pressure on them. Ignite sets up follow-up attacks, and several techniques spread fire across a group. Katon jutsu won’t work while you’re completely submerged. You can submerge in an area with 1k+ Gallons if it can hold that much water, like a lake. Exploding Dice Katon jutsu often have !o>X this is called exploding dice and causes an additional roll whenever a target number is met. [[6d8!\\ Rolls six 8-sided dice, exploding any die that lands on a 2 or 1 [[6d8!>2]] => Rolls six 8-sided dice, exploding any die that lands on a 2 thru 8"
   },
   {
     "title": "E-Rank",
@@ -13990,7 +13990,7 @@
     "volume": "Katon · Fire",
     "number": "IV",
     "url": "/rules/jutsu/katon/#katon-enrin-flame-whorl",
-    "text": "B-Rank A rotating ring of flame catches incoming force and throws heat back outward. Chakra: 28 Damage: 8d10!o>8 Speed: 8 Seal Speed: 12 Tags: Interrupt, Katon, Energy Effects: Parry an incoming damaging Melee or Projectile attack using Ninjutsu Accuracy. This works against elements neutral to Katon up to B-rank, weak to Katon up to A-rank, and strong against Katon only up to C-rank. On a full success, after the attack is stopped, the attacker takes the listed Base Damage if within 3 yards. This retaliation gains no Speed×NDB."
+    "text": "B-Rank A ring of flame rolls out from your feet and flares where it meets a burning target. Chakra: 28 Damage: 22d10 Area: 5 Speed: 12 Seal Speed: 12 Tags: Attack, AoE, Katon, Energy Effects: Roll damage once. On a full hit against a target with Ignite, you may consume up to 5 of its Ignite severity. Add 12 damage per point consumed against that target. Decide separately for each target."
   },
   {
     "title": "Katon: Joushou Ootori - Fire Release: Rising Phoenix Blast",
@@ -15201,7 +15201,7 @@
     "volume": "Raiton · Lightning",
     "number": "IV",
     "url": "/rules/jutsu/raiton/#raiton-lightning-style",
-    "text": "Lightning (Raiton) Raiton uses chakra to make lightning. Hitting water only shocks the people touching it if the jutsu says it does. Other properties of ordinary electricity also depend on the technique."
+    "text": "Raiton closes distance, inflicts Paralysis, and rewards striking while an opponent is impaired. Raiton uses chakra to make lightning. Hitting water only shocks the people touching it if the jutsu says it does. Other properties of ordinary electricity also depend on the technique."
   },
   {
     "title": "E-Rank",
@@ -15320,7 +15320,7 @@
     "volume": "Raiton · Lightning",
     "number": "IV",
     "url": "/rules/jutsu/raiton/#faraday-keji-no-jutsu-faraday-cage-technique",
-    "text": "C-Rank Named after the legendary lightning style user who created it, this technique distributes a powerful electric charge in a box shape around them. This defense begins relatively weak compared to similar techniques but grows in strength with repeated use. Chakra: 16 + 2X Upkeep: X Speed: 8 Seal Speed: 8 Tags: Interrupt Effects: You parry an incoming attack with a X2 Bonus. X begins at 1 and increases by 1 for every time you cast this jutsu to a max of 4. X resets after you move more than 5 Yards from where you first used it, use any jutsu beside a lightning technique, or take an interrupt besides this one. This works against elements that are weak to it up to A rank, elements that are strong to it up to C-rank, and all other Jutsu, up to B-rank."
+    "text": "C-Rank Named after the legendary lightning style user who created it, this technique distributes a powerful electric charge in a box shape around them. The cage snaps shut as an attack comes in. Chakra: 18 Speed: 8 Seal Speed: 8 Tags: Interrupt Effects: Parry with Ninjutsu Accuracy. Gain +2 if the attacker has Raiton-induced Paralysis. On a full success, you may move up to 3 yards after the attack resolves, following normal movement restrictions. This works against elements weak to Raiton up to A-rank, strong against it up to C-rank, and other eligible attacks up to B-rank."
   },
   {
     "title": "Kangekiha - Wave of Inspiration",
@@ -15341,7 +15341,7 @@
     "volume": "Raiton · Lightning",
     "number": "IV",
     "url": "/rules/jutsu/raiton/#shimeshi-ryouiki-dampening-field",
-    "text": "C-Rank Concentrating your chakra, you project an invisible, wide area dome of chakra. Maintaining its stability requires you to stay practically immobile at its center, but the effects are virtually impossible to circumvent without finding the originator. Anyone who enters the field will instantly notice its presence--their hair will start to stand on end, and most objects will begin building a static charge. Chakra: 20 Upkeep: 6 Area: CHA Speed: 13 Seal Speed: 22 Tags: Utility, AoE, Self, Environmental Effects: So long as you maintain this Jutsu's upkeep, you are afflicted by Immobility 10, which can not be reduced or removed by any means. You can not end this Jutsu like normal; you must take a Speed 10, Delay 5 action to end this Jutsu's Upkeep. No actions can be performed so long as the Upkeep is maintained. Moving somehow or being forcibly moved causes this Jutsu to end. Within the field, all chakra-based sensing (such as Byakugan's vision, chakra-sensory ninja, and the Yurokensei technique) receive -10 to Awareness and Chakra Control. Electronic and electrical devices in this area are also useless (Including a magnetized compass made using Raiton). The damping also interferes with other lightning-based chakra, reducing the damage of all Raiton in its range to 50%. Finally, the large amounts of ambient lightning chakra interferes with earth-based chakra. Doton techniques in this area have their damage reduced by 40%, and their Chakra costs and Upkeeps (if relevant) increased by 6."
+    "text": "C-Rank Concentrating your chakra, you project an invisible, wide area dome of chakra. Maintaining its stability requires you to stay practically immobile at its center, but the effects are virtually impossible to circumvent without finding the originator. Anyone who enters the field will instantly notice its presence--their hair will start to stand on end, and most objects will begin building a static charge. Chakra: 20 Upkeep: 6 Area: CHA Speed: 13 Seal Speed: 22 Tags: Utility, AoE, Self, Environmental Effects: While you maintain the field, electronics and magnetized compasses inside it stop working. Chakra-based sensing inside the field takes −10 to Awareness and Chakra Control checks made to detect a creature. This affects allies and enemies alike. You must remain stationary. You may end the field by dropping its Upkeep. If you move or are moved, the field ends."
   },
   {
     "title": "Shougeki Ken - Shocking Fist",
@@ -15467,7 +15467,7 @@
     "volume": "Raiton · Lightning",
     "number": "IV",
     "url": "/rules/jutsu/raiton/#raikiri-lightning-cutter",
-    "text": "A-Rank A refined Chidori concentrates more of the current into a smaller, cleaner killing edge. Chakra: 42 Damage: 52d10 Accuracy: -2 Range: Melee Speed: 18 Seal Speed: 22 Special: Paralysis 4 for 25 IC Tags: Attack, Melee, Piercing, Energy, Raiton Effects: Requires Chidori. Ignore 25% DR and 25% Armor effectiveness. After resolving, increase Chakra penalty by 2. This penalty is applied even if the Attack misses."
+    "text": "A-Rank A refined Chidori concentrates more of the current into a smaller, cleaner killing edge. Chakra: 42 Damage: 50d10 Accuracy: +1 Range: Melee Speed: 12 Seal Speed: 14 Special: Paralysis 4 for 25 IC Tags: Attack, Melee, Piercing, Energy, Raiton Effects: Requires Chidori. Ignore 50% of both Damage Reduction and Armor effectiveness for this attack."
   },
   {
     "title": "Raitama - Ball Lightning",
@@ -16083,7 +16083,7 @@
     "volume": "Suiton · Water",
     "number": "IV",
     "url": "/rules/jutsu/suiton/#suiton-water-style",
-    "text": "Water (Suiton) Suiton needs water. A lake, a river or the water beneath a boat can supply it. A small stream won’t do. Most Suiton jutsu are costly and have little effect without enough water behind them. When you use the jutsu, declare how many Gallons of Water you invest. That number is G. Stay within the listed minimum and maximum (for example, 4 to 12 Gallons of Water) or the technique fails. A minimum of 0 lets you use the jutsu without spending water, though it will be weak. Only one quarter of Gallons invested in a Suiton jutsu are consumed (rounded up). The remaining Gallons are deposited back onto the battlefield after the technique resolves. Minimum Gallon requirements are checked when the technique is used, before any Gallons are returned. There are two primary ways to bring water into a battle where there otherwise is none: the first is to physically carry it, typically in a large gourd (see the Equipment chapter). The other is the D rank Water Creation Technique, which may add Gallons of Water to the Background, making those Gallons accessible to everybody in the battlefield until the Water is used up. Used water is typically scattered across the battlefield, or evaporates back into the atmosphere as pure chakra, meaning it cannot be used in a technique again--it is lost. You can't use water someone else is carrying into battle (Like through a Container), but water in the Background or environment is fair game."
+    "text": "Suiton protects allies, controls movement, and leaves water behind for later techniques. Suiton needs water. A lake, a river or the water beneath a boat can supply it. A small stream won’t do. Most Suiton jutsu are costly and have little effect without enough water behind them. When you use the jutsu, declare how many Gallons of Water you invest. That number is G. Stay within the listed minimum and maximum (for example, 4 to 12 Gallons of Water) or the technique fails. A minimum of 0 lets you use the jutsu without spending water, though it will be weak. Only one quarter of Gallons invested in a Suiton jutsu are consumed (rounded up). The remaining Gallons are deposited back onto the battlefield after the technique resolves. Minimum Gallon requirements are checked when the technique is used, before any Gallons are returned. There are two primary ways to bring water into a battle where there otherwise is none: the first is to physically carry it, typically in a large gourd (see the Equipment chapter). The other is the D rank Water Creation Technique, which may add Gallons of Water to the Background, making those Gallons accessible to everybody in the battlefield until the Water is used up. Used water is typically scattered across the battlefield, or evaporates back into the atmosphere as pure chakra, meaning it cannot be used in a technique again--it is lost. You can't use water someone else is carrying into battle (Like through a Container), but water in the Background or environment is fair game."
   },
   {
     "title": "E-Rank",
@@ -16226,11 +16226,11 @@
     "text": "C-Rank Take a deep breath, form the seals and spit a wave of water at your opponent. You can use the water for other techniques afterwards. Chakra: 19 Damage: 10d10+60 Range: 20 Area: 15 Speed: 12 Seal Speed: 10 Tags: Attack, AoE, Blunt Effects: This technique adds 5 gallons of water to the battlefield every time it's used."
   },
   {
-    "title": "Suiton: Suijinheki - Water Formation Pillar",
+    "title": "Suiton: Suijinchū - Water Formation Pillar",
     "volume": "Suiton · Water",
     "number": "IV",
     "url": "/rules/jutsu/suiton/#suiton-suijinheki-water-formation-pillar",
-    "text": "C-Rank A vertical wall of water rises to catch an incoming attack and collapse around it. Chakra: 22 Speed: 7 Seal Speed: 12 Tags: Interrupt, Barrier, Suiton Effects: Make a Ninjutsu Parry against a damaging Melee, Projectile, or AoE attack. On full success, protect only yourself unless the technique's Area explicitly fits behind the wall. On success, add 10 gallons of water to your location after resolution. Against Raiton, suffer -2 to the Parry."
+    "text": "C-Rank A vertical wall of water rises to catch an incoming attack and collapse around it. Chakra: 22 Speed: 7 Seal Speed: 12 Tags: Interrupt, Barrier, Suiton Effects: Make a Ninjutsu Parry against a damaging Melee, Projectile, or AoE attack. On full success, protect yourself. The pillar only shields its user. On success, add 10 gallons of water to your location after resolution. Against Raiton, suffer -2 to the Parry."
   },
   {
     "title": "Suiton: Suikoudan - Water Release: Water Shark Blast",
@@ -16314,7 +16314,7 @@
     "volume": "Suiton · Water",
     "number": "IV",
     "url": "/rules/jutsu/suiton/#suiton-suiryuudan-water-release-water-dragon-blast",
-    "text": "B-Rank This technique shapes a large amount of water into a giant, dragon-shaped projectile which seeks out and crashes into whoever you direct it at. What it lacks for in complexity, it makes up for by being a highly effective tool in any Suiton using shinobi's arsenal. Chakra: 16 + G Damage: 20d6 + G10 + 15 Range: 50 Speed: 18 Seal Speed: 23 Gallons Requirement: 10 > 20 Special: Stun 10 Tags: Attack, Projectile, Blunt"
+    "text": "B-Rank This technique shapes a large amount of water into a giant, dragon-shaped projectile which seeks out and crashes into whoever you direct it at. What it lacks for in complexity, it makes up for by being a highly effective tool in any Suiton using shinobi's arsenal. Chakra: 16 + G Damage: 16d6 + G×5 + 15 Range: 50 Speed: 18 Seal Speed: 23 Gallons Requirement: 10 > 20 Special: Knockback G/2 (round down) Tags: Attack, Projectile, Blunt"
   },
   {
     "title": "Suiton: Takitsubo no Jutsu - Water Release: Waterfall Basin Technique",
@@ -16349,14 +16349,14 @@
     "volume": "Suiton · Water",
     "number": "IV",
     "url": "/rules/jutsu/suiton/#suiton-daibakufu-water-release-great-waterfall",
-    "text": "A-Rank This is one of the most powerful water ninjutsu in existence; once the appropriate seals are formed, the user unleashes a devastating tidal wave which tears across the battlefield like a scaled-down tsunami, knocking aside people, trees, and small buildings in its path. Long ago, exceptionally skilled shinobi were able to fill their impromptu waterfall with all manner of weapons, which were propelled within the wave at incredible speeds. This had the effect of making it an almost inevitably deadly technique that would leave pools of blood mixed in with the water. However, use of that aspect of the technique was forbidden due to its unbelievable power, and as peace settled across the lands the secret of how to do that was lost. Chakra: 30 + G/2 Damage: G10 + 30 Line: 20, 80 Speed: 24 Seal Speed: 28 Special: Stun 14 Gallons Requirement: 20 > 40 Tags: Attack, AoE, Blunt Effects: This Technique pushes any targets hit with a Knockback of G."
+    "text": "A-Rank This is one of the most powerful water ninjutsu in existence; once the appropriate seals are formed, the user unleashes a devastating tidal wave which tears across the battlefield like a scaled-down tsunami, knocking aside people, trees, and small buildings in its path. Long ago, exceptionally skilled shinobi were able to fill their impromptu waterfall with all manner of weapons, which were propelled within the wave at incredible speeds. This had the effect of making it an almost inevitably deadly technique that would leave pools of blood mixed in with the water. However, use of that aspect of the technique was forbidden due to its unbelievable power, and as peace settled across the lands the secret of how to do that was lost. Chakra: 30 + G/2 Damage: G×6 + 30 Line: 20, 80 Speed: 24 Seal Speed: 28 Special: Knockback G Gallons Requirement: 20 > 40 Tags: Attack, AoE, Blunt Effects: The wave pushes targets it hits away from you along its line."
   },
   {
     "title": "Suiton: Daikoudan - Water Release: Great Shark Blast",
     "volume": "Suiton · Water",
     "number": "IV",
     "url": "/rules/jutsu/suiton/#suiton-daikoudan-water-release-great-shark-blast",
-    "text": "A-Rank This creates an enormous shark out of water and sends it crashing across the battlefield at whichever party has offended the user sufficiently for them to feel the need to do so. Aside from impacting its primary target, the shark is massive enough to cause significant collateral damage. The technique's true secret, however, is its ability to absorb any chakra it comes in contact with and use that energy to further empower itself. Chakra: 30 + G/2 Damage: 18d20 + G8 + 20 Line: 5, 60 Speed: 20 Seal Speed: 26 Gallons Requirement: 12 > 30 Tags: Attack, Interrupt, Projectile, AoE, Blunt Effects: As an interrupt this technique's Seal Speed is reduced by 10, its Chakra cost is increased by 10 and can only target the attacker. Daikoudan may be used to Interrupt techniques so long as its Speed is equal to or less than theirs, but can only Interrupt Projectile Attacks. Compare the damage of these attacks with Jutsu weak to it reduced by 25%, and Jutsu strong against it increased by 25%. If the incoming attack does more damage, you are hit by it, but it has its damage reduced by your damage. If Daikoudan's damage is greater, it becomes an attack against the opponent with any Accuracy bonuses (but not penalties) of the attack it countered. Similarly, if a ninjutsu-based defense is used against Daikoudan, and fails to stop it completely, it does full damage (bypassing even partial defense)."
+    "text": "A-Rank This creates an enormous shark out of water and sends it crashing across the battlefield at whichever party has offended the user sufficiently for them to feel the need to do so. Aside from impacting its primary target, the shark is massive enough to cause significant collateral damage. The technique's true secret, however, is its ability to absorb any chakra it comes in contact with and use that energy to further empower itself. Chakra: 30 + G/2 Damage: 16d20 + G×5 + 20 Line: 5, 60 Speed: 20 Seal Speed: 26 Gallons Requirement: 12 > 30 Tags: Attack, Interrupt, Projectile, AoE, Blunt Effects: As an interrupt this technique's Seal Speed is reduced by 10, its Chakra cost is increased by 10 and can only target the attacker. Use Great Shark Blast to Interrupt a Projectile Attack whose Speed is at least this technique’s Speed. For the comparison, reduce the incoming damage by 25% if its element is weak to Suiton, or increase it by 25% if strong against Suiton. Roll the shark’s damage once. Add 5×G to that roll when stopping the projectile. If the incoming damage is higher, take the difference. On a tie, both attacks end. If the shark wins, the attacker defends against its original damage roll, using any Accuracy bonuses from the interrupted attack. Resolve that defense normally."
   },
   {
     "title": "Suiton: Suiryuuben - Water Release: Water Hydra Whip",
