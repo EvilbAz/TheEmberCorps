@@ -6,279 +6,141 @@ description: "Start here: character creation, Discord roleplay, Initiative Count
 permalink: "/guide/"
 ---
 
-<div class="guide-hero" id="welcome"><div class="guide-hero-copy"><h1>YOUR FIRST<br><em>HUNTER.</em></h1><p>A field guide for fresh Hunters, first-time roleplayers and veterans arriving from D&amp;D 5e.</p><div class="guide-hero-actions"><a class="guide-cta" href="#five-minute-version">START READING ↘</a><a class="guide-ghost" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">JOIN THE DISCORD ↗</a></div></div><div class="guide-hero-emblem ec-logo" aria-hidden="true"><span class="ec-monster"></span><span class="ec-letters"></span></div></div>
+<div class="guide-hero" id="welcome"><div class="guide-hero-copy"><h1>YOUR FIRST<br><em>HUNTER.</em></h1><p>Play a shinobi from Haven Ember. Meet the other Hunters on Discord, take jobs together and track monsters into the Wastes.</p><div class="guide-hero-actions"><a class="guide-cta" href="#five-minute-version">START READING ↘</a><a class="guide-ghost" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">JOIN THE DISCORD ↗</a></div></div><div class="guide-hero-emblem ec-logo" aria-hidden="true"><span class="ec-monster"></span><span class="ec-letters"></span></div></div>
 
-<div class="guide-stat-strip"><div><strong>500 XP</strong><span>YOUR STARTING BUILD</span></div><div><strong>2 / WEEK</strong><span>FREE DOWNTIME SLOTS</span></div><div><strong>NO ROUNDS</strong><span>CONTINUOUS COMBAT</span></div></div>
+<nav class="guide-quicknav" aria-label="Guide chapters"><a href="#five-minute-version">Make a Hunter</a><a href="#ic-and-ooc">Join a scene</a><a href="#skills">Roll a check</a><a href="#speed">Play your first fight</a><a href="#downtime">Between hunts</a></nav>
 
-<nav class="guide-quicknav" aria-label="Guide chapters"><a href="#five-minute-version"><span>01</span> GET STARTED</a><a href="#ic-and-ooc"><span>02</span> IC &amp; OOC</a><a href="#server-loop"><span>03</span> LIFE ON DISCORD</a><a href="#speed"><span>04</span> SPEED &amp; IC</a><a href="#first-day"><span>05</span> FIRST DAY</a></nav>
-
-**Naruto World: Ember Corps** is a text-based Naruto game played on Discord. You play a Hunter from Haven Ember. The same character goes on hunts, takes missions and spends downtime back home.
-
-If you’ve played D&D 5e, the biggest change is what happens between adventures. You can ask another player for a scene, train, craft, spar, investigate or join a GM event. Combat uses Initiative Counts in place of six-second rounds.
-
-> Jutsu are your techniques. You earn XP through play and spend it directly on advances.
-
-[Join the Ember Corps Discord](https://discord.gg/TheEmberCorps)
-
-## Your First Five Minutes
+## Make your first Hunter
 {:#five-minute-version}
 
-1. **Make a Hunter.** Every player character belongs to Haven Ember and the wider Ember Corps. New characters begin with **500 XP at Stray rank**.
-2. **Get the sheet reviewed.** A GM checks that the character follows the rules.
-3. **Roleplay in character.** Find other Hunters, start scenes and let your character become part of the setting.
-4. **Join Missions and Hunts.** These are GM-run adventures and major encounters.
-5. **Spend XP and Downtime.** Learn techniques, buy abilities, develop talents, craft or invent equipment, research threats and improve your character.
-6. **Pick up where you left off.** If another Hunter saved your skin on a mission, go find them when you’re back in Haven Ember.
+You begin with **500 XP at Stray rank**. Make a copy of either character sheet, then work down the list below. Both sheets are linked on [Getting Started]({{ '/start/' | relative_url }}).
 
-You can ask for help. A new player is not expected to know every Jutsu tag, crafting option or combat interaction on day one.
+### Choose what you want to do
+{:#buildcraft}
 
-## IC and OOC: Two Different Worlds
+Start with something you’d like to do in a scene. “I track the beast and trip it when it turns on our medic” gives you two things to look up straight away — the Survival skill for tracking and Foot Sweep for fighting up close.
+
+1. **Choose your heritage.** You have 6 Unique Points (UP). In Standard Mode, pick a Primary Heritage and pay its listed UP cost. In Realistic Mode, spend 1 UP to roll your heritage. That mode grants bonus XP and charges Base XP for rerolls. Choose any Creation Uniques you want now. You can save leftover UP. [Heritage costs]({{ '/rules/clans/#heritage-cost-index' | relative_url }}) · [Creation modes]({{ '/rules/core/#character-creation-modes' | relative_url }}) · [Uniques]({{ '/rules/uniques/' | relative_url }})
+2. **Set your attributes.** Strength (STR), Resilience (RES), Chakra (CHA), Dexterity (DEX) and Agility (AGI) start at 20 each. Distribute another 25 points, adding at most 10 to any one attribute. For the tracker above, DEX helps the sweep connect and AGI helps them act early and Dodge.
+3. **Assign your skills.** At the usual starting 500 Base XP, you have 25 Skill Points. One point buys one rank in any of the 14 skills, up to your rank limit. Bonus XP doesn’t grant more Skill Points. [Skills and limits]({{ '/rules/core/#skills' | relative_url }})
+4. **Spend XP and choose gear.** Buy attributes, abilities and jutsu. Pick an attack you qualify for and check how you’ll defend yourself. The basic Dodge is already available. If you want a weapon, you can buy a finished one from the catalogue. [Learning jutsu]({{ '/rules/jutsu/' | relative_url }}) · [Equipment]({{ '/rules/equipment/' | relative_url }})
+
+### What the numbers on your sheet do
+{:#sheet}
+
+| When you need to know… | Look at… |
+| --- | --- |
+| How hard you are to hit | **Dodge** and your other defenses. Basic Dodge uses AGI. |
+| How hard your attack is to avoid | **Accuracy.** This is usually the number the defender must match on their roll. |
+| How much damage you deal | Your attack’s **damage dice** and the relevant **Damage Bonus**. PDB is Physical Damage Bonus. NDB is Ninjutsu Damage Bonus. |
+| How much damage you can take | **Vitality** first, then **Hit Points (HP)**. Record Wounds separately. |
+| Whether a technique tires you out | Your **Stamina** or **Chakra Exhaustion** roll, including your current penalties. |
+
+### Rank and class
+{:#ranks}
+
+**Stray** is your Hunter’s standing in the Corps. **E-Rank** on a jutsu is that technique’s tier. A **Hunter Class** is a specialty you can develop as you advance. [Hunter ranks and classes]({{ '/rules/talents/' | relative_url }})
+
+### Get your sheet reviewed
+{:#first-day}
+
+Send your sheet to a GM for review. A sentence about who your Hunter knows in Haven Ember or why they signed up gives the GM something to use in play. While you’re under 1,500 XP, you can rework your sheet between combats and events.
+
+## Join a scene on Discord
 {:#ic-and-ooc}
 
-Players use IC in two ways. In Discord channel names it means **In Character**.
+**IC** in a channel name means **in character**. Write what your Hunter says or does there. **OOC** means **out of character**. Use the matching OOC channel to ask the GM a question or talk to the other players.
 
-IC channels are the fictional locations where your Hunter speaks, moves and interacts with other characters. Keep all in-world writing in those channels.
-
-**OOC means Out of Character.** OOC channels are where you, the player, ask rules questions, organise scenes, discuss builds, chat and make jokes. **IC and OOC always belong in separate channels**—do not interrupt an IC scene with a rules question or treat an OOC conversation as something your Hunter heard.
-
-<div class="guide-callout"><strong>IMPORTANT: TWO MEANINGS OF IC</strong><p>In roleplay, IC means <b>In Character</b>. In combat, IC means <b>Initiative Count</b>.</p></div>
-
-<div class="guide-channel-grid"><div class="guide-channel guide-channel-ic"><span>IN CHARACTER / IC CHANNEL</span><strong>#rp-thread · #mission-ic · #hunting-ic</strong><p>Write what your Hunter says and does in the appropriate roleplay, mission or hunting channel.</p></div><div class="guide-channel guide-channel-ooc"><span>OUT OF CHARACTER / OOC CHANNEL</span><strong>#general-ooc · #mission-ooc · #hunting-ooc</strong><p>Ask questions, coordinate scenes and discuss rules in the matching OOC channel.</p></div></div>
-
-### Finding your way around Discord
-
-These are the actual channels you will use most often. Some are forum-style channels or threads, so open the relevant post rather than creating a new scene in the wrong place.
-
-| What you want to do | Where to go |
-| :--- | :--- |
-| Ask a general question or meet other players | `#general-ooc` |
-| Find a roleplay partner or arrange a spar | `#rp-and-spar-request` |
-| Play a normal IC scene | `#rp-thread` |
-| Play out a spar | `#sparing-thread` |
-| Read the roleplay and sparring rules | `#rp-and-spar-rules` |
-| Find an available mission | `#mission-posting` |
-| Request a mission | `#mission-requests` |
-| Play or discuss a mission | `#mission-ic` / `#mission-ooc` |
-| Keep mission records | `#mission-log` |
-| Find out about a hunt | `#hunt-announcements` or `#hunts` |
-| Play or discuss a hunt | `#hunting-ic` / `#hunting-ooc` |
-| Discuss the Wastes outside character | `#the-wilds-ooc` |
-
-**Example:** See a mission in `#mission-posting`, organise with the other players in `#mission-ooc`, then write your Hunter's actions in `#mission-ic`. For a hunt, use the corresponding hunting channels. Voice channels such as Mission VC 1/2 are for speaking to other players, not IC text scenes.
-
-**Activity and XP:** Activity is counted wherever you are actively participating on the server, whether that is an IC or an OOC channel. **Activity being counted does not mean every message earns roleplay XP.** The normal roleplay award of 4 XP per 30 minutes still requires active in-character interaction; follow the relevant rules when logging other activity. Never mix IC and OOC posts just to keep an activity timer going.
-
-For example:
-
-> **IC:** Ren pulls his coat tighter around himself and eyes the broken gate. "Something came through here. Recently."
+> **In the hunt channel:** “Those tracks stop at the water.” Ren crouches on the bank to look for prints on the far side.
 >
-> **OOC (in the matching OOC channel):** Does Survival apply to tracking whatever made the footprints?
+> **In hunt OOC:** “Can I roll Survival to see where it came out?”
 
-An IC scene is an interaction between characters, such as conversation, training or investigation. A GM is needed when the scene requires world information, adjudication or opposition.
-
-**Example:** If someone announces a monster's weakness in an OOC planning channel, your Hunter does not automatically know it. Discover that information through IC play or an appropriate GM-approved source.
-
-Two Hunters can fall out in a scene and their players can still get along.
-
-<div class="guide-tip"><span>FIELD TIP / 01</span><strong>You don't have to wait for a GM to start playing.</strong><p>Introduce your Hunter and ask for a scene in `#rp-and-spar-request`, then write it in `#rp-thread`. Keep planning and rules questions in OOC channels.</p></div>
-
-## What Do I Actually Do on the Server?
+### Where to play
 {:#server-loop}
 
-Most play falls into four broad activities.
+| I want to… | Where to go |
+| --- | --- |
+| Ask about a build or a rule | `#general-ooc` |
+| Find someone to roleplay or spar with | `#rp-and-spar-request`, then `#rp-thread` or `#sparing-thread`. Spar rules are in `#rp-and-spar-rules`. |
+| Take or request a mission | `#mission-posting` or `#mission-requests`. Coordinate in `#mission-ooc`, play in `#mission-ic` and record it in `#mission-log`. |
+| Join a monster hunt | Check `#hunt-announcements` or `#hunts`. Coordinate in `#hunting-ooc` and play in `#hunting-ic`. |
 
-<div class="guide-feature-grid"><a href="#roleplay"><span>01 / SOCIAL</span><strong>ROLEPLAY</strong><small>Meet Hunters, make friends, create rivalries and earn XP.</small></a><a href="#missions"><span>02 / ADVENTURE</span><strong>MISSIONS</strong><small>GM-run expeditions, mysteries and dangerous jobs.</small></a><a href="#hunts"><span>03 / DANGER</span><strong>HUNTS</strong><small>Investigate, prepare for and confront monsters.</small></a><a href="#downtime"><span>04 / PROGRESSION</span><strong>DOWNTIME</strong><small>Train, research, craft and develop between scenes.</small></a></div>
+## Make a skill check
+{:#skills}
+
+Describe what you’re trying and how. If the outcome is uncertain, the GM can call for a skill and set a **Target Number (TN)**. Roll **1d20 + your ranks in that skill**, with any modifiers that apply. Meeting the TN succeeds. With no ranks, you can still roll the die.
+
+At the riverbank, the GM calls for **Survival, TN 15**. Ren has 4 ranks and rolls 11. That’s 15, enough to pick up the trail. What the tracks reveal is up to the GM.
+
+## When do I act in a fight?
+{:#speed}
+
+In combat, **IC** means **Initiative Count**. Everyone shares one clock. Roll initiative with **1d20 + AGI/10**. The highest roll starts on IC 0. For everyone else, the difference from the highest roll is their starting IC. If Ren rolls 16 and Aya rolls 13, Ren starts on 0 and Aya starts on 3.
+
+**Speed tells you when you can act again.** Add your action’s final Speed to the count you acted on. A Speed 4 action on IC 0 puts your next action on IC 4. The action usually takes effect right away. **Delay** tells you if the effect lands later. A Speed 12, Delay 4 attack declared on IC 10 lands on 14, and your next action is on 22. Characters due on the same count act simultaneously.
+
+### Read the jutsu before you declare it
+{:#reading-jutsu}
+
+Take [Deashi Harai – Foot Sweep]({{ '/rules/jutsu/unarmed/#deashi-harai-foot-sweep' | relative_url }}). Its E-Rank badge tells you what tier you’re buying. Its **Attack** and **Melee** tags tell you it’s an attack you use up close. The entry gives **Speed 4**, **Stamina 8**, **Accuracy +2** and **Special: Prone**. Outside a grapple, a full hit knocks the target Prone. If you’re already grappling, use the separate effect in the entry.
+
+### Play out one exchange
+{:#defence}
+
+Ren and Aya start a spar in melee range. Ren has 30 DEX. Aya has 20 AGI. Neither has other modifiers in this example.
+
+| Count | What the players do |
+| --- | --- |
+| **0 · Ren attacks** | Ren posts **(Foot Sweep against Aya, Speed 4, Stamina 8, Accuracy 15)**. His usual Accuracy is 10 + 3 from DEX, and the sweep adds 2. He makes his Stamina roll against 8. His next action is on **4**. |
+| **0 · Aya defends** | Aya can respond now, even though her first action was due on 3. She declares **(Dodge, Speed 2)**. A Defensive Interrupt normally has to be half the incoming action’s Speed or less, so Speed 2 fits. |
+| **0 · Resolve the sweep** | Aya rolls 13 on the die and adds 2 from AGI. Her 15 matches Ren’s Accuracy, so she stays on her feet. Add the Dodge’s Speed to her **scheduled** action. She was due on 3 and now acts on **5**. |
+| **4 · Ren acts again** | Ren is up first. If Aya takes another Interrupt, update her count again. |
+
+**Dodge, Parry or Block?** Dodge can avoid a hit. If an eligible Dodge misses by one, you take 20% of the effects under Partial Success. A Parry must be able to meet the incoming attack, especially against an area attack. A basic Block reduces damage and requires Prepare Blocking to be in effect. A Guard Shield gives you its own Weapon Block. [Defending and Partial Success]({{ '/rules/core/#defending' | relative_url }})
+
+**Action Points (AP)** let you change the timing. You normally start combat with 0 and gain 5 at IC 20, 40 and each multiple of 20 after that, up to AGI/2. Spending 1 AP can cut an action’s Speed by 1, subject to its minimum. [Speed limits]({{ '/rules/core/#flow-of-time' | relative_url }}) · [Action Points]({{ '/rules/core/#action-points-2' | relative_url }})
+
+### Damage, Wounds and Fatigue
+{:#damage}
+
+Damage comes out of Vitality first. If you have 12 Vitality left and take 20 damage after defenses, lose the 12 Vitality and mark 8 damage against HP. A single hit can also cause a **Wound** while you still have Vitality. Its severity depends on how much of your maximum pool the hit took. [Wound thresholds]({{ '/rules/wounds/#wound-categories' | relative_url }})
+
+**Stamina 8** on Foot Sweep means you roll against TN 8. For a technique with a Chakra cost, use your Chakra Exhaustion roll against that cost. A failed roll raises Fatigue one level and the action still resolves. Each roll also builds a penalty to later rolls of the same kind. When Fatigue rises, both accumulated penalties reset. Update the sheet before your next declaration. [Fatigue and Upkeep]({{ '/rules/core/#fatigue-2' | relative_url }})
+
+## Between scenes
+{:#xp}
+
+XP you earn can buy another technique, an ability or better attributes. Spending XP doesn’t erase the XP you earned toward progression. Spend points between combats and events. [Experience and advancement]({{ '/rules/core/#spending-experience-points' | relative_url }})
 
 ### Roleplay
 {:#roleplay}
 
-Talk to other characters and build a life in Haven Ember. Active IC roleplay awards **4 XP per 30 minutes**. Meaningful moments can also earn Roleplay Beats for Bond, Reveal, Drive and Change.
+You can start an ordinary scene with another Hunter. Bring in a GM when you need opposition, a ruling or information about the world. Active in-character interaction earns **4 XP per 30 minutes**. A scene that changes a relationship or reveals something important can also qualify for a Roleplay Beat. [Roleplay rewards]({{ '/rules/core/#roleplay' | relative_url }})
 
 ### Missions
 {:#missions}
 
-Missions are GM-run jobs: expeditions, escorts, investigations, infiltrations, rescues, dangerous journeys and similar operations. They normally award XP based on time and danger, plus Ryō and whatever consequences or discoveries come from the mission.
+A GM gives the team a job, such as escorting a caravan or finding a missing patrol. Check the posting for the objective and who can join. Mission rewards normally include XP and Ryō.
 
 ### Hunts
 {:#hunts}
 
-Hunts are GM-run encounters focused around monsters. You can spend Downtime Slots on optional tracking, research and preparation beforehand, but **going on the Hunt itself costs no Downtime**. When the Team is ready, arrange a time with your GM and the Hunters joining you, then head out together. Rewards depend on the creature and its Fight Value. See the [Hunting rules]({{ '/rules/hunting/#starting-the-encounter' | relative_url }}).
+On a hunt, the team goes after a monster. You might research what injured the last party or track where the creature feeds before you face it. You can spend Downtime on preparation. Joining the hunt itself costs no slot. [Hunting rules]({{ '/rules/hunting/#starting-the-encounter' | relative_url }})
 
 ### Downtime
 {:#downtime}
 
-Downtime represents meaningful work your Hunter does away from active scenes. You receive **2 Downtime Slots each week** and can earn additional slots through play, up to 6 per week. Downtime can be used for things such as training, research, crafting and other long-term development.
+You get **two free slots each real-world week** for work such as training, research or crafting. Use those two before the week ends. Extra slots earned from play can be saved. Completed spars can keep earning slots, with more spars required for each successive slot that week. Log what you did and link any required rolls. Completing an action that uses a slot earns **5 XP**. [Downtime rules]({{ '/rules/core/#downtime-2' | relative_url }})
 
-Completed Downtime actions using a slot grant **5 XP**.
-
-## Reading Your Character Sheet
-{:#sheet}
-
-Ember Corps has more numbers than 5e, but you only need to understand what your own character uses.
-
-Your **Attributes** are the foundation of the character. They feed into secondary statistics such as Vitality, HP, Accuracy, Dodge and damage bonuses.
-
-**Vitality** is your first layer of staying power. Damage removes Vitality first.
-
-**HP** represents serious bodily harm. Once Vitality is gone, damage carries into HP.
-
-**Stamina and Chakra** power different parts of your kit. Techniques and strenuous actions cost resources; managing them matters.
-
-**Skills** cover learned competencies outside and inside combat.
-
-**Abilities** are purchased improvements and special capabilities.
-
-**Talents** are larger packages of expertise that develop over time.
-
-**Jutsu** are specific techniques. Their Rank, cost, Speed, Accuracy, damage and tags tell you how they function.
-
-**Equipment** matters. Weapons and armor have their own rules, and players who do not want to craft from scratch can use the pre-made catalogues.
-
-You do not need to optimise all of these simultaneously. Pick a character fantasy first, then make the numbers support it.
-
-## Your First Build: Start With a Job
-{:#buildcraft}
-
-Choose a primary role and two or three Actions that support it.
-
-<div class="guide-build-grid"><div><span>01 / IDENTITY</span><strong>PICK YOUR FANTASY</strong><p>A lightning-fast melee Hunter, a Hyūga duelist, a ranged scout or a battlefield controller. Choose one primary role first.</p></div><div><span>02 / ATTRIBUTES</span><strong>SUPPORT YOUR PLAN</strong><p>All five attributes start at 20. Distribute 25 extra points, no more than 10 in one attribute. STR supports physical power, RES durability, CHA chakra, DEX precision and AGI speed.</p></div><div><span>03 / CORE LOOP</span><strong>CHOOSE 2–3 GO-TO ACTIONS</strong><p>Pick a reliable attack, a defence or escape, and a useful second option. Check their Speed, costs, accuracy and range together.</p></div><div><span>04 / BACKUP</span><strong>COVER A WEAKNESS</strong><p>Can you handle a distant enemy? What happens when Chakra or Stamina runs low? Do you have a useful skill outside combat?</p></div></div>
-
-### A sample beginner build: the fast close-range Hunter
-
-*This is a concept, not a mandatory or fully costed character sheet.* Prioritise AGI and the attributes your chosen attacks use. Take one quick, affordable melee technique, one defensive option and a way to approach or escape an opponent. Buy abilities that reinforce your chosen attack style rather than spreading XP across unrelated upgrades. Select a weapon from the [pre-made catalogue]({{ '/rules/standard-weapons/' | relative_url }}) if you want to avoid crafting initially.
-
-For example, a Speed 6 attack used twice can create more frequent opportunities than a Speed 12 attack—but only if you can afford its resource costs, reach the enemy and actually hit. A powerful technique that misses or leaves you unable to defend is not automatically a good choice.
-
-### Spend your starting XP deliberately
-
-You begin at **500 XP, Stray rank**. Spend XP on the attributes, Jutsu and abilities that make your central idea work. Starting characters also receive Skill Points based on total XP; use those for things your Hunter can do in and out of battle. Choose Uniques and heritage according to their own creation rules, then have a GM review your sheet. If you are under **1,500 XP**, the Core Rules allow you to rework your sheet outside combat and events—so your first build is not a permanent trap.
-
-<div class="guide-tip"><span>BUILD CHECK / BEFORE YOU SUBMIT</span><strong>Can you describe your character in three actions?</strong><p>“I close the distance, strike quickly, and dodge away.” If your chosen stats, techniques, abilities and gear all help you do that, you have a coherent starting build.</p></div>
-
-## The Big Difference from 5e: Combat Has No Rounds
-{:#speed}
-
-Combat runs on a continuous timeline called **Initiative Counts**, usually shortened to **IC**. Lower IC is earlier in time. Every action has a **Speed**. After you act, add that Speed to your current IC. The result is when you can act again.
-
-<div class="guide-speed-banner"><span>COMBAT / THE ONE FORMULA TO REMEMBER</span><strong>YOUR IC <b>+</b> ACTION SPEED <b>=</b> NEXT IC</strong><small>Lower Speed means you act again sooner. The action resolves on your current IC.</small></div>
-
-### Example: two Hunters
-
-Aya uses a Speed 8 Action on IC 0. Bo uses a Speed 4 Action on IC 3.
-
-| IC | What happens |
-| :--- | :--- |
-| 0 | Aya acts and uses a Speed 8 attack. Her next action is IC 8. |
-| 3 | Bo acts and uses a Speed 4 attack. His next action is IC 7. |
-| 7 | Bo acts again. |
-| 8 | Aya acts again. |
-
-### Starting combat
-
-Everyone rolls:
-
-**1d20 + AGI/10**
-
-The highest Initiative roll begins on **IC 0**. Everyone else subtracts their roll from the highest roll; the difference is their starting IC.
-
-If the rolls are 16, 12 and 6, the characters begin on IC 0, IC 4 and IC 10 respectively.
-
-### When actions happen at the same IC
-
-If two Hunters are due to act on the same Initiative Count, they declare and resolve their actions **simultaneously**. Both actions take effect at the end of that IC. This matters when two attacks might defeat one another, or when techniques physically collide. Advanced Clashes have their own rules; learn them after you are comfortable with the basic timeline.
-
-### How Speed reductions work
-
-An ability or effect might reduce an action's Speed. Normally, its final Speed cannot fall below **half its Base Speed, rounded up**, and cannot be reduced below **3**. Interrupts have special exceptions. A Speed 10 action therefore normally cannot be reduced below Speed 5.
-
-### Combat time
-
-**100 IC = 30 seconds.** IC measures actual combat time, not abstract rounds.
-
-## Reading a Jutsu Stat Block
-{:#reading-jutsu}
-
-When you find a technique you like, read it in this order: **Rank** tells you its tier; **cost** tells you what resource it consumes; **Speed** tells you when you act again; **Accuracy** affects whether it connects; **Damage** tells you what happens on a hit; and **Tags** determine which other rules and abilities interact with it. Some techniques have additional requirements, handseals, delays, conditions or special effects—read the entire entry before buying it.
-
-A quick attack is only useful if it fits your resources and the rest of your build. A slow technique can still be worthwhile if it creates an opening, controls the battlefield or deals enough damage to justify its time cost.
-
-## Defending Yourself
-{:#defence}
-
-Defensive Interrupts let you respond outside your normal Action slot. Dodge avoids an attack, Parry turns it aside, and Block mitigates damage. Check the attack’s tags, legal timing and your available defences, then pay the chosen Interrupt’s costs and advance your IC. Ask the GM if you are unsure which defence applies.
-
-## Skills, Rolls and Non-Combat Play
-{:#skills}
-
-Your twelve Skills cover everything from Athletics and Awareness to Research, Medicine, Survival, Espionage and Artisan. When an outcome is uncertain, a GM may call for a relevant roll against a **Target Number (TN)**. Tell the GM what you are attempting and what you are using; do not roll repeatedly until you get a result you like. Researching a monster, preparing supplies and negotiating with another faction can matter as much as attacking it.
-
-**Logs** are your record of advancement and Downtime. Declare rolls in the appropriate bot channel when required, then link the result and describe your action in your log. Your sheet shows what your Hunter can do; your logs show how they got there.
-
-## Damage, Wounds and Fatigue
-{:#damage}
-
-**Vitality** absorbs damage before HP. When attacks become serious, **Wounds** can impose consequences beyond raw damage. **Fatigue** tracks accumulated exhaustion and can make continued fighting increasingly dangerous.
-
-Qualifying combat can award additional XP for Fatigue and Wounds; see [Combat XP]({{ "/rules/core/#combat" | relative_url }}).
-
-## Jutsu and Builds
-{:#jutsu}
-
-Your clan, elements, Talents, equipment and abilities determine which techniques support your role. Start with a reliable attack, a defence or escape, and one useful alternative.
-
-## XP Is Not a 5e Level Bar
-{:#xp}
-
-Spend XP to improve attributes, learn Jutsu and buy abilities. Total XP also unlocks Skill Points, Talent Points and other progression benefits.
-
-Two Hunters with the same XP might spend it on completely different things.
-
-## Hunter Ranks and Classes
-{:#ranks}
-
-Your rank tells people where you stand in the Corps. A Hunter Class is a Corps specialty. Choosing one still leaves you free to build your character and spend XP as you see fit within the usual rules.
-
-## Money and Gear
-{:#gear}
-
-**Ryō** buys equipment. The Equipment & Crafting volume contains the full building system for players who enjoy designing gear, but you do not need to learn crafting to begin.
-
-For starting gear, pick something from the **Pre-Made Weapon Catalogue** or **Pre-Made Armor Catalogue**.
-
-<div class="guide-callout"><strong>STILL CONFUSED ABOUT SPEED?</strong><p>Forget everything else for a moment: act when your IC arrives, resolve your action, add its Speed, and write down your next IC. The timeline moves to the next character due to act.</p><a href="{{ '/rules/core/#initiative-rolls' | relative_url }}">READ THE FULL COMBAT RULES ↗</a></div>
-
-## A Good First Day
-{:#first-day}
-
-If you have just joined, this is enough:
-
-1. Read this guide.
-2. Look through Character Creation in Core Rules.
-3. Decide what your Hunter is like as a person and what they are good at.
-4. Build a 500 XP Stray with help from the community if you want it.
-5. Get the sheet reviewed by a GM.
-6. Introduce the character IC.
-7. Join a scene.
-8. Before your first fight, pick one reliable attack and one defence; check their costs and Speed. When combat happens, remember **current IC + Speed = next IC**.
-9. Learn the more detailed rules when they actually become relevant.
-
-<div class="guide-final-cta"><span>YOUR NEXT MISSION</span><h2>MAKE YOUR HUNTER.<br><em>JOIN THE STORY.</em></h2><p>Start with a character concept. The community can help you with the numbers.</p><a class="guide-cta" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">ENTER THE DISCORD ↗</a></div>
-
-## Where to Go Next
+## Keep these pages handy
 {:#next}
 
-**Making your character:** [Core Rules — Character Creation]({{ '/rules/core/#character-creation' | relative_url }})
+### Learning a technique
+{:#jutsu}
 
-**Buildcrafting:** [Attributes and Character Creation]({{ '/rules/core/#determine-attributes' | relative_url }}) · [Abilities]({{ '/rules/core/#abilities' | relative_url }})
+**Taijutsu** covers physical techniques like Foot Sweep. **Bukijutsu** uses weapons. **Ninjutsu** shapes chakra into effects such as a clone or a blast of fire. **Genjutsu** interferes with what a target perceives. Find the school you want in the compendium. Check its learning requirements, then read the technique’s costs, tags and effects. For ninjutsu with a Seal Speed, allow time for handseals before using the technique. [Jutsu Compendium]({{ '/rules/jutsu/' | relative_url }})
 
-**Combat timing:** [Core Rules — Initiative Rolls & Flow of Time]({{ '/rules/core/#initiative-rolls' | relative_url }})
+### Buying gear
+{:#gear}
 
-**Choosing techniques:** [Jutsu Compendium]({{ '/rules/jutsu/' | relative_url }})
-
-**Talents and progression:** [Talents, Ranks & Hunter Classes]({{ '/rules/talents/' | relative_url }})
-
-**Buying or crafting gear:** [Equipment & Crafting]({{ '/rules/equipment/' | relative_url }}) · [Pre-Made Weapons]({{ '/rules/standard-weapons/' | relative_url }}) · [Pre-Made Armor]({{ '/rules/standard-armor/' | relative_url }})
-
-**Understanding the setting:** [World & Lore]({{ '/lore/' | relative_url }})
-
-**Need a human being:** [Join the Discord](https://discord.gg/TheEmberCorps)
+Use Ryō for purchases. Each pre-made card links to the full equipment rules for that item. [Weapons]({{ '/rules/standard-weapons/' | relative_url }}) · [Armor]({{ '/rules/standard-armor/' | relative_url }}) · [Equipment and crafting]({{ '/rules/equipment/' | relative_url }})
