@@ -1417,6 +1417,33 @@ Heavy Chain — 11,000 Ryō. AP 3\. \[Large, Chain, Two-Handed, Blunt\]. Weighte
 
 Great War Fan — 11,000 Ryō. AP 3\. \[Large, Fan, Two-Handed, Blunt\]. Sturdy 3\. Speed 13; Stamina 15; Damage 6d10; Reach 2; Delay 2; Accuracy \-2; Parry \+1; Durability 65.
 
+#### Splitjaw Switch Axe
+{:#splitjaw-switch-axe}
+
+16,500 Ryō. AP 9. [Large, Two-Handed, Sword or Polearm, Slashing]. Speed 13, Stamina 16, Damage 7d10, Reach 2, Delay 2, Accuracy +0, Parry +0, Durability 50.
+
+**Build:** Honed Geometry 1, Broad Edge, Transforming Frame (Master Artisan to craft). Crafting TN 51.
+
+Fold the hooked axe head against the haft to form a greatsword. The sword form uses Sword Bukijutsu and the printed stats. The long-hafted axe uses Polearm Bukijutsu, Reach 3, Accuracy +1 and Parry −2. Change forms as a Speed 2 Utility action. Both forms gain +10% Wounding on Slashing damage.
+
+#### Basalt Breaker
+{:#basalt-breaker}
+
+15,500 Ryō. AP 8. [Large, Club, Two-Handed, Blunt]. Speed 13, Stamina 16, Damage 7d10, Reach 2, Delay 2, Accuracy −1, Parry +0, Durability 50.
+
+**Build:** Impact Chamber, Armor Breaker 1. Crafting TN 47.
+
+A flat-faced hammer for cracking shell plates. Armor Breaker adds 25% damage to Armor and Weapon Durability, stacking with Club under the normal durability rules. When declaring an Attack that already has Knockback, you may spend +3 Stamina to add 2 yards if the Knockback applies, after its status roll and before Partial Success.
+
+#### Carapace Guardlance
+{:#carapace-guardlance}
+
+19,000 Ryō. AP 12. [Large, Polearm, Two-Handed, Piercing, Guard]. Speed 13, Stamina 17, Damage 8d10, Reach 3, Delay 2, Accuracy +1, Parry −2, Durability 50.
+
+**Build:** Layered Construction, Guard Mount, Driving Point. Crafting TN 63.
+
+The shell-shaped guard is part of the lance. Weapon Block is a Speed 5 Interrupt that reduces the triggering attack’s damage by 25%. Gain +1 Accuracy when your target starts the attack inside your Reach and outside its own natural Melee Reach.
+
 ### Extreme Weapons
 {:#extreme-weapons}
 
@@ -1427,6 +1454,15 @@ Great Maul — 17,500 Ryō. AP 0\. \[Extreme, Club, Two-Handed, Blunt\]. Speed 1
 Siege Hammer — 22,500 Ryō. AP 5\. \[Extreme, Club, Two-Handed, Blunt\]. Armor Breaker 1, Counterweight 1\. Speed 15; Stamina 17; Damage 8d12; Reach 3; Delay 4; Accuracy \-1; Parry \+0; Durability 60\.
 
 Giant Polearm — 20,000 Ryō. AP 4\. \[Extreme, Polearm, Two-Handed, Piercing\]. Extended Haft 1\. Speed 15; Stamina 17; Damage 8d12; Reach 5; Delay 5; Accuracy \+1; Parry \-2; Durability 60.
+
+#### Jawbone Cleaver
+{:#jawbone-cleaver}
+
+23,500 Ryō. AP 6. [Extreme, Sword, Two-Handed, Slashing]. Speed 15, Stamina 18, Damage 9d12, Reach 3, Delay 5, Accuracy +0, Parry +0, Durability 60.
+
+**Build:** Heavy Head 1, Forward Balance. Crafting TN 39.
+
+A single edge runs the length of a jawbone-shaped slab. For damage only, Heavy Head adds 1 effective Speed, up to half the attack’s Final Speed. On a Basic Weapon Attack you may also take +1 Final Speed for +1 Damage Die.
 
 ### Matched Weapons
 {:#matched-weapons}
@@ -1443,6 +1479,15 @@ Twin Tonfa — 12,000 Ryō. AP 1\. \[Small, Club, One-Handed, Blunt, Dual\]. A m
 9,000 Ryō per pair. AP 4. [Small, Sword, One-Handed, Slashing, Dual]. Seal Grip, Dual Balancing. Speed 8, Stamina 10, Damage 2d6, Reach 0, Delay 0, Accuracy +0, Parry +0, Durability 30.
 
 You can form handseals with both blades drawn. Add 3 to Seal Speed once for the action, even when wielding the pair. Each blade still occupies its hand for Unarmed, Combo, and Grapple requirements. The pair counts as one weapon for purchase and crafting.
+
+#### Raptor Fangs
+{:#raptor-fangs}
+
+11,500 Ryō per pair. AP 8. [Small, Sword, One-Handed, Slashing, Dual]. Speed 8, Stamina 10, Damage 3d6, Reach 0, Delay 0, Accuracy +0, Parry +0, Durability 30.
+
+**Build:** Lightweight 1, Serrated Teeth, Dual Balancing (Master Artisan to craft). Crafting TN 47.
+
+A matched pair of hooked skinning blades. When a Slashing Wound from the blades applies Bleed, increase it by 1, once per Attack. Use normal Dual rules for a paired strike.
 
 # Ranged Weapons
 {:#ranged-weapons-2}
@@ -1503,6 +1548,15 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 **Siege Arbalest — 11,750 Ryō. AP 9\.** Heavy Arbalest frame. Speed 16; Stamina 18; Damage 12dS; Accuracy \-6; Range 40 \+ STR/4; Delay 5; Capacity 1; Reload 9; Durability 60\.
 
 **Installed Components:** Reinforced Winch, Quick Windlass. Requires both hands and remains stationary while Reloading. Crossbow Aim: Speed 5, \+2 Accuracy on the next Crossbow Attack if you do not voluntarily move beforehand.
+
+###### Ridgeback Heavy Bowgun
+{:#ridgeback-heavy-bowgun}
+
+11,750 Ryō. AP 8. [Large, Two-Handed, Crossbow, Projectile]. Speed 16, Stamina 18, Damage 12dS, Range 40 + STR/4, Delay 5, Accuracy −6, Durability 60.
+
+**Build:** Reinforced Winch, Stabilised Sight. Crafting TN 47.
+
+Heavy Arbalest frame. Capacity 1, Reload 11. Load and fire ordinary Bolts. A standard Bolt gives d10. Reload while stationary. Use Crossbow Aim as normal. On an Aimed Attack, ignore up to 2 points of Visibility penalty.
 
 ##### Kunai Launchers
 {:#kunai-launchers-2}
