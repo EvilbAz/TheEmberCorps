@@ -16,6 +16,12 @@ permalink: "/rules/jutsu/general/"
 ## General
 {:#general}
 
+General Ninjutsu covers tools a shinobi can use in the field: disguises, clones, movement, restraints, and direct chakra shaping.
+
+<span id="sakki-hosha-killing-intent-projection"></span>
+
+Killing Intent Projection has been retired. If you knew it, recover the XP you spent on it. [Killing Intent]({{ '/rules/jutsu/genjutsu/#sakki-killing-intent' | relative_url }}) remains a B-rank Genjutsu with its own learning requirements.
+
 ## E-Rank
 {:#e-rank-4 .jutsu-rank-heading}
 
@@ -216,9 +222,9 @@ Chakra: 16
 Range: 20  
 Speed: 8  
 Seal Speed: 8  
-Special: Stun 5, Paralysis 4  
+Special: Immobilization 4  
 Tags: Attack, Projectile  
-Effects: This technique's Paralysis does not get a status roll and ends once its stun has expired. If used on an already-stunned victim, the Paralysis lasts until they recover from that stun.
+Effects: On a full hit, bind the target for 15 IC. Resolve Immobilization normally. The victim may use a Speed 5 action to roll Athletics against your Chakra Control. Success ends the restraint. Repeated hits refresh the duration without adding severity.
 
 #### Shunshin no Jutsu - Body Flicker Technique
 {:#shunshin-no-jutsu-body-flicker-technique .jutsu-technique}
@@ -293,7 +299,7 @@ Chakra or Stamina: 5\*X
 Upkeep: 3 \+ X  
 Speed: 2  
 Tags: Utility, Self, Aura  
-Effects: You have a \+X bonus to your physical damage bonus and dodge for the next 30 IC. X has a maximum of 5\. When this jutsu ends you may choose to extend it’s duration by 30 IC by paying its cost again.
+Effects: Choose power or footwork when you activate the technique. For 30 IC, power grants +X Physical Damage Bonus (X = 1–5). Footwork grants +X Dodge (X = 1–3). Maintain one mode at a time. At expiry, you may pay the activation cost again to choose a mode and X for the next 30 IC; use its matching Upkeep.
 
 You can decide whether to use Stamina or Chakra for this technique's fatigue cost, but once you’ve made that choice, all future uses of Chakra Strengthening in this fight will use that choice.
 
@@ -383,25 +389,7 @@ Seal Speed: 12
 Tags: Utility, Self, Aura  
 Effects: So long as this technique's upkeep is maintained, you have a \+4 bonus to defensive genjutsu rolls. You may declare Iron Curtain as an Interrupt when targeted with genjutsu, following the normal rules for defensive interrupts and giving you its bonus for that defensive genjutsu roll. Iron Curtain does remain active (as if activated normally) after being used this way.
 
-#### Sakki Hōsha - Killing Intent Projection
-{:#sakki-hosha-killing-intent-projection .jutsu-technique}
 
-<span class="jutsu-rank-badge">C-Rank</span>
-
-The user lets hostile chakra spill into the target's instincts before the actual attack begins.
-
-Chakra: 18  
-Accuracy: \-2  
-Range: 20  
-Speed: 10  
-Seal Speed: 12  
-Special: Immobilization 2  
-Tags: Attack, Mental  
-Effects:
-
-Resolve against Resistance. On a full hit apply Immobilization 2 for 20 IC. This is a fear-based effect.
-
-A target who has already resisted your Killing Intent this combat gains \+3 against subsequent uses.
 
 #### Sanzengarasu no Jutsu - Scattering One Thousand Crows Technique
 {:#sanzengarasu-no-jutsu-scattering-one-thousand-crows-technique .jutsu-technique}
@@ -415,11 +403,11 @@ Range: 40
 Speed: 12  
 Seal Speed: 13  
 Upkeep: 4  
-Duration: 100 IC  
+Duration: 30 IC  
 Tags: Attack, Projectile, Environmental  
-Effects: Choose one target within Range. Roll Ninjutsu Accuracy against its ordinary Defense on application; the initial Attack cannot be Dodged, but may be Parried or Blocked and deals no direct damage. On a full hit, the crows surround the victim and apply \-1 Visibility, increasing that penalty by 1 every 10 IC to a maximum of \-10. The crows disperse 10 IC after reaching \-10, if Upkeep ends, or if the victim moves outside effective Range. These are real chakra-created crows, not Genjutsu; Genjutsu Defense and Kai do not apply.
+Effects: Choose one target within Range. It defends normally against your Projectile Attack. On a full hit, the crows deal no damage and impose −2 Visibility. Increase the penalty by 1 every 10 IC, to a maximum of −4.
 
-An Area Attack that deals any damage to the affected target disperses these crows after the Attack resolves.
+The flock disperses when its Duration or Upkeep ends, the target leaves Range, or a damaging AoE covers the target and resolves. The crows are physical chakra constructs. Kai cannot disperse them.
 
 #### Soushuujin - Manipulating Attack Blades
 {:#soushuujin-manipulating-attack-blades .jutsu-technique}
@@ -590,38 +578,19 @@ Area: 25
 Speed: 16, Delay 6 \+ Special  
 Seal Speed: 24  
 Tags: Attack, AoE  
-Effects: After finishing this technique's handseals, some or all (your choice) of your clones will charge towards a specific location before exploding. Clones activated with this technique can no longer take any other actions, but nor can they be destroyed by other means, and they no longer provide the normal benefits of clones (that is, the chance that an opponent will accidentally strike them instead of you). In the case of clones capable of using jutsu, any Upkeeps they're maintaining end immediately.
+Effects: Choose one to three of your Mud, Rock, Water, Lightning, or Shadow Clones of the same type and a point within Range. Each clone moves from its own position toward that point at its normal full movement rate. Count the longest required travel time when setting the Delay. Ground effects apply. Committed clones stop maintaining jutsu, cannot take other actions or conceal you, and can be destroyed as usual on the way.
 
-The "Special" portion of the Delay is however long; it would take the clones to move from your current location to the center of the explosion (the location you target with this technique). They move at full speed, though immobilization penalties (such as from the ground being turned to mud) may still slow them down.  
-Anyone hit by the explosion is allowed a Resistance roll against your Chakra Control (including you, if you're hit).  
-Those who passes their roll take only half damage, and suffer half the normal status effects (excepting the visibility penalty from water clone explosions, as it is based on the location, rather than who it hits).  
-Like the explosions from Exploding Tags, it is not possible to dodge the detonation of this technique. Each type of clone is considered to be an elemental ninjutsu of its appropriate element (shadow clones being non-elemental). Mud, Water, and Shadow Clones inflict Blunt wounds. Rock Clones deal Slashing damage, and Lightning Clones cause Energy wounds.
+At the end of the Delay, count the committed clones that reached the point and resolve one AoE there using that count for damage and effects. All surviving committed clones disperse, including any that failed to arrive. If none arrive, the attack fails. Pay Chakra for the number committed. A creature in the Area, including the caster, may defend normally. A victim hit may also roll Resistance against your Chakra Control to halve the remaining damage and numeric status severities (round down). The Water visibility penalty applies to the Area itself. Use the jutsu’s Speed for NDB damage once per target.
 
-Mud Clones  
-Chakra: 10, \+10/clone  
-Damage: 20d20 per clone  
-Anyone hit suffers an Immobilization penalty of 2, \+2 per clone. This penalty is halved (round down for the new value) every 10 IC.
+| Clone | Chakra | Damage per clone | Effect |
+| --- | --- | --- | --- |
+| Mud | 10 + 10 per clone | 14d20 Blunt | Immobilization 2 + 2 per clone. Halve its remaining severity every 10 IC. |
+| Rock | 15 per clone | 16d20 Slashing | Bleed 3 and Stun 2 per clone. |
+| Lightning | 10 + 20 per clone | 12d20 Energy | Paralysis 4 per clone, maximum 8. Halve its remaining severity every 20 IC. |
+| Water | 12 per clone | 8d20 + 50 Blunt | The Area has −2 Visibility per clone. Halve the penalty every 10 IC. Blind Fighting does not reduce it. Return 4 gallons per detonated clone to the battlefield. |
+| Shadow | 0 | 15d20 Blunt | Stun 5 + 2 per clone. |
 
-Rock Clones:  
-Chakra: 15/clone  
-Damage: 25d20 per clone  
-Anyone hit suffers a Bleed status of 5/clone, and a Stun of 3/clone.
-
-Lightning Clones:  
-Chakra: 10, \+20/clone  
-Damage: 3d100dl2\*1d3 per clone  
-Anyone hit suffers a Paralyze 4 if one clone was used, or 8 for two clones. This penalty is halved (round down for the new value) every 20 IC.
-
-Water:  
-Chakra: 12/clone  
-Damage: 8d20+100, per clone  
-When the clones explode, they do so with enough concussive force to daze anyway hit. They inflict a visibility penalty of \-4/clone, which cannot be mitigated by the Blind Fighting ability.  
-The penalty is halved (round down) every 10 IC. After the clones explode, the water used to create them (4 gallons per clone) is returned to the battlefield.
-
-Shadow:  
-Damage: 15d20\!\>11 per clone  
-Stun: 15+5/clone  
-Performing Clone Explosion with Shadow Clones has no Chakra cost.
+Round down when halving severity or Visibility. Mud and Rock explosions count as Doton, Water as Suiton, Lightning as Raiton, and Shadow as non-elemental.
 
 #### Meisaigakure no Jutsu - Hiding With Camouflage Technique
 {:#meisaigakure-no-jutsu-hiding-with-camouflage-technique .jutsu-technique}
@@ -648,29 +617,25 @@ Chakra: 40
 Upkeep: 12  
 Range: 20  
 Accuracy: \-8  
-Speed 20, Delay 10  
+Speed: 20, Delay 10  
 Requires: 50 yards of cloth  
 Tags: Attack, Projectile  
 Effects: Using this against a target without a \-4 or greater Immobilization penalty causes its Accuracy penalty to be doubled (to \-16), and explicitly prevents that penalty from being removed (such as by performing this as a Sneak Attack) or reduced. While the cloth is thrown from a distance (and guided by chakra), it's relatively slow-moving and very obvious.
 
-If this hits, the target is immediately placed at a \-10 immobilization penalty, which cannot be reduced or negated without breaking free of this technique. The person trapped inside is unable to take any non-Interrupt action other than struggling to escape. Additionally, they cannot use equipment or perform any task which would require the use of their hands or arms. This is a Speed 0 action, in which the defender rolls 1d20+STR/10 against 1d20+CHA/10 from the shinobi who used this technique. If it fails, it applies a Stun 10\.
+If this hits, the target is immediately placed at a \-10 immobilization penalty, which cannot be reduced or negated without breaking free of this technique. The person trapped inside is unable to take any non-Interrupt action other than struggling to escape. They cannot use equipment or perform tasks requiring their hands or arms. To struggle, take a Speed 0 action and roll 1d20+STR/10 against 1d20+CHA/10 from the shinobi who used this technique. On a success, break free. On a failure, take Stun 10.
 
 Once someone is trapped, seals can be applied to the Cloth Bind, with varying effects. Any Accuracy penalties normally associated with these techniques do not apply; instead, they receive a \+6 Accuracy bonus. Note that these seals are applied to the cloth bind itself, not the individual (and as such, escaping would end all the effects)--indeed, it is impossible to apply seals to someone trapped inside Cloth Binding, as the cloth disrupts the delicate chakra frameworks needed.
 
-Five Elements Seal:  
-The victim cannot spend Chakra in any way, and all Upkeeps they have (including Upkeep 0\) end immediately and cannot be reestablished.
+**Five Elements Seal.** Use the mark’s normal disruption effect on the captive. Its duration starts when applied to the cloth.
 
-Sacred Silence Seal:  
-The target becomes unable to produce noise; any sounds they would make are muted (even without their mouth being covered). Additionally, their chakra, and that of the cloth bind, cannot be seen or sensed (by doujutsu, chakra sensors, or natural chakra). If they have any of those senses, they are similarly disabled.
+**Sacred Silence Seal.** The captive makes no sound. Chakra senses cannot detect the captive or the binding, and the captive cannot use those senses.
 
-Influence Seal:  
-It is impossible for the victim to perform any sort of taijutsu.
+**Influence Seal.** The caster can trigger its normal effect on the captive through the cloth.
 
-Evil Sealing Method:  
-If the Upkeep used to pay for the technique is ended, the person who originally paid it has 20 IC to resume the Upkeep (a Speed 10 action) before the Cloth Bind's effects ends; if they do so, the cloth bind remains intact and functioning normally.
+**Evil Sealing Method.** If the caster drops the binding’s Upkeep, they have 20 IC to resume it as a Speed 10 action. Otherwise the captive is freed.
 
-If all four of those seals are applied, the cloth bind no longer has an upkeep and becomes effectively permanent. At this point it is also possible for someone who knows Nemurihane (the B-rank Genjutsu) to apply a Rune-Inscribing Technique to the Cloth Bind. This will allow the victim to be placed in, and woken from, a state of suspended animation at will.  
-A total of 1000 or more damage will destroy the cloth bind, freeing the trapped individual; the cloth takes damage from anything targeting them before they do. It is also impossible to target the victim with medical ninjutsu or genjutsu while they are still trapped inside the cloth. If the user puts a strengthening seal on the cloth, then it effectively becomes indestructible, which means there is no hope for the trapped individual to ever escape.  
+With all four seals in place, the cloth holds without Upkeep for as long as all four remain. If any one ends, resume the cloth’s Upkeep or release the captive; Evil Sealing Method gives its grace period if still present. The captive can still struggle. The cloth takes damage aimed at the captive first and breaks after taking 1,000 damage. A B-rank Strengthening Seal adds its listed HP and DR. Medical Ninjutsu and Genjutsu cannot target the captive through intact cloth.
+
 The victim can be freed by anyone able to remain in melee, as a Speed 20 Delay 20 action. After the cloth bind has been escaped (by any means), all seals on it dissipate and the cloth itself becomes useless.
 
 #### Shuriken Kage Bunshin no Jutsu - Shuriken Shadow Clone Technique

@@ -13,6 +13,8 @@ permalink: "/rules/jutsu/genjutsu/"
 # Genjutsu
 {:#genjutsu}
 
+Genjutsu changes what a target perceives. The user can hide an object, sell a false opening, or make an opponent hesitate. Each combat illusion gives the victim a point at which they can recognize it and attempt Kai.
+
 ### Requirements
 {:#requirements-3}
 
@@ -57,6 +59,8 @@ Additionally, each time a genjutsu is successfully used against you in combat, y
 By their nature, it's hard to realize that one is suffering from the effects of a genjutsu technique. It's possible to be afflicted by a genjutsu that you know and use frequently, with obvious 'tells', and still mistake it for reality--such is the nature of delusions.
 
 Every combat Genjutsu states when its victim Realizes the illusion. For Realizes entries, X means the margin by which the user's Genjutsu Offense beat that target's Genjutsu Defense, unless the entry defines another variable. Realization cannot occur later than the technique's remaining Duration; if its Duration ends first, the illusion ends without a separate Realize action. Once the target Realizes, they may attempt Genjutsu Kai or any special escape method explicitly listed by that technique. Merely realizing an illusion does not end it.
+
+An illusory Wound applies the listed penalties to its victim. It deals no HP damage, cannot trigger benefits or releases that require a real Wound, and leaves no Wound to heal. Where real and illusory Wounds or multiple illusory Wounds impose the same penalty at the same location, use the strongest. Conditions caused by an illusory Wound end with the illusion.
 
 Most Genjutsu can end in three ways:  
 - Genjutsu Kai: a victim may attempt it after Realizing, and another creature may use it on a victim whether or not the victim has Realized.  
@@ -165,10 +169,11 @@ Chakra: 18
 Range: 25  
 Speed: 12  
 Seal Speed: 14  
-Special: Stun 5 \+ X  
+Special: Stun 3 + X (maximum 8)  
 Duration: 20 IC  
 Tags: Attack, Direct  
-Effects: X is the amount the opponent failed their genjutsu defense roll by. After the first time each day a target is subjected to this jutsu the base stun is reduced to 0\. Additionally, once per day when a target fails their genjutsu defense by 10 or more they lose a Willpower. If used on a target with 0 Willpower remaining, this technique's base stun is increased by 5 (to 10, or 5, depending on whether or not it's been used on them previously in that battle).  
+Effects: On a full hit, inflict Stun 3 + X, up to Stun 8. After the first time the target is affected each day, use Stun X, up to Stun 5. Once per day per target, a margin of 10 or more also costs the victim 1 Willpower. Having no Willpower left does not increase the Stun.
+
 Realizes: 5 \+ X IC
 
 #### Oboro Bunshin no Jutsu - Haze Clone Technique
@@ -334,13 +339,13 @@ Speed: 20
 Seal Speed: 18  
 Duration: 70 \- 10×Y IC  
 Tags: Attack, Direct  
-Effects: Choose a damage type before Genjutsu Defense is rolled. On a full hit, the victim suffers one illusory Wound of that type at a randomly rolled location: Severe if its Genjutsu Defense failed by 10+, Major if it failed by 5+, otherwise Minor. Y is the illusory Wound severity (Minor 1, Major 2, Severe 3). Determine Upkeep and Duration from Y after the hit resolves. X in Realizes is the Genjutsu hit margin.
+Effects: Choose a damage type before Genjutsu Defense is rolled. On a full hit, the victim suffers one illusory Wound of that type at a randomly rolled location: Major if its Genjutsu Defense failed by 5+, otherwise Minor. Y is the illusory Wound severity (Minor 1, Major 2). Determine Upkeep and Duration from Y after the hit resolves. X in Realizes is the Genjutsu hit margin.
 
 The victim suffers that illusory Wound's normal penalties and directly caused statuses, but it does not reduce HP or create a real Wound. Healing or Wound-ignoring abilities may suppress its penalties at their normal cost; those resources remain spent when the illusion ends, but healing cannot end this Genjutsu by itself.
 
 Statuses directly created by the illusory Wound end when the Genjutsu ends. Real Fatigue accumulated while acting under its penalties does not disappear. The illusion cannot directly cause death or permanent unconsciousness. A real Major or higher Wound ends it under the normal Direct Genjutsu rule.
 
-Brain Destruction's illusory Wound may break another Direct Genjutsu that normally ends on a Wound, but never breaks itself. If a new Brain Destruction lands on the same victim, the previous instance ends before the new one is applied.
+A new Brain Destruction on the same victim replaces the previous one.
 
 Realizes: 5 \+ X IC
 
@@ -395,14 +400,13 @@ Accuracy: \-2
 Range: 30  
 Speed: 16  
 Seal Speed: 20  
-Special: Stun 5  
+Duration: 25 IC  
 Tags: Attack, Direct, Genjutsu, Auditory  
 Effects:
 
-On a full hit, apply Stun 5\. For 25 IC, the victim suffers \-4 Awareness when relying on sound, \+3 Final Seal Speed on techniques requiring handseals, and \+3 Final Speed on its first defensive Interrupt against each incoming hostile Action. These Speed increases do not override expressly stated minimums. Echo Chamber cannot affect creatures unable to hear its initial sound.  
-Realizes: 8 \+ X IC
+On a full hit, the target takes −4 Awareness on checks that rely on sound. The first time each IC it declares a defensive Interrupt against a hostile action, increase that Interrupt’s Final Speed by 2. Echo Chamber cannot reach a target unable to hear the initial sound.
 
-If they are completely deaf or inside an effect that prevents sound from reaching them, this technique cannot target them.
+Realizes: 8 + X IC
 
 #### Magen: Jubaku Satsu - Demon Illusion: Tree Binding Death
 {:#magen-jubaku-satsu-demon-illusion-tree-binding-death .jutsu-technique}
@@ -434,11 +438,10 @@ Accuracy: \-3
 Range: 25  
 Speed: 18  
 Seal Speed: 22  
-Special: Stun 6, Immobilization 4, illusory Suffocation 2  
+Duration: 20 IC  
+Special: Illusory Suffocation 2  
 Tags: Attack, Direct, Genjutsu, Visual, Tactile  
-Effects:
-
-On a full hit, apply Stun 6, Immobilization 4 (fear-based) and illusory Suffocation 2 for 20 IC. Until the illusion ends, whenever the victim declares an Attack or a Jutsu requiring handseals, that Action gains \+2 Final Speed and its illusory Suffocation increases by 1, maximum 6\. Before declaring an Action, the victim may instead spend a Speed 6 Utility Action to regain composure and reduce illusory Suffocation by 2\. This illusion imposes ordinary Suffocation penalties but does not represent actual loss of oxygen. Genjutsu Kai works normally once Realized.
+Effects: On a full hit, the victim feels itself sinking and suffers −2 to Stamina and Chakra Exhaustion rolls from illusory Suffocation. Each time it declares an Attack or a jutsu requiring handseals, raise the severity by 1 after that action, to a maximum of 4. Count each action once. As a Speed 6 Utility action the victim may steady its breathing and reduce severity by 2. At 0 the illusion ends. The penalty equals the current severity. Do not roll Stamina when this illusory severity increases. It ends immediately with the illusion.
 
 Realizes: 8 \+ X IC. If the target takes real Suiton damage before escaping, it gains \+3 on its next eligible Genjutsu Defense or Kai roll against Drowning Dream, as real sensation conflicts with the illusion.
 
@@ -459,7 +462,7 @@ Duration: 40 IC
 Tags: Attack, Direct  
 Effects: On a full Genjutsu hit, apply Stun 10 and choose one location (head, torso, abdomen, one arm or one leg). The victim suffers one illusory Minor Piercing Wound in that location, or a Slashing Wound if the head is chosen. If the Genjutsu Offense beats their Defense by 10+, upgrade that one illusory Wound to Major and increase Stun to 15\. Determine these benefits when the Jutsu resolves; never charge retroactive Chakra or Upkeep costs.
 
-The illusory Wound follows Brain Destruction's rules for penalties and removing directly caused statuses. An illusory Major Wound may end other Direct Genjutsu that normally break on a Wound, but cannot end Iron Maiden itself. A real Major Wound ends Iron Maiden under the normal Direct Genjutsu rule.
+The illusory Wound follows Brain Destruction's rules for penalties and removing directly caused statuses. A real Major Wound ends Iron Maiden under the normal Direct Genjutsu rule.
 
 Realizes: 15 IC
 
@@ -475,11 +478,11 @@ Chakra: 30
 Range: 15  
 Speed: 15  
 Seal Speed: 20  
-Duration: 20 \+ X IC (maximum 60 IC)  
-Special: Stun 5 \+ X
+Duration: 20 + X IC (maximum 60 IC)  
+Special: Stun 5 + X (maximum 12)
 
 Tags: Attack, Direct  
-Effects: You and the target must have direct line of sight (neither may suffer Visibility \-6 or worse). X is the margin by which the target fails Genjutsu Defense. On a full hit, apply Stun 5+X and Paralysis equal to X/3 (rounded down, maximum 6\) while the Stun lasts. Both statuses end if the Genjutsu ends first.
+Effects: You and the target must have direct line of sight (neither may suffer Visibility \-6 or worse). X is the margin by which the target fails Genjutsu Defense. On a full hit, apply Stun 5+X (maximum 12) and Paralysis equal to X/3 (rounded down, maximum 6\) while the Stun lasts. Both statuses end if the Genjutsu ends first.
 
 Realizes: X IC
 
@@ -526,7 +529,7 @@ Speed: 17
 Seal Speed: 27  
 Duration: 50 IC  
 Tags: Attack, Direct  
-Effects: When the affected target declares an Action of Final Speed Y, it immediately suffers Paralysis equal to half Y (rounded up, maximum 10), lasting 2×Y IC. Calculate Y from the Action's Speed before this newly applied Paralysis; do not recalculate the trigger recursively. After the Action resolves, the victim makes Genjutsu Defense against the caster's original Offense. On a success, Nervous Convulsions ends.
+Effects: On a full hit, the victim sees its limbs move a moment before they actually do. When it declares a non-Interrupt Action of Final Speed 10 or more, increase that Action’s Final Speed by 4 for timing only. Use the original Speed for damage. After each affected Action resolves, the victim rolls Genjutsu Defense against the original Offense; success ends the illusion. Shorter actions and defensive Interrupts do not trigger it.
 
 Realizes: 5 \+ X IC
 

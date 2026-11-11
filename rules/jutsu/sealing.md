@@ -222,12 +222,12 @@ Seal Speed: 20
 Tags: Unseal  
 Effects: This ends a single D-rank or lower seal on an object or person.
 
-#### Tsuyome Fuuin - Strengthening Seal
+#### Heisa Fūin - Closure Seal
 {:#tsuyome-fuuin-strengthening-seal .jutsu-technique}
 
 <span class="jutsu-rank-badge">D-Rank</span>
 
-An advanced and demanding seal, this applies a resilient lattice of chakra to enhance the physical integrity of walls, floors, ceilings, and the like.
+You seal the join where a door, lid, or other closure opens.
 
 Chakra: 20  
 Speed: 15  
@@ -340,7 +340,9 @@ Accuracy: \-6
 Speed: 25  
 Seal Speed: 20  
 Tags: Mark  
-Effects: Once applied, the seal is invisible and undetectable. It will only be discovered by a sealing expert who knows to look for it (someone who knows at least 1 C-rank or higher sealing jutsu). You may only have one Tracking Seal applied at a time (though one person can have multiple Tracking Seals placed on them); if you use it on another person, your link to the other seal is broken, and that seal unravels harmlessly.
+Effects: The mark is invisible to ordinary sight and chakra senses. You may only have one Tracking Seal applied at a time (though one person can have multiple Tracking Seals placed on them); if you use it on another person, your link to the other seal is broken, and that seal unravels harmlessly.
+
+A shinobi who knows a C-rank or higher Fūinjutsu can find the mark by examining the bearer in melee as a Speed 10 action. An appropriate Unseal can then remove it.
 
 While you have a target marked by Tsuiseki Fuuin \- Tracking Seal you gain the following action:
 
@@ -396,7 +398,7 @@ Chakra: 40
 Speed: 16  
 Seal Speed: 20  
 Tags: Mark  
-Effects: This temporarily severs the contract between a summoner and their summon forcibly de-summoning anything they've already summoned.
+Effects: On a full hit, choose one of the target’s active summoning contracts. Dismiss the creatures summoned through that contract. The target cannot call them again for 30 IC or until the mark is unsealed, whichever comes first. The mark then ends.
 
 #### Kōsō Kaifū -  Greater Unseal
 {:#koso-kaifu-greater-unseal .jutsu-technique}
@@ -517,9 +519,7 @@ Accuracy: \-5
 Speed: 15  
 Seal Speed: 50  
 Tags: Mark  
-Effects: Any jutsu with Upkeeps they have activated end immediately due to the disruption of their chakra. While the mark remains the unfortunate victim has a \-25 penalty to all Chakra Exhaustion rolls, and has their Chakra Control skill ranks reduced by 15, which can also temporarily lower their ranks in abilities (such as Water Walking).
-
-If they fail a Chakra Exhaustion roll, they fail to use the jutsu they were trying to (but still advance a Fatigue category as normal). Furthermore, even if they succeed they must pass a Chakra Control check against the technique's Chakra cost or fail anyway.
+Effects: On a full hit, end one active Upkeep of your choice on the target. For the next 40 IC the bearer takes −6 to Chakra Exhaustion rolls and pays +2 on each remaining or newly activated Chakra Upkeep while the seal lasts. Use normal Chakra Exhaustion results. The mark ends after 40 IC or when unsealed. A second Five Elements Seal refreshes the duration and cannot end another Upkeep while the first mark is active.
 
 #### Hakke no Fūin Shiki - Eight Trigrams Sealing Style
 {:#hakke-no-fuin-shiki-eight-trigrams-sealing-style .jutsu-technique}
@@ -568,14 +568,14 @@ By throwing 5 pre-inscribed seals you conjure a miniature version of the above b
 
 <span class="jutsu-rank-badge">A-Rank</span>
 
-Not all seals can be removed easily. This circumvents that by suppressing fuuinjutsu, or any sort of chakra-based markings, on a person. The technique's greatest failing is its dependence upon the recipient to provide some of the strength behind it, meaning they can overcome its effects at will, making it useless for offensive applications.
+A spiral mark interrupts the flow of chakra that sustains a bloodline technique.
 
 Chakra: 45  
 Accuracy: \-8  
 Speed: 16  
 Seal Speed: 30  
 Tags: Mark  
-Effects: This suppresses any kekkei genkai or bloodline related abilities the target possesses. While it remains they cannot receive any effects or use any jutsu provided by their clan. Due to its delicate nature this mark naturally erodes over time and ends after 1 minute.
+Effects: On a full hit, choose one clan jutsu or activated bloodline feature the target is currently using. Suspend that effect and prevent its activation for 30 IC. Its duration continues to run; the bearer must maintain any normal Upkeep to resume it when the mark ends. Innate anatomy and passive features are unaffected. Only one Wheel Devouring Vortex may affect a creature at a time; a new mark replaces the old one.
 
 #### Tsute Fuuin - Influence Seal
 {:#tsute-fuuin-influence-seal .jutsu-technique}
@@ -588,7 +588,6 @@ Chakra: 30 \+ X
 Speed: 14, \+10 if it hits  
 Seal Speed: 20  
 Tags: Mark  
-Effects: X has a maximum of your CHA/10. As a Speed 10, Chakra 15 \+ X action, you can activate this seal disrupting the flow of chakra within their body. For the next 100 IC every time they declare an action they must roll a CE with a TN of X\*2. On a success they take no fatigue penalties and may perform their jutsu as normal. If they fail they do not advance fatigue, but their action is cancelled and they gain Stun 5\.
-
+Effects: Choose X from 1 to CHA/10 (round down) when placing the mark. While the bearer is within 30 yards, you may spend Speed 10 and 15 + X Chakra to arm it for 30 IC. The next time the bearer declares a jutsu with a Chakra cost, it rolls Chakra Exhaustion against TN 2×X. On a failure, cancel that jutsu before its costs are paid and inflict Stun 5. Advance the bearer by the Stun only. This check causes no Fatigue and does not replace the ordinary Chakra Exhaustion roll for a jutsu that proceeds. The mark ends after this check or when the 30 IC expire. Only one Influence Seal can be armed on a bearer at a time. An armed seal cannot be armed again. Unsealing it earlier prevents the trigger.
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
