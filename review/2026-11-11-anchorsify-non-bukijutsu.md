@@ -36,7 +36,7 @@ Hallucinatory Voices, Mist Servant, Descending Hell, Hell Viewing, False Battlef
 | --- | --- | --- |
 | Katon | Sticky Fire | The first damaging Katon hit within 30 IC consumes the coating. Ordinary environmental fire cannot trigger it. Explicit interactions such as a technique igniting the coating still work. |
 | Raiton | Shocking Burst | Choose one target or everyone else within 10 yards, allies included. The pulse imposes no Area Dodge penalty. Speed 6 → 4, minimum 4. Dice 1d12 × 1d4 → 1d6 × 1d4. Paralysis 1 → 2 for 20 IC. |
-| Suiton | Water Splash | Restored Ember’s 1–3 gallon Dodge Link. Gain +G Dodge, or +1 if the attacker has seen you use it this combat. Costs are 5 + 2G Chakra, +G Speed and 3G Seal Speed. |
+| Suiton | Water Splash | Spend 1–90 gallons. The first Dodge gains +G. On later uses, roll opposed Espionage. The attacker gains +5 per previous check they have made this combat. A success gives +G. Your first failure gives +G/2, your second +G/3, and so on for the encounter. Costs are 5 + 2G Chakra, +G Speed and 3G Seal Speed. |
 | Doton | Earthen Skewer | +10% damage for Wound severity. HP damage and Stun 4 stay at their printed values. |
 | Fūton | Wind Release Stream | Steer in the air or cancel landing damage with an Interrupt. Removed the generic grapple-defense bonus. Chakra 12 → 8 and Seal Speed 7 → 6. |
 | Sealing | Tracking Seal | Seek gives direction and approximate distance while stationary. Removed the free +10 combat Search and its bypass of Awareness penalties. |

@@ -71,9 +71,9 @@ Tags: Attack, Projectile, Blunt
 Chakra: 5 \+ G\*2  
 Speed: \+G  
 Seal Speed: G\*3  
-Gallons Requirement: 1 to 3  
+Gallons Requirement: 1 \> 90  
 Tags: Link  
-Effects: Link to your Dodge. Gain +G to that roll. If the attacker has already seen you use Water Splash this combat, the bonus is +1. Count only uses that attacker could see. Pay the listed costs for each use.
+Effects: This is used alongside a Dodge Interrupt, and provides it with a \+G bonus. After your first time using this in a Combat Encounter, your enemies begin to see it coming. Each time you wish to use it, make an opposed Espionage vs their Espionage, with a \+5 for each time they’ve made this check this combat, on a success apply the effects as normal, on a failure you instead gain \+G/2 to your dodge. Each time you fail for this combat the divisor of this increases by 1 (G/2, G/3, G/4, G/5…)
 
 ## D-Rank
 {:#d-rank-9 .jutsu-rank-heading}
