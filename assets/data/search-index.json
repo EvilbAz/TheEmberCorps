@@ -17266,7 +17266,7 @@
     "volume": "Pre-Made Weapons",
     "number": "VI",
     "url": "/rules/standard-weapons/",
-    "text": "Looking for protection? Browse the illustrated Pre-Made Armor Catalogue ↗ Compare ready-made weapons by class, price, Speed and Range. Open a pattern for its full equipment entry. Statistics below are quick references. The linked equipment entries contain complete traits, components and purchasing rules. Ammunition prices are for batches of ten. Small Weapons Medium Weapons Large Weapons Extreme Weapons Matched Weapons Bows Crossbows Kunai Launchers Shuriken Launchers Ready-Made Kunai & Shuriken Ready-Made Ammunition"
+    "text": "Looking for protection? Browse the illustrated Pre-Made Armor Catalogue ↗ Compare ready-made weapons by class, price, Speed and Range. Open a pattern for its full equipment entry. Statistics below are quick references. The linked equipment entries contain complete traits, components and purchasing rules. Ammunition prices are for batches of ten. Small Weapons Medium Weapons Large Weapons Extreme Weapons Matched Weapons Bows Crossbows Kunai Launchers Shuriken Launchers Ready-Made Kunai & Shuriken Ready-Made Ammunition Monster-hunting weapons (6) Splitjaw Switch Axe Basalt Breaker Carapace Guardlance Jawbone Cleaver Raptor Fangs Ridgeback Heavy Bowgun"
   },
   {
     "title": "Small Weapons",
@@ -17287,21 +17287,56 @@
     "volume": "Pre-Made Weapons",
     "number": "VI",
     "url": "/rules/standard-weapons/#catalog-large-weapons",
-    "text": "Large Weapons 13 ITEMS 013 Greatsword 18,000 Ryō Speed 13 Damage 6d10 Accuracy +0 AP 0 FULL STAT BLOCK ↗ 014 Nodachi 22,000 Ryō Speed 13 Damage 6d10 Accuracy +0 AP 4 FULL STAT BLOCK ↗ 015 Spear 18,000 Ryō Speed 13 Damage 6d10 Accuracy +1 AP 0 FULL STAT BLOCK ↗ 016 Naginata 22,000 Ryō AP 2 FULL STAT BLOCK ↗ 017 Heavy Lance 26,000 Ryō Speed 13 Damage 6d10 Accuracy +1 AP 5 FULL STAT BLOCK ↗ 018 Maul 18,000 Ryō Speed 13 Damage 6d10 Accuracy -1 AP 0 FULL STAT BLOCK ↗ 019 Warhammer 24,000 Ryō Speed 13 Damage 6d10 Accuracy -1 AP 5 FULL STAT BLOCK ↗ 020 Kanabō 24,000 Ryō Speed 13 Damage 8d10 Accuracy -1 AP 4 FULL STAT BLOCK ↗ 021 Heavy Chain 22,000 Ryō Speed 13 Damage 6d10 Accuracy +0 AP 3 FULL STAT BLOCK ↗ 022 Great War Fan 22,000 Ryō Speed 13 Damage 6d10 Accuracy -2 AP 3 FULL STAT BLOCK ↗ Splitjaw Switch Axe 16,500 Ryō Speed 13 Damage 7d10 Accuracy +0 AP 9 FULL STAT BLOCK ↗ Basalt Breaker 15,500 Ryō Speed 13 Damage 7d10 Accuracy −1 AP 8 FULL STAT BLOCK ↗ Carapace Guardlance 19,000 Ryō Speed 13 Damage 8d10 Accuracy +1 AP 12 FULL STAT BLOCK ↗"
+    "text": "Large Weapons 13 ITEMS 013 Greatsword 18,000 Ryō Speed 13 Damage 6d10 Accuracy +0 AP 0 FULL STAT BLOCK ↗ 014 Nodachi 22,000 Ryō Speed 13 Damage 6d10 Accuracy +0 AP 4 FULL STAT BLOCK ↗ 015 Spear 18,000 Ryō Speed 13 Damage 6d10 Accuracy +1 AP 0 FULL STAT BLOCK ↗ 016 Naginata 22,000 Ryō AP 2 FULL STAT BLOCK ↗ 017 Heavy Lance 26,000 Ryō Speed 13 Damage 6d10 Accuracy +1 AP 5 FULL STAT BLOCK ↗ 018 Maul 18,000 Ryō Speed 13 Damage 6d10 Accuracy -1 AP 0 FULL STAT BLOCK ↗ 019 Warhammer 24,000 Ryō Speed 13 Damage 6d10 Accuracy -1 AP 5 FULL STAT BLOCK ↗ 020 Kanabō 24,000 Ryō Speed 13 Damage 8d10 Accuracy -1 AP 4 FULL STAT BLOCK ↗ 021 Heavy Chain 22,000 Ryō Speed 13 Damage 6d10 Accuracy +0 AP 3 FULL STAT BLOCK ↗ 022 Great War Fan 22,000 Ryō Speed 13 Damage 6d10 Accuracy -2 AP 3 FULL STAT BLOCK ↗"
+  },
+  {
+    "title": "Extreme Weapons",
+    "volume": "Pre-Made Weapons",
+    "number": "VI",
+    "url": "/rules/standard-weapons/#pattern-splitjaw-switch-axe",
+    "text": "Splitjaw Switch Axe 16,500 Ryō Speed 13 Damage 7d10 Accuracy +0 AP 9 FULL STAT BLOCK ↗"
+  },
+  {
+    "title": "Extreme Weapons",
+    "volume": "Pre-Made Weapons",
+    "number": "VI",
+    "url": "/rules/standard-weapons/#pattern-basalt-breaker",
+    "text": "Basalt Breaker 15,500 Ryō Speed 13 Damage 7d10 Accuracy −1 AP 8 FULL STAT BLOCK ↗"
+  },
+  {
+    "title": "Extreme Weapons",
+    "volume": "Pre-Made Weapons",
+    "number": "VI",
+    "url": "/rules/standard-weapons/#pattern-carapace-guardlance",
+    "text": "Carapace Guardlance 19,000 Ryō Speed 13 Damage 8d10 Accuracy +1 AP 12 FULL STAT BLOCK ↗"
   },
   {
     "title": "Extreme Weapons",
     "volume": "Pre-Made Weapons",
     "number": "VI",
     "url": "/rules/standard-weapons/#catalog-extreme-weapons",
-    "text": "Extreme Weapons 5 ITEMS 023 Colossal Blade 35,000 Ryō Speed 15 Damage 8d12 Accuracy +0 AP 0 FULL STAT BLOCK ↗ 024 Great Maul 35,000 Ryō Speed 15 Damage 8d12 Accuracy -1 AP 0 FULL STAT BLOCK ↗ 025 Siege Hammer 45,000 Ryō Speed 15 Damage 8d12 Accuracy -1 AP 5 FULL STAT BLOCK ↗ 026 Giant Polearm 40,000 Ryō Speed 15 Damage 8d12 Accuracy +1 AP 4 FULL STAT BLOCK ↗ Jawbone Cleaver 23,500 Ryō Speed 15 Damage 9d12 Accuracy +0 AP 6 FULL STAT BLOCK ↗"
+    "text": "Extreme Weapons 5 ITEMS 023 Colossal Blade 35,000 Ryō Speed 15 Damage 8d12 Accuracy +0 AP 0 FULL STAT BLOCK ↗ 024 Great Maul 35,000 Ryō Speed 15 Damage 8d12 Accuracy -1 AP 0 FULL STAT BLOCK ↗ 025 Siege Hammer 45,000 Ryō Speed 15 Damage 8d12 Accuracy -1 AP 5 FULL STAT BLOCK ↗ 026 Giant Polearm 40,000 Ryō Speed 15 Damage 8d12 Accuracy +1 AP 4 FULL STAT BLOCK ↗"
+  },
+  {
+    "title": "Matched Weapons",
+    "volume": "Pre-Made Weapons",
+    "number": "VI",
+    "url": "/rules/standard-weapons/#pattern-jawbone-cleaver",
+    "text": "Jawbone Cleaver 23,500 Ryō Speed 15 Damage 9d12 Accuracy +0 AP 6 FULL STAT BLOCK ↗"
   },
   {
     "title": "Matched Weapons",
     "volume": "Pre-Made Weapons",
     "number": "VI",
     "url": "/rules/standard-weapons/#catalog-matched-weapons",
-    "text": "Matched Weapons 5 ITEMS 027 Twin Short Swords 18,000 Ryō AP 1 FULL STAT BLOCK ↗ 028 Twin Blades 28,000 Ryō AP 1 FULL STAT BLOCK ↗ 029 Twin Tonfa 24,000 Ryō AP 1 FULL STAT BLOCK ↗ Knuckle Blades (Trench Knives) 9,000 Ryō Speed 8 Damage 2d6 Accuracy +0 AP 4 FULL STAT BLOCK ↗ Raptor Fangs 11,500 Ryō Speed 8 Damage 3d6 Accuracy +0 AP 8 FULL STAT BLOCK ↗"
+    "text": "Matched Weapons 5 ITEMS 027 Twin Short Swords 18,000 Ryō AP 1 FULL STAT BLOCK ↗ 028 Twin Blades 28,000 Ryō AP 1 FULL STAT BLOCK ↗ 029 Twin Tonfa 24,000 Ryō AP 1 FULL STAT BLOCK ↗ Knuckle Blades (Trench Knives) 9,000 Ryō Speed 8 Damage 2d6 Accuracy +0 AP 4 FULL STAT BLOCK ↗"
+  },
+  {
+    "title": "Bows",
+    "volume": "Pre-Made Weapons",
+    "number": "VI",
+    "url": "/rules/standard-weapons/#pattern-raptor-fangs",
+    "text": "Raptor Fangs 11,500 Ryō Speed 8 Damage 3d6 Accuracy +0 AP 8 FULL STAT BLOCK ↗"
   },
   {
     "title": "Bows",
@@ -17315,7 +17350,14 @@
     "volume": "Pre-Made Weapons",
     "number": "VI",
     "url": "/rules/standard-weapons/#catalog-crossbows-2",
-    "text": "Crossbows 6 ITEMS 035 Field Hand Crossbow 20,000 Ryō Speed 11 Damage 4dS Accuracy -4 AP 4 FULL STAT BLOCK ↗ 036 Skirmisher Crossbow 25,000 Ryō Speed 11 Damage 5dS Accuracy -4 AP 7 FULL STAT BLOCK ↗ 037 Twinbolt Hunting Crossbow 37,000 Ryō Speed 13 Damage 8dS Accuracy -5 AP 9 FULL STAT BLOCK ↗ 038 Farshot Hunting Crossbow 37,000 Ryō Speed 13 Damage 8dS Accuracy -5 (+1 on Aimed Attacks) AP 9 FULL STAT BLOCK ↗ 039 Siege Arbalest 47,000 Ryō Speed 16 Damage 12dS Accuracy -6 AP 9 FULL STAT BLOCK ↗ Ridgeback Heavy Bowgun 11,750 Ryō Speed 16 Damage 12dS Range 40 + STR/4 AP 8 FULL STAT BLOCK ↗"
+    "text": "Crossbows 6 ITEMS 035 Field Hand Crossbow 20,000 Ryō Speed 11 Damage 4dS Accuracy -4 AP 4 FULL STAT BLOCK ↗ 036 Skirmisher Crossbow 25,000 Ryō Speed 11 Damage 5dS Accuracy -4 AP 7 FULL STAT BLOCK ↗ 037 Twinbolt Hunting Crossbow 37,000 Ryō Speed 13 Damage 8dS Accuracy -5 AP 9 FULL STAT BLOCK ↗ 038 Farshot Hunting Crossbow 37,000 Ryō Speed 13 Damage 8dS Accuracy -5 (+1 on Aimed Attacks) AP 9 FULL STAT BLOCK ↗ 039 Siege Arbalest 47,000 Ryō Speed 16 Damage 12dS Accuracy -6 AP 9 FULL STAT BLOCK ↗"
+  },
+  {
+    "title": "Kunai Launchers",
+    "volume": "Pre-Made Weapons",
+    "number": "VI",
+    "url": "/rules/standard-weapons/#pattern-ridgeback-heavy-bowgun",
+    "text": "Ridgeback Heavy Bowgun 11,750 Ryō Speed 16 Damage 12dS Range 40 + STR/4 AP 8 FULL STAT BLOCK ↗"
   },
   {
     "title": "Kunai Launchers",
