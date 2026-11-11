@@ -129,6 +129,8 @@ Forward Balance — 3 AP. When declaring a Basic Weapon Attack, you may increase
 
 Rear Balance — 3 AP. When declaring a Basic Weapon Attack, you may reduce its Damage by 1 Damage Die to reduce its Final Speed by 1, following normal minimum Speed rules.
 
+Seal Grip — 3 AP. Small, One-Handed only. A hand wielding this weapon may form handseals. Add 3 to Seal Speed if either or both hands use a Seal Grip. The hand still counts as occupied for other actions.
+
 ##### Structural Components
 {:#structural-components}
 
@@ -1345,9 +1347,19 @@ Tanto — 2,500 Ryō. AP 0\. \[Small, Sword, One-Handed, Slashing\]. Speed 8; St
 
 Combat Knife — 3,500 Ryō. AP 2\. \[Small, Sword, One-Handed, Slashing, Piercing\]. Uses Tanto statistics and may deal Slashing or Piercing Wounds.
 
-Tonfa — 4,500 Ryō. AP 3\. \[Small, Club, One-Handed, Blunt\]. Hand Guard 1\. Speed 8; Stamina 10; Damage 2d6; Reach 0; Delay 0; Accuracy \-1; Parry \+1; Durability 30\.
-
 Hand Chain — 4,500 Ryō. AP 3\. \[Small, Chain, One-Handed, Blunt\]. Weighted Chain 1\. Speed 8; Stamina 10; Damage 2d6; Reach 0; Chain Range \+5; Delay 0; Accuracy \+0; Parry \-1; Durability 30; \+1 Grapple Offense while maintaining its Weapon Grapple.
+
+#### Tonfa / Buckler
+{:#tonfa-buckler}
+
+4,500 Ryō. AP 3\. \[Small, Club, One-Handed, Blunt\]. Hand Guard 1\. Speed 8; Stamina 10; Damage 2d6; Reach 0; Delay 0; Accuracy \-1; Parry \+1; Durability 30\. The Buckler is a small shield worn and wielded in one hand. It uses this pattern for attacks, Parries, and Club Bukijutsu.
+
+#### Folding Iron Fan (Tessen)
+{:#folding-iron-fan}
+
+3,500 Ryō. AP 3. [Small, Fan, One-Handed, Blunt]. Quickdraw Fittings. Speed 8, Stamina 10, Damage 2d6, Reach 0, Delay 0, Accuracy −2, Parry +1, Durability 30.
+
+Draw or sheathe the folding fan at Speed 3. It uses Fan Bukijutsu, can Parry Weapon and Unarmed Attacks, and serves as a focus for compatible Fūton techniques.
 
 ### Medium Weapons
 {:#medium-weapons}
@@ -1367,6 +1379,20 @@ War Fan — 5,000 Ryō. AP 0\. \[Medium, Fan, One-Handed, Blunt\]. Speed 10; Sta
 Bladed War Fan — 6,000 Ryō. AP 0\. \[Medium, Fan, One-Handed, Slashing\]. Uses War Fan statistics.
 
 Kusarigama — 8,000 Ryō. AP 4\. \[Medium, Chain, One-Handed, Slashing\]. Extended Haft 1\. Speed 10; Stamina 12; Damage 4d8; Reach 2; Chain Range \+5; Delay 1; Accuracy \+0; Parry \-1; Durability 40.
+
+#### Guard Shield
+{:#guard-shield}
+
+7,500 Ryō. AP 8. [Medium, Club, One-Handed, Blunt, Guard]. Layered Construction, Guard Mount. Speed 10, Stamina 13, Damage 5d8, Reach 1, Delay 1, Accuracy −1, Parry +0, Durability 40.
+
+While wielding the shield, you may use Weapon Block as a Speed 5 Interrupt. Reduce the triggering attack’s damage by 25%. This counts as a Block and requires no Prepare Blocking action.
+
+#### Rain Umbrella (Ame-gasa)
+{:#rain-umbrella}
+
+6,500 Ryō. AP 5. [Medium, Club, One-Handed, Blunt]. Layered Construction. Speed 10, Stamina 12, Damage 4d8, Reach 1, Delay 1, Accuracy −1, Parry +0, Durability 40.
+
+Swing the closed umbrella as a Club, or snap it open for a Weapon Block. This Speed 6 Interrupt reduces the triggering attack’s damage by 25% and counts as a Block. Opening the canopy is part of the Interrupt.
 
 ### Large Weapons
 {:#large-weapons}
@@ -1410,6 +1436,13 @@ Twin Short Swords — 9,000 Ryō. AP 1\. \[Small, Sword, One-Handed, Slashing, D
 Twin Blades — 14,000 Ryō. AP 1\. \[Medium, Sword, One-Handed, Slashing, Dual\]. A matched pair using normal Medium Sword statistics.
 
 Twin Tonfa — 12,000 Ryō. AP 1\. \[Small, Club, One-Handed, Blunt, Dual\]. A matched pair using normal Small Club statistics.
+
+#### Knuckle Blades (Trench Knives)
+{:#knuckle-blades}
+
+9,000 Ryō per pair. AP 4. [Small, Sword, One-Handed, Slashing, Dual]. Seal Grip, Dual Balancing. Speed 8, Stamina 10, Damage 2d6, Reach 0, Delay 0, Accuracy +0, Parry +0, Durability 30.
+
+You can form handseals with both blades drawn. Add 3 to Seal Speed once for the action, even when wielding the pair. Each blade still occupies its hand for Unarmed, Combo, and Grapple requirements. The pair counts as one weapon for purchase and crafting.
 
 # Ranged Weapons
 {:#ranged-weapons-2}

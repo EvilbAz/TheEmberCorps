@@ -8789,7 +8789,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#grip-haft-balance",
-    "text": "Counterweight — 2 AP/Rank. Reduce Base Delay by 1 per Rank. This cannot reduce Base Delay below half its original value, rounded down. Weighted Heft — 3 AP/Rank. Whenever you declare a damaging Attack with this weapon, increase that Attack's Delay by 1 per Rank and its Final Damage by 5% per Rank. Apply the additional Delay after reductions to the weapon's Base Delay. Maximum 3 Ranks. Lightweight — 3 AP/Rank. Reduce Base Stamina by 1 per Rank. Maximum reduction is one quarter of the weapon's original Stamina, rounded down. Hand Guard — 3 AP/Rank. Gain +1 Parry per Rank. Maximum 2 Ranks. Perfect Balance — 4 AP/Rank. Reduce Base Speed by 1 per Rank. Maximum 2 Ranks. Wide Guard — 4 AP. Reduce the Base Speed of Parry with this weapon by 1. Quick Recovery — 5 AP/Rank. Gain +1 Accuracy per Rank. Maximum 2 Ranks. Oil Quenched — 7 AP. Increase the weapon's Damage Die size by 2. Extreme weapons instead gain +2 Damage per Damage Die. Maximum 1 Rank. Secure Grip — 2 AP/Rank. Disarm Attacks targeting this weapon suffer -1 Accuracy per Rank. Maximum 2 Ranks. Extended Haft — 4 AP/Rank. Gain +1 Reach per Rank. Maximum 2 Ranks; Small weapons may purchase only 1. Shortened Grip — 2 AP. Reduce Reach by 1, minimum 0, and gain +1 Parry. Cannot be combined with Extended Haft. Sliding Grip — 4 AP. Requires Reach 1+. At the start of each Attack choose Long Grip (+1 Reach, -1 Parry until it resolves) or Short Grip (-1 Reach, +1 Accuracy for that Attack). Reach cannot fall below 0. Forward Balance — 3 AP. When declaring a Basic Weapon Attack, you may increase its Final Speed by 1 to gain +1 Damage Die. Rear Balance — 3 AP. When declaring a Basic Weapon Attack, you may reduce its Damage by 1 Damage Die to reduce its Final Speed by 1, following normal minimum Speed rules."
+    "text": "Counterweight — 2 AP/Rank. Reduce Base Delay by 1 per Rank. This cannot reduce Base Delay below half its original value, rounded down. Weighted Heft — 3 AP/Rank. Whenever you declare a damaging Attack with this weapon, increase that Attack's Delay by 1 per Rank and its Final Damage by 5% per Rank. Apply the additional Delay after reductions to the weapon's Base Delay. Maximum 3 Ranks. Lightweight — 3 AP/Rank. Reduce Base Stamina by 1 per Rank. Maximum reduction is one quarter of the weapon's original Stamina, rounded down. Hand Guard — 3 AP/Rank. Gain +1 Parry per Rank. Maximum 2 Ranks. Perfect Balance — 4 AP/Rank. Reduce Base Speed by 1 per Rank. Maximum 2 Ranks. Wide Guard — 4 AP. Reduce the Base Speed of Parry with this weapon by 1. Quick Recovery — 5 AP/Rank. Gain +1 Accuracy per Rank. Maximum 2 Ranks. Oil Quenched — 7 AP. Increase the weapon's Damage Die size by 2. Extreme weapons instead gain +2 Damage per Damage Die. Maximum 1 Rank. Secure Grip — 2 AP/Rank. Disarm Attacks targeting this weapon suffer -1 Accuracy per Rank. Maximum 2 Ranks. Extended Haft — 4 AP/Rank. Gain +1 Reach per Rank. Maximum 2 Ranks; Small weapons may purchase only 1. Shortened Grip — 2 AP. Reduce Reach by 1, minimum 0, and gain +1 Parry. Cannot be combined with Extended Haft. Sliding Grip — 4 AP. Requires Reach 1+. At the start of each Attack choose Long Grip (+1 Reach, -1 Parry until it resolves) or Short Grip (-1 Reach, +1 Accuracy for that Attack). Reach cannot fall below 0. Forward Balance — 3 AP. When declaring a Basic Weapon Attack, you may increase its Final Speed by 1 to gain +1 Damage Die. Rear Balance — 3 AP. When declaring a Basic Weapon Attack, you may reduce its Damage by 1 Damage Die to reduce its Final Speed by 1, following normal minimum Speed rules. Seal Grip — 3 AP. Small, One-Handed only. A hand wielding this weapon may form handseals. Add 3 to Seal Speed if either or both hands use a Seal Grip. The hand still counts as occupied for other actions."
   },
   {
     "title": "Structural Components",
@@ -9622,7 +9622,21 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#small-weapons",
-    "text": "Tanto — 2,500 Ryō. AP 0. [Small, Sword, One-Handed, Slashing]. Speed 8; Stamina 10; Damage 2d6; Reach 0; Delay 0; Accuracy +0; Parry +0; Durability 30. Combat Knife — 3,500 Ryō. AP 2. [Small, Sword, One-Handed, Slashing, Piercing]. Uses Tanto statistics and may deal Slashing or Piercing Wounds. Tonfa — 4,500 Ryō. AP 3. [Small, Club, One-Handed, Blunt]. Hand Guard 1. Speed 8; Stamina 10; Damage 2d6; Reach 0; Delay 0; Accuracy -1; Parry +1; Durability 30. Hand Chain — 4,500 Ryō. AP 3. [Small, Chain, One-Handed, Blunt]. Weighted Chain 1. Speed 8; Stamina 10; Damage 2d6; Reach 0; Chain Range +5; Delay 0; Accuracy +0; Parry -1; Durability 30; +1 Grapple Offense while maintaining its Weapon Grapple."
+    "text": "Tanto — 2,500 Ryō. AP 0. [Small, Sword, One-Handed, Slashing]. Speed 8; Stamina 10; Damage 2d6; Reach 0; Delay 0; Accuracy +0; Parry +0; Durability 30. Combat Knife — 3,500 Ryō. AP 2. [Small, Sword, One-Handed, Slashing, Piercing]. Uses Tanto statistics and may deal Slashing or Piercing Wounds. Hand Chain — 4,500 Ryō. AP 3. [Small, Chain, One-Handed, Blunt]. Weighted Chain 1. Speed 8; Stamina 10; Damage 2d6; Reach 0; Chain Range +5; Delay 0; Accuracy +0; Parry -1; Durability 30; +1 Grapple Offense while maintaining its Weapon Grapple."
+  },
+  {
+    "title": "Tonfa / Buckler",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#tonfa-buckler",
+    "text": "4,500 Ryō. AP 3. [Small, Club, One-Handed, Blunt]. Hand Guard 1. Speed 8; Stamina 10; Damage 2d6; Reach 0; Delay 0; Accuracy -1; Parry +1; Durability 30. The Buckler is a small shield worn and wielded in one hand. It uses this pattern for attacks, Parries, and Club Bukijutsu."
+  },
+  {
+    "title": "Folding Iron Fan (Tessen)",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#folding-iron-fan",
+    "text": "3,500 Ryō. AP 3. [Small, Fan, One-Handed, Blunt]. Quickdraw Fittings. Speed 8, Stamina 10, Damage 2d6, Reach 0, Delay 0, Accuracy −2, Parry +1, Durability 30. Draw or sheathe the folding fan at Speed 3. It uses Fan Bukijutsu, can Parry Weapon and Unarmed Attacks, and serves as a focus for compatible Fūton techniques."
   },
   {
     "title": "Medium Weapons",
@@ -9630,6 +9644,20 @@
     "number": "VI",
     "url": "/rules/equipment/#medium-weapons",
     "text": "Katana — 5,000 Ryō. AP 0. [Medium, Sword, One-Handed, Slashing]. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy +0; Parry +0; Durability 40. Longsword — 6,000 Ryō. AP 1. [Medium, Sword, Versatile, Slashing]. Uses Katana statistics and may be wielded One-Handed or Two-Handed. Duelling Sword — 9,000 Ryō. AP 5. [Medium, Sword, One-Handed, Slashing]. Hand Guard 1, Secure Grip 1. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy +0; Parry +1; Durability 40. Disarm Attacks targeting it suffer -1 Accuracy. Mace — 5,000 Ryō. AP 0. [Medium, Club, One-Handed, Blunt]. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy -1; Parry +0; Durability 40. War Hammer — 9,000 Ryō. AP 5. [Medium, Club, One-Handed, Blunt, Piercing]. Armor Breaker 1. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy -1; Parry +0; Durability 40. War Fan — 5,000 Ryō. AP 0. [Medium, Fan, One-Handed, Blunt]. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy -2; Parry +1; Durability 40. Bladed War Fan — 6,000 Ryō. AP 0. [Medium, Fan, One-Handed, Slashing]. Uses War Fan statistics. Kusarigama — 8,000 Ryō. AP 4. [Medium, Chain, One-Handed, Slashing]. Extended Haft 1. Speed 10; Stamina 12; Damage 4d8; Reach 2; Chain Range +5; Delay 1; Accuracy +0; Parry -1; Durability 40."
+  },
+  {
+    "title": "Guard Shield",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#guard-shield",
+    "text": "7,500 Ryō. AP 8. [Medium, Club, One-Handed, Blunt, Guard]. Layered Construction, Guard Mount. Speed 10, Stamina 13, Damage 5d8, Reach 1, Delay 1, Accuracy −1, Parry +0, Durability 40. While wielding the shield, you may use Weapon Block as a Speed 5 Interrupt. Reduce the triggering attack’s damage by 25%. This counts as a Block and requires no Prepare Blocking action."
+  },
+  {
+    "title": "Rain Umbrella (Ame-gasa)",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#rain-umbrella",
+    "text": "6,500 Ryō. AP 5. [Medium, Club, One-Handed, Blunt]. Layered Construction. Speed 10, Stamina 12, Damage 4d8, Reach 1, Delay 1, Accuracy −1, Parry +0, Durability 40. Swing the closed umbrella as a Club, or snap it open for a Weapon Block. This Speed 6 Interrupt reduces the triggering attack’s damage by 25% and counts as a Block. Opening the canopy is part of the Interrupt."
   },
   {
     "title": "Large Weapons",
@@ -9651,6 +9679,13 @@
     "number": "VI",
     "url": "/rules/equipment/#matched-weapons",
     "text": "Twin Short Swords — 9,000 Ryō. AP 1. [Small, Sword, One-Handed, Slashing, Dual]. A matched pair using normal Small Sword statistics. Twin Blades — 14,000 Ryō. AP 1. [Medium, Sword, One-Handed, Slashing, Dual]. A matched pair using normal Medium Sword statistics. Twin Tonfa — 12,000 Ryō. AP 1. [Small, Club, One-Handed, Blunt, Dual]. A matched pair using normal Small Club statistics."
+  },
+  {
+    "title": "Knuckle Blades (Trench Knives)",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#knuckle-blades",
+    "text": "9,000 Ryō per pair. AP 4. [Small, Sword, One-Handed, Slashing, Dual]. Seal Grip, Dual Balancing. Speed 8, Stamina 10, Damage 2d6, Reach 0, Delay 0, Accuracy +0, Parry +0, Durability 30. You can form handseals with both blades drawn. Add 3 to Seal Speed once for the action, even when wielding the pair. Each blade still occupies its hand for Unarmed, Combo, and Grapple requirements. The pair counts as one weapon for purchase and crafting."
   },
   {
     "title": "Ranged Weapons",
@@ -17196,14 +17231,14 @@
     "volume": "Pre-Made Weapons",
     "number": "VI",
     "url": "/rules/standard-weapons/#catalog-small-weapons",
-    "text": "Small Weapons 4 ITEMS 001 Tanto 5,000 Ryō Speed 8 Damage 2d6 Accuracy +0 AP 0 FULL STAT BLOCK ↗ 002 Combat Knife 7,000 Ryō AP 2 FULL STAT BLOCK ↗ 003 Tonfa 9,000 Ryō Speed 8 Damage 2d6 Accuracy -1 AP 3 FULL STAT BLOCK ↗ 004 Hand Chain 9,000 Ryō Speed 8 Damage 2d6 Accuracy +0 AP 3 FULL STAT BLOCK ↗"
+    "text": "Small Weapons 5 ITEMS 001 Tanto 5,000 Ryō Speed 8 Damage 2d6 Accuracy +0 AP 0 FULL STAT BLOCK ↗ 002 Combat Knife 7,000 Ryō AP 2 FULL STAT BLOCK ↗ 003 Tonfa / Buckler 4,500 Ryō Speed 8 Damage 2d6 Accuracy -1 AP 3 FULL STAT BLOCK ↗ 004 Hand Chain 9,000 Ryō Speed 8 Damage 2d6 Accuracy +0 AP 3 FULL STAT BLOCK ↗ Folding Iron Fan (Tessen) 3,500 Ryō Speed 8 Damage 2d6 Accuracy -2 AP 3 FULL STAT BLOCK ↗"
   },
   {
     "title": "Medium Weapons",
     "volume": "Pre-Made Weapons",
     "number": "VI",
     "url": "/rules/standard-weapons/#catalog-medium-weapons",
-    "text": "Medium Weapons 8 ITEMS 005 Katana 10,000 Ryō Speed 10 Damage 4d8 Accuracy +0 AP 0 FULL STAT BLOCK ↗ 006 Longsword 12,000 Ryō AP 1 FULL STAT BLOCK ↗ 007 Duelling Sword 18,000 Ryō Speed 10 Damage 4d8 Accuracy +0 AP 5 FULL STAT BLOCK ↗ 008 Mace 10,000 Ryō Speed 10 Damage 4d8 Accuracy -1 AP 0 FULL STAT BLOCK ↗ 009 War Hammer 18,000 Ryō Speed 10 Damage 4d8 Accuracy -1 AP 5 FULL STAT BLOCK ↗ 010 War Fan 10,000 Ryō Speed 10 Damage 4d8 Accuracy -2 AP 0 FULL STAT BLOCK ↗ 011 Bladed War Fan 12,000 Ryō AP 0 FULL STAT BLOCK ↗ 012 Kusarigama 16,000 Ryō Speed 10 Damage 4d8 Accuracy +0 AP 4 FULL STAT BLOCK ↗"
+    "text": "Medium Weapons 10 ITEMS 005 Katana 10,000 Ryō Speed 10 Damage 4d8 Accuracy +0 AP 0 FULL STAT BLOCK ↗ 006 Longsword 12,000 Ryō AP 1 FULL STAT BLOCK ↗ 007 Duelling Sword 18,000 Ryō Speed 10 Damage 4d8 Accuracy +0 AP 5 FULL STAT BLOCK ↗ 008 Mace 10,000 Ryō Speed 10 Damage 4d8 Accuracy -1 AP 0 FULL STAT BLOCK ↗ 009 War Hammer 18,000 Ryō Speed 10 Damage 4d8 Accuracy -1 AP 5 FULL STAT BLOCK ↗ 010 War Fan 10,000 Ryō Speed 10 Damage 4d8 Accuracy -2 AP 0 FULL STAT BLOCK ↗ 011 Bladed War Fan 12,000 Ryō AP 0 FULL STAT BLOCK ↗ 012 Kusarigama 16,000 Ryō Speed 10 Damage 4d8 Accuracy +0 AP 4 FULL STAT BLOCK ↗ Guard Shield 7,500 Ryō Speed 10 Damage 5d8 Accuracy -1 AP 8 FULL STAT BLOCK ↗ Rain Umbrella (Ame-gasa) 6,500 Ryō Speed 10 Damage 4d8 Accuracy -1 AP 5 FULL STAT BLOCK ↗"
   },
   {
     "title": "Large Weapons",
@@ -17224,7 +17259,7 @@
     "volume": "Pre-Made Weapons",
     "number": "VI",
     "url": "/rules/standard-weapons/#catalog-matched-weapons",
-    "text": "Matched Weapons 3 ITEMS 027 Twin Short Swords 18,000 Ryō AP 1 FULL STAT BLOCK ↗ 028 Twin Blades 28,000 Ryō AP 1 FULL STAT BLOCK ↗ 029 Twin Tonfa 24,000 Ryō AP 1 FULL STAT BLOCK ↗"
+    "text": "Matched Weapons 4 ITEMS 027 Twin Short Swords 18,000 Ryō AP 1 FULL STAT BLOCK ↗ 028 Twin Blades 28,000 Ryō AP 1 FULL STAT BLOCK ↗ 029 Twin Tonfa 24,000 Ryō AP 1 FULL STAT BLOCK ↗ Knuckle Blades (Trench Knives) 9,000 Ryō Speed 8 Damage 2d6 Accuracy +0 AP 4 FULL STAT BLOCK ↗"
   },
   {
     "title": "Bows",
