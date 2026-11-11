@@ -9699,7 +9699,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#restrictions",
-    "text": "You can wield and use a weapon of any Final AP. Your Artisan ranks limit the AP you can craft. Armor has a wear limit of Resistance + 10 Artisan Points. Wearing armor above that limit reduces your accuracies, offenses and d20s by 2 and halves your Fatigue Bonuses and Damage Bonuses."
+    "text": "You can wield weapons and wear armor of any Final AP. Your Artisan ranks limit the AP of equipment you can craft."
   },
   {
     "title": "Weapon-Specific Actions",

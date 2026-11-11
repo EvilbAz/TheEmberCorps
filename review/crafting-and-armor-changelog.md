@@ -1,8 +1,8 @@
 # Crafting and pre-made armor
 
-## Wielding weapons
+## Wielding weapons and wearing armor
 
-You can use a weapon of any Final AP. The Athletics + 10 cap and its over-limit penalties are gone for melee weapons, ranged weapons and thrown weapons. This also covers the Bonded Insect Glaive and Ballistic Corps firearms. Your Artisan ranks still limit the weapon you can make. Weapon-specific handling and Heritage requirements still apply. Armor keeps its Resistance + 10 wear limit.
+You can use a weapon of any Final AP. The Athletics + 10 cap and its over-limit penalties are gone for melee weapons, ranged weapons and thrown weapons. This also covers the Bonded Insect Glaive and Ballistic Corps firearms. Your Artisan ranks still limit the weapon you can make. Weapon-specific handling and Heritage requirements still apply. You can also wear armor of any Final AP. The Resistance + 10 wear limit and its penalties are gone. Artisan ranks still limit the armor you can craft.
 
 ## Making your own gear
 

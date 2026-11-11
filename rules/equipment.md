@@ -1357,9 +1357,7 @@ Non-consumable items can be broken, destroyed, or lost, but usually aren't. Thes
 ## Restrictions
 {:#restrictions}
 
-You can wield and use a weapon of any Final AP. Your Artisan ranks limit the AP you can craft.
-
-Armor has a wear limit of Resistance + 10 Artisan Points. Wearing armor above that limit reduces your accuracies, offenses and d20s by 2 and halves your Fatigue Bonuses and Damage Bonuses.
+You can wield weapons and wear armor of any Final AP. Your Artisan ranks limit the AP of equipment you can craft.
 
 ## Weapon-Specific Actions
 {:#weapon-specific-actions}
