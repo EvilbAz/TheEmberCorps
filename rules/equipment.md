@@ -11,6 +11,14 @@ permalink: "/rules/equipment/"
 # Crafting
 {:#crafting}
 
+## Crafting Your Gear
+{:#crafting-your-gear}
+
+**Materials cost one eighth of the shop price.** Use the price for the listed piece, pair or batch. For a custom build, use the retail formula for its frame or armor. Apply any personal crafting discount to the materials bill, then round up to a whole Ryō. Special ingredients and Artisan prerequisites still apply. Poisons and antidotes use their own recipes.
+
+For weapons, ammunition and armor, roll Artisan against **TN 10 + twice the pattern’s Final AP** (Ammo AP for ammunition). You can pool rolls across Downtime Slots. For example, Hunter Half-Plate costs 4,000 Ryō at the shop. With 3 Artisan ranks in Armor, you can make it for **500 Ryō at TN 16**.
+
+
 ## Weapons
 {:#weapons}
 
@@ -19,7 +27,7 @@ permalink: "/rules/equipment/"
 
 To build a melee weapon, start with its frame. Choose a Structure, spend Artisan Points on Components, then add any Special Properties you can craft.
 
-A weapon's Final Artisan Points cannot exceed your Artisan ranks when you craft it. Crafting TN is 15 \+ (4 × Final Artisan Points). Crafting Cost is 5,000 Ryō \+ (750 × Final Artisan Points).
+A weapon's Final Artisan Points cannot exceed your Artisan ranks when you craft it. Crafting TN is 10 \+ (2 × Final Artisan Points). Custom retail is 5,000 Ryō \+ (750 × Final Artisan Points).
 
 Weapons still use the normal equipment restriction: you cannot wield a weapon with Final Artisan Points greater than Athletics \+10 without the normal over-limit penalties.
 
@@ -324,9 +332,9 @@ Mechanical launchers and crossbows are not Firearms. They do not use Ballistic D
 
 <h4 id="1-core-rules">1. Core Rules</h4>
 
-A ranged weapon's Final Artisan Points cannot exceed your Artisan ranks when you craft it. Crafting TN is 15 \+ (4 × Final Artisan Points).
+A ranged weapon's Final Artisan Points cannot exceed your Artisan ranks when you craft it. Crafting TN is 10 \+ (2 × Final Artisan Points).
 
-Crafting Cost is the weapon's listed Frame price \+ (750 × Final Artisan Points). Standard unmodified weapons use their catalogue price instead.
+Custom retail is the weapon's listed Frame price \+ (750 × Final Artisan Points). Standard unmodified weapons use their catalogue price instead.
 
 Ranged weapons still use the normal equipment restriction: you cannot wield a weapon with Final Artisan Points greater than Athletics \+10 without the normal over-limit penalties.
 
@@ -562,7 +570,7 @@ Cost: 150 Ryō. \[Piercing, Thrown, Melee, Projectile\]. Speed 8; Stamina 8; Dam
 
 Cost: 150 Ryō. \[Slashing, Thrown, Projectile\]. Speed 5; Stamina 5; Damage 1d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
 
-A custom Kunai or Shuriken costs its stock price \+ (1,500 × Final AP). Its Crafting TN is 15 \+ (4 × Final AP). A crafted projectile's Final AP cannot exceed the creator's Artisan ranks and follows the normal Athletics \+10 wielding restriction.
+Retail for a custom Kunai or Shuriken is its stock price \+ (1,500 × Final AP). Its Crafting TN is 10 \+ (2 × Final AP). A crafted projectile's Final AP cannot exceed the creator's Artisan ranks and follows the normal Athletics \+10 wielding restriction.
 
 ##### Matched Projectile Batches
 {:#matched-projectile-batches}
@@ -609,7 +617,7 @@ If several different crafted patterns contribute to the same Attack, use only th
 
 Bows and Crossbows use consumable ammunition patterns. Arrows and Bolts are purchased and crafted in batches of ten. Unless another effect says otherwise, firing an Arrow or Bolt consumes one piece of ammunition. Ammunition recovered after an encounter may be reused where appropriate.
 
-An ammunition pattern may have a maximum of 2 Ammo AP. Ammunition may be crafted using Artisan (Weapon) or Artisan (Craftsman). Crafting TN is 15 \+ (4 × Ammo AP). Batch Cost is 2,500 Ryō \+ (1,000 × Ammo AP). Each crafting attempt produces a batch of ten identical pieces of ammunition. You must possess Artisan ranks equal to or greater than the pattern's Ammo AP.
+An ammunition pattern may have a maximum of 2 Ammo AP. Ammunition may be crafted using Artisan (Weapon) or Artisan (Craftsman). Crafting TN is 10 \+ (2 × Ammo AP). Custom retail per batch is 2,500 Ryō \+ (1,000 × Ammo AP). Each crafting attempt produces a batch of ten identical pieces of ammunition. You must possess Artisan ranks equal to or greater than the pattern's Ammo AP.
 
 ##### Ammunition Patterns
 {:#ammunition-patterns}
@@ -686,7 +694,7 @@ The Launcher supplies its normal Attack statistics unless the Bukijutsu replaces
 
 Heavy Shuriken Launcher. 13 Component AP. Fūma Cradle 7 AP, Extended Guide 1 3 AP, Expanded Magazine 1 2 AP, Sturdy 1 1 AP.
 
-Crafting TN is 15 \+ (4 × 13), for a total of 67\. Crafting Cost is 13,000 \+ (750 × 13), for a total of 22,750 Ryō.
+The Black Rain pattern has 13 Final AP and retails for 13,250 Ryō. Crafting it takes 1,657 Ryō in materials at TN 36.
 
 The Black Rain has Capacity 18 for ordinary Shuriken and a separate Fūma Cradle holding one Fūma Shuriken. Because it has spent at least 12 AP on Components, it gains \+2 Base Damage Dice and \+2 Base Stamina. These bonus Damage Dice apply once to an ordinary Attack, Volley, or Fūma Launch, rather than once per projectile.
 
@@ -702,7 +710,7 @@ It may fire a single Shuriken, fire a Volley, or launch its loaded Fūma Shurike
 
 Craft armor by choosing its structure, protected location and traits.
 
-You can craft armor with X Artisan Points up to a max of your Artisan Ranks which you can spend on its traits (see below). Armor has a crafting TN of 15 \+ 3\*X and a cost of 2,500 \+ (500 × X) Ryō, where X is its Final Artisan Points. This consists of the cost for resources, tools, and any extra parts necessary.
+You can craft armor with X Artisan Points up to a max of your Artisan Ranks which you can spend on its traits (see below). Armor has a crafting TN of 10 + 2 × X and a retail price of 2,500 \+ (500 × X) Ryō, where X is its Final Artisan Points. Pay one eighth of that price for materials.
 
 ### Armor Category
 {:#armor-category}
@@ -838,39 +846,183 @@ These Features are only accessible with the Master Artisan Talent, and represent
 ### Standard Armor
 {:#standard-armor}
 
-Standard Armor is ready-made armorsmith equipment for Hunters who would rather buy protection than design it. Each entry is **one armor piece**, not a full suit. The listed price replaces the normal custom-crafting cost; buying one requires no Artisan ranks or crafting choices. The listed Artisan Points are the sum of its Structure and Body Part costs. All patterns use their normal Structure, location benefits and location penalties, with no additional features or wondrous materials. Standard Armor can be modified later using the normal Armor Crafting rules.
+Buy each pattern as one piece covering the named location. Arm and leg pieces cover both limbs. Every pattern uses the benefits and penalties of its Structure and Body Part. Specialist patterns also list their Basic Features, included in their Final AP. Buying requires no Artisan ranks. To craft one, use the listed AP and pay one eighth of retail.
 
 Armor Immobilization and Stealth penalties stack across all worn pieces. Reduce combined Armor Immobilization by (RES + STR/30), to a minimum of 0, as described in Armor Penalties. When reduced to 0, halve the inherent location penalties of the affected armor types, rounded down; Stealth penalties are never reduced this way. Durability and Absorption apply only when an attack strikes the protected location. Arm and leg armor covers both limbs.
 
 ### Mobile Armor
 
-**Hooded Scout Cowl — 4,000 Ryō. AP 3.** Mobile Head armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -2 Awareness. No additional Basic Features, Unique Features or Wondrous Materials.
+#### Hooded Scout Cowl
+{:#hooded-scout-cowl}
 
-**Padded Hunter Vest — 4,500 Ryō. AP 4.** Mobile Torso / Abdomen armor. Durability 150; Absorption 10%; Armor Immobilization -1; Stealth -1; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -1 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+**Shop 4,000 Ryō · Materials 500 Ryō · TN 16 · 3 AP**
 
-**Leather Bracers — 3,500 Ryō. AP 2.** Mobile Arms / Hands armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +2 Seal Speed. No additional Basic Features, Unique Features or Wondrous Materials.
+Mobile Head armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -2 Awareness. No additional Basic Features, Unique Features or Wondrous Materials.
 
-**Trailrunner Greaves — 3,500 Ryō. AP 2.** Mobile Legs / Feet armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -10% Movement Speed; -2 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+#### Reedveil Hood
+{:#reedveil-hood}
+
+**Shop 5,000 Ryō · Materials 625 Ryō · TN 20 · 5 AP**
+
+Mobile Head armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth 0; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -2 Awareness. Basic Features (2 AP): Stealth +1.
+
+#### Padded Hunter Vest
+{:#padded-hunter-vest}
+
+**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
+
+Mobile Torso / Abdomen armor. Durability 150; Absorption 10%; Armor Immobilization -1; Stealth -1; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -1 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Cinderwrap Jacket
+{:#cinderwrap-jacket}
+
+**Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP**
+
+Mobile Torso / Abdomen armor. Durability 150; Absorption 10%; Armor Immobilization -1; Stealth -1; Equip Speed 16; Remove Delay 8. -1 Dodge. Basic Features (2 AP): Reduce Burns from hits to this location by 2.
+
+#### Leather Bracers
+{:#leather-bracers}
+
+**Shop 3,500 Ryō · Materials 438 Ryō · TN 14 · 2 AP**
+
+Mobile Arms / Hands armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +2 Seal Speed. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Suturewrap Bracers
+{:#suturewrap-bracers}
+
+**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
+
+Mobile Arms / Hands armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +2 Seal Speed. Basic Features (2 AP): Reduce Bleed from hits to this location by 2.
+
+#### Trailrunner Greaves
+{:#trailrunner-greaves}
+
+**Shop 3,500 Ryō · Materials 438 Ryō · TN 14 · 2 AP**
+
+Mobile Legs / Feet armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -10% Movement Speed; -2 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Scree-Runner Gaiters
+{:#scree-runner-gaiters}
+
+**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
+
+Mobile Legs / Feet armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -10% Movement Speed; -2 Athletics. Basic Features (2 AP): Reduce incoming Knockback by 2.
 
 ### Protective Armor
 
-**Reinforced Field Helm — 3,500 Ryō. AP 2.** Protective Head armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -4 Awareness; consecutive searches gain one less bonus. No additional Basic Features, Unique Features or Wondrous Materials.
+#### Reinforced Field Helm
+{:#reinforced-field-helm}
 
-**Hunter Half-Plate — 4,000 Ryō. AP 3.** Protective Torso / Abdomen armor. Durability 250; Absorption 15%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -3 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+**Shop 3,500 Ryō · Materials 438 Ryō · TN 14 · 2 AP**
 
-**Chainmail Vambraces — 3,000 Ryō. AP 1.** Protective Arms / Hands armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +3 Seal Speed; -1 Parry. No additional Basic Features, Unique Features or Wondrous Materials.
+Protective Head armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -4 Awareness; consecutive searches gain one less bonus. No additional Basic Features, Unique Features or Wondrous Materials.
 
-**Steel-Shod Legguards — 3,000 Ryō. AP 1.** Protective Legs / Feet armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -15% Movement Speed; -3 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+#### Bellguard Kabuto
+{:#bellguard-kabuto}
+
+**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
+
+Protective Head armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -4 Awareness; consecutive searches gain one less bonus. Basic Features (2 AP): Reduce Stun from hits to this location by 2.
+
+#### Hunter Half-Plate
+{:#hunter-half-plate}
+
+**Shop 4,000 Ryō · Materials 500 Ryō · TN 16 · 3 AP**
+
+Protective Torso / Abdomen armor. Durability 250; Absorption 15%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -3 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Riveted Jack
+{:#riveted-jack}
+
+**Shop 6,000 Ryō · Materials 750 Ryō · TN 24 · 7 AP**
+
+Protective Torso / Abdomen armor. Durability 300; Absorption 15%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. -3 Dodge. Basic Features (4 AP): Durability +20%.
+
+#### Chainmail Vambraces
+{:#chainmail-vambraces}
+
+**Shop 3,000 Ryō · Materials 375 Ryō · TN 12 · 1 AP**
+
+Protective Arms / Hands armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +3 Seal Speed; -1 Parry. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Smith’s Sleeve Guards
+{:#smiths-sleeve-guards}
+
+**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
+
+Protective Arms / Hands armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +3 Seal Speed; -1 Parry. Basic Features (3 AP): Reduce Burns from hits to this location by 3.
+
+#### Steel-Shod Legguards
+{:#steel-shod-legguards}
+
+**Shop 3,000 Ryō · Materials 375 Ryō · TN 12 · 1 AP**
+
+Protective Legs / Feet armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -15% Movement Speed; -3 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Silent-Step Suneate
+{:#silent-step-suneate}
+
+**Shop 5,000 Ryō · Materials 625 Ryō · TN 20 · 5 AP**
+
+Protective Legs / Feet armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth 0; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -15% Movement Speed; -3 Athletics. Basic Features (4 AP): Stealth +2.
 
 ### Encased Armor
 
-**Ironclad War Helm — 4,500 Ryō. AP 4.** Encased Head armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -5 Awareness; consecutive searches gain two less bonus. No additional Basic Features, Unique Features or Wondrous Materials.
+#### Ironclad War Helm
+{:#ironclad-war-helm}
 
-**Fortress Cuirass — 5,000 Ryō. AP 5.** Encased Torso / Abdomen armor. Durability 350; Absorption 20%; Armor Immobilization -3; Stealth -3; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -4 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
 
-**Full Plate Gauntlets — 4,000 Ryō. AP 3.** Encased Arms / Hands armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. No additional Basic Features, Unique Features or Wondrous Materials.
+Encased Head armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -5 Awareness; consecutive searches gain two less bonus. No additional Basic Features, Unique Features or Wondrous Materials.
 
-**Bastion Sabatons — 4,000 Ryō. AP 3.** Encased Legs / Feet armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -20% Movement Speed; -5 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+#### Boar-Crest Helm
+{:#boar-crest-helm}
+
+**Shop 7,500 Ryō · Materials 938 Ryō · TN 30 · 10 AP**
+
+Encased Head armor. Durability 300; Absorption 17%; Armor Immobilization -3; Stealth -3; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -5 Awareness; consecutive searches gain two less bonus. Basic Features (6 AP): Absorption +2 percentage points.
+
+#### Fortress Cuirass
+{:#fortress-cuirass}
+
+**Shop 5,000 Ryō · Materials 625 Ryō · TN 20 · 5 AP**
+
+Encased Torso / Abdomen armor. Durability 350; Absorption 20%; Armor Immobilization -3; Stealth -3; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -4 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Gatewarden Cuirass
+{:#gatewarden-cuirass}
+
+**Shop 7,000 Ryō · Materials 875 Ryō · TN 28 · 9 AP**
+
+Encased Torso / Abdomen armor. Durability 420; Absorption 20%; Armor Immobilization -3; Stealth -3; Equip Speed 16; Remove Delay 8. -4 Dodge. Basic Features (4 AP): Durability +20%.
+
+#### Full Plate Gauntlets
+{:#full-plate-gauntlets}
+
+**Shop 4,000 Ryō · Materials 500 Ryō · TN 16 · 3 AP**
+
+Encased Arms / Hands armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Breakwater Kote
+{:#breakwater-kote}
+
+**Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP**
+
+Encased Arms / Hands armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. Basic Features (3 AP): Reduce Stun by 1 and Bleed by 2 from hits to this location.
+
+#### Bastion Sabatons
+{:#bastion-sabatons}
+
+**Shop 4,000 Ryō · Materials 500 Ryō · TN 16 · 3 AP**
+
+Encased Legs / Feet armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -20% Movement Speed; -5 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Quarry Sabatons
+{:#quarry-sabatons}
+
+**Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP**
+
+Encased Legs / Feet armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -20% Movement Speed; -5 Athletics. Basic Features (3 AP): Reduce incoming Knockback by 3.
 
 [Browse the illustrated Pre-Made Armor Catalogue]({{ '/rules/standard-armor/' | relative_url }})
 
@@ -879,21 +1031,21 @@ Armor Immobilization and Stealth penalties stack across all worn pieces. Reduce 
 
 Craft tools and supplies for a hunter’s kit, from flash bombs and lockpicks to weapons.
 
-Upon gaining 1 Rank in the Artisan (Craftsman) Skill, you gain the ability to create equipment from the gear and exploding tags category. This requires you to spend a Downtime Slot on an “Equipment Crafting” Action, rolling your Artisan Skill vs a TN of the Artisan Points (explained below) determined by the item. You may pool your rolls until you amass enough to match the TN, which may take a number of Slots and/or Downtime Cycles.
+With 1 rank in Artisan (Craftsman), you can make gear and exploding tags during Equipment Crafting downtime. Pool your Artisan rolls until you reach the item’s TN.
 
 ##### Basic Gear
 {:#basic-gear}
 
-This covers any item not listed in the lower sections. These items have a TN based on their cost and a Ryo cost representing the materials required to make it. To find these values take the cost of the item you want to make. The cost is one-fourth that value and the TN is that amount divided by 200\. When crafting you can also declare multiple quantities of the same item setting its cost and TN using the total price.
+For ordinary craftable gear, add up the retail price of the quantity you intend to make. Crafting TN is that total divided by 400, rounded up. Materials cost one eighth of the total.
 
-For example a Flash Bomb has a cost of 3k Ryo. That means it will have a TN of 15 and a cost of 750 Ryo. If you wanted to craft four of them it would be a TN of 60 and 3k Ryo.
+Four Flash Bombs retail for 6,000 Ryō. Making all four in one attempt costs 750 Ryō in materials and requires TN 15.
 
 You can also make any items from the Ranged Weapons section except for those of large size.
 
 ##### Smoke Bombs
 {:#smoke-bombs}
 
-While Smoke Bombs are a basic item that can be crafted using the rules above, you can customize their effects to suit your needs. From increasing duration, size, or even adding in custom poisons (though this won’t let you make the poisons). The modifications available are listed below and are augments of a regular Smoke Bomb. The Ryo cost of an upgrade is added to the base 3k and used as the total for determining the TN and Materials Cost:
+While Smoke Bombs are a basic item that can be crafted using the rules above, you can customize their effects to suit your needs. From increasing duration, size, or even adding in custom poisons (though this won’t let you make the poisons). The modifications available are listed below and are augments of a regular Smoke Bomb. The Ryo cost of an upgrade is added to the base 1,500 Ryō and used as the total for determining the TN and Materials Cost:
 
 Basic Upgrades  
 Visibility Penalty: \-1 Vis, 1k Ryo, Max \-10  
@@ -1338,7 +1490,7 @@ Dual: A matched pair built to use the Dual Wield rules. Weapons with the Dual pr
 
 Standard Weapons are ready-made workshop patterns. Buying one requires no Artisan ranks and no Weapon Crafting choices. Their Artisan Point value still counts for wielding restrictions. A Standard Weapon may later be reforged with the normal Crafting rules.
 
-The listed price replaces the normal custom-crafting price.
+Use the listed retail price to buy the pattern or calculate its materials.
 
 ### Small Weapons
 {:#small-weapons}
@@ -1422,7 +1574,7 @@ Great War Fan — 11,000 Ryō. AP 3\. \[Large, Fan, Two-Handed, Blunt\]. Sturdy 
 
 16,500 Ryō. AP 9. [Large, Two-Handed, Sword or Polearm, Slashing]. Speed 13, Stamina 16, Damage 7d10, Reach 2, Delay 2, Accuracy +0, Parry +0, Durability 50.
 
-**Build:** Honed Geometry 1, Broad Edge, Transforming Frame (Master Artisan to craft). Crafting TN 51.
+**Build:** Honed Geometry 1, Broad Edge, Transforming Frame (Master Artisan to craft). Crafting TN 28.
 
 Fold the hooked axe head against the haft to form a greatsword. The sword form uses Sword Bukijutsu and the printed stats. The long-hafted axe uses Polearm Bukijutsu, Reach 3, Accuracy +1 and Parry −2. Change forms as a Speed 2 Utility action. Both forms gain +10% Wounding on Slashing damage.
 
@@ -1431,7 +1583,7 @@ Fold the hooked axe head against the haft to form a greatsword. The sword form u
 
 15,500 Ryō. AP 8. [Large, Club, Two-Handed, Blunt]. Speed 13, Stamina 16, Damage 7d10, Reach 2, Delay 2, Accuracy −1, Parry +0, Durability 50.
 
-**Build:** Impact Chamber, Armor Breaker 1. Crafting TN 47.
+**Build:** Impact Chamber, Armor Breaker 1. Crafting TN 26.
 
 A flat-faced hammer for cracking shell plates. Armor Breaker adds 25% damage to Armor and Weapon Durability, stacking with Club under the normal durability rules. When declaring an Attack that already has Knockback, you may spend +3 Stamina to add 2 yards if the Knockback applies, after its status roll and before Partial Success.
 
@@ -1440,7 +1592,7 @@ A flat-faced hammer for cracking shell plates. Armor Breaker adds 25% damage to 
 
 19,000 Ryō. AP 12. [Large, Polearm, Two-Handed, Piercing, Guard]. Speed 13, Stamina 17, Damage 8d10, Reach 3, Delay 2, Accuracy +1, Parry −2, Durability 50.
 
-**Build:** Layered Construction, Guard Mount, Driving Point. Crafting TN 63.
+**Build:** Layered Construction, Guard Mount, Driving Point. Crafting TN 34.
 
 The shell-shaped guard is part of the lance. Weapon Block is a Speed 5 Interrupt that reduces the triggering attack’s damage by 25%. Gain +1 Accuracy when your target starts the attack inside your Reach and outside its own natural Melee Reach.
 
@@ -1460,7 +1612,7 @@ Giant Polearm — 20,000 Ryō. AP 4\. \[Extreme, Polearm, Two-Handed, Piercing\]
 
 23,500 Ryō. AP 6. [Extreme, Sword, Two-Handed, Slashing]. Speed 15, Stamina 18, Damage 9d12, Reach 3, Delay 5, Accuracy +0, Parry +0, Durability 60.
 
-**Build:** Heavy Head 1, Forward Balance. Crafting TN 39.
+**Build:** Heavy Head 1, Forward Balance. Crafting TN 22.
 
 A single edge runs the length of a jawbone-shaped slab. For damage only, Heavy Head adds 1 effective Speed, up to half the attack’s Final Speed. On a Basic Weapon Attack you may also take +1 Final Speed for +1 Damage Die.
 
@@ -1485,7 +1637,7 @@ You can form handseals with both blades drawn. Add 3 to Seal Speed once for the 
 
 11,500 Ryō per pair. AP 8. [Small, Sword, One-Handed, Slashing, Dual]. Speed 8, Stamina 10, Damage 3d6, Reach 0, Delay 0, Accuracy +0, Parry +0, Durability 30.
 
-**Build:** Lightweight 1, Serrated Teeth, Dual Balancing (Master Artisan to craft). Crafting TN 47.
+**Build:** Lightweight 1, Serrated Teeth, Dual Balancing (Master Artisan to craft). Crafting TN 26.
 
 A matched pair of hooked skinning blades. When a Slashing Wound from the blades applies Bleed, increase it by 1, once per Attack. Use normal Dual rules for a paired strike.
 
@@ -1495,7 +1647,7 @@ A matched pair of hooked skinning blades. When a Slashing Wound from the blades 
 ### Standard Ranged Weapons
 {:#standard-ranged-weapons}
 
-Standard Ranged Weapons are ready-made workshop patterns. Buying one requires no Artisan ranks or Crafting choices. Its listed AP counts toward the normal Athletics \+10 wielding restriction, and it may later be Reforged using the normal Crafting rules. The listed price replaces the normal custom-crafting cost. Every listed upgraded pattern already includes its every-6-Component-AP Damage Die and Stamina bonuses.
+Standard Ranged Weapons are ready-made workshop patterns. Buying one requires no Artisan ranks or Crafting choices. Its listed AP counts toward the normal Athletics \+10 wielding restriction, and it may later be Reforged using the normal Crafting rules. Use the listed retail price to buy the pattern or calculate its materials. Every listed upgraded pattern already includes its every-6-Component-AP Damage Die and Stamina bonuses.
 
 Ammunition and loaded projectiles are purchased separately. Bows and Crossbows use the ammunition’s Damage Die size; Crossbows use normal PDB and all Crossbows have Crossbow Aim \[Speed 5, Utility\]: \+2 Accuracy on the next Crossbow Attack, provided you do not voluntarily move before declaring it (one active Aim at a time). Launchers use their own Speed, Stamina, Accuracy, Range, and Delay; a loaded Kunai or Shuriken supplies its Damage Dice, Damage Type, and projectile effects. Normal Shuriken retain their printed \+2 Accuracy when fired from a Launcher.
 
@@ -1554,7 +1706,7 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 
 11,750 Ryō. AP 8. [Large, Two-Handed, Crossbow, Projectile]. Speed 16, Stamina 18, Damage 12dS, Range 40 + STR/4, Delay 5, Accuracy −6, Durability 60.
 
-**Build:** Reinforced Winch, Stabilised Sight. Crafting TN 47.
+**Build:** Reinforced Winch, Stabilised Sight. Crafting TN 26.
 
 Heavy Arbalest frame. Capacity 1, Reload 11. Load and fire ordinary Bolts. A standard Bolt gives d10. Reload while stationary. Use Crossbow Aim as normal. On an Aimed Attack, ignore up to 2 points of Visibility penalty.
 

@@ -2930,7 +2930,7 @@ Work is the standard downtime action where you can do basically anything to earn
 ### Crafting
 {:#crafting}
 
-Whether weapons, armor, or basic supplies artisans use their valuable time making tools to kill each other with. Following the rules in the Crafting Doc, crafting has a TN and a Ryo cost. As a downtime action you declare the item you are attempting to craft and roll Artisan. Once you beat the TN the item is crafted and you pay its ryo cost. Like other downtime activities you can pool your rolls over several cycles to get the job done.
+Declare the item or batch, spend a Downtime Slot and roll Artisan. You can pool rolls across slots until you meet the crafting TN. On completion, pay the materials cost and add the item to your inventory. For weapons, armor and ordinary gear, pay one eighth of the shop price for materials. See [Crafting Your Gear]({{ '/rules/equipment/#crafting-your-gear' | relative_url }}).
 
 All Artisans have a discipline they specialize in such as Weapon or Craftsman. When crafting an item outside of your specialization your Artisan ranks are treated as half their normal amount (including your bonus for downtime rolls).
 
@@ -2944,7 +2944,7 @@ You repair a damaged piece of equipment. Roll a d20 \+ either your Artisan or Es
 ### Reforging
 {:#reforging}
 
-Following the crafting rules in the Artisan Crafting doc you forge a weapon or armor piece using a pre-existing one. Your new item must have all the specifications of the old one including its structure, features, and special properties (You can add features and properties but not take any away). This has no change to the Artisan Points of the item you're creating but reduces its Cost by 75% and it’s TN by 25% of the original item.
+Use the original weapon or armor as the base for the finished piece. Keep its Structure, features and properties. You may add features and properties. From the new pattern’s materials cost, subtract 75% of the original pattern’s materials cost. From its TN, subtract 25% of the original TN. Reforging replaces the original item in your inventory.
 
 ### Brewing
 {:#brewing}
