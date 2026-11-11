@@ -50,9 +50,9 @@ A low-level technique which sees some use even by more experienced ninja, in cer
 Chakra: \+2, \+1 per rank  
 Seal Speed: \+4  
 Tags: Utility, Link, Environmental  
-Effects: This may be added on to any damage-dealing Katon jutsu. The resulting smokescreen has a duration of 5 IC, \+5 IC per Rank. Within this area, the smoke imposes Visibility 2, \+1 per rank.
+Effects: Link this to a damaging Katon. When the attack resolves, smoke fills Area 3×R at one targeted creature’s position or at the center of its Area. Choose the location when you declare the Link. R is the linked jutsu’s rank (E = 1 through A = 5). The smoke stays there for 5 + 5×R IC and imposes Visibility −(2 + R) on everyone inside.
 
-This technique can also be used on its own, using a person suffering from the Ignite status as its source; in this case it's Chakra 6, Speed 5, and Seal Speed 5\. Every 2 points of Ignite is equivalent to one jutsu rank (so "rank D", meaning \-4 visibility, at Ignite 4).
+You may instead raise smoke from a creature with Ignite within 10 yards. Pay Chakra 6, Speed 5, Seal Speed 5. Use half its Ignite severity for R, rounded down (minimum 1, maximum 5). This does not consume Ignite.
 
 #### Hinotama no Jutsu - Fireball Technique
 {:#hinotama-no-jutsu-fireball-technique .jutsu-technique}
@@ -242,12 +242,10 @@ Area: 20
 Range: 30  
 Speed: 8  
 Seal Speed: 12  
-Tags: Utility, AoE, Environmental  
-Effects: This technique initially does no damage. However, it detonates if a damaging Katon jutsu contacts its area, or if a person with an Ignite status of 5 or higher is present. The explosion only deals the listed damage across the area with X being the rank of jutsu used or or the ignite /3  This explosion cannot be dodged or Take the Hit for but can be defended as if it was a Speed 8 attack using its creator's stats when using the jutsu.
+Tags: Utility, AoE, Energy, Environmental  
+Effects: Place the cloud within Range. It lasts 30 + Chakra Control ranks IC while you maintain Upkeep. A damaging Katon other than Mist Blaze Dance touching the cloud, or a creature with Ignite 5+ inside it, sets it off. If both occur at once, use the higher X. For a Katon trigger, X is its rank (E = 1); for Ignite, X is severity divided by 3, rounded down. Cap X at 4. One detonation cannot trigger another Mist Blaze Dance.
 
-The gas is also particularly thick, and not particularly breathable. Every 15 IC that someone spends in the cloud adds a Suffocation 1 status to them to a max of 5\.
-
-A person is never considered to be affected by more than one Mist Blaze Dance, even if the areas of the techniques overlap. Mist Blaze Dance is removed from the battlefield after a number of IC equal to 30+ your ranks in Chakra Control, you drop upkeep, or if it explodes.
+The cloud ends when it detonates. Roll the listed Energy damage once and use your casting Accuracy for a Speed 8 AoE. Anyone inside can defend normally, including on the IC the cloud appears. Before detonation, each full 15 IC spent inside inflicts Suffocation 1, to a maximum of 5 from this technique. Overlapping clouds count once per creature.
 
 #### Katon: Endan - Fire Release: Flame Bullet
 {:#katon-endan-fire-release-flame-bullet .jutsu-technique}

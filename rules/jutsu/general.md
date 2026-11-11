@@ -253,7 +253,7 @@ Upkeep: 0
 Speed: 2  
 Seal Speed: 4  
 Tags: Utility, Self  
-Effects: You can speak freely while hidden without giving people any indication of where you might be hiding.
+Effects: You can activate this while hidden and speak at normal volume without giving away your position by sound. When you activate it, you may choose a fixed point within 10 yards as the apparent source of your voice. Listeners must still be within ordinary earshot of you. The projection ends if you move more than 10 yards from that point. An enemy can still Search for you using another sense.
 
 ## C-Rank
 {:#c-rank-4 .jutsu-rank-heading}
@@ -452,13 +452,14 @@ While Needle Jizo is active, the shinobi focuses more chakra into their hair. Th
 
 Chakra: 25  
 Damage: 10d4 \* X  
-Speed: 15, Delay 5  
+Speed: 15, Delay X  
 Seal Speed: 0  
-Line X, 5\*X  
+Line: X, 5×X  
 Requires: Needle Jizo active  
-Tags: Attack, Projectile, Piercing  
-Effects: X is a value up to Needle Jizo's current Upkeep; after using Needle Hell, Needle Jizo's Upkeep (and other, related effects) are reduced by X. When performing Needle Hell, you multiply your ninjutsu damage bonus by the lower of (X\*2) or the technique's Speed; thus, if you did not lower its Speed with AP, and set X \= 4, you would roll damage as 10d4\*4+(ninjutsu damage bonus)\*8.  
-When this technique's Delay ends, anyone in the area will be automatically struck by the flying needles; raising ninjutsubased defenses ahead of time (such as Earth Shore Return or Water Encampment Wall) is explicitly allowed and automatically successful, but no defensive interrupts (such as dodging) function against this technique. In addition, any Damage Reduction a victim has is doubled against Needle Hell's damage.
+Tags: Attack, Projectile, AoE, Piercing  
+Effects: Choose X from 1 to Needle Jizo’s current Upkeep and spend that much of it when declaring the attack. Reduce its other effects accordingly. Declare the line at the same time; its direction stays fixed through the Delay. The needles still fire if this expenditure ends Needle Jizo.
+
+At the end of the Delay, roll Ninjutsu Accuracy against everyone still in the line. Use normal AoE defenses. Add NDB × the lower of 2×X or the attack’s modified Speed to damage, and double each target’s DR against the needles. A barrier already in the line intercepts the attack under that barrier’s rules.
 
 #### Hari Jizou - Needle Jizo
 {:#hari-jizou-needle-jizo .jutsu-technique}

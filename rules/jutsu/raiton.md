@@ -150,8 +150,8 @@ Chakra: 12
 Range: 20  
 Speed: 10  
 Seal Speed: 10  
-Tags: Utility  
-Effects: The highest Raiton induced paralysis effect of anyone on the field with an IC timer on it has the IC timer halved, but the severity of the paralysis doubled." For example: If they had Para 1 for 20 IC it would turn into Para 2 for 10 IC.
+Tags: Attack, Projectile  
+Effects: Choose one creature within Range with a timed Raiton-induced Paralysis effect. A willing target can accept the change; against an unwilling target, make a Projectile Attack. On a full hit or willing use, double the severity of one such effect to a maximum of 6 without lowering its current severity. Halve its remaining duration, rounded up. Each application of Paralysis can be altered this way once. Environmental Paralysis cannot be chosen.
 
 #### Nage no Ushinawa Jutsu - Subjugating Cattle Lasso Technique
 {:#nage-no-ushinawa-jutsu-subjugating-cattle-lasso-technique .jutsu-technique}
@@ -181,9 +181,9 @@ Accuracy: \+X
 Range: 15  
 Speed: 8  
 Seal Speed: 12  
-Special: Stun 5\*X  
+Special: Stun 3×X (maximum 12)  
 Tags: Attack, Projectile  
-Effects: X is the level of Paralysis on the target which is consumed as part of the jutsu. Thus, someone suffering from Paralysis 4 would provide a \+4 accuracy. They would lose the Paralysis but gain Stun 20\.
+Effects: Choose a target with Raiton-induced Paralysis. Before rolling Accuracy, choose X from 1 to 4, up to the severity of one timed Raiton Paralysis effect on it. On a full hit, spend X severity from that effect and inflict Stun 3×X. Any remaining severity keeps its original timer. On a miss or partial hit, leave the Paralysis in place and inflict no Stun.
 
 #### Shuurai - Lightning Strike
 {:#shuurai-lightning-strike .jutsu-technique}
@@ -264,9 +264,9 @@ Speed: 18
 Seal Speed: 16  
 Special: This technique benefits from double the user's ninjutsu damage bonus.  
 Tags: Attack, Projectile, Energy  
-Effects: If this is used on a conductive surface (such as a metal pipe, or the surface of a lake) that your opponent is in contact with, its Accuracy penalty is halved
+Effects: Use Accuracy −4 if you and the target touch the same continuous conductor, −6 if it was hit by Suiton within the last 15 IC, or −8 otherwise. Use the best applicable value.
 
-If someone was hit by a Suiton ninjutsu in the past 15 IC, this technique's Accuracy penalty is reduced to \-6. For every point of Raiton Induced Paralysis a target is suffering from, this gains a \+2 Accuracy Bonus; however, if this hits their Paralysis status is ended.
+Before rolling, you may draw on one timed Raiton Paralysis effect on the target for +1 Accuracy per point, up to +4. On a full hit, spend the severity used; otherwise it remains. The water or conductor does not spread the attack to anyone else.
 
 #### Raiton: Amigumo - Lightning Release: Spider Web
 {:#raiton-amigumo-lightning-release-spider-web .jutsu-technique}

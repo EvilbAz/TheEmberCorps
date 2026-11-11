@@ -126,7 +126,7 @@ Speed: 2
 Seal Speed: 10  
 Requires: Chakra Control 7  
 Tags: Utility  
-Effects: While this technique's upkeep is maintained, all your unarmed taijutsu techniques are blocked as if they were fuuton jutsu (meaning, in most cases, that blocking reduces the damage by only 25%, instead of 50%).
+Effects: Once per non-grapple unarmed attack, on a full hit you may give one target Knockback 2. If it moves, you may follow up to 2 yards along a legal path, stopping within melee range. This uses your normal movement restrictions and cannot trigger another attack. Multiple hits in one action grant one push and one follow.
 
 #### Fuuton: Taikyaku Haretsu - Wind Release: Bursting Retreat
 {:#fuuton-taikyaku-haretsu-wind-release-bursting-retreat .jutsu-technique}
@@ -152,7 +152,7 @@ Chakra: 11
 Speed: 4  
 Seal Speed: 12  
 Tags: Interrupt, Fan  
-Effects: You attempt to parry an incoming ranged taijutsu attack. Even if you fail, any ninjutsu effects on it (such as Housenka) are removed.
+Effects: Parry a ranged Taijutsu attack with Ninjutsu Accuracy. On a full success, stop it. On a partial parry, you may strip one linked non-Katon Ninjutsu from the attack before calculating its remaining damage and effects. A failed parry strips nothing. Use the normal AoE parry rules.
 
 #### Kaze no Senpūki - Fan of Wind
 {:#kaze-no-senpuki-fan-of-wind .jutsu-technique}

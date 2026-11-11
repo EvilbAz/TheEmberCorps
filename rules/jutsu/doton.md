@@ -77,7 +77,7 @@ Chakra: 5
 Speed: 8  
 Seal Speed: 5  
 Tags: Utility, Ground-Based  
-Effects: You can shape the surface of a rock, or mold it in your hands like clay. If you use this before climbing an earthen surface (be it a cliff face or a castle wall) you gain a \+5 bonus to Athletics checks associated with climbing it, by making hand- and footholds (for yourself only). This doesn't work if you're, say, climbing up the side of a cliff face using a rope. I really shouldn't have needed to say that, but, yanno.
+Effects: Mold stone within reach like clay. When climbing an earthen surface, shape holds for +5 Athletics on your climb. You may leave the holds in place: the next ally to climb that stretch within 30 IC gains +3 Athletics. Both bonuses require direct use of the holds.
 
 #### Yurokensei - Tremorsense
 {:#yurokensei-tremorsense .jutsu-technique}
@@ -144,10 +144,9 @@ Speed: 6
 Seal Speed: 12  
 Requires: 10 Chakra Control  
 Tags: Utility, Self, Aura  
-Effects  
-This gives you a \+2 bonus to your Grapple Offense. When used in a grapple it gains: Control 0\.
+Effects: Gain +2 Grapple Offense. Activating Sticky Body in a grapple has Control 0.
 
-When an opponent makes a melee attack against you, roll a contested Chakra control vs their Resistance. On a success they get stuck which applies the effects of a clinch (only to them). To pry their fist/weapon off they may increase the IC of the attack by 2 or as a Speed 2 action.
+When a melee attack makes contact with you, roll Chakra Control against the attacker’s Resistance once for that action. On success, its striking limb or weapon sticks to the mud. Treat the attacker as Clinched until it pulls free. It can add 2 IC to the triggering attack to pull free immediately or spend a Speed 2 action later. An attack that misses or is fully parried does not make contact.
 
 #### Doton: Renga no Jutsu - Earth Release: Practice Brick Technique
 {:#doton-renga-no-jutsu-earth-release-practice-brick-technique .jutsu-technique}
@@ -202,7 +201,7 @@ Speed: 10
 Seal Speed: 13  
 Special: Stun 5  
 Tags: Attack, Utility, AoE, Ground-Based  
-Effects: You may immediately Hide as part of this technique.
+Effects: Resolve Stun 5 against other creatures touching the ground in the Area. The upheaval buries up to 2 loose background gallons at the point of impact. Carried water and standing bodies of water are unaffected. After the attack resolves you may immediately attempt to Hide under the normal Stealth rules.
 
 #### Shinjuu Zanshu no Jutsu - Double Suicide Decapitation Technique
 {:#shinjuu-zanshu-no-jutsu-double-suicide-decapitation-technique .jutsu-technique}

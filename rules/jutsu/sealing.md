@@ -191,7 +191,7 @@ Upkeep: 3
 Seal Speed: 10 \+ X  
 Requires: Two scrolls with thrown weapons sealed inside them.  
 Tags: Link  
-Effects: X has a maximum of Chakra Control / 5\. This is added on to a multi-throw with any weapon but senbon increasing the number of weapons thrown by X without increasing the speed. This jutsu ends automatically if the scrolls used in this technique run out of weapons.
+Effects: Link this to a multi-throw using non-senbon weapons stored in the two scrolls. Draw and throw them as part of the attack. X is the number of extra weapons you add, up to Chakra Control/5, rounded down. Count the extras for damage and costs, but calculate Speed from the original throw. The original throw must contain at least one weapon. The total cannot exceed your normal multi-throw limit plus 2. Remove every weapon thrown from the scrolls. While Upkeep is maintained, you can use the scrolls again, paying the listed Link costs for each throw. The jutsu ends when either scroll runs empty.
 
 #### Sougu: Baku Ryuusei - Manipulated Tools: Attached Meteor
 {:#sougu-baku-ryuusei-manipulated-tools-attached-meteor .jutsu-technique}
@@ -205,9 +205,9 @@ Speed: 8
 Seal Speed: 8  
 Range: 12  
 Tags: Attack, Projectile  
-Effects: You make a Ranged Taijutsu Attack targeting an arm or leg. On a hit the target is chained to their current location providing them with immobility 2 and all forms of movement (besides ones already reduced by immobility) are reduced by 20%. Once the user has moved a number of yards equal to your ranks in Chakra Control from that spot they break free and this jutsu ends. Alternatively, they can try to just wrestle free as a Speed 6 action, rolling 1d20 \+ STR/5 \- Immobility against your 1d20 \+ CHA/5.
+Effects: Make a Ranged Taijutsu Attack against one target. On a full hit, anchor its arm or leg to its current position. Inflict Immobilization 2, plus 1 per 3 points by which you beat its Defense, to a maximum of 5. The attack deals no damage. Movement unaffected by Immobilization is reduced by 20% while tethered.
 
-You may use this against a target already affected by Manipulated Tools: Attached Meteor in which case its speed is halved, its chakra cost is reduced by 5, and its effects stack up to a maximum of 4 times. When the original Manipulated Tools: Attached Meteor ends this one ends as well.
+The chain breaks if the target gets farther from the anchor than your Chakra Control ranks in yards. The target may also spend Speed 6 and roll 1d20 + STR/5 against your 1d20 + CHA/5 to break free. Only one Attached Meteor can bind a target at a time; a new hit replaces its tether only if the new severity is higher.
 
 #### Teisō Kaifū -  Lesser Unseal
 {:#teiso-kaifu-lesser-unseal .jutsu-technique}
@@ -299,11 +299,9 @@ An exceptionally useful technique, as it approaches the much yearned-for concept
 Chakra: \+ 3\*X  
 Seal Speed: \+10 \+ 5\*X  
 Tags: Link  
-Effects: This is used to supplement another sealing technique with the Mark or Barrier tags. X is the rank of the jutsu. While using this jutsu you can specify up to (Research Ranks)/5 people within the sensing range who the seal will recognize by chakra signature. By default the sealing jutsu is dormant and only activates when a condition you specify within 10 Yards occurs.
+Effects: Link this when placing a Mark or a fixed Barrier. X is its rank (E = 1). Pay its normal costs, meet its placement requirements, and resolve any defense against placement normally. Write one observable trigger within 10 yards of the seal, such as a creature entering, a door opening, or a password being spoken. You may exempt up to Research/5 creatures present at inscription, rounded down.
 
-Alternatively you may select an elemental jutsu to supplement. This follows the same rules as above but it uses your base stats (such as acc and damage bonus) at the time of casting.
-
-For example you can have a barrier activate when you step inside its area or have a Mark target the first ninja to walk within 10 Yards of it. When the activation condition occurs, the seal is activated as if you had used it.
+The seal starts dormant. The first matching event switches on the linked effect in its original position or on its marked bearer, then consumes Sleeping Moon. Start the linked effect’s duration and Upkeep on activation. The dormant setup expires after 24 hours and can be unsealed before it triggers. Use Warding Seal to store an attack; Sleeping Moon cannot be linked to Warding Seal or Speed Cast.
 
 #### Sougu: Tensasai - Manipulated Tools: Heavenly Chain of Destruction
 {:#sougu-tensasai-manipulated-tools-heavenly-chain-of-destruction .jutsu-technique}

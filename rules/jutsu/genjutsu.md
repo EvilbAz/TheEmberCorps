@@ -84,9 +84,9 @@ Speed: 8
 Seal Speed: 12  
 Duration: 40 IC  
 Tags: Utility, Area  
-Effects: Choose creatures within Area when you cast. Each chosen creature makes Genjutsu Defense against your Genjutsu Offense on first entering the Area. A creature that fails suffers \-2 Awareness and gains only half the normal bonus for consecutive Searches (rounded up) while affected. This is an Area illusion, not an automatic unresisted penalty.
+Effects: When you cast, choose which creatures currently inside the Area hear the distractions. Roll Genjutsu Offense once. Each chosen creature defends immediately. On a failure it suffers −2 Awareness and halves its bonus for consecutive Searches (round up) while inside. Leaving suspends the penalties; returning before the Duration ends restores them for a still-affected victim. Once a creature escapes the illusion, re-entry does not affect it again.
 
-Realizes: 10 \+ 2×X IC
+Realizes: 10 + 2×X IC
 
 #### Mousou Enmu no Jutsu - Illusory Mist Technique
 {:#mousou-enmu-no-jutsu-illusory-mist-technique .jutsu-technique}
@@ -189,9 +189,9 @@ Speed: 8 \+ X
 Seal Speed: 4 \+ 2\*X  
 Duration: 75 IC  
 Tags: Utility, Indirect, Clone  
-Effects: You create X clones to a max of 3\. These function as normal clones, but you are always 'hidden' among your clones (as per the 'Hide Among Clones' action), even after you've been hit by an opponent.
+Effects: Create X illusory doubles (1–3) and roll Genjutsu Offense once when you cast. Use the ordinary Hide Among Clones targeting rule, even after an observer sees you get hit. Each destroyed double reappears while the illusion lasts. Increase Upkeep by 1 per action that destroyed one or more doubles.
 
-Taking an Observe action has its speed increased by 2 and allows an opponent to make a genjutsu defense roll with a \-5 penalty. They have a bonus of \+2 to this roll for every time they’d already had to take this roll in this fight. Any time a clone used in this technique is destroyed, another one appears to take its place and this jutsu's upkeep increases by 1\.
+An observer can take Observe at +2 Speed to roll Genjutsu Defense against your original Genjutsu Offense. Start at −5 and gain +2 for each earlier attempt by that observer this combat. On success they Realize and may use Kai. A successful Kai lets that observer pick you out for the rest of this casting. Others still see the doubles.
 
 #### Shinkirou no Jutsu - Mirage Technique
 {:#shinkirou-no-jutsu-mirage-technique .jutsu-technique}

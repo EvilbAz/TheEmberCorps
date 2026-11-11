@@ -71,9 +71,9 @@ Tags: Attack, Projectile, Blunt
 Chakra: 5 \+ G\*2  
 Speed: \+G  
 Seal Speed: G\*3  
-Gallons Requirement: 1 \> 90  
+Gallons Requirement: 1 to 3  
 Tags: Link  
-Effects: This is used alongside a Dodge Interrupt, and provides it with a \+G bonus. After your first time using this in a Combat Encounter, your enemies begin to see it coming. Each time you wish to use it, make an opposed Espionage vs their Espionage, with a \+5 for each time they’ve made this check this combat, on a success apply the effects as normal, on a failure you instead gain \+G/2 to your dodge. Each time you fail for this combat the divisor of this increases by 1 (G/2, G/3, G/4, G/5…)
+Effects: Link to your Dodge. Gain +G to that roll. If the attacker has already seen you use Water Splash this combat, the bonus is +1. Count only uses that attacker could see. Pay the listed costs for each use.
 
 ## D-Rank
 {:#d-rank-9 .jutsu-rank-heading}
@@ -108,8 +108,7 @@ Seal Speed: 11
 Gallons Requirement: 4 \> 12  
 Tags: Utility, AoE, Environmental, Aura
 
-Effects: This imposes a \-G Visibility penalty to everyone in the Area as a supernaturally thick mist blankets the field. This mist is always centered on you.  
-While Maintaining this Upkeep you may recast at no Chakra cost with a G of your previous use. After you stop paying the upkeep, the mist's up penalty fades at a rate of 1 per 5 IC.
+Effects: The mist follows you and affects everyone in its Area, including you. It starts at Visibility −2. Every full 10 IC of Upkeep the penalty worsens by 1, to a maximum severity of 2 + G/3 (rounded down). A partial clearing reduces the existing severity; it can build back up on the same clock. An effect that disperses the whole mist ends the jutsu. When you drop Upkeep voluntarily, the mist stays where you left it and fades by 1 severity every 5 IC.
 
 #### Mekkyaku - Extinguishment
 {:#mekkyaku-extinguishment .jutsu-technique}
