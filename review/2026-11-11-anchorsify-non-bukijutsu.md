@@ -22,7 +22,7 @@
 | Illusory Mist | Follows the caster. Failed initial defenders take −4 Visibility and −2 Genjutsu Defense inside it. Leaving suspends the penalties. Returning restores them while affected. |
 | Sly Mind | Travel loops last 30 minutes per point of margin, replacing the fixed day. The hourly recognition roll and Wound exception still apply. |
 | Fog of War | Requires 2 available Willpower and charges them only on success. Incoming danger still frees the victim before defense. |
-| Brain Destruction | Margins 1–4, 5–9 and 10+ inflict Minor, Major and Severe illusory Wounds respectively. At Severe, Upkeep is 8 and Duration is 40 IC. The wound cannot directly knock someone unconscious. |
+| Brain Destruction | Margins 1–4, 5–9 and 10+ inflict Minor, Major and Severe illusory Wounds respectively. The caster chooses any Wound of that severity, including type and location. At Severe, Upkeep is 8 and Duration is 40 IC. The wound cannot directly knock someone unconscious. |
 | Phantom Pain and Iron Maiden | Removed the old Major-only release threshold. Both follow the shared real-Wound rule. |
 | Five Monkey Curse | A victim ignores Minor Wound penalties, including existing ones. While the curse lasts, a new Minor Wound cannot free the victim from any illusion. Major or worse still frees them. |
 | Tree Binding Death | Prevents voluntary movement, but forced movement still works. Every 10 IC the victim may check to recognize it, at +1 on the first check, +2 on the next, and so on. A successful check opens Kai. |
@@ -36,7 +36,7 @@ Hallucinatory Voices, Mist Servant, Descending Hell, Hell Viewing, False Battlef
 | --- | --- | --- |
 | Katon | Sticky Fire | The first damaging Katon hit within 30 IC consumes the coating. Ordinary environmental fire cannot trigger it. Explicit interactions such as a technique igniting the coating still work. |
 | Raiton | Shocking Burst | Choose one target or everyone else within 10 yards, allies included. The pulse imposes no Area Dodge penalty. Speed 6 → 4, minimum 4. Dice 1d12 × 1d4 → 1d6 × 1d4. Paralysis 1 → 2 for 20 IC. |
-| Suiton | Water Splash | Spend 4 gallons for +3 Dodge, Chakra 5, +3 Speed and Seal Speed 4. Removed the reduced bonus against repeat observers. |
+| Suiton | Water Splash | Restored Ember’s 1–3 gallon Dodge Link. Gain +G Dodge, or +1 if the attacker has seen you use it this combat. Costs are 5 + 2G Chakra, +G Speed and 3G Seal Speed. |
 | Doton | Earthen Skewer | +10% damage for Wound severity. HP damage and Stun 4 stay at their printed values. |
 | Fūton | Wind Release Stream | Steer in the air or cancel landing damage with an Interrupt. Removed the generic grapple-defense bonus. Chakra 12 → 8 and Seal Speed 7 → 6. |
 | Sealing | Tracking Seal | Seek gives direction and approximate distance while stationary. Removed the free +10 combat Search and its bypass of Awareness penalties. |

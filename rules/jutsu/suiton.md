@@ -68,12 +68,12 @@ Tags: Attack, Projectile, Blunt
 
 <span class="jutsu-rank-badge">E-Rank</span>
 
-Chakra: 5  
-Speed: +3  
-Seal Speed: 4  
-Gallons Requirement: 4  
+Chakra: 5 \+ G\*2  
+Speed: \+G  
+Seal Speed: G\*3  
+Gallons Requirement: 1 to 3  
 Tags: Link  
-Effects: Link to a Dodge and spend 4 gallons to gain +3 on that roll.
+Effects: Link to your Dodge. Gain +G to that roll. If the attacker has already seen you use Water Splash this combat, the bonus is +1. Count only uses that attacker could see. Pay the listed costs for each use.
 
 ## D-Rank
 {:#d-rank-9 .jutsu-rank-heading}

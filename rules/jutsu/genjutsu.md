@@ -324,7 +324,7 @@ Speed: 20
 Seal Speed: 18  
 Duration: 70 \- 10×Y IC  
 Tags: Attack, Direct  
-Effects: Choose a damage type before Genjutsu Defense is rolled. On a full hit, the victim suffers one illusory Wound of that type at a randomly rolled location: Minor on a margin of 1–4, Major on 5–9, or Severe on 10 or more. Y is 1, 2 or 3 respectively. Use Y for Upkeep and Duration.
+Effects: On a full hit, your margin sets the illusory Wound’s severity. A margin of 1–4 gives Minor, 5–9 gives Major, and 10 or more gives Severe. Choose any Wound of that severity from the Wound tables, including its damage type and location. Y is 1, 2 or 3 respectively. Use Y for Upkeep and Duration.
 
 The victim suffers that illusory Wound's normal penalties and directly caused statuses, but it does not reduce HP or create a real Wound. Healing or Wound-ignoring abilities may suppress its penalties at their normal cost; those resources remain spent when the illusion ends, but healing cannot end this Genjutsu by itself.
 

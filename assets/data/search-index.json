@@ -13437,7 +13437,7 @@
     "volume": "Genjutsu",
     "number": "IV",
     "url": "/rules/jutsu/genjutsu/#shunou-kaimetsu-brain-destruction",
-    "text": "C-Rank This jutsu convinces the victim that they've been grievously injured. Although it causes no actual physical harm, it convinces their mind and all their senses that they've suffered some manner of severe damage. Chakra: 24 Upkeep: 2 + 2×Y Range: 30 Speed: 20 Seal Speed: 18 Duration: 70 - 10×Y IC Tags: Attack, Direct Effects: Choose a damage type before Genjutsu Defense is rolled. On a full hit, the victim suffers one illusory Wound of that type at a randomly rolled location: Minor on a margin of 1–4, Major on 5–9, or Severe on 10 or more. Y is 1, 2 or 3 respectively. Use Y for Upkeep and Duration. The victim suffers that illusory Wound's normal penalties and directly caused statuses, but it does not reduce HP or create a real Wound. Healing or Wound-ignoring abilities may suppress its penalties at their normal cost; those resources remain spent when the illusion ends, but healing cannot end this Genjutsu by itself. Statuses directly created by the illusory Wound end when the Genjutsu ends. Real Fatigue accumulated while acting under its penalties does not disappear. The illusion cannot directly cause death or unconsciousness. Any real Wound ends it under the usual Wound rule. A new Brain Destruction on the same victim replaces the previous one."
+    "text": "C-Rank This jutsu convinces the victim that they've been grievously injured. Although it causes no actual physical harm, it convinces their mind and all their senses that they've suffered some manner of severe damage. Chakra: 24 Upkeep: 2 + 2×Y Range: 30 Speed: 20 Seal Speed: 18 Duration: 70 - 10×Y IC Tags: Attack, Direct Effects: On a full hit, your margin sets the illusory Wound’s severity. A margin of 1–4 gives Minor, 5–9 gives Major, and 10 or more gives Severe. Choose any Wound of that severity from the Wound tables, including its damage type and location. Y is 1, 2 or 3 respectively. Use Y for Upkeep and Duration. The victim suffers that illusory Wound's normal penalties and directly caused statuses, but it does not reduce HP or create a real Wound. Healing or Wound-ignoring abilities may suppress its penalties at their normal cost; those resources remain spent when the illusion ends, but healing cannot end this Genjutsu by itself. Statuses directly created by the illusory Wound end when the Genjutsu ends. Real Fatigue accumulated while acting under its penalties does not disappear. The illusion cannot directly cause death or unconsciousness. Any real Wound ends it under the usual Wound rule. A new Brain Destruction on the same victim replaces the previous one."
   },
   {
     "title": "B-Rank",
@@ -16118,7 +16118,7 @@
     "volume": "Suiton · Water",
     "number": "IV",
     "url": "/rules/jutsu/suiton/#mizuhane-water-splash",
-    "text": "E-Rank Chakra: 5 Speed: +3 Seal Speed: 4 Gallons Requirement: 4 Tags: Link Effects: Link to a Dodge and spend 4 gallons to gain +3 on that roll."
+    "text": "E-Rank Chakra: 5 + G2 Speed: +G Seal Speed: G3 Gallons Requirement: 1 to 3 Tags: Link Effects: Link to your Dodge. Gain +G to that roll. If the attacker has already seen you use Water Splash this combat, the bonus is +1. Count only uses that attacker could see. Pay the listed costs for each use."
   },
   {
     "title": "D-Rank",
