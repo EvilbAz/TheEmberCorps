@@ -81,6 +81,15 @@ The jutsu's base Speed.
 
 The jutsu's base seal speed.
 
+### Charge
+{:#charge}
+
+For jutsu tagged Charge, pay the base Chakra cost when you start the jutsu. Once its handseals are complete, release it immediately or begin charging. A jutsu with Seal Speed 0 can start charging straight away.
+
+X is the number of IC spent charging. You can release on any IC without declaring a release time in advance. A defensive Interrupt pauses charging until the Interrupt ends. Keep the IC already charged.
+
+Choose your target and pay the additional Chakra on release. Round down each division. There is no charge limit. After release, advance by the jutsu's listed Speed. Use that Speed to calculate its Ninjutsu Damage Bonus (NDB) damage.
+
 ### Special
 {:#special}
 

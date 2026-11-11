@@ -703,36 +703,58 @@ Shuriken Shadow Clone Technique cannot be used with poisoned weapons.
 
 <span class="jutsu-rank-badge">A-Rank</span>
 
-A dense sphere of chakra spun through extreme shape transformation, the Rasengan grinds into the target before detonating its rotational force through them.
+You spin chakra into a tight ball in your palm. On contact, the sphere grinds into the target and throws them back.
 
-Chakra: 40  
-Damage: 38d10  
-Accuracy: \+2  
+Chakra: 40 + X/5  
+Damage: 38d10 at X = 0 (see below)  
+Accuracy: +2 + X/5  
 Range: Melee  
 Speed: 18  
 Seal Speed: 0  
 Special: Knockback 8, Stun 6  
-Tags: Attack, Melee, Blunt  
-Effects: Rasengan ignores 20% of the target's Damage Reduction. Its damage is considered 25% higher for determining Wounds. Rasengan requires one free hand, but no handseals.
+Tags: Attack, Melee, Blunt, Charge  
+Effects: Rasengan requires one free hand. It ignores 20% of the target’s Damage Reduction. Treat its damage as 25% higher when determining Wounds.
+
+Use the total dice pool for the highest charge you’ve reached.
+
+| IC charged | Damage dice |
+| ---: | ---: |
+| 0 | 38d10 |
+| 8 | 88d10 |
+| 22 | 128d10 |
+| 38 | 179d10 |
+| 46 | 207d10 |
+| 50 | 210d10 |
+| 60 | 290d10 |
+| 70 | 356d10 |
+| 80 | 431d10 |
+
+At 90 IC, add 84d10 to the pool. Every 10 IC after that, add 9d10 more than the previous increase (+93d10 at 100, +102d10 at 110, and so on).
+
+For every full 5 IC charged, increase Knockback by 4, up to Knockback 20. At X ≥ 10, if a full hit knocks the target into solid terrain, increase Stun to 10.
 
 #### Ōdama Rasengan - Big Ball Rasengan
 {:#odama-rasengan-big-ball-rasengan .jutsu-technique}
 
 <span class="jutsu-rank-badge">A-Rank</span>
 
-The user pours substantially more chakra into a Rasengan until the rotating sphere becomes large enough that the impact catches everyone standing too close to the target.
+You feed more chakra into a Rasengan until the sphere is big enough to catch everyone around the point of impact.
 
-Chakra: 52  
-Damage: 52d10  
-Accuracy: \-2  
+Chakra: 52 + X/5  
+Damage: Rasengan’s dice at the same charge, plus 14d10  
+Accuracy: −2 + X/5  
 Range: Melee  
 Area: 6  
 Speed: 24  
 Seal Speed: 0  
 Special: Knockback 14, Stun 10  
 Requires: Rasengan  
-Tags: Attack, Melee, AoE, Blunt  
-Effects: Choose one primary target in melee. Other creatures in the Area defend against the same Accuracy but take 50% final damage and half the listed Stun and Knockback. You are not affected by your own Area. Against the primary target, ignore 20% of Damage Reduction.
+Tags: Attack, Melee, AoE, Blunt, Charge  
+Effects: Ōdama requires one free hand. Form it directly or pay 12 Chakra to enlarge a Rasengan you’re already holding. Keep all IC spent charging. Pay the X/5 portion once, on release.
+
+Choose a primary target in melee and center the Area on them. Use the [Rasengan dice pool](#rasengan) for your charge, add 14d10, then apply your NDB using Ōdama’s Speed of 24. Against the primary target, ignore 20% of their Damage Reduction.
+
+Every other creature in the Area defends against the same Accuracy. Secondary targets take half final damage, Knockback 7, and Stun 5. You’re unaffected by your own Area.
 
 #### Hiraishin no Jutsu - Flying Thunder God Technique
 {:#hiraishin-no-jutsu-flying-thunder-god-technique .jutsu-technique}

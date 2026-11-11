@@ -12908,6 +12908,13 @@
     "text": "A-Rank The north wind cleanses the world of its impurities and soothes the raging elements. Once its handseals are completed, a calm but strong wind blows in from the north. This technique is limited that it can only be used outside. Chakra: 30 Speed: 22 Seal Speed: 30 Tags: Utility, AoE Effects: All environmental effects caused by ninjutsu (such as Yomi Numa, or Four Pillar Bind) end immediately, and no such techniques may be activated for double the user's ninjutsu damage bonus worth of IC; however, this cannot end or disperse B- or A-rank Katon techniques. Any Ignite status effects have their severity halved (round down), and any Immobilization with set durations (meaning, ones that fade by a certain amount every so-many IC) are removed, as is any Paralysis that was originally caused by a Raiton technique."
   },
   {
+    "title": "Renkuudan - Compressed Air Blast",
+    "volume": "Fūton · Wind",
+    "number": "IV",
+    "url": "/rules/jutsu/fuuton/#renkuudan-compressed-air-blast",
+    "text": "A-Rank A Sand technique said to come from a monster that terrorized the country more than 150 years ago. You draw a deep breath, compress the air in your lungs with chakra, and spit it out in a single blast. Chakra: 35 + X/5 Damage: (2 + X/2)d12 × 5 Accuracy: +X/5 Range: 30 + X Speed: 10 Seal Speed: 25 Tags: Attack, Blunt, Projectile, Fūton, Charge Effects: Hold your breath while charging. For every full 2 IC charged, add one d12 to the starting pool of 2d12. Multiply the dice total by 5, then add double your normal NDB damage for a Speed 10 attack. At X ≥ 10, a full hit inflicts Knockback equal to X. At X ≥ 25, a target moved by this Knockback also falls Prone. Reduce any Wound caused by Renkuudan by one category. A Major Wound becomes Minor, and a Minor Wound deals no Wound."
+  },
+  {
     "title": "Fuuton: Shinkuu Taigyoku - Wind Release: Vacuum Great Sphere",
     "volume": "Fūton · Wind",
     "number": "IV",
@@ -13255,14 +13262,14 @@
     "volume": "General Ninjutsu",
     "number": "IV",
     "url": "/rules/jutsu/general/#rasengan",
-    "text": "A-Rank A dense sphere of chakra spun through extreme shape transformation, the Rasengan grinds into the target before detonating its rotational force through them. Chakra: 40 Damage: 38d10 Accuracy: +2 Range: Melee Speed: 18 Seal Speed: 0 Special: Knockback 8, Stun 6 Tags: Attack, Melee, Blunt Effects: Rasengan ignores 20% of the target's Damage Reduction. Its damage is considered 25% higher for determining Wounds. Rasengan requires one free hand, but no handseals."
+    "text": "A-Rank You spin chakra into a tight ball in your palm. On contact, the sphere grinds into the target and throws them back. Chakra: 40 + X/5 Damage: 38d10 at X = 0 (see below) Accuracy: +2 + X/5 Range: Melee Speed: 18 Seal Speed: 0 Special: Knockback 8, Stun 6 Tags: Attack, Melee, Blunt, Charge Effects: Rasengan requires one free hand. It ignores 20% of the target’s Damage Reduction. Treat its damage as 25% higher when determining Wounds. Use the total dice pool for the highest charge you’ve reached. IC charged Damage dice ---: ---: 0 38d10 8 88d10 22 128d10 38 179d10 46 207d10 50 210d10 60 290d10 70 356d10 80 431d10 At 90 IC, add 84d10 to the pool. Every 10 IC after that, add 9d10 more than the previous increase (+93d10 at 100, +102d10 at 110, and so on). For every full 5 IC charged, increase Knockback by 4, up to Knockback 20. At X ≥ 10, if a full hit knocks the target into solid terrain, increase Stun to 10."
   },
   {
     "title": "Ōdama Rasengan - Big Ball Rasengan",
     "volume": "General Ninjutsu",
     "number": "IV",
     "url": "/rules/jutsu/general/#odama-rasengan-big-ball-rasengan",
-    "text": "A-Rank The user pours substantially more chakra into a Rasengan until the rotating sphere becomes large enough that the impact catches everyone standing too close to the target. Chakra: 52 Damage: 52d10 Accuracy: -2 Range: Melee Area: 6 Speed: 24 Seal Speed: 0 Special: Knockback 14, Stun 10 Requires: Rasengan Tags: Attack, Melee, AoE, Blunt Effects: Choose one primary target in melee. Other creatures in the Area defend against the same Accuracy but take 50% final damage and half the listed Stun and Knockback. You are not affected by your own Area. Against the primary target, ignore 20% of Damage Reduction."
+    "text": "A-Rank You feed more chakra into a Rasengan until the sphere is big enough to catch everyone around the point of impact. Chakra: 52 + X/5 Damage: Rasengan’s dice at the same charge, plus 14d10 Accuracy: −2 + X/5 Range: Melee Area: 6 Speed: 24 Seal Speed: 0 Special: Knockback 14, Stun 10 Requires: Rasengan Tags: Attack, Melee, AoE, Blunt, Charge Effects: Ōdama requires one free hand. Form it directly or pay 12 Chakra to enlarge a Rasengan you’re already holding. Keep all IC spent charging. Pay the X/5 portion once, on release. Choose a primary target in melee and center the Area on them. Use the Rasengan dice pool for your charge, add 14d10, then apply your NDB using Ōdama’s Speed of 24. Against the primary target, ignore 20% of their Damage Reduction. Every other creature in the Area defends against the same Accuracy. Secondary targets take half final damage, Knockback 7, and Stun 5. You’re unaffected by your own Area."
   },
   {
     "title": "Hiraishin no Jutsu - Flying Thunder God Technique",
@@ -15362,7 +15369,7 @@
     "volume": "Raiton · Lightning",
     "number": "IV",
     "url": "/rules/jutsu/raiton/#chidori",
-    "text": "B-Rank You gather lightning around your hand and drive it forward. Up close, the noise is a scream. Chakra: 32 Damage: 34d81d4 Accuracy: -3 Range: Melee Speed: 16 Seal Speed: 18 Special: Paralysis 3 for 20 IC Tags: Attack, Melee, Piercing, Energy, Raiton Effects: If you moved at least 5 yards toward the target as part of this Attack, increase Damage by 10% but suffer -1 Defense until your next non-Interrupt Action. Characters with a predictive dōjutsu or equivalent movement-reading feature may ignore this Defense penalty."
+    "text": "B-Rank You gather lightning around one hand. The crackle rises to a shriek as you close on your target. Chakra: 32 + X/5 Damage: (34d8 × 1d4) + X(X + 10)/5 Accuracy: −3 + X/5 Range: Melee Speed: 16 Seal Speed: 18 Special: Paralysis 3 for 20 IC Tags: Attack, Melee, Piercing, Energy, Raiton, Charge Effects: Chidori requires one free hand. Multiply the total of the 34d8 by a single d4, then add the charge damage and your normal NDB damage. If you move at least 5 yards toward the target as part of this Attack, increase the total damage by 10%. At X ≥ 10, the increase is 20%, and the running attack ignores 25% of the target’s armor effectiveness. Taking the run-up gives you −1 Defense until your next non-Interrupt Action. A predictive dōjutsu or equivalent movement-reading feature lets you ignore this penalty. At X ≥ 15, a full hit inflicts Paralysis 5 for 20 IC, whether you ran or stood your ground."
   },
   {
     "title": "Chidori Nagashi - Chidori Current",
@@ -15580,6 +15587,13 @@
     "number": "IV",
     "url": "/rules/jutsu/rules/#seal-speed",
     "text": "The jutsu's base seal speed."
+  },
+  {
+    "title": "Charge",
+    "volume": "Jutsu Rules",
+    "number": "IV",
+    "url": "/rules/jutsu/rules/#charge",
+    "text": "For jutsu tagged Charge, pay the base Chakra cost when you start the jutsu. Once its handseals are complete, release it immediately or begin charging. A jutsu with Seal Speed 0 can start charging straight away. X is the number of IC spent charging. You can release on any IC without declaring a release time in advance. A defensive Interrupt pauses charging until the Interrupt ends. Keep the IC already charged. Choose your target and pay the additional Chakra on release. Round down each division. There is no charge limit. After release, advance by the jutsu's listed Speed. Use that Speed to calculate its Ninjutsu Damage Bonus (NDB) damage."
   },
   {
     "title": "Special",

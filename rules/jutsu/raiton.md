@@ -351,21 +351,23 @@ If the nearest viable target is somebody in stealth, it will still target them a
 
 <span class="jutsu-rank-badge">B-Rank</span>
 
-You gather lightning around your hand and drive it forward. Up close, the noise is a scream.
+You gather lightning around one hand. The crackle rises to a shriek as you close on your target.
 
-Chakra: 32  
-Damage: 34d8\*1d4  
-Accuracy: \-3  
+Chakra: 32 + X/5  
+Damage: (34d8 × 1d4) + X(X + 10)/5  
+Accuracy: −3 + X/5  
 Range: Melee  
 Speed: 16  
 Seal Speed: 18  
 Special: Paralysis 3 for 20 IC  
-Tags: Attack, Melee, Piercing, Energy, Raiton  
-Effects:
+Tags: Attack, Melee, Piercing, Energy, Raiton, Charge  
+Effects: Chidori requires one free hand. Multiply the total of the 34d8 by a single d4, then add the charge damage and your normal NDB damage.
 
-If you moved at least 5 yards toward the target as part of this Attack, increase Damage by 10% but suffer \-1 Defense until your next non-Interrupt Action.
+If you move at least 5 yards toward the target as part of this Attack, increase the total damage by 10%. At X ≥ 10, the increase is 20%, and the running attack ignores 25% of the target’s armor effectiveness.
 
-Characters with a predictive dōjutsu or equivalent movement-reading feature may ignore this Defense penalty.
+Taking the run-up gives you −1 Defense until your next non-Interrupt Action. A predictive dōjutsu or equivalent movement-reading feature lets you ignore this penalty.
+
+At X ≥ 15, a full hit inflicts Paralysis 5 for 20 IC, whether you ran or stood your ground.
 
 #### Chidori Nagashi - Chidori Current
 {:#chidori-nagashi-chidori-current .jutsu-technique}

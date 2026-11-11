@@ -484,6 +484,26 @@ Seal Speed: 30
 Tags: Utility, AoE  
 Effects: All environmental effects caused by ninjutsu (such as Yomi Numa, or Four Pillar Bind) end immediately, and no such techniques may be activated for double the user's ninjutsu damage bonus worth of IC; however, this cannot end or disperse B- or A-rank Katon techniques. Any Ignite status effects have their severity halved (round down), and any Immobilization with set durations (meaning, ones that fade by a certain amount every so-many IC) are removed, as is any Paralysis that was originally caused by a Raiton technique.
 
+#### Renkuudan - Compressed Air Blast
+{:#renkuudan-compressed-air-blast .jutsu-technique}
+
+<span class="jutsu-rank-badge">A-Rank</span>
+
+A Sand technique said to come from a monster that terrorized the country more than 150 years ago. You draw a deep breath, compress the air in your lungs with chakra, and spit it out in a single blast.
+
+Chakra: 35 + X/5  
+Damage: (2 + X/2)d12 × 5  
+Accuracy: +X/5  
+Range: 30 + X  
+Speed: 10  
+Seal Speed: 25  
+Tags: Attack, Blunt, Projectile, Fūton, Charge  
+Effects: Hold your breath while charging. For every full 2 IC charged, add one d12 to the starting pool of 2d12. Multiply the dice total by 5, then add double your normal NDB damage for a Speed 10 attack.
+
+At X ≥ 10, a full hit inflicts Knockback equal to X. At X ≥ 25, a target moved by this Knockback also falls Prone.
+
+Reduce any Wound caused by Renkuudan by one category. A Major Wound becomes Minor, and a Minor Wound deals no Wound.
+
 #### Fuuton: Shinkuu Taigyoku - Wind Release: Vacuum Great Sphere
 {:#fuuton-shinkuu-taigyoku-wind-release-vacuum-great-sphere .jutsu-technique}
 
