@@ -130,6 +130,7 @@
     ['violet', /^(Genjutsu|Sensory|Dōjutsu|Visual|Auditory|Tactile|Sound|Ritual|Sealing|Seals|Unseal|Fūinjutsu|Void)\b/i],
     ['green', /^(Healing|Medical|Movement|Environmental|Ground-Based|Doton|Fuuton|Fūton|Sage Art|Sage Kata)$/i]
   ];
+  window.emberKeywordTone = label => keywordTones.find(([, pattern]) => pattern.test(label))?.[0] || 'teal';
   let observer, pageEvents;
   function initPage() {
     observer?.disconnect(); pageEvents?.abort(); pageEvents = new AbortController();
@@ -149,8 +150,7 @@
     }
     const rule = $('#rule-content'); if (!rule) return;
     for (const badge of rule.querySelectorAll('.jutsu-keyword')) {
-      const tone = keywordTones.find(([, pattern]) => pattern.test(badge.textContent.trim()));
-      if (tone) badge.dataset.tone = tone[0];
+      badge.dataset.tone = window.emberKeywordTone(badge.textContent.trim());
     }
     for (const table of rule.querySelectorAll('table')) {
       if (table.parentElement.classList.contains('table-scroll')) continue;

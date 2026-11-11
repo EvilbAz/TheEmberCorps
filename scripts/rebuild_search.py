@@ -77,9 +77,14 @@ def rebuild():
 
 if __name__ == '__main__':
     import sys
+    from jutsu_index import build
     records = rebuild()
+    techniques = build(sources())
+    catalogue = INDEX.with_name('jutsu-index.json')
     if '--check' in sys.argv:
+        assert techniques == json.loads(catalogue.read_text()), 'Jutsu index is stale; run scripts/rebuild_search.py'
         assert records == json.loads(INDEX.read_text()), 'Search index is stale; run scripts/rebuild_search.py'
     else:
+        catalogue.write_text(json.dumps(techniques, ensure_ascii=False, indent=2) + '\n')
         INDEX.write_text(json.dumps(records, ensure_ascii=False, indent=2) + '\n')
     print(f'Search index: {len(records)} current entries.')

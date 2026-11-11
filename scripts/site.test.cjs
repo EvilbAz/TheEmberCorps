@@ -71,3 +71,33 @@ test('same-page links and rank anchors never reload the document',async()=>{
  const click=new w.MouseEvent('click',{bubbles:true,cancelable:true,button:0});a.dispatchEvent(click);assert.equal(click.defaultPrevented,true);
  w.document.querySelector('.jutsu-rank-jumps a').click();assert.equal(w.location.hash,'#e-rank');assert.equal(audio.length,1);assert.equal(w.document.title,'First');dom.window.close();
 });
+
+test('jutsu finder combines filters, pages results and links to the printed formula', async () => {
+  const {w, dom} = setup();
+  const source = fs.readFileSync(path.join(root, 'rules/jutsu.md'), 'utf8');
+  const markup = source.slice(source.indexOf('<section class="jutsu-finder"'));
+  const index = JSON.parse(fs.readFileSync(path.join(root, 'assets/data/jutsu-index.json'), 'utf8'));
+  w.document.querySelector('#rule-content').innerHTML = markup;
+  w.fetch = async () => ({ok:true, json:async () => index});
+  w.eval(fs.readFileSync(path.join(root, 'assets/js/jutsu-finder.js'), 'utf8'));
+  await tick();
+  const get = selector => w.document.querySelector(selector);
+  const set = (name, value) => {
+    const control = get('[name="' + name + '"]');
+    control.value = value;
+    control.dispatchEvent(new w.Event(control.tagName === 'SELECT' ? 'change' : 'input'));
+  };
+  assert.equal(w.document.querySelectorAll('tbody tr').length, 50);
+  get('[data-next]').click();
+  assert.match(get('[data-count]').textContent, /^51–100/);
+  set('rank','B-Rank'); set('tag','Charge'); set('tag','Melee'); set('damage','34d8'); set('query','千鳥');
+  assert.equal(w.document.querySelectorAll('tbody tr').length, 1);
+  assert.equal(get('tbody a').getAttribute('href'), base + '/rules/jutsu/raiton/#chidori');
+  assert.match(get('tbody').textContent, /32 \+ X\/5/);
+  assert.equal(get('tbody .jutsu-keyword').dataset.tone, 'orange');
+  set('damage','impossible');
+  assert.match(get('[data-count]').textContent, /No matching/);
+  get('[data-reset]').click(); set('query','mizuhane');
+  assert.match(get('tbody').textContent, /Gallons requirement 1 > 90/);
+  dom.window.close();
+});

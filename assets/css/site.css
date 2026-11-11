@@ -667,3 +667,28 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 #main:focus { outline:none; }
 @media (max-width:700px) { .prose .jutsu-rank-heading { margin-top:2.5rem; } }
 @media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
+
+.jutsu-finder { min-width:0; }
+.jf-controls { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:.65rem 1rem; }
+.jf-controls label { color:var(--muted); font-size:.78rem; font-weight:700; }
+.jf-controls input,.jf-controls select,.jutsu-finder button { font:inherit; color:var(--text); background:var(--surface); border:1px solid var(--line); border-radius:4px; padding:.45rem .65rem; }
+.jf-controls input,.jf-controls select { display:block; width:100%; margin-top:.2rem; min-height:2.4rem; }
+.jutsu-finder button { font-size:.8rem; }
+.jutsu-finder button:disabled { opacity:.5; cursor:default; }
+.jutsu-finder :focus-visible { outline:2px solid var(--accent2); outline-offset:2px; }
+.jf-tags,.jf-toolbar,.jf-pager { display:flex; gap:.5rem; align-items:center; flex-wrap:wrap; }
+.jf-tags:not(:empty),.jf-toolbar { margin-top:.8rem; }
+.jf-tags button { border-color:var(--accent2); color:var(--accent2); }
+.jf-toolbar [role=status] { margin-right:auto; color:var(--muted); font-size:.85rem; }
+.jf-pager { justify-content:flex-end; }
+.prose .jf-scroll { max-height:65vh; margin:.55rem 0; }
+.prose .jf-scroll table { width:100%; min-width:880px; }
+.prose .jf-scroll th,.prose .jf-scroll td { padding:.5rem .6rem; min-width:0; }
+.prose .jf-scroll thead th { position:sticky; top:0; z-index:1; background:var(--surface2); }
+.jf-scroll td:first-child { width:21%; }
+.jf-scroll td:last-child { width:17%; }
+.jf-scroll td small { display:block; color:var(--muted); line-height:1.35; }
+.jf-scroll td a { font-weight:700; }
+.jf-scroll td { overflow-wrap:anywhere; }
+@media(max-width:650px) { .jf-controls { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+.jf-scroll .jutsu-keyword,.jf-scroll .jutsu-rank-badge { padding:.05rem .32rem; font-size:.67rem; margin:0 .15rem .16rem 0; white-space:nowrap; }
