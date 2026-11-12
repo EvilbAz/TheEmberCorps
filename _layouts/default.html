@@ -97,11 +97,6 @@
                     <a href="{{ '/rules/equipment/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
                   {% endfor %}
                 {% endif %}
-                <div class="equipment-catalogue-slot">
-                  {% unless page.equipment_catalogue %}<a class="equipment-catalogue-link" href="{{ '/rules/standard-weapons/' | relative_url }}"><strong>WEAPON CATALOGUE</strong></a>{% endunless %}
-                  {% unless page.armor_catalogue %}<a class="equipment-catalogue-link" href="{{ '/rules/standard-armor/' | relative_url }}"><strong>ARMOR CATALOGUE</strong></a>{% endunless %}
-                  {% unless page.item_catalogue %}<a class="equipment-catalogue-link" href="{{ '/rules/standard-items/' | relative_url }}"><strong>ITEM CATALOGUE</strong></a>{% endunless %}
-                </div>
               </nav>
             {% elsif page.volume_slug == 'talents' %}
               <nav class="toc talent-side-links" aria-label="Talent categories">
@@ -118,6 +113,16 @@
       <a class="volume-link lore-volume-link {% if page.permalink == '/lore/' %}selected{% endif %}" href="{{ '/lore/' | relative_url }}"><span class="volume-number">VII</span><span>World &amp; Lore</span>{% if page.permalink == '/lore/' %}<span class="active-spark"></span>{% endif %}</a>
       <a class="volume-link lore-volume-link {% if page.permalink == '/timeline/' %}selected{% endif %}" href="{{ '/timeline/' | relative_url }}"><span class="volume-number">◈</span><span>Timeline of Events</span>{% if page.permalink == '/timeline/' %}<span class="active-spark"></span>{% endif %}</a>
     </nav>
+    {% if page.volume_slug == 'equipment' %}
+      <nav class="equipment-catalogue-slot" aria-label="Equipment catalogues">
+        {% assign catalogues = "weapons|Weapon,armor|Armor,items|Item" | split: "," %}
+        {% for catalogue in catalogues %}
+          {% assign parts = catalogue | split: "|" %}
+          {% assign route = "/rules/standard-" | append: parts[0] | append: "/" %}
+          <a class="equipment-catalogue-link" href="{{ route | relative_url }}"{% if page.permalink == route %} aria-current="page"{% endif %}><strong>{{ parts[1] | upcase }} CATALOGUE</strong></a>
+        {% endfor %}
+      </nav>
+    {% endif %}
     <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/guide/' | relative_url }}">New Player Guide <span>↗</span></a><a href="{{ '/minecraft/' | relative_url }}">Minecraft Server <span>↗</span></a><a href="{{ '/start/' | relative_url }}">Character Creation <span>↗</span></a><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Rules updates on Discord <span>↗</span></a></div>
   </aside>
   <div class="content-wrap">
