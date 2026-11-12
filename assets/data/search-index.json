@@ -10105,14 +10105,14 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#small-barrel-bomb",
-    "text": "Place the barrel within reach. Its chakra seal bursts 5 IC after setup finishes. Resolve one Area 5 attack centred on the barrel for 6d10.open(9) Energy damage. Defend as against one exploding tag. Everyone in the area can be hit. Cost: 3,000 Ryō"
+    "text": "Place the barrel within reach. Its chakra seal bursts 5 IC after setup finishes. Resolve one Area 5 attack centred on the barrel for 6d10!o>9 Energy damage. Defend as against one exploding tag. Everyone in the area can be hit. Cost: 3,000 Ryō"
   },
   {
     "title": "Large Barrel Bomb",
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#large-barrel-bomb",
-    "text": "Place the barrel within reach. Its seal bursts the first time a damaging attack hits the placed barrel. Resolve one Area 10 attack centred on it for 12d10.open(9) Energy damage, defended as against one exploding tag. A barrel blast cannot trigger another barrel. If several large barrels are hit by the same attack, each creature takes only one barrel hit. Cost: 8,500 Ryō"
+    "text": "Place the barrel within reach. Its seal bursts the first time a damaging attack hits the placed barrel. Resolve one Area 10 attack centred on it for 12d10!o>9 Energy damage, defended as against one exploding tag. A barrel blast cannot trigger another barrel. If several large barrels are hit by the same attack, each creature takes only one barrel hit. Cost: 8,500 Ryō"
   },
   {
     "title": "Paint Pod",
@@ -17602,7 +17602,7 @@
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/#items-monster-hunting-gear",
-    "text": "Monster Hunting Gear 8 ITEMS Pitfall Net 6,500 Ryō Setup 5 · 4d8 Blunt · Clinch ITEM RULES ↗ Thunderbug Trap 7,500 Ryō Setup 5 · Holds for 15 IC ITEM RULES ↗ Small Barrel Bomb 3,000 Ryō Setup 5 · 6d10.open(9) · Area 5 ITEM RULES ↗ Large Barrel Bomb 8,500 Ryō Setup 5 · 12d10.open(9) · Area 10 ITEM RULES ↗ Paint Pod 1,200 Ryō +5 Search per applied pod ITEM RULES ↗ Screamer Pod 2,500 Ryō Flush out a burrower ITEM RULES ↗ Scent Bait 1,500 Ryō Draw a feeding monster ITEM RULES ↗ Capture Seal 4,000 Ryō Restrained, Capture-Ready targets only ITEM RULES ↗"
+    "text": "Monster Hunting Gear 8 ITEMS Pitfall Net 6,500 Ryō Setup 5 · 4d8 Blunt · Clinch ITEM RULES ↗ Thunderbug Trap 7,500 Ryō Setup 5 · Holds for 15 IC ITEM RULES ↗ Small Barrel Bomb 3,000 Ryō Setup 5 · 6d10!o>9 · Area 5 ITEM RULES ↗ Large Barrel Bomb 8,500 Ryō Setup 5 · 12d10!o>9 · Area 10 ITEM RULES ↗ Paint Pod 1,200 Ryō +5 Search per applied pod ITEM RULES ↗ Screamer Pod 2,500 Ryō Flush out a burrower ITEM RULES ↗ Scent Bait 1,500 Ryō Draw a feeding monster ITEM RULES ↗ Capture Seal 4,000 Ryō Restrained, Capture-Ready targets only ITEM RULES ↗"
   },
   {
     "title": "Survival",

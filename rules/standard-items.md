@@ -64,10 +64,10 @@ permalink: "/rules/standard-items/"
 <span class="armor-meta"><strong>Thunderbug Trap</strong><span class="armor-price">7,500 Ryō</span><span class="armor-stats"><span>Setup 5 · Holds for 15 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#small-barrel-bomb' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/small-barrel-bomb.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Small Barrel Bomb</strong><span class="armor-price">3,000 Ryō</span><span class="armor-stats"><span>Setup 5 · 6d10.open(9) · Area 5</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Small Barrel Bomb</strong><span class="armor-price">3,000 Ryō</span><span class="armor-stats"><span>Setup 5 · 6d10!o&gt;9 · Area 5</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#large-barrel-bomb' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/large-barrel-bomb.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Large Barrel Bomb</strong><span class="armor-price">8,500 Ryō</span><span class="armor-stats"><span>Setup 5 · 12d10.open(9) · Area 10</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Large Barrel Bomb</strong><span class="armor-price">8,500 Ryō</span><span class="armor-stats"><span>Setup 5 · 12d10!o&gt;9 · Area 10</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#paint-pod' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/paint-pod.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Paint Pod</strong><span class="armor-price">1,200 Ryō</span><span class="armor-stats"><span>+5 Search per applied pod</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>

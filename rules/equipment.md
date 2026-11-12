@@ -1988,14 +1988,14 @@ Cost: 7,500 Ryō
 #### Small Barrel Bomb
 {:#small-barrel-bomb}
 
-Place the barrel within reach. Its chakra seal bursts 5 IC after setup finishes. Resolve one Area 5 attack centred on the barrel for **6d10.open(9) Energy damage**. Defend as against one exploding tag. Everyone in the area can be hit.
+Place the barrel within reach. Its chakra seal bursts 5 IC after setup finishes. Resolve one Area 5 attack centred on the barrel for **6d10\!o\>9 Energy damage**. Defend as against one exploding tag. Everyone in the area can be hit.
 
 Cost: 3,000 Ryō
 
 #### Large Barrel Bomb
 {:#large-barrel-bomb}
 
-Place the barrel within reach. Its seal bursts the first time a damaging attack hits the placed barrel. Resolve one Area 10 attack centred on it for **12d10.open(9) Energy damage**, defended as against one exploding tag. A barrel blast cannot trigger another barrel. If several large barrels are hit by the same attack, each creature takes only one barrel hit.
+Place the barrel within reach. Its seal bursts the first time a damaging attack hits the placed barrel. Resolve one Area 10 attack centred on it for **12d10\!o\>9 Energy damage**, defended as against one exploding tag. A barrel blast cannot trigger another barrel. If several large barrels are hit by the same attack, each creature takes only one barrel hit.
 
 Cost: 8,500 Ryō
 
