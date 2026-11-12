@@ -5499,7 +5499,7 @@
     "volume": "The Hunt Kitchen",
     "number": "I",
     "url": "/rules/cooking/#cook-for-the-team",
-    "text": "Before the encounter, one hunter spends 1 Downtime Slot to cook for the Hunting Team. A single batch feeds every attending team member, including the cook (up to four). Choose one market vegetable and, if available, one monster cut. Spend the ingredients when you cook. A fire and ordinary camp utensils are enough. Roll 1d20 + Survival or Lore ranks once for the whole pot. Add the bonus from one piece of cookware if its condition applies. Each hunter who eats gets the result below for that Hunt’s encounter. Each diner may benefit from one meal per Hunt. Eating is optional. Cooking total What each diner gets ------ 14 or less · Camp fare One use of the vegetable effect. 15–24 · Well cooked One use of the vegetable effect and one use of either meat effect. The diner chooses the meat effect when its trigger occurs. 25+ · House special One use each of the vegetable, Tribe and Combat Class effects. Vegetable-only meals: On 15 or higher, each diner may use the vegetable effect twice, on separate actions. All uses belong to the individual diner and expire at the end of the encounter. Declare a roll bonus before rolling. Cooking grants the meal result directly and earns no Preparation points."
+    "text": "Before the encounter, one hunter spends 1 Downtime Slot to cook for the Hunting Team. A single batch feeds every attending team member, including the cook (up to four). Choose one market vegetable and, if available, one monster cut. Spend the ingredients when you cook. A fire and ordinary camp utensils are enough. Roll 1d20 + Survival or Lore ranks once for the whole pot. Add the bonus from one piece of cookware if its condition applies. Each hunter who eats gets the result below for that Hunt’s encounter. Each diner may benefit from one meal per Hunt. Eating is optional. Cooking total What each diner gets ------ 14 or less · Camp fare Gain the vegetable benefit for the encounter. 15–24 · Well cooked Gain the vegetable benefit. Each diner also chooses the cut’s Tribe or Combat Class benefit before the encounter. 25+ · House special Gain the vegetable, Tribe and Combat Class benefits together. Meal benefits last throughout the encounter. Apply percentage changes to the listed quantity, rounding the change down (minimum 1 for a positive quantity). Add meal percentages that modify the same quantity before rounding. A meal cannot reduce a positive cost below 1. Declare any reroll after seeing your die and use the higher result; a die can be rerolled by food only once. Vegetable-only meals: On 15 or higher, each diner also gets one reroll on any d20 check they make during the encounter. On 25 or higher, each gets two. The vegetable benefit lasts the whole encounter at every quality."
   },
   {
     "title": "Bring Meat Home",
@@ -5513,14 +5513,14 @@
     "volume": "The Hunt Kitchen",
     "number": "I",
     "url": "/rules/cooking/#tribe-cuts",
-    "text": "Tribe Cut When to use it --------- Fang Runner’s flank When you move to close the distance to a visible monster, add 5 yards to that movement. Colossus Marbled haunch When an effect would move you against your will, reduce that displacement by up to 5 yards. Chitin Shellback oyster When you take a physical hit while Blocking, reduce the damage remaining after Block by 10, to a minimum of 0. Sky Wing muscle When you aim at a monster above you, add 2 Accuracy to one ranged attack against it. Coil Ribbon loin When something holds you, add 3 to your Break Clinch or Escape Pin roll. Mire River collar When you make a Stamina roll while swimming, wading or standing in mud, add 3 to the roll. Colony Brood pearls When another hunter within 5 yards rolls to resist a status, give that hunter +2. Only one diner can assist a given roll this way."
+    "text": "Tribe Cut Meal benefit --------- Fang Runner’s flank Increase the distance you can move with your own movement by 25%. Colossus Marbled haunch Start the encounter with temporary Vitality equal to 15% of your maximum Vitality. Lose it before ordinary Vitality. It cannot be replenished and expires after the encounter. Chitin Shellback oyster Reduce incoming attack damage by 10% at the percentage-reduction step. Sky Wing muscle Gain +2 Accuracy on attacks, including attacks that use rolled Accuracy. Coil Ribbon loin Gain +2 to Dodge and to all Grapple checks, including checks made while Clinging. Mire River collar Reduce the Stamina and Chakra costs of your actions by 10%. Colony Brood pearls Once per encounter, when you or a teammate you can see loses Vitality, restore 10% of that hunter’s maximum Vitality after the hit. One diner can answer each hit. Recovery cannot exceed normal maximum Vitality."
   },
   {
     "title": "Combat Class Effects",
     "volume": "The Hunt Kitchen",
     "number": "I",
     "url": "/rules/cooking/#class-effects",
-    "text": "The cut’s second mark tells the cook how to handle it. Apply the matching row to the same cut. Combat Class Butcher’s note When to use it --------- Bruiser Sear the thick grain On a full melee hit against the monster, add 1d10 damage of the attack’s type. Skirmisher Slice across the lean When you Dodge a monster that moved as part of its attack, add 2 to your Dodge roll. Controller Simmer the silver seams When you finish setting a trap during the encounter, add 2 to its Trap TN for that placement. Artillery Roast the long fibres When you declare a ranged attack, increase its maximum Range by 10 yards for that attack. Ambusher Smoke the dark meat When you use Search to locate a hidden monster, add 3 to your Awareness roll. Grappler Braise the knuckles When you use Secure Grip while Clinging, add 3 to your Grapple Offense roll. Tank Stew the bone end When a monster deals damage to armor you are wearing, reduce that Durability loss by 10, to a minimum of 0. Swarm Toast the small morsels When a teammate also lies within an Area attack aimed at your Team, add 2 to your own defense roll against it."
+    "text": "The cut’s second mark tells the cook how to handle it. Apply the matching row to the same cut. Combat Class Butcher’s note Meal benefit --------- Bruiser Sear the thick grain Your damaging attacks deal 10% more damage before mitigation. Skirmisher Slice across the lean Gain +2 to defense rolls and increase your own movement distance by 10%. Controller Simmer the silver seams Increase by 2 any TN you set for an opponent to resist a status, escape a restraint or resist a Genjutsu. This includes traps you set. Artillery Roast the long fibres Increase the listed Range of your ranged attacks and techniques by 25%. Touch and Self retain their usual reach. Ambusher Smoke the dark meat Gain +2 Accuracy and +2 on Stealth and Search checks. Grappler Braise the knuckles Roll twice and keep the higher die on Athletics and Grapple checks, including Cling and escape attempts. Tank Stew the bone end Reduce damage taken by 15% when determining Wounds. Gain +2 on Resistance rolls. Swarm Toast the small morsels When you hit a monster, the next teammate to attack it gains +2 Accuracy on that attack. Further hits refresh the bonus. A single attack can receive this bonus from only one diner."
   },
   {
     "title": "Market Vegetables and Cookware",
@@ -5534,28 +5534,28 @@
     "volume": "The Hunt Kitchen",
     "number": "I",
     "url": "/rules/cooking/#ember-radishes",
-    "text": "200 Ryō · When a monster inflicts Burn on you, reduce its Severity by 1, to a minimum of 0."
+    "text": "200 Ryō · Increase the damage of your attacks by 5% before mitigation."
   },
   {
     "title": "Lantern Leeks",
     "volume": "The Hunt Kitchen",
     "number": "I",
     "url": "/rules/cooking/#lantern-leeks",
-    "text": "250 Ryō · When you roll Chakra Exhaustion for a Ninjutsu or Genjutsu, add 3 to the roll."
+    "text": "250 Ryō · Reduce the Chakra cost of your actions by 10% and gain +2 on Chakra Exhaustion rolls."
   },
   {
     "title": "Stonecap Mushrooms",
     "volume": "The Hunt Kitchen",
     "number": "I",
     "url": "/rules/cooking/#stonecap-mushrooms",
-    "text": "200 Ryō · When a monster hits you while you are Prone, reduce the damage you take by 8, to a minimum of 0."
+    "text": "200 Ryō · Reduce incoming attack damage by 5% at the percentage-reduction step."
   },
   {
     "title": "Field Peas",
     "volume": "The Hunt Kitchen",
     "number": "I",
     "url": "/rules/cooking/#field-peas",
-    "text": "150 Ryō · When you use a First Aid Kit on a teammate, reduce that action’s Speed by 2, to a minimum of 3."
+    "text": "150 Ryō · Reduce the Stamina cost of your actions by 10% and gain +2 on Stamina rolls."
   },
   {
     "title": "Iron Stewpot",
@@ -5583,7 +5583,7 @@
     "volume": "The Hunt Kitchen",
     "number": "I",
     "url": "/rules/cooking/#sample-meal",
-    "text": "A four-hunter Team brings a Mire Grappler home alive and trades its chit for a collar. Before the next Hunt, the cook buys Lantern Leeks for 250 Ryō and spends one Downtime Slot braising the collar. She rolls 13, adds 7 Survival and 2 for the Iron Stewpot: 22, well cooked. Each hunter gets one leek use and one meat use. The cook saves her leeks for a Chakra Exhaustion roll. The climber spends his meat use on Secure Grip. The scout keeps hers for a Stamina roll in the marsh."
+    "text": "A four-hunter Team brings a Mire Grappler home alive and trades its chit for a collar. Before the next Hunt, the cook buys Lantern Leeks for 250 Ryō and spends one Downtime Slot braising the collar. She rolls 13, adds 7 Survival and 2 for the Iron Stewpot: 22, well cooked. Everyone pays 10% less Chakra and gains +2 on Chakra Exhaustion rolls throughout the encounter. The climber chooses Grappler and rolls twice on Grapple checks. The medic chooses Mire: a 40-Chakra technique now costs 32, and a 20-Stamina action costs 18."
   },
   {
     "title": "Core Rules",
@@ -17707,7 +17707,7 @@
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/#items-hunt-kitchen",
-    "text": "Hunt Kitchen 7 ITEMS Ember Radishes 200 Ryō When a monster inflicts Burn on you, reduce its Severity by 1, to a minimum of 0. ITEM RULES ↗ Lantern Leeks 250 Ryō When you roll Chakra Exhaustion for a Ninjutsu or Genjutsu, add 3 to the roll. ITEM RULES ↗ Stonecap Mushrooms 200 Ryō When a monster hits you while you are Prone, reduce the damage you take by 8, to a minimum of 0. ITEM RULES ↗ Field Peas 150 Ryō When you use a First Aid Kit on a teammate, reduce that action’s Speed by 2, to a minimum of 3. ITEM RULES ↗ Iron Stewpot 2,000 Ryō +2 Cooking when braising a Colossus, Chitin or Mire cut, or making a vegetable-only stew. ITEM RULES ↗ Folding Grill 2,000 Ryō +2 Cooking when grilling a Fang, Sky, Coil or Colony cut. ITEM RULES ↗ Butcher’s Roll 1,500 Ryō +2 to the harvest roll when dressing a slain target with edible remains. ITEM RULES ↗"
+    "text": "Hunt Kitchen 7 ITEMS Ember Radishes 200 Ryō Increase the damage of your attacks by 5% before mitigation. ITEM RULES ↗ Lantern Leeks 250 Ryō Reduce the Chakra cost of your actions by 10% and gain +2 on Chakra Exhaustion rolls. ITEM RULES ↗ Stonecap Mushrooms 200 Ryō Reduce incoming attack damage by 5% at the percentage-reduction step. ITEM RULES ↗ Field Peas 150 Ryō Reduce the Stamina cost of your actions by 10% and gain +2 on Stamina rolls. ITEM RULES ↗ Iron Stewpot 2,000 Ryō +2 Cooking when braising a Colossus, Chitin or Mire cut, or making a vegetable-only stew. ITEM RULES ↗ Folding Grill 2,000 Ryō +2 Cooking when grilling a Fang, Sky, Coil or Colony cut. ITEM RULES ↗ Butcher’s Roll 1,500 Ryō +2 to the harvest roll when dressing a slain target with edible remains. ITEM RULES ↗"
   },
   {
     "title": "Survival",
