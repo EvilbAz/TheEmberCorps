@@ -13,7 +13,10 @@
     ['Ancient Tracks', 'ancient_tracks.ogg'],
     ['Hollow Moon', 'hollow_moon.ogg'],
     ['Hunt Drums', 'hunt_drums.ogg'],
-    ['Where the Roads End', 'where_the_roads_end.ogg']
+    ['Where the Roads End', 'where_the_roads_end.ogg'],
+    ['Night Market Stomp', 'night_market_stomp.ogg'],
+    ['Rain on the Eaves', 'rain_on_the_eaves.ogg'],
+    ['Switchback Relay', 'switchback_relay.ogg']
   ];
 
   const read = key => { try { return localStorage.getItem(key); } catch { return null; } };
@@ -22,8 +25,40 @@
   audio.preload = 'metadata';
   audio.volume = Math.max(0, Math.min(1, Number(read('ember-ambient-volume') ?? 0.34) || 0));
 
-  let index = Number(read('ember-ambient-track') || 0);
-  if (!Number.isInteger(index) || index < 0 || index >= tracks.length) index = 0;
+  const files = tracks.map(([, file]) => file);
+  const rotationKey = 'ember-ambient-rotation';
+  function shuffle(list) {
+    const result = list.slice();
+    for (let i = result.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [result[i], result[j]] = [result[j], result[i]];
+    }
+    return result;
+  }
+
+  function validCycle(list) {
+    return Array.isArray(list) && list.length === files.length &&
+      new Set(list).size === files.length && list.every(file => files.includes(file));
+  }
+
+  let stored;
+  try { stored = JSON.parse(read(rotationKey)); } catch {}
+  let order, previousCycle = [], nextCycle = [], position = 0;
+  if (validCycle(stored?.order) && Number.isInteger(stored.position) &&
+      stored.position >= 0 && stored.position < files.length) {
+    order = stored.order;
+    position = stored.position;
+    if (validCycle(stored.nextCycle)) nextCycle = stored.nextCycle;
+    if (validCycle(stored.previousCycle)) previousCycle = stored.previousCycle;
+  } else {
+    const legacy = read('ember-ambient-track');
+    const first = (legacy !== null && files[Number(legacy)]) || shuffle(files.slice(-3))[0];
+    order = [first, ...shuffle(files.filter(file => file !== first))];
+  }
+
+  function storeRotation() {
+    save(rotationKey, JSON.stringify({ order, previousCycle, nextCycle, position }));
+  }
 
   const toggle = root.querySelector('[data-ambient-toggle]');
   const panel = root.querySelector('[data-ambient-panel]');
@@ -38,10 +73,11 @@
   const sourceFor = (file) => `${base}/assets/audio/ember/${file}`.replace(/\/+/g, '/');
 
   function updateMeta() {
-    const [name, file] = tracks[index];
+    const file = order[position];
+    const name = tracks[files.indexOf(file)][0];
     title.textContent = name;
-    count.textContent = `${index + 1} / ${tracks.length}`;
-    save('ember-ambient-track', String(index));
+    count.textContent = `${position + 1} / ${tracks.length}`;
+    storeRotation();
     if (audio.src !== new URL(sourceFor(file), location.href).href) audio.src = sourceFor(file);
     if ('mediaSession' in navigator) {
       navigator.mediaSession.metadata = new MediaMetadata({
@@ -61,7 +97,6 @@
   }
 
   async function start() {
-    updateMeta();
     try {
       await audio.play();
       setPlaying(true);
@@ -76,8 +111,26 @@
   }
 
   function changeTrack(delta, autoplay = true) {
-    index = (index + delta + tracks.length) % tracks.length;
-    audio.src = '';
+    if (position + delta >= order.length) {
+      previousCycle = order;
+      // Keep the last six tracks away from the front of the next rotation.
+      const split = Math.ceil(order.length / 2);
+      order = nextCycle.length ? nextCycle : [...shuffle(order.slice(0, split)), ...shuffle(order.slice(split))];
+      nextCycle = [];
+      position = 0;
+    } else if (position + delta < 0) {
+      if (previousCycle.length) {
+        // Preserve the forward path after Previous crosses a rotation boundary.
+        nextCycle = order;
+        order = previousCycle;
+        previousCycle = [];
+        position = files.length - 1;
+      } else {
+        audio.currentTime = 0;
+      }
+    } else {
+      position += delta;
+    }
     updateMeta();
     if (autoplay) start();
   }
@@ -112,6 +165,21 @@
     save('ember-ambient-volume', String(audio.volume));
   });
 
+  function savePosition() {
+    if (audio.currentTime > 0 && !audio.ended) {
+      save('ember-ambient-offset', JSON.stringify([order[position], audio.currentTime]));
+    }
+  }
+  window.addEventListener('pagehide', savePosition);
+  audio.addEventListener('pause', savePosition);
+  audio.addEventListener('loadedmetadata', () => {
+    let saved;
+    try { saved = JSON.parse(read('ember-ambient-offset')); } catch {}
+    if (Array.isArray(saved) && saved[0] === order[position] &&
+        Number.isFinite(saved[1]) && saved[1] > 0 && saved[1] < audio.duration - 1) {
+      audio.currentTime = saved[1];
+    }
+  }, { once: true });
   audio.addEventListener('ended', () => changeTrack(1));
   audio.addEventListener('play', () => setPlaying(true));
   audio.addEventListener('pause', () => setPlaying(false));

@@ -101,3 +101,28 @@ test('jutsu finder combines filters, pages results and links to the printed form
   assert.match(get('tbody').textContent, /Gallons requirement 1 > 90/);
   dom.window.close();
 });
+
+test('ambience plays complete rotations and Previous retraces a cycle boundary', async () => {
+  const {w, audio, dom} = setup();
+  try {
+    const cycle = [];
+    const advance = () => audio[0].dispatchEvent(new w.Event('ended'));
+    for (let i = 0; i < 13; i++) {
+      cycle.push(audio[0].src);
+      advance();
+    }
+    assert.equal(new Set(cycle).size, 13);
+    const first = audio[0].src;
+    assert.ok(!cycle.slice(-6).includes(first));
+    w.document.querySelector('[data-ambient-prev]').click();
+    assert.equal(audio[0].src, cycle.at(-1));
+    w.document.querySelector('[data-ambient-next]').click();
+    assert.equal(audio[0].src, first);
+    const next = new Set();
+    for (let i = 0; i < 13; i++) {
+      next.add(audio[0].src);
+      advance();
+    }
+    assert.equal(next.size, 13);
+  } finally { dom.window.close(); }
+});
