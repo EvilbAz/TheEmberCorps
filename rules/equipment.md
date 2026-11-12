@@ -1967,40 +1967,42 @@ Cost: 12.5k Ryo
 ### Monster Hunting Gear
 {:#monster-hunting-gear}
 
-Each item is single-use. A trap is spent when sprung, even if the monster resists it. Buying supplies grants no Preparation points. For a live capture, check the monster’s profile for special requirements before choosing your gear.
+Laying a trap, placing a barrel or setting out bait is a **Speed 5, Delay 5 Utility Action**. The item is in place when the Delay ends. Each item is single-use. A trap is spent when sprung, even if the monster resists it. Buying supplies grants no Preparation points. For a live capture, check the monster’s profile for special requirements before choosing your gear.
 
 #### Pitfall Net
 {:#pitfall-net}
 
-Set the net on soft ground within reach as a Speed 12 action. Mark a 5-yard square. The first ground-moving monster to enter it rolls Resistance against TN 20. On a failure it falls Prone and cannot leave the square for 20 IC. It may still act from the pit. The net counts as a capture restraint if it can hold the creature’s body. A creature too large for the pit breaks through without being held.
+Lay the net across a 5-yard square of soft ground within reach. The first ground-moving monster to enter the square springs the trap. A monster too large for the pit breaks through. Otherwise, it rolls Resistance against TN 20.
+
+On a failure, the monster takes **4d8 Blunt damage**, falls Prone and enters a **Clinch with the net**. Its movement is 0 while held. The net rolls **1d20 + 10** for its Grapple checks, including starting Control and opposing Break Clinch. The monster may use Escape Grapple with Break Clinch as usual. The net counts as a capture restraint until the monster escapes or 20 IC pass.
 
 Cost: 6,500 Ryō
 
 #### Thunderbug Trap
 {:#thunderbug-trap}
 
-Place the cage on the ground within reach as a Speed 8 action. When a monster first touches it, the thunderbugs discharge. The monster rolls Resistance against TN 20. On a failure its movement is held at 0 for 15 IC. During that time the trap counts as a capture restraint against creatures susceptible to its current. A monster immune to Raiton springs the trap unharmed.
+Place the cage on the ground within reach. When a monster first touches the set trap, the thunderbugs discharge. The monster rolls Resistance against TN 20. On a failure its movement is held at 0 for 15 IC. During that time the trap counts as a capture restraint against creatures susceptible to its current. A monster immune to Raiton springs the trap unharmed.
 
 Cost: 7,500 Ryō
 
 #### Small Barrel Bomb
 {:#small-barrel-bomb}
 
-Place the barrel within reach as a Speed 5 action. Its chakra seal bursts 5 IC later. Resolve one Area 5 attack centred on the barrel for 6d10 Energy damage. Defend as against one exploding tag. Everyone in the area can be hit.
+Place the barrel within reach. Its chakra seal bursts 5 IC after setup finishes. Resolve one Area 5 attack centred on the barrel for **6d10.open(9) Energy damage**. Defend as against one exploding tag. Everyone in the area can be hit.
 
 Cost: 3,000 Ryō
 
 #### Large Barrel Bomb
 {:#large-barrel-bomb}
 
-Place the barrel within reach as a Speed 10 action. Its seal bursts the first time a damaging attack hits the placed barrel. Resolve one Area 10 attack centred on it for 12d10 Energy damage, defended as against one exploding tag. A barrel blast cannot trigger another barrel. If several large barrels are hit by the same attack, each creature takes only one barrel hit.
+Place the barrel within reach. Its seal bursts the first time a damaging attack hits the placed barrel. Resolve one Area 10 attack centred on it for **12d10.open(9) Energy damage**, defended as against one exploding tag. A barrel blast cannot trigger another barrel. If several large barrels are hit by the same attack, each creature takes only one barrel hit.
 
 Cost: 8,500 Ryō
 
 #### Paint Pod
 {:#paint-pod}
 
-Throw the pod as a Speed 4 ranged weapon attack with Range 15 yards. A hit leaves a bright, scented mark for the rest of the scene. Hunters gain +2 on rolls to follow that monster’s trail. Additional marks refresh the duration.
+Throw the pod as a Speed 4 ranged weapon attack with Range 15 yards. A hit leaves a bright, scented mark for the rest of the scene. Each Paint Pod that hits gives hunters **+5 to Search checks** to find that monster for the rest of the scene. The bonus stacks across hunters’ applications: two hits give +10, three give +15.
 
 Cost: 1,200 Ryō
 
@@ -2014,14 +2016,14 @@ Cost: 2,500 Ryō
 #### Scent Bait
 {:#scent-bait}
 
-Place one portion within reach as a Speed 5 action. An unengaged monster within 30 yards that can smell it and eats that food will approach to investigate by a route it can travel. The bait lasts one scene or until eaten. An attack or a visible threat breaks its interest.
+Place one portion within reach. An unengaged monster within 30 yards that can smell it and eats that food will approach to investigate by a route it can travel. The bait lasts one scene or until eaten. An attack or a visible threat breaks its interest.
 
 Cost: 1,500 Ryō
 
 #### Capture Seal
 {:#capture-seal}
 
-Press the seal to a restrained, Capture-Ready monster within reach when you declare Secure Capture. The seal supplies the suppression method for that attempt and is spent when the action begins. Use the normal Speed 10 and Delay 10 for Secure Capture.
+You can apply the seal only when you declare Secure Capture against a restrained, **Capture-Ready** monster within reach: it must be Critical and at 8–10 Exertion. The seal supplies the suppression method for that attempt and is spent when the action begins. Use the normal Speed 10 and Delay 10 for Secure Capture.
 
 Cost: 4,000 Ryō
 

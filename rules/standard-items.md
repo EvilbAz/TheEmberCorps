@@ -58,19 +58,19 @@ permalink: "/rules/standard-items/"
 <section class="catalog-group" id="items-monster-hunting-gear"><div class="catalog-heading"><h2>Monster Hunting Gear</h2><span class="catalog-count">8 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#pitfall-net' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/pitfall-net.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Pitfall Net</strong><span class="armor-price">6,500 Ryō</span><span class="armor-stats"><span>Capture restraint · 20 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Pitfall Net</strong><span class="armor-price">6,500 Ryō</span><span class="armor-stats"><span>Setup 5 · 4d8 Blunt · Clinch</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#thunderbug-trap' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/thunderbug-trap.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Thunderbug Trap</strong><span class="armor-price">7,500 Ryō</span><span class="armor-stats"><span>Capture restraint · 15 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Thunderbug Trap</strong><span class="armor-price">7,500 Ryō</span><span class="armor-stats"><span>Setup 5 · Holds for 15 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#small-barrel-bomb' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/small-barrel-bomb.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Small Barrel Bomb</strong><span class="armor-price">3,000 Ryō</span><span class="armor-stats"><span>Speed 5 · Area 5</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Small Barrel Bomb</strong><span class="armor-price">3,000 Ryō</span><span class="armor-stats"><span>Setup 5 · 6d10.open(9) · Area 5</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#large-barrel-bomb' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/large-barrel-bomb.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Large Barrel Bomb</strong><span class="armor-price">8,500 Ryō</span><span class="armor-stats"><span>Speed 10 · Area 10</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Large Barrel Bomb</strong><span class="armor-price">8,500 Ryō</span><span class="armor-stats"><span>Setup 5 · 12d10.open(9) · Area 10</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#paint-pod' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/paint-pod.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Paint Pod</strong><span class="armor-price">1,200 Ryō</span><span class="armor-stats"><span>Track a marked monster</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Paint Pod</strong><span class="armor-price">1,200 Ryō</span><span class="armor-stats"><span>+5 Search per applied pod</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#screamer-pod' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/screamer-pod.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Screamer Pod</strong><span class="armor-price">2,500 Ryō</span><span class="armor-stats"><span>Flush out a burrower</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
@@ -79,7 +79,7 @@ permalink: "/rules/standard-items/"
 <span class="armor-meta"><strong>Scent Bait</strong><span class="armor-price">1,500 Ryō</span><span class="armor-stats"><span>Draw a feeding monster</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#capture-seal' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/capture-seal.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Capture Seal</strong><span class="armor-price">4,000 Ryō</span><span class="armor-stats"><span>Suppression method · One attempt</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Capture Seal</strong><span class="armor-price">4,000 Ryō</span><span class="armor-stats"><span>Restrained, Capture-Ready targets only</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <section class="catalog-group" id="items-survival"><div class="catalog-heading"><h2>Survival</h2><span class="catalog-count">9 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#compass' | relative_url }}">
