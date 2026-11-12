@@ -69,7 +69,7 @@ permalink: "/rules/standard-items/"
 <span class="armor-art"><img src="{{ '/assets/img/items/wind-ribbon.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Wind Ribbon</strong><span class="armor-price">250 Ryō</span><span class="armor-stats"><span>Read the local wind</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
-<section class="catalog-group" id="items-monster-hunting-gear"><div class="catalog-heading"><h2>Monster Hunting Gear</h2><span class="catalog-count">8 ITEMS</span></div><div class="catalog-grid">
+<section class="catalog-group" id="items-monster-hunting-gear"><div class="catalog-heading"><h2>Monster Hunting Gear</h2><span class="catalog-count">13 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#pitfall-net' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/pitfall-net.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Pitfall Net</strong><span class="armor-price">6,500 Ryō</span><span class="armor-stats"><span>Setup 5 · 4d8 Blunt · Clinch · TN 10 + Espionage ranks</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
@@ -94,6 +94,21 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/equipment/#capture-seal' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/capture-seal.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Capture Seal</strong><span class="armor-price">4,000 Ryō</span><span class="armor-stats"><span>Restrained, Capture-Ready targets only</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#track-wax' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/track-wax.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Track Wax</strong><span class="armor-price">650 Ryō · Open stock</span><span class="armor-stats"><span>Take a cast of a track</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#burrow-bells' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/burrow-bells.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Burrow Bells</strong><span class="armor-price">1,500 Ryō · Survival 5</span><span class="armor-stats"><span>Hear what passes underground</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#moult-ledger' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/moult-ledger.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Moult Ledger</strong><span class="armor-price">2,400 Ryō · Research 8</span><span class="armor-stats"><span>Identify a monster from its castoffs</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#muster-lantern' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/muster-lantern.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Muster Lantern</strong><span class="armor-price">2,000 Ryō · Trailhand</span><span class="armor-stats"><span>Guide a scattered team back to camp</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#quarry-pulse-seal' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/quarry-pulse-seal.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Quarry Pulse Seal</strong><span class="armor-price">3,200 Ryō · Huntsman</span><span class="armor-stats"><span>Check the capture window at a distance</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <span id="items-hunt-kitchen"></span>
 <section class="catalog-group" id="items-vegetables"><div class="catalog-heading"><h2>Market Vegetables</h2><span class="catalog-count">12 ITEMS</span></div><div class="catalog-grid">
@@ -256,7 +271,7 @@ permalink: "/rules/standard-items/"
 <span class="armor-art"><img src="{{ '/assets/img/items/kotaro-extract.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Kotarō Extract</strong><span class="armor-price">6,000 Ryō</span><span class="armor-stats"><span>Rare · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
-<section class="catalog-group" id="items-exploding-tags"><div class="catalog-heading"><h2>Exploding Tags</h2><span class="catalog-count">3 ITEMS</span></div><div class="catalog-grid">
+<section class="catalog-group" id="items-exploding-tags"><div class="catalog-heading"><h2>Exploding Tags</h2><span class="catalog-count">7 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#exploding-tags' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/tag-1.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Exploding Tag, Type 1</strong><span class="armor-price">2,500 Ryō</span><span class="armor-stats"><span>Stray · Area 10</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
@@ -266,8 +281,20 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/equipment/#exploding-tag-type-3' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/tag-3.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Exploding Tag, Type 3</strong><span class="armor-price">15,000 Ryō</span><span class="armor-stats"><span>Huntsman · Area 30</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#festival-bloom-tag' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/festival-bloom-tag.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Festival Bloom Tag</strong><span class="armor-price">600 Ryō · Stray</span><span class="armor-stats"><span>Burst into a coloured Corps signal</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#footprint-bloom-tag' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/footprint-bloom-tag.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Footprint Bloom Tag</strong><span class="armor-price">1,600 Ryō · Survival 8</span><span class="armor-stats"><span>Read the tracks in a search area</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#curtainfall-tag' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/curtainfall-tag.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Curtainfall Tag</strong><span class="armor-price">2,200 Ryō · Trailhand</span><span class="armor-stats"><span>Draw a brief curtain of falling ink</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#homeward-tag' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/homeward-tag.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Homeward Tag</strong><span class="armor-price">3,600 Ryō · Huntsman</span><span class="armor-stats"><span>Call the team to a marked position</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
-<section class="catalog-group" id="items-special-projectiles"><div class="catalog-heading"><h2>Special Projectiles</h2><span class="catalog-count">3 ITEMS</span></div><div class="catalog-grid">
+<section class="catalog-group" id="items-special-projectiles"><div class="catalog-heading"><h2>Special Projectiles</h2><span class="catalog-count">8 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#senbon-piercing-thrown-projectile' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/senbon.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Senbon</strong><span class="armor-price">250 Ryō</span><span class="armor-stats"><span>Piercing</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
@@ -277,6 +304,21 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/equipment/#fuuma-shuriken-slashing-thrown-melee-projectile' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/fuuma-shuriken.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Fuuma Shuriken</strong><span class="armor-price">5,000 Ryō</span><span class="armor-stats"><span>Slashing</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#echo-shuriken' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/echo-shuriken.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Echo Shuriken</strong><span class="armor-price">1,600 Ryō · Chakra Control 8</span><span class="armor-stats"><span>Hear a struck quarry through cover</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#courier-swallow' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/courier-swallow.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Courier Swallow</strong><span class="armor-price">550 Ryō · Open stock</span><span class="armor-stats"><span>Send a folded message across a gap</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#reed-whistler' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/reed-whistler.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Reed Whistler</strong><span class="armor-price">900 Ryō · Survival 5</span><span class="armor-stats"><span>Sound a team signal on landing</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#moonwake-disc' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/moonwake-disc.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Moonwake Disc</strong><span class="armor-price">1,800 Ryō · Trailhand</span><span class="armor-stats"><span>Light a route over water</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#mirrorwing' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/mirrorwing.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Mirrorwing</strong><span class="armor-price">3,500 Ryō · Huntsman</span><span class="armor-stats"><span>Scout from a second viewpoint</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <section class="catalog-group" id="items-clan-supplies"><div class="catalog-heading"><h2>Clan Supplies</h2><span class="catalog-count">4 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/clans/#akimichi-energy-bars' | relative_url }}">

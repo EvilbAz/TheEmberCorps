@@ -1981,10 +1981,52 @@ Delay: 4
 
 Special: For every point you hit by, you add 10% to the attack's total damage, to a maximum of \+200% (so, if they dodged and you hit by 3 points you'd do 1.3 times damage, and that number would be reduced by the effects of partial defense); this does not apply if it is blocked. If no defense is declared then the attacker hits by their full accuracy value. This weapon's damage is considered 25% higher for the purpose of inflicting wounds. You may also use the Fuuma Shuriken as a melee weapon, in which case it loses all of its other special effects, deals only 4d12 damage and has the following Tags: Slashing, Small, One-Handed.Because these are large and encumbering, they are typically worn somehow strapped to the back; for each Fuuma Shuriken beyond the first you are carrying you have a \-1 penalty to dodge rolls.
 
+### Specialist Projectiles
+{:#courier-and-signal-projectiles}
+
+Utility throws in this section have Delay 0 and deal no damage.
+
+#### Echo Shuriken
+{:#echo-shuriken}
+
+Throw or launch as a standard Shuriken. On a full hit with a single projectile, its seal rings on the target for 10 IC. Once during that time, you may Search for that target by hearing through ordinary visual cover. Roll Search normally. The seal is spent on a hit.
+
+**1,600 Ryō** · Chakra Control 8
+
+#### Courier Swallow
+{:#courier-swallow}
+
+As a Speed 4 Utility Action, throw the folded chakra bird to a visible point within 25 yards. It carries one written message and lands there. Anyone can pick it up and read it. Reusable.
+
+**550 Ryō** · Open stock
+
+#### Reed Whistler
+{:#reed-whistler}
+
+As a Speed 4 Utility Action, throw the reed ring to a visible point within 20 yards. On landing it sounds one of three calls you choose. Creatures within 30 yards of that point can hear it. Retrieve the ring to use it again.
+
+**900 Ryō** · Survival 5
+
+#### Moonwake Disc
+{:#moonwake-disc}
+
+As a Speed 5 Utility Action, skip the disc up to 25 yards across a continuous water surface. Its wake lights a strip 2 yards wide for 15 IC. Ignore Visibility Penalties from darkness when looking at creatures or objects within the strip. The disc floats at the far end and can be recovered.
+
+**1,800 Ryō** · Trailhand
+
+#### Mirrorwing
+{:#mirrorwing}
+
+As a Speed 5 Utility Action, cast this mirrored wing to a visible point within 20 yards. It hovers there for 10 IC. During that time you may make a normal Search from its position using sight. Then it lands and can be recovered.
+
+**3,500 Ryō** · Huntsman
+
 # Gear & Pharmaceuticals
 {:#gear-pharmaceuticals}
 
 Shop for [market vegetables]({{ '/rules/standard-items/#items-vegetables' | relative_url }}) or [camp cookware]({{ '/rules/standard-items/#items-cookware' | relative_url }}) or [cook a pre-hunt meal]({{ '/rules/cooking/' | relative_url }}).
+
+A listed skill or Corps rank is the minimum required to buy and use that item. Open stock is available to any hunter.
 
 [Browse the illustrated Item Catalogue]({{ '/rules/standard-items/' | relative_url }})
 
@@ -2115,7 +2157,7 @@ Cost: 250 Ryō
 ### Monster Hunting Gear
 {:#monster-hunting-gear}
 
-Laying a trap, placing a barrel or setting out bait is a **Speed 5, Delay 5 Utility Action**. The item is in place when the Delay ends. Each item is single-use. A trap is spent when sprung, even if the monster resists it. Buying supplies grants no Preparation points. For a live capture, check the monster’s profile for special requirements before choosing your gear.
+Laying a trap, placing a barrel or setting out bait is a **Speed 5, Delay 5 Utility Action**. The item is in place when the Delay ends. Unless marked reusable, each item is single-use. A trap is spent when sprung, even if the monster resists it. Buying supplies grants no Preparation points. For a live capture, check the monster’s profile for special requirements before choosing your gear.
 
 **Trap TN.** When you finish setting a Pitfall Net or Thunderbug Trap, record **10 + your Espionage ranks**. Use that TN to resist the trap when it springs or to disarm it beforehand.
 
@@ -2178,6 +2220,41 @@ Cost: 1,500 Ryō
 You can apply the seal only when you declare Secure Capture against a restrained, **Capture-Ready** monster within reach: it must be Critical and at 8–10 Exertion. The seal supplies the suppression method for that attempt and is spent when the action begins. Use the normal Speed 10 and Delay 10 for Secure Capture.
 
 Cost: 4,000 Ryō
+
+#### Track Wax
+{:#track-wax}
+
+Press a cake of soft wax into a fresh print within reach as a Speed 5 Utility Action. It keeps one impression. Any hunter comparing it with another print gains +2 on Survival checks to determine whether the same individual left both.
+
+**650 Ryō** · Open stock
+
+#### Burrow Bells
+{:#burrow-bells}
+
+Set the bells into natural ground within reach (Speed 5, Delay 5). For one scene they ring whenever a burrowing monster passes within 10 yards. Anyone within 15 yards who can hear learns which bell rang. The bells give no depth or exact position.
+
+**1,500 Ryō** · Survival 5
+
+#### Moult Ledger
+{:#moult-ledger}
+
+Spend a Speed 5 Utility Action comparing a fresh shed scale, feather or shell with the illustrated plates. Roll Research against the Research difficulty in the monster’s Hunt profile. On success, learn its Tribe. Exceed that difficulty by 5 to also learn its Combat Class, or one of its classes if it has several. Reusable. Each hunter can study a given specimen once.
+
+**2,400 Ryō** · Research 8
+
+#### Muster Lantern
+{:#muster-lantern}
+
+Set the lantern within reach (Speed 5, Delay 5). Choose up to four willing hunters present. For the rest of the scene, each can sense the direction of the lantern while within 100 yards of it, even in fog or darkness. Moving the lit lantern ends the effect.
+
+**2,000 Ryō** · Trailhand
+
+#### Quarry Pulse Seal
+{:#quarry-pulse-seal}
+
+As a Speed 5 Utility Action, read one monster you can see within 20 yards. The seal shows its current Exertion and whether it is Capture-Ready, then fades. Secure Capture still requires a restraint and the usual suppression method.
+
+**3,200 Ryō** · Huntsman
 
 ### Survival
 {:#survival}
@@ -2573,6 +2650,39 @@ Requires: Huntsman Rank
 
 Cost: 15,000 Ryo
 
+
+### Signal and Field Tags
+{:#signal-and-field-tags}
+
+These single-use tags follow the normal priming rules, including the prerequisites of the chosen method. Their listed effect replaces the damaging burst. They contribute no dice to a combined detonation.
+
+#### Festival Bloom Tag
+{:#festival-bloom-tag}
+
+Choose a colour when priming the tag. It bursts into a matching flower of chakra above its space, visible for 10 IC to anyone with a clear view within 200 yards.
+
+**600 Ryō** · Stray
+
+#### Footprint Bloom Tag
+{:#footprint-bloom-tag}
+
+For 10 IC after the burst, tracks made during this scene glow in Area 5. Gain +5 to Survival rolls made to follow those tracks inside the area. Further blooms grant the same bonus once.
+
+**1,600 Ryō** · Survival 8
+
+#### Curtainfall Tag
+{:#curtainfall-tag}
+
+The tag bursts into a shower of black chakra ink in Area 5. The area imposes Visibility Penalty 3 for 5 IC. Overlapping curtains use the highest penalty.
+
+**2,200 Ryō** · Trailhand
+
+#### Homeward Tag
+{:#homeward-tag}
+
+When priming the tag, choose up to four willing creatures within reach. When it bursts, each chosen creature within 200 yards senses the burst’s direction and distance for 10 IC. The signal points to the place where the tag burst.
+
+**3,600 Ryō** · Huntsman
 
 <div class="equipment-armory-promo">
   <div><strong>FIELD ARMORY — WEAPON CATALOGUE</strong><p>Browse illustrated ready-made melee weapons, bows, crossbows, launchers, kunai and ammunition. Each weapon links back to its full equipment rules.</p></div>
