@@ -17973,7 +17973,7 @@
     "volume": "Pre-Made Weapons",
     "number": "VI",
     "url": "/rules/standard-weapons/",
-    "text": "Looking for protection? Browse the illustrated Pre-Made Armor Catalogue ↗ Compare ready-made weapons by class, price, Speed and Range. Open a pattern for its full equipment entry. Statistics below are quick references. The linked equipment entries contain complete traits, components and purchasing rules. Ammunition prices are for batches of ten. Small Weapons Medium Weapons Large Weapons Extreme Weapons Matched Weapons Bows Crossbows Kunai Launchers Shuriken Launchers Ready-Made Kunai & Shuriken Ready-Made Ammunition Monster-hunting weapons (6) Splitjaw Switch Axe Basalt Breaker Carapace Guardlance Jawbone Cleaver Raptor Fangs Ridgeback Heavy Bowgun"
+    "text": "Looking for protection? Browse the illustrated Pre-Made Armor Catalogue ↗ Compare ready-made weapons by class, price, Speed and Range. Open a pattern for its full equipment entry. Statistics below are quick references. The linked equipment entries contain complete traits, components and purchasing rules. Ammunition prices are for batches of ten. Insect Glaive Corps Vanguard Corps Ballistic Corps Small Weapons Medium Weapons Large Weapons Extreme Weapons Matched Weapons Bows Crossbows Kunai Launchers Shuriken Launchers Ready-Made Kunai & Shuriken Ready-Made Ammunition Monster-hunting weapons (6) Splitjaw Switch Axe Basalt Breaker Carapace Guardlance Jawbone Cleaver Raptor Fangs Ridgeback Heavy Bowgun"
   },
   {
     "title": "Small Weapons",
@@ -18093,6 +18093,27 @@
     "number": "VI",
     "url": "/rules/standard-weapons/#catalog-ammunition",
     "text": "Ready-Made Ammunition 12 ITEMS 059 Standard Arrow 2,500 Ryō / 10 FULL STAT BLOCK ↗ 060 Piercing Arrow 2,500 Ryō / 10 FULL STAT BLOCK ↗ 061 Standard Bolt 2,500 Ryō / 10 FULL STAT BLOCK ↗ 062 Bodkin Bolt 4,000 Ryō / 10 FULL STAT BLOCK ↗ 063 Razorhead Arrow or Bolt 4,000 Ryō / 10 AP 1 FULL STAT BLOCK ↗ 064 Blunt Arrow or Bolt 4,000 Ryō / 10 AP 1 FULL STAT BLOCK ↗ 065 Longshot Arrow 4,000 Ryō / 10 Range by 20% and Delay by 1 AP 1 FULL STAT BLOCK ↗ 066 Longshot Bolt 4,000 Ryō / 10 Range by 20% and Delay by 1 AP 1 FULL STAT BLOCK ↗ 067 Tracking Arrow or Bolt 4,000 Ryō / 10 AP 1 FULL STAT BLOCK ↗ 068 Barbed Arrow or Bolt 5,500 Ryō / 10 AP 2 FULL STAT BLOCK ↗ 069 Wireline Arrow or Bolt 5,500 Ryō / 10 AP 2 FULL STAT BLOCK ↗ 070 Razorhead Longshot Arrow or Bolt 5,500 Ryō / 10 Range by 20% and Delay by 1 AP 2 FULL STAT BLOCK ↗"
+  },
+  {
+    "title": "Ballistic Corps",
+    "volume": "Pre-Made Weapons",
+    "number": "VI",
+    "url": "/rules/standard-weapons/#catalog-ballistic-corps",
+    "text": "Ballistic Corps 9 TYPES Sidearm Frame Quickdraw CORPS RULES ↗ Light Bowgun Frame Mobile Frame CORPS RULES ↗ Heavy Bowgun Frame Set the Stock CORPS RULES ↗ Machine Pistol Frame Compact Burst CORPS RULES ↗ Carbine Frame Short-Stroke Action CORPS RULES ↗ Scattergun Frame Breach Pattern CORPS RULES ↗ Marksman Frame Cold Bore CORPS RULES ↗ Hand Cannon Frame Kickback CORPS RULES ↗ Rotary Repeater Frame Rotary Feed CORPS RULES ↗"
+  },
+  {
+    "title": "Vanguard Corps",
+    "volume": "Pre-Made Weapons",
+    "number": "VI",
+    "url": "/rules/standard-weapons/#catalog-vanguard-corps",
+    "text": "Vanguard Corps 10 TYPES Great Sword True Charge CORPS RULES ↗ Long Sword Spirit Edge CORPS RULES ↗ Sword & Shield Hunter&x27;s Guard CORPS RULES ↗ Dual Blades Demon Mode CORPS RULES ↗ Hammer Impact Charge CORPS RULES ↗ Hunting Horn Echo Recital CORPS RULES ↗ Lance Iron Counter CORPS RULES ↗ Gunlance Sealed Shelling CORPS RULES ↗ Switch Axe Morph Gauge CORPS RULES ↗ Charge Blade Phial Engine CORPS RULES ↗"
+  },
+  {
+    "title": "Insect Glaive Corps",
+    "volume": "Pre-Made Weapons",
+    "number": "VI",
+    "url": "/rules/standard-weapons/#catalog-insect-glaive-corps",
+    "text": "Insect Glaive Corps 1 TYPE Insect Glaive Bonded Kinsect CORPS RULES ↗"
   },
   {
     "title": "Capabilities",

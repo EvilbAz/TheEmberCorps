@@ -956,6 +956,9 @@ Kinsects are not kikaichu. Each is a single cultivated chakra-active companion r
 ### The Hunter's Pair
 {:#the-hunter-s-pair}
 
+<img src="{{ '/assets/img/corps-arms/insect-glaive.svg' | relative_url }}" alt="Insect Glaive with its bonded Kinsect" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #a5cda5">
+
+
 You begin with a Bonded Kinsect and an Insect Glaive at no Ryo cost.
 
 An Insect Glaive is a Large, Two-Handed Polearm with both the Slashing and Piercing Damage Types. Under the normal Weapon Crafting rules, the additional Damage Type means the weapon begins with 2 Artisan Points before any other customization. Its internal Kinsect channel, launching fittings, and resting brace have no Artisan Point cost and function only for a member of the Insect Glaive Corps bonded to the Kinsect using them.
@@ -2052,6 +2055,9 @@ Certain Disciplines grant Vanguard Guard. While you have Vanguard Guard, you may
 ### Great Sword — True Charge
 {:#great-sword-true-charge}
 
+<img src="{{ '/assets/img/corps-arms/great-sword.svg' | relative_url }}" alt="Great Sword" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
+
 **Qualifying Weapon:** Large or Extreme Two-Handed Sword.
 
 A Great Sword takes time to swing. Pick an opening worth the wait.
@@ -2064,6 +2070,9 @@ A Great Sword takes time to swing. Pick an opening worth the wait.
 
 ### Long Sword — Spirit Edge
 {:#long-sword-spirit-edge}
+
+<img src="{{ '/assets/img/corps-arms/long-sword.svg' | relative_url }}" alt="Long Sword" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
 
 **Qualifying Weapon:** Medium or Large Two-Handed Sword.
 
@@ -2078,6 +2087,9 @@ Long Sword hunters build rhythm rather than force. Every clean cut feeds the nex
 ### Sword & Shield — Hunter's Guard
 {:#sword-shield-hunter-s-guard}
 
+<img src="{{ '/assets/img/corps-arms/sword-shield.svg' | relative_url }}" alt="Sword &amp; Shield" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
+
 **Qualifying Weapon:** Small or Medium One-Handed Sword with your other hand free.
 
 The shield is not a wall. It is a fist, a wedge, a climbing hook and the half-second of safety needed to keep fighting.
@@ -2090,6 +2102,9 @@ The shield is not a wall. It is a fist, a wedge, a climbing hook and the half-se
 
 ### Dual Blades — Demon Mode
 {:#dual-blades-demon-mode}
+
+<img src="{{ '/assets/img/corps-arms/dual-blades.svg' | relative_url }}" alt="Dual Blades" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
 
 **Qualifying Weapon:** A matched pair of Small or Medium One-Handed Swords, one in each hand.
 
@@ -2106,6 +2121,9 @@ For this Discipline the matched pair is treated as one Vanguard Arm. Attacks use
 ### Hammer — Impact Charge
 {:#hammer-impact-charge}
 
+<img src="{{ '/assets/img/corps-arms/hammer.svg' | relative_url }}" alt="Hammer" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
+
 **Qualifying Weapon:** Large or Extreme Two-Handed Club.
 
 Hammer hunters do not cut around a problem. They put enough force through it that the problem forgets what it was doing.
@@ -2118,6 +2136,9 @@ Hammer hunters do not cut around a problem. They put enough force through it tha
 
 ### Hunting Horn — Echo Recital
 {:#hunting-horn-echo-recital}
+
+<img src="{{ '/assets/img/corps-arms/hunting-horn.svg' | relative_url }}" alt="Hunting Horn" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
 
 **Qualifying Weapon:** Large Two-Handed Club.
 
@@ -2136,6 +2157,9 @@ The Hunting Horn is a blunt instrument with excellent acoustics. A practiced Van
 ### Lance — Iron Counter
 {:#lance-iron-counter}
 
+<img src="{{ '/assets/img/corps-arms/lance.svg' | relative_url }}" alt="Lance" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
+
 **Qualifying Weapon: Large Two-Handed Polearm.**
 
 Lance hunters make a monster fight through the point of the weapon before it ever reaches the person behind it.
@@ -2148,6 +2172,9 @@ Lance hunters make a monster fight through the point of the weapon before it eve
 
 ### Gunlance — Sealed Shelling
 {:#gunlance-sealed-shelling}
+
+<img src="{{ '/assets/img/corps-arms/gunlance.svg' | relative_url }}" alt="Gunlance" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
 
 **Qualifying Weapon: Large Two-Handed Polearm.**
 
@@ -2163,6 +2190,9 @@ A Gunlance is not a firearm. Its 'shells' are close-range sealed blast chambers 
 
 ### Switch Axe — Morph Gauge
 {:#switch-axe-morph-gauge}
+
+<img src="{{ '/assets/img/corps-arms/switch-axe.svg' | relative_url }}" alt="Switch Axe" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
 
 **Qualifying Weapon: Large Two-Handed Polearm.**
 
@@ -2180,6 +2210,9 @@ A Switch Axe begins in Axe Mode. Its morph fittings have no Artisan Point cost a
 
 ### Charge Blade — Phial Engine
 {:#charge-blade-phial-engine}
+
+<img src="{{ '/assets/img/corps-arms/charge-blade.svg' | relative_url }}" alt="Charge Blade" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
 
 **Qualifying Weapon: Medium or Large One-Handed Sword.**
 
@@ -3076,6 +3109,9 @@ When declaring an Attack, you may increase that attack’s cost by \+5 Chakra to
 ### Sidearm Frame
 {:#sidearm-frame}
 
+<img src="{{ '/assets/img/corps-arms/sidearm.svg' | relative_url }}" alt="Sidearm Frame" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #88bdc4">
+
+
 Type: Small, One-Handed, Ballistic, Firearm, Piercing
 
 Speed: 8
@@ -3104,6 +3140,9 @@ Frame Trait: Quickdraw \- Drawing the Sidearm as part of a Ballistic Attack does
 
 ### Light Bowgun Frame
 {:#light-bowgun-frame}
+
+<img src="{{ '/assets/img/corps-arms/light-bowgun.svg' | relative_url }}" alt="Light Bowgun Frame" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #88bdc4">
+
 
 Type: Medium, Two-Handed, Ballistic, Firearm, Piercing
 
@@ -3134,6 +3173,9 @@ Frame Trait: Mobile Frame \- After a Ballistic Attack with this weapon resolves,
 ### Heavy Bowgun Frame
 {:#heavy-bowgun-frame}
 
+<img src="{{ '/assets/img/corps-arms/heavy-bowgun.svg' | relative_url }}" alt="Heavy Bowgun Frame" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #88bdc4">
+
+
 Type: Large, Two-Handed, Ballistic, Firearm, Piercing, Heavy
 
 Speed: 13
@@ -3162,6 +3204,9 @@ Frame Trait: Set the Stock \- While Braced, Ballistic Attacks with this weapon g
 
 ### Machine Pistol Frame
 {:#machine-pistol-frame}
+
+<img src="{{ '/assets/img/corps-arms/machine-pistol.svg' | relative_url }}" alt="Machine Pistol Frame" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #88bdc4">
+
 
 Type: Small, One-Handed, Ballistic, Firearm, Piercing
 
@@ -3192,6 +3237,9 @@ Frame Trait: Compact Burst \- When you use Burst with this weapon, ignore Burst'
 ### Carbine Frame
 {:#carbine-frame}
 
+<img src="{{ '/assets/img/corps-arms/carbine.svg' | relative_url }}" alt="Carbine Frame" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #88bdc4">
+
+
 Type: Medium, Two-Handed, Ballistic, Firearm, Piercing
 
 Speed: 8
@@ -3220,6 +3268,9 @@ Frame Trait: Short-Stroke Action \- After you Reload this weapon, your next norm
 
 ### Scattergun Frame
 {:#scattergun-frame}
+
+<img src="{{ '/assets/img/corps-arms/scattergun.svg' | relative_url }}" alt="Scattergun Frame" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #88bdc4">
+
 
 Type: Medium, Two-Handed, Ballistic, Firearm, Piercing, Scatter Frame
 
@@ -3250,6 +3301,9 @@ Frame Trait: Breach Pattern \- When you fire Scatter ammunition at half Range or
 ### Marksman Frame
 {:#marksman-frame}
 
+<img src="{{ '/assets/img/corps-arms/marksman.svg' | relative_url }}" alt="Marksman Frame" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #88bdc4">
+
+
 Type: Large, Two-Handed, Ballistic, Firearm, Piercing, Scoped
 
 Speed: 12
@@ -3279,6 +3333,9 @@ Frame Trait: Cold Bore \- A Ballistic Attack that consumes your Aim bonus gains 
 ### Hand Cannon Frame
 {:#hand-cannon-frame}
 
+<img src="{{ '/assets/img/corps-arms/hand-cannon.svg' | relative_url }}" alt="Hand Cannon Frame" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #88bdc4">
+
+
 Type: Medium, One-Handed, Ballistic, Firearm, Piercing
 
 Speed: 12
@@ -3307,6 +3364,9 @@ Frame Trait: Kickback \- After an Attack with this weapon resolves while you are
 
 ### Rotary Repeater Frame
 {:#rotary-repeater-frame}
+
+<img src="{{ '/assets/img/corps-arms/rotary-repeater.svg' | relative_url }}" alt="Rotary Repeater Frame" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #88bdc4">
+
 
 Type: Large, Two-Handed, Ballistic, Firearm, Piercing, Heavy
 
