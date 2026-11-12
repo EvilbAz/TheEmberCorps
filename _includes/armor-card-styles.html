@@ -1,0 +1,32 @@
+<style>
+.armor-catalogue{--catalog-line:var(--line,#41515b);max-width:1180px}
+.armor-catalogue .catalog-intro{max-width:68ch;color:var(--muted);font-size:15px;line-height:1.7}
+.armor-catalogue .catalog-note{font-size:12px;color:var(--dim)}
+.armor-catalogue .catalog-jumps{display:flex;flex-wrap:wrap;gap:7px;margin:25px 0 35px}
+.armor-catalogue .catalog-jumps a{padding:8px 12px;border:1px solid var(--catalog-line);border-radius:3px;text-decoration:none;color:var(--muted);font:700 11px 'DM Sans',sans-serif;letter-spacing:.25px}
+.armor-catalogue .catalog-jumps a:hover{border-color:var(--accent);color:var(--text);background:var(--surface2)}
+.armor-catalogue .catalog-group{margin:43px 0;scroll-margin-top:90px}
+.armor-catalogue .catalog-heading{display:flex;justify-content:space-between;align-items:end;gap:12px;margin-bottom:15px;padding-bottom:12px;border-bottom:1px solid var(--catalog-line)}
+.armor-catalogue .catalog-heading h2{margin:3px 0 0;padding:0;border:0;font:800 clamp(25px,3vw,34px) 'Barlow Condensed',sans-serif;letter-spacing:.4px}
+.armor-catalogue .catalog-eyebrow,.armor-catalogue .catalog-count{font:800 10px 'DM Sans',sans-serif;letter-spacing:1.1px;color:var(--accent)}
+.armor-catalogue .catalog-count{color:var(--dim);white-space:nowrap}
+.armor-catalogue .catalog-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:15px}
+.armor-catalogue .armor-card{display:flex;flex-direction:column;min-width:0;overflow:hidden;background:var(--surface);border:1px solid var(--catalog-line);border-radius:4px;text-decoration:none;color:var(--text);transition:transform .18s,border-color .18s,box-shadow .18s}
+.armor-catalogue .armor-card:hover{transform:translateY(-3px);border-color:var(--accent);box-shadow:0 12px 25px rgba(0,0,0,.2)}
+.armor-catalogue .armor-art{position:relative;display:grid;place-items:center;height:164px;overflow:hidden;border-bottom:1px solid var(--catalog-line);background:radial-gradient(ellipse at 50% 40%,rgba(121,168,194,.17),transparent 68%),linear-gradient(145deg,var(--surface2),var(--bg))}
+.armor-catalogue .armor-art:before{content:"";position:absolute;inset:12px;border:1px solid var(--catalog-line);opacity:.5;pointer-events:none}
+.armor-catalogue .armor-art :is(svg,img){width:90%;max-width:230px;height:145px;filter:drop-shadow(0 8px 9px rgba(0,0,0,.38));transition:transform .2s}
+.armor-catalogue .armor-card:hover .armor-art :is(svg,img){transform:scale(1.07) rotate(-2deg)}
+.armor-catalogue .armor-art-index{position:absolute;bottom:8px;right:11px;color:var(--dim);font:700 10px 'DM Sans',sans-serif;letter-spacing:1px}
+.armor-catalogue .armor-meta{display:flex;flex:1;flex-direction:column;align-items:stretch;padding:14px}
+.armor-catalogue .armor-category{font:800 9px 'DM Sans',sans-serif;letter-spacing:1.1px;text-transform:uppercase;color:var(--dim)}
+.armor-catalogue .armor-meta strong{margin:5px 0 9px;font:800 20px/1.12 'Barlow Condensed',sans-serif;color:var(--text)}
+.armor-catalogue .armor-price{font:800 13px 'DM Sans',sans-serif;color:var(--accent)}
+.armor-catalogue .armor-stats{display:flex;flex-wrap:wrap;gap:6px;margin:13px 0;min-height:27px}
+.armor-catalogue .armor-stats span{padding:4px 6px;border:1px solid var(--catalog-line);background:var(--surface2);color:var(--text);font-size:10px;line-height:1.4}
+.armor-catalogue .armor-stats b{color:var(--dim);font-weight:700}
+.armor-catalogue .armor-card-link{display:flex;justify-content:space-between;margin-top:auto;padding-top:11px;border-top:1px solid var(--catalog-line);color:var(--muted);font:800 10px 'DM Sans',sans-serif;letter-spacing:.8px}
+.armor-catalogue .armor-card:hover .armor-card-link{color:var(--accent)}
+@media(max-width:550px){.armor-catalogue .catalog-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.armor-catalogue .armor-art{height:128px}.armor-catalogue .armor-art :is(svg,img){height:112px}.armor-catalogue .armor-meta{padding:10px}.armor-catalogue .armor-meta strong{font-size:17px}.armor-catalogue .armor-stats{gap:4px}.armor-catalogue .armor-stats span{font-size:9px}}
+@media(prefers-reduced-motion:reduce){.armor-catalogue .armor-card,.armor-catalogue .armor-art :is(svg,img){transition:none}}
+</style>

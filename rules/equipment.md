@@ -1866,6 +1866,8 @@ Special: For every point you hit by, you add 10% to the attack's total damage, t
 # Gear & Pharmaceuticals
 {:#gear-pharmaceuticals}
 
+[Browse the illustrated Item Catalogue]({{ '/rules/standard-items/' | relative_url }})
+
 ### Ninja Tools
 {:#ninja-tools}
 
@@ -2022,7 +2024,7 @@ Cost: 2k Ryo
 
 Flashlights are popular because hunter like to be able to see in low-light environments\! They're also useful because they can be turned off, or on, as needed. Quite handy for staying hidden when you hear unwanted company approaching.
 
-Flashlights have a battery life of about half an hour. A spare set of batteries (for another half hour of use) costs 500 Ryo.
+Flashlights have a battery life of about half an hour. <span id="spare-flashlight-batteries"></span>A spare set of batteries (for another half hour of use) costs 500 Ryo.
 
 Cost: 4k
 
@@ -2137,7 +2139,8 @@ A Crash begins when the Drug ends and lasts for the same duration as the Drug un
 
 Drugs are chemicals for interactions with Medical Jutsu, poison analysis, and effects that explicitly accelerate or purge chemicals.
 
-**Redline**
+#### Redline
+{:#redline}
 
 **Cost:** 2,000 Ryo
 
@@ -2147,7 +2150,8 @@ Reduce damage you take by 10% for Wounding purposes.
 
 Crash: damage you take counts as 10% higher for Wounding.
 
-**Quickstep**
+#### Quickstep
+{:#quickstep}
 
 **Cost:** 1,000 Ryo
 
@@ -2157,7 +2161,8 @@ Increase Movement by 10%.
 
 Crash: reduce Movement by 10%.
 
-**Iron Lung**
+#### Iron Lung
+{:#iron-lung}
 
 **Cost:** 1,500 Ryo
 
@@ -2167,7 +2172,8 @@ Treat your Stamina penalty as 1 lower for checks and costs.
 
 Crash: increase Stamina penalty by 1\.
 
-**Blue Focus**
+#### Blue Focus
+{:#blue-focus}
 
 **Cost:** 1,500 Ryo
 
@@ -2177,7 +2183,8 @@ Treat your Chakra penalty as 1 lower for checks and costs.
 
 Crash: increase Chakra penalty by 1\.
 
-**Morphine Field Ampoule**
+#### Morphine Field Ampoule
+{:#morphine-field-ampoule}
 
 **Cost:** 3,000 Ryo
 
@@ -2187,7 +2194,8 @@ Ignore the penalties of one Minor or Major Wound in a chosen location. Gain Para
 
 Crash: the suppressed Wound returns normally and you gain Stun 4\.
 
-**Amphetamine Combat Dose**
+#### Amphetamine Combat Dose
+{:#amphetamine-combat-dose}
 
 **Cost:** 5,000 Ryo
 
@@ -2197,7 +2205,8 @@ Treat your Fatigue category as 1 lower for thresholds and access, but retain the
 
 Crash: increase both Stamina and Chakra penalties by 5\.
 
-**Ketamine Counter-Gen Dose**
+#### Ketamine Counter-Gen Dose
+{:#ketamine-counter-gen-dose}
 
 **Cost:** 4,000 Ryo
 
@@ -2207,7 +2216,8 @@ Roll 2d20 and take the higher for Genjutsu Defense.
 
 Crash: Visibility 2 and \-2 Awareness for 30 IC.
 
-**Diethylamide Reflex Dose**
+#### Diethylamide Reflex Dose
+{:#diethylamide-reflex-dose}
 
 **Cost:** 7,500 Ryo
 
@@ -2217,7 +2227,8 @@ Reduce the Final Speed of your Actions and Interrupts by 2, respecting normal mi
 
 While active, after every Action or Interrupt you take unreducible HP damage equal to 3 × that action's Base Speed. Crash: Stun 8 and advance Fatigue by 1\.
 
-**Combat Steroid**
+#### Combat Steroid
+{:#combat-steroid}
 
 **Cost:** 3,500 Ryo
 
@@ -2227,7 +2238,8 @@ Gain \+10 STR, AGI, and DEX for derived calculations.
 
 Crash: suffer \-20 STR, AGI, and DEX for the same duration. Attributes cannot fall below 1\.
 
-**Kotarō Extract**
+#### Kotarō Extract
+{:#kotaro-extract}
 
 **Cost:** 6,000 Ryo \- Rare
 

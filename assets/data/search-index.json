@@ -9993,7 +9993,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#gear-pharmaceuticals",
-    "text": ""
+    "text": "Browse the illustrated Item Catalogue"
   },
   {
     "title": "Ninja Tools",
@@ -10119,7 +10119,14 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#flashlight",
-    "text": "Flashlights are popular because hunter like to be able to see in low-light environments! They're also useful because they can be turned off, or on, as needed. Quite handy for staying hidden when you hear unwanted company approaching. Flashlights have a battery life of about half an hour. A spare set of batteries (for another half hour of use) costs 500 Ryo. Cost: 4k"
+    "text": "Flashlights are popular because hunter like to be able to see in low-light environments! They're also useful because they can be turned off, or on, as needed. Quite handy for staying hidden when you hear unwanted company approaching. Flashlights have a battery life of about half an hour."
+  },
+  {
+    "title": "Spare Flashlight Batteries",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#spare-flashlight-batteries",
+    "text": "A spare set of batteries (for another half hour of use) costs 500 Ryo. Cost: 4k"
   },
   {
     "title": "Glow Stick",
@@ -10210,7 +10217,77 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#drug-rules",
-    "text": "Taking a pill or using a prepared vial on yourself is Speed 6. Injecting an unwilling creature requires an appropriate Melee Attack or Grapple permission. Unless stated otherwise, a Drug lasts 30 IC. The same Drug does not stack with itself. Taking another dose while the same Drug is active resets its duration but doubles the listed Crash. Every further redose adds another copy of the Crash and immediately forces a Resistance TN 15 + 5 per previous redose; failure advances Fatigue by 1. A Crash begins when the Drug ends and lasts for the same duration as the Drug unless stated otherwise. Drugs are chemicals for interactions with Medical Jutsu, poison analysis, and effects that explicitly accelerate or purge chemicals. Redline Cost: 2,000 Ryo Duration: 30 IC Reduce damage you take by 10% for Wounding purposes. Crash: damage you take counts as 10% higher for Wounding. Quickstep Cost: 1,000 Ryo Duration: 30 IC Increase Movement by 10%. Crash: reduce Movement by 10%. Iron Lung Cost: 1,500 Ryo Duration: 30 IC Treat your Stamina penalty as 1 lower for checks and costs. Crash: increase Stamina penalty by 1. Blue Focus Cost: 1,500 Ryo Duration: 30 IC Treat your Chakra penalty as 1 lower for checks and costs. Crash: increase Chakra penalty by 1. Morphine Field Ampoule Cost: 3,000 Ryo Duration: 30 IC Ignore the penalties of one Minor or Major Wound in a chosen location. Gain Paralysis 2 while active. Crash: the suppressed Wound returns normally and you gain Stun 4. Amphetamine Combat Dose Cost: 5,000 Ryo Duration: 30 IC Treat your Fatigue category as 1 lower for thresholds and access, but retain the actual penalties of your real Fatigue. Crash: increase both Stamina and Chakra penalties by 5. Ketamine Counter-Gen Dose Cost: 4,000 Ryo Duration: 30 IC Roll 2d20 and take the higher for Genjutsu Defense. Crash: Visibility 2 and -2 Awareness for 30 IC. Diethylamide Reflex Dose Cost: 7,500 Ryo Duration: 30 IC Reduce the Final Speed of your Actions and Interrupts by 2, respecting normal minimums. While active, after every Action or Interrupt you take unreducible HP damage equal to 3 × that action's Base Speed. Crash: Stun 8 and advance Fatigue by 1. Combat Steroid Cost: 3,500 Ryo Duration: 30 IC Gain +10 STR, AGI, and DEX for derived calculations. Crash: suffer -20 STR, AGI, and DEX for the same duration. Attributes cannot fall below 1. Kotarō Extract Cost: 6,000 Ryo - Rare Duration: 30 IC Treat both Stamina and Chakra penalties as 1 lower and gain +3 Resistance against Poison. Crash: increase both penalties by 2. A character without Kodon metabolism also suffers Stun 5."
+    "text": "Taking a pill or using a prepared vial on yourself is Speed 6. Injecting an unwilling creature requires an appropriate Melee Attack or Grapple permission. Unless stated otherwise, a Drug lasts 30 IC. The same Drug does not stack with itself. Taking another dose while the same Drug is active resets its duration but doubles the listed Crash. Every further redose adds another copy of the Crash and immediately forces a Resistance TN 15 + 5 per previous redose; failure advances Fatigue by 1. A Crash begins when the Drug ends and lasts for the same duration as the Drug unless stated otherwise. Drugs are chemicals for interactions with Medical Jutsu, poison analysis, and effects that explicitly accelerate or purge chemicals."
+  },
+  {
+    "title": "Redline",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#redline",
+    "text": "Cost: 2,000 Ryo Duration: 30 IC Reduce damage you take by 10% for Wounding purposes. Crash: damage you take counts as 10% higher for Wounding."
+  },
+  {
+    "title": "Quickstep",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#quickstep",
+    "text": "Cost: 1,000 Ryo Duration: 30 IC Increase Movement by 10%. Crash: reduce Movement by 10%."
+  },
+  {
+    "title": "Iron Lung",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#iron-lung",
+    "text": "Cost: 1,500 Ryo Duration: 30 IC Treat your Stamina penalty as 1 lower for checks and costs. Crash: increase Stamina penalty by 1."
+  },
+  {
+    "title": "Blue Focus",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#blue-focus",
+    "text": "Cost: 1,500 Ryo Duration: 30 IC Treat your Chakra penalty as 1 lower for checks and costs. Crash: increase Chakra penalty by 1."
+  },
+  {
+    "title": "Morphine Field Ampoule",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#morphine-field-ampoule",
+    "text": "Cost: 3,000 Ryo Duration: 30 IC Ignore the penalties of one Minor or Major Wound in a chosen location. Gain Paralysis 2 while active. Crash: the suppressed Wound returns normally and you gain Stun 4."
+  },
+  {
+    "title": "Amphetamine Combat Dose",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#amphetamine-combat-dose",
+    "text": "Cost: 5,000 Ryo Duration: 30 IC Treat your Fatigue category as 1 lower for thresholds and access, but retain the actual penalties of your real Fatigue. Crash: increase both Stamina and Chakra penalties by 5."
+  },
+  {
+    "title": "Ketamine Counter-Gen Dose",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#ketamine-counter-gen-dose",
+    "text": "Cost: 4,000 Ryo Duration: 30 IC Roll 2d20 and take the higher for Genjutsu Defense. Crash: Visibility 2 and -2 Awareness for 30 IC."
+  },
+  {
+    "title": "Diethylamide Reflex Dose",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#diethylamide-reflex-dose",
+    "text": "Cost: 7,500 Ryo Duration: 30 IC Reduce the Final Speed of your Actions and Interrupts by 2, respecting normal minimums. While active, after every Action or Interrupt you take unreducible HP damage equal to 3 × that action's Base Speed. Crash: Stun 8 and advance Fatigue by 1."
+  },
+  {
+    "title": "Combat Steroid",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#combat-steroid",
+    "text": "Cost: 3,500 Ryo Duration: 30 IC Gain +10 STR, AGI, and DEX for derived calculations. Crash: suffer -20 STR, AGI, and DEX for the same duration. Attributes cannot fall below 1."
+  },
+  {
+    "title": "Kotarō Extract",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#kotaro-extract",
+    "text": "Cost: 6,000 Ryo - Rare Duration: 30 IC Treat both Stamina and Chakra penalties as 1 lower and gain +3 Resistance against Poison. Crash: increase both penalties by 2. A character without Kodon metabolism also suffers Stun 5."
   },
   {
     "title": "Exploding Tags",
@@ -17442,6 +17519,69 @@
     "number": "VI",
     "url": "/rules/standard-armor/#armor-encased",
     "text": "Encased Armor 8 ITEMS 017 Encased / Head Ironclad War Helm Shop 4,500 Ryō Durability 300 Absorption 15% Craft 563 Ryō TN 18 AP 4 Immobilization -3 Stealth -3 Halve visibility penalties from Flash Bombs and jutsu. -5 Awareness. FULL STAT BLOCK ↗ 018 Encased / Head Boar-Crest Helm Shop 7,500 Ryō Durability 300 Absorption 17% Craft 938 Ryō TN 30 AP 10 Immobilization -3 Stealth -3 Includes 2 extra points of Absorption. FULL STAT BLOCK ↗ 019 Encased / Torso / Abdomen Fortress Cuirass Shop 5,000 Ryō Durability 350 Absorption 20% Craft 625 Ryō TN 20 AP 5 Immobilization -3 Stealth -3 -4 Dodge. FULL STAT BLOCK ↗ 020 Encased / Torso / Abdomen Gatewarden Cuirass Shop 7,000 Ryō Durability 420 Absorption 20% Craft 875 Ryō TN 28 AP 9 Immobilization -3 Stealth -3 Includes 20% extra Durability. FULL STAT BLOCK ↗ 021 Encased / Arms / Hands Full Plate Gauntlets Shop 4,000 Ryō Durability 300 Absorption 15% Craft 500 Ryō TN 16 AP 3 Immobilization -3 Stealth -3 Parry weapons unarmed. When blocking weapons, ignore the 25% penalty and deal half the blocked damage to the armor. +4 Seal Speed, -2 Parry. FULL STAT BLOCK ↗ 022 Encased / Arms / Hands Breakwater Kote Shop 5,500 Ryō Durability 300 Absorption 15% Craft 688 Ryō TN 22 AP 6 Immobilization -3 Stealth -3 Reduce Stun by 1 and Bleed by 2 from hits to this location. FULL STAT BLOCK ↗ 023 Encased / Legs / Feet Bastion Sabatons Shop 4,000 Ryō Durability 300 Absorption 15% Craft 500 Ryō TN 16 AP 3 Immobilization -3 Stealth -3 Knockback reduced 50%. -20% Move, -5 Athletics. FULL STAT BLOCK ↗ 024 Encased / Legs / Feet Quarry Sabatons Shop 5,500 Ryō Durability 300 Absorption 15% Craft 688 Ryō TN 22 AP 6 Immobilization -3 Stealth -3 Reduce incoming Knockback by 3. FULL STAT BLOCK ↗"
+  },
+  {
+    "title": "Item Catalogue",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/",
+    "text": "Browse field gear, medicines, tags and clan supplies. Select a card for its full rules. Ninja Tools Survival Infiltration Shinobi Pharmaceuticals Exploding Tags Special Projectiles Clan Supplies Ballistic Ammunition"
+  },
+  {
+    "title": "Ninja Tools",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-ninja-tools",
+    "text": "Ninja Tools 11 ITEMS Blank Scroll 1,250 Ryō For sealing jutsu ITEM RULES ↗ Blood Increasing Pill 7,500 Ryō Restores HP over 50 IC ITEM RULES ↗ Caltrops 1,000 Ryō One 5-yard area ITEM RULES ↗ Cloth, Per Yard 150 Ryō Per yard ITEM RULES ↗ Container, Small 2,500 Ryō Holds 2 gallons ITEM RULES ↗ Container, Large 7,500 Ryō Holds 8 gallons ITEM RULES ↗ Flash Bomb 1,500 Ryō Area 10 ITEM RULES ↗ Ninja Wire 500 Ryō Per 5 yards ITEM RULES ↗ Rope 500 Ryō Per 5 yards ITEM RULES ↗ Smoke Bomb 1,500 Ryō 5-yard radius ITEM RULES ↗ Soldier Pill 12,500 Ryō Lowers Fatigue by one category ITEM RULES ↗"
+  },
+  {
+    "title": "Survival",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-survival",
+    "text": "Survival 9 ITEMS Compass 2,500 Ryō Find magnetic north ITEM RULES ↗ Map 5,000 Ryō One country, case included ITEM RULES ↗ First Aid Kit 2,500 Ryō Bandages and treatment supplies ITEM RULES ↗ Flare 2,000 Ryō Signal at a distance ITEM RULES ↗ Flashlight 4,000 Ryō 30 minutes per set of batteries ITEM RULES ↗ Spare Flashlight Batteries 500 Ryō One set · 30 minutes ITEM RULES ↗ Glow Stick 2,000 Ryō One hour of light ITEM RULES ↗ Oxygen Mask 20,000 Ryō Connects to an oxygen tank ITEM RULES ↗ Oxygen Tank 5,000 Ryō 30 minutes of air ITEM RULES ↗"
+  },
+  {
+    "title": "Infiltration",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-infiltration",
+    "text": "Infiltration 7 ITEMS Camouflage Kit 7,500 Ryō One use in the matching terrain ITEM RULES ↗ Camera 25,000 Ryō Film sold separately ITEM RULES ↗ Camera Film Roll 2,500 Ryō 10 pictures ITEM RULES ↗ Grappling Hook 1,500 Ryō Anchor a climbing rope ITEM RULES ↗ Lockpicks 5,000 Ryō Per +1 bonus ITEM RULES ↗ Ninja Comm Device 12,500 Ryō Half-mile range ITEM RULES ↗ Telescope 10,000 Ryō Up to one mile ITEM RULES ↗"
+  },
+  {
+    "title": "Shinobi Pharmaceuticals",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-shinobi-pharmaceuticals",
+    "text": "Shinobi Pharmaceuticals 10 ITEMS Redline 2,000 Ryō 30 IC ITEM RULES ↗ Quickstep 1,000 Ryō 30 IC ITEM RULES ↗ Iron Lung 1,500 Ryō 30 IC ITEM RULES ↗ Blue Focus 1,500 Ryō 30 IC ITEM RULES ↗ Morphine Field Ampoule 3,000 Ryō 30 IC ITEM RULES ↗ Amphetamine Combat Dose 5,000 Ryō 30 IC ITEM RULES ↗ Ketamine Counter-Gen Dose 4,000 Ryō 30 IC ITEM RULES ↗ Diethylamide Reflex Dose 7,500 Ryō 30 IC ITEM RULES ↗ Combat Steroid 3,500 Ryō 30 IC ITEM RULES ↗ Kotarō Extract 6,000 Ryō Rare · 30 IC ITEM RULES ↗"
+  },
+  {
+    "title": "Exploding Tags",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-exploding-tags",
+    "text": "Exploding Tags 3 ITEMS Exploding Tag, Type 1 2,500 Ryō Stray · Area 10 ITEM RULES ↗ Exploding Tag, Type 2 7,500 Ryō Trailhand · Area 20 ITEM RULES ↗ Exploding Tag, Type 3 15,000 Ryō Huntsman · Area 30 ITEM RULES ↗"
+  },
+  {
+    "title": "Special Projectiles",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-special-projectiles",
+    "text": "Special Projectiles 3 ITEMS Senbon 250 Ryō Piercing ITEM RULES ↗ Boomerang 1,250 Ryō Blunt ITEM RULES ↗ Fuuma Shuriken 5,000 Ryō Slashing ITEM RULES ↗"
+  },
+  {
+    "title": "Clan Supplies",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-clan-supplies",
+    "text": "Clan Supplies 4 ITEMS Akimichi Energy Bar 20,000 Ryō Akimichi · One bar ITEM RULES ↗ Bee Breeding Stock 5,000 Ryō Kamizuru · Replenish an empty swarm ITEM RULES ↗ Hunter Arm Replacement Parts 10,000 Ryō Ballistic Corps · Frame change ITEM RULES ↗ Hunter Arm Replacement Chassis 20,000 Ryō Ballistic Corps · Replace a lost or destroyed arm ITEM RULES ↗"
+  },
+  {
+    "title": "Ballistic Ammunition",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-ballistic-ammunition",
+    "text": "Ballistic Ammunition 9 ITEMS Standard Load 800 Ryō Ballistic Corps · Per load ITEM RULES ↗ Pierce Load 1,200 Ryō Ballistic Corps · Per load ITEM RULES ↗ Scatter Load 1,000 Ryō Ballistic Corps · Per load ITEM RULES ↗ Slicing Load 1,500 Ryō Ballistic Corps · Per load ITEM RULES ↗ Sticky Load 1,800 Ryō Ballistic Corps · Per load ITEM RULES ↗ Elemental Load 2,000 Ryō Ballistic Corps · Per load ITEM RULES ↗ Tranq Load 1,000 Ryō Ballistic Corps · Per load ITEM RULES ↗ Tracking Dye Load 600 Ryō Ballistic Corps · Per load ITEM RULES ↗ Wyvern Shell 3,000 Ryō Ballistic Corps · Per shell ITEM RULES ↗"
   },
   {
     "title": "Pre-Made Weapons",

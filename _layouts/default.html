@@ -74,13 +74,17 @@
               </nav>
             {% elsif page.volume_slug == 'equipment' %}
               <nav id="toc" class="toc equipment-side-links" aria-label="Equipment and Crafting sections">
-                {% if page.equipment_catalogue or page.armor_catalogue %}
+                {% if page.equipment_catalogue or page.armor_catalogue or page.item_catalogue %}
                   <a href="{{ '/rules/equipment/' | relative_url }}" class="equipment-return-link">← EQUIPMENT &amp; CRAFTING</a>
-                  {% if page.armor_catalogue %}<span class="equipment-side-group">ARMOR CATALOGUE</span>{% assign armor_sections = "Mobile Armor|armor-mobile,Protective Armor|armor-protective,Encased Armor|armor-encased" | split: "," %}{% for section in armor_sections %}{% assign part = section | split: "|" %}<a href="{{ '/rules/standard-armor/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>{% endfor %}<div class="equipment-catalogue-slot"><a class="equipment-catalogue-link" href="{{ '/rules/standard-weapons/' | relative_url }}"><strong>WEAPON CATALOGUE</strong></a></div>{% else %}<span class="equipment-side-group">WEAPON CATALOGUE</span>
+                  {% if page.item_catalogue %}
+                    <span class="equipment-side-group">ITEM CATALOGUE</span>
+                    {% assign item_sections = "Ninja Tools|Survival|Infiltration|Shinobi Pharmaceuticals|Exploding Tags|Special Projectiles|Clan Supplies|Ballistic Ammunition" | split: "|" %}
+                    {% for section in item_sections %}<a href="#items-{{ section | slugify }}">{{ section }}</a>{% endfor %}
+                  {% elsif page.armor_catalogue %}<span class="equipment-side-group">ARMOR CATALOGUE</span>{% assign armor_sections = "Mobile Armor|armor-mobile,Protective Armor|armor-protective,Encased Armor|armor-encased" | split: "," %}{% for section in armor_sections %}{% assign part = section | split: "|" %}<a href="{{ '/rules/standard-armor/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>{% endfor %}{% else %}<span class="equipment-side-group">WEAPON CATALOGUE</span>
                   {% assign catalogue_sections = "Small Weapons|catalog-small-weapons,Medium Weapons|catalog-medium-weapons,Large Weapons|catalog-large-weapons,Extreme Weapons|catalog-extreme-weapons,Matched Weapons|catalog-matched-weapons,Bows|catalog-bows-2,Crossbows|catalog-crossbows-2,Kunai Launchers|catalog-kunai-launchers-2,Shuriken Launchers|catalog-shuriken-launchers-2,Kunai & Shuriken|catalog-projectiles,Ammunition|catalog-ammunition" | split: "," %}
                   {% for section in catalogue_sections %}{% assign part = section | split: "|" %}
                     <a href="{{ '/rules/standard-weapons/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
-                  {% endfor %}<div class="equipment-catalogue-slot"><a class="equipment-catalogue-link" href="{{ '/rules/standard-armor/' | relative_url }}"><strong>ARMOR CATALOGUE</strong></a></div>{% endif %}
+                  {% endfor %}{% endif %}
                 {% else %}
                   <span class="equipment-side-group">CRAFTING</span>
                   {% assign craft_sections = "Crafting Overview|crafting,Melee Weapon Crafting|weapon-crafting,Ranged Weapon Crafting|ranged-weapon-crafting,Armor Crafting|armor-crafting,Craftsman|craftsman,Poisons|poison" | split: "," %}
@@ -92,10 +96,12 @@
                   {% for section in equipment_sections %}{% assign part = section | split: "|" %}
                     <a href="{{ '/rules/equipment/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
                   {% endfor %}
-                  <div class="equipment-catalogue-slot">
-                    <a class="equipment-catalogue-link" href="{{ '/rules/standard-weapons/' | relative_url }}"><strong>WEAPON CATALOGUE</strong></a><a class="equipment-catalogue-link" href="{{ '/rules/standard-armor/' | relative_url }}"><strong>ARMOR CATALOGUE</strong></a>
-                  </div>
                 {% endif %}
+                <div class="equipment-catalogue-slot">
+                  {% unless page.equipment_catalogue %}<a class="equipment-catalogue-link" href="{{ '/rules/standard-weapons/' | relative_url }}"><strong>WEAPON CATALOGUE</strong></a>{% endunless %}
+                  {% unless page.armor_catalogue %}<a class="equipment-catalogue-link" href="{{ '/rules/standard-armor/' | relative_url }}"><strong>ARMOR CATALOGUE</strong></a>{% endunless %}
+                  {% unless page.item_catalogue %}<a class="equipment-catalogue-link" href="{{ '/rules/standard-items/' | relative_url }}"><strong>ITEM CATALOGUE</strong></a>{% endunless %}
+                </div>
               </nav>
             {% elsif page.volume_slug == 'talents' %}
               <nav class="toc talent-side-links" aria-label="Talent categories">
