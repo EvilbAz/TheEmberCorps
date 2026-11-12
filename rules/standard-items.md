@@ -12,7 +12,8 @@ permalink: "/rules/standard-items/"
 <div class="catalog-jumps">
 <a href="#items-ninja-tools">Ninja Tools</a>
 <a href="#items-monster-hunting-gear">Monster Hunting Gear</a>
-<a href="#items-hunt-kitchen">Hunt Kitchen</a>
+<a href="#items-vegetables">Market Vegetables</a>
+<a href="#items-cookware">Camp Cookware</a>
 <a href="#items-survival">Survival</a>
 <a href="#items-infiltration">Infiltration</a>
 <a href="#items-shinobi-pharmaceuticals">Shinobi Pharmaceuticals</a>
@@ -94,7 +95,8 @@ permalink: "/rules/standard-items/"
 <span class="armor-art"><img src="{{ '/assets/img/items/capture-seal.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Capture Seal</strong><span class="armor-price">4,000 Ryō</span><span class="armor-stats"><span>Restrained, Capture-Ready targets only</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
-<section class="catalog-group" id="items-hunt-kitchen"><div class="catalog-heading"><h2>Hunt Kitchen</h2><span class="catalog-count">7 ITEMS</span></div><div class="catalog-grid">
+<span id="items-hunt-kitchen"></span>
+<section class="catalog-group" id="items-vegetables"><div class="catalog-heading"><h2>Market Vegetables</h2><span class="catalog-count">12 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/cooking/#ember-radishes' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/ember-radishes.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Ember Radishes</strong><span class="armor-price">200 Ryō</span><span class="armor-stats"><span>Increase the damage of your attacks by 5% before mitigation.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
@@ -107,6 +109,32 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/cooking/#field-peas' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/field-peas.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Field Peas</strong><span class="armor-price">150 Ryō</span><span class="armor-stats"><span>Reduce the Stamina cost of your actions by 10% and gain +2 on Stamina rolls.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#river-lotus-root' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/river-lotus-root.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>River Lotus Root</strong><span class="armor-price">180 Ryō · Open stock</span><span class="armor-stats"><span>Increase the distance of your Move Actions by 15%.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#watchpost-carrots' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/watchpost-carrots.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Watchpost Carrots</strong><span class="armor-price">180 Ryō · Open stock</span><span class="armor-stats"><span>Gain +2 on Awareness rolls, including Search.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#switchback-squash' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/switchback-squash.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Switchback Squash</strong><span class="armor-price">300 Ryō · Survival 5</span><span class="armor-stats"><span>Once per encounter, cross difficult ground at your normal movement rate for one Move Action.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#inkheart-cabbage' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/inkheart-cabbage.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Inkheart Cabbage</strong><span class="armor-price">300 Ryō · Research 5</span><span class="armor-stats"><span>Once per encounter, reroll a Lore or Research check about a creature you can perceive.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#bitterveil-greens' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/bitterveil-greens.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Bitterveil Greens</strong><span class="armor-price">350 Ryō · Toxicology 8</span><span class="armor-stats"><span>Gain +3 on Resistance rolls against Poison. Once per encounter, halve the damage from one instance of Poison.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#trailrunner-beans' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/trailrunner-beans.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Trailrunner Beans</strong><span class="armor-price">300 Ryō · Trailhand</span><span class="armor-stats"><span>Once per encounter, stand from Prone as part of a Move Action at no additional Speed. Stand before moving.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#glasshouse-peppers' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/glasshouse-peppers.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Glasshouse Peppers</strong><span class="armor-price">450 Ryō · Huntsman</span><span class="armor-stats"><span>Once per encounter, reroll an Accuracy roll for a ranged attack after seeing your die.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#winterhold-turnip' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/winterhold-turnip.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Winterhold Turnip</strong><span class="armor-price">500 Ryō · Warden</span><span class="armor-stats"><span>Once per encounter, when Knockback would move you, choose how much of that distance you travel.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+</div></section>
+<section class="catalog-group" id="items-cookware"><div class="catalog-heading"><h2>Camp Cookware</h2><span class="catalog-count">8 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/cooking/#iron-stewpot' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/iron-stewpot.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Iron Stewpot</strong><span class="armor-price">2,000 Ryō</span><span class="armor-stats"><span>+2 Cooking when braising a Colossus, Chitin or Mire cut, or making a vegetable-only stew.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
@@ -116,6 +144,21 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/cooking/#butchers-roll' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/butchers-roll.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Butcher’s Roll</strong><span class="armor-price">1,500 Ryō</span><span class="armor-stats"><span>+2 to the harvest roll when dressing a slain target with edible remains.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#bamboo-steamer' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/bamboo-steamer.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Bamboo Steamer</strong><span class="armor-price">1,000 Ryō · Open stock</span><span class="armor-stats"><span>When steaming a vegetable-only meal, add +3 to Cooking.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#stone-spice-mortar' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/stone-spice-mortar.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Stone Spice Mortar</strong><span class="armor-price">1,800 Ryō · Toxicology 5</span><span class="armor-stats"><span>When cooking Bitterveil Greens or Glasshouse Peppers, you may roll Cooking with Toxicology in place of Survival or Lore.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#smokehouse-recipe-tin' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/smokehouse-recipe-tin.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Smokehouse Recipe Tin</strong><span class="armor-price">1,800 Ryō · Research 8</span><span class="armor-stats"><span>When following a recipe for a cut whose Tribe and Combat Class you know, you may roll Cooking with Research in place of Survival or Lore.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#trail-mess-carrier' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/trail-mess-carrier.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Trail Mess Carrier</strong><span class="armor-price">2,200 Ryō · Trailhand</span><span class="armor-stats"><span>One team member may collect their serving after leaving camp. Set it aside when cooking. Eating it before the encounter grants the same meal result as the rest of the batch.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#split-broth-pot' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/split-broth-pot.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Split Broth Pot</strong><span class="armor-price">3,500 Ryō · Huntsman</span><span class="armor-stats"><span>Buy two different vegetable bundles for the batch. Each diner chooses one of the two vegetable benefits. Use one Cooking roll and up to one cut for the whole pot.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <section class="catalog-group" id="items-survival"><div class="catalog-heading"><h2>Survival</h2><span class="catalog-count">9 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#compass' | relative_url }}">

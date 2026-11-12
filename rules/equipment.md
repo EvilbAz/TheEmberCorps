@@ -1984,7 +1984,7 @@ Special: For every point you hit by, you add 10% to the attack's total damage, t
 # Gear & Pharmaceuticals
 {:#gear-pharmaceuticals}
 
-[Shop for vegetables and cookware]({{ '/rules/standard-items/#items-hunt-kitchen' | relative_url }}) or [cook a pre-hunt meal]({{ '/rules/cooking/' | relative_url }}).
+Shop for [market vegetables]({{ '/rules/standard-items/#items-vegetables' | relative_url }}) or [camp cookware]({{ '/rules/standard-items/#items-cookware' | relative_url }}) or [cook a pre-hunt meal]({{ '/rules/cooking/' | relative_url }}).
 
 [Browse the illustrated Item Catalogue]({{ '/rules/standard-items/' | relative_url }})
 

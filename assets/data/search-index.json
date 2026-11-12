@@ -5499,7 +5499,7 @@
     "volume": "The Hunt Kitchen",
     "number": "I",
     "url": "/rules/cooking/#cook-for-the-team",
-    "text": "Before the encounter, one hunter spends 1 Downtime Slot to cook for the Hunting Team. A single batch feeds every attending team member, including the cook (up to four). Choose one market vegetable and, if available, one monster cut. Spend the ingredients when you cook. A fire and ordinary camp utensils are enough. Roll 1d20 + Survival or Lore ranks once for the whole pot. Add the bonus from one piece of cookware if its condition applies. Each hunter who eats gets the result below for that Hunt’s encounter. Each diner may benefit from one meal per Hunt. Eating is optional. Cooking total What each diner gets ------ 14 or less · Camp fare Gain the vegetable benefit for the encounter. 15–24 · Well cooked Gain the vegetable benefit. Each diner also chooses the cut’s Tribe or Combat Class benefit before the encounter. 25+ · House special Gain the vegetable, Tribe and Combat Class benefits together. Meal benefits last throughout the encounter. Apply percentage changes to the listed quantity, rounding the change down (minimum 1 for a positive quantity). Add meal percentages that modify the same quantity before rounding. A meal cannot reduce a positive cost below 1. Declare any reroll after seeing your die and use the higher result; a die can be rerolled by food only once. Vegetable-only meals: On 15 or higher, each diner also gets one reroll on any d20 check they make during the encounter. On 25 or higher, each gets two. The vegetable benefit lasts the whole encounter at every quality."
+    "text": "Before the encounter, one hunter spends 1 Downtime Slot to cook for the Hunting Team. A single batch feeds every attending team member, including the cook (up to four). Choose one market vegetable and, if available, one monster cut. Spend the ingredients when you cook. A fire and ordinary camp utensils are enough. Roll 1d20 + Survival or Lore ranks once for the whole pot. Choose up to one piece of cookware for the batch and apply its effect if its condition applies. Each hunter who eats gets the result below for that Hunt’s encounter. Each diner may benefit from one meal per Hunt. Eating is optional. Cooking total What each diner gets ------ 14 or less · Camp fare Gain the vegetable benefit for the encounter. 15–24 · Well cooked Gain the vegetable benefit. Each diner also chooses the cut’s Tribe or Combat Class benefit before the encounter. 25+ · House special Gain the vegetable, Tribe and Combat Class benefits together. Meal benefits last throughout the encounter. Apply percentage changes to the listed quantity, rounding the change down (minimum 1 for a positive quantity). Add meal percentages that modify the same quantity before rounding. A meal cannot reduce a positive cost below 1. Declare any reroll after seeing your die and use the higher result; a die can be rerolled by food only once. Vegetable-only meals: On 15 or higher, each diner also gets one reroll on any d20 check they make during the encounter. On 25 or higher, each gets two. The vegetable benefit lasts the whole encounter at every quality."
   },
   {
     "title": "Bring Meat Home",
@@ -5523,11 +5523,11 @@
     "text": "The cut’s second mark tells the cook how to handle it. Apply the matching row to the same cut. Combat Class Butcher’s note Meal benefit --------- Bruiser Sear the thick grain Your damaging attacks deal 10% more damage before mitigation. Skirmisher Slice across the lean Gain +2 to defense rolls and increase your own movement distance by 10%. Controller Simmer the silver seams Increase by 2 any TN you set for an opponent to resist a status, escape a restraint or resist a Genjutsu. This includes traps you set. Artillery Roast the long fibres Increase the listed Range of your ranged attacks and techniques by 25%. Touch and Self retain their usual reach. Ambusher Smoke the dark meat Gain +2 Accuracy and +2 on Stealth and Search checks. Grappler Braise the knuckles Roll twice and keep the higher die on Athletics and Grapple checks, including Cling and escape attempts. Tank Stew the bone end Reduce damage taken by 15% when determining Wounds. Gain +2 on Resistance rolls. Swarm Toast the small morsels When you hit a monster, the next teammate to attack it gains +2 Accuracy on that attack. Further hits refresh the bonus. A single attack can receive this bonus from only one diner."
   },
   {
-    "title": "Market Vegetables and Cookware",
+    "title": "Market Vegetables",
     "volume": "The Hunt Kitchen",
     "number": "I",
     "url": "/rules/cooking/#market-ingredients",
-    "text": "Haven Ember’s produce stalls sell vegetables by the bundle. Each price buys enough for the entire pot. The cookware prices buy reusable equipment. Browse the illustrated kitchen stock."
+    "text": "Each bundle feeds the whole team for one meal. The cook must meet a listed skill minimum or hold the listed Corps rank or higher to buy and prepare restricted stock. Diners can eat any meal the cook prepares. Browse the vegetable stalls."
   },
   {
     "title": "Ember Radishes",
@@ -5558,6 +5558,69 @@
     "text": "150 Ryō · Reduce the Stamina cost of your actions by 10% and gain +2 on Stamina rolls."
   },
   {
+    "title": "River Lotus Root",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#river-lotus-root",
+    "text": "180 Ryō · Open stock · Increase the distance of your Move Actions by 15%."
+  },
+  {
+    "title": "Watchpost Carrots",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#watchpost-carrots",
+    "text": "180 Ryō · Open stock · Gain +2 on Awareness rolls, including Search."
+  },
+  {
+    "title": "Switchback Squash",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#switchback-squash",
+    "text": "300 Ryō · Survival 5 · Once per encounter, cross difficult ground at your normal movement rate for one Move Action."
+  },
+  {
+    "title": "Inkheart Cabbage",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#inkheart-cabbage",
+    "text": "300 Ryō · Research 5 · Once per encounter, reroll a Lore or Research check about a creature you can perceive."
+  },
+  {
+    "title": "Bitterveil Greens",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#bitterveil-greens",
+    "text": "350 Ryō · Toxicology 8 · Gain +3 on Resistance rolls against Poison. Once per encounter, halve the damage from one instance of Poison."
+  },
+  {
+    "title": "Trailrunner Beans",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#trailrunner-beans",
+    "text": "300 Ryō · Trailhand · Once per encounter, stand from Prone as part of a Move Action at no additional Speed. Stand before moving."
+  },
+  {
+    "title": "Glasshouse Peppers",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#glasshouse-peppers",
+    "text": "450 Ryō · Huntsman · Once per encounter, reroll an Accuracy roll for a ranged attack after seeing your die."
+  },
+  {
+    "title": "Winterhold Turnip",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#winterhold-turnip",
+    "text": "500 Ryō · Warden · Once per encounter, when Knockback would move you, choose how much of that distance you travel."
+  },
+  {
+    "title": "Camp Cookware",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#camp-cookware",
+    "text": "These tools are reusable. The hunter buying or using restricted equipment must meet its listed skill or Corps rank minimum. An ordinary camp kitchen can prepare any meal its cook qualifies for. Browse the cookware."
+  },
+  {
     "title": "Iron Stewpot",
     "volume": "The Hunt Kitchen",
     "number": "I",
@@ -5577,6 +5640,41 @@
     "number": "I",
     "url": "/rules/cooking/#butchers-roll",
     "text": "1,500 Ryō · +2 to the harvest roll when dressing a slain target with edible remains."
+  },
+  {
+    "title": "Bamboo Steamer",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#bamboo-steamer",
+    "text": "1,000 Ryō · Open stock · When steaming a vegetable-only meal, add +3 to Cooking."
+  },
+  {
+    "title": "Stone Spice Mortar",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#stone-spice-mortar",
+    "text": "1,800 Ryō · Toxicology 5 · When cooking Bitterveil Greens or Glasshouse Peppers, you may roll Cooking with Toxicology in place of Survival or Lore."
+  },
+  {
+    "title": "Smokehouse Recipe Tin",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#smokehouse-recipe-tin",
+    "text": "1,800 Ryō · Research 8 · When following a recipe for a cut whose Tribe and Combat Class you know, you may roll Cooking with Research in place of Survival or Lore."
+  },
+  {
+    "title": "Trail Mess Carrier",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#trail-mess-carrier",
+    "text": "2,200 Ryō · Trailhand · One team member may collect their serving after leaving camp. Set it aside when cooking. Eating it before the encounter grants the same meal result as the rest of the batch."
+  },
+  {
+    "title": "Split Broth Pot",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#split-broth-pot",
+    "text": "3,500 Ryō · Huntsman · Buy two different vegetable bundles for the batch. Each diner chooses one of the two vegetable benefits. Use one Cooking roll and up to one cut for the whole pot."
   },
   {
     "title": "From the Hunt Log",
@@ -10238,7 +10336,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#gear-pharmaceuticals",
-    "text": "Shop for vegetables and cookware or cook a pre-hunt meal. Browse the illustrated Item Catalogue"
+    "text": "Shop for market vegetables or camp cookware or cook a pre-hunt meal. Browse the illustrated Item Catalogue"
   },
   {
     "title": "Ninja Tools",
@@ -17896,7 +17994,7 @@
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/",
-    "text": "Browse field gear, medicines, tags and clan supplies. Select a card for its full rules. Ninja Tools Monster Hunting Gear Hunt Kitchen Survival Infiltration Shinobi Pharmaceuticals Exploding Tags Special Projectiles Clan Supplies Ballistic Ammunition"
+    "text": "Browse field gear, medicines, tags and clan supplies. Select a card for its full rules. Ninja Tools Monster Hunting Gear Market Vegetables Camp Cookware Survival Infiltration Shinobi Pharmaceuticals Exploding Tags Special Projectiles Clan Supplies Ballistic Ammunition"
   },
   {
     "title": "Ninja Tools",
@@ -17913,11 +18011,25 @@
     "text": "Monster Hunting Gear 8 ITEMS Pitfall Net 6,500 Ryō Setup 5 · 4d8 Blunt · Clinch · TN 10 + Espionage ranks ITEM RULES ↗ Thunderbug Trap 7,500 Ryō Setup 5 · Holds for 15 IC · TN 10 + Espionage ranks ITEM RULES ↗ Small Barrel Bomb 3,000 Ryō Setup 5 · 6d10!o>9 · Area 5 · Blasts stack ITEM RULES ↗ Large Barrel Bomb 8,500 Ryō Setup 5 · 12d10!o>9 · Area 10 · Blasts stack ITEM RULES ↗ Paint Pod 1,200 Ryō +5 Search per applied pod ITEM RULES ↗ Screamer Pod 2,500 Ryō Flush out a burrower ITEM RULES ↗ Scent Bait 1,500 Ryō Draw a feeding monster ITEM RULES ↗ Capture Seal 4,000 Ryō Restrained, Capture-Ready targets only ITEM RULES ↗"
   },
   {
-    "title": "Hunt Kitchen",
+    "title": "Market Vegetables",
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/#items-hunt-kitchen",
-    "text": "Hunt Kitchen 7 ITEMS Ember Radishes 200 Ryō Increase the damage of your attacks by 5% before mitigation. ITEM RULES ↗ Lantern Leeks 250 Ryō Reduce the Chakra cost of your actions by 10% and gain +2 on Chakra Exhaustion rolls. ITEM RULES ↗ Stonecap Mushrooms 200 Ryō Reduce incoming attack damage by 5% at the percentage-reduction step. ITEM RULES ↗ Field Peas 150 Ryō Reduce the Stamina cost of your actions by 10% and gain +2 on Stamina rolls. ITEM RULES ↗ Iron Stewpot 2,000 Ryō +2 Cooking when braising a Colossus, Chitin or Mire cut, or making a vegetable-only stew. ITEM RULES ↗ Folding Grill 2,000 Ryō +2 Cooking when grilling a Fang, Sky, Coil or Colony cut. ITEM RULES ↗ Butcher’s Roll 1,500 Ryō +2 to the harvest roll when dressing a slain target with edible remains. ITEM RULES ↗"
+    "text": ""
+  },
+  {
+    "title": "Market Vegetables",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-vegetables",
+    "text": "Market Vegetables 12 ITEMS Ember Radishes 200 Ryō Increase the damage of your attacks by 5% before mitigation. ITEM RULES ↗ Lantern Leeks 250 Ryō Reduce the Chakra cost of your actions by 10% and gain +2 on Chakra Exhaustion rolls. ITEM RULES ↗ Stonecap Mushrooms 200 Ryō Reduce incoming attack damage by 5% at the percentage-reduction step. ITEM RULES ↗ Field Peas 150 Ryō Reduce the Stamina cost of your actions by 10% and gain +2 on Stamina rolls. ITEM RULES ↗ River Lotus Root 180 Ryō · Open stock Increase the distance of your Move Actions by 15%. ITEM RULES ↗ Watchpost Carrots 180 Ryō · Open stock Gain +2 on Awareness rolls, including Search. ITEM RULES ↗ Switchback Squash 300 Ryō · Survival 5 Once per encounter, cross difficult ground at your normal movement rate for one Move Action. ITEM RULES ↗ Inkheart Cabbage 300 Ryō · Research 5 Once per encounter, reroll a Lore or Research check about a creature you can perceive. ITEM RULES ↗ Bitterveil Greens 350 Ryō · Toxicology 8 Gain +3 on Resistance rolls against Poison. Once per encounter, halve the damage from one instance of Poison. ITEM RULES ↗ Trailrunner Beans 300 Ryō · Trailhand Once per encounter, stand from Prone as part of a Move Action at no additional Speed. Stand before moving. ITEM RULES ↗ Glasshouse Peppers 450 Ryō · Huntsman Once per encounter, reroll an Accuracy roll for a ranged attack after seeing your die. ITEM RULES ↗ Winterhold Turnip 500 Ryō · Warden Once per encounter, when Knockback would move you, choose how much of that distance you travel. ITEM RULES ↗"
+  },
+  {
+    "title": "Camp Cookware",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-cookware",
+    "text": "Camp Cookware 8 ITEMS Iron Stewpot 2,000 Ryō +2 Cooking when braising a Colossus, Chitin or Mire cut, or making a vegetable-only stew. ITEM RULES ↗ Folding Grill 2,000 Ryō +2 Cooking when grilling a Fang, Sky, Coil or Colony cut. ITEM RULES ↗ Butcher’s Roll 1,500 Ryō +2 to the harvest roll when dressing a slain target with edible remains. ITEM RULES ↗ Bamboo Steamer 1,000 Ryō · Open stock When steaming a vegetable-only meal, add +3 to Cooking. ITEM RULES ↗ Stone Spice Mortar 1,800 Ryō · Toxicology 5 When cooking Bitterveil Greens or Glasshouse Peppers, you may roll Cooking with Toxicology in place of Survival or Lore. ITEM RULES ↗ Smokehouse Recipe Tin 1,800 Ryō · Research 8 When following a recipe for a cut whose Tribe and Combat Class you know, you may roll Cooking with Research in place of Survival or Lore. ITEM RULES ↗ Trail Mess Carrier 2,200 Ryō · Trailhand One team member may collect their serving after leaving camp. Set it aside when cooking. Eating it before the encounter grants the same meal result as the rest of the batch. ITEM RULES ↗ Split Broth Pot 3,500 Ryō · Huntsman Buy two different vegetable bundles for the batch. Each diner chooses one of the two vegetable benefits. Use one Cooking roll and up to one cut for the whole pot. ITEM RULES ↗"
   },
   {
     "title": "Survival",

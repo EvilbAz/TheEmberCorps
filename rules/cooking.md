@@ -12,7 +12,7 @@ At Haven Ember’s smokehouse, every parcel carries two marks. The first tells t
 
 Before the encounter, **one hunter spends 1 Downtime Slot** to cook for the Hunting Team. A single batch feeds every attending team member, including the cook (up to four). Choose one market vegetable and, if available, one monster cut. Spend the ingredients when you cook. A fire and ordinary camp utensils are enough.
 
-Roll **1d20 + Survival or Lore ranks** once for the whole pot. Add the bonus from one piece of cookware if its condition applies. Each hunter who eats gets the result below for that Hunt’s encounter. Each diner may benefit from one meal per Hunt. Eating is optional.
+Roll **1d20 + Survival or Lore ranks** once for the whole pot. Choose up to one piece of cookware for the batch and apply its effect if its condition applies. Each hunter who eats gets the result below for that Hunt’s encounter. Each diner may benefit from one meal per Hunt. Eating is optional.
 
 | Cooking total | What each diner gets |
 |---|---|
@@ -62,10 +62,10 @@ The cut’s second mark tells the cook how to handle it. Apply the matching row 
 | Tank | Stew the bone end | Reduce damage taken by 15% when determining Wounds. Gain +2 on Resistance rolls. |
 | Swarm | Toast the small morsels | When you hit a monster, the next teammate to attack it gains +2 Accuracy on that attack. Further hits refresh the bonus. A single attack can receive this bonus from only one diner. |
 
-## Market Vegetables and Cookware
+## Market Vegetables
 {:#market-ingredients}
 
-Haven Ember’s produce stalls sell vegetables by the bundle. Each price buys enough for the entire pot. The cookware prices buy reusable equipment. [Browse the illustrated kitchen stock.]({{ '/rules/standard-items/#items-hunt-kitchen' | relative_url }})
+Each bundle feeds the whole team for one meal. The cook must meet a listed skill minimum or hold the listed Corps rank or higher to buy and prepare restricted stock. Diners can eat any meal the cook prepares. [Browse the vegetable stalls.]({{ '/rules/standard-items/#items-vegetables' | relative_url }})
 
 #### Ember Radishes
 {:#ember-radishes}
@@ -87,6 +87,51 @@ Haven Ember’s produce stalls sell vegetables by the bundle. Each price buys en
 
 **150 Ryō** · Reduce the Stamina cost of your actions by 10% and gain +2 on Stamina rolls.
 
+#### River Lotus Root
+{:#river-lotus-root}
+
+**180 Ryō** · Open stock · Increase the distance of your Move Actions by 15%.
+
+#### Watchpost Carrots
+{:#watchpost-carrots}
+
+**180 Ryō** · Open stock · Gain +2 on Awareness rolls, including Search.
+
+#### Switchback Squash
+{:#switchback-squash}
+
+**300 Ryō** · Survival 5 · Once per encounter, cross difficult ground at your normal movement rate for one Move Action.
+
+#### Inkheart Cabbage
+{:#inkheart-cabbage}
+
+**300 Ryō** · Research 5 · Once per encounter, reroll a Lore or Research check about a creature you can perceive.
+
+#### Bitterveil Greens
+{:#bitterveil-greens}
+
+**350 Ryō** · Toxicology 8 · Gain +3 on Resistance rolls against Poison. Once per encounter, halve the damage from one instance of Poison.
+
+#### Trailrunner Beans
+{:#trailrunner-beans}
+
+**300 Ryō** · Trailhand · Once per encounter, stand from Prone as part of a Move Action at no additional Speed. Stand before moving.
+
+#### Glasshouse Peppers
+{:#glasshouse-peppers}
+
+**450 Ryō** · Huntsman · Once per encounter, reroll an Accuracy roll for a ranged attack after seeing your die.
+
+#### Winterhold Turnip
+{:#winterhold-turnip}
+
+**500 Ryō** · Warden · Once per encounter, when Knockback would move you, choose how much of that distance you travel.
+
+## Camp Cookware
+{:#camp-cookware}
+
+These tools are reusable. The hunter buying or using restricted equipment must meet its listed skill or Corps rank minimum. An ordinary camp kitchen can prepare any meal its cook qualifies for. [Browse the cookware.]({{ '/rules/standard-items/#items-cookware' | relative_url }})
+
 #### Iron Stewpot
 {:#iron-stewpot}
 
@@ -101,6 +146,31 @@ Haven Ember’s produce stalls sell vegetables by the bundle. Each price buys en
 {:#butchers-roll}
 
 **1,500 Ryō** · +2 to the harvest roll when dressing a slain target with edible remains.
+
+#### Bamboo Steamer
+{:#bamboo-steamer}
+
+**1,000 Ryō** · Open stock · When steaming a vegetable-only meal, add +3 to Cooking.
+
+#### Stone Spice Mortar
+{:#stone-spice-mortar}
+
+**1,800 Ryō** · Toxicology 5 · When cooking Bitterveil Greens or Glasshouse Peppers, you may roll Cooking with Toxicology in place of Survival or Lore.
+
+#### Smokehouse Recipe Tin
+{:#smokehouse-recipe-tin}
+
+**1,800 Ryō** · Research 8 · When following a recipe for a cut whose Tribe and Combat Class you know, you may roll Cooking with Research in place of Survival or Lore.
+
+#### Trail Mess Carrier
+{:#trail-mess-carrier}
+
+**2,200 Ryō** · Trailhand · One team member may collect their serving after leaving camp. Set it aside when cooking. Eating it before the encounter grants the same meal result as the rest of the batch.
+
+#### Split Broth Pot
+{:#split-broth-pot}
+
+**3,500 Ryō** · Huntsman · Buy two different vegetable bundles for the batch. Each diner chooses one of the two vegetable benefits. Use one Cooking roll and up to one cut for the whole pot.
 
 ## From the Hunt Log
 {:#sample-meal}
