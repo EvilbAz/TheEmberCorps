@@ -2932,7 +2932,9 @@ Only characters with the Ballistic Corps Heritage may wield a weapon with the Fi
 
 Characters without this Heritage cannot make Ballistic Attacks, Reload or Brace a firearm, benefit from Ballistic Attachments, use specialist Ballistic ammunition, or use Ballistic Modifications. They may carry, sell, transport or study the equipment, but possessing it never grants access to its combat rules. General Equipment access never overrides this restriction unless a rule explicitly names the Ballistic Corps restriction.
 
-A Ballistic Weapon is a ranged Weapon. It uses the normal Attack and ranged-defense rules, but does not add Physical Damage Bonus. Instead, Ballistic Attacks add Ballistic Damage Bonus (BDB) equal to DEX / 24, rounded as normal.
+A Ballistic Weapon is a ranged Weapon. It uses the normal Attack and ranged-defense rules, but does not add Physical Damage Bonus. Instead, Ballistic Attacks add Ballistic Damage Bonus (BDB) equal to DEX / 18, truncated to one decimal place.
+
+Every Ballistic Attack gains one additional weapon-sized Damage Die per full 25 DEX. Include these dice once in the attack’s damage against each target, including Burst and Full Auto. For damaging Ballistic Arts, these dice replace the STR-based Bukijutsu rank dice and stack with the Art’s printed damage modifiers. Ammunition with a fixed damage roll uses its own entry.
 
 When making an attack of any type with a Ballistic Weapon, instead of using a base Accuracy result, you roll a 1d20, and add your relevant Accuracy modifier to it, not including your Base 10\. If you use your DEX for your BDB, use your Taijutsu Accuracy, if you use your CHA for your BDB, use your Ninjutsu Accuracy.
 
@@ -2962,6 +2964,8 @@ Ballistic Corps Hunters are trained to fire while advancing, retreating, strafin
 You begin with one custom Hunter Arm at no Ryo cost and three Standard Loads. Choose one Frame and spend 4 Modification Points on Ballistic Modifications. Your Hunter Arm is always considered a Ballistic Weapon and a Firearm.
 
 Modification Points are not Artisan Points. They do not count toward normal Weapon Crafting prerequisites or tier requirements. The modifications below may only be installed on your Hunter Arm unless another rule explicitly allows otherwise.
+
+Hunter Arms can take the [Seal Grip weapon component]({{ '/rules/equipment/#seal-grip' | relative_url }}) at its listed Artisan Point cost.
 
 You may redesign any number of your Hunter Arm's Modifications during a Week's Rest by spending 1 Downtime Slot at the Ballistics Annex or an equivalent workshop.
 
@@ -3005,6 +3009,8 @@ The weapon may make X normal attacks before it is empty. A normal Attack consume
 
 Reloading is a Speed X Utility action with no additional Stamina cost. You must have a compatible Load available. A Load refills the weapon to its full Magazine value.
 
+**Defensive Reload.** You may Link one Reload to any Defensive Interrupt. Use the Defense’s own Speed to determine whether it is legal. Resolve the Defense normally, then complete the Reload. Add the modified Reload Speed only when advancing your next action’s IC.
+
 Removing a partially used magazine does not destroy the remaining ammunition. Track it separately until used again.
 
 ### Brace
@@ -3034,7 +3040,7 @@ For the purposes of effects that care about repeated hits, such as Maintaining H
 
 **Simplification:**
 
-- *a \= Weapon Base Speed || b \= Weapon Magazine Size || c \= Weapon Damage Dice || d \= Damage Bonus || e \= Weapon Stamina || X \= Chosen Value of X*
+- *a \= Weapon Base Speed || b \= Weapon Magazine Size || c \= Weapon Damage Dice including floor(DEX/25) || d \= Damage Bonus || e \= Weapon Stamina || X \= Chosen Value of X*
 
 
   Ammo \= 3X || Speed \= a \+ X || Stamina \= e \+ 2X || Targets \= X || Accuracy \= \-2 || Damage \= (c \+ X + ⌈X / 2⌉) Dice \+ d || Hit Count \= X
@@ -3062,7 +3068,7 @@ The weapon can safely chamber Scatter Loads.
 #### Chakra-Driven
 {:#chakra-driven}
 
-When declaring an Attack, you may increase that attack’s cost by \+5 Chakra to use the higher of DEX / 24 or CHA / 24 as BDB. The Attack counts as chakra-enhanced wherever that distinction matters. Chakra-Driven weapons can safely chamber Elemental Loads.
+When declaring an Attack, you may increase that attack’s cost by \+5 Chakra to use the higher of DEX / 18 or CHA / 24 as BDB. The Attack counts as chakra-enhanced wherever that distinction matters. Chakra-Driven weapons can safely chamber Elemental Loads.
 
 ## Hunter Arm Frames
 {:#hunter-arm-frames}
@@ -3706,7 +3712,7 @@ Cost: 2,000 Ryo per Load
 
 Requires Chakra-Driven.
 
-Add \+5 CE to the cost of your attack. Choose the elemental nature the Load was prepared for. The Attack changes to that damage type and may use CHA / 24 instead of DEX / 24 for BDB. This does not automatically apply an elemental condition.
+Add \+5 CE to the cost of your attack. Choose the elemental nature the Load was prepared for. The Attack changes to that damage type and may use CHA / 24 instead of DEX / 18 for BDB. This does not automatically apply an elemental condition.
 
 ### Tranq Load
 {:#tranq-load}
