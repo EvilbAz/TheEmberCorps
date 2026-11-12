@@ -151,15 +151,16 @@ Intel and preparations gained during a Hunt belong to that Hunt and are availabl
 ## Hunt Actions
 {:#hunt-actions}
 
-While participating in an active Hunt, you may use the four preparatory **Hunt Actions** below: Track, Research, Study Weakness and Prepare. Each costs **1 Downtime Slot**. **Going on a Hunt** is the final played encounter, not a Downtime Action, and costs **no Downtime Slots**.
+While participating in an active Hunt, you may use five preparatory **Hunt Actions**: Track, Research, Study Weakness, Prepare and Cook for the Team. Each costs **1 Downtime Slot**. **Going on a Hunt** is the final played encounter, not a Downtime Action, and costs **no Downtime Slots**.
 
-Choose the skill listed in the monster’s Hunt profile or Lore for every Hunt roll. Lore is always a valid alternative, including for Track, Research, Study Weakness and Prepare. Different creatures are found, understood, and prepared for in different ways, so each monster may call for different Skills or approaches.
+For Track, Research, Study Weakness and Prepare, roll the skill listed in the monster’s Hunt profile or Lore. For cooking, roll Survival or Lore. Different creatures are found, understood, and prepared for in different ways, so each monster may call for different Skills or approaches.
 
 <div class="hunt-card-grid">
   <div class="hunt-card"><div class="hunt-card-kicker">Hunt Action · 1 Downtime</div><h3>Track</h3><p>Follow trails, chakra residue, disturbed terrain, witnesses, feeding grounds, discarded remains, or other signs of the creature.</p><span class="hunt-result">Success → Tracks Intel</span><p>Learn where the creature is, where it travels, how it moves through its territory, and how best to approach it.</p></div>
   <div class="hunt-card"><div class="hunt-card-kicker">Hunt Action · 1 Downtime</div><h3>Research</h3><p>Study old records, field reports, remains, sightings, survivors, folklore, previous encounters, or similar sources.</p><span class="hunt-result">Success → Nature Intel</span><p>Learn what kind of creature you are dealing with, how it behaves, and what it may be capable of.</p></div>
   <div class="hunt-card"><div class="hunt-card-kicker">Hunt Action · 1 Downtime</div><h3>Study Weakness</h3><p>Investigate the creature's anatomy, habits, injuries, feeding patterns, shed material, chakra, or previous fights in search of exploitable vulnerabilities. This will often require some <strong>Nature Intel</strong> first.</p><span class="hunt-result">Success → Weakness Intel</span><p>Learn how to create openings, disable important parts, avoid dangerous abilities, or exploit a major vulnerability.</p></div>
   <div class="hunt-card"><div class="hunt-card-kicker">Hunt Action · 1 Downtime</div><h3>Prepare</h3><p>Create or arrange something specifically intended to help against the target: traps, bait, antidotes, seals, special ammunition, environmental preparations, escape routes, or similar measures.</p><span class="hunt-result">Success → +1 Preparation · Max 3</span><p>Preparation must represent something established before the encounter; it is not undefined equipment that becomes whatever the Team needs later.</p></div>
+  <div class="hunt-card"><div class="hunt-card-kicker">Hunt Action · 1 Downtime</div><h3>Cook for the Team</h3><p>One cook rolls Survival or Lore to feed the whole Team. Buy a bundle of vegetables and add a cut from an earlier Hunt if you have one.</p><a href="{{ '/rules/cooking/' | relative_url }}">Meal effects and vegetable-only dishes ↗</a></div>
 </div>
 
 ---
@@ -190,7 +191,7 @@ Typical Hunter's Insight benefits include **Tracks 3** avoiding an ambush or cho
 ### Failed Hunt Actions
 {:#failed-hunt-actions}
 
-A failed Hunt Action may cause a **Complication**. The creature might relocate, realise it is being hunted, supplies may be lost, terrain may worsen, or another threat may become involved.
+A failed Track, Research, Study Weakness or Prepare action may cause a **Complication**. The creature might relocate, realise it is being hunted, supplies may be lost, terrain may worsen, or another threat may become involved.
 
 A failure does not automatically end the Hunt. It means the situation has become more difficult, urgent, or dangerous.
 
@@ -248,7 +249,7 @@ When your Team is ready, **organise a time with your GM and the other Hunters on
 
 A Hunt is completed when the target is **killed, captured, driven away, or otherwise neutralised** in a way that resolves the Hunt.
 
-Everyone who participates in the final encounter counts as having **Completed a Hunt** for weekly Downtime rewards. Rare creatures may also provide unique materials, crafting components, trophies, or other rewards.
+Everyone who participates in the final encounter counts as having **Completed a Hunt** for weekly Downtime rewards. Rare creatures may also provide unique materials, crafting components, trophies, or other rewards. Collect edible cuts or a live-capture chit using [Bring Meat Home]({{ '/rules/cooking/#bring-meat-home' | relative_url }}).
 
 ---
 
@@ -456,7 +457,7 @@ Capturing a creature does not make it friendly, loyal or usable as a companion. 
 
 <div class="hunt-loop-panel">
 <h3>Before the Encounter</h3>
-<ol><li><strong>Track it.</strong> Find the creature and learn its territory.</li><li><strong>Research it.</strong> Discover its Tribe, habits and likely capabilities.</li><li><strong>Study it.</strong> Learn what can be exploited.</li><li><strong>Prepare.</strong> Build the traps, tools, routes and countermeasures you want available.</li><li><strong>Go on the Hunt.</strong> When ready, organise a time with your GM and Team, then go. The encounter costs no Downtime; only optional preparation does.</li></ol>
+<ol><li><strong>Track it.</strong> Find the creature and learn its territory.</li><li><strong>Research it.</strong> Discover its Tribe, habits and likely capabilities.</li><li><strong>Study it.</strong> Learn what can be exploited.</li><li><strong>Prepare.</strong> Build the traps, tools, routes and countermeasures you want available.</li><li><strong>Eat together.</strong> One hunter can spend a Downtime Slot on a meal for the Team.</li><li><strong>Go on the Hunt.</strong> When ready, organise a time with your GM and Team, then go. The encounter costs no Downtime; only optional preparation does.</li></ol>
 </div>
 
 <div class="hunt-loop-panel">

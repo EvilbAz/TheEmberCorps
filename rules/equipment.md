@@ -1866,6 +1866,8 @@ Special: For every point you hit by, you add 10% to the attack's total damage, t
 # Gear & Pharmaceuticals
 {:#gear-pharmaceuticals}
 
+[Shop for vegetables and cookware]({{ '/rules/standard-items/#items-hunt-kitchen' | relative_url }}) or [cook a pre-hunt meal]({{ '/rules/cooking/' | relative_url }}).
+
 [Browse the illustrated Item Catalogue]({{ '/rules/standard-items/' | relative_url }})
 
 ### Ninja Tools

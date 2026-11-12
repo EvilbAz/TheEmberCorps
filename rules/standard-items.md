@@ -12,6 +12,7 @@ permalink: "/rules/standard-items/"
 <div class="catalog-jumps">
 <a href="#items-ninja-tools">Ninja Tools</a>
 <a href="#items-monster-hunting-gear">Monster Hunting Gear</a>
+<a href="#items-hunt-kitchen">Hunt Kitchen</a>
 <a href="#items-survival">Survival</a>
 <a href="#items-infiltration">Infiltration</a>
 <a href="#items-shinobi-pharmaceuticals">Shinobi Pharmaceuticals</a>
@@ -80,6 +81,29 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/equipment/#capture-seal' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/capture-seal.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Capture Seal</strong><span class="armor-price">4,000 Ryō</span><span class="armor-stats"><span>Restrained, Capture-Ready targets only</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+</div></section>
+<section class="catalog-group" id="items-hunt-kitchen"><div class="catalog-heading"><h2>Hunt Kitchen</h2><span class="catalog-count">7 ITEMS</span></div><div class="catalog-grid">
+<a class="armor-card" href="{{ '/rules/cooking/#ember-radishes' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/ember-radishes.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Ember Radishes</strong><span class="armor-price">200 Ryō</span><span class="armor-stats"><span>When a monster inflicts Burn on you, reduce its Severity by 1, to a minimum of 0.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#lantern-leeks' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/lantern-leeks.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Lantern Leeks</strong><span class="armor-price">250 Ryō</span><span class="armor-stats"><span>When you roll Chakra Exhaustion for a Ninjutsu or Genjutsu, add 3 to the roll.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#stonecap-mushrooms' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/stonecap-mushrooms.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Stonecap Mushrooms</strong><span class="armor-price">200 Ryō</span><span class="armor-stats"><span>When a monster hits you while you are Prone, reduce the damage you take by 8, to a minimum of 0.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#field-peas' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/field-peas.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Field Peas</strong><span class="armor-price">150 Ryō</span><span class="armor-stats"><span>When you use a First Aid Kit on a teammate, reduce that action’s Speed by 2, to a minimum of 3.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#iron-stewpot' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/iron-stewpot.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Iron Stewpot</strong><span class="armor-price">2,000 Ryō</span><span class="armor-stats"><span>+2 Cooking when braising a Colossus, Chitin or Mire cut, or making a vegetable-only stew.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#folding-grill' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/folding-grill.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Folding Grill</strong><span class="armor-price">2,000 Ryō</span><span class="armor-stats"><span>+2 Cooking when grilling a Fang, Sky, Coil or Colony cut.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/cooking/#butchers-roll' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/butchers-roll.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Butcher’s Roll</strong><span class="armor-price">1,500 Ryō</span><span class="armor-stats"><span>+2 to the harvest roll when dressing a slain target with edible remains.</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <section class="catalog-group" id="items-survival"><div class="catalog-heading"><h2>Survival</h2><span class="catalog-count">9 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#compass' | relative_url }}">

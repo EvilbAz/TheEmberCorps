@@ -5488,6 +5488,104 @@
     "text": "B-Rank Interrupt Genjutsu Type: Genjutsu, Rank B Chakra: As reflected technique Speed: 6 + X Tags: Interrupt, Genjutsu Requires: Stage 3 Sharingan Effects Immediately after you successfully defend against a Genjutsu targeting you, you can reflect it through Eye of Hypnotism at its original user. X is half the reflected technique's final Speed, rounded up. Use the result of your successful Genjutsu Defense as the reflected technique's Accuracy and pay its normal Chakra cost. You must know or currently retain the reflected technique through Dousatsugan."
   },
   {
+    "title": "The Hunt Kitchen",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/",
+    "text": "At Haven Ember’s smokehouse, every parcel carries two marks. The first tells the cook what’s inside: collar, haunch, claw or coil. The second is the butcher’s note on the beast. A tortoise that spent its life bracing against the river gives a different stew from one that hauled prey beneath the bank."
+  },
+  {
+    "title": "Cook for the Team",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#cook-for-the-team",
+    "text": "Before the encounter, one hunter spends 1 Downtime Slot to cook for the Hunting Team. A single batch feeds every attending team member, including the cook (up to four). Choose one market vegetable and, if available, one monster cut. Spend the ingredients when you cook. A fire and ordinary camp utensils are enough. Roll 1d20 + Survival or Lore ranks once for the whole pot. Add the bonus from one piece of cookware if its condition applies. Each hunter who eats gets the result below for that Hunt’s encounter. Each diner may benefit from one meal per Hunt. Eating is optional. Cooking total What each diner gets ------ 14 or less · Camp fare One use of the vegetable effect. 15–24 · Well cooked One use of the vegetable effect and one use of either meat effect. The diner chooses the meat effect when its trigger occurs. 25+ · House special One use each of the vegetable, Tribe and Combat Class effects. Vegetable-only meals: On 15 or higher, each diner may use the vegetable effect twice, on separate actions. All uses belong to the individual diner and expire at the end of the encounter. Declare a roll bonus before rolling. Cooking grants the meal result directly and earns no Preparation points."
+  },
+  {
+    "title": "Bring Meat Home",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#bring-meat-home",
+    "text": "When the Team brings back a slain Hunt target with edible remains, take one cut for the Team alongside its normal rewards. One hunter may roll Survival or Lore against TN 15 while dressing it; success yields a second cut. Make one harvest roll per target. Dressing the carcass is part of the Hunt reward and costs no Downtime. For a live capture, the handler issues one smokehouse chit. Exchange it in Haven Ember for one stored cut of the captured target’s Tribe and Combat Class. For a drive-off, the Team may take one cut only if it recovered an edible severed part during the encounter. When a target has no edible tissue, the GM identifies that in its Hunt profile; a live-capture chit can instead be exchanged for a cut of the Team’s choice from the smokehouse. Record quantity, Tribe and Combat Class on one hunter’s inventory or the Team’s stores: for example, 2 Mire collars — Grappler. One cut feeds one whole meal. Salted or sealed cuts keep between Hunts until spent. If a profile lists multiple classes, the GM names the one that shaped the cut when awarding it."
+  },
+  {
+    "title": "Tribe Cuts",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#tribe-cuts",
+    "text": "Tribe Cut When to use it --------- Fang Runner’s flank When you move to close the distance to a visible monster, add 5 yards to that movement. Colossus Marbled haunch When an effect would move you against your will, reduce that displacement by up to 5 yards. Chitin Shellback oyster When you take a physical hit while Blocking, reduce the damage remaining after Block by 10, to a minimum of 0. Sky Wing muscle When you aim at a monster above you, add 2 Accuracy to one ranged attack against it. Coil Ribbon loin When something holds you, add 3 to your Break Clinch or Escape Pin roll. Mire River collar When you make a Stamina roll while swimming, wading or standing in mud, add 3 to the roll. Colony Brood pearls When another hunter within 5 yards rolls to resist a status, give that hunter +2. Only one diner can assist a given roll this way."
+  },
+  {
+    "title": "Combat Class Effects",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#class-effects",
+    "text": "The cut’s second mark tells the cook how to handle it. Apply the matching row to the same cut. Combat Class Butcher’s note When to use it --------- Bruiser Sear the thick grain On a full melee hit against the monster, add 1d10 damage of the attack’s type. Skirmisher Slice across the lean When you Dodge a monster that moved as part of its attack, add 2 to your Dodge roll. Controller Simmer the silver seams When you finish setting a trap during the encounter, add 2 to its Trap TN for that placement. Artillery Roast the long fibres When you declare a ranged attack, increase its maximum Range by 10 yards for that attack. Ambusher Smoke the dark meat When you use Search to locate a hidden monster, add 3 to your Awareness roll. Grappler Braise the knuckles When you use Secure Grip while Clinging, add 3 to your Grapple Offense roll. Tank Stew the bone end When a monster deals damage to armor you are wearing, reduce that Durability loss by 10, to a minimum of 0. Swarm Toast the small morsels When a teammate also lies within an Area attack aimed at your Team, add 2 to your own defense roll against it."
+  },
+  {
+    "title": "Market Vegetables and Cookware",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#market-ingredients",
+    "text": "Haven Ember’s produce stalls sell vegetables by the bundle. Each price buys enough for the entire pot. The cookware prices buy reusable equipment. Browse the illustrated kitchen stock."
+  },
+  {
+    "title": "Ember Radishes",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#ember-radishes",
+    "text": "200 Ryō · When a monster inflicts Burn on you, reduce its Severity by 1, to a minimum of 0."
+  },
+  {
+    "title": "Lantern Leeks",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#lantern-leeks",
+    "text": "250 Ryō · When you roll Chakra Exhaustion for a Ninjutsu or Genjutsu, add 3 to the roll."
+  },
+  {
+    "title": "Stonecap Mushrooms",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#stonecap-mushrooms",
+    "text": "200 Ryō · When a monster hits you while you are Prone, reduce the damage you take by 8, to a minimum of 0."
+  },
+  {
+    "title": "Field Peas",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#field-peas",
+    "text": "150 Ryō · When you use a First Aid Kit on a teammate, reduce that action’s Speed by 2, to a minimum of 3."
+  },
+  {
+    "title": "Iron Stewpot",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#iron-stewpot",
+    "text": "2,000 Ryō · +2 Cooking when braising a Colossus, Chitin or Mire cut, or making a vegetable-only stew."
+  },
+  {
+    "title": "Folding Grill",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#folding-grill",
+    "text": "2,000 Ryō · +2 Cooking when grilling a Fang, Sky, Coil or Colony cut."
+  },
+  {
+    "title": "Butcher’s Roll",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#butchers-roll",
+    "text": "1,500 Ryō · +2 to the harvest roll when dressing a slain target with edible remains."
+  },
+  {
+    "title": "From the Hunt Log",
+    "volume": "The Hunt Kitchen",
+    "number": "I",
+    "url": "/rules/cooking/#sample-meal",
+    "text": "A four-hunter Team brings a Mire Grappler home alive and trades its chit for a collar. Before the next Hunt, the cook buys Lantern Leeks for 250 Ryō and spends one Downtime Slot braising the collar. She rolls 13, adds 7 Survival and 2 for the Iron Stewpot: 22, well cooked. Each hunter gets one leek use and one meat use. The cook saves her leeks for a Chakra Exhaustion roll. The climber spends his meat use on Secure Grip. The scout keeps hers for a Stamina roll in the marsh."
+  },
+  {
     "title": "Core Rules",
     "volume": "Core Rules",
     "number": "I",
@@ -9993,7 +10091,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#gear-pharmaceuticals",
-    "text": "Browse the illustrated Item Catalogue"
+    "text": "Shop for vegetables and cookware or cook a pre-hunt meal. Browse the illustrated Item Catalogue"
   },
   {
     "title": "Ninja Tools",
@@ -10413,7 +10511,7 @@
     "volume": "Hunting",
     "number": "I",
     "url": "/rules/hunting/#hunt-actions",
-    "text": "While participating in an active Hunt, you may use the four preparatory Hunt Actions below: Track, Research, Study Weakness and Prepare. Each costs 1 Downtime Slot. Going on a Hunt is the final played encounter, not a Downtime Action, and costs no Downtime Slots. Choose the skill listed in the monster’s Hunt profile or Lore for every Hunt roll. Lore is always a valid alternative, including for Track, Research, Study Weakness and Prepare. Different creatures are found, understood, and prepared for in different ways, so each monster may call for different Skills or approaches. Hunt Action · 1 Downtime Track Follow trails, chakra residue, disturbed terrain, witnesses, feeding grounds, discarded remains, or other signs of the creature. Success → Tracks Intel Learn where the creature is, where it travels, how it moves through its territory, and how best to approach it. Hunt Action · 1 Downtime Research Study old records, field reports, remains, sightings, survivors, folklore, previous encounters, or similar sources. Success → Nature Intel Learn what kind of creature you are dealing with, how it behaves, and what it may be capable of. Hunt Action · 1 Downtime Study Weakness Investigate the creature's anatomy, habits, injuries, feeding patterns, shed material, chakra, or previous fights in search of exploitable vulnerabilities. This will often require some Nature Intel first. Success → Weakness Intel Learn how to create openings, disable important parts, avoid dangerous abilities, or exploit a major vulnerability. Hunt Action · 1 Downtime Prepare Create or arrange something specifically intended to help against the target: traps, bait, antidotes, seals, special ammunition, environmental preparations, escape routes, or similar measures. Success → +1 Preparation · Max 3 Preparation must represent something established before the encounter; it is not undefined equipment that becomes whatever the Team needs later. ---"
+    "text": "While participating in an active Hunt, you may use five preparatory Hunt Actions: Track, Research, Study Weakness, Prepare and Cook for the Team. Each costs 1 Downtime Slot. Going on a Hunt is the final played encounter, not a Downtime Action, and costs no Downtime Slots. For Track, Research, Study Weakness and Prepare, roll the skill listed in the monster’s Hunt profile or Lore. For cooking, roll Survival or Lore. Different creatures are found, understood, and prepared for in different ways, so each monster may call for different Skills or approaches. Hunt Action · 1 Downtime Track Follow trails, chakra residue, disturbed terrain, witnesses, feeding grounds, discarded remains, or other signs of the creature. Success → Tracks Intel Learn where the creature is, where it travels, how it moves through its territory, and how best to approach it. Hunt Action · 1 Downtime Research Study old records, field reports, remains, sightings, survivors, folklore, previous encounters, or similar sources. Success → Nature Intel Learn what kind of creature you are dealing with, how it behaves, and what it may be capable of. Hunt Action · 1 Downtime Study Weakness Investigate the creature's anatomy, habits, injuries, feeding patterns, shed material, chakra, or previous fights in search of exploitable vulnerabilities. This will often require some Nature Intel first. Success → Weakness Intel Learn how to create openings, disable important parts, avoid dangerous abilities, or exploit a major vulnerability. Hunt Action · 1 Downtime Prepare Create or arrange something specifically intended to help against the target: traps, bait, antidotes, seals, special ammunition, environmental preparations, escape routes, or similar measures. Success → +1 Preparation · Max 3 Preparation must represent something established before the encounter; it is not undefined equipment that becomes whatever the Team needs later. Hunt Action · 1 Downtime Cook for the Team One cook rolls Survival or Lore to feed the whole Team. Buy a bundle of vegetables and add a cut from an earlier Hunt if you have one. Meal effects and vegetable-only dishes ↗ ---"
   },
   {
     "title": "Intel",
@@ -10427,7 +10525,7 @@
     "volume": "Hunting",
     "number": "I",
     "url": "/rules/hunting/#failed-hunt-actions",
-    "text": "A failed Hunt Action may cause a Complication. The creature might relocate, realise it is being hunted, supplies may be lost, terrain may worsen, or another threat may become involved. A failure does not automatically end the Hunt. It means the situation has become more difficult, urgent, or dangerous. ---"
+    "text": "A failed Track, Research, Study Weakness or Prepare action may cause a Complication. The creature might relocate, realise it is being hunted, supplies may be lost, terrain may worsen, or another threat may become involved. A failure does not automatically end the Hunt. It means the situation has become more difficult, urgent, or dangerous. ---"
   },
   {
     "title": "Monster Tribes",
@@ -10448,7 +10546,7 @@
     "volume": "Hunting",
     "number": "I",
     "url": "/rules/hunting/#starting-the-encounter",
-    "text": "The Team may choose to confront the target at any time. When your Team is ready, organise a time with your GM and the other Hunters on your Team, then go on the Hunt. Going on a Hunt costs no Downtime Slots for anyone participating. When the encounter begins, investigation ends and the Hunt is played with the monster's Hunt rules. Any Intel and Preparation the Team has earned carries into the encounter. A Hunt is completed when the target is killed, captured, driven away, or otherwise neutralised in a way that resolves the Hunt. Everyone who participates in the final encounter counts as having Completed a Hunt for weekly Downtime rewards. Rare creatures may also provide unique materials, crafting components, trophies, or other rewards. ---"
+    "text": "The Team may choose to confront the target at any time. When your Team is ready, organise a time with your GM and the other Hunters on your Team, then go on the Hunt. Going on a Hunt costs no Downtime Slots for anyone participating. When the encounter begins, investigation ends and the Hunt is played with the monster's Hunt rules. Any Intel and Preparation the Team has earned carries into the encounter. A Hunt is completed when the target is killed, captured, driven away, or otherwise neutralised in a way that resolves the Hunt. Everyone who participates in the final encounter counts as having Completed a Hunt for weekly Downtime rewards. Rare creatures may also provide unique materials, crafting components, trophies, or other rewards. Collect edible cuts or a live-capture chit using Bring Meat Home. ---"
   },
   {
     "title": "Wild Hunt Combat",
@@ -10490,7 +10588,7 @@
     "volume": "Hunting",
     "number": "I",
     "url": "/rules/hunting/#the-hunt-loop",
-    "text": "Before the Encounter Track it. Find the creature and learn its territory. Research it. Discover its Tribe, habits and likely capabilities. Study it. Learn what can be exploited. Prepare. Build the traps, tools, routes and countermeasures you want available. Go on the Hunt. When ready, organise a time with your GM and Team, then go. The encounter costs no Downtime; only optional preparation does. During the Encounter Read its Class. Recognise the kind of pressure the monster is trying to create. Injure it. Push it through its Injury stages. Create openings. Target important locations and watch for Open Wounds. Exploit them. Coordinate attacks before those openings close. Break important parts. Remove dangerous attacks, mobility, armour or other capabilities. Wear it down. Force Exertion and prevent it from Catching Breath. Climb when necessary. Reach locations that cannot safely be attacked from the ground. Choose the ending. Fell it, drive it away, or hold it at Critical long enough to capture it."
+    "text": "Before the Encounter Track it. Find the creature and learn its territory. Research it. Discover its Tribe, habits and likely capabilities. Study it. Learn what can be exploited. Prepare. Build the traps, tools, routes and countermeasures you want available. Eat together. One hunter can spend a Downtime Slot on a meal for the Team. Go on the Hunt. When ready, organise a time with your GM and Team, then go. The encounter costs no Downtime; only optional preparation does. During the Encounter Read its Class. Recognise the kind of pressure the monster is trying to create. Injure it. Push it through its Injury stages. Create openings. Target important locations and watch for Open Wounds. Exploit them. Coordinate attacks before those openings close. Break important parts. Remove dangerous attacks, mobility, armour or other capabilities. Wear it down. Force Exertion and prevent it from Catching Breath. Climb when necessary. Reach locations that cannot safely be attacked from the ground. Choose the ending. Fell it, drive it away, or hold it at Critical long enough to capture it."
   },
   {
     "title": "Bow Bukijutsu",
@@ -17588,7 +17686,7 @@
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/",
-    "text": "Browse field gear, medicines, tags and clan supplies. Select a card for its full rules. Ninja Tools Monster Hunting Gear Survival Infiltration Shinobi Pharmaceuticals Exploding Tags Special Projectiles Clan Supplies Ballistic Ammunition"
+    "text": "Browse field gear, medicines, tags and clan supplies. Select a card for its full rules. Ninja Tools Monster Hunting Gear Hunt Kitchen Survival Infiltration Shinobi Pharmaceuticals Exploding Tags Special Projectiles Clan Supplies Ballistic Ammunition"
   },
   {
     "title": "Ninja Tools",
@@ -17603,6 +17701,13 @@
     "number": "VI",
     "url": "/rules/standard-items/#items-monster-hunting-gear",
     "text": "Monster Hunting Gear 8 ITEMS Pitfall Net 6,500 Ryō Setup 5 · 4d8 Blunt · Clinch · TN 10 + Espionage ranks ITEM RULES ↗ Thunderbug Trap 7,500 Ryō Setup 5 · Holds for 15 IC · TN 10 + Espionage ranks ITEM RULES ↗ Small Barrel Bomb 3,000 Ryō Setup 5 · 6d10!o>9 · Area 5 · Blasts stack ITEM RULES ↗ Large Barrel Bomb 8,500 Ryō Setup 5 · 12d10!o>9 · Area 10 · Blasts stack ITEM RULES ↗ Paint Pod 1,200 Ryō +5 Search per applied pod ITEM RULES ↗ Screamer Pod 2,500 Ryō Flush out a burrower ITEM RULES ↗ Scent Bait 1,500 Ryō Draw a feeding monster ITEM RULES ↗ Capture Seal 4,000 Ryō Restrained, Capture-Ready targets only ITEM RULES ↗"
+  },
+  {
+    "title": "Hunt Kitchen",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-hunt-kitchen",
+    "text": "Hunt Kitchen 7 ITEMS Ember Radishes 200 Ryō When a monster inflicts Burn on you, reduce its Severity by 1, to a minimum of 0. ITEM RULES ↗ Lantern Leeks 250 Ryō When you roll Chakra Exhaustion for a Ninjutsu or Genjutsu, add 3 to the roll. ITEM RULES ↗ Stonecap Mushrooms 200 Ryō When a monster hits you while you are Prone, reduce the damage you take by 8, to a minimum of 0. ITEM RULES ↗ Field Peas 150 Ryō When you use a First Aid Kit on a teammate, reduce that action’s Speed by 2, to a minimum of 3. ITEM RULES ↗ Iron Stewpot 2,000 Ryō +2 Cooking when braising a Colossus, Chitin or Mire cut, or making a vegetable-only stew. ITEM RULES ↗ Folding Grill 2,000 Ryō +2 Cooking when grilling a Fang, Sky, Coil or Colony cut. ITEM RULES ↗ Butcher’s Roll 1,500 Ryō +2 to the harvest roll when dressing a slain target with edible remains. ITEM RULES ↗"
   },
   {
     "title": "Survival",
