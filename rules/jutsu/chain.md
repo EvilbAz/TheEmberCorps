@@ -20,6 +20,8 @@ permalink: "/rules/jutsu/chain/"
 
 Chain Weapon Bukijutsu use the existing Grapple system rather than a separate restraint system. When a technique says it initiates a Weapon Grapple, the Chain weapon acts as the limbs maintaining the hold. The user is still the grappler for Grapple Offense, Grapple Defense, Control, Pressure, Grip Fighting and every other rule that modifies Grapples.
 
+Declare any optional grapple mode before rolling. Use the listed Delay once for the attack and its hold. A follow-up hold triggered by a Parry or a tripwire counts its Delay from the trigger.
+
 Initiating the Grapple: If a Chain Bukijutsu says it initiates a Weapon Grapple, resolve its weapon Attack first. On the required hit, the target enters a Clinch with the Chain weapon as though it had been hit by Grab, except the Grapple may be established at the Chain weapon's Range. Determine starting Control using the normal opposing Grapple checks. This is not a second attack or Defense.
 
 Using Grapple Jutsu through the Chain: Chain Bukijutsu with Pummel, Trapping, Takedown, Ground Fighting, or Submission use those tags exactly as written in the normal Grapple rules. The Chain weapon supplies the limbs required to perform those techniques, so these Bukijutsu ignore the normal requirement that all four of the user's limbs be free. A Chain weapon actively maintaining a Weapon Grapple can also deliver the qualifying ordinary techniques listed under [Weapon-Assisted Grapple Taijutsu]({{ '/rules/jutsu/grapple/' | relative_url }}#weapon-assisted-grapple-taijutsu). Ordinary Grapple jutsu do not gain range simply because you are holding a Chain weapon; the Weapon Grapple and the technique's required hold must already be established.
@@ -46,6 +48,7 @@ Rank: E
 Stamina: \+3  
 Damage: +max(2, floor(STR/15))dS  
 Speed: \+1  
+Delay: 2  
 Tags: Chain 1, Chain, Attack  
 Effects: Increase weapon Range by 25%, minimum +4 yards, for this Attack. On a full hit, initiate a Weapon Grapple and determine starting Control normally.
 
@@ -60,6 +63,7 @@ Rank: E
 Stamina: \+3  
 Damage: +max(1, floor(STR/15))dS  
 Speed: \+0  
+Delay: 2 when attempting the Weapon Grapple  
 Accuracy: \+1  
 Tags: Chain 1, Chain, Attack  
 Effects: On a full hit, you may deal 20% less final damage and initiate a Weapon Grapple. The target takes −Athletics/5 on the opposing Grapple check used to determine starting Control. While the Weapon Grapple remains a Clinch, the wrapped leg inflicts Immobilization 1\.
@@ -75,6 +79,7 @@ Rank: E
 Stamina: \+5  
 Damage: +max(3, floor(STR/15))dS  
 Speed: \+2  
+Delay: 2 with Pummel  
 Tags: Chain 2, Chain, Attack  
 Effects: If the target is in your Weapon Grapple, this Attack gains Pummel and Trapping 2. On a successful Grapple roll, pull it toward you by up to half your current Control in yards, rounded down. If it cannot move because it is adjacent or anchored, gain +20% Final Damage instead.
 
@@ -89,6 +94,7 @@ Rank: E
 Stamina: \+8  
 Damage: +max(5, floor(STR/15))dS  
 Speed: \+5  
+Delay: 2 with Takedown  
 Special: Stun 2  
 Tags: Chain 3, Chain, Attack  
 Effects: Called Shot to Head/Neck with its penalty reduced by 1\. Apply Stun 2 normally. If the target is in your Weapon Grapple, this technique gains Takedown; on a successful Grapple roll, the target becomes Pinned by the Chain after the Attack resolves.
@@ -137,6 +143,7 @@ Rank: D
 Stamina: \+8  
 Damage: +max(3, floor(STR/10))dS  
 Speed: \+3  
+Delay: 3 with Trapping  
 Tags: Chain 2, Chain, Attack  
 Effects: If the target is in your Weapon Grapple, this technique gains Trapping 4\. On a successful Grapple roll choose an arm or leg. Until the Weapon Grapple ends: arm \= \-2 Accuracy on actions requiring it; leg \= Immobilization 2\. Only one limb may be affected by Cross Snare from you at a time; a new application replaces the previous one.
 
@@ -151,6 +158,7 @@ Rank: D
 Stamina: \+13  
 Damage: +max(4, floor(STR/10))dS  
 Speed: \+6  
+Delay: 3  
 Tags: Chain 3, Chain, Attack  
 Effects: Requires the target to be in your Weapon Grapple. This technique gains Takedown. On a successful Grapple roll, the target becomes Pinned by the Chain and you may choose up to two limbs; each chosen arm takes −Athletics/5 Accuracy on actions requiring it and each chosen leg applies Immobilization 2 while the Pin remains.
 
@@ -178,6 +186,7 @@ Rank: D
 Stamina: 9  
 Upkeep: 2  
 Speed: 8  
+Delay: 3 for the hold after a full Parry  
 Tags: Bukijutsu, Chain, Utility  
 Effects: Gain +Athletics/5 Parry against Melee Attacks and increase Chain weapon Range by 50%, minimum +6 yards. After a full Parry against an attacker in Range, you may initiate a Weapon Grapple, resolving starting Control normally. The chain must be free to hold it; one Parry cannot establish multiple Grapples.
 
@@ -195,6 +204,7 @@ Rank: C
 Stamina: \+9  
 Damage: +max(4, floor(STR/7))dS  
 Speed: \+3  
+Delay: 4  
 Tags: Chain 2, Chain, Attack  
 Effects: Requires the target to be in your Weapon Grapple. This technique gains Trapping 5\. On a successful Grapple roll choose one held weapon and choose Attack or Parry; rolls of that type made with the snared weapon take \-3 while the Weapon Grapple remains. At 8+ Control, the target cannot use that weapon for the chosen purpose until it successfully reduces your Control.
 
@@ -208,6 +218,7 @@ The user moves through their own slack instead of dragging the weapon behind the
 Rank: C  
 Stamina: +7  
 Speed: +1  
+Delay: +4  
 Tags: Link, Chain, Attack  
 Effects: Link to a Chain Weapon Grapple action. If you win its Grapple roll, gain additional Control equal to Athletics/5. If you lose, halve the Control you would lose, rounded down. This cannot establish a Grapple without a legal initiating effect.
 
@@ -221,6 +232,7 @@ Tension is fixed to the environment and used as movement, leverage, or retrieval
 Rank: C  
 Stamina: 11  
 Speed: 7  
+Delay: 4 when pulling a grappled creature  
 Tags: Bukijutsu, Chain, Utility, Movement  
 Effects: Attach the chain to a solid anchor within weapon Range and pull yourself to it, or pull an unattended object up to STR/5 weight units to you. Against a creature in your Weapon Grapple, instead win Grapple Offense against Grapple Defense to pull it up to half your Control in yards, minimum 5, toward you or the anchor. The chain must reach throughout; movement may be vertical.
 
@@ -237,8 +249,9 @@ The chain whips into the path of incoming fire and keeps moving after the deflec
 Rank: B  
 Stamina: 10  
 Speed: 4  
+Delay: 5 for the hold after a full Parry  
 Tags: Chain X, Chain, Utility, Interrupt  
-Effects: Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, catch a physical projectile with the chain. If its attacker is in Chain Range and your chain is unoccupied, immediately initiate a Weapon Grapple against it using your Parry result as the attack Accuracy; it defends normally, then determine Control normally on a hit. This adds no further action time.
+Effects: Parry a Ranged Taijutsu or Projectile Attack with +Athletics/5. On a full success, catch a physical projectile with the chain. If its attacker is in Chain Range and your chain is unoccupied, declare a Weapon Grapple against it using your Parry result as the attack Accuracy; it defends normally, then determine Control normally on a hit. Resolve the Parry at its normal time and the hold after its Delay.
 
 #### ( <span lang="ja">跳ね戻し</span> ) Hane Modoshi - Snap Return
 {:#snap-return .jutsu-technique}
@@ -267,6 +280,7 @@ Rank: A
 Stamina: \+24  
 Damage: +max(8, floor(STR/3))dS  
 Speed: \+6  
+Delay: 6  
 Tags: Chain 3, Chain, Attack  
 Effects: Requires the target to be Pinned by the Chain. This technique gains Submission and Control equal to the greater of 7 or Athletics/3. On a successful Grapple roll, choose a solid anchor within weapon Range and pull the target up to half your current Control in yards toward it. While maintained, the target takes a Dodge penalty of Athletics/5 and cannot voluntarily move farther from the anchor. Consecutive uses automatically hit as for a maintained Submission and apply Suffocation equal to the greater of 1 or half your PDB, rounded down. Destroying the anchor or ending the Weapon Grapple ends this technique.
 
@@ -280,9 +294,10 @@ You route the chain through several anchor points and turn the surrounding groun
 Rank: A  
 Stamina: 18  
 Speed: 8  
+Delay: 6 when the line triggers  
 Range: 20  
 Tags: Bukijutsu, Chain, Utility  
-Effects: Connect up to 3 + Athletics/10 anchor points with your chain, all within weapon Range; the total routed length cannot exceed that Range. The field lasts until you retrieve the chain or a supporting anchor or chain segment is destroyed. When a creature crosses a line, resolve Grapple Offense against Grapple Defense. On success, apply Prone and initiate a Weapon Grapple with it, determining Control normally; the field ends as the chain tightens around that target. The same chain cannot simultaneously hold a creature and form this field.
+Effects: Connect up to 3 + Athletics/10 anchor points with your chain, all within weapon Range; the total routed length cannot exceed that Range. The field lasts until you retrieve the chain or a supporting anchor or chain segment is destroyed. When a creature crosses a line, the chain starts to tighten. At the end of the Delay, resolve Grapple Offense against Grapple Defense. On success, apply Prone and initiate a Weapon Grapple with it, determining Control normally; the field ends as the chain tightens around that target. The same chain cannot simultaneously hold a creature and form this field.
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>

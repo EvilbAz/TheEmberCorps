@@ -305,7 +305,7 @@ Stamina: 5 \+ 5\*X
 Speed: \+ X
 
 Tags: Link  
-Effects: X has a maximum of 5\. This technique is used alongside any interrupt that requires a defensive roll against an opponent’s Accuracy whilst you are at range 0 with that opponent. You take a penalty of X to your roll, if you successfully defend, No Design, No Conception immediately acts as a Grab at no extra cost, using the results of your dodge roll for its Accuracy and Speed (minimum 3). You gain X Control in the subsequent clinch.
+Effects: X has a maximum of 5\. This technique is used alongside any interrupt that requires a defensive roll against an opponent’s Accuracy whilst you are at range 0 with that opponent. You take a penalty of X to your roll, if you successfully defend, No Design, No Conception declares a Grab at no extra cost that resolves 2 IC after the successful defense, using the results of your dodge roll for its Accuracy and Speed (minimum 3). You gain X Control in the subsequent clinch.
 
 #### ( <span lang="ja">龍降ろす</span> ) Ryuorosu - Dragon Takedown
 {:#ryuorosu-dragon-takedown .jutsu-technique}
@@ -317,8 +317,9 @@ Adapted--in purpose, method, and name--from a 'normal' style of martial arts, th
 Stamina: 26  
 Damage: (STR/8)d12  
 Speed: 18  
+Delay: 4  
 Tags: Attack, Blunt, Melee  
-Effects: If you hit, you initiate a clinch with your opponent but you gain a \-10 to your control. Then you may immediately attempt a Submission for no cost.
+Effects: If you hit, you initiate a clinch with your opponent but you gain a \-10 to your control. On that hit you may declare a Submission for no cost. Resolve it after its own Delay.
 
 #### ( <span lang="ja">掃除烈風</span> ) Souji Reppuu - Sweeping Gale
 {:#souji-reppuu-sweeping-gale .jutsu-technique}
@@ -345,6 +346,7 @@ Grab the torso or hips, take your opponent off balance and throw them over your 
 Stamina: 18  
 Damage: (STR/5)d10  
 Speed: 15  
+Delay: 4 with Pummel  
 Accuracy: \-3  
 Tags: Attack, Blunt, Melee  
 Effects: When used while in a Grapple this jutsu gains: Pummel, Control 6\. If Suplex inflicts a wound, it is dealt to the opponent's head.
@@ -621,9 +623,10 @@ A martial artist known as the Faceless Master is said to have developed this tec
 
 Stamina: \+10  
 Speed: \+6  
+Delay: +6  
 Requires: Dragon Takedown  
 Tags: Link  
-Effects: This may be added to any jutsu with the Trapping or Submission Tags. Make a Melee Taijutsu attack; if it hits, you initiate a grapple and then immediately perform the move this jutsu is linked to.
+Effects: This may be added to any jutsu with the Trapping or Submission Tags. Make a Melee Taijutsu attack; if it hits, you initiate a grapple and apply the linked move as part of the same resolution. Include both the move’s Delay and this Link’s +6 when declaring the attack.
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>

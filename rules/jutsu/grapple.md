@@ -18,6 +18,14 @@ permalink: "/rules/jutsu/grapple/"
 
 Begin with a Clinch, use a Takedown to establish a Pin, then apply holds or strikes. To escape, use Break Clinch or Escape Pin; Escape Grapple offers an alternative.
 
+**Changing holds.** Each use of a ranked grapple move has Delay equal to 1 + its rank (E = 1). Count the Delay from declaration. The move takes effect when its Delay ends, and Speed determines your next action as usual. For example, declare an unmodified Grab on IC 10, resolve it on IC 12 and act again on IC 18.
+
+| Rank | E | D | C | B | A |
+| --- | --- | --- | --- | --- | --- |
+| Delay (IC) | 2 | 3 | 4 | 5 | 6 |
+
+Use the same timing for a repeated submission or a move made through a weapon. A grapple Link adds its listed Delay to the underlying action. If you declare an escape Link after a failed roll, count only the Link’s Delay from that roll before applying its result.
+
 Certain situations within a grapple may call for a 'grapple roll'. When this happens, the player that triggered the Check uses Grapple Offense and the other rolls Defense. In the event of an opposing check (such as determining Control) Grapple offense loses its base 10 and gains 1d20).
 
 \[M10\] Grapple Off: 10 \+ Control \+ STR/10 \+ Any relevant bonuses/penalties
@@ -26,7 +34,7 @@ Certain situations within a grapple may call for a 'grapple roll'. When this hap
 
 While in a grapple all participants gain access to the following actions:
 
-Break Clinch (Stamina 5 \+ X/2, Speed 5 \+ X/2, Delay X, Control 0\) Must be used in a clinch. You make a Grapple Defense roll versus your opponent’s Offense. If you succeed, the grapple ends immediately. You gain a \+X bonus to the roll. The maximum of X starts at 1 and increases by 1 for every 5 IC the current grapple has lasted.
+Break Clinch (Stamina 5 \+ X/2, Speed 5 \+ X/2, Delay X (minimum 1), Control 0\) Must be used in a clinch. You make a Grapple Defense roll versus your opponent’s Offense. If you succeed, the grapple ends immediately. You gain a \+X bonus to the roll. The maximum of X starts at 1 and increases by 1 for every 5 IC the current grapple has lasted.
 
 Escape Pin (Stamina 7 \+ X/2, Speed 6, Delay 10, Control 0\) You make a Grapple Defense roll versus your opponent’s Offense. If you succeed, the grapple ends immediately. You gain a \+X bonus to the roll. The maximum of X starts at 1 and increases by 1 for every 5 IC the current grapple has lasted.
 
@@ -60,7 +68,7 @@ The following ordinary Grapple Taijutsu may be performed through a qualifying We
 | **Kimura** | The weapon must secure the targeted arm and provide a second point of leverage to twist it; a single hook without a second grip is insufficient. |
 | **Mae Hadaka Jime: Guillotine Choke** | A flexible part of the weapon must be wrapped around the neck. Its special rules for use from a Clinch still apply. |
 
-**Resolution:** Use the jutsu's printed Stamina, Speed, Control, tags, Grapple roll, Clinch or Pin prerequisite, and other effects without modification. Performing the jutsu through a weapon does not make a separate weapon Attack, add the weapon's damage or Damage Bonus, apply its attack Specials, gain Bukijutsu rank damage, or advance or refresh a Bukijutsu Chain. Only bonuses that explicitly apply to Weapon Grapples or Grapple rolls still apply. The weapon remains occupied maintaining the hold.
+**Resolution:** Use the jutsu's printed Stamina, Speed, Delay, Control, tags, Grapple roll, Clinch or Pin prerequisite, and other effects without modification. Performing the jutsu through a weapon does not make a separate weapon Attack, add the weapon's damage or Damage Bonus, apply its attack Specials, gain Bukijutsu rank damage, or advance or refresh a Bukijutsu Chain. Only bonuses that explicitly apply to Weapon Grapples or Grapple rolls still apply. The weapon remains occupied maintaining the hold.
 
 **Limb limits:** A weapon supplies only the grips or limbs its own rules allow. A Chain weapon maintaining a Weapon Grapple supplies the required limbs for the eligible techniques as described in [Chain Weapon Bukijutsu]({{ '/rules/jutsu/chain/' | relative_url }}#weapon-grapples). A weapon that counts as **one limb** can secure only its chosen arm or leg; it cannot by itself produce a full-body hold, a Weapon Pin, or a technique needing multiple separate grips. Any additional bodily grip or leverage must actually be available.
 
@@ -107,15 +115,15 @@ When you pin an opponent, as the aggressor, you bring your opponent down to the 
 
 \> The person being pinned has their speed reduced to 0
 
-\> You may end the pin at any time reverting back to a clinch with a Speed 5, Control 5 action.
+\> You may end the pin at any time reverting back to a clinch with a Speed 5, Delay 1, Control 5 action.
 
 You gain access to the following action:  
-Set-up (Stamina 10, Speed  5, Control 5\) Make an opposed grapple roll. If you succeed, your next attack against them within 10 IC gains \+3 to its accuracy and \+0.5 to its Damage Bonus for each point their Grapple Roll fails to meet yours.
+Set-up (Stamina 10, Speed 5, Delay 1, Control 5\) Make an opposed grapple roll. If you succeed, your next attack against them within 10 IC gains \+3 to its accuracy and \+0.5 to its Damage Bonus for each point their Grapple Roll fails to meet yours.
 
 ### Pummel
 {:#pummel}
 
-While in a grapple this modifies an attack turning it into a grapple jutsu. You may choose to attack as normal or use your grapple offense vs your opponents grapple defense. If the attack has an accuracy penalty your grapple offense gains that penalty. The defender may forgo their grapple defense to take any viable defense that does not dodge or parry.
+While in a grapple this modifies an attack turning it into a grapple jutsu. When using Pummel, use the attack’s rank for grapple Delay (Delay 1 for an unranked Basic Attack). If the attack already has a longer Delay, use that value. Apply grapple Delay once even if the attack also has another grapple tag. You may choose to attack as normal or use your grapple offense vs your opponents grapple defense. If the attack has an accuracy penalty your grapple offense gains that penalty. The defender may forgo their grapple defense to take any viable defense that does not dodge or parry.
 
 ## E-Rank
 {:#e-rank-3 .jutsu-rank-heading}
@@ -129,7 +137,8 @@ You grab onto an opponent, with the intent to not let go\! It's not normally a p
 
 Stamina: 6 on a miss, 12 on a hit  
 Accuracy: \+2  
-Speed: 12  
+Speed: 8  
+Delay: 2  
 Tags: Attack, Melee  
 Effects: On a hit, you and the target enter a Clinch.
 
@@ -142,6 +151,7 @@ Pin your opponent’s dominant hand against their chest with your arm.
 
 Stamina: 15  
 Speed: 6  
+Delay: 2  
 Special: Control 1
 
 Tags: Trapping 4, Ground Fighting 4  
@@ -157,6 +167,7 @@ You squeeze someone's arm between your knees and pull. This hurts…a lot.
 Stamina: As Basic Attack \+ 3  
 Damage: As Basic Attack \+ (Your Control)dX  
 Speed: 7  
+Delay: 2  
 Special: Control 5
 
 Tags: Submission  
@@ -172,6 +183,7 @@ Similar to an arm bar you push their knee up and pull the leg to cause pain
 Stamina: As Basic Attack \+ 3  
 Damage: As Basic Attack \+ (5 \+ Your Control)dX  
 Speed: 10  
+Delay: 2  
 Special: Control 5
 
 Tags: Submission  
@@ -186,7 +198,7 @@ Being held in place by one person and then punched into submission by all their 
 
 Stamina: \+ X/2  
 Speed: \+X/3  
-Delay: \+X/3  
+Delay: +2  
 Tags: Link  
 Effects: This is added on to a Break Clinch or Escape Pin. X has a max of the X on your Break Clinch or Escape Pin action and all calculations with it are rounded up. You gain a \+X to the roll and increase the actions stamina and speed by this technique. You may use it retroactively after failing a Break Clinch or Escape Pin roll but the Stamina is increased to \+ 2\*X.
 
@@ -202,6 +214,7 @@ You slide your arm underneath your opponents to secure a grip and push upwards t
 
 Stamina: 12  
 Speed: 4  
+Delay: 3  
 Special: Control 1
 
 Tags: Trapping 3  
@@ -216,6 +229,7 @@ You slide your arm above your opponents to secure a grip and push downwards to m
 
 Stamina: 12  
 Speed: 4  
+Delay: 3  
 Special: Control 1
 
 Tags: Trapping 3  
@@ -230,6 +244,7 @@ Crouching low and dropping to a knee you seize your opponent's leg. Then forcing
 
 Stamina: 15  
 Speed: 6  
+Delay: 3  
 Special: Control 6  
 Tags: Takedown  
 Effects: Even if you fail this grapple roll your opponent is left at immobility 4 until the next time they use the Repositioning action.
@@ -243,6 +258,7 @@ You wrap a limb or flexible material around their neck. While ninja have stronge
 
 Stamina: 20  
 Speed: 10  
+Delay: 3  
 Special: Control 9  
 Tags: Submission  
 Effects: After applying this submission every consecutive use has its Stamina reduced by 5, automatically hits, and does not reduce your control, your opponent gains \+1 suffocation and their control is reduced by 2\.
@@ -256,6 +272,7 @@ You lay back on the ground and attempt to control your opponent with your legs. 
 
 Stamina: 14  
 Speed: 8  
+Delay: 3  
 Special: Control 2  
 Tags: Ground Fighting 6, 2 Legs  
 Effects: This may only be used while being pinned and you may use your grapple defense bonus \+ 10 in place of your grapple offense. Your speed is reduced to 0 until the grapple changes category.
@@ -266,7 +283,8 @@ Effects: This may only be used while being pinned and you may use your grapple d
 <span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span> <span class="jutsu-keyword">Link</span></span>
 
 Stamina: \+X if Successful  
-Speed: \+X, Delay 4+X  
+Speed: \+X  
+Delay: +3  
 Tags: Link  
 Effects: This is added on to an Escape Pin action and on a success the pin is reversed with you pinning your opponent. You gain a \+X to the roll and increase the actions stamina and speed by this technique. You may use it retroactively after failing a Break Clinch or Escape Pin roll but the Stamina is increased to \+ 2\*X.
 
@@ -282,6 +300,7 @@ You slide down to a knee and wrap around their leg with your arms. This gives yo
 
 Stamina: 16  
 Speed: 8  
+Delay: 4  
 Special: Control 4
 
 Tags: Trapping 6  
@@ -296,6 +315,7 @@ You slide your arm above your opponents to secure a grip and push downwards to m
 
 Stamina: 18  
 Speed: 10  
+Delay: 4  
 Special: Control 4
 
 Tags: Trapping 6, Ground Fighting 4
@@ -309,6 +329,7 @@ Effects: This may be used after an Overhook and in a Clinch or Pin. The control 
 
 Stamina: 16  
 Speed: 4  
+Delay: 4  
 Special: Control 1  
 Tags: Interrupt, Ground Fighting 5  
 Effects: This may be used in reaction to an opponent using the Guard jutsu.
@@ -322,6 +343,7 @@ After taking your opponent to the ground you force them onto their back and stra
 
 Stamina: 18  
 Speed: 10  
+Delay: 4  
 Special: Control 5  
 Tags: Ground Fighting 10  
 Effects: Your speed is reduced to 0\.
@@ -338,6 +360,7 @@ You grab your opponent's wrist and wrap your other arm around theirs to create a
 
 Stamina: 19  
 Speed: 10  
+Delay: 5  
 Special: Control 2
 
 Tags: Trapping 4, Ground Fighting 6  
@@ -352,6 +375,7 @@ You bring up both of your opponents legs and slam them to the ground. This is a 
 
 Stamina: 18  
 Speed: 8  
+Delay: 5  
 Special: Control 7, Stun 8  
 Tags: Takedown  
 Effects: After pinning your opponent they lose 2 control.
@@ -366,6 +390,7 @@ A general term for any position where you press a muscle into a bone. This cause
 Stamina: As Basic Attack \+ 10  
 Damage: As Basic Attack \+ (8 \+ Your Control)dX  
 Speed: 12  
+Delay: 5  
 Special: Control 7
 
 Tags: Submission  
@@ -384,9 +409,10 @@ With a grip on your opponent's arm you violently twist into a roll. When it work
 Stamina: 30  
 Damage: (STR/10)d12  
 Speed: 10  
+Delay: 6  
 Special: Control 8  
 Tags: Interrupt  
-Effects: While in a clinch you can use this to interrupt an opponent's attack forcing a grapple roll. On a success you prevent the attack and if you succeed by 5+ you pin the enemy. On a fail you may still defend as normal but with a \-3 penalty to any rolls.
+Effects: While in a clinch, declare this Interrupt in response to an opponent’s attack. Hold that attack’s resolution until the reversal’s Delay ends, then make the grapple roll. On a success you prevent the attack and if you succeed by 5+ you pin the enemy. On a fail you may still defend as normal but with a \-3 penalty to any rolls.
 
 #### ( <span lang="ja">秘術・羽交い締め</span> ) Hijutsu: Hagai Jime - Secret Technique: Full Nelson
 {:#hijutsu-full-nelson-secret-technique-full-nelson .jutsu-technique}
@@ -397,6 +423,7 @@ With both arms you encircle the opponent's arm under the armpit, and secure at t
 
 Stamina: 28  
 Speed: 10  
+Delay: 6  
 Special: Control 8  
 Tags: Submission, Trapping 10  
 Effects: Your opponent gains immobility 6 and you gain half as much. After applying this submission every consecutive use has its Stamina reduced by 10, Control reduced to 0, automatically hits and your opponent loses 5 Control. This may allow you to increase your control to double its normal maximum until this jutsu ends.
@@ -410,6 +437,7 @@ A powerful chokehold from the front encircling your opponents neck like a guillo
 
 Stamina: 28  
 Speed: 14  
+Delay: 6  
 Special: Control 8  
 Tags: Submission  
 Effects: After applying this submission every consecutive use has its Stamina reduced by 5, automatically hits and does not reduce your control.You may use this in a clinch but its control cost is increased by 5\. Your opponent is pinned and after applying this submission every consecutive use you maintain this Submission your opponent rolls grapple defense vs your offense. Regardless if they pass they gain 1 suffocation, \+1 for every 7 they failed by.
@@ -422,7 +450,8 @@ Effects: After applying this submission every consecutive use has its Stamina re
 Curling up into a ball as an opponent chokes you out is a natural reaction, but as a master grappler you know how to turn this position into a strength and break out of whatever hold your opponent has you in.
 
 Stamina: \+X if successful  
-Speed: \+X, Delay 4+X  
+Speed: \+X  
+Delay: +6  
 Tags: Link  
 Effects: This is added on to an Escape Pin. The X in this jutsu’s cost is the amount you failed by. On a failure nothing happens, on a success you escape the pin and have you and your opponents control set to 0\.
 

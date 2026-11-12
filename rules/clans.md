@@ -1751,9 +1751,9 @@ Options cost AP and do not advance your IC. Calculate their effective Speed for 
 
 - Retrieve — 1 AP per object: pick up unattended objects or draw objects from your own inventory. Tendrils hold at most CHA/8 objects, rounded down, and can support Small or Medium weapons. Declare each object’s position; moving an object within Range is another Retrieve option.
 
-- Grab — 5 AP: attack one creature within Range using Grab’s Accuracy +2 and effective Base Speed 12. A full hit establishes a Clinch with one tendril. Determine Control normally using your Grapple statistics, CHA for STR and RES, and +4 Grapple Offense. The tendril supplies the required limbs. You may hold one creature at a time; its position is the tendril’s origin for Bind.
+- Grab — 5 AP: attack one creature within Range using Grab’s Accuracy +2, effective Base Speed 8 and Delay 2. A full hit establishes a Clinch with one tendril. Determine Control normally using your Grapple statistics, CHA for STR and RES, and +4 Grapple Offense. The tendril supplies the required limbs. You may hold one creature at a time; its position is the tendril’s origin for Bind.
 
-- Bind — variable AP: perform a known Grapple Jutsu or basic Grapple Action through the hold. AP replaces Stamina and IC advancement; pay Chakra, Control and other costs normally. Use CHA for STR and NDB for PDB. Meet the usual Clinch or Pin requirement. Track Control using the tendril’s options and the victim’s Actions; your unrelated Actions and damage do not change it. The victim may Break Clinch or Escape Pin normally. The hold halves its movement, but does not drag you. A pinned victim remains stationary.
+- Bind — variable AP: perform a known Grapple Jutsu or basic Grapple Action through the hold. Grab and Bind resolve after the chosen move’s Delay, measured from the option’s declaration. AP replaces Stamina and IC advancement; pay Chakra, Control and other costs normally. Use CHA for STR and NDB for PDB. Meet the usual Clinch or Pin requirement. Track Control using the tendril’s options and the victim’s Actions; your unrelated Actions and damage do not change it. The victim may Break Clinch or Escape Pin normally. The hold halves its movement, but does not drag you. A pinned victim remains stationary.
 
 - Attack — variable AP: make one Basic Weapon Attack or Multi-Throw using objects held by the tendrils. AP replaces Stamina; use your weapon Accuracy and NDB for PDB. Weapon Focus does not apply. Every target must be within both the weapon’s Range from its declared tendril position and this Jutsu’s Range from you. WDP accrues using the Attack’s normal Stamina cost.
 
@@ -6045,7 +6045,7 @@ Basic Weapon Attack: each target defends separately and takes 70% damage before 
 
 Disarm: use the Chain’s weapon Speed +4 and its normal Accuracy. The target defends against a non-damaging Weapon Attack; Parry is at −3. A hit knocks the held item up to CHA/10 yards, reduced for Partial Defense. Observe the normal size restrictions.
 
-Grab: use Base Speed 12 and Accuracy +2. On a full hit, establish a normal Clinch and determine Control. A copy’s hold ends when the Action resolves. Only the real Chain can maintain its Clinch, and it holds only that declared target.
+Grab: use Base Speed 8, Delay 2 and Accuracy +2. On a full hit, establish a normal Clinch and determine Control. A copy’s hold ends when the Action resolves. Only the real Chain can maintain its Clinch, and it holds only that declared target.
 
 All attacks form one Action. Copies disappear after resolution and do not duplicate stored seals, ammunition or other expendable resources. Track any costs and WDP on the real Chain, once per casting rather than once per copy. Chain Mimicry has no Bukijutsu Chain value.
 

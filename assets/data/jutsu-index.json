@@ -273,7 +273,8 @@
     "stats": {
       "stamina": "+3",
       "damage": "+max(1, floor(STR/15))dS",
-      "speed": "+0"
+      "speed": "+0",
+      "delay": "2 when attempting the Weapon Grapple"
     },
     "url": "/rules/jutsu/chain/#ankle-catch"
   },
@@ -309,7 +310,8 @@
     "stats": {
       "stamina": "As Basic Attack + 3",
       "damage": "As Basic Attack + (Your Control)dX",
-      "speed": "7"
+      "speed": "7",
+      "delay": "2"
     },
     "url": "/rules/jutsu/grapple/#arm-bar"
   },
@@ -325,7 +327,8 @@
     ],
     "stats": {
       "stamina": "15",
-      "speed": "6"
+      "speed": "6",
+      "delay": "2"
     },
     "url": "/rules/jutsu/grapple/#arm-pin"
   },
@@ -341,7 +344,8 @@
     "stats": {
       "stamina": "30",
       "damage": "(STR/10)d12",
-      "speed": "10"
+      "speed": "10",
+      "delay": "6"
     },
     "url": "/rules/jutsu/grapple/#ude-gaeshi-arm-reversal"
   },
@@ -1333,7 +1337,8 @@
     "stats": {
       "stamina": "+3",
       "damage": "+max(2, floor(STR/15))dS",
-      "speed": "+1"
+      "speed": "+1",
+      "delay": "2"
     },
     "url": "/rules/jutsu/chain/#casting-lash"
   },
@@ -2084,7 +2089,8 @@
     "stats": {
       "stamina": "9",
       "upkeep": "2",
-      "speed": "8"
+      "speed": "8",
+      "delay": "3 for the hold after a full Parry"
     },
     "url": "/rules/jutsu/chain/#coiled-guard"
   },
@@ -2189,7 +2195,8 @@
     "stats": {
       "stamina": "As Basic Attack + 10",
       "damage": "As Basic Attack + (8 + Your Control)dX",
-      "speed": "12"
+      "speed": "12",
+      "delay": "5"
     },
     "url": "/rules/jutsu/grapple/#compression-lock"
   },
@@ -2494,7 +2501,8 @@
     "stats": {
       "stamina": "+8",
       "damage": "+max(3, floor(STR/10))dS",
-      "speed": "+3"
+      "speed": "+3",
+      "delay": "3 with Trapping"
     },
     "url": "/rules/jutsu/chain/#cross-snare"
   },
@@ -3135,7 +3143,8 @@
     "stats": {
       "stamina": "+13",
       "damage": "+max(4, floor(STR/10))dS",
-      "speed": "+6"
+      "speed": "+6",
+      "delay": "3"
     },
     "url": "/rules/jutsu/chain/#double-bind"
   },
@@ -3204,7 +3213,8 @@
     ],
     "stats": {
       "stamina": "18",
-      "speed": "8"
+      "speed": "8",
+      "delay": "5"
     },
     "url": "/rules/jutsu/grapple/#double-leg-takedown"
   },
@@ -3282,7 +3292,8 @@
     "stats": {
       "stamina": "26",
       "damage": "(STR/8)d12",
-      "speed": "18"
+      "speed": "18",
+      "delay": "4"
     },
     "url": "/rules/jutsu/unarmed/#ryuorosu-dragon-takedown"
   },
@@ -4154,7 +4165,7 @@
     "stats": {
       "stamina": "+ X/2",
       "speed": "+X/3",
-      "delay": "+X/3"
+      "delay": "+2"
     },
     "url": "/rules/jutsu/grapple/#escape-grapple"
   },
@@ -5072,7 +5083,8 @@
     ],
     "stats": {
       "stamina": "18",
-      "speed": "10"
+      "speed": "10",
+      "delay": "4"
     },
     "url": "/rules/jutsu/grapple/#front-headlock"
   },
@@ -5518,7 +5530,8 @@
     ],
     "stats": {
       "stamina": "6 on a miss, 12 on a hit",
-      "speed": "12"
+      "speed": "8",
+      "delay": "2"
     },
     "url": "/rules/jutsu/grapple/#grab"
   },
@@ -5754,7 +5767,8 @@
     ],
     "stats": {
       "stamina": "14",
-      "speed": "8"
+      "speed": "8",
+      "delay": "3"
     },
     "url": "/rules/jutsu/grapple/#guard"
   },
@@ -5770,7 +5784,8 @@
     ],
     "stats": {
       "stamina": "16",
-      "speed": "4"
+      "speed": "4",
+      "delay": "4"
     },
     "url": "/rules/jutsu/grapple/#guard-pass"
   },
@@ -5841,7 +5856,8 @@
     ],
     "stats": {
       "stamina": "28",
-      "speed": "14"
+      "speed": "14",
+      "delay": "6"
     },
     "url": "/rules/jutsu/grapple/#mae-hadaka-jime-guillotine-choke"
   },
@@ -6317,7 +6333,8 @@
     ],
     "stats": {
       "stamina": "16",
-      "speed": "8"
+      "speed": "8",
+      "delay": "4"
     },
     "url": "/rules/jutsu/grapple/#high-c"
   },
@@ -6688,7 +6705,8 @@
     ],
     "stats": {
       "stamina": "10",
-      "speed": "4"
+      "speed": "4",
+      "delay": "5 for the hold after a full Parry"
     },
     "url": "/rules/jutsu/chain/#intercepting-coil"
   },
@@ -6850,7 +6868,8 @@
     ],
     "stats": {
       "stamina": "19",
-      "speed": "10"
+      "speed": "10",
+      "delay": "5"
     },
     "url": "/rules/jutsu/grapple/#kimura"
   },
@@ -6883,7 +6902,8 @@
     "stats": {
       "stamina": "As Basic Attack + 3",
       "damage": "As Basic Attack + (5 + Your Control)dX",
-      "speed": "10"
+      "speed": "10",
+      "delay": "2"
     },
     "url": "/rules/jutsu/grapple/#knee-bar"
   },
@@ -7410,7 +7430,8 @@
     ],
     "stats": {
       "stamina": "+10",
-      "speed": "+6"
+      "speed": "+6",
+      "delay": "+6"
     },
     "url": "/rules/jutsu/unarmed/#shishi-keishi-lion-execution"
   },
@@ -8024,7 +8045,8 @@
     ],
     "stats": {
       "stamina": "18",
-      "speed": "10"
+      "speed": "10",
+      "delay": "4"
     },
     "url": "/rules/jutsu/grapple/#mount"
   },
@@ -8321,7 +8343,8 @@
     "stats": {
       "stamina": "+8",
       "damage": "+max(5, floor(STR/15))dS",
-      "speed": "+5"
+      "speed": "+5",
+      "delay": "2 with Takedown"
     },
     "url": "/rules/jutsu/chain/#neck-loop"
   },
@@ -8573,7 +8596,8 @@
     ],
     "stats": {
       "stamina": "12",
-      "speed": "4"
+      "speed": "4",
+      "delay": "3"
     },
     "url": "/rules/jutsu/grapple/#overhook"
   },
@@ -9333,7 +9357,8 @@
     ],
     "stats": {
       "stamina": "20",
-      "speed": "10"
+      "speed": "10",
+      "delay": "3"
     },
     "url": "/rules/jutsu/grapple/#hadaka-jime-rear-naked-choke"
   },
@@ -9381,7 +9406,8 @@
     "stats": {
       "stamina": "+5",
       "damage": "+max(3, floor(STR/15))dS",
-      "speed": "+2"
+      "speed": "+2",
+      "delay": "2 with Pummel"
     },
     "url": "/rules/jutsu/chain/#reel-and-strike"
   },
@@ -9622,7 +9648,8 @@
     ],
     "stats": {
       "stamina": "+X if Successful",
-      "speed": "+X, Delay 4+X"
+      "speed": "+X",
+      "delay": "+3"
     },
     "url": "/rules/jutsu/grapple/#reversal"
   },
@@ -10493,7 +10520,8 @@
     ],
     "stats": {
       "stamina": "28",
-      "speed": "10"
+      "speed": "10",
+      "delay": "6"
     },
     "url": "/rules/jutsu/grapple/#hijutsu-full-nelson-secret-technique-full-nelson"
   },
@@ -11014,7 +11042,8 @@
     ],
     "stats": {
       "stamina": "15",
-      "speed": "6"
+      "speed": "6",
+      "delay": "3"
     },
     "url": "/rules/jutsu/grapple/#single-leg-takedown"
   },
@@ -11120,7 +11149,8 @@
     ],
     "stats": {
       "stamina": "+7",
-      "speed": "+1"
+      "speed": "+1",
+      "delay": "+4"
     },
     "url": "/rules/jutsu/chain/#slip-step"
   },
@@ -11837,7 +11867,8 @@
     "stats": {
       "stamina": "18",
       "damage": "(STR/5)d10",
-      "speed": "15"
+      "speed": "15",
+      "delay": "4 with Pummel"
     },
     "url": "/rules/jutsu/unarmed/#suplex"
   },
@@ -11874,7 +11905,8 @@
     "stats": {
       "stamina": "+24",
       "damage": "+max(8, floor(STR/3))dS",
-      "speed": "+6"
+      "speed": "+6",
+      "delay": "6"
     },
     "url": "/rules/jutsu/chain/#suspension-hold"
   },
@@ -12068,7 +12100,8 @@
     ],
     "stats": {
       "stamina": "11",
-      "speed": "7"
+      "speed": "7",
+      "delay": "4 when pulling a grappled creature"
     },
     "url": "/rules/jutsu/chain/#tension-line"
   },
@@ -12503,6 +12536,7 @@
     "stats": {
       "stamina": "18",
       "speed": "8",
+      "delay": "6 when the line triggers",
       "range": "20"
     },
     "url": "/rules/jutsu/chain/#tripwire-field"
@@ -12537,7 +12571,8 @@
     ],
     "stats": {
       "stamina": "+X if successful",
-      "speed": "+X, Delay 4+X"
+      "speed": "+X",
+      "delay": "+6"
     },
     "url": "/rules/jutsu/grapple/#turtle"
   },
@@ -12598,7 +12633,8 @@
     ],
     "stats": {
       "stamina": "12",
-      "speed": "4"
+      "speed": "4",
+      "delay": "3"
     },
     "url": "/rules/jutsu/grapple/#underhook"
   },
@@ -13708,7 +13744,8 @@
     "stats": {
       "stamina": "+9",
       "damage": "+max(4, floor(STR/7))dS",
-      "speed": "+3"
+      "speed": "+3",
+      "delay": "4"
     },
     "url": "/rules/jutsu/chain/#weapon-snare"
   },
