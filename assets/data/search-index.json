@@ -9429,6 +9429,34 @@
     "text": "Shop 7,500 Ryō · Materials 938 Ryō · TN 30 · 10 AP Encased Head armor. Durability 300; Absorption 17%; Armor Immobilization -3; Stealth -3; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -5 Awareness; consecutive searches gain two less bonus. Basic Features (6 AP): Absorption +2 percentage points."
   },
   {
+    "title": "Kilnrunner Hood",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#kilnrunner-hood",
+    "text": "Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP Mobile Head armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -2 Awareness. Basic Features (3 AP): Reduce Burns from hits to this location by 3."
+  },
+  {
+    "title": "Nightjar Sash Hood",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#nightjar-sash-hood",
+    "text": "Shop 6,500 Ryō · Materials 813 Ryō · TN 26 · 8 AP Mobile Head armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth +1; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -2 Awareness. Basic Features (5 AP): Stealth +2. Reduce Bleed from hits to this location by 1."
+  },
+  {
+    "title": "Lamplighter Sallet",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#lamplighter-sallet",
+    "text": "Shop 6,000 Ryō · Materials 750 Ryō · TN 24 · 7 AP Protective Head armor. Durability 200; Absorption 11%; Armor Immobilization -2; Stealth -2; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -4 Awareness; consecutive searches gain one less bonus. Basic Features (5 AP): Absorption +1 percentage point. Reduce Burns from hits to this location by 2."
+  },
+  {
+    "title": "Pilgrim Bell Helm",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#pilgrim-bell-helm",
+    "text": "Shop 7,000 Ryō · Materials 875 Ryō · TN 28 · 9 AP Encased Head armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -5 Awareness; consecutive searches gain two less bonus. Basic Features (5 AP): Reduce Stun from hits to this location by 3. Reduce incoming Knockback by 2."
+  },
+  {
     "title": "Torso / Abdomen",
     "volume": "Equipment & Crafting",
     "number": "VI",
@@ -9476,6 +9504,34 @@
     "number": "VI",
     "url": "/rules/equipment/#gatewarden-cuirass",
     "text": "Shop 7,000 Ryō · Materials 875 Ryō · TN 28 · 9 AP Encased Torso / Abdomen armor. Durability 420; Absorption 20%; Armor Immobilization -3; Stealth -3; Equip Speed 16; Remove Delay 8. -4 Dodge. Basic Features (4 AP): Durability +20%."
+  },
+  {
+    "title": "Courier’s Quilt",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#couriers-quilt",
+    "text": "Shop 7,500 Ryō · Materials 938 Ryō · TN 30 · 10 AP Mobile Torso / Abdomen armor. Durability 165; Absorption 10%; Armor Immobilization -1; Stealth +1; Equip Speed 16; Remove Delay 8. -1 Dodge. Basic Features (6 AP): Stealth +2. Durability +10%."
+  },
+  {
+    "title": "Reedbank Brigandine",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#reedbank-brigandine",
+    "text": "Shop 6,500 Ryō · Materials 813 Ryō · TN 26 · 8 AP Protective Torso / Abdomen armor. Durability 275; Absorption 15%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. -3 Dodge. Basic Features (5 AP): Reduce Bleed from hits to this location by 3. Durability +10%."
+  },
+  {
+    "title": "Kilnwatch Coat",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#kilnwatch-coat",
+    "text": "Shop 7,500 Ryō · Materials 938 Ryō · TN 30 · 10 AP Protective Torso / Abdomen armor. Durability 250; Absorption 16%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. -3 Dodge. Basic Features (7 AP): Reduce Burns from hits to this location by 4. Absorption +1 percentage point."
+  },
+  {
+    "title": "Siege Bell Breastplate",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#siege-bell-breastplate",
+    "text": "Shop 7,500 Ryō · Materials 938 Ryō · TN 30 · 10 AP Encased Torso / Abdomen armor. Durability 350; Absorption 20%; Armor Immobilization -3; Stealth -3; Equip Speed 16; Remove Delay 8. -4 Dodge. Basic Features (5 AP): Reduce incoming Knockback by 3. Reduce Stun from hits to this location by 2."
   },
   {
     "title": "Arms / Hands",
@@ -9527,6 +9583,34 @@
     "text": "Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP Encased Arms / Hands armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. Basic Features (3 AP): Reduce Stun by 1 and Bleed by 2 from hits to this location."
   },
   {
+    "title": "Ashpicker Wraps",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#ashpicker-wraps",
+    "text": "Shop 6,000 Ryō · Materials 750 Ryō · TN 24 · 7 AP Mobile Arms / Hands armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth 0; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +2 Seal Speed. Basic Features (5 AP): Reduce Burns from hits to this location by 3. Stealth +1."
+  },
+  {
+    "title": "Bellringer Sleeves",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#bellringer-sleeves",
+    "text": "Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP Protective Arms / Hands armor. Durability 220; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +3 Seal Speed; -1 Parry. Basic Features (5 AP): Reduce Stun from hits to this location by 3. Durability +10%."
+  },
+  {
+    "title": "Anvil Fists",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#anvil-fists",
+    "text": "Shop 7,000 Ryō · Materials 875 Ryō · TN 28 · 9 AP Encased Arms / Hands armor. Durability 390; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. Basic Features (6 AP): Durability +30%."
+  },
+  {
+    "title": "Briarproof Kote",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#briarproof-kote",
+    "text": "Shop 7,500 Ryō · Materials 938 Ryō · TN 30 · 10 AP Encased Arms / Hands armor. Durability 300; Absorption 16%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. Basic Features (7 AP): Reduce Bleed from hits to this location by 4. Absorption +1 percentage point."
+  },
+  {
     "title": "Legs / Feet",
     "volume": "Equipment & Crafting",
     "number": "VI",
@@ -9573,7 +9657,35 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#quarry-sabatons",
-    "text": "Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP Encased Legs / Feet armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 14; Remove Delay 7. Reduce Knockback by 50%. -20% Movement Speed; -5 Athletics. Basic Features (3 AP): Reduce incoming Knockback by 3. Browse the illustrated Pre-Made Armor Catalogue"
+    "text": "Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP Encased Legs / Feet armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 14; Remove Delay 7. Reduce Knockback by 50%. -20% Movement Speed; -5 Athletics. Basic Features (3 AP): Reduce incoming Knockback by 3."
+  },
+  {
+    "title": "Marshwalker Tabi",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#marshwalker-tabi",
+    "text": "Shop 6,000 Ryō · Materials 750 Ryō · TN 24 · 7 AP Mobile Legs / Feet armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth +1; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -10% Movement Speed; -2 Athletics. Basic Features (5 AP): Stealth +2. Reduce Bleed from hits to this location by 1."
+  },
+  {
+    "title": "Charcoal Burner’s Spats",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#charcoal-burners-spats",
+    "text": "Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP Protective Legs / Feet armor. Durability 220; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -15% Movement Speed; -3 Athletics. Basic Features (5 AP): Reduce Burns from hits to this location by 3. Durability +10%."
+  },
+  {
+    "title": "Tollgate Shin Guards",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#tollgate-shin-guards",
+    "text": "Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP Protective Legs / Feet armor. Durability 200; Absorption 11%; Armor Immobilization -2; Stealth -2; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -15% Movement Speed; -3 Athletics. Basic Features (5 AP): Reduce Stun from hits to this location by 2. Absorption +1 percentage point."
+  },
+  {
+    "title": "Ironroot Treads",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#ironroot-treads",
+    "text": "Shop 7,500 Ryō · Materials 938 Ryō · TN 30 · 10 AP Encased Legs / Feet armor. Durability 330; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 14; Remove Delay 7. Reduce Knockback by 50%. -20% Movement Speed; -5 Athletics. Basic Features (7 AP): Reduce incoming Knockback by 5. Durability +10%. Browse the illustrated Pre-Made Armor Catalogue"
   },
   {
     "title": "Craftsman",
@@ -17749,28 +17861,28 @@
     "volume": "Pre-Made Armor",
     "number": "VI",
     "url": "/rules/standard-armor/#armor-head",
-    "text": "Head 6 ITEMS 001 Mobile / Head Hooded Scout Cowl Shop 4,000 Ryō Durability 100 Absorption 5% Craft 500 Ryō TN 16 AP 3 Immobilization -1 Stealth -1 Halve visibility penalties from Flash Bombs and jutsu. -2 Awareness. FULL STAT BLOCK ↗ 002 Mobile / Head Reedveil Hood Shop 5,000 Ryō Durability 100 Absorption 5% Craft 625 Ryō TN 20 AP 5 Immobilization -1 Stealth 0 Offsets the hood’s −1 Stealth. FULL STAT BLOCK ↗ 009 Protective / Head Reinforced Field Helm Shop 3,500 Ryō Durability 200 Absorption 10% Craft 438 Ryō TN 14 AP 2 Immobilization -2 Stealth -2 Halve visibility penalties from Flash Bombs and jutsu. -4 Awareness. FULL STAT BLOCK ↗ 010 Protective / Head Bellguard Kabuto Shop 4,500 Ryō Durability 200 Absorption 10% Craft 563 Ryō TN 18 AP 4 Immobilization -2 Stealth -2 Reduce Stun from hits to this location by 2. FULL STAT BLOCK ↗ 017 Encased / Head Ironclad War Helm Shop 4,500 Ryō Durability 300 Absorption 15% Craft 563 Ryō TN 18 AP 4 Immobilization -3 Stealth -3 Halve visibility penalties from Flash Bombs and jutsu. -5 Awareness. FULL STAT BLOCK ↗ 018 Encased / Head Boar-Crest Helm Shop 7,500 Ryō Durability 300 Absorption 17% Craft 938 Ryō TN 30 AP 10 Immobilization -3 Stealth -3 Includes 2 extra points of Absorption. FULL STAT BLOCK ↗"
+    "text": "Head 10 ITEMS 001 Mobile / Head Hooded Scout Cowl Shop 4,000 Ryō Durability 100 Absorption 5% Craft 500 Ryō TN 16 AP 3 Immobilization -1 Stealth -1 Halve visibility penalties from Flash Bombs and jutsu. -2 Awareness. FULL STAT BLOCK ↗ 002 Mobile / Head Reedveil Hood Shop 5,000 Ryō Durability 100 Absorption 5% Craft 625 Ryō TN 20 AP 5 Immobilization -1 Stealth 0 Offsets the hood’s −1 Stealth. FULL STAT BLOCK ↗ 009 Protective / Head Reinforced Field Helm Shop 3,500 Ryō Durability 200 Absorption 10% Craft 438 Ryō TN 14 AP 2 Immobilization -2 Stealth -2 Halve visibility penalties from Flash Bombs and jutsu. -4 Awareness. FULL STAT BLOCK ↗ 010 Protective / Head Bellguard Kabuto Shop 4,500 Ryō Durability 200 Absorption 10% Craft 563 Ryō TN 18 AP 4 Immobilization -2 Stealth -2 Reduce Stun from hits to this location by 2. FULL STAT BLOCK ↗ 017 Encased / Head Ironclad War Helm Shop 4,500 Ryō Durability 300 Absorption 15% Craft 563 Ryō TN 18 AP 4 Immobilization -3 Stealth -3 Halve visibility penalties from Flash Bombs and jutsu. -5 Awareness. FULL STAT BLOCK ↗ 018 Encased / Head Boar-Crest Helm Shop 7,500 Ryō Durability 300 Absorption 17% Craft 938 Ryō TN 30 AP 10 Immobilization -3 Stealth -3 Includes 2 extra points of Absorption. FULL STAT BLOCK ↗ 025 Mobile / Head Kilnrunner Hood Shop 5,500 Ryō Durability 100 Absorption 5% Craft 688 Ryō TN 22 AP 6 Immobilization -1 Stealth -1 Reduce Burns from hits to this location by 3. FULL STAT BLOCK ↗ 026 Mobile / Head Nightjar Sash Hood Shop 6,500 Ryō Durability 100 Absorption 5% Craft 813 Ryō TN 26 AP 8 Immobilization -1 Stealth +1 Stealth +2. Reduce Bleed from hits to this location by 1. FULL STAT BLOCK ↗ 027 Protective / Head Lamplighter Sallet Shop 6,000 Ryō Durability 200 Absorption 11% Craft 750 Ryō TN 24 AP 7 Immobilization -2 Stealth -2 Absorption +1 percentage point. Reduce Burns from hits to this location by 2. FULL STAT BLOCK ↗ 028 Encased / Head Pilgrim Bell Helm Shop 7,000 Ryō Durability 300 Absorption 15% Craft 875 Ryō TN 28 AP 9 Immobilization -3 Stealth -3 Reduce Stun from hits to this location by 3. Reduce incoming Knockback by 2. FULL STAT BLOCK ↗"
   },
   {
     "title": "Torso / Abdomen",
     "volume": "Pre-Made Armor",
     "number": "VI",
     "url": "/rules/standard-armor/#armor-torso",
-    "text": "Torso / Abdomen 6 ITEMS 003 Mobile / Torso / Abdomen Padded Hunter Vest Shop 4,500 Ryō Durability 150 Absorption 10% Craft 563 Ryō TN 18 AP 4 Immobilization -1 Stealth -1 -1 Dodge. FULL STAT BLOCK ↗ 004 Mobile / Torso / Abdomen Cinderwrap Jacket Shop 5,500 Ryō Durability 150 Absorption 10% Craft 688 Ryō TN 22 AP 6 Immobilization -1 Stealth -1 Reduce Burns from hits to this location by 2. FULL STAT BLOCK ↗ 011 Protective / Torso / Abdomen Hunter Half-Plate Shop 4,000 Ryō Durability 250 Absorption 15% Craft 500 Ryō TN 16 AP 3 Immobilization -2 Stealth -2 -3 Dodge. FULL STAT BLOCK ↗ 012 Protective / Torso / Abdomen Riveted Jack Shop 6,000 Ryō Durability 300 Absorption 15% Craft 750 Ryō TN 24 AP 7 Immobilization -2 Stealth -2 Includes 20% extra Durability. FULL STAT BLOCK ↗ 019 Encased / Torso / Abdomen Fortress Cuirass Shop 5,000 Ryō Durability 350 Absorption 20% Craft 625 Ryō TN 20 AP 5 Immobilization -3 Stealth -3 -4 Dodge. FULL STAT BLOCK ↗ 020 Encased / Torso / Abdomen Gatewarden Cuirass Shop 7,000 Ryō Durability 420 Absorption 20% Craft 875 Ryō TN 28 AP 9 Immobilization -3 Stealth -3 Includes 20% extra Durability. FULL STAT BLOCK ↗"
+    "text": "Torso / Abdomen 10 ITEMS 003 Mobile / Torso / Abdomen Padded Hunter Vest Shop 4,500 Ryō Durability 150 Absorption 10% Craft 563 Ryō TN 18 AP 4 Immobilization -1 Stealth -1 -1 Dodge. FULL STAT BLOCK ↗ 004 Mobile / Torso / Abdomen Cinderwrap Jacket Shop 5,500 Ryō Durability 150 Absorption 10% Craft 688 Ryō TN 22 AP 6 Immobilization -1 Stealth -1 Reduce Burns from hits to this location by 2. FULL STAT BLOCK ↗ 011 Protective / Torso / Abdomen Hunter Half-Plate Shop 4,000 Ryō Durability 250 Absorption 15% Craft 500 Ryō TN 16 AP 3 Immobilization -2 Stealth -2 -3 Dodge. FULL STAT BLOCK ↗ 012 Protective / Torso / Abdomen Riveted Jack Shop 6,000 Ryō Durability 300 Absorption 15% Craft 750 Ryō TN 24 AP 7 Immobilization -2 Stealth -2 Includes 20% extra Durability. FULL STAT BLOCK ↗ 019 Encased / Torso / Abdomen Fortress Cuirass Shop 5,000 Ryō Durability 350 Absorption 20% Craft 625 Ryō TN 20 AP 5 Immobilization -3 Stealth -3 -4 Dodge. FULL STAT BLOCK ↗ 020 Encased / Torso / Abdomen Gatewarden Cuirass Shop 7,000 Ryō Durability 420 Absorption 20% Craft 875 Ryō TN 28 AP 9 Immobilization -3 Stealth -3 Includes 20% extra Durability. FULL STAT BLOCK ↗ 029 Mobile / Torso / Abdomen Courier’s Quilt Shop 7,500 Ryō Durability 165 Absorption 10% Craft 938 Ryō TN 30 AP 10 Immobilization -1 Stealth +1 Stealth +2. Durability +10%. FULL STAT BLOCK ↗ 030 Protective / Torso / Abdomen Reedbank Brigandine Shop 6,500 Ryō Durability 275 Absorption 15% Craft 813 Ryō TN 26 AP 8 Immobilization -2 Stealth -2 Reduce Bleed from hits to this location by 3. Durability +10%. FULL STAT BLOCK ↗ 031 Protective / Torso / Abdomen Kilnwatch Coat Shop 7,500 Ryō Durability 250 Absorption 16% Craft 938 Ryō TN 30 AP 10 Immobilization -2 Stealth -2 Reduce Burns from hits to this location by 4. Absorption +1 percentage point. FULL STAT BLOCK ↗ 032 Encased / Torso / Abdomen Siege Bell Breastplate Shop 7,500 Ryō Durability 350 Absorption 20% Craft 938 Ryō TN 30 AP 10 Immobilization -3 Stealth -3 Reduce incoming Knockback by 3. Reduce Stun from hits to this location by 2. FULL STAT BLOCK ↗"
   },
   {
     "title": "Arms / Hands",
     "volume": "Pre-Made Armor",
     "number": "VI",
     "url": "/rules/standard-armor/#armor-arms",
-    "text": "Arms / Hands 6 ITEMS 005 Mobile / Arms / Hands Leather Bracers Shop 3,500 Ryō Durability 100 Absorption 5% Craft 438 Ryō TN 14 AP 2 Immobilization -1 Stealth -1 Parry weapons unarmed. When blocking weapons, ignore the 25% penalty and deal half the blocked damage to the armor. +2 Seal Speed. FULL STAT BLOCK ↗ 006 Mobile / Arms / Hands Suturewrap Bracers Shop 4,500 Ryō Durability 100 Absorption 5% Craft 563 Ryō TN 18 AP 4 Immobilization -1 Stealth -1 Reduce Bleed from hits to this location by 2. FULL STAT BLOCK ↗ 013 Protective / Arms / Hands Chainmail Vambraces Shop 3,000 Ryō Durability 200 Absorption 10% Craft 375 Ryō TN 12 AP 1 Immobilization -2 Stealth -2 Parry weapons unarmed. When blocking weapons, ignore the 25% penalty and deal half the blocked damage to the armor. +3 Seal Speed, -1 Parry. FULL STAT BLOCK ↗ 014 Protective / Arms / Hands Smith’s Sleeve Guards Shop 4,500 Ryō Durability 200 Absorption 10% Craft 563 Ryō TN 18 AP 4 Immobilization -2 Stealth -2 Reduce Burns from hits to this location by 3. FULL STAT BLOCK ↗ 021 Encased / Arms / Hands Full Plate Gauntlets Shop 4,000 Ryō Durability 300 Absorption 15% Craft 500 Ryō TN 16 AP 3 Immobilization -3 Stealth -3 Parry weapons unarmed. When blocking weapons, ignore the 25% penalty and deal half the blocked damage to the armor. +4 Seal Speed, -2 Parry. FULL STAT BLOCK ↗ 022 Encased / Arms / Hands Breakwater Kote Shop 5,500 Ryō Durability 300 Absorption 15% Craft 688 Ryō TN 22 AP 6 Immobilization -3 Stealth -3 Reduce Stun by 1 and Bleed by 2 from hits to this location. FULL STAT BLOCK ↗"
+    "text": "Arms / Hands 10 ITEMS 005 Mobile / Arms / Hands Leather Bracers Shop 3,500 Ryō Durability 100 Absorption 5% Craft 438 Ryō TN 14 AP 2 Immobilization -1 Stealth -1 Parry weapons unarmed. When blocking weapons, ignore the 25% penalty and deal half the blocked damage to the armor. +2 Seal Speed. FULL STAT BLOCK ↗ 006 Mobile / Arms / Hands Suturewrap Bracers Shop 4,500 Ryō Durability 100 Absorption 5% Craft 563 Ryō TN 18 AP 4 Immobilization -1 Stealth -1 Reduce Bleed from hits to this location by 2. FULL STAT BLOCK ↗ 013 Protective / Arms / Hands Chainmail Vambraces Shop 3,000 Ryō Durability 200 Absorption 10% Craft 375 Ryō TN 12 AP 1 Immobilization -2 Stealth -2 Parry weapons unarmed. When blocking weapons, ignore the 25% penalty and deal half the blocked damage to the armor. +3 Seal Speed, -1 Parry. FULL STAT BLOCK ↗ 014 Protective / Arms / Hands Smith’s Sleeve Guards Shop 4,500 Ryō Durability 200 Absorption 10% Craft 563 Ryō TN 18 AP 4 Immobilization -2 Stealth -2 Reduce Burns from hits to this location by 3. FULL STAT BLOCK ↗ 021 Encased / Arms / Hands Full Plate Gauntlets Shop 4,000 Ryō Durability 300 Absorption 15% Craft 500 Ryō TN 16 AP 3 Immobilization -3 Stealth -3 Parry weapons unarmed. When blocking weapons, ignore the 25% penalty and deal half the blocked damage to the armor. +4 Seal Speed, -2 Parry. FULL STAT BLOCK ↗ 022 Encased / Arms / Hands Breakwater Kote Shop 5,500 Ryō Durability 300 Absorption 15% Craft 688 Ryō TN 22 AP 6 Immobilization -3 Stealth -3 Reduce Stun by 1 and Bleed by 2 from hits to this location. FULL STAT BLOCK ↗ 033 Mobile / Arms / Hands Ashpicker Wraps Shop 6,000 Ryō Durability 100 Absorption 5% Craft 750 Ryō TN 24 AP 7 Immobilization -1 Stealth 0 Reduce Burns from hits to this location by 3. Stealth +1. FULL STAT BLOCK ↗ 034 Protective / Arms / Hands Bellringer Sleeves Shop 5,500 Ryō Durability 220 Absorption 10% Craft 688 Ryō TN 22 AP 6 Immobilization -2 Stealth -2 Reduce Stun from hits to this location by 3. Durability +10%. FULL STAT BLOCK ↗ 035 Encased / Arms / Hands Anvil Fists Shop 7,000 Ryō Durability 390 Absorption 15% Craft 875 Ryō TN 28 AP 9 Immobilization -3 Stealth -3 Durability +30%. FULL STAT BLOCK ↗ 036 Encased / Arms / Hands Briarproof Kote Shop 7,500 Ryō Durability 300 Absorption 16% Craft 938 Ryō TN 30 AP 10 Immobilization -3 Stealth -3 Reduce Bleed from hits to this location by 4. Absorption +1 percentage point. FULL STAT BLOCK ↗"
   },
   {
     "title": "Legs / Feet",
     "volume": "Pre-Made Armor",
     "number": "VI",
     "url": "/rules/standard-armor/#armor-legs",
-    "text": "Legs / Feet 6 ITEMS 007 Mobile / Legs / Feet Trailrunner Greaves Shop 3,500 Ryō Durability 100 Absorption 5% Craft 438 Ryō TN 14 AP 2 Immobilization -1 Stealth -1 Knockback reduced 25%. -10% Move, -2 Athletics. FULL STAT BLOCK ↗ 008 Mobile / Legs / Feet Scree-Runner Gaiters Shop 4,500 Ryō Durability 100 Absorption 5% Craft 563 Ryō TN 18 AP 4 Immobilization -1 Stealth -1 Reduce incoming Knockback by 2. FULL STAT BLOCK ↗ 015 Protective / Legs / Feet Steel-Shod Legguards Shop 3,000 Ryō Durability 200 Absorption 10% Craft 375 Ryō TN 12 AP 1 Immobilization -2 Stealth -2 Knockback reduced 25%. -15% Move, -3 Athletics. FULL STAT BLOCK ↗ 016 Protective / Legs / Feet Silent-Step Suneate Shop 5,000 Ryō Durability 200 Absorption 10% Craft 625 Ryō TN 20 AP 5 Immobilization -2 Stealth 0 Offsets the legguards’ −2 Stealth. FULL STAT BLOCK ↗ 023 Encased / Legs / Feet Bastion Sabatons Shop 4,000 Ryō Durability 300 Absorption 15% Craft 500 Ryō TN 16 AP 3 Immobilization -3 Stealth -3 Knockback reduced 50%. -20% Move, -5 Athletics. FULL STAT BLOCK ↗ 024 Encased / Legs / Feet Quarry Sabatons Shop 5,500 Ryō Durability 300 Absorption 15% Craft 688 Ryō TN 22 AP 6 Immobilization -3 Stealth -3 Reduce incoming Knockback by 3. FULL STAT BLOCK ↗"
+    "text": "Legs / Feet 10 ITEMS 007 Mobile / Legs / Feet Trailrunner Greaves Shop 3,500 Ryō Durability 100 Absorption 5% Craft 438 Ryō TN 14 AP 2 Immobilization -1 Stealth -1 Knockback reduced 25%. -10% Move, -2 Athletics. FULL STAT BLOCK ↗ 008 Mobile / Legs / Feet Scree-Runner Gaiters Shop 4,500 Ryō Durability 100 Absorption 5% Craft 563 Ryō TN 18 AP 4 Immobilization -1 Stealth -1 Reduce incoming Knockback by 2. FULL STAT BLOCK ↗ 015 Protective / Legs / Feet Steel-Shod Legguards Shop 3,000 Ryō Durability 200 Absorption 10% Craft 375 Ryō TN 12 AP 1 Immobilization -2 Stealth -2 Knockback reduced 25%. -15% Move, -3 Athletics. FULL STAT BLOCK ↗ 016 Protective / Legs / Feet Silent-Step Suneate Shop 5,000 Ryō Durability 200 Absorption 10% Craft 625 Ryō TN 20 AP 5 Immobilization -2 Stealth 0 Offsets the legguards’ −2 Stealth. FULL STAT BLOCK ↗ 023 Encased / Legs / Feet Bastion Sabatons Shop 4,000 Ryō Durability 300 Absorption 15% Craft 500 Ryō TN 16 AP 3 Immobilization -3 Stealth -3 Knockback reduced 50%. -20% Move, -5 Athletics. FULL STAT BLOCK ↗ 024 Encased / Legs / Feet Quarry Sabatons Shop 5,500 Ryō Durability 300 Absorption 15% Craft 688 Ryō TN 22 AP 6 Immobilization -3 Stealth -3 Reduce incoming Knockback by 3. FULL STAT BLOCK ↗ 037 Mobile / Legs / Feet Marshwalker Tabi Shop 6,000 Ryō Durability 100 Absorption 5% Craft 750 Ryō TN 24 AP 7 Immobilization -1 Stealth +1 Stealth +2. Reduce Bleed from hits to this location by 1. FULL STAT BLOCK ↗ 038 Protective / Legs / Feet Charcoal Burner’s Spats Shop 5,500 Ryō Durability 220 Absorption 10% Craft 688 Ryō TN 22 AP 6 Immobilization -2 Stealth -2 Reduce Burns from hits to this location by 3. Durability +10%. FULL STAT BLOCK ↗ 039 Protective / Legs / Feet Tollgate Shin Guards Shop 5,500 Ryō Durability 200 Absorption 11% Craft 688 Ryō TN 22 AP 6 Immobilization -2 Stealth -2 Reduce Stun from hits to this location by 2. Absorption +1 percentage point. FULL STAT BLOCK ↗ 040 Encased / Legs / Feet Ironroot Treads Shop 7,500 Ryō Durability 330 Absorption 15% Craft 938 Ryō TN 30 AP 10 Immobilization -3 Stealth -3 Reduce incoming Knockback by 5. Durability +10%. FULL STAT BLOCK ↗"
   },
   {
     "title": "Item Catalogue",

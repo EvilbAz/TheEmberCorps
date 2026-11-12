@@ -891,6 +891,34 @@ Encased Head armor. Durability 300; Absorption 15%; Armor Immobilization -3; Ste
 
 Encased Head armor. Durability 300; Absorption 17%; Armor Immobilization -3; Stealth -3; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -5 Awareness; consecutive searches gain two less bonus. Basic Features (6 AP): Absorption +2 percentage points.
 
+#### Kilnrunner Hood
+{:#kilnrunner-hood}
+
+**Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP**
+
+Mobile Head armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -2 Awareness. Basic Features (3 AP): Reduce Burns from hits to this location by 3.
+
+#### Nightjar Sash Hood
+{:#nightjar-sash-hood}
+
+**Shop 6,500 Ryō · Materials 813 Ryō · TN 26 · 8 AP**
+
+Mobile Head armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth +1; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -2 Awareness. Basic Features (5 AP): Stealth +2. Reduce Bleed from hits to this location by 1.
+
+#### Lamplighter Sallet
+{:#lamplighter-sallet}
+
+**Shop 6,000 Ryō · Materials 750 Ryō · TN 24 · 7 AP**
+
+Protective Head armor. Durability 200; Absorption 11%; Armor Immobilization -2; Stealth -2; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -4 Awareness; consecutive searches gain one less bonus. Basic Features (5 AP): Absorption +1 percentage point. Reduce Burns from hits to this location by 2.
+
+#### Pilgrim Bell Helm
+{:#pilgrim-bell-helm}
+
+**Shop 7,000 Ryō · Materials 875 Ryō · TN 28 · 9 AP**
+
+Encased Head armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -5 Awareness; consecutive searches gain two less bonus. Basic Features (5 AP): Reduce Stun from hits to this location by 3. Reduce incoming Knockback by 2.
+
 ### Torso / Abdomen
 {:#armor-torso}
 
@@ -935,6 +963,34 @@ Encased Torso / Abdomen armor. Durability 350; Absorption 20%; Armor Immobilizat
 **Shop 7,000 Ryō · Materials 875 Ryō · TN 28 · 9 AP**
 
 Encased Torso / Abdomen armor. Durability 420; Absorption 20%; Armor Immobilization -3; Stealth -3; Equip Speed 16; Remove Delay 8. -4 Dodge. Basic Features (4 AP): Durability +20%.
+
+#### Courier’s Quilt
+{:#couriers-quilt}
+
+**Shop 7,500 Ryō · Materials 938 Ryō · TN 30 · 10 AP**
+
+Mobile Torso / Abdomen armor. Durability 165; Absorption 10%; Armor Immobilization -1; Stealth +1; Equip Speed 16; Remove Delay 8. -1 Dodge. Basic Features (6 AP): Stealth +2. Durability +10%.
+
+#### Reedbank Brigandine
+{:#reedbank-brigandine}
+
+**Shop 6,500 Ryō · Materials 813 Ryō · TN 26 · 8 AP**
+
+Protective Torso / Abdomen armor. Durability 275; Absorption 15%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. -3 Dodge. Basic Features (5 AP): Reduce Bleed from hits to this location by 3. Durability +10%.
+
+#### Kilnwatch Coat
+{:#kilnwatch-coat}
+
+**Shop 7,500 Ryō · Materials 938 Ryō · TN 30 · 10 AP**
+
+Protective Torso / Abdomen armor. Durability 250; Absorption 16%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. -3 Dodge. Basic Features (7 AP): Reduce Burns from hits to this location by 4. Absorption +1 percentage point.
+
+#### Siege Bell Breastplate
+{:#siege-bell-breastplate}
+
+**Shop 7,500 Ryō · Materials 938 Ryō · TN 30 · 10 AP**
+
+Encased Torso / Abdomen armor. Durability 350; Absorption 20%; Armor Immobilization -3; Stealth -3; Equip Speed 16; Remove Delay 8. -4 Dodge. Basic Features (5 AP): Reduce incoming Knockback by 3. Reduce Stun from hits to this location by 2.
 
 ### Arms / Hands
 {:#armor-arms}
@@ -981,6 +1037,34 @@ Encased Arms / Hands armor. Durability 300; Absorption 15%; Armor Immobilization
 
 Encased Arms / Hands armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. Basic Features (3 AP): Reduce Stun by 1 and Bleed by 2 from hits to this location.
 
+#### Ashpicker Wraps
+{:#ashpicker-wraps}
+
+**Shop 6,000 Ryō · Materials 750 Ryō · TN 24 · 7 AP**
+
+Mobile Arms / Hands armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth 0; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +2 Seal Speed. Basic Features (5 AP): Reduce Burns from hits to this location by 3. Stealth +1.
+
+#### Bellringer Sleeves
+{:#bellringer-sleeves}
+
+**Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP**
+
+Protective Arms / Hands armor. Durability 220; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +3 Seal Speed; -1 Parry. Basic Features (5 AP): Reduce Stun from hits to this location by 3. Durability +10%.
+
+#### Anvil Fists
+{:#anvil-fists}
+
+**Shop 7,000 Ryō · Materials 875 Ryō · TN 28 · 9 AP**
+
+Encased Arms / Hands armor. Durability 390; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. Basic Features (6 AP): Durability +30%.
+
+#### Briarproof Kote
+{:#briarproof-kote}
+
+**Shop 7,500 Ryō · Materials 938 Ryō · TN 30 · 10 AP**
+
+Encased Arms / Hands armor. Durability 300; Absorption 16%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. Basic Features (7 AP): Reduce Bleed from hits to this location by 4. Absorption +1 percentage point.
+
 ### Legs / Feet
 {:#armor-legs}
 
@@ -1025,6 +1109,34 @@ Encased Legs / Feet armor. Durability 300; Absorption 15%; Armor Immobilization 
 **Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP**
 
 Encased Legs / Feet armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 14; Remove Delay 7. Reduce Knockback by 50%. -20% Movement Speed; -5 Athletics. Basic Features (3 AP): Reduce incoming Knockback by 3.
+
+#### Marshwalker Tabi
+{:#marshwalker-tabi}
+
+**Shop 6,000 Ryō · Materials 750 Ryō · TN 24 · 7 AP**
+
+Mobile Legs / Feet armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth +1; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -10% Movement Speed; -2 Athletics. Basic Features (5 AP): Stealth +2. Reduce Bleed from hits to this location by 1.
+
+#### Charcoal Burner’s Spats
+{:#charcoal-burners-spats}
+
+**Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP**
+
+Protective Legs / Feet armor. Durability 220; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -15% Movement Speed; -3 Athletics. Basic Features (5 AP): Reduce Burns from hits to this location by 3. Durability +10%.
+
+#### Tollgate Shin Guards
+{:#tollgate-shin-guards}
+
+**Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP**
+
+Protective Legs / Feet armor. Durability 200; Absorption 11%; Armor Immobilization -2; Stealth -2; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -15% Movement Speed; -3 Athletics. Basic Features (5 AP): Reduce Stun from hits to this location by 2. Absorption +1 percentage point.
+
+#### Ironroot Treads
+{:#ironroot-treads}
+
+**Shop 7,500 Ryō · Materials 938 Ryō · TN 30 · 10 AP**
+
+Encased Legs / Feet armor. Durability 330; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 14; Remove Delay 7. Reduce Knockback by 50%. -20% Movement Speed; -5 Athletics. Basic Features (7 AP): Reduce incoming Knockback by 5. Durability +10%.
 
 [Browse the illustrated Pre-Made Armor Catalogue]({{ '/rules/standard-armor/' | relative_url }})
 
