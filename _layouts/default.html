@@ -78,7 +78,7 @@
                   <a href="{{ '/rules/equipment/' | relative_url }}" class="equipment-return-link">← EQUIPMENT &amp; CRAFTING</a>
                   {% if page.item_catalogue %}
                     <span class="equipment-side-group">ITEM CATALOGUE</span>
-                    {% assign item_sections = "Ninja Tools|Survival|Infiltration|Shinobi Pharmaceuticals|Exploding Tags|Special Projectiles|Clan Supplies|Ballistic Ammunition" | split: "|" %}
+                    {% assign item_sections = "Ninja Tools|Monster Hunting Gear|Survival|Infiltration|Shinobi Pharmaceuticals|Exploding Tags|Special Projectiles|Clan Supplies|Ballistic Ammunition" | split: "|" %}
                     {% for section in item_sections %}<a href="#items-{{ section | slugify }}">{{ section }}</a>{% endfor %}
                   {% elsif page.armor_catalogue %}<span class="equipment-side-group">ARMOR CATALOGUE</span>{% assign armor_sections = "Mobile Armor|armor-mobile,Protective Armor|armor-protective,Encased Armor|armor-encased" | split: "," %}{% for section in armor_sections %}{% assign part = section | split: "|" %}<a href="{{ '/rules/standard-armor/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>{% endfor %}{% else %}<span class="equipment-side-group">WEAPON CATALOGUE</span>
                   {% assign catalogue_sections = "Small Weapons|catalog-small-weapons,Medium Weapons|catalog-medium-weapons,Large Weapons|catalog-large-weapons,Extreme Weapons|catalog-extreme-weapons,Matched Weapons|catalog-matched-weapons,Bows|catalog-bows-2,Crossbows|catalog-crossbows-2,Kunai Launchers|catalog-kunai-launchers-2,Shuriken Launchers|catalog-shuriken-launchers-2,Kunai & Shuriken|catalog-projectiles,Ammunition|catalog-ammunition" | split: "," %}
@@ -92,7 +92,7 @@
                     <a href="{{ '/rules/equipment/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
                   {% endfor %}
                   <span class="equipment-side-group">EQUIPMENT</span>
-                  {% assign equipment_sections = "Equipment Rules|equipment-core-rules,Weapon Actions|weapon-specific-actions,Durability|weapon-durability,Armor Protection|armor-protection,Melee Weapons|melee-weapons,Standard Melee Weapons|standard-weapons,Ranged Weapons|ranged-weapons-3,Standard Ranged Weapons|standard-ranged-weapons,Gear & Pharmaceuticals|gear-pharmaceuticals,Exploding Tags|exploding-tags" | split: "," %}
+                  {% assign equipment_sections = "Equipment Rules|equipment-core-rules,Weapon Actions|weapon-specific-actions,Durability|weapon-durability,Armor Protection|armor-protection,Melee Weapons|melee-weapons,Standard Melee Weapons|standard-weapons,Ranged Weapons|ranged-weapons-3,Standard Ranged Weapons|standard-ranged-weapons,Gear & Pharmaceuticals|gear-pharmaceuticals,Monster Hunting Gear|monster-hunting-gear,Exploding Tags|exploding-tags" | split: "," %}
                   {% for section in equipment_sections %}{% assign part = section | split: "|" %}
                     <a href="{{ '/rules/equipment/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
                   {% endfor %}

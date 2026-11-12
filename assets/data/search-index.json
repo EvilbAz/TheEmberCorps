@@ -10080,6 +10080,69 @@
     "text": "The proper name is 'military ration pills', but the term soldier pill is more commonly used among hunters. They're less rations than fast-acting performance-enhancing drugs. Though every village has a slightly different recipe, the pills are all marble-sized and black or dark brown. When eaten, they have the approximate flavor and texture of sawdust. These stimulants lower Fatigue by one category and give +10 to your next Chakra Exhaustion or Stamina roll. Doing so is a Speed 10 action in battle. You may only take one per battle, and no more than RES/50 per day. Cost: 12.5k Ryo"
   },
   {
+    "title": "Monster Hunting Gear",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#monster-hunting-gear",
+    "text": "Each item is single-use. A trap is spent when sprung, even if the monster resists it. Buying supplies grants no Preparation points. For a live capture, check the monster’s profile for special requirements before choosing your gear."
+  },
+  {
+    "title": "Pitfall Net",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#pitfall-net",
+    "text": "Set the net on soft ground within reach as a Speed 12 action. Mark a 5-yard square. The first ground-moving monster to enter it rolls Resistance against TN 20. On a failure it falls Prone and cannot leave the square for 20 IC. It may still act from the pit. The net counts as a capture restraint if it can hold the creature’s body. A creature too large for the pit breaks through without being held. Cost: 6,500 Ryō"
+  },
+  {
+    "title": "Thunderbug Trap",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#thunderbug-trap",
+    "text": "Place the cage on the ground within reach as a Speed 8 action. When a monster first touches it, the thunderbugs discharge. The monster rolls Resistance against TN 20. On a failure its movement is held at 0 for 15 IC. During that time the trap counts as a capture restraint against creatures susceptible to its current. A monster immune to Raiton springs the trap unharmed. Cost: 7,500 Ryō"
+  },
+  {
+    "title": "Small Barrel Bomb",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#small-barrel-bomb",
+    "text": "Place the barrel within reach as a Speed 5 action. Its chakra seal bursts 5 IC later. Resolve one Area 5 attack centred on the barrel for 6d10 Energy damage. Defend as against one exploding tag. Everyone in the area can be hit. Cost: 3,000 Ryō"
+  },
+  {
+    "title": "Large Barrel Bomb",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#large-barrel-bomb",
+    "text": "Place the barrel within reach as a Speed 10 action. Its seal bursts the first time a damaging attack hits the placed barrel. Resolve one Area 10 attack centred on it for 12d10 Energy damage, defended as against one exploding tag. A barrel blast cannot trigger another barrel. If several large barrels are hit by the same attack, each creature takes only one barrel hit. Cost: 8,500 Ryō"
+  },
+  {
+    "title": "Paint Pod",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#paint-pod",
+    "text": "Throw the pod as a Speed 4 ranged weapon attack with Range 15 yards. A hit leaves a bright, scented mark for the rest of the scene. Hunters gain +2 on rolls to follow that monster’s trail. Additional marks refresh the duration. Cost: 1,200 Ryō"
+  },
+  {
+    "title": "Screamer Pod",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#screamer-pod",
+    "text": "Throw the pod at a point within 15 yards as a Speed 4 action. A burrowing monster within 5 yards of that point that can hear the cry rolls Resistance against TN 20. On a failure it surfaces in the nearest space it can occupy. A given monster can be forced to surface this way once per scene. Cost: 2,500 Ryō"
+  },
+  {
+    "title": "Scent Bait",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#scent-bait",
+    "text": "Place one portion within reach as a Speed 5 action. An unengaged monster within 30 yards that can smell it and eats that food will approach to investigate by a route it can travel. The bait lasts one scene or until eaten. An attack or a visible threat breaks its interest. Cost: 1,500 Ryō"
+  },
+  {
+    "title": "Capture Seal",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#capture-seal",
+    "text": "Press the seal to a restrained, Capture-Ready monster within reach when you declare Secure Capture. The seal supplies the suppression method for that attempt and is spent when the action begins. Use the normal Speed 10 and Delay 10 for Secure Capture. Cost: 4,000 Ryō"
+  },
+  {
     "title": "Survival",
     "volume": "Equipment & Crafting",
     "number": "VI",
@@ -10420,7 +10483,7 @@
     "volume": "Hunting",
     "number": "I",
     "url": "/rules/hunting/#capture",
-    "text": "Weakening a monster is not enough to capture it. A successful capture requires the Team to injure it, exhaust it, restrain it, and secure the opportunity before it recovers or escapes. 01 Push it to Critical 02 Reach 8–10 Exertion 03 Apply a valid restraint 04 Complete Secure Capture Capture-Ready A Wild Hunt Monster becomes Capture-Ready while it is both Critical and Exhausted or Spent at 8–10 Exertion. Capture-Ready creatures should be visibly struggling. You do not need to guess a hidden Vitality percentage to know whether capture is possible. Restraining the Monster The monster must be held by an appropriate restraint: a specialised trap, binding, sealing technique, monster-specific device, or another effect capable of containing that creature. Ordinary Immobilization is not automatically sufficient, and merely Clinging to the monster does not restrain it for capture. Secure Capture Speed: 10 Delay: 10 Requires a Capture-Ready monster, an appropriate restraint currently holding it, and the necessary sedative, suppression seal or other established capture method within reach. When the Delay completes, the creature is captured if it is still both Capture-Ready and restrained. If either condition stops being true, the attempt fails. You may Abort normally. Capture Is Not Taming Capturing a creature does not make it friendly, loyal or usable as a companion. Capture determines whether it is taken alive; later acquisition, taming and training follow the normal Monster Taming rules. ---"
+    "text": "Weakening a monster is not enough to capture it. A successful capture requires the Team to injure it, exhaust it, restrain it, and secure the opportunity before it recovers or escapes. 01 Push it to Critical 02 Reach 8–10 Exertion 03 Apply a valid restraint 04 Complete Secure Capture Capture-Ready A Wild Hunt Monster becomes Capture-Ready while it is both Critical and Exhausted or Spent at 8–10 Exertion. Capture-Ready creatures should be visibly struggling. You do not need to guess a hidden Vitality percentage to know whether capture is possible. Restraining the Monster The monster must be held by an appropriate restraint: a specialised trap, binding, sealing technique, monster-specific device, or another effect capable of containing that creature. Ordinary Immobilization is not automatically sufficient, and merely Clinging to the monster does not restrain it for capture. Browse traps and capture supplies in the Item Catalogue. Secure Capture Speed: 10 Delay: 10 Requires a Capture-Ready monster, an appropriate restraint currently holding it, and the necessary sedative, suppression seal or other established capture method within reach. When the Delay completes, the creature is captured if it is still both Capture-Ready and restrained. If either condition stops being true, the attempt fails. You may Abort normally. Capture Is Not Taming Capturing a creature does not make it friendly, loyal or usable as a companion. Capture determines whether it is taken alive; later acquisition, taming and training follow the normal Monster Taming rules. ---"
   },
   {
     "title": "The Hunt Loop",
@@ -17525,7 +17588,7 @@
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/",
-    "text": "Browse field gear, medicines, tags and clan supplies. Select a card for its full rules. Ninja Tools Survival Infiltration Shinobi Pharmaceuticals Exploding Tags Special Projectiles Clan Supplies Ballistic Ammunition"
+    "text": "Browse field gear, medicines, tags and clan supplies. Select a card for its full rules. Ninja Tools Monster Hunting Gear Survival Infiltration Shinobi Pharmaceuticals Exploding Tags Special Projectiles Clan Supplies Ballistic Ammunition"
   },
   {
     "title": "Ninja Tools",
@@ -17533,6 +17596,13 @@
     "number": "VI",
     "url": "/rules/standard-items/#items-ninja-tools",
     "text": "Ninja Tools 11 ITEMS Blank Scroll 1,250 Ryō For sealing jutsu ITEM RULES ↗ Blood Increasing Pill 7,500 Ryō Restores HP over 50 IC ITEM RULES ↗ Caltrops 1,000 Ryō One 5-yard area ITEM RULES ↗ Cloth, Per Yard 150 Ryō Per yard ITEM RULES ↗ Container, Small 2,500 Ryō Holds 2 gallons ITEM RULES ↗ Container, Large 7,500 Ryō Holds 8 gallons ITEM RULES ↗ Flash Bomb 1,500 Ryō Area 10 ITEM RULES ↗ Ninja Wire 500 Ryō Per 5 yards ITEM RULES ↗ Rope 500 Ryō Per 5 yards ITEM RULES ↗ Smoke Bomb 1,500 Ryō 5-yard radius ITEM RULES ↗ Soldier Pill 12,500 Ryō Lowers Fatigue by one category ITEM RULES ↗"
+  },
+  {
+    "title": "Monster Hunting Gear",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-monster-hunting-gear",
+    "text": "Monster Hunting Gear 8 ITEMS Pitfall Net 6,500 Ryō Capture restraint · 20 IC ITEM RULES ↗ Thunderbug Trap 7,500 Ryō Capture restraint · 15 IC ITEM RULES ↗ Small Barrel Bomb 3,000 Ryō Speed 5 · Area 5 ITEM RULES ↗ Large Barrel Bomb 8,500 Ryō Speed 10 · Area 10 ITEM RULES ↗ Paint Pod 1,200 Ryō Track a marked monster ITEM RULES ↗ Screamer Pod 2,500 Ryō Flush out a burrower ITEM RULES ↗ Scent Bait 1,500 Ryō Draw a feeding monster ITEM RULES ↗ Capture Seal 4,000 Ryō Suppression method · One attempt ITEM RULES ↗"
   },
   {
     "title": "Survival",

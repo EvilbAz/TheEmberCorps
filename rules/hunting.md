@@ -434,6 +434,8 @@ The monster must be held by an **appropriate restraint**: a specialised trap, bi
 
 Ordinary Immobilization is not automatically sufficient, and merely Clinging to the monster does not restrain it for capture.
 
+[Browse traps and capture supplies in the Item Catalogue.]({{ '/rules/standard-items/#items-monster-hunting-gear' | relative_url }})
+
 ### Secure Capture
 
 **Speed:** 10  
