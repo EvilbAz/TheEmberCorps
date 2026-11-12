@@ -102,13 +102,13 @@ permalink: "/rules/standard-items/"
 <span class="armor-meta"><strong>Burrow Bells</strong><span class="armor-price">1,500 Ryō · Survival 5</span><span class="armor-stats"><span>Hear what passes underground</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#moult-ledger' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/moult-ledger.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Moult Ledger</strong><span class="armor-price">2,400 Ryō · Research 8</span><span class="armor-stats"><span>Identify a monster from its castoffs</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Moult Ledger</strong><span class="armor-price">2,400 Ryō · Research 8</span><span class="armor-stats"><span>Identify Tribe and Combat Class during Hunt Research</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#muster-lantern' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/muster-lantern.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Muster Lantern</strong><span class="armor-price">2,000 Ryō · Trailhand</span><span class="armor-stats"><span>Guide a scattered team back to camp</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#quarry-pulse-seal' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/quarry-pulse-seal.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Quarry Pulse Seal</strong><span class="armor-price">3,200 Ryō · Huntsman</span><span class="armor-stats"><span>Check the capture window at a distance</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Quarry Pulse Seal</strong><span class="armor-price">3,200 Ryō · Huntsman</span><span class="armor-stats"><span>Read a visible monster’s exact Exertion</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <span id="items-hunt-kitchen"></span>
 <section class="catalog-group" id="items-vegetables"><div class="catalog-heading"><h2>Market Vegetables</h2><span class="catalog-count">12 ITEMS</span></div><div class="catalog-grid">
@@ -306,7 +306,7 @@ permalink: "/rules/standard-items/"
 <span class="armor-meta"><strong>Fuuma Shuriken</strong><span class="armor-price">5,000 Ryō</span><span class="armor-stats"><span>Slashing</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#echo-shuriken' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/echo-shuriken.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Echo Shuriken</strong><span class="armor-price">1,600 Ryō · Chakra Control 8</span><span class="armor-stats"><span>Hear a struck quarry through cover</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Echo Shuriken</strong><span class="armor-price">1,650 Ryō · Chakra Control 8</span><span class="armor-stats"><span>1 AP Shuriken · Search by sound after a single full hit</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#courier-swallow' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/courier-swallow.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Courier Swallow</strong><span class="armor-price">550 Ryō · Open stock</span><span class="armor-stats"><span>Send a folded message across a gap</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>

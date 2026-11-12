@@ -594,6 +594,8 @@ You may craft a matched batch of up to five identical Kunai or Shuriken during t
 
 **Splitting Star — 4 AP.** Shuriken only. On a single-projectile full hit, gain \+1 Damage Die. Does not function during Multi-Throw or Volley.
 
+**Echo Seal — 1 AP.** Shuriken only. On a single-projectile full hit, apply the [Echo Shuriken](#echo-shuriken) ringing effect.
+
 **Returning Wire — 3 AP.** Small Thrown weapon only. When attached to Ninja Wire, retrieve the unattended weapon from within 10 yards as a Speed 3 Utility action if its path is unobstructed.
 
 Other ordinary Components may be selected where applicable.
@@ -1984,14 +1986,14 @@ Special: For every point you hit by, you add 10% to the attack's total damage, t
 ### Specialist Projectiles
 {:#courier-and-signal-projectiles}
 
-Utility throws in this section have Delay 0 and deal no damage.
+The Courier Swallow, Reed Whistler, Moonwake Disc and Mirrorwing are reusable field tools. Each listed throw is one Utility Action to an unobstructed point, with Delay 0. In combat, recover a landed tool within reach with [Retrieve Weapon](#retrieve-weapon). Launcher magazines, Multi-Throw, Volley and weapon-tag attachment require a compatible weapon attack.
 
 #### Echo Shuriken
 {:#echo-shuriken}
 
-Throw or launch as a standard Shuriken. On a full hit with a single projectile, its seal rings on the target for 10 IC. Once during that time, you may Search for that target by hearing through ordinary visual cover. Roll Search normally. The seal is spent on a hit.
+**1 AP · Shuriken frame with Echo Seal.** By hand, use the [standard Shuriken](#shuriken) profile. From a compatible magazine, use the [Launcher’s attack profile](#6-launcher-frames). On a full hit with a single projectile, the target rings for 10 IC. During that time, if you can hear the ringing, you may use it to [Search]({{ '/rules/core/#search' | relative_url }}) for that target through visual cover. Use the normal Speed 6 Awareness roll against its Stealth TN. Recover the weapon with Retrieve Weapon.
 
-**1,600 Ryō** · Chakra Control 8
+**1,650 Ryō** · Chakra Control 8
 
 #### Courier Swallow
 {:#courier-swallow}
@@ -2017,7 +2019,7 @@ As a Speed 5 Utility Action, skip the disc up to 25 yards across a continuous wa
 #### Mirrorwing
 {:#mirrorwing}
 
-As a Speed 5 Utility Action, cast this mirrored wing to a visible point within 20 yards. It hovers there for 10 IC. During that time you may make a normal Search from its position using sight. Then it lands and can be recovered.
+As a Speed 5 Utility Action, cast this mirrored wing to a visible point within 20 yards. It hovers there for 10 IC. While it hovers, you may declare [Search]({{ '/rules/core/#search' | relative_url }}) using sight from the wing’s position. Spend Search’s normal Speed 6 and use your Awareness against Stealth TNs, with visibility measured from the wing. Then it lands and can be recovered.
 
 **3,500 Ryō** · Huntsman
 
@@ -2231,28 +2233,28 @@ Press a cake of soft wax into a fresh print within reach as a Speed 5 Utility Ac
 #### Burrow Bells
 {:#burrow-bells}
 
-Set the bells into natural ground within reach (Speed 5, Delay 5). For one scene they ring whenever a burrowing monster passes within 10 yards. Anyone within 15 yards who can hear learns which bell rang. The bells give no depth or exact position.
+Set the bells into natural ground within reach as a Speed 5, Delay 5 Utility Action. When setup resolves, the bells begin listening. For one scene they ring whenever a burrowing monster passes within 10 yards. Anyone within 15 yards who can hear learns which bell rang. The bells give no depth or exact position.
 
 **1,500 Ryō** · Survival 5
 
 #### Moult Ledger
 {:#moult-ledger}
 
-Spend a Speed 5 Utility Action comparing a fresh shed scale, feather or shell with the illustrated plates. Roll Research against the Research difficulty in the monster’s Hunt profile. On success, learn its Tribe. Exceed that difficulty by 5 to also learn its Combat Class, or one of its classes if it has several. Reusable. Each hunter can study a given specimen once.
+When you take the [Research Hunt Action]({{ '/rules/hunting/#hunt-actions' | relative_url }}), compare a fresh castoff from the quarry with the illustrated plates. Spend the usual Downtime Slot and roll the profile’s listed skill or Lore against its Research difficulty. On success, the Nature Intel also identifies the quarry’s Tribe. Beat the difficulty by 5 to identify one of its Combat Classes as well. Reusable.
 
 **2,400 Ryō** · Research 8
 
 #### Muster Lantern
 {:#muster-lantern}
 
-Set the lantern within reach (Speed 5, Delay 5). Choose up to four willing hunters present. For the rest of the scene, each can sense the direction of the lantern while within 100 yards of it, even in fog or darkness. Moving the lit lantern ends the effect.
+Set the lantern within reach (Speed 5, Delay 5). When setup resolves, choose up to four willing hunters within reach. For the rest of the scene, each can sense the direction of the lantern while within 100 yards of it, even in fog or darkness. Moving the lit lantern ends the effect.
 
 **2,000 Ryō** · Trailhand
 
 #### Quarry Pulse Seal
 {:#quarry-pulse-seal}
 
-As a Speed 5 Utility Action, read one monster you can see within 20 yards. The seal shows its current Exertion and whether it is Capture-Ready, then fades. Secure Capture still requires a restraint and the usual suppression method.
+As a Speed 5 Utility Action, spend the seal to read the exact Exertion of one Wild Hunt Monster you can see within 20 yards. Capture-Ready signs remain visible to any hunter. To take the quarry alive, use [Secure Capture]({{ '/rules/hunting/#capture' | relative_url }}) with a valid restraint and suppression method.
 
 **3,200 Ryō** · Huntsman
 
@@ -2654,7 +2656,9 @@ Cost: 15,000 Ryo
 ### Signal and Field Tags
 {:#signal-and-field-tags}
 
-These single-use tags follow the normal priming rules, including the prerequisites of the chosen method. Their listed effect replaces the damaging burst. They contribute no dice to a combined detonation.
+These are single-use [Exploding Tags](#exploding-tags) for crafting, priming, attachment and removal. Use the chosen method’s prerequisites, Chakra, Speed, Seal Speed, Range and timer. Only the primer can change the detonation. Use the attachment rule you declared. [Explosive Tag Connection]({{ '/rules/core/#explosive-tag-connection' | relative_url }}) uses its own priming action, eligible weapons, Multi-Throw limits and timer. [Tag Concealment]({{ '/rules/core/#tag-concealment' | relative_url }}) and detonation Jutsu apply normally. Damage destroys an undetonated tag.
+
+At detonation, resolve the printed field effect at the tag’s current position. It affects the area or recipients directly. When several tags burst on the same IC, count only damaging tags for the combined attack’s damage and Interrupt Speed. Resolve each field effect once. Techniques that require explosive damage, including [Barrier Encampment Method]({{ '/rules/jutsu/general/#kekkai-houjin-barrier-encampment-method' | relative_url }}), require damaging tags in those slots.
 
 #### Festival Bloom Tag
 {:#festival-bloom-tag}
@@ -2666,21 +2670,21 @@ Choose a colour when priming the tag. It bursts into a matching flower of chakra
 #### Footprint Bloom Tag
 {:#footprint-bloom-tag}
 
-For 10 IC after the burst, tracks made during this scene glow in Area 5. Gain +5 to Survival rolls made to follow those tracks inside the area. Further blooms grant the same bonus once.
+For 10 IC after the burst, tracks made during this scene glow in Area 5. Gain +5 to Survival rolls made to follow those tracks inside the area. Overlapping blooms grant +5 in total.
 
 **1,600 Ryō** · Survival 8
 
 #### Curtainfall Tag
 {:#curtainfall-tag}
 
-The tag bursts into a shower of black chakra ink in Area 5. The area imposes Visibility Penalty 3 for 5 IC. Overlapping curtains use the highest penalty.
+The tag bursts into a shower of black chakra ink in Area 5. Apply [area-based Visibility −3]({{ '/rules/core/#visibility' | relative_url }}) for 5 IC. Use the worst applicable Visibility Penalty.
 
 **2,200 Ryō** · Trailhand
 
 #### Homeward Tag
 {:#homeward-tag}
 
-When priming the tag, choose up to four willing creatures within reach. When it bursts, each chosen creature within 200 yards senses the burst’s direction and distance for 10 IC. The signal points to the place where the tag burst.
+When priming the tag, choose up to four willing creatures within reach of the primer. When it bursts, each chosen creature within 200 yards senses the burst’s direction and distance for 10 IC. The signal points to the place where the tag burst.
 
 **3,600 Ryō** · Huntsman
 

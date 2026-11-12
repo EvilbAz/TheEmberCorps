@@ -9328,7 +9328,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#projectile-components",
-    "text": "Reinforced Edge — 2 AP/Rank. Gain +1 Base Damage Die per Rank. Honed Geometry — 2 AP/Rank. Gain +5% Wounding per Rank. Maximum 3 Ranks. Aerodynamic Profile — 3 AP/Rank. Increase Range by 5 yards per Rank. Maximum 3 Ranks. Calibrated Balance — 3 AP/Rank. Gain +1 Accuracy per Rank on single-projectile Attacks. Maximum 2 Ranks. Barbed Point — 3 AP. Kunai only. If a Piercing Wound inflicted by this weapon applies Bleed, increase that Bleed by 1, maximum once per Attack. Razor Edges — 3 AP. Shuriken only. Gain +5% Wounding when dealing Slashing Damage. Armor-Piercing Tip — 4 AP. Kunai only. Reduce Base Damage by 1 Damage Die. On a full hit, treat Armor Absorption as 10 percentage points lower, minimum 0%. Reinforced Ring — 2 AP. Kunai only. Gain +2 Accuracy when using this weapon to attach or deliver Ninja Wire through a compatible Jutsu or rule. Splitting Star — 4 AP. Shuriken only. On a single-projectile full hit, gain +1 Damage Die. Does not function during Multi-Throw or Volley. Returning Wire — 3 AP. Small Thrown weapon only. When attached to Ninja Wire, retrieve the unattended weapon from within 10 yards as a Speed 3 Utility action if its path is unobstructed. Other ordinary Components may be selected where applicable."
+    "text": "Reinforced Edge — 2 AP/Rank. Gain +1 Base Damage Die per Rank. Honed Geometry — 2 AP/Rank. Gain +5% Wounding per Rank. Maximum 3 Ranks. Aerodynamic Profile — 3 AP/Rank. Increase Range by 5 yards per Rank. Maximum 3 Ranks. Calibrated Balance — 3 AP/Rank. Gain +1 Accuracy per Rank on single-projectile Attacks. Maximum 2 Ranks. Barbed Point — 3 AP. Kunai only. If a Piercing Wound inflicted by this weapon applies Bleed, increase that Bleed by 1, maximum once per Attack. Razor Edges — 3 AP. Shuriken only. Gain +5% Wounding when dealing Slashing Damage. Armor-Piercing Tip — 4 AP. Kunai only. Reduce Base Damage by 1 Damage Die. On a full hit, treat Armor Absorption as 10 percentage points lower, minimum 0%. Reinforced Ring — 2 AP. Kunai only. Gain +2 Accuracy when using this weapon to attach or deliver Ninja Wire through a compatible Jutsu or rule. Splitting Star — 4 AP. Shuriken only. On a single-projectile full hit, gain +1 Damage Die. Does not function during Multi-Throw or Volley. Echo Seal — 1 AP. Shuriken only. On a single-projectile full hit, apply the Echo Shuriken ringing effect. Returning Wire — 3 AP. Small Thrown weapon only. When attached to Ninja Wire, retrieve the unattended weapon from within 10 yards as a Speed 3 Utility action if its path is unobstructed. Other ordinary Components may be selected where applicable."
   },
   {
     "title": "Crafted Projectiles and Multi-Throw",
@@ -10336,14 +10336,14 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#courier-and-signal-projectiles",
-    "text": "Utility throws in this section have Delay 0 and deal no damage."
+    "text": "The Courier Swallow, Reed Whistler, Moonwake Disc and Mirrorwing are reusable field tools. Each listed throw is one Utility Action to an unobstructed point, with Delay 0. In combat, recover a landed tool within reach with Retrieve Weapon. Launcher magazines, Multi-Throw, Volley and weapon-tag attachment require a compatible weapon attack."
   },
   {
     "title": "Echo Shuriken",
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#echo-shuriken",
-    "text": "Throw or launch as a standard Shuriken. On a full hit with a single projectile, its seal rings on the target for 10 IC. Once during that time, you may Search for that target by hearing through ordinary visual cover. Roll Search normally. The seal is spent on a hit. 1,600 Ryō · Chakra Control 8"
+    "text": "1 AP · Shuriken frame with Echo Seal. By hand, use the standard Shuriken profile. From a compatible magazine, use the Launcher’s attack profile. On a full hit with a single projectile, the target rings for 10 IC. During that time, if you can hear the ringing, you may use it to Search for that target through visual cover. Use the normal Speed 6 Awareness roll against its Stealth TN. Recover the weapon with Retrieve Weapon. 1,650 Ryō · Chakra Control 8"
   },
   {
     "title": "Courier Swallow",
@@ -10371,7 +10371,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#mirrorwing",
-    "text": "As a Speed 5 Utility Action, cast this mirrored wing to a visible point within 20 yards. It hovers there for 10 IC. During that time you may make a normal Search from its position using sight. Then it lands and can be recovered. 3,500 Ryō · Huntsman"
+    "text": "As a Speed 5 Utility Action, cast this mirrored wing to a visible point within 20 yards. It hovers there for 10 IC. While it hovers, you may declare Search using sight from the wing’s position. Spend Search’s normal Speed 6 and use your Awareness against Stealth TNs, with visibility measured from the wing. Then it lands and can be recovered. 3,500 Ryō · Huntsman"
   },
   {
     "title": "Gear & Pharmaceuticals",
@@ -10567,28 +10567,28 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#burrow-bells",
-    "text": "Set the bells into natural ground within reach (Speed 5, Delay 5). For one scene they ring whenever a burrowing monster passes within 10 yards. Anyone within 15 yards who can hear learns which bell rang. The bells give no depth or exact position. 1,500 Ryō · Survival 5"
+    "text": "Set the bells into natural ground within reach as a Speed 5, Delay 5 Utility Action. When setup resolves, the bells begin listening. For one scene they ring whenever a burrowing monster passes within 10 yards. Anyone within 15 yards who can hear learns which bell rang. The bells give no depth or exact position. 1,500 Ryō · Survival 5"
   },
   {
     "title": "Moult Ledger",
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#moult-ledger",
-    "text": "Spend a Speed 5 Utility Action comparing a fresh shed scale, feather or shell with the illustrated plates. Roll Research against the Research difficulty in the monster’s Hunt profile. On success, learn its Tribe. Exceed that difficulty by 5 to also learn its Combat Class, or one of its classes if it has several. Reusable. Each hunter can study a given specimen once. 2,400 Ryō · Research 8"
+    "text": "When you take the Research Hunt Action, compare a fresh castoff from the quarry with the illustrated plates. Spend the usual Downtime Slot and roll the profile’s listed skill or Lore against its Research difficulty. On success, the Nature Intel also identifies the quarry’s Tribe. Beat the difficulty by 5 to identify one of its Combat Classes as well. Reusable. 2,400 Ryō · Research 8"
   },
   {
     "title": "Muster Lantern",
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#muster-lantern",
-    "text": "Set the lantern within reach (Speed 5, Delay 5). Choose up to four willing hunters present. For the rest of the scene, each can sense the direction of the lantern while within 100 yards of it, even in fog or darkness. Moving the lit lantern ends the effect. 2,000 Ryō · Trailhand"
+    "text": "Set the lantern within reach (Speed 5, Delay 5). When setup resolves, choose up to four willing hunters within reach. For the rest of the scene, each can sense the direction of the lantern while within 100 yards of it, even in fog or darkness. Moving the lit lantern ends the effect. 2,000 Ryō · Trailhand"
   },
   {
     "title": "Quarry Pulse Seal",
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#quarry-pulse-seal",
-    "text": "As a Speed 5 Utility Action, read one monster you can see within 20 yards. The seal shows its current Exertion and whether it is Capture-Ready, then fades. Secure Capture still requires a restraint and the usual suppression method. 3,200 Ryō · Huntsman"
+    "text": "As a Speed 5 Utility Action, spend the seal to read the exact Exertion of one Wild Hunt Monster you can see within 20 yards. Capture-Ready signs remain visible to any hunter. To take the quarry alive, use Secure Capture with a valid restraint and suppression method. 3,200 Ryō · Huntsman"
   },
   {
     "title": "Survival",
@@ -10875,7 +10875,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#signal-and-field-tags",
-    "text": "These single-use tags follow the normal priming rules, including the prerequisites of the chosen method. Their listed effect replaces the damaging burst. They contribute no dice to a combined detonation."
+    "text": "These are single-use Exploding Tags for crafting, priming, attachment and removal. Use the chosen method’s prerequisites, Chakra, Speed, Seal Speed, Range and timer. Only the primer can change the detonation. Use the attachment rule you declared. Explosive Tag Connection uses its own priming action, eligible weapons, Multi-Throw limits and timer. Tag Concealment and detonation Jutsu apply normally. Damage destroys an undetonated tag. At detonation, resolve the printed field effect at the tag’s current position. It affects the area or recipients directly. When several tags burst on the same IC, count only damaging tags for the combined attack’s damage and Interrupt Speed. Resolve each field effect once. Techniques that require explosive damage, including Barrier Encampment Method, require damaging tags in those slots."
   },
   {
     "title": "Festival Bloom Tag",
@@ -10889,21 +10889,21 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#footprint-bloom-tag",
-    "text": "For 10 IC after the burst, tracks made during this scene glow in Area 5. Gain +5 to Survival rolls made to follow those tracks inside the area. Further blooms grant the same bonus once. 1,600 Ryō · Survival 8"
+    "text": "For 10 IC after the burst, tracks made during this scene glow in Area 5. Gain +5 to Survival rolls made to follow those tracks inside the area. Overlapping blooms grant +5 in total. 1,600 Ryō · Survival 8"
   },
   {
     "title": "Curtainfall Tag",
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#curtainfall-tag",
-    "text": "The tag bursts into a shower of black chakra ink in Area 5. The area imposes Visibility Penalty 3 for 5 IC. Overlapping curtains use the highest penalty. 2,200 Ryō · Trailhand"
+    "text": "The tag bursts into a shower of black chakra ink in Area 5. Apply area-based Visibility −3 for 5 IC. Use the worst applicable Visibility Penalty. 2,200 Ryō · Trailhand"
   },
   {
     "title": "Homeward Tag",
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#homeward-tag",
-    "text": "When priming the tag, choose up to four willing creatures within reach. When it bursts, each chosen creature within 200 yards senses the burst’s direction and distance for 10 IC. The signal points to the place where the tag burst. 3,600 Ryō · Huntsman FIELD ARMORY — WEAPON CATALOGUE Browse illustrated ready-made melee weapons, bows, crossbows, launchers, kunai and ammunition. Each weapon links back to its full equipment rules. EXPLORE WEAPONS ↗"
+    "text": "When priming the tag, choose up to four willing creatures within reach of the primer. When it bursts, each chosen creature within 200 yards senses the burst’s direction and distance for 10 IC. The signal points to the place where the tag burst. 3,600 Ryō · Huntsman FIELD ARMORY — WEAPON CATALOGUE Browse illustrated ready-made melee weapons, bows, crossbows, launchers, kunai and ammunition. Each weapon links back to its full equipment rules. EXPLORE WEAPONS ↗"
   },
   {
     "title": "Hunting",
@@ -18120,7 +18120,7 @@
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/#items-monster-hunting-gear",
-    "text": "Monster Hunting Gear 13 ITEMS Pitfall Net 6,500 Ryō Setup 5 · 4d8 Blunt · Clinch · TN 10 + Espionage ranks ITEM RULES ↗ Thunderbug Trap 7,500 Ryō Setup 5 · Holds for 15 IC · TN 10 + Espionage ranks ITEM RULES ↗ Small Barrel Bomb 3,000 Ryō Setup 5 · 6d10!o>9 · Area 5 · Blasts stack ITEM RULES ↗ Large Barrel Bomb 8,500 Ryō Setup 5 · 12d10!o>9 · Area 10 · Blasts stack ITEM RULES ↗ Paint Pod 1,200 Ryō +5 Search per applied pod ITEM RULES ↗ Screamer Pod 2,500 Ryō Flush out a burrower ITEM RULES ↗ Scent Bait 1,500 Ryō Draw a feeding monster ITEM RULES ↗ Capture Seal 4,000 Ryō Restrained, Capture-Ready targets only ITEM RULES ↗ Track Wax 650 Ryō · Open stock Take a cast of a track ITEM RULES ↗ Burrow Bells 1,500 Ryō · Survival 5 Hear what passes underground ITEM RULES ↗ Moult Ledger 2,400 Ryō · Research 8 Identify a monster from its castoffs ITEM RULES ↗ Muster Lantern 2,000 Ryō · Trailhand Guide a scattered team back to camp ITEM RULES ↗ Quarry Pulse Seal 3,200 Ryō · Huntsman Check the capture window at a distance ITEM RULES ↗"
+    "text": "Monster Hunting Gear 13 ITEMS Pitfall Net 6,500 Ryō Setup 5 · 4d8 Blunt · Clinch · TN 10 + Espionage ranks ITEM RULES ↗ Thunderbug Trap 7,500 Ryō Setup 5 · Holds for 15 IC · TN 10 + Espionage ranks ITEM RULES ↗ Small Barrel Bomb 3,000 Ryō Setup 5 · 6d10!o>9 · Area 5 · Blasts stack ITEM RULES ↗ Large Barrel Bomb 8,500 Ryō Setup 5 · 12d10!o>9 · Area 10 · Blasts stack ITEM RULES ↗ Paint Pod 1,200 Ryō +5 Search per applied pod ITEM RULES ↗ Screamer Pod 2,500 Ryō Flush out a burrower ITEM RULES ↗ Scent Bait 1,500 Ryō Draw a feeding monster ITEM RULES ↗ Capture Seal 4,000 Ryō Restrained, Capture-Ready targets only ITEM RULES ↗ Track Wax 650 Ryō · Open stock Take a cast of a track ITEM RULES ↗ Burrow Bells 1,500 Ryō · Survival 5 Hear what passes underground ITEM RULES ↗ Moult Ledger 2,400 Ryō · Research 8 Identify Tribe and Combat Class during Hunt Research ITEM RULES ↗ Muster Lantern 2,000 Ryō · Trailhand Guide a scattered team back to camp ITEM RULES ↗ Quarry Pulse Seal 3,200 Ryō · Huntsman Read a visible monster’s exact Exertion ITEM RULES ↗"
   },
   {
     "title": "Market Vegetables",
@@ -18176,7 +18176,7 @@
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/#items-special-projectiles",
-    "text": "Special Projectiles 8 ITEMS Senbon 250 Ryō Piercing ITEM RULES ↗ Boomerang 1,250 Ryō Blunt ITEM RULES ↗ Fuuma Shuriken 5,000 Ryō Slashing ITEM RULES ↗ Echo Shuriken 1,600 Ryō · Chakra Control 8 Hear a struck quarry through cover ITEM RULES ↗ Courier Swallow 550 Ryō · Open stock Send a folded message across a gap ITEM RULES ↗ Reed Whistler 900 Ryō · Survival 5 Sound a team signal on landing ITEM RULES ↗ Moonwake Disc 1,800 Ryō · Trailhand Light a route over water ITEM RULES ↗ Mirrorwing 3,500 Ryō · Huntsman Scout from a second viewpoint ITEM RULES ↗"
+    "text": "Special Projectiles 8 ITEMS Senbon 250 Ryō Piercing ITEM RULES ↗ Boomerang 1,250 Ryō Blunt ITEM RULES ↗ Fuuma Shuriken 5,000 Ryō Slashing ITEM RULES ↗ Echo Shuriken 1,650 Ryō · Chakra Control 8 1 AP Shuriken · Search by sound after a single full hit ITEM RULES ↗ Courier Swallow 550 Ryō · Open stock Send a folded message across a gap ITEM RULES ↗ Reed Whistler 900 Ryō · Survival 5 Sound a team signal on landing ITEM RULES ↗ Moonwake Disc 1,800 Ryō · Trailhand Light a route over water ITEM RULES ↗ Mirrorwing 3,500 Ryō · Huntsman Scout from a second viewpoint ITEM RULES ↗"
   },
   {
     "title": "Clan Supplies",
