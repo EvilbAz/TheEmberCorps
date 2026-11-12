@@ -1969,33 +1969,37 @@ Cost: 12.5k Ryo
 
 Laying a trap, placing a barrel or setting out bait is a **Speed 5, Delay 5 Utility Action**. The item is in place when the Delay ends. Each item is single-use. A trap is spent when sprung, even if the monster resists it. Buying supplies grants no Preparation points. For a live capture, check the monster’s profile for special requirements before choosing your gear.
 
+**Trap TN.** When you finish setting a Pitfall Net or Thunderbug Trap, record **10 + your Espionage ranks**. Use that TN to resist the trap when it springs or to disarm it beforehand.
+
+**Barrel blasts.** For each creature, add the damage dice of every barrel whose blast reaches it on the same IC. Resolve the total as one Energy attack and defend once as against one exploding tag. Each barrel uses its own Area. Barrel blasts do not trigger other barrels.
+
 #### Pitfall Net
 {:#pitfall-net}
 
-Lay the net across a 5-yard square of soft ground within reach. The first ground-moving monster to enter the square springs the trap. A monster too large for the pit breaks through. Otherwise, it rolls Resistance against TN 20.
+Lay the net across a 5-yard square of soft ground within reach. The first ground-moving monster to enter the square springs the trap. A monster too large for the pit breaks through. Otherwise, it rolls Resistance against the Trap TN.
 
-On a failure, the monster takes **4d8 Blunt damage**, falls Prone and enters a **Clinch with the net**. Its movement is 0 while held. The net rolls **1d20 + 10** for its Grapple checks, including starting Control and opposing Break Clinch. The monster may use Escape Grapple with Break Clinch as usual. The net counts as a capture restraint until the monster escapes or 20 IC pass.
+On a failure, the monster takes **4d8 Blunt damage**, falls Prone and enters a **Clinch with the net**. Its movement is 0 while held. The net rolls **1d20 + the setter’s Espionage ranks** for its Grapple checks, including starting Control and opposing Break Clinch. The monster may use Escape Grapple with Break Clinch as usual. The net counts as a capture restraint until the monster escapes or 20 IC pass.
 
 Cost: 6,500 Ryō
 
 #### Thunderbug Trap
 {:#thunderbug-trap}
 
-Place the cage on the ground within reach. When a monster first touches the set trap, the thunderbugs discharge. The monster rolls Resistance against TN 20. On a failure its movement is held at 0 for 15 IC. During that time the trap counts as a capture restraint against creatures susceptible to its current. A monster immune to Raiton springs the trap unharmed.
+Place the cage on the ground within reach. When a monster first touches the set trap, the thunderbugs discharge. The monster rolls Resistance against the Trap TN. On a failure its movement is held at 0 for 15 IC. During that time the trap counts as a capture restraint against creatures susceptible to its current. A monster immune to Raiton springs the trap unharmed.
 
 Cost: 7,500 Ryō
 
 #### Small Barrel Bomb
 {:#small-barrel-bomb}
 
-Place the barrel within reach. Its chakra seal bursts 5 IC after setup finishes. Resolve one Area 5 attack centred on the barrel for **6d10\!o\>9 Energy damage**. Defend as against one exploding tag. Everyone in the area can be hit.
+Place the barrel within reach. Its chakra seal bursts 5 IC after setup finishes. Resolve one Area 5 attack centred on the barrel for **6d10\!o\>9 Energy damage**.
 
 Cost: 3,000 Ryō
 
 #### Large Barrel Bomb
 {:#large-barrel-bomb}
 
-Place the barrel within reach. Its seal bursts the first time a damaging attack hits the placed barrel. Resolve one Area 10 attack centred on it for **12d10\!o\>9 Energy damage**, defended as against one exploding tag. A barrel blast cannot trigger another barrel. If several large barrels are hit by the same attack, each creature takes only one barrel hit.
+Place the barrel within reach. Its seal bursts the first time a damaging attack hits the placed barrel. Resolve one Area 10 attack centred on it for **12d10\!o\>9 Energy damage**.
 
 Cost: 8,500 Ryō
 

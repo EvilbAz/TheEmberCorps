@@ -58,16 +58,16 @@ permalink: "/rules/standard-items/"
 <section class="catalog-group" id="items-monster-hunting-gear"><div class="catalog-heading"><h2>Monster Hunting Gear</h2><span class="catalog-count">8 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#pitfall-net' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/pitfall-net.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Pitfall Net</strong><span class="armor-price">6,500 Ryō</span><span class="armor-stats"><span>Setup 5 · 4d8 Blunt · Clinch</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Pitfall Net</strong><span class="armor-price">6,500 Ryō</span><span class="armor-stats"><span>Setup 5 · 4d8 Blunt · Clinch · TN 10 + Espionage ranks</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#thunderbug-trap' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/thunderbug-trap.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Thunderbug Trap</strong><span class="armor-price">7,500 Ryō</span><span class="armor-stats"><span>Setup 5 · Holds for 15 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Thunderbug Trap</strong><span class="armor-price">7,500 Ryō</span><span class="armor-stats"><span>Setup 5 · Holds for 15 IC · TN 10 + Espionage ranks</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#small-barrel-bomb' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/small-barrel-bomb.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Small Barrel Bomb</strong><span class="armor-price">3,000 Ryō</span><span class="armor-stats"><span>Setup 5 · 6d10!o&gt;9 · Area 5</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Small Barrel Bomb</strong><span class="armor-price">3,000 Ryō</span><span class="armor-stats"><span>Setup 5 · 6d10!o&gt;9 · Area 5 · Blasts stack</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#large-barrel-bomb' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/large-barrel-bomb.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
-<span class="armor-meta"><strong>Large Barrel Bomb</strong><span class="armor-price">8,500 Ryō</span><span class="armor-stats"><span>Setup 5 · 12d10!o&gt;9 · Area 10</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<span class="armor-meta"><strong>Large Barrel Bomb</strong><span class="armor-price">8,500 Ryō</span><span class="armor-stats"><span>Setup 5 · 12d10!o&gt;9 · Area 10 · Blasts stack</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 <a class="armor-card" href="{{ '/rules/equipment/#paint-pod' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/paint-pod.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Paint Pod</strong><span class="armor-price">1,200 Ryō</span><span class="armor-stats"><span>+5 Search per applied pod</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>

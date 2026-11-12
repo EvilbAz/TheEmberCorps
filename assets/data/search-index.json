@@ -10084,35 +10084,35 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#monster-hunting-gear",
-    "text": "Laying a trap, placing a barrel or setting out bait is a Speed 5, Delay 5 Utility Action. The item is in place when the Delay ends. Each item is single-use. A trap is spent when sprung, even if the monster resists it. Buying supplies grants no Preparation points. For a live capture, check the monster’s profile for special requirements before choosing your gear."
+    "text": "Laying a trap, placing a barrel or setting out bait is a Speed 5, Delay 5 Utility Action. The item is in place when the Delay ends. Each item is single-use. A trap is spent when sprung, even if the monster resists it. Buying supplies grants no Preparation points. For a live capture, check the monster’s profile for special requirements before choosing your gear. Trap TN. When you finish setting a Pitfall Net or Thunderbug Trap, record 10 + your Espionage ranks. Use that TN to resist the trap when it springs or to disarm it beforehand. Barrel blasts. For each creature, add the damage dice of every barrel whose blast reaches it on the same IC. Resolve the total as one Energy attack and defend once as against one exploding tag. Each barrel uses its own Area. Barrel blasts do not trigger other barrels."
   },
   {
     "title": "Pitfall Net",
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#pitfall-net",
-    "text": "Lay the net across a 5-yard square of soft ground within reach. The first ground-moving monster to enter the square springs the trap. A monster too large for the pit breaks through. Otherwise, it rolls Resistance against TN 20. On a failure, the monster takes 4d8 Blunt damage, falls Prone and enters a Clinch with the net. Its movement is 0 while held. The net rolls 1d20 + 10 for its Grapple checks, including starting Control and opposing Break Clinch. The monster may use Escape Grapple with Break Clinch as usual. The net counts as a capture restraint until the monster escapes or 20 IC pass. Cost: 6,500 Ryō"
+    "text": "Lay the net across a 5-yard square of soft ground within reach. The first ground-moving monster to enter the square springs the trap. A monster too large for the pit breaks through. Otherwise, it rolls Resistance against the Trap TN. On a failure, the monster takes 4d8 Blunt damage, falls Prone and enters a Clinch with the net. Its movement is 0 while held. The net rolls 1d20 + the setter’s Espionage ranks for its Grapple checks, including starting Control and opposing Break Clinch. The monster may use Escape Grapple with Break Clinch as usual. The net counts as a capture restraint until the monster escapes or 20 IC pass. Cost: 6,500 Ryō"
   },
   {
     "title": "Thunderbug Trap",
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#thunderbug-trap",
-    "text": "Place the cage on the ground within reach. When a monster first touches the set trap, the thunderbugs discharge. The monster rolls Resistance against TN 20. On a failure its movement is held at 0 for 15 IC. During that time the trap counts as a capture restraint against creatures susceptible to its current. A monster immune to Raiton springs the trap unharmed. Cost: 7,500 Ryō"
+    "text": "Place the cage on the ground within reach. When a monster first touches the set trap, the thunderbugs discharge. The monster rolls Resistance against the Trap TN. On a failure its movement is held at 0 for 15 IC. During that time the trap counts as a capture restraint against creatures susceptible to its current. A monster immune to Raiton springs the trap unharmed. Cost: 7,500 Ryō"
   },
   {
     "title": "Small Barrel Bomb",
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#small-barrel-bomb",
-    "text": "Place the barrel within reach. Its chakra seal bursts 5 IC after setup finishes. Resolve one Area 5 attack centred on the barrel for 6d10!o>9 Energy damage. Defend as against one exploding tag. Everyone in the area can be hit. Cost: 3,000 Ryō"
+    "text": "Place the barrel within reach. Its chakra seal bursts 5 IC after setup finishes. Resolve one Area 5 attack centred on the barrel for 6d10!o>9 Energy damage. Cost: 3,000 Ryō"
   },
   {
     "title": "Large Barrel Bomb",
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#large-barrel-bomb",
-    "text": "Place the barrel within reach. Its seal bursts the first time a damaging attack hits the placed barrel. Resolve one Area 10 attack centred on it for 12d10!o>9 Energy damage, defended as against one exploding tag. A barrel blast cannot trigger another barrel. If several large barrels are hit by the same attack, each creature takes only one barrel hit. Cost: 8,500 Ryō"
+    "text": "Place the barrel within reach. Its seal bursts the first time a damaging attack hits the placed barrel. Resolve one Area 10 attack centred on it for 12d10!o>9 Energy damage. Cost: 8,500 Ryō"
   },
   {
     "title": "Paint Pod",
@@ -17602,7 +17602,7 @@
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/#items-monster-hunting-gear",
-    "text": "Monster Hunting Gear 8 ITEMS Pitfall Net 6,500 Ryō Setup 5 · 4d8 Blunt · Clinch ITEM RULES ↗ Thunderbug Trap 7,500 Ryō Setup 5 · Holds for 15 IC ITEM RULES ↗ Small Barrel Bomb 3,000 Ryō Setup 5 · 6d10!o>9 · Area 5 ITEM RULES ↗ Large Barrel Bomb 8,500 Ryō Setup 5 · 12d10!o>9 · Area 10 ITEM RULES ↗ Paint Pod 1,200 Ryō +5 Search per applied pod ITEM RULES ↗ Screamer Pod 2,500 Ryō Flush out a burrower ITEM RULES ↗ Scent Bait 1,500 Ryō Draw a feeding monster ITEM RULES ↗ Capture Seal 4,000 Ryō Restrained, Capture-Ready targets only ITEM RULES ↗"
+    "text": "Monster Hunting Gear 8 ITEMS Pitfall Net 6,500 Ryō Setup 5 · 4d8 Blunt · Clinch · TN 10 + Espionage ranks ITEM RULES ↗ Thunderbug Trap 7,500 Ryō Setup 5 · Holds for 15 IC · TN 10 + Espionage ranks ITEM RULES ↗ Small Barrel Bomb 3,000 Ryō Setup 5 · 6d10!o>9 · Area 5 · Blasts stack ITEM RULES ↗ Large Barrel Bomb 8,500 Ryō Setup 5 · 12d10!o>9 · Area 10 · Blasts stack ITEM RULES ↗ Paint Pod 1,200 Ryō +5 Search per applied pod ITEM RULES ↗ Screamer Pod 2,500 Ryō Flush out a burrower ITEM RULES ↗ Scent Bait 1,500 Ryō Draw a feeding monster ITEM RULES ↗ Capture Seal 4,000 Ryō Restrained, Capture-Ready targets only ITEM RULES ↗"
   },
   {
     "title": "Survival",
