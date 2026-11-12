@@ -846,7 +846,8 @@ Buy each pattern as one piece covering the named location. Arm and leg pieces co
 
 Armor Immobilization and Stealth penalties stack across all worn pieces. Reduce combined Armor Immobilization by (RES + STR/30), to a minimum of 0, as described in Armor Penalties. When reduced to 0, halve the inherent location penalties of the affected armor types, rounded down; Stealth penalties are never reduced this way. Durability and Absorption apply only when an attack strikes the protected location. Arm and leg armor covers both limbs.
 
-### Mobile Armor
+### Head
+{:#armor-head}
 
 #### Hooded Scout Cowl
 {:#hooded-scout-cowl}
@@ -862,50 +863,6 @@ Mobile Head armor. Durability 100; Absorption 5%; Armor Immobilization -1; Steal
 
 Mobile Head armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth 0; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -2 Awareness. Basic Features (2 AP): Stealth +1.
 
-#### Padded Hunter Vest
-{:#padded-hunter-vest}
-
-**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
-
-Mobile Torso / Abdomen armor. Durability 150; Absorption 10%; Armor Immobilization -1; Stealth -1; Equip Speed 16; Remove Delay 8. -1 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
-
-#### Cinderwrap Jacket
-{:#cinderwrap-jacket}
-
-**Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP**
-
-Mobile Torso / Abdomen armor. Durability 150; Absorption 10%; Armor Immobilization -1; Stealth -1; Equip Speed 16; Remove Delay 8. -1 Dodge. Basic Features (2 AP): Reduce Burns from hits to this location by 2.
-
-#### Leather Bracers
-{:#leather-bracers}
-
-**Shop 3,500 Ryō · Materials 438 Ryō · TN 14 · 2 AP**
-
-Mobile Arms / Hands armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +2 Seal Speed. No additional Basic Features, Unique Features or Wondrous Materials.
-
-#### Suturewrap Bracers
-{:#suturewrap-bracers}
-
-**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
-
-Mobile Arms / Hands armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +2 Seal Speed. Basic Features (2 AP): Reduce Bleed from hits to this location by 2.
-
-#### Trailrunner Greaves
-{:#trailrunner-greaves}
-
-**Shop 3,500 Ryō · Materials 438 Ryō · TN 14 · 2 AP**
-
-Mobile Legs / Feet armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -10% Movement Speed; -2 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
-
-#### Scree-Runner Gaiters
-{:#scree-runner-gaiters}
-
-**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
-
-Mobile Legs / Feet armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -10% Movement Speed; -2 Athletics. Basic Features (2 AP): Reduce incoming Knockback by 2.
-
-### Protective Armor
-
 #### Reinforced Field Helm
 {:#reinforced-field-helm}
 
@@ -919,50 +876,6 @@ Protective Head armor. Durability 200; Absorption 10%; Armor Immobilization -2; 
 **Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
 
 Protective Head armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -4 Awareness; consecutive searches gain one less bonus. Basic Features (2 AP): Reduce Stun from hits to this location by 2.
-
-#### Hunter Half-Plate
-{:#hunter-half-plate}
-
-**Shop 4,000 Ryō · Materials 500 Ryō · TN 16 · 3 AP**
-
-Protective Torso / Abdomen armor. Durability 250; Absorption 15%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. -3 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
-
-#### Riveted Jack
-{:#riveted-jack}
-
-**Shop 6,000 Ryō · Materials 750 Ryō · TN 24 · 7 AP**
-
-Protective Torso / Abdomen armor. Durability 300; Absorption 15%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. -3 Dodge. Basic Features (4 AP): Durability +20%.
-
-#### Chainmail Vambraces
-{:#chainmail-vambraces}
-
-**Shop 3,000 Ryō · Materials 375 Ryō · TN 12 · 1 AP**
-
-Protective Arms / Hands armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +3 Seal Speed; -1 Parry. No additional Basic Features, Unique Features or Wondrous Materials.
-
-#### Smith’s Sleeve Guards
-{:#smiths-sleeve-guards}
-
-**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
-
-Protective Arms / Hands armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +3 Seal Speed; -1 Parry. Basic Features (3 AP): Reduce Burns from hits to this location by 3.
-
-#### Steel-Shod Legguards
-{:#steel-shod-legguards}
-
-**Shop 3,000 Ryō · Materials 375 Ryō · TN 12 · 1 AP**
-
-Protective Legs / Feet armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -15% Movement Speed; -3 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
-
-#### Silent-Step Suneate
-{:#silent-step-suneate}
-
-**Shop 5,000 Ryō · Materials 625 Ryō · TN 20 · 5 AP**
-
-Protective Legs / Feet armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth 0; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -15% Movement Speed; -3 Athletics. Basic Features (4 AP): Stealth +2.
-
-### Encased Armor
 
 #### Ironclad War Helm
 {:#ironclad-war-helm}
@@ -978,6 +891,37 @@ Encased Head armor. Durability 300; Absorption 15%; Armor Immobilization -3; Ste
 
 Encased Head armor. Durability 300; Absorption 17%; Armor Immobilization -3; Stealth -3; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -5 Awareness; consecutive searches gain two less bonus. Basic Features (6 AP): Absorption +2 percentage points.
 
+### Torso / Abdomen
+{:#armor-torso}
+
+#### Padded Hunter Vest
+{:#padded-hunter-vest}
+
+**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
+
+Mobile Torso / Abdomen armor. Durability 150; Absorption 10%; Armor Immobilization -1; Stealth -1; Equip Speed 16; Remove Delay 8. -1 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Cinderwrap Jacket
+{:#cinderwrap-jacket}
+
+**Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP**
+
+Mobile Torso / Abdomen armor. Durability 150; Absorption 10%; Armor Immobilization -1; Stealth -1; Equip Speed 16; Remove Delay 8. -1 Dodge. Basic Features (2 AP): Reduce Burns from hits to this location by 2.
+
+#### Hunter Half-Plate
+{:#hunter-half-plate}
+
+**Shop 4,000 Ryō · Materials 500 Ryō · TN 16 · 3 AP**
+
+Protective Torso / Abdomen armor. Durability 250; Absorption 15%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. -3 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Riveted Jack
+{:#riveted-jack}
+
+**Shop 6,000 Ryō · Materials 750 Ryō · TN 24 · 7 AP**
+
+Protective Torso / Abdomen armor. Durability 300; Absorption 15%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. -3 Dodge. Basic Features (4 AP): Durability +20%.
+
 #### Fortress Cuirass
 {:#fortress-cuirass}
 
@@ -992,6 +936,37 @@ Encased Torso / Abdomen armor. Durability 350; Absorption 20%; Armor Immobilizat
 
 Encased Torso / Abdomen armor. Durability 420; Absorption 20%; Armor Immobilization -3; Stealth -3; Equip Speed 16; Remove Delay 8. -4 Dodge. Basic Features (4 AP): Durability +20%.
 
+### Arms / Hands
+{:#armor-arms}
+
+#### Leather Bracers
+{:#leather-bracers}
+
+**Shop 3,500 Ryō · Materials 438 Ryō · TN 14 · 2 AP**
+
+Mobile Arms / Hands armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +2 Seal Speed. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Suturewrap Bracers
+{:#suturewrap-bracers}
+
+**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
+
+Mobile Arms / Hands armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +2 Seal Speed. Basic Features (2 AP): Reduce Bleed from hits to this location by 2.
+
+#### Chainmail Vambraces
+{:#chainmail-vambraces}
+
+**Shop 3,000 Ryō · Materials 375 Ryō · TN 12 · 1 AP**
+
+Protective Arms / Hands armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +3 Seal Speed; -1 Parry. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Smith’s Sleeve Guards
+{:#smiths-sleeve-guards}
+
+**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
+
+Protective Arms / Hands armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +3 Seal Speed; -1 Parry. Basic Features (3 AP): Reduce Burns from hits to this location by 3.
+
 #### Full Plate Gauntlets
 {:#full-plate-gauntlets}
 
@@ -1005,6 +980,37 @@ Encased Arms / Hands armor. Durability 300; Absorption 15%; Armor Immobilization
 **Shop 5,500 Ryō · Materials 688 Ryō · TN 22 · 6 AP**
 
 Encased Arms / Hands armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. Basic Features (3 AP): Reduce Stun by 1 and Bleed by 2 from hits to this location.
+
+### Legs / Feet
+{:#armor-legs}
+
+#### Trailrunner Greaves
+{:#trailrunner-greaves}
+
+**Shop 3,500 Ryō · Materials 438 Ryō · TN 14 · 2 AP**
+
+Mobile Legs / Feet armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -10% Movement Speed; -2 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Scree-Runner Gaiters
+{:#scree-runner-gaiters}
+
+**Shop 4,500 Ryō · Materials 563 Ryō · TN 18 · 4 AP**
+
+Mobile Legs / Feet armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -10% Movement Speed; -2 Athletics. Basic Features (2 AP): Reduce incoming Knockback by 2.
+
+#### Steel-Shod Legguards
+{:#steel-shod-legguards}
+
+**Shop 3,000 Ryō · Materials 375 Ryō · TN 12 · 1 AP**
+
+Protective Legs / Feet armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -15% Movement Speed; -3 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+
+#### Silent-Step Suneate
+{:#silent-step-suneate}
+
+**Shop 5,000 Ryō · Materials 625 Ryō · TN 20 · 5 AP**
+
+Protective Legs / Feet armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth 0; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25%. -15% Movement Speed; -3 Athletics. Basic Features (4 AP): Stealth +2.
 
 #### Bastion Sabatons
 {:#bastion-sabatons}
