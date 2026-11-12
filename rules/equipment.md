@@ -1966,6 +1966,34 @@ These stimulants lower Fatigue by one category and give +10 to your next Chakra 
 
 Cost: 12.5k Ryo
 
+#### Trail Chalk
+{:#trail-chalk}
+
+Three fat sticks in Corps survey colours. As a Speed 2 Utility Action, leave an arrow or short mark on a dry surface within reach. Anyone following an intact, visible series of arrows can retrace the marked route without a Survival roll. A box marks ten junctions. Rain washes the marks away.
+
+Cost: 150 Ryō
+
+#### Oilskin Dispatch Case
+{:#oilskin-dispatch-case}
+
+A waxed sleeve with a bone toggle and a long shoulder cord. It holds one rolled scroll or a folded map. While fastened, it keeps the contents legible through rain and immersion. Opening or fastening it is a Speed 2 Utility Action.
+
+Cost: 750 Ryō
+
+#### Folding Litter
+{:#folding-litter}
+
+Canvas slung between two folding ash poles. Two hunters within reach of a willing or Incapacitated passenger can load them, each spending a Speed 5 Utility Action. While both carry it, the passenger moves with them at the slower bearer’s movement rate. Each bearer uses one hand. Set the litter down before either bearer leaves.
+
+Cost: 1,800 Ryō
+
+#### Wind Ribbon
+{:#wind-ribbon}
+
+A red silk streamer tied to a lacquered wand. Hold it clear of shelter as a Speed 2 Utility Action to learn which way the air is moving at your position, or whether it is still. A hunter can check the breeze before choosing where to drop smoke or lay scent bait.
+
+Cost: 250 Ryō
+
 ### Monster Hunting Gear
 {:#monster-hunting-gear}
 
@@ -2187,6 +2215,34 @@ Cost: 12.5k Ryo
 A small pocket telescope, which telescopes out from two inches to close to six. It allows you to effectively see what's going on up to a mile away, and read reasonably sized text (assuming you have clear line of sight) up to half a mile away. Mechanically, this means that any Awareness rolls at a distance up to its maximum (to, say, see when a guard leaves his post) have no penalty.
 
 Cost: 10k Ryo
+
+#### Festival Paint Box
+{:#festival-paint-box}
+
+A hinged box of stage colours, rice powder and a palm mirror. Spend ten minutes and one application preparing a disguise. Gain +2 on Espionage checks to pass as the chosen occupation or festival role until the paint is washed off. The box holds three applications.
+
+Cost: 1,200 Ryō
+
+#### Inscription Paper
+{:#inscription-paper}
+
+Soft mulberry sheets wrapped around a block of charcoal. Spend one minute at a carved inscription, crest or relief to take an accurate rubbing. A hunter can study the copied lines later with Lore or Research as if viewing the original. The packet holds five sheets, each large enough for a door plaque.
+
+Cost: 300 Ryō
+
+#### Echo Cricket
+{:#echo-cricket}
+
+A palm-sized clay cricket pressed with a sound seal. Hold it within arm’s reach of a sound and spend a Speed 5 Utility Action to record up to five seconds. Squeezing its wings plays the sound once at its original volume, up to speaking volume, as a Speed 2 Utility Action. A new recording replaces the old one. It reproduces sound alone, including a teammate’s agreed call.
+
+Cost: 1,600 Ryō
+
+#### Chakra Ink
+{:#chakra-ink}
+
+Ink from the archive at Haven Ember dries clear. A reader touching the writing can spend 2 Chakra as a Speed 3 Utility Action to bring the characters into view for 10 IC. Anyone looking at the page during that time can read it. One vial writes five palm-sized messages.
+
+Cost: 900 Ryō
 
 ## Shinobi Pharmaceuticals
 {:#shinobi-pharmaceuticals}

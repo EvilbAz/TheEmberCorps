@@ -21,7 +21,7 @@ permalink: "/rules/standard-items/"
 <a href="#items-clan-supplies">Clan Supplies</a>
 <a href="#items-ballistic-ammunition">Ballistic Ammunition</a>
 </div>
-<section class="catalog-group" id="items-ninja-tools"><div class="catalog-heading"><h2>Ninja Tools</h2><span class="catalog-count">11 ITEMS</span></div><div class="catalog-grid">
+<section class="catalog-group" id="items-ninja-tools"><div class="catalog-heading"><h2>Ninja Tools</h2><span class="catalog-count">15 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#blank-scroll' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/blank-scroll.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Blank Scroll</strong><span class="armor-price">1,250 Ryō</span><span class="armor-stats"><span>For sealing jutsu</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
@@ -55,6 +55,18 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/equipment/#soldier-pill' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/soldier-pill.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Soldier Pill</strong><span class="armor-price">12,500 Ryō</span><span class="armor-stats"><span>Lowers Fatigue by one category</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#trail-chalk' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/trail-chalk.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Trail Chalk</strong><span class="armor-price">150 Ryō</span><span class="armor-stats"><span>Ten trail marks</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#oilskin-dispatch-case' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/oilskin-dispatch-case.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Oilskin Dispatch Case</strong><span class="armor-price">750 Ryō</span><span class="armor-stats"><span>Keeps one scroll dry</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#folding-litter' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/folding-litter.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Folding Litter</strong><span class="armor-price">1,800 Ryō</span><span class="armor-stats"><span>Two hunters carry one casualty</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#wind-ribbon' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/wind-ribbon.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Wind Ribbon</strong><span class="armor-price">250 Ryō</span><span class="armor-stats"><span>Read the local wind</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <section class="catalog-group" id="items-monster-hunting-gear"><div class="catalog-heading"><h2>Monster Hunting Gear</h2><span class="catalog-count">8 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#pitfall-net' | relative_url }}">
@@ -134,7 +146,7 @@ permalink: "/rules/standard-items/"
 <span class="armor-art"><img src="{{ '/assets/img/items/oxygen-tank.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Oxygen Tank</strong><span class="armor-price">5,000 Ryō</span><span class="armor-stats"><span>30 minutes of air</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
-<section class="catalog-group" id="items-infiltration"><div class="catalog-heading"><h2>Infiltration</h2><span class="catalog-count">7 ITEMS</span></div><div class="catalog-grid">
+<section class="catalog-group" id="items-infiltration"><div class="catalog-heading"><h2>Infiltration</h2><span class="catalog-count">11 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#camouflage-kit' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/camouflage-kit.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Camouflage Kit</strong><span class="armor-price">7,500 Ryō</span><span class="armor-stats"><span>One use in the matching terrain</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
@@ -156,6 +168,18 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/equipment/#telescope' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/telescope.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Telescope</strong><span class="armor-price">10,000 Ryō</span><span class="armor-stats"><span>Up to one mile</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#festival-paint-box' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/festival-paint-box.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Festival Paint Box</strong><span class="armor-price">1,200 Ryō</span><span class="armor-stats"><span>Three costume changes</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#inscription-paper' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/inscription-paper.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Inscription Paper</strong><span class="armor-price">300 Ryō</span><span class="armor-stats"><span>Five full-size rubbings</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#echo-cricket' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/echo-cricket.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Echo Cricket</strong><span class="armor-price">1,600 Ryō</span><span class="armor-stats"><span>One recorded sound · Reusable</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#chakra-ink' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/chakra-ink.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Chakra Ink</strong><span class="armor-price">900 Ryō</span><span class="armor-stats"><span>Five chakra-readable messages</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <section class="catalog-group" id="items-shinobi-pharmaceuticals"><div class="catalog-heading"><h2>Shinobi Pharmaceuticals</h2><span class="catalog-count">10 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#redline' | relative_url }}">
