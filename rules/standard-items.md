@@ -239,7 +239,7 @@ permalink: "/rules/standard-items/"
 <span class="armor-art"><img src="{{ '/assets/img/items/chakra-ink.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Chakra Ink</strong><span class="armor-price">900 Ryō</span><span class="armor-stats"><span>Five chakra-readable messages</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
-<section class="catalog-group" id="items-shinobi-pharmaceuticals"><div class="catalog-heading"><h2>Shinobi Pharmaceuticals</h2><span class="catalog-count">16 ITEMS</span></div><div class="catalog-grid">
+<section class="catalog-group" id="items-shinobi-pharmaceuticals"><div class="catalog-heading"><h2>Shinobi Pharmaceuticals</h2><span class="catalog-count">22 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#redline' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/redline.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Redline</strong><span class="armor-price">2,000 Ryō</span><span class="armor-stats"><span>30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
@@ -288,6 +288,24 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/equipment/#chorus' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/chorus.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Chorus</strong><span class="armor-price">2,600 Ryō · Huntsman</span><span class="armor-stats"><span>Point Out grants +7 to the responding Search · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#k10' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/k10.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>K10</strong><span class="armor-price">9,500 Ryō · Warden</span><span class="armor-stats"><span>Melee damage +15% · Wounds provoke retaliation · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#kamikaze' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/kamikaze.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Kamikaze</strong><span class="armor-price">4,500 Ryō · Huntsman</span><span class="armor-stats"><span>Melee Accuracy +2 · Resistance +2 when Blocking · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#deepweed' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/deepweed.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Deepweed</strong><span class="armor-price">2,800 Ryō · Chakra Control 8</span><span class="armor-stats"><span>Sense chakra during Search within 15 yards · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#nitro' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/nitro.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Nitro</strong><span class="armor-price">3,200 Ryō · Trailhand</span><span class="armor-stats"><span>Suppress one Wound’s roll penalties · Stamina rolls +2 · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#zen' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/zen.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Zen</strong><span class="armor-price">900 Ryō · Open stock</span><span class="armor-stats"><span>Genjutsu Defense +2 · slower Dodge and Parry · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#zombie-dust' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/zombie-dust.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Zombie Dust</strong><span class="armor-price">5,500 Ryō · Toxicology 12</span><span class="armor-stats"><span>Prepares a vessel · −4 Defense against possession · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <section class="catalog-group" id="items-exploding-tags"><div class="catalog-heading"><h2>Exploding Tags</h2><span class="catalog-count">7 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#exploding-tags' | relative_url }}">

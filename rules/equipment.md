@@ -2635,6 +2635,72 @@ When you use Point Out, hunters who hear you gain +2 on the Search it grants, in
 
 **Crash.** Take −2 on your own Awareness rolls.
 
+#### K10
+{:#k10}
+
+**9,500 Ryō per dose** · Warden · **30 IC**
+
+Quartermasters stamp ten black bars on the case. The first Wound is when squadmates start watching the hunter instead of the quarry.
+
+Your damaging Melee Taijutsu and melee Weapon Attacks deal 15% more damage before mitigation. When you suffer a new Wound, your next non-Interrupt action must be a legal melee attack against the creature that wounded you, or a Move toward it if you can reach it only by moving. If you cannot perceive or approach it, choose your action normally. The compulsion expires with the dose.
+
+**Crash.** Advance Fatigue by 1 and suffer Stun 8 when the dose ends.
+
+#### Kamikaze
+{:#kamikaze}
+
+**4,500 Ryō per dose** · Huntsman · **30 IC**
+
+The scarlet case bears the old assault-company crest. Hunters say the dose makes a shield feel light right up until the crash.
+
+Gain +2 Accuracy on damaging melee attacks and +2 Resistance against effects of attacks you Block. While K10 is active, suspend both Kamikaze bonuses. Both drugs keep their own timers and crashes.
+
+**Crash.** Take −2 Accuracy on melee attacks and −2 Resistance.
+
+#### Deepweed
+{:#deepweed}
+
+**2,800 Ryō per dose** · Chakra Control 8 · **30 IC**
+
+Chakra shines through the marsh-green haze. A lit doorway can disappear behind the afterimage of the hunter standing in it.
+
+During a normal Speed 6 Search, you can sense creatures with chakra within 15 yards through darkness or visual concealment. Roll Awareness against their normal Stealth TN from your own position, ignoring sight penalties for this sense. Solid barriers block it. While active, take −2 Awareness on sight-based checks.
+
+**Crash.** Take −2 Awareness on all checks.
+
+#### Nitro
+{:#nitro}
+
+**3,200 Ryō per dose** · Trailhand · **30 IC**
+
+Sold in hazard-striped tins. The hunter feels the weight of their kit again all at once.
+
+Choose one Minor or Major Wound when the dose begins. Ignore its numerical penalties to rolls for the duration. Bleed, limb restrictions and other Wound effects continue. Gain +2 on Stamina rolls.
+
+**Crash.** Advance Fatigue by 1 when the dose ends.
+
+#### Zen
+{:#zen}
+
+**900 Ryō per dose** · Open stock · **30 IC**
+
+A pale lozenge with a single ring pressed into it. Sounds seem farther apart, even when the fight is close.
+
+Gain +2 Genjutsu Defense. Add 1 to the Base Speed of your Dodge and Parry Interrupts.
+
+**Crash.** Take −2 Genjutsu Defense.
+
+#### Zombie Dust
+{:#zombie-dust}
+
+**5,500 Ryō per dose** · Toxicology 12 · **30 IC**
+
+Spirit mediums call it an empty-room dose. The seal on the packet shows a doorway with no one standing in it.
+
+The recipient takes −4 Genjutsu Defense against techniques that place another mind in their body, including Mind Body Switch. The possessing hunter must still use the technique, pay its costs and make its roll. Its normal control, release and duration rules apply.
+
+**Crash.** The recipient takes −2 Chakra Control on skill rolls.
+
 # Exploding Tags
 {:#exploding-tags}
 

@@ -10871,6 +10871,48 @@
     "text": "2,600 Ryō per dose · Huntsman · 30 IC Spotters swear their voices carry a second tone on Chorus. Even in a crowded squad channel, the warning cuts through. When you use Point Out, hunters who hear you gain +2 on the Search it grants, in addition to its normal +5. A Search can receive this extra bonus once. Crash. Take −2 on your own Awareness rolls."
   },
   {
+    "title": "K10",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#k10",
+    "text": "9,500 Ryō per dose · Warden · 30 IC Quartermasters stamp ten black bars on the case. The first Wound is when squadmates start watching the hunter instead of the quarry. Your damaging Melee Taijutsu and melee Weapon Attacks deal 15% more damage before mitigation. When you suffer a new Wound, your next non-Interrupt action must be a legal melee attack against the creature that wounded you, or a Move toward it if you can reach it only by moving. If you cannot perceive or approach it, choose your action normally. The compulsion expires with the dose. Crash. Advance Fatigue by 1 and suffer Stun 8 when the dose ends."
+  },
+  {
+    "title": "Kamikaze",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#kamikaze",
+    "text": "4,500 Ryō per dose · Huntsman · 30 IC The scarlet case bears the old assault-company crest. Hunters say the dose makes a shield feel light right up until the crash. Gain +2 Accuracy on damaging melee attacks and +2 Resistance against effects of attacks you Block. While K10 is active, suspend both Kamikaze bonuses. Both drugs keep their own timers and crashes. Crash. Take −2 Accuracy on melee attacks and −2 Resistance."
+  },
+  {
+    "title": "Deepweed",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#deepweed",
+    "text": "2,800 Ryō per dose · Chakra Control 8 · 30 IC Chakra shines through the marsh-green haze. A lit doorway can disappear behind the afterimage of the hunter standing in it. During a normal Speed 6 Search, you can sense creatures with chakra within 15 yards through darkness or visual concealment. Roll Awareness against their normal Stealth TN from your own position, ignoring sight penalties for this sense. Solid barriers block it. While active, take −2 Awareness on sight-based checks. Crash. Take −2 Awareness on all checks."
+  },
+  {
+    "title": "Nitro",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#nitro",
+    "text": "3,200 Ryō per dose · Trailhand · 30 IC Sold in hazard-striped tins. The hunter feels the weight of their kit again all at once. Choose one Minor or Major Wound when the dose begins. Ignore its numerical penalties to rolls for the duration. Bleed, limb restrictions and other Wound effects continue. Gain +2 on Stamina rolls. Crash. Advance Fatigue by 1 when the dose ends."
+  },
+  {
+    "title": "Zen",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#zen",
+    "text": "900 Ryō per dose · Open stock · 30 IC A pale lozenge with a single ring pressed into it. Sounds seem farther apart, even when the fight is close. Gain +2 Genjutsu Defense. Add 1 to the Base Speed of your Dodge and Parry Interrupts. Crash. Take −2 Genjutsu Defense."
+  },
+  {
+    "title": "Zombie Dust",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#zombie-dust",
+    "text": "5,500 Ryō per dose · Toxicology 12 · 30 IC Spirit mediums call it an empty-room dose. The seal on the packet shows a doorway with no one standing in it. The recipient takes −4 Genjutsu Defense against techniques that place another mind in their body, including Mind Body Switch. The possessing hunter must still use the technique, pay its costs and make its roll. Its normal control, release and duration rules apply. Crash. The recipient takes −2 Chakra Control on skill rolls."
+  },
+  {
     "title": "Exploding Tags",
     "volume": "Equipment & Crafting",
     "number": "VI",
@@ -18204,7 +18246,7 @@
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/#items-shinobi-pharmaceuticals",
-    "text": "Shinobi Pharmaceuticals 16 ITEMS Redline 2,000 Ryō 30 IC ITEM RULES ↗ Quickstep 1,000 Ryō 30 IC ITEM RULES ↗ Iron Lung 1,500 Ryō 30 IC ITEM RULES ↗ Blue Focus 1,500 Ryō 30 IC ITEM RULES ↗ Morphine Field Ampoule 3,000 Ryō 30 IC ITEM RULES ↗ Amphetamine Combat Dose 5,000 Ryō 30 IC ITEM RULES ↗ Ketamine Counter-Gen Dose 4,000 Ryō 30 IC ITEM RULES ↗ Diethylamide Reflex Dose 7,500 Ryō 30 IC ITEM RULES ↗ Combat Steroid 3,500 Ryō 30 IC ITEM RULES ↗ Kotarō Extract 6,000 Ryō Rare · 30 IC ITEM RULES ↗ Nightglass 1,200 Ryō · Open stock Search +3 · 30 IC ITEM RULES ↗ Anchor Salt 1,600 Ryō · Trailhand Reduce Knockback by 3 yards · 30 IC ITEM RULES ↗ Gecko Gum 1,800 Ryō · Survival 5 +3 on Secure Grip and against Shake Off · 30 IC ITEM RULES ↗ Stillwater 2,200 Ryō · Chakra Control 8 +3 to maintain Handseals under damage · 30 IC ITEM RULES ↗ Whitecap 2,400 Ryō · Toxicology 8 +4 Resistance against Poison · 30 IC ITEM RULES ↗ Chorus 2,600 Ryō · Huntsman Point Out grants +7 to the responding Search · 30 IC ITEM RULES ↗"
+    "text": "Shinobi Pharmaceuticals 22 ITEMS Redline 2,000 Ryō 30 IC ITEM RULES ↗ Quickstep 1,000 Ryō 30 IC ITEM RULES ↗ Iron Lung 1,500 Ryō 30 IC ITEM RULES ↗ Blue Focus 1,500 Ryō 30 IC ITEM RULES ↗ Morphine Field Ampoule 3,000 Ryō 30 IC ITEM RULES ↗ Amphetamine Combat Dose 5,000 Ryō 30 IC ITEM RULES ↗ Ketamine Counter-Gen Dose 4,000 Ryō 30 IC ITEM RULES ↗ Diethylamide Reflex Dose 7,500 Ryō 30 IC ITEM RULES ↗ Combat Steroid 3,500 Ryō 30 IC ITEM RULES ↗ Kotarō Extract 6,000 Ryō Rare · 30 IC ITEM RULES ↗ Nightglass 1,200 Ryō · Open stock Search +3 · 30 IC ITEM RULES ↗ Anchor Salt 1,600 Ryō · Trailhand Reduce Knockback by 3 yards · 30 IC ITEM RULES ↗ Gecko Gum 1,800 Ryō · Survival 5 +3 on Secure Grip and against Shake Off · 30 IC ITEM RULES ↗ Stillwater 2,200 Ryō · Chakra Control 8 +3 to maintain Handseals under damage · 30 IC ITEM RULES ↗ Whitecap 2,400 Ryō · Toxicology 8 +4 Resistance against Poison · 30 IC ITEM RULES ↗ Chorus 2,600 Ryō · Huntsman Point Out grants +7 to the responding Search · 30 IC ITEM RULES ↗ K10 9,500 Ryō · Warden Melee damage +15% · Wounds provoke retaliation · 30 IC ITEM RULES ↗ Kamikaze 4,500 Ryō · Huntsman Melee Accuracy +2 · Resistance +2 when Blocking · 30 IC ITEM RULES ↗ Deepweed 2,800 Ryō · Chakra Control 8 Sense chakra during Search within 15 yards · 30 IC ITEM RULES ↗ Nitro 3,200 Ryō · Trailhand Suppress one Wound’s roll penalties · Stamina rolls +2 · 30 IC ITEM RULES ↗ Zen 900 Ryō · Open stock Genjutsu Defense +2 · slower Dodge and Parry · 30 IC ITEM RULES ↗ Zombie Dust 5,500 Ryō · Toxicology 12 Prepares a vessel · −4 Defense against possession · 30 IC ITEM RULES ↗"
   },
   {
     "title": "Exploding Tags",
