@@ -2444,9 +2444,7 @@ Cost: 900 Ryō
 ## Shinobi Pharmaceuticals
 {:#shinobi-pharmaceuticals}
 
-A soldier pill is not the only thing a modern hunters can swallow before doing something regrettable.
-
-Licensed clinics, field medics, black-market chemists, and village quartermasters sell combat pharmaceuticals across the hunters world. Drugs are ordinary purchasable gear. You do not need a clan, Talent, or medical background to use one. The trade-off is simple: the body gets the bill later.
+Haven Ember’s clinics and quartermasters sell prepared doses. Anyone can use open stock. Specialist compounds list the skill or Corps rank needed to buy and use them.
 
 ### Drug Rules
 {:#drug-rules}
@@ -2570,6 +2568,72 @@ Crash: suffer \-20 STR, AGI, and DEX for the same duration. Attributes cannot fa
 Treat both Stamina and Chakra penalties as 1 lower and gain \+3 Resistance against Poison.
 
 Crash: increase both penalties by 2\. A character without Kodon metabolism also suffers Stun 5\.
+
+#### Nightglass
+{:#nightglass}
+
+**1,200 Ryō per dose** · Open stock · **30 IC**
+
+Watch officers call the black lozenges “second eyes.” Under lantern light, the user’s pupils shine like a cat’s.
+
+Gain +3 Awareness on Search actions.
+
+**Crash.** Take −3 Awareness on Search actions.
+
+#### Anchor Salt
+{:#anchor-salt}
+
+**1,600 Ryō per dose** · Trailhand · **30 IC**
+
+Dock crews pass around these slate-grey wafers before hauling a river beast ashore. For a while, every plank feels level.
+
+Reduce the distance of numbered Knockback you suffer by 3 yards, minimum 0, after resolving defense.
+
+**Crash.** Increase each positive numbered Knockback distance you suffer by 3 yards after resolving defense.
+
+#### Gecko Gum
+{:#gecko-gum}
+
+**1,800 Ryō per dose** · Survival 5 · **30 IC**
+
+Climbers tuck a square of amber gum behind one cheek. The last of the sweetness goes just before their fingers start to shake.
+
+While Clinging, gain +3 to Grapple Offense on Secure Grip and +3 to Grapple Defense against Shake Off.
+
+**Crash.** Take −3 on those same rolls.
+
+#### Stillwater
+{:#stillwater}
+
+**2,200 Ryō per dose** · Chakra Control 8 · **30 IC**
+
+Seal scribes know the little blue vial by the ripple that stands still when they turn it over.
+
+Gain +3 on Chakra Control rolls to keep forming Handseals when you take damage.
+
+**Crash.** Take −3 on Chakra Control rolls to keep forming Handseals when you take damage.
+
+#### Whitecap
+{:#whitecap}
+
+**2,400 Ryō per dose** · Toxicology 8 · **30 IC**
+
+The clinic stamps a blue wave on each white tablet. A bitter taste tells the hunter when the protection has worn off.
+
+Gain +4 on Resistance rolls against Poison.
+
+**Crash.** Take −4 on Resistance rolls against Poison.
+
+#### Chorus
+{:#chorus}
+
+**2,600 Ryō per dose** · Huntsman · **30 IC**
+
+Spotters swear their voices carry a second tone on Chorus. Even in a crowded squad channel, the warning cuts through.
+
+When you use Point Out, hunters who hear you gain +2 on the Search it grants, in addition to its normal +5. A Search can receive this extra bonus once.
+
+**Crash.** Take −2 on your own Awareness rolls.
 
 # Exploding Tags
 {:#exploding-tags}

@@ -10749,7 +10749,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#shinobi-pharmaceuticals",
-    "text": "A soldier pill is not the only thing a modern hunters can swallow before doing something regrettable. Licensed clinics, field medics, black-market chemists, and village quartermasters sell combat pharmaceuticals across the hunters world. Drugs are ordinary purchasable gear. You do not need a clan, Talent, or medical background to use one. The trade-off is simple: the body gets the bill later."
+    "text": "Haven Ember’s clinics and quartermasters sell prepared doses. Anyone can use open stock. Specialist compounds list the skill or Corps rank needed to buy and use them."
   },
   {
     "title": "Drug Rules",
@@ -10827,6 +10827,48 @@
     "number": "VI",
     "url": "/rules/equipment/#kotaro-extract",
     "text": "Cost: 6,000 Ryo - Rare Duration: 30 IC Treat both Stamina and Chakra penalties as 1 lower and gain +3 Resistance against Poison. Crash: increase both penalties by 2. A character without Kodon metabolism also suffers Stun 5."
+  },
+  {
+    "title": "Nightglass",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#nightglass",
+    "text": "1,200 Ryō per dose · Open stock · 30 IC Watch officers call the black lozenges “second eyes.” Under lantern light, the user’s pupils shine like a cat’s. Gain +3 Awareness on Search actions. Crash. Take −3 Awareness on Search actions."
+  },
+  {
+    "title": "Anchor Salt",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#anchor-salt",
+    "text": "1,600 Ryō per dose · Trailhand · 30 IC Dock crews pass around these slate-grey wafers before hauling a river beast ashore. For a while, every plank feels level. Reduce the distance of numbered Knockback you suffer by 3 yards, minimum 0, after resolving defense. Crash. Increase each positive numbered Knockback distance you suffer by 3 yards after resolving defense."
+  },
+  {
+    "title": "Gecko Gum",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#gecko-gum",
+    "text": "1,800 Ryō per dose · Survival 5 · 30 IC Climbers tuck a square of amber gum behind one cheek. The last of the sweetness goes just before their fingers start to shake. While Clinging, gain +3 to Grapple Offense on Secure Grip and +3 to Grapple Defense against Shake Off. Crash. Take −3 on those same rolls."
+  },
+  {
+    "title": "Stillwater",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#stillwater",
+    "text": "2,200 Ryō per dose · Chakra Control 8 · 30 IC Seal scribes know the little blue vial by the ripple that stands still when they turn it over. Gain +3 on Chakra Control rolls to keep forming Handseals when you take damage. Crash. Take −3 on Chakra Control rolls to keep forming Handseals when you take damage."
+  },
+  {
+    "title": "Whitecap",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#whitecap",
+    "text": "2,400 Ryō per dose · Toxicology 8 · 30 IC The clinic stamps a blue wave on each white tablet. A bitter taste tells the hunter when the protection has worn off. Gain +4 on Resistance rolls against Poison. Crash. Take −4 on Resistance rolls against Poison."
+  },
+  {
+    "title": "Chorus",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#chorus",
+    "text": "2,600 Ryō per dose · Huntsman · 30 IC Spotters swear their voices carry a second tone on Chorus. Even in a crowded squad channel, the warning cuts through. When you use Point Out, hunters who hear you gain +2 on the Search it grants, in addition to its normal +5. A Search can receive this extra bonus once. Crash. Take −2 on your own Awareness rolls."
   },
   {
     "title": "Exploding Tags",
@@ -18162,7 +18204,7 @@
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/#items-shinobi-pharmaceuticals",
-    "text": "Shinobi Pharmaceuticals 10 ITEMS Redline 2,000 Ryō 30 IC ITEM RULES ↗ Quickstep 1,000 Ryō 30 IC ITEM RULES ↗ Iron Lung 1,500 Ryō 30 IC ITEM RULES ↗ Blue Focus 1,500 Ryō 30 IC ITEM RULES ↗ Morphine Field Ampoule 3,000 Ryō 30 IC ITEM RULES ↗ Amphetamine Combat Dose 5,000 Ryō 30 IC ITEM RULES ↗ Ketamine Counter-Gen Dose 4,000 Ryō 30 IC ITEM RULES ↗ Diethylamide Reflex Dose 7,500 Ryō 30 IC ITEM RULES ↗ Combat Steroid 3,500 Ryō 30 IC ITEM RULES ↗ Kotarō Extract 6,000 Ryō Rare · 30 IC ITEM RULES ↗"
+    "text": "Shinobi Pharmaceuticals 16 ITEMS Redline 2,000 Ryō 30 IC ITEM RULES ↗ Quickstep 1,000 Ryō 30 IC ITEM RULES ↗ Iron Lung 1,500 Ryō 30 IC ITEM RULES ↗ Blue Focus 1,500 Ryō 30 IC ITEM RULES ↗ Morphine Field Ampoule 3,000 Ryō 30 IC ITEM RULES ↗ Amphetamine Combat Dose 5,000 Ryō 30 IC ITEM RULES ↗ Ketamine Counter-Gen Dose 4,000 Ryō 30 IC ITEM RULES ↗ Diethylamide Reflex Dose 7,500 Ryō 30 IC ITEM RULES ↗ Combat Steroid 3,500 Ryō 30 IC ITEM RULES ↗ Kotarō Extract 6,000 Ryō Rare · 30 IC ITEM RULES ↗ Nightglass 1,200 Ryō · Open stock Search +3 · 30 IC ITEM RULES ↗ Anchor Salt 1,600 Ryō · Trailhand Reduce Knockback by 3 yards · 30 IC ITEM RULES ↗ Gecko Gum 1,800 Ryō · Survival 5 +3 on Secure Grip and against Shake Off · 30 IC ITEM RULES ↗ Stillwater 2,200 Ryō · Chakra Control 8 +3 to maintain Handseals under damage · 30 IC ITEM RULES ↗ Whitecap 2,400 Ryō · Toxicology 8 +4 Resistance against Poison · 30 IC ITEM RULES ↗ Chorus 2,600 Ryō · Huntsman Point Out grants +7 to the responding Search · 30 IC ITEM RULES ↗"
   },
   {
     "title": "Exploding Tags",

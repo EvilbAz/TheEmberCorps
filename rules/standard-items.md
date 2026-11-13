@@ -239,7 +239,7 @@ permalink: "/rules/standard-items/"
 <span class="armor-art"><img src="{{ '/assets/img/items/chakra-ink.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Chakra Ink</strong><span class="armor-price">900 Ryō</span><span class="armor-stats"><span>Five chakra-readable messages</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
-<section class="catalog-group" id="items-shinobi-pharmaceuticals"><div class="catalog-heading"><h2>Shinobi Pharmaceuticals</h2><span class="catalog-count">10 ITEMS</span></div><div class="catalog-grid">
+<section class="catalog-group" id="items-shinobi-pharmaceuticals"><div class="catalog-heading"><h2>Shinobi Pharmaceuticals</h2><span class="catalog-count">16 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#redline' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/redline.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Redline</strong><span class="armor-price">2,000 Ryō</span><span class="armor-stats"><span>30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
@@ -270,6 +270,24 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/equipment/#kotaro-extract' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/kotaro-extract.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Kotarō Extract</strong><span class="armor-price">6,000 Ryō</span><span class="armor-stats"><span>Rare · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#nightglass' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/nightglass.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Nightglass</strong><span class="armor-price">1,200 Ryō · Open stock</span><span class="armor-stats"><span>Search +3 · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#anchor-salt' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/anchor-salt.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Anchor Salt</strong><span class="armor-price">1,600 Ryō · Trailhand</span><span class="armor-stats"><span>Reduce Knockback by 3 yards · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#gecko-gum' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/gecko-gum.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Gecko Gum</strong><span class="armor-price">1,800 Ryō · Survival 5</span><span class="armor-stats"><span>+3 on Secure Grip and against Shake Off · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#stillwater' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/stillwater.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Stillwater</strong><span class="armor-price">2,200 Ryō · Chakra Control 8</span><span class="armor-stats"><span>+3 to maintain Handseals under damage · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#whitecap' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/whitecap.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Whitecap</strong><span class="armor-price">2,400 Ryō · Toxicology 8</span><span class="armor-stats"><span>+4 Resistance against Poison · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#chorus' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/chorus.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Chorus</strong><span class="armor-price">2,600 Ryō · Huntsman</span><span class="armor-stats"><span>Point Out grants +7 to the responding Search · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <section class="catalog-group" id="items-exploding-tags"><div class="catalog-heading"><h2>Exploding Tags</h2><span class="catalog-count">7 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#exploding-tags' | relative_url }}">
