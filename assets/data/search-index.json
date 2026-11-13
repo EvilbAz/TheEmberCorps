@@ -10913,6 +10913,48 @@
     "text": "5,500 Ryō per dose · Toxicology 12 · 30 IC Spirit mediums call it an empty-room dose. The seal on the packet shows a doorway with no one standing in it. The recipient takes −4 Genjutsu Defense against techniques that place another mind in their body, including Mind Body Switch. The possessing hunter must still use the technique, pay its costs and make its roll. Its normal control, release and duration rules apply. Crash. The recipient takes −2 Chakra Control on skill rolls."
   },
   {
+    "title": "Pharmaceutical Delivery Gear",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#pharmaceutical-delivery-gear",
+    "text": "One reusable device delivers one purchased dose of a Shinobi Pharmaceutical to its wearer as a Utility Action, Delay 0. Its listed Base Speed replaces the usual Speed 6 and uses the normal minimum Speed rules. Taking the dose includes readying the device. It cannot be linked to an Interrupt or used to dose someone else. Start with the Drug’s printed active duration and printed Crash duration (normally 30 IC each). Adjust each separately as listed below, minimum 1 IC, then apply the hunter’s own Drug modifiers. A change to Crash duration affects ongoing penalties. Stun, Fatigue and other effects applied once when the Crash begins resolve at their listed strength and timing. If you redose the same active Drug, pay for another dose and use the same delivery profile as the first dose, including its Base Speed. Reset the modified active duration and apply the normal escalating Crash and Resistance rules. For a Splitflow dose, apply its reduction once to the combined Crash."
+  },
+  {
+    "title": "Metered Inhaler",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#metered-inhaler",
+    "text": "1,800 Ryō · Open stock · Reusable Base Speed 4. Shorten the active effect by 10 IC."
+  },
+  {
+    "title": "Snap Injector",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#snap-injector",
+    "text": "4,200 Ryō · Trailhand · Reusable Base Speed 3. Shorten the active effect by 10 IC. Any ongoing Crash lasts 10 IC longer."
+  },
+  {
+    "title": "Reservoir Cuff",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#reservoir-cuff",
+    "text": "3,400 Ryō · Huntsman · Reusable Base Speed 8. Extend the active effect by 10 IC. Any ongoing Crash also lasts 10 IC longer."
+  },
+  {
+    "title": "Taper Inhaler",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#taper-inhaler",
+    "text": "2,600 Ryō · Toxicology 5 · Reusable Base Speed 6. Shorten the active effect by 10 IC and any ongoing Crash by 10 IC."
+  },
+  {
+    "title": "Splitflow Injector",
+    "volume": "Equipment & Crafting",
+    "number": "VI",
+    "url": "/rules/equipment/#splitflow-injector",
+    "text": "4,000 Ryō · Toxicology 10 · Reusable Base Speed 8. When the Crash begins, reduce one ongoing numerical penalty it applies by 1 point toward zero, minimum magnitude 1. Choose a penalty to a roll, an Attribute, Movement in yards, or a Stamina or Chakra penalty. Any ongoing Crash lasts 10 IC longer. For example, Nightglass through a Taper Inhaler gives +3 Awareness on Search for 20 IC, followed by −3 on Search for 20 IC. Nitro through the same inhaler lasts 20 IC, then advances Fatigue by 1 when it ends."
+  },
+  {
     "title": "Exploding Tags",
     "volume": "Equipment & Crafting",
     "number": "VI",
@@ -18190,7 +18232,7 @@
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/",
-    "text": "Browse field gear, medicines, tags and clan supplies. Select a card for its full rules. Ninja Tools Monster Hunting Gear Market Vegetables Camp Cookware Survival Infiltration Shinobi Pharmaceuticals Exploding Tags Special Projectiles Clan Supplies Ballistic Ammunition"
+    "text": "Browse field gear, medicines, tags and clan supplies. Select a card for its full rules. Ninja Tools Monster Hunting Gear Market Vegetables Camp Cookware Survival Infiltration Shinobi Pharmaceuticals Drug Delivery Gear Exploding Tags Special Projectiles Clan Supplies Ballistic Ammunition"
   },
   {
     "title": "Ninja Tools",
@@ -18247,6 +18289,13 @@
     "number": "VI",
     "url": "/rules/standard-items/#items-shinobi-pharmaceuticals",
     "text": "Shinobi Pharmaceuticals 22 ITEMS Redline 2,000 Ryō 30 IC ITEM RULES ↗ Quickstep 1,000 Ryō 30 IC ITEM RULES ↗ Iron Lung 1,500 Ryō 30 IC ITEM RULES ↗ Blue Focus 1,500 Ryō 30 IC ITEM RULES ↗ Morphine Field Ampoule 3,000 Ryō 30 IC ITEM RULES ↗ Amphetamine Combat Dose 5,000 Ryō 30 IC ITEM RULES ↗ Ketamine Counter-Gen Dose 4,000 Ryō 30 IC ITEM RULES ↗ Diethylamide Reflex Dose 7,500 Ryō 30 IC ITEM RULES ↗ Combat Steroid 3,500 Ryō 30 IC ITEM RULES ↗ Kotarō Extract 6,000 Ryō Rare · 30 IC ITEM RULES ↗ Nightglass 1,200 Ryō · Open stock Search +3 · 30 IC ITEM RULES ↗ Anchor Salt 1,600 Ryō · Trailhand Reduce Knockback by 3 yards · 30 IC ITEM RULES ↗ Gecko Gum 1,800 Ryō · Survival 5 +3 on Secure Grip and against Shake Off · 30 IC ITEM RULES ↗ Stillwater 2,200 Ryō · Chakra Control 8 +3 to maintain Handseals under damage · 30 IC ITEM RULES ↗ Whitecap 2,400 Ryō · Toxicology 8 +4 Resistance against Poison · 30 IC ITEM RULES ↗ Chorus 2,600 Ryō · Huntsman Point Out grants +7 to the responding Search · 30 IC ITEM RULES ↗ K10 9,500 Ryō · Warden Melee damage +15% · Wounds provoke retaliation · 30 IC ITEM RULES ↗ Kamikaze 4,500 Ryō · Huntsman Melee Accuracy +2 · Resistance +2 when Blocking · 30 IC ITEM RULES ↗ Deepweed 2,800 Ryō · Chakra Control 8 Sense chakra during Search within 15 yards · 30 IC ITEM RULES ↗ Nitro 3,200 Ryō · Trailhand Suppress one Wound’s roll penalties · Stamina rolls +2 · 30 IC ITEM RULES ↗ Zen 900 Ryō · Open stock Genjutsu Defense +2 · slower Dodge and Parry · 30 IC ITEM RULES ↗ Zombie Dust 5,500 Ryō · Toxicology 12 Prepares a vessel · −4 Defense against possession · 30 IC ITEM RULES ↗"
+  },
+  {
+    "title": "Drug Delivery Gear",
+    "volume": "Item Catalogue",
+    "number": "VI",
+    "url": "/rules/standard-items/#items-drug-delivery",
+    "text": "Drug Delivery Gear 5 ITEMS Metered Inhaler 1,800 Ryō · Open stock Base Speed 4 · Fast, short dose ITEM RULES ↗ Snap Injector 4,200 Ryō · Trailhand Base Speed 3 · Fastest dose, longer Crash ITEM RULES ↗ Reservoir Cuff 3,400 Ryō · Huntsman Base Speed 8 · Longer effect and Crash ITEM RULES ↗ Taper Inhaler 2,600 Ryō · Toxicology 5 Base Speed 6 · Shorter effect and Crash ITEM RULES ↗ Splitflow Injector 4,000 Ryō · Toxicology 10 Base Speed 8 · Milder penalty, longer Crash ITEM RULES ↗"
   },
   {
     "title": "Exploding Tags",

@@ -17,6 +17,7 @@ permalink: "/rules/standard-items/"
 <a href="#items-survival">Survival</a>
 <a href="#items-infiltration">Infiltration</a>
 <a href="#items-shinobi-pharmaceuticals">Shinobi Pharmaceuticals</a>
+<a href="#items-drug-delivery">Drug Delivery Gear</a>
 <a href="#items-exploding-tags">Exploding Tags</a>
 <a href="#items-special-projectiles">Special Projectiles</a>
 <a href="#items-clan-supplies">Clan Supplies</a>
@@ -306,6 +307,23 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/equipment/#zombie-dust' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/zombie-dust.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Zombie Dust</strong><span class="armor-price">5,500 Ryō · Toxicology 12</span><span class="armor-stats"><span>Prepares a vessel · −4 Defense against possession · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+</div></section>
+<section class="catalog-group" id="items-drug-delivery"><div class="catalog-heading"><h2>Drug Delivery Gear</h2><span class="catalog-count">5 ITEMS</span></div><div class="catalog-grid">
+<a class="armor-card" href="{{ '/rules/equipment/#metered-inhaler' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/metered-inhaler.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Metered Inhaler</strong><span class="armor-price">1,800 Ryō · Open stock</span><span class="armor-stats"><span>Base Speed 4 · Fast, short dose</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#snap-injector' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/snap-injector.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Snap Injector</strong><span class="armor-price">4,200 Ryō · Trailhand</span><span class="armor-stats"><span>Base Speed 3 · Fastest dose, longer Crash</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#reservoir-cuff' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/reservoir-cuff.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Reservoir Cuff</strong><span class="armor-price">3,400 Ryō · Huntsman</span><span class="armor-stats"><span>Base Speed 8 · Longer effect and Crash</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#taper-inhaler' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/taper-inhaler.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Taper Inhaler</strong><span class="armor-price">2,600 Ryō · Toxicology 5</span><span class="armor-stats"><span>Base Speed 6 · Shorter effect and Crash</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#splitflow-injector' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/splitflow-injector.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Splitflow Injector</strong><span class="armor-price">4,000 Ryō · Toxicology 10</span><span class="armor-stats"><span>Base Speed 8 · Milder penalty, longer Crash</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <section class="catalog-group" id="items-exploding-tags"><div class="catalog-heading"><h2>Exploding Tags</h2><span class="catalog-count">7 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#exploding-tags' | relative_url }}">

@@ -2701,6 +2701,52 @@ The recipient takes −4 Genjutsu Defense against techniques that place another 
 
 **Crash.** The recipient takes −2 Chakra Control on skill rolls.
 
+### Pharmaceutical Delivery Gear
+{:#pharmaceutical-delivery-gear}
+
+One reusable device delivers one purchased dose of a Shinobi Pharmaceutical to its wearer as a Utility Action, Delay 0. Its listed Base Speed replaces the usual Speed 6 and uses the normal minimum Speed rules. Taking the dose includes readying the device. It cannot be linked to an Interrupt or used to dose someone else.
+
+Start with the Drug’s printed active duration and printed Crash duration (normally 30 IC each). Adjust each separately as listed below, minimum 1 IC, then apply the hunter’s own Drug modifiers. A change to Crash duration affects ongoing penalties. Stun, Fatigue and other effects applied once when the Crash begins resolve at their listed strength and timing.
+
+If you redose the same active Drug, pay for another dose and use the same delivery profile as the first dose, including its Base Speed. Reset the modified active duration and apply the normal escalating Crash and Resistance rules. For a Splitflow dose, apply its reduction once to the combined Crash.
+
+#### Metered Inhaler
+{:#metered-inhaler}
+
+**1,800 Ryō** · Open stock · Reusable
+
+Base Speed 4. Shorten the active effect by 10 IC.
+
+#### Snap Injector
+{:#snap-injector}
+
+**4,200 Ryō** · Trailhand · Reusable
+
+Base Speed 3. Shorten the active effect by 10 IC. Any ongoing Crash lasts 10 IC longer.
+
+#### Reservoir Cuff
+{:#reservoir-cuff}
+
+**3,400 Ryō** · Huntsman · Reusable
+
+Base Speed 8. Extend the active effect by 10 IC. Any ongoing Crash also lasts 10 IC longer.
+
+#### Taper Inhaler
+{:#taper-inhaler}
+
+**2,600 Ryō** · Toxicology 5 · Reusable
+
+Base Speed 6. Shorten the active effect by 10 IC and any ongoing Crash by 10 IC.
+
+#### Splitflow Injector
+{:#splitflow-injector}
+
+**4,000 Ryō** · Toxicology 10 · Reusable
+
+Base Speed 8. When the Crash begins, reduce one ongoing numerical penalty it applies by 1 point toward zero, minimum magnitude 1. Choose a penalty to a roll, an Attribute, Movement in yards, or a Stamina or Chakra penalty. Any ongoing Crash lasts 10 IC longer.
+
+For example, Nightglass through a Taper Inhaler gives +3 Awareness on Search for 20 IC, followed by −3 on Search for 20 IC. Nitro through the same inhaler lasts 20 IC, then advances Fatigue by 1 when it ends.
+
 # Exploding Tags
 {:#exploding-tags}
 
