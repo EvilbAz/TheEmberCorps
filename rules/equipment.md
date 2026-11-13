@@ -2768,6 +2768,20 @@ Base Speed 5. Spend the dose when you fasten the patch to yourself. Choose 5 or 
 
 Base Speed 6. While the Drug is active, you may close the bracer as a Speed 3 Utility Action to end the effect and begin its full Crash immediately. If you leave it open, both timers run normally. An early cutoff preserves every Crash increase from redosing.
 
+#### Pullcord Locket
+{:#pullcord-locket}
+
+**2,200 Ryō** · Open stock · Reusable
+
+As a Speed 6 Utility Action, load one dose from your inventory and clip the locket to yourself or a willing teammate at 0 yards. The locket holds the dose until its wearer pulls the cord as a Base Speed 4 Utility Action. Check the wearer’s eligibility and redosing when they pull. The active effect lasts 5 IC less. Loading the locket spends the dose, and pulling the cord empties it. A wearer can keep one loaded locket ready.
+
+#### Afterbell Seal
+{:#afterbell-seal}
+
+**3,200 Ryō** · Toxicology 8 · Reusable
+
+Base Speed 6. Press the seal’s brass tongue flat when taking the dose. Shorten the active effect by 10 IC. When the effect ends, its benefits and drawbacks end together. Five IC later the tongue clicks free and the full Crash begins, including any Stun or Fatigue due at its onset. You cannot take the same Drug during those five IC. Redosing while the effect is active carries the entire accumulated Crash forward.
+
 # Exploding Tags
 {:#exploding-tags}
 

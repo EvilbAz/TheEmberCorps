@@ -308,7 +308,7 @@ permalink: "/rules/standard-items/"
 <span class="armor-art"><img src="{{ '/assets/img/items/zombie-dust.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Zombie Dust</strong><span class="armor-price">5,500 Ryō · Toxicology 12</span><span class="armor-stats"><span>Prepares a vessel · −4 Defense against possession · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
-<section class="catalog-group" id="items-drug-delivery"><div class="catalog-heading"><h2>Drug Delivery Gear</h2><span class="catalog-count">8 ITEMS</span></div><div class="catalog-grid">
+<section class="catalog-group" id="items-drug-delivery"><div class="catalog-heading"><h2>Drug Delivery Gear</h2><span class="catalog-count">10 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#metered-inhaler' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/metered-inhaler.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Metered Inhaler</strong><span class="armor-price">1,800 Ryō · Open stock</span><span class="armor-stats"><span>Base Speed 4 · Fast, short dose</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
@@ -333,6 +333,12 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/equipment/#cutoff-bracer' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/cutoff-bracer.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Cutoff Bracer</strong><span class="armor-price">3,000 Ryō · Toxicology 8</span><span class="armor-stats"><span>Base Speed 6 · Choose when to start the Crash</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#pullcord-locket' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/pullcord-locket.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Pullcord Locket</strong><span class="armor-price">2,200 Ryō · Open stock</span><span class="armor-stats"><span>Base Speed 4 · Carry a dose prepared by an ally</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#afterbell-seal' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/afterbell-seal.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Afterbell Seal</strong><span class="armor-price">3,200 Ryō · Toxicology 8</span><span class="armor-stats"><span>Base Speed 6 · Trade 10 IC of effect for a 5 IC Crash reprieve</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <section class="catalog-group" id="items-exploding-tags"><div class="catalog-heading"><h2>Exploding Tags</h2><span class="catalog-count">7 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#exploding-tags' | relative_url }}">
