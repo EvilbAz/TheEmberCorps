@@ -38,13 +38,13 @@ Record **quantity, Tribe and Combat Class** on one hunter’s inventory or the T
 
 | Tribe | Cut | Meal benefit |
 |---|---|---|
-| Fang | Runner’s flank | Increase the distance you can move with your own movement by 25%. |
-| Colossus | Marbled haunch | Start the encounter with temporary Vitality equal to 15% of your maximum Vitality. Lose it before ordinary Vitality. It cannot be replenished and expires after the encounter. |
-| Chitin | Shellback oyster | Reduce incoming attack damage by 10% at the percentage-reduction step. |
-| Sky | Wing muscle | Gain +2 Accuracy on attacks, including attacks that use rolled Accuracy. |
-| Coil | Ribbon loin | Gain +2 to Dodge and to all Grapple checks, including checks made while Clinging. |
-| Mire | River collar | Reduce the Stamina and Chakra costs of your actions by 10%. |
-| Colony | Brood pearls | Once per encounter, when you or a teammate you can see loses Vitality, restore 10% of that hunter’s maximum Vitality after the hit. One diner can answer each hit. Recovery cannot exceed normal maximum Vitality. |
+| Fang | <img src="{{ '/assets/img/items/runners-flank.svg' | relative_url }}" width="78" height="56" alt=""><br> Runner’s flank | Increase the distance you can move with your own movement by 25%. |
+| Colossus | <img src="{{ '/assets/img/items/marbled-haunch.svg' | relative_url }}" width="78" height="56" alt=""><br> Marbled haunch | Start the encounter with temporary Vitality equal to 15% of your maximum Vitality. Lose it before ordinary Vitality. It cannot be replenished and expires after the encounter. |
+| Chitin | <img src="{{ '/assets/img/items/shellback-oyster.svg' | relative_url }}" width="78" height="56" alt=""><br> Shellback oyster | Reduce incoming attack damage by 10% at the percentage-reduction step. |
+| Sky | <img src="{{ '/assets/img/items/wing-muscle.svg' | relative_url }}" width="78" height="56" alt=""><br> Wing muscle | Gain +2 Accuracy on attacks, including attacks that use rolled Accuracy. |
+| Coil | <img src="{{ '/assets/img/items/ribbon-loin.svg' | relative_url }}" width="78" height="56" alt=""><br> Ribbon loin | Gain +2 to Dodge and to all Grapple checks, including checks made while Clinging. |
+| Mire | <img src="{{ '/assets/img/items/river-collar.svg' | relative_url }}" width="78" height="56" alt=""><br> River collar | Reduce the Stamina and Chakra costs of your actions by 10%. |
+| Colony | <img src="{{ '/assets/img/items/brood-pearls.svg' | relative_url }}" width="78" height="56" alt=""><br> Brood pearls | Once per encounter, when you or a teammate you can see loses Vitality, restore 10% of that hunter’s maximum Vitality after the hit. One diner can answer each hit. Recovery cannot exceed normal maximum Vitality. |
 
 ## Combat Class Effects
 {:#class-effects}
