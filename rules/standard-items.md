@@ -308,7 +308,7 @@ permalink: "/rules/standard-items/"
 <span class="armor-art"><img src="{{ '/assets/img/items/zombie-dust.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Zombie Dust</strong><span class="armor-price">5,500 Ryō · Toxicology 12</span><span class="armor-stats"><span>Prepares a vessel · −4 Defense against possession · 30 IC</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
-<section class="catalog-group" id="items-drug-delivery"><div class="catalog-heading"><h2>Drug Delivery Gear</h2><span class="catalog-count">5 ITEMS</span></div><div class="catalog-grid">
+<section class="catalog-group" id="items-drug-delivery"><div class="catalog-heading"><h2>Drug Delivery Gear</h2><span class="catalog-count">8 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#metered-inhaler' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/metered-inhaler.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Metered Inhaler</strong><span class="armor-price">1,800 Ryō · Open stock</span><span class="armor-stats"><span>Base Speed 4 · Fast, short dose</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
@@ -324,6 +324,15 @@ permalink: "/rules/standard-items/"
 <a class="armor-card" href="{{ '/rules/equipment/#splitflow-injector' | relative_url }}">
 <span class="armor-art"><img src="{{ '/assets/img/items/splitflow-injector.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
 <span class="armor-meta"><strong>Splitflow Injector</strong><span class="armor-price">4,000 Ryō · Toxicology 10</span><span class="armor-stats"><span>Base Speed 8 · Milder penalty, longer Crash</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#relay-mask' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/relay-mask.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Relay Mask</strong><span class="armor-price">2,400 Ryō · Trailhand</span><span class="armor-stats"><span>Base Speed 6 · Treat a willing teammate</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#bellglass-patch' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/bellglass-patch.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Bellglass Patch</strong><span class="armor-price">2,100 Ryō · Open stock</span><span class="armor-stats"><span>Base Speed 5 · Choose when the dose starts</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
+<a class="armor-card" href="{{ '/rules/equipment/#cutoff-bracer' | relative_url }}">
+<span class="armor-art"><img src="{{ '/assets/img/items/cutoff-bracer.svg' | relative_url }}" width="200" height="145" alt="" loading="lazy"></span>
+<span class="armor-meta"><strong>Cutoff Bracer</strong><span class="armor-price">3,000 Ryō · Toxicology 8</span><span class="armor-stats"><span>Base Speed 6 · Choose when to start the Crash</span></span><span class="armor-card-link">ITEM RULES <span aria-hidden="true">↗</span></span></span></a>
 </div></section>
 <section class="catalog-group" id="items-exploding-tags"><div class="catalog-heading"><h2>Exploding Tags</h2><span class="catalog-count">7 ITEMS</span></div><div class="catalog-grid">
 <a class="armor-card" href="{{ '/rules/equipment/#exploding-tags' | relative_url }}">

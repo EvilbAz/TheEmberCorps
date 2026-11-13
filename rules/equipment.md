@@ -2704,11 +2704,13 @@ The recipient takes −4 Genjutsu Defense against techniques that place another 
 ### Pharmaceutical Delivery Gear
 {:#pharmaceutical-delivery-gear}
 
-One reusable device delivers one purchased dose of a Shinobi Pharmaceutical to its wearer as a Utility Action, Delay 0. Its listed Base Speed replaces the usual Speed 6 and uses the normal minimum Speed rules. Taking the dose includes readying the device. It cannot be linked to an Interrupt or used to dose someone else.
+Each device delivers one purchased dose of a Shinobi Pharmaceutical as a Utility Action, Delay 0. You dose yourself unless the device lists another recipient. Its listed Base Speed replaces the usual Speed 6 and uses the normal minimum Speed rules. Taking the dose includes readying the device. Delivery cannot be linked to an Interrupt.
 
 Start with the Drug’s printed active duration and printed Crash duration (normally 30 IC each). Adjust each separately as listed below, minimum 1 IC, then apply the hunter’s own Drug modifiers. A change to Crash duration affects ongoing penalties. Stun, Fatigue and other effects applied once when the Crash begins resolve at their listed strength and timing.
 
-If you redose the same active Drug, pay for another dose and use the same delivery profile as the first dose, including its Base Speed. Reset the modified active duration and apply the normal escalating Crash and Resistance rules. For a Splitflow dose, apply its reduction once to the combined Crash.
+If you redose the same active Drug, pay for another dose and use the same delivery profile as the first dose, including its Base Speed. A timed device starts or resets the Drug when it releases its dose. Reset the modified active duration and apply the normal escalating Crash and Resistance rules. For a Splitflow dose, apply its reduction once to the combined Crash.
+
+For example, Nightglass through a Taper Inhaler gives +3 Awareness on Search for 20 IC, followed by −3 on Search for 20 IC. Nitro through the same inhaler lasts 20 IC, then advances Fatigue by 1 when it ends.
 
 #### Metered Inhaler
 {:#metered-inhaler}
@@ -2745,7 +2747,26 @@ Base Speed 6. Shorten the active effect by 10 IC and any ongoing Crash by 10 IC.
 
 Base Speed 8. When the Crash begins, reduce one ongoing numerical penalty it applies by 1 point toward zero, minimum magnitude 1. Choose a penalty to a roll, an Attribute, Movement in yards, or a Stamina or Chakra penalty. Any ongoing Crash lasts 10 IC longer.
 
-For example, Nightglass through a Taper Inhaler gives +3 Awareness on Search for 20 IC, followed by −3 on Search for 20 IC. Nitro through the same inhaler lasts 20 IC, then advances Fatigue by 1 when it ends.
+#### Relay Mask
+{:#relay-mask}
+
+**2,400 Ryō** · Trailhand · Reusable
+
+Base Speed 6. Fit the mask to one conscious, willing teammate at 0 yards and spend one dose from your inventory. You take the action. The teammate receives the Drug and its Crash at their normal durations and must qualify to use the Drug. Check redosing against their active Drugs.
+
+#### Bellglass Patch
+{:#bellglass-patch}
+
+**2,100 Ryō** · Open stock · Reusable
+
+Base Speed 5. Spend the dose when you fasten the patch to yourself. Choose 5 or 10 IC. When that time has elapsed, the patch releases the dose without another action. Shorten the active effect by 5 IC. You may wear one pending patch. Removing it before release spends the dose without effect. Check redosing at release. A dose that would replace a different active delivery profile is lost.
+
+#### Cutoff Bracer
+{:#cutoff-bracer}
+
+**3,000 Ryō** · Toxicology 8 · Reusable
+
+Base Speed 6. While the Drug is active, you may close the bracer as a Speed 3 Utility Action to end the effect and begin its full Crash immediately. If you leave it open, both timers run normally. An early cutoff preserves every Crash increase from redosing.
 
 # Exploding Tags
 {:#exploding-tags}
