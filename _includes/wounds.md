@@ -63,9 +63,9 @@ Use the following OOC recovery times unless a Wound gives a specific exception:
 | Severe | 10.5 days | 7 days |
 | Critical | 21 days | 14 days |
 
-For several Wounds, take the full recovery time of one Wound of the highest severity, then add one quarter of each other Wound’s recovery time. Medical Attention can accelerate either recovery rate.
+Each Wound begins healing when you receive it or meet its treatment requirements. All eligible Wounds heal at the same time. Track each Wound from its own start time and remove its effects when it finishes healing. A new Wound starts its own recovery and does not delay an earlier one unless a Wound’s description says otherwise.
 
-If a Wound’s text says an activity interrupts recovery, retain completed progress but do not count the period of interruption.
+If an activity interrupts a Wound’s recovery, keep the progress already made and pause that Wound for the duration of the activity. Other eligible Wounds continue healing. Apply hospital recovery, Medical Attention, and any Wound-specific exceptions to each Wound individually.
 
 ### Medical Attention
 {:#medical-attention-2}
