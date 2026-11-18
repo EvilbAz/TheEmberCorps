@@ -86,7 +86,7 @@ You remain still and gather natural energy into your chakra network.
 
 Until this Action resolves, your Movement Speed is 0\. You cannot declare another non-Interrupt Action. If you voluntarily move or use an Interrupt, Gather Natural Chakra is aborted after that movement or Interrupt resolves.
 
-If you take damage while Gathering, make a Chakra Control roll using the normal interruption TN for maintaining Handseals. On a failure, Gather Natural Chakra is aborted.
+If damage gets through during Gather’s Delay, roll Chakra Control and exceed 10 + damage taken / 10, as for [handseals]({{ "/rules/core/#perform-handseals" | relative_url }}). On a failure, Gather Natural Chakra is aborted.
 
 When Gather resolves **outside Sage Mode**, gain **3 Sage Chakra**. When it resolves **in Sage Mode**, gain **2**. Apply your pool maximum after any additional gain. An aborted Gather grants nothing.
 
@@ -98,7 +98,7 @@ Gather Natural Chakra is not a Jutsu and causes no Chakra Exhaustion. Any effect
 {:#sage-turn-examples}
 
 - **Toad at the gate.** At Sage Power 1 you enter Mode on IC 10 and choose Springing. On IC 13, a target stands 5 yards away across a ditch. Spend 1 of your 3 Sage Chakra and combine Pond-Leap with a basic unarmed attack. Land in melee on the far bank. The attack is Speed 9, carries Springing’s +1 Accuracy, and a full hit adds Knockback 2. Without other modifiers you act again on 22.
-- **Roc above a quarry.** On IC 13, spend 1 to Updraft Step to a point 5 yards over a reachable melee target. On IC 16 spend 1 to link Talon Dive (your elective) to a basic unarmed attack and descend those 5 yards. Even at 25 AGI the Dive covers the descent. On a miss you still land if the ground supports you. If you had to Dodge at IC 14, your next action would move to 18 and the three-count suspension would expire on 16.
+- **Roc above a quarry.** On IC 13, spend 1 to Updraft Step to a point 5 yards over a reachable melee target. On IC 16 spend 1 to link Talon Dive (your elective) to a basic unarmed attack and descend those 5 yards. Even at 25 AGI the Dive covers the descent. On a miss you still land if the ground supports you. If you Dodge at IC 14 without moving, your next main action moves to 18 and you dive on 18 instead. At Sage Power 3 you could Step 20 yards up, then dive those 20 yards to the same target. If it moves out of reach, choose another legal action from your perch.
 
 ## SAGE MODE
 {:#sage-mode}
@@ -127,7 +127,7 @@ While Sage Mode is active:
 
 Sage Mode’s Upkeep uses normal Chakra rather than Sage Chakra. Normal exhaustion, Fatigue and Stamina penalties remain. The Mode ends with the scene.
 
-Pay Sage Chakra when you declare the effect. If you spend your last point, apply that effect with the Sage Power and Mode bonuses you had at declaration, then end Mode. While a final-point effect is pending, you cannot spend more Sage Chakra or start another Sage Art. If the effect is aborted, the spent points stay spent and Mode ends. Effects expressly sustained by Mode end with it. A resolved hit, heal, movement or timed status keeps its result. You may end Sage Mode at Speed 0\.
+Pay Sage Chakra when you declare the effect. If you spend your last point, apply that effect with the Sage Power and Mode bonuses you had at declaration, then end Mode. For an attack or defence, resolve its roll, movement, damage and effects before ending Mode. A stance, mark, patch or perch is established when its action resolves. Its duration does not keep Mode alive. Spending your last point on Updraft Step therefore requires a landing if you want to avoid Falling. While a final-point effect is pending, you cannot spend more Sage Chakra or start another Sage Art. If the effect is aborted, the spent points stay spent and Mode ends. Effects expressly sustained by Mode end with it. A resolved hit, heal, movement or timed status keeps its result. You may end Sage Mode at Speed 0\.
 
 
 # SAGE TRADITIONS
@@ -194,7 +194,7 @@ A Wild Sage learned from a place, phenomenon, solitary creature or incomplete tr
 
 Whenever you enter Sage Mode, choose Body, Instinct or Spirit. When your Gather resolves in Mode, you may switch aspects. The selected benefit lasts until you switch or leave Mode.
 
-When you use Nature Pulse, you can read the terrain in place of Searching for creatures. Touch a continuous natural surface and use Survival in place of Awareness. Within the Pulse’s usual range, Body finds a surface strong enough to support a named load, Instinct follows the freshest physical trail across a gap in its visible tracks, and Spirit locates a disturbance left by active Senjutsu. Name what you need before rolling. Use the scene’s Survival TN, or oppose the concealing creature’s Stealth for a hidden trail. On success the GM gives one location or direction, or confirms there is no matching sign within reach.
+When you use Nature Pulse, you can read the terrain in place of Searching for creatures. Touch a continuous natural surface and use Survival in place of Awareness. Within the Pulse’s usual range, Body finds a surface strong enough to support a named load, Instinct follows the freshest physical trail across a gap in its visible tracks, and Spirit locates a disturbance left by active Senjutsu. Name what you need before rolling. Use the scene’s Survival TN. For a concealed trail use its established concealment TN, or the concealing creature’s Stealth roll if none has been set. On success the GM gives one location or direction, or confirms there is no matching sign within reach.
 
 Body — Gain Sage Power to Resistance rolls.
 
@@ -228,7 +228,7 @@ On entering Sage Mode and whenever Gather resolves in Mode, choose Steady or Spr
 
 Steady — Until the beginning of your next non-Interrupt Action, gain Sage Power to Resistance rolls and reduce Knockback you suffer by 2 × Sage Power yards, minimum 0\.
 
-Springing — Your next Taijutsu Attack gains Sage Power Accuracy. On a full hit, it also deals 2 × Sage Power Knockback. This benefit ends when that Attack resolves or when you begin a different non-Interrupt Action.
+Springing — Your next Taijutsu Attack gains Sage Power Accuracy. On a full hit, it also deals 2 × Sage Power Knockback. If you linked Ripple Strike, add both distances and resolve one shove, then check Ripple Strike’s Prone trigger once. This benefit ends when that Attack resolves or when you begin a different non-Interrupt Action.
 
 ### ( <span lang="ja">池跳び</span> ) Ike Tobi - Pond-Leap
 {:#pond-leap-sage-art .jutsu-technique}
@@ -257,7 +257,7 @@ Add Ripple Strike to a damaging Melee Taijutsu Attack when it is declared. On a 
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span></span>
 
-While in Sage Mode and in contact with the ground or a continuous body of water, increase Sage Sense by 5 for Awareness rolls made to detect, Search for or track moving creatures within 10 × Sage Rank yards that are touching the same continuous surface. This does not grant line of sight or automatically defeat Stealth; hidden creatures still contest your Search normally.
+While in Sage Mode and in contact with the ground or a continuous body of water, you may Search for movement through that same surface without line of sight. Increase Sage Sense by 5 for Awareness rolls made to detect, Search for or track moving creatures within 10 × Sage Rank yards that are touching the same continuous surface. This does not grant line of sight or automatically defeat Stealth; hidden creatures still contest your Search normally.
 
 ### ( <span lang="ja">背守り</span> ) Semamori - Broad-Backed Guard
 {:#broad-backed-guard-sage-art .jutsu-technique}
@@ -310,7 +310,7 @@ While in Sage Mode, your Melee Taijutsu Attacks may originate up to Sage Power y
 
 Cost: 1 Sage Chakra.
 
-Use this as a Speed 1 Utility Action while suffering physical Immobilization, or as a Speed 1 Interrupt immediately after you gain physical Immobilization from restraints, bindings, grappling effects or terrain. Reduce that Immobilization by 2 \+ Sage Power. Shed the Binding cannot reduce Paralysis, mental effects or Immobilization caused by a Wound. If you clear the last physical Immobilization holding you in place, leave a hollow skin at your feet and slip up to 2 + Sage Power yards along a legal path. Resolve the triggering attack first. The slip cannot free you from a Clinch, Pin or separate restraint.
+Use this as a Speed 1 Utility Action while suffering physical Immobilization, or as a Speed 1 Interrupt immediately after you gain physical Immobilization from restraints, bindings, grappling effects or terrain. Reduce that Immobilization by 2 \+ Sage Power. Shed the Binding cannot reduce Paralysis, mental effects or Immobilization caused by a Wound. If you clear the last physical Immobilization holding you in place, leave a hollow skin at your feet and slip up to 2 + Sage Power yards along a legal path. For the Interrupt, finish the triggering effect first and add the Interrupt’s final Speed to your scheduled IC. The slip cannot free you from a Clinch, Pin or separate restraint.
 
 ### ( <span lang="ja">毒の交感</span> ) Doku no Kōkan - Venomous Communion
 {:#venomous-communion-sage-art .jutsu-technique}
@@ -375,7 +375,11 @@ While in Sage Mode, up to Sage Power yards of the distance you move during each 
 
 Cost: 1 Sage Chakra.
 
-Move up to 5 \+ (5 × Sage Power) yards. Sky-Borne Balance applies to this movement, and you may change direction once during it. If you finish unsupported in Sage Mode, you may hold that height for up to 3 IC. If your next main action comes due within that window, declare it from that height, then the suspension ends. It ends early if you move, are moved or leave Sage Mode. If still unsupported when it ends, begin Falling normally. You may also use Updraft Step as a Speed 3 rescue Interrupt when a willing ally within the Step’s distance begins Falling. Spend its normal cost, fly to the ally along a clear path and carry them with the remaining distance to a surface that supports both of you. Declare a reachable landing before spending the cost. Resolve this after the triggering attack and before the first IC of falling. Add its final Speed to your scheduled IC. Only one rescue can resolve for the same fall.
+Move up to 5 \+ (5 × Sage Power) yards. Sky-Borne Balance applies to this movement, and you may change direction once during it. If you finish unsupported in Sage Mode, record your position and height. You are perched until your next main action becomes available. While perched, skip Falling movement, penalties and impact damage. A stationary Interrupt advances your scheduled IC normally and the perch lasts to that new count. Forced movement, voluntary movement off the perch, incapacitation or leaving Mode ends it early.
+
+On your next available count, declare from the perch. Apply an immediate approach, landing or new source of support before checking for a fall. Hang Upon the Sky supplies support when you declare Gather. An unrelated action, a Wait or passing the count releases the perch immediately. An action’s Delay grants no extra time aloft. If unsupported after the handoff, use the normal [Falling rules]({{ '/rules/core/#falling' | relative_url }}) from your current height.
+
+**Rescue.** You may also use Updraft Step as a Speed 3 rescue Interrupt when a willing ally within the Step’s distance begins Falling. Spend its normal cost, fly to the ally along a clear path and carry them with the remaining distance to a surface that supports both of you. Declare a reachable landing before spending the cost. Resolve this after the triggering attack and before the first IC of falling. This reacts to the start of Falling and is not a defence against the triggering attack. Add its final Speed to your scheduled IC. Only one rescue can resolve for the same fall.
 
 ### ( <span lang="ja">鉤爪落とし</span> ) Kagizume Otoshi - Talon Dive
 {:#talon-dive-sage-kata .jutsu-technique}
@@ -386,7 +390,7 @@ Move up to 5 \+ (5 × Sage Power) yards. Sky-Borne Balance applies to this movem
 
 Cost: 1 Sage Chakra.
 
-Add Talon Dive to a damaging Melee Taijutsu Attack if you moved at least 5 yards downward immediately before declaring it. If you start above your target, you may dive toward it as the approach for this attack. Descend up to 5 yards or your usual Move with an Attack distance, whichever is greater. Use one approach and check melee range from the endpoint. A descent of at least 5 yards qualifies immediately, including on the IC your Updraft Step suspension ends. If you finish on a supporting surface, land there safely. Otherwise resume Falling from your new height. On a full hit, add Sage Power Damage Dice and increase Final Damage by 5% × Sage Power. The Attack counts as Senjutsu.
+Add Talon Dive to a damaging Melee Taijutsu Attack if you moved at least 5 yards downward immediately before declaration or will descend that far on the attack’s own legal approach. If you start above your target, you may dive toward it as the approach for this attack. The approach covers up to the greater of 5 yards and your usual Move with an Attack distance. From a Roc perch, the minimum allowance is your Updraft Step distance (5 + 5 × Sage Power yards). Measure the entire clear approach path, including any horizontal travel. Use one approach and check melee range from the endpoint. A descent of at least 5 yards qualifies immediately, including on the IC your Updraft Step suspension ends. If you finish on a supporting surface, land there safely. Otherwise resume Falling from your new height. On a full hit, add Sage Power Damage Dice and increase Final Damage by 5% × Sage Power. The Attack counts as Senjutsu.
 
 ### ( <span lang="ja">翼守り</span> ) Tsubasa Mamori - Wing Guard
 {:#wing-guard-sage-art .jutsu-technique}
@@ -397,7 +401,7 @@ Add Talon Dive to a damaging Melee Taijutsu Attack if you moved at least 5 yards
 
 Cost: 1 Sage Chakra.
 
-Declare after becoming the target of a Ranged Attack or Area Attack but before rolling Dodge. Gain 2 \+ Sage Power to that Dodge roll. If the defence succeeds, move up to Sage Power yards after the Attack resolves without spending AP. This uses the normal Speed of the Dodge and does not create a separate defence.
+Declare after becoming the target of a Ranged Attack or Area Attack but before rolling Dodge. Gain 2 \+ Sage Power to that Dodge roll. On a full Dodge, you may move up to Sage Power yards after the Attack resolves. Staying in place preserves a perch. If you drift off it, land on a supporting surface or begin Falling at the endpoint. This uses the normal Speed of the Dodge and does not create a separate defence.
 
 ### ( <span lang="ja">風送り</span> ) Kaze Okuri - Carry on the Wind
 {:#carry-on-the-wind-sage-art .jutsu-technique}
@@ -408,7 +412,7 @@ Declare after becoming the target of a Ranged Attack or Area Attack but before r
 
 Cost: 1 Sage Chakra.
 
-Choose one willing creature in Melee. Move yourself and that creature up to 3 \+ (3 × Sage Power) yards. Sky-Borne Balance applies. Both creatures must end in legal locations and within Melee of one another.
+Choose one willing creature in Melee. Move yourself and that creature up to 3 \+ (3 × Sage Power) yards. Sky-Borne Balance applies. Choose a clear route ending with both creatures supported and within Melee of one another. A willing ally can be airborne at pickup. The carrier’s perch does not support a passenger.
 
 ### ( <span lang="ja">空留まり</span> ) Sora Domari - Hang Upon the Sky
 {:#hang-upon-the-sky-sage-art .jutsu-technique}
@@ -417,7 +421,7 @@ Choose one willing creature in Melee. Move yourself and that creature up to 3 \+
 
 Requires: Sage Rank 4\.
 
-You may use Gather Natural Chakra while unsupported in the air. While Gathering this way you remain suspended instead of Falling. Your Movement Speed is 0 unless another Sage Art specifically allows you to move while Gathering. On a successful airborne Gather in Mode, you may keep your perch until your next main action, for up to 3 IC, using Updraft Step’s suspension rules. An aborted Gather gives no perch. If you are still unsupported when the perch ends, begin Falling.
+You may use Gather Natural Chakra while unsupported in the air. While Gathering this way you remain suspended instead of Falling. Your Movement Speed is 0 unless another Sage Art specifically allows you to move while Gathering. On a successful airborne Gather in Mode, you may keep your perch until your next available main action under Updraft Step’s perch rules. The perch starts when Gather resolves, covering the gap between its Delay and your scheduled IC. An aborted Gather gives no perch. If you are still unsupported when the perch ends, begin Falling.
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="tortoise-sage-panel" markdown="1">
@@ -437,7 +441,7 @@ Sage Mode Appearance — The silhouette thickens, geometric or plate-like markin
 ### Ancient Carapace — Signature Trait
 {:#ancient-carapace-signature-trait}
 
-While in Sage Mode, increase Block's percentage damage reduction by 5% × Sage Power, to the normal maximum of 75%. You also gain Sage Power to Resistance rolls made against an Attack you Block. When you begin Prepare Blocking or Gather with Still Shell, name one willing adjacent ally. While you stay in place and that preparation continues, you may use Take The Hit for them at Speed 3 instead of 6. Use its normal roll and legality checks. On an intercept you may use your prepared Block. If you intercept while Gathering, finish the interception and any permitted Block, then abort Gather without gaining chakra. Sheltering Carapace remains available when you have no Block prepared.
+While in Sage Mode, add 5 percentage points × Sage Power to Block’s reduction, capped at 75%. At Power 1 a basic Block reduces unarmed damage by 55% and weapon damage by 30%. You also gain Sage Power to Resistance rolls made against an Attack you Block. When you begin Prepare Blocking or Gather with Still Shell, name one willing adjacent ally. While you stay in place and that preparation continues, you may use Take The Hit for them at Speed 3 instead of 6. Use its normal roll and legality checks. On a successful intercept you may use your prepared Block once against the intercepted hit. This is the same Block that Sheltering Carapace grants outside preparation. If you attempt the intercept while Gathering, finish the interception and any permitted Block, then abort Gather whether the intercept succeeded or failed. Sheltering Carapace remains available when you have no Block prepared.
 
 ### ( <span lang="ja">静かなる甲羅</span> ) Shizuka naru Kōra - Still Shell
 {:#still-shell-sage-art .jutsu-technique}
@@ -522,7 +526,7 @@ Fill a radius of 2 + Sage Power yards with drifting scales. The area imposes a V
 
 Cost: 1 Sage Chakra.
 
-Choose one creature you can currently detect. Until Sage Mode ends or you mark a new creature, reduce that creature's Stealth TN against your Searches by 2 \+ Sage Power. Powder Mark does not prevent Stealth and does not reveal the target automatically. As part of placing the mark, choose a willing ally within 5 yards and dust their eyelids. While the mark lasts, that ally also gets the Search benefit against the marked creature and can see through your Dust Veil without its penalty.
+Choose one creature you can currently detect. Until Sage Mode ends or you mark a new creature, reduce that creature's Stealth TN against your Searches by 2 \+ Sage Power. Powder Mark does not prevent Stealth and does not reveal the target automatically. As part of placing the mark, you may choose one willing ally within 5 yards and dust their eyelids. While the mark lasts, that ally also gets the Search benefit against the marked creature and can see through your Dust Veil without its penalty.
 
 ### ( <span lang="ja">月翅流し</span> ) Tsukibane Nagashi - Moonwing Drift
 {:#moonwing-drift-sage-art .jutsu-technique}
@@ -540,7 +544,7 @@ Move up to 3 \+ (3 × Sage Power) yards. If you began this movement in Stealth, 
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span></span>
 
-When a damaging Taijutsu or Ninjutsu Attack fully hits and deals at least 1 damage after mitigation, you may spend 1 Sage Chakra and make a Chakra Control Status Roll against the target's Resistance. On a failure, they suffer a Visibility Penalty equal to 2 \+ Sage Power for 10 IC. If they are already suffering a greater Visibility Penalty, use the greater value rather than adding them together.
+When a damaging Taijutsu or Ninjutsu Attack fully hits and deals at least 1 damage after mitigation, you may spend 1 Sage Chakra and make a Chakra Control Status Roll against the target's Resistance. If the target fails, they suffer a Visibility Penalty equal to 2 \+ Sage Power for 10 IC. If they are already suffering a greater Visibility Penalty, use the greater value rather than adding them together.
 
 ### ( <span lang="ja">繭の静寂</span> ) Mayu no Seijaku - Cocooned Stillness
 {:#cocooned-stillness-sage-art .jutsu-technique}
@@ -589,7 +593,7 @@ Nature Pulse has double its normal range when used to Search for creatures suffe
 
 Cost: 1 Sage Chakra.
 
-Add Scavenger's Claim to a damaging Taijutsu or Ninjutsu Attack against a creature suffering a Wound or Bleed. That Attack gains 10% \+ (5% × Sage Power) Wounding. Scavenger's Claim does not increase the Attack's Final Damage. When declaring this attack against a Wild Hunt Monster with an Open Wound, you may trade the Wounding bonus for a handoff. On a full targeted hit to that location, an ally you name can exploit the same opening up to 5 IC after it would normally close. Only that ally’s first targeted hit there gets the extension. A broken part ends the benefit immediately and handoffs cannot extend one another.
+Add Scavenger's Claim to a damaging Taijutsu or Ninjutsu Attack against a creature suffering a Wound or Bleed. That Attack gains 10% \+ (5% × Sage Power) Wounding. Scavenger's Claim does not increase the Attack's Final Damage. When declaring this attack against a Wild Hunt Monster with an Open Wound, you may trade the Wounding bonus for a handoff. On a full targeted hit to that location, an ally you name can exploit the same opening up to 5 IC after it would normally close. Record the ordinary expiry IC and that IC + 5. Until ordinary expiry everyone uses the usual Open Wound rules. Afterward only the named ally can exploit the extension, once, with a targeted hit resolved by the later IC (inclusive). A broken part ends the benefit immediately and handoffs cannot extend one another.
 
 ### ( <span lang="ja">傷追いの輪</span> ) Kizuoi no Wa - Circle the Wounded
 {:#circle-the-wounded-sage-art .jutsu-technique}
@@ -600,7 +604,7 @@ Add Scavenger's Claim to a damaging Taijutsu or Ninjutsu Attack against a creatu
 
 Cost: 1 Sage Chakra.
 
-Choose one detected creature to circle until Sage Mode ends or you choose another. Its injury activates the following benefits: gain Sage Power to Defensive rolls against it and increase movement directly toward it on Move or Movement actions by 25%. Once per enemy action, after your circled quarry voluntarily moves away, you may follow up to 3 + Sage Power yards toward it as a Speed 2 Interrupt. Add 2 to your scheduled IC. You must still detect the quarry and have a legal path. Forced movement grants no pursuit.
+Choose one detected creature to circle until Sage Mode ends or you choose another. All three benefits below, including pursuit, apply only while the quarry suffers a Wound or Bleed or meets Blood on the Wind’s hunt condition: gain Sage Power to Defensive rolls against it and increase movement directly toward it on Move or Movement actions by 25%. Once per enemy action, after your circled quarry voluntarily moves away, you may follow up to 3 + Sage Power yards toward it as a Speed 2 Interrupt. Add 2 to your scheduled IC. You must still detect the quarry and have a legal path. Forced movement grants no pursuit.
 
 ### ( <span lang="ja">屍喰いの交感</span> ) Shikabane Kui no Kōkan - Scavenger's Communion
 {:#scavenger-s-communion-sage-art .jutsu-technique}
@@ -653,7 +657,7 @@ While in Sage Mode and in contact with natural earth, living vegetation or an ar
 
 Cost: 1 Sage Chakra.
 
-Choose a point on solid ground within 10 yards. A radius of 2 \+ Sage Power yards around that point becomes Rocky Terrain with severity equal to Sage Power as mycelial growth spreads across the surface. You ignore Immobilization caused by your own Mycelial Ground. Keep up to two patches in Mode. On creating a third, uproot one of the first two. Each patch must be placed within the normal 10 yards of you. Two patches on the same uninterrupted solid surface link while their centres are within 15 yards. While touching either patch you can speak quietly to willing creatures touching the other. You may also originate Spore Veil, Hyphal Snare or Nature Pulse from the other centre. Measure range there, pay the normal cost and make the normal rolls. An attack still requires you to perceive its target. Gaps in the surface break the link and Mode ending clears both patches.
+Choose a point on solid ground within 10 yards. A radius of 2 \+ Sage Power yards around that point becomes Rocky Terrain with severity equal to Sage Power as mycelial growth spreads across the surface. On placement, roll Chakra Control once. Each other creature already inside may roll Resistance against that total. On a tie or success, halve its initial terrain penalty, rounded down. Then use the normal Rocky Terrain footing rules. You ignore Immobilization caused by your own Mycelial Ground. Keep up to two patches in Mode. On creating a third, uproot one of the first two. Each patch must be placed within the normal 10 yards of you. Two patches on the same uninterrupted solid surface link while their centres are within 15 yards. While touching either patch you can speak quietly to willing creatures touching the other. You may also originate Spore Veil, Hyphal Snare or Nature Pulse from the other centre. Measure range there, pay the normal cost and make the normal rolls. An attack still requires you to perceive its target. Gaps in the surface break the link and Mode ending clears both patches.
 
 ### ( <span lang="ja">胞子の帳</span> ) Hōshi no Tobari - Spore Veil
 {:#spore-veil-sage-art .jutsu-technique}
@@ -738,13 +742,15 @@ While in Sage Mode, gain Sage Power to Resistance rolls made to resist Burn, Poi
 ### ( <span lang="ja">再生</span> ) Saisei - Regrowth
 {:#regrowth-sage-art .jutsu-technique}
 
-<span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span></span>
+<span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Touch</span></span>
 
-\[Speed 5, Utility, Self\]
+\[Speed 5, Utility, Self or Touch\]
 
 Cost: 1 Sage Chakra.
 
-Restore Vitality equal to 5% × Sage Power of your maximum Vitality, up to your normal maximum. Regrowth does not restore HP, heal Wounds or remove the effects of a Wound. Alternatively, place a hand on a willing adjacent creature as the Speed 5 action. They receive the Vitality based on their maximum. A given ally may receive Regrowth once per 20 IC, across all Salamander Sages. You may also take up to 1 + Sage Power severity of one transferable Burn, Bleed or Poison from them. Reduce their severity by the amount you take. Apply it to yourself immediately for the remaining duration, using normal stacking rules. Wound effects, effects that forbid removal and effects you are immune to cannot be transferred.
+Range: Self or Touch.
+
+Restore Vitality equal to 5% × Sage Power of your maximum Vitality, up to your normal maximum. Regrowth does not restore HP, heal Wounds or remove the effects of a Wound. Alternatively, place a hand on a willing adjacent creature as the Speed 5 action. They receive the Vitality based on their maximum. Record the recipient’s next eligible IC as the current IC + 20. This ally limit is shared across all Salamander Sages. A full-Vitality ally can receive a transfer and uses the same cooldown. You may also take up to 1 + Sage Power severity of one transferable Burn, Bleed or Poison from them. Reduce their severity by the amount you take. Apply it to yourself immediately for the remaining duration, using normal stacking rules. Wound effects, effects that forbid removal and effects you are immune to cannot be transferred.
 
 ### ( <span lang="ja">脱皮抜け</span> ) Dappi Nuke - Molt Away
 {:#molt-away-sage-art .jutsu-technique}
@@ -774,7 +780,9 @@ Once per battle, when a Stamina or Chakra Exhaustion roll would advance you beyo
 # SAGE ARTS
 {:#sage-arts}
 
-Use active Arts in Sage Mode unless their text says otherwise. Passive changes to your pool, Gather or Mode entry apply whenever you perform the named action, including before entry. If an Art scales using Sage Power, use your current Sage Power when the effect is declared. When an Art adds Damage Dice, use the attack’s base die size. For mixed dice, use its smallest base damage die. An attack without base damage dice gains none.
+Use active Arts in Sage Mode unless their text says otherwise. Passive changes to your pool, Gather or Mode entry apply whenever you perform the named action, including before entry. A standalone action uses its printed Speed. A Modifier adds its Speed to the host action. A benefit worded “when,” “before” or “after” rides its named action or roll unless it gives its own Speed. It cannot grant another defence against the same hit. Pay each selected cost once at its printed trigger. A conditional on-hit cost is due only if that trigger happens.
+
+Use Sage Power at declaration. When an entry says “until the beginning of your next non-Interrupt Action,” remove the benefit just before declaring that action. A learned passive that modifies Gather works on either side of Mode entry unless the passive itself requires Mode. When an Art adds Damage Dice, use the attack’s base die size. For mixed dice, use its smallest base damage die. An attack without base damage dice gains none.
 
 ## ( <span lang="ja">深き器</span> ) Fukaki Utsuwa - Deep Reservoir
 {:#deep-reservoir .jutsu-technique}
@@ -876,7 +884,7 @@ When you declare a Move Action or another Action with the Movement tag, you may 
 
 Cost: 1 Sage Chakra.
 
-Make an Awareness Search for living creatures and active chakra sources within 10 × Sage Rank yards. You may Search even without line of sight, although walls, dense terrain, distance and overwhelming ambient chakra may still apply Visibility Penalty. Hidden creatures contest the Search normally with Stealth.
+Make an Awareness Search for living creatures and active chakra sources within 10 × Sage Rank yards. You may Search even without line of sight, although walls, dense terrain, distance and overwhelming ambient chakra may still apply Visibility Penalty. Roll Awareness once and compare the result to each hidden creature’s existing Stealth TN. Meeting that TN detects it for you. Apply the normal consecutive Search bonus. For an unobscured, unconcealed source in range, report its bearing without an opposed roll.
 
 On success, learn direction and rough distance. Nature Pulse does not reveal statistics, Jutsu, identity or other information that could not be inferred from the sensed chakra. When you detect someone, you can relay the bearing to an ally who can hear as part of the same action. They can act on that information or Search the indicated area. They must still detect a hidden target themselves to attack it directly.
 
@@ -894,7 +902,7 @@ When you complete a Rest while in Sage Mode, you may spend 1 Sage Chakra. Improv
 
 Requires: Sage Rank 3\.
 
-When you declare Gather Natural Chakra, you may choose to remain mobile. If you do, Gather's normal Movement Speed 0 restriction is replaced: during its Delay, you may move each IC as though you were taking a Move Action, but at 25% of your normal movement rate. This movement is part of Gather, does not count as declaring another Action, and does not abort Gather. You still cannot declare another non-Interrupt Action until Gather resolves, and all other interruption rules apply.
+When you declare Gather Natural Chakra, you may choose to remain mobile. If you do, Gather's normal Movement Speed 0 restriction is replaced: during its Delay, you may move each IC as though you were taking a Move Action, but at 25% of your normal movement rate. This movement is part of Gather, does not count as declaring another Action, and does not abort Gather. Add fractional movement across the Delay before applying any normal distance rounding. You still cannot declare another non-Interrupt Action until Gather resolves, and all other interruption rules apply.
 
 ## ( <span lang="ja">流れる交感</span> ) Nagareru Kōkan - Flowing Communion
 {:#flowing-communion .jutsu-technique}
@@ -903,7 +911,7 @@ When you declare Gather Natural Chakra, you may choose to remain mobile. If you 
 
 Requires: Sage Rank 4\.
 
-When Gather Natural Chakra resolves while you are in Sage Mode, you may immediately spend 1 AP. If you do, gain 1 additional Sage Chakra. This brings that Gather to 3 Sage Chakra before applying your maximum.
+When Gather Natural Chakra resolves while you are in Sage Mode, you may immediately spend 1 AP. If you have room above the normal gain and do so, gain 1 additional Sage Chakra. This brings that Gather to 3 Sage Chakra before applying your maximum.
 
 ## ( <span lang="ja">仙人の器</span> ) Sennin no Utsuwa - Sage Reservoir
 {:#sage-reservoir .jutsu-technique}
@@ -912,7 +920,7 @@ When Gather Natural Chakra resolves while you are in Sage Mode, you may immediat
 
 Requires: Sage Rank 4 and Deep Reservoir.
 
-Once per battle, when an effect would spend your final Sage Chakra, reduce that Sage Chakra cost by 1, minimum 0\. If this prevents you from reaching 0 Sage Chakra, Sage Mode continues.
+Once per battle, when you can pay an effect’s remaining cost exactly and it would empty your pool, you may reduce that cost by 1, minimum 0. Apply other discounts first. If this prevents you from reaching 0 Sage Chakra, Sage Mode continues.
 
 ## ( <span lang="ja">無心自然</span> ) Mushin Shizen - Nature Without Thought
 {:#nature-without-thought .jutsu-technique}
@@ -921,7 +929,7 @@ Once per battle, when an effect would spend your final Sage Chakra, reduce that 
 
 Requires: Sage Rank 5\.
 
-Once per battle, the first Sage Art or Sage Kata you use after entering Sage Mode costs 1 less Sage Chakra, minimum 0\.
+Once per battle, after entering Sage Mode, discount your first Sage Art or Sage Kata with a positive Sage Chakra cost by 1, minimum 0. A passive, free effect or declined optional spending does not use the discount.
 
 
 # SAGE KATA
@@ -975,7 +983,7 @@ Until the beginning of your next non-Interrupt Action, gain 3 \+ Sage Power to R
 
 Cost: 1 Sage Chakra.
 
-Choose one creature you can currently detect. Until Sage Mode ends or you choose a new target with Hunter's Sense, gain Sage Power Accuracy against that creature and add Sage Sense to Awareness rolls made to keep track of it. You gain no benefit while you cannot detect the target by any sense.
+Choose one creature you can currently detect. Until Sage Mode ends or you choose a new target with Hunter's Sense, gain Sage Power Accuracy against that creature and apply Sage Sense to Awareness rolls made to keep track of it. Apply Sage Sense only once to the same check. You gain no benefit while you cannot detect the target by any sense.
 
 ## ( <span lang="ja">自然の衝撃</span> ) Shizen no Shōgeki - Natural Shock
 {:#natural-shock .jutsu-technique}
@@ -1001,7 +1009,7 @@ Make a Blunt Ninjutsu Attack against one creature. On a full hit, you may give u
 
 Cost: 1 Sage Chakra.
 
-Add Sage Break to a damaging Taijutsu or Ninjutsu Attack when it is declared. The Attack gains Sage Power Penetration and ignores 5% × Sage Power of Final Damage reduction applied by defensive effects, to a minimum of 0% reduction.
+Add Sage Break to a damaging Taijutsu or Ninjutsu Attack when it is declared. Ignore flat DR equal to Sage Power on this hit. Choose one percentage damage reduction from a defensive effect, including Block, and lower it by 5 percentage points × Sage Power, minimum zero. At Power 2, DR 12 becomes 10 and a 50% Block becomes 40%. Apply each at its usual mitigation step. A successful defence that avoids the attack still avoids it.
 
 
 # MASTERY — PERFECT COMMUNION

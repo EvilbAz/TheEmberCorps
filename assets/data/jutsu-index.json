@@ -9425,11 +9425,13 @@
     "tags": [
       "Sage Art",
       "Utility",
-      "Self"
+      "Self",
+      "Touch"
     ],
     "stats": {
       "speed": "5",
-      "cost": "1 Sage Chakra."
+      "cost": "1 Sage Chakra.",
+      "range": "Self or Touch."
     },
     "url": "/rules/jutsu/natural-chakra/#regrowth-sage-art"
   },
