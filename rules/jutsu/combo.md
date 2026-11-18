@@ -288,8 +288,10 @@ Effects: This is added on to any Unarmed Taijutsu granting it this jutsu’s Com
 
 A high-level combo rhythm built around sharp, repeated impacts to nerves and joints. Each connected strike makes the next interruption harder to time, gradually turning the target's own loss of coordination into the sequence's momentum.
 
+Combo Counter: +1 Paralysis on a full hit per CC at declaration.
+
 Tags: Combo  
-Effects: Paralysis gained from this Combo Counter is treated as a single source and cannot exceed Paralysis 6\. When the Combo ends, any remaining Paralysis from South Star Combo begins reducing by 1 every 10 IC as normal.
+Effects: Paralysis gained from this Combo Counter is treated as a single source and cannot exceed Paralysis 6\. When the Combo ends, any remaining Paralysis from South Star Combo drops by 1 every 10 IC until it ends.
 
 #### ( <span lang="ja">悪魔の急ぎ</span> ) Akuma no Isoi - Devil’s Rush
 {:#akuma-no-isoi-devil-s-rush .jutsu-technique}

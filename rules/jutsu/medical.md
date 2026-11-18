@@ -154,7 +154,7 @@ Range: Touch
 Speed: 30, Delay 20  
 Requires: Vital Repair Technique, Willing Target  
 Tags: Utility  
-Effects: The recipient immediately regains up 3\*(ninjutsu damage bonus)% of their maximum Vitality, which will not take them above half their maximum. However, 3\*(your ranks in medicine) IC later, their wounds will reopen; they'll immediately take that much damage, \+50%, which cannot be reduced or mitigated. Until this occurs, they will not heal normally (i.e. as described in the Recovery section of the Combat chapter). This can be fatal.
+Effects: The recipient immediately regains up to 3\*(ninjutsu damage bonus)% of their maximum Vitality, which will not take them above half their maximum. However, 3\*(your ranks in medicine) IC later, their wounds will reopen; they'll immediately take that much damage, \+50%, which cannot be reduced or mitigated. Until this occurs, they will not heal normally (i.e. as described in the Recovery section of the Combat chapter). This can be fatal.
 
 #### ( <span lang="ja">巡り制御の術</span> ) Meguri Seigyo no Jutsu - Hemostasis Technique
 {:#meguri-seigyo-no-jutsu-hemostasis-technique .jutsu-technique}
@@ -188,7 +188,8 @@ Effects: This temporarily negates the effects of up to X wounds; it can be appli
 This lasts for (the medic's ninjutsu damage bonus) hours, after which time the chakra sustaining the jutsu expires--and the recipient pays the price for pushing their body beyond its limits.  
 For each wound remedied this way, they take damage equal to 5% of their maximum Vitality, per category of the wound.  
 Thus, if this was used to negate a Minor and a Severe wound, after it ended the person would take (5 \+ 15\) \= 20% of their maximum Vitality in damage (which could carry over to their HP), which cannot be reduced or mitigated.  
-Additionally, the recovery times of these wounds is increases by 1 week per level of the wound (1 week for minors, 3 for severes, etc.). In the case of wounds whose penalties are reduced over time, this "extra" recovery time must be made up for first, before normal recovery can continue.  
+Add one week per severity level to each treated Wound’s own recovery time (one week for Minor, three for Severe). In the case of wounds whose penalties are reduced over time, this "extra" recovery time must be made up for first, before normal recovery can continue.
+
 This can be fatal. It cannot be used on an unwilling subject (though as with its predecessor, Tourniquet Technique, you may use it on yourself). So long as this technique is in place, natural healing (as described in the Recovery section of the Combat chapter) will not take place.
 
 ## B-Rank

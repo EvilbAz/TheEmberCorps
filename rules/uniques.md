@@ -58,7 +58,7 @@ Unless an entry says otherwise, a Unique may be taken only once.
 
 *You gain 5 Research ranks and 5 to your Max Research Ranks. Your tendency to stop and think gives you \-4 Athletics and \-2 to Dodge.*
 
-*Additionally, you reduce the Downtime TN of any roll that would use your Research by an amount equal to your Research Ranks \+ 10\.*
+*Reduce the TN of a Downtime Research check by 5. Use your normal Research ranks on the roll.*
 
 ### Berserker
 {:#berserker}
@@ -1079,6 +1079,6 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Vanishing Point
 {:#vanishing-point}
 
-*You do not so much escape notice as leave the part of the fight where attention can find you. Gain \+3 Dodge and \+4 Stealth. After a full Dodge or successful Hide, immediately move the distance you normally cover in 5 IC. At the end of that movement you may draw, sheathe, or Hide at Speed 0 if legal. Your first Attack within 10 IC gains \+3 Accuracy and \-2 final Speed.*
+*Gain \+3 Dodge and \+4 Stealth. After a full Dodge or successful Hide, immediately move the distance you normally cover in 5 IC. At the end of that movement you may draw, sheathe, or Hide at Speed 0 if legal. A Hide granted by Vanishing Point cannot trigger Vanishing Point again. Your first Attack within 10 IC gains \+3 Accuracy and \-2 final Speed.*
 
 *Upgrades From: Exceptionally Fast, Skirmisher*

@@ -278,7 +278,7 @@ A climbable monster has connected locations, such as **Forelegs â†” Shoulders â†
 
 ### Getting On
 
-Use the normal **Grab** action and declare that you are attempting to **Cling** to a reachable location. On a successful Grab, determine Control normally. Each climber has their own Control contest and Control is never pooled.
+Use [Grab]({{ '/rules/jutsu/grapple/#grab' | relative_url }}) and name the reachable location you want to **Cling** to. An unmodified Grab declared on IC 10 resolves on 12. Your next action is on 18. On a successful Grab, determine Control normally. Each climber has their own Control contest and Control is never pooled.
 
 ### While Clinging
 
@@ -444,7 +444,7 @@ Ordinary Immobilization is not automatically sufficient, and merely Clinging to 
 
 Requires a **Capture-Ready** monster, an appropriate restraint currently holding it, and the necessary sedative, suppression seal or other established capture method within reach.
 
-When the Delay completes, the creature is captured if it is still both Capture-Ready and restrained. If either condition stops being true, the attempt fails. You may Abort normally.
+Record the resolution IC when you declare. A capture started on IC 30 resolves on IC 40. If the restraint ends on IC 37, it cannot hold the monster through that attempt. When the Delay completes, the creature is captured if it is still both Capture-Ready and restrained. If either condition stops being true, the attempt fails. You may Abort normally.
 
 ### Capture Is Not Taming
 

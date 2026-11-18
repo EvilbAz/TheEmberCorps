@@ -1823,26 +1823,22 @@ Limit: N/A
 # Combat
 {:#combat-2}
 
-Combat... happens. Realistically it's something hunter know how to do, and as they get more experience it becomes something they're able to do very well. Accordingly, there are rules for combat, which you use when trying to beat other people into submission, or prevent them from doing the same to you.
+Roll initiative, agree on positions, and record each combatant’s next IC. The [worked spar]({{ "/guide/#first-ranged-turn" | relative_url }}) shows what to post.
 
 #### Initiative
 {:#initiative-2}
 
-A brief explanation of the core of Naruto World's combat system. It explains the broad concepts of how time, turn order, and actions are handled. A short but important read\! Pretty much nothing else in the chapter will make sense without this.
-
-**READING A DANGEROUS OPPONENT**
-
-Check an opponent’s Range, Speed, Delay, handseals, Upkeep and positioning to find opportunities to defend or interrupt.
+[Roll initiative](#initiative-rolls). Before choosing an attack, check range, your opponent’s next IC and whether either of you is forming handseals.
 
 #### Actions
 {:#actions}
 
-Basic Actions and defensive Interrupts are listed below.
+On your IC, choose a [main action](#main-actions). When targeted, check the [defensive Interrupts](#interrupts).
 
 #### Stealth
 {:#stealth-2}
 
-How to hide, how to find people who are hiding, and what you can do while hidden. You should probably be at least familiar with this before you start playing, but you can safely ignore it your first time through the chapter.
+Use [Hide](#hide) to establish a Stealth TN and [Search](#search) to find a hidden opponent.
 
 #### Status and Conditions
 {:#status-and-conditions}
@@ -1986,7 +1982,7 @@ Using the example above, we had Shikamaru acting on IC 0, Ino on 4, and Choji on
 
 To defend himself, Choji tries to dodge, though fails to do so. He's hit, and takes damage, but dodging pushed his next action back by 2, putting his next action on 12\.
 
-Ino goes next, and begins forming handseals for a potent ninjutsu technique. It has a Seal Speed of 14, meaning she'll be ready to act on IC (4 \+ 14 \=) 18\.
+Ino goes next, and begins forming handseals for a potent ninjutsu technique. It has a modified Seal Speed of 14, meaning she'll be ready to act on IC (4 \+ 14 \=) 18\.
 
 Shikamaru goes again, and uses a simple taijutsu technique with a speed of 12\. Choji tries to dodge again, this time evading successfully. Shikamaru's next action will be on IC 20 (8+12), and Choji's on IC 14 (12+2, because he dodged).
 
@@ -1998,7 +1994,7 @@ Choji's next action won't come until IC 34 (14+20), whereas Ino's jutsu has been
 
 IC 20 comes up, and Shikamaru and Ino are both ready to go. It's too late for Shikamaru to do anything about Ino's jutsu; she's already completed the handseals, and this turn she'll be able to use it. Worse yet, he doesn't know if she'll be targeting him or Choji.
 
-If he'd had a little more time--for example, if he'd used a quicker move in place of the taijutsu technique he utilized last--he could declare a Block of a speed that would expire some time after Ino's action, allowing him to reliably defend himself if she chose to target him.
+If he'd had a little more time--for example, if he'd used a quicker move in place of the taijutsu technique he utilized last--he could declare Prepare Blocking at a Speed that would expire some time after Ino's action, allowing him to reliably defend himself if she chose to target him.
 
 That's not an option, so he goes for a quick punch at her (not wanting to make the same mistake as last time, that'll give him plenty of opportunity to prepare before Choji's next action). Ino uses her technique, a Speed 6 ninjutsu. Both try to dodge the other's technique.
 
@@ -2017,7 +2013,7 @@ These are actions that anyone can do in combat, and the rules associated with th
 
 (Speed 8, Stamina 5, Attack, Blunt, Melee)
 
-The simplest form of attack, this is a catch all for punches, kicks, headbutts, and any other attack which uses your body to cause harm to your enemy's. This deals (2+XP/400)d4 damage. The number of dice has a cap of double the die size.
+Punch, kick or otherwise strike in melee. Roll (2 + XP/400)d4 base damage, up to twice the die size in dice.
 
 #### Basic Attack: Weapon
 {:#basic-attack-weapon}
@@ -2042,7 +2038,7 @@ Blocking is bracing yourself for an attack as effectively as possible, and being
 
 Block (Speed 0, Interrupt)
 
-Blocking reduces the damage of unarmed and ninjutsu attacks by 50% and weapon damage by 25%. Additionally, you can choose the location of any wounds inflicted, except when the attack specifically specifies one location (such as certain jutsu or called shots). You gain a \+5 bonus to Resistance rolls against an attack you blocked.
+Blocking reduces the damage of unarmed and ninjutsu attacks by 50% and weapon damage by 25%. Additionally, you can choose the location of any wounds inflicted, including against a Called Shot. An attack whose technique itself fixes the location keeps that location. You gain a \+5 bonus to Resistance rolls against an attack you blocked.
 
 #### Multi-Throw
 {:#multi-throw}
@@ -2172,9 +2168,7 @@ You cannot perform a Take The Hit action if you are Stunned or if you are suffer
 ## Attacking
 {:#attacking}
 
-The simplest and most effective way to resolve a conflict is often violence. In some cases, it's the only way. Thus, it behooves any hunters to be able to, when necessary, incapacitate or kill an opponent.
-
-The first step of attacking is to declare what your attack will be, usually by listing within brackets ( ) the name of the attack, its Speed, Cost, Accuracy, and any modifiers that apply to the attack (such as some abilities), so that the other player knows what defenses they can use against it.
+Declare the target and post the attack’s name, final Speed, cost, Accuracy and modifiers in parentheses. Include Range or Delay when relevant. Give the target a chance to defend before rolling damage.
 
 #### Accuracy
 {:#accuracy}
@@ -2191,7 +2185,7 @@ An Accuracy Roll replaces static Accuracy’s base 10 with 1d20: **1d20 + DEX/10
 #### Damage
 {:#damage}
 
-Every attack has a "base damage", a number of dice of a certain size you roll. For example, a basic unarmed attack does 2d4 of base damage. The actual damage formula is, (Base Damage) \+ (Damage Bonus) \* (Speed) \+ (any other bonuses)
+Roll the attack’s base damage, then add Damage Bonus × final Speed and any other bonuses. A 500 XP Hunter using the ordinary [Basic Unarmed Attack](#basic-attack-unarmed) rolls 3d4 before adding PDB × 8.
 
 Your damage bonus is the value determined by your STR (for most attacks) or CHA (for ninjutsu). The damage bonus is multiplied by Speed to represent that slower, more solid attacks are able to better benefit from your raw power. Some abilities may increase or even double your damage bonus, which only applies to your base damage bonus and not any temporary modifiers.
 
@@ -2251,7 +2245,7 @@ Alternatively, you may choose to Abort as part of an Interrupt--for example, abo
 #### Partial Success
 {:#partial-success}
 
-When you make a Dodge or another eligible defensive roll against an attack, for each point you fail by, you take 20% of its effects including statuses (rounded up). This still counts as a failed defense.
+When you make a Dodge or another eligible defensive roll against an attack, take 20% of its effects for each point you miss by, up to the full effects of the attack. Include statuses and round up. Apply any explicit Partial Success adjustments below. This still counts as a failed defense.
 
 Partial Success usually applies to defensive jutsu that work like a Dodge. You roll a d20, and a success avoids the attack. However, if the technique has another effect (such as making a d20 roll, and if you succeed you reduce the attack's damage by a set amount), partial success does not apply. Parries grant Partial Success against non-AoE Attacks, but never against AoEs. Rolled-Accuracy Ballistic Attacks prohibit Partial Success regardless of defense; Controlled Fire restores it for eligible defenses, including non-AoE Parries.
 
@@ -2301,14 +2295,14 @@ Use [Holding Back](#holding-back-2) to restrain eligible attacks or reduce the s
 ### Hiding
 {:#hiding}
 
-Hunter hide. It's sort of their... thing. That said, hiding can be accomplished under one of four circumstances:
+You may Hide under any one of these conditions:
 
-1\. Nobody is watching you. Well, nobody you're trying to hide from. This automatically prevents usage in combat, though see the other two situations.  
-2\. Everyone you are trying to hide from has a \-6 or higher visibility penalty.  
-3\. You are already hidden, and taking another Hide action in hopes of getting a new, higher Stealth TN.  
-4\. You use a jutsu which explicitly allows you to hide as one of its effects. Note that when you hide this way, the Hide action itself is reduced to Speed 0\.
+1. Outside combat, nobody you want to hide from is watching.
+2. Everyone you want to hide from suffers a Visibility penalty of 6 or worse.
+3. You are already hidden and want to roll a new Stealth TN.
+4. A jutsu explicitly lets you Hide. Its Hide action is Speed 0.
 
-Once you meet one of those requirements, you may hide. Hiding is, of course, an action\! When hidden, you may not be targeted by enemy attacks (because they don't know where you are\!). It's possible to be hidden from some people, but not others.
+Track who can see you. An enemy you are hidden from cannot target you directly.
 
 #### Hide
 {:#hide}
@@ -2594,11 +2588,9 @@ Ignore Armor bypasses the armour’s positive effects, including Absorption, Wou
 #### Area of Effect
 {:#area-of-effect}
 
-Certain things apply not to an individual, but to all things within a given area--their "area of effect", or AoE. These include things like explosions and smoke bombs The simpler type of AoEs are ones which are not directly offensive, such as a smoke bomb or a jutsu that creates a thick cloud of mist. These apply certain effects so long as you're in them, and can only be avoided by moving out.
+Clouds and other persistent areas affect creatures inside them. Move out to leave their effects. Against an area **attack**, compare the distance you could move during its final Speed with the listed Area value. For a circle use the radius, for a Line use the shorter dimension, and for a Cube use its side length. Each yard short gives −2 to Dodge. Matching the value gives no penalty.
 
-Others, however, are attacks: they cause damage to everyone within an area. Depending on that area, it may not even be possible to avoid one effectively.  
-When being subjected to an AoE attack, the first thing to determine is if you can dodge it effectively. To do this, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the effect's radius, you can Dodge normally.  
-If not, you have a \-2 penalty to Dodge per yard you're short by.
+For example, a Hunter who could move 3 yards during an Area 5 attack takes −4 to Dodge. Check the Interrupt’s Speed separately.
 
 If the attack matches your Parry’s type or your Parry has elemental advantage, you can [Parry](#parry-speed-3-interrupt) the AoE. Only a full success protects you. Other creatures in the area resolve their own defenses unless the technique protects them too.
 
@@ -2777,7 +2769,7 @@ Ignite's Stealth Penalty is doubled.
 
 People get tired; it just happens, even to supernaturally empowered hunter. To represent this, certain attacks have a stamina cost, listed in a format such as "Stamina: 10."
 
-Whenever you use a move with a listed Stamina cost, you make a stamina roll: 1d20+RES/10. Regardless of the result, your attack is resolved normally. However, if you got less than the TN for your roll (that is, the move's Stamina rating) your Fatigue is raised by one category.
+Whenever you use a move with a listed Stamina cost, you make a stamina roll: 1d20+RES/10. The action normally resolves. For a large failure or a Hunter near Fatigue 5, apply [Fatigue](#fatigue-3). However, if you got less than the TN for your roll (that is, the move's Stamina rating) your Fatigue is raised by one category.
 
 Realistically, continued exertion even at the same level will tire people out. Every time you make a stamina roll, you incur a penalty equal to (the Stamina cost)/5, rounded down, on all future Stamina rolls you make.
 
@@ -2788,7 +2780,7 @@ This penalty is reset to 0 every time you advance a Fatigue category, and at the
 
 The counterpart to stamina. Hunters have the ability to use all manner of fantastic abilities by drawing on the chakra within themselves and manipulating the environment. While very potent, this energy comes from their body, and it's easy for a hunter, especially an inexperienced one, to overtax themselves.
 
-Ninjutsu and genjutsu moves have a chakra cost, listed in a form such as "Chakra: 10." When you use these moves, you make a roll against Chakra Exhaustion; to pass, you must get equal to or greater than the technique's cost on a roll of 1d20+CHA/10. If you fail, your Fatigue is raised one category. Whether you pass or fail, your jutsu works normally.
+Ninjutsu and genjutsu moves have a chakra cost, listed in a form such as "Chakra: 10." When you use these moves, you make a roll against Chakra Exhaustion; to pass, you must get equal to or greater than the technique's cost on a roll of 1d20+CHA/10. If you fail, your Fatigue is raised one category. The action normally resolves. For a large failure or a Hunter near Fatigue 5, apply [Fatigue](#fatigue-3).
 
 The more chakra a hunter spends, the more strain they put on their body. Whenever you make a Chakra Exhaustion roll, you incur a penalty equal to (the technique's Chakra cost)/5, rounded down, on all future Chakra Exhaustion rolls you make.
 
@@ -2818,17 +2810,9 @@ One exception to that last paragraph, though. If you fail a technique badly enou
 ### Example
 {:#example}
 
-Naruto and Sasuke are fighting over who shall be Sakura's boyfriend.
+A Hunter passes three Stamina 15 checks. Each adds 3 to their Stamina penalty, so the next Stamina check takes −9. Passing a Chakra 16 check and a Chakra 14 check adds 3 and 2 to their separate Chakra Exhaustion penalty.
 
-Sasuke starts accosting his nemesis with multiple Shishio Rendan attacks, a Stamina 15 technique. The first, he rolls a plain 1d20+7, with a total of 16, narrowly avoiding failure. Still, he's angry, and he keeps going. The next roll is 1d20+7- 3; and, the next, 1d20+7-6. Both times he passes.
-
-Not wanting to exhaust himself too quickly, Sasuke switches to his ninjutsu, tossing off a Grand Fireball, a ninjutsu with a Chakra cost of 16\. He rolls his 1d20+6, and passes the roll. He follows that with a Housenka (Chakra cost 14), rolls 1d20+6-3 for Chakra Exhaustion, and again passes his check.
-
-At this point, Sasuke's next Stamina check will have a \-9 penalty, and his next Chakra Exhaustion roll will have a \-5 penalty.
-
-Deciding that he'll probably fail his next roll regardless, he attacks with an impressive Chidori: the move has a Chakra Cost of 25, meaning there's no way he can pass its Chakra Exhaustion check. As expected, Sasuke fails, and advances to Fatigue 1\.
-
-At this point, his Stamina and Chakra Exhaustion rolls both have their penalty reset to 0, and since he's Fatigued, those rolls also have a \+5 bonus. He considers following immediately with another Chidori (he'd have a small chance of avoiding failure; a roll of 14 or better, 14+6+5=25, would be sufficient), but instead decides to pace himself.
+With a +6 Chakra modifier and that −5 penalty, the best possible roll is 21. Against Chakra 25, a total of 18 fails by 7. The jutsu resolves and Fatigue rises from 0 to 1. Clear both accumulated penalties. The next cost check gets +5 from Fatigue 1.
 
 #### Upkeep
 {:#upkeep}

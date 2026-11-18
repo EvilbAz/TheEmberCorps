@@ -138,9 +138,7 @@ Tags: Chain 3, Club, Attack
 Effects: After defense, deal this Attack’s damage directly to the struck armor piece, Barrier or Construct before resolving damage against its wearer. Apply structural damage-type matchups once. If that protection breaks, resolve the hit against the wearer without that protection; otherwise use its remaining protection normally. This structural strike is additional damage and does not bypass the target’s Defense.
 
 #### ( <span lang="ja">体当たり</span> ) Taiatari - Body Check
-{:#body-check .jutsu-technique}
-
-<span class="jutsu-badges"><span class="jutsu-rank-badge">D-Rank</span></span>
+{:#body-check}
 
 This action is available to all Hunters as [Shove]({{ '/rules/core/#shove' | relative_url }}). It requires no Club or Chain and does not advance Chain.
 

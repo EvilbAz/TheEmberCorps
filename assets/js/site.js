@@ -137,6 +137,8 @@
     const {volume, talentSection, jutsuIndex} = document.body.dataset;
     const isJutsu = volume === 'jutsu', isClans = volume === 'clans', isTalents = volume === 'talents';
     let hash; try { hash = decodeURIComponent(location.hash.slice(1)); } catch { hash = ''; }
+    const linkedPanel = document.getElementById(hash)?.closest('details');
+    if (linkedPanel) linkedPanel.open = true;
     let redirects;
     if (isJutsu && jutsuIndex === 'true' && hash && !document.getElementById(hash)) redirects = 'jutsu';
     if (isTalents && talentSection === 'overview' && hash && !document.getElementById(hash)) redirects = 'talent';

@@ -814,16 +814,6 @@
     "url": "/rules/clans/#jujutsu-shiji-hyoketsu-blood-rite-link"
   },
   {
-    "english": "Body Check",
-    "japanese": "Taiatari",
-    "script": "体当たり",
-    "school": "Club Bukijutsu",
-    "rank": "D-Rank",
-    "tags": [],
-    "stats": {},
-    "url": "/rules/jutsu/club/#body-check"
-  },
-  {
     "english": "Body Flicker Technique",
     "japanese": "Shunshin no Jutsu",
     "script": "瞬身の術",
@@ -4096,7 +4086,9 @@
     "school": "Kazekage Clan / Jiton",
     "rank": "E-Rank",
     "tags": [],
-    "stats": {},
+    "stats": {
+      "chakra": "10"
+    },
     "url": "/rules/clans/#denji-yuusei-electromagnetic-dominance"
   },
   {
@@ -11336,7 +11328,9 @@
     "tags": [
       "Combo"
     ],
-    "stats": {},
+    "stats": {
+      "combo counter": "+1 Paralysis on a full hit per CC at declaration."
+    },
     "url": "/rules/jutsu/combo/#nanto-rendan-south-star-combo"
   },
   {

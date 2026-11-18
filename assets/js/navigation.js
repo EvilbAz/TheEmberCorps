@@ -8,9 +8,11 @@
   const saveScroll = () => { if (current === location.href) history.replaceState({...history.state,emberScroll:[scrollX,scrollY]},''); };
   window.addEventListener('scroll', () => { cancelAnimationFrame(scrollFrame); scrollFrame = requestAnimationFrame(saveScroll); },{passive:true});
   function scrollToURL(url, position) {
-    if (position) { window.scrollTo({left:position[0],top:position[1],behavior:'instant'}); return; }
     let id; try { id = decodeURIComponent(url.hash.slice(1)); } catch { id = ''; }
     const target = id && document.getElementById(id);
+    const panel = target && target.closest('details');
+    if (panel) panel.open = true;
+    if (position) { window.scrollTo({left:position[0],top:position[1],behavior:'instant'}); return; }
     if (target) target.scrollIntoView({behavior:'instant'}); else window.scrollTo({top:0,left:0,behavior:'instant'});
   }
   async function navigate(href, {replace = false, pop = false, position = null} = {}) {

@@ -26,11 +26,9 @@ Begin with a Clinch, use a Takedown to establish a Pin, then apply holds or stri
 
 Use the same timing for a repeated submission or a move made through a weapon. A grapple Link adds its listed Delay to the underlying action. If you declare an escape Link after a failed roll, count only the Link’s Delay from that roll before applying its result.
 
-Certain situations within a grapple may call for a 'grapple roll'. When this happens, the player that triggered the Check uses Grapple Offense and the other rolls Defense. In the event of an opposing check (such as determining Control) Grapple offense loses its base 10 and gains 1d20).
+**Grapple Offense** = 10 + Control + STR/10 + modifiers. The Hunter initiating a grapple check normally uses this value.
 
-\[M10\] Grapple Off: 10 \+ Control \+ STR/10 \+ Any relevant bonuses/penalties
-
-\[M11\] Grapple Def: 1d20 \+ Control \+ STR/10 \+ AGI/20 \+ Any relevant bonuses/penalties.
+**Grapple Defense** = 1d20 + Control + STR/10 + AGI/20 + modifiers. When an opposed check calls for an Offense roll, replace its base 10 with 1d20.
 
 While in a grapple all participants gain access to the following actions:
 
@@ -79,17 +77,14 @@ Techniques involving the user's own body positioning or an incompatible hold can
 
 Determine starting Control with opposing Grapple checks: the instigator rolls Offense; the defender chooses Offense or Defense. The winner begins at 5 Control.
 
-If the person with control gains more their amount is added to their total. If the person without control gains some, their opponent's control is reduced to that amount (potentially reducing it back to 0 where any more control would become their positive amount). If the person without control loses some, their opponent gains that amount instead. Each participant has a max Control of 10 \+ half their ranks in Pressure (rounded up).
+Track Control as one number in one Hunter’s favour. Gaining Control shifts it toward you. Losing Control shifts it toward your opponent. If your opponent holds 5 and you gain 3, they now hold 2. Gain another 4 and you hold 2. Each Hunter’s maximum is 10 + half their Pressure ranks, rounded up.
 
-While in a clinch or grapple you are not restricted by what actions you can take. However, there are many ways for your control to be reduced whether by your actions or your opponents. Below is the list of the most common ways for control to be lost which occurs after the action takes place:
-
-- Any action with a listed control reduces it by that much such as most grapple jutsu and grapple-related actions do. This occurs before the jutsu’s effects.
-
-- Every other action (including interrupts reduces your control in the grapple by one-third its speed (rounded down)
+- Pay a listed Control cost before applying the action’s effects.
+- For any other action, including an Interrupt, lose one-third of its Speed, rounded down, after it resolves.
 
 - Receiving damage greater than your RES / 4 reduces your control by 1
 
-- Wounds reduce control by triple their severity (Minor 3, Major 6, Sever 9, etc)
+- Wounds reduce control by triple their severity (Minor 3, Major 6, Severe 9, etc)
 
 - Each unique Status Condition reduces your grapple offense and defense by their severity/4 (minimum of 1\)
 
@@ -98,7 +93,7 @@ While in a clinch or grapple you are not restricted by what actions you can take
 
 You are clinching and clinched by your opponent. In a clinch, the following effects apply to all participants:
 
-\> Any movement (such as running, Shushin, knockback) is halved, and moves the other person along with them.
+\> Any movement (such as running, Shunshin, knockback) is halved, and moves the other person along with them.
 
 \> Any interrupt that dodges or parries has its Base Speed increased by 2\.
 
@@ -113,7 +108,7 @@ When you pin an opponent, as the aggressor, you bring your opponent down to the 
 
 \> Both participants gain all effects of a clinch listed above and the prone condition.
 
-\> The person being pinned has their speed reduced to 0
+\> The person being pinned has their movement speed reduced to 0
 
 \> You may end the pin at any time reverting back to a clinch with a Speed 5, Delay 1, Control 5 action.
 
@@ -275,7 +270,7 @@ Speed: 8
 Delay: 3  
 Special: Control 2  
 Tags: Ground Fighting 6, 2 Legs  
-Effects: This may only be used while being pinned and you may use your grapple defense bonus \+ 10 in place of your grapple offense. Your speed is reduced to 0 until the grapple changes category.
+Effects: This may only be used while being pinned and you may use your grapple defense bonus \+ 10 in place of your grapple offense. Your movement speed is reduced to 0 until the grapple changes category.
 
 #### ( <span lang="ja">返し</span> ) Kaeshi - Reversal
 {:#reversal .jutsu-technique}
@@ -286,7 +281,7 @@ Stamina: \+X if Successful
 Speed: \+X  
 Delay: +3  
 Tags: Link  
-Effects: This is added on to an Escape Pin action and on a success the pin is reversed with you pinning your opponent. You gain a \+X to the roll and increase the actions stamina and speed by this technique. You may use it retroactively after failing a Break Clinch or Escape Pin roll but the Stamina is increased to \+ 2\*X.
+Effects: This is added on to an Escape Pin action and on a success you pin your opponent instead. Add +X to the roll and apply the Link’s Stamina, Speed and Delay. You may also declare Reversal after a failed Escape Pin roll but the Stamina is increased to \+ 2\*X.
 
 ## C-Rank
 {:#c-rank-3 .jutsu-rank-heading}
@@ -346,7 +341,7 @@ Speed: 10
 Delay: 4  
 Special: Control 5  
 Tags: Ground Fighting 10  
-Effects: Your speed is reduced to 0\.
+Effects: Your movement speed is reduced to 0\.
 
 ## B-Rank
 {:#b-rank-3 .jutsu-rank-heading}
@@ -440,7 +435,7 @@ Speed: 14
 Delay: 6  
 Special: Control 8  
 Tags: Submission  
-Effects: After applying this submission every consecutive use has its Stamina reduced by 5, automatically hits and does not reduce your control.You may use this in a clinch but its control cost is increased by 5\. Your opponent is pinned and after applying this submission every consecutive use you maintain this Submission your opponent rolls grapple defense vs your offense. Regardless if they pass they gain 1 suffocation, \+1 for every 7 they failed by.
+Effects: After applying this submission every consecutive use has its Stamina reduced by 5, automatically hits and does not reduce your Control. You may use this in a clinch but its control cost is increased by 5\. Your opponent is pinned and after applying this submission every consecutive use you maintain this Submission your opponent rolls grapple defense vs your offense. Regardless if they pass they gain 1 suffocation, \+1 for every 7 they failed by.
 
 #### ( <span lang="ja">亀の構え</span> ) Kame no Kamae - Turtle
 {:#turtle .jutsu-technique}

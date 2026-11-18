@@ -29,7 +29,7 @@ Blunt, Slashing, Piercing and Energy each have their own tables. Use an explicit
 ### Location
 {:#location}
 
-Roll 1d100 on the table for the damage type and severity. For an arm or leg result, odd rolls affect the right limb and even rolls the left. If the defender Blocks, they choose the Wound location instead, including against a Called Shot.
+Roll 1d100 on the table for the damage type and severity. For an arm or leg result, odd rolls affect the right limb and even rolls the left. If the defender Blocks, they choose the Wound location instead, including against a Called Shot. If the technique itself fixes the location, use that location.
 
 Wounds stack, including repeated injuries in one location. A Critical Wound replaces lesser Wounds at that location; multiple Critical Wounds can still apply.
 
@@ -539,13 +539,9 @@ This penalty does not increase outside of combat, but will continue to affect yo
 
 <h4 id="41-60-slow-roasted-abdomen">- (41 - 60 ) Slow Roasted (Abdomen)</h4>
 
-When something is cooked poorly, the outside tends to burn first, but the inside is typically not that bad. But when something is really charred, it is not just that the outside blackens and dies, but it ends up encapsulating the interior, preventing the escape of heat.
-
-That's basically just what happened to you. So while your skin is flaking from your stomach and looks absolutely horrifying every time you breathe in and out, the real problem is how your innards have been superheated and are unable to effectively cool off. The end result is a constant feeling of sickness that seems impossible to treat.
-
 You automatically advance one Fatigue level and gain Burn 10\. Penalties to your Stamina and Chakra Exhaustions rolls are not reset to 0 when you advanced a Fatigue level, and you advance an additional Fatigue category for every 10 points you fail a roll by, rather than every 15\.
 
-You can still Rest, but it becomes a Speed 15 action, to which AP still cannot be applied. Out of combat you recover Fatigue levels at the rate of 1 per real-world day (rather than hour), and cannot recover below Fatigue 1\. Similarly, you regain one point of Willpower each real-world day, rather than all your Willpower each day.
+You can still Rest, but it becomes a Speed 15 action, to which AP still cannot be applied. Out of combat you recover Fatigue levels at the rate of 1 per real-world day (rather than hour), and cannot recover below Fatigue 1\. While this Wound persists, skip the normal scene refresh and recover 1 Willpower per OOC day.
 
 <h4 id="61-80-red-right-hand-arms">- (61 - 80 ) Red Right Hand (Arms)</h4>
 

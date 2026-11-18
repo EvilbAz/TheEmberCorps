@@ -28,7 +28,7 @@ Using Grapple Jutsu through the Chain: Chain Bukijutsu with Pummel, Trapping, Ta
 
 Remote Clinch: The target suffers the normal effects of a Clinch. The wielder does not suffer the Clinch's Dodge/Parry, movement, Ignite-transfer or Stealth restrictions solely because the Chain is holding the target at range. The wielder still loses Control normally for actions they take while maintaining the Grapple. The target may use Break Clinch and other legal escape effects against the wielder's normal Grapple values.
 
-Weapon Pin: When a Chain Bukijutsu successfully uses Takedown, the target becomes Pinned by the Chain. The target suffers the normal effects of a Pin, including the normal escape rules, but the wielder does not become Prone and does not have their Speed reduced to 0 simply because the weapon is maintaining the Pin. Ground Fighting and Submission techniques delivered by Chain Bukijutsu function normally from this state.
+Weapon Pin: When a Chain Bukijutsu successfully uses Takedown, the target becomes Pinned by the Chain. The target suffers the normal effects of a Pin, including the normal escape rules, but the wielder does not become Prone and does not have their movement speed reduced to 0 simply because the weapon is maintaining the Pin. Ground Fighting and Submission techniques delivered by Chain Bukijutsu function normally from this state.
 
 Occupied Weapon: A Chain weapon maintaining a Weapon Grapple is occupied. It may only make attacks or use techniques that explicitly function during that Weapon Grapple. Releasing, losing, destroying, or using that same Chain weapon to establish a different Weapon Grapple ends the first.
 

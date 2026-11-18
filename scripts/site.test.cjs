@@ -72,6 +72,15 @@ test('same-page links and rank anchors never reload the document',async()=>{
  w.document.querySelector('.jutsu-rank-jumps a').click();assert.equal(w.location.hash,'#e-rank');assert.equal(audio.length,1);assert.equal(w.document.title,'First');dom.window.close();
 });
 
+test('a technique link opens its collapsed tradition after internal navigation', async () => {
+  const {w, dom} = setup();
+  const content = '<details><summary>Roc Sage</summary><h3 id="talon-dive">Talon Dive</h3></details>';
+  w.fetch = async () => ({ok: true, text: async () => page('Sage Arts', content)});
+  await w.emberNavigate(base + '/sage/#talon-dive');
+  assert.equal(w.document.querySelector('details').open, true);
+  dom.window.close();
+});
+
 test('jutsu finder combines filters, pages results and links to the printed formula', async () => {
   const {w, dom} = setup();
   const source = fs.readFileSync(path.join(root, 'rules/jutsu.md'), 'utf8');

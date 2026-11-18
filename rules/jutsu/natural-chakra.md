@@ -154,7 +154,7 @@ Sage Kata count as Sage Arts for the purpose of learning and selecting them. Whe
 
 If your Source does not belong to an established Sage Tradition, use Wild Sage.
 
-<details class="sage-tradition" id="wild-sage-panel" markdown="1" open>
+<details name="sage-tradition" class="sage-tradition" id="wild-sage-panel" markdown="1" open>
 <summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">✦</span><span class="sage-tradition-number">01</span><span class="sage-tradition-title">WILD SAGE<small>An untethered path shaped by the living world.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## WILD SAGE
@@ -178,7 +178,7 @@ Wild Sage has no exclusive list of Tradition Arts or Kata. Its strength is flexi
 The Traditions below are established examples known in the wider world. Their names are human conveniences. A cliff-dwelling bird tribe may never call its teaching "Roc Sage," and a fungal network may not think of what it does as teaching at all. The entries below are complete Traditions and may be taught by any appropriate Source.
 </details>
 
-<details class="sage-tradition" id="great-toad-sage-panel" markdown="1">
+<details name="sage-tradition" class="sage-tradition" id="great-toad-sage-panel" markdown="1">
 <summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐸</span><span class="sage-tradition-number">02</span><span class="sage-tradition-title">GREAT TOAD SAGE<small>Patience, powerful leaps and battlefield impact.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## GREAT TOAD SAGE
@@ -251,7 +251,7 @@ Cost: 2 Sage Chakra.
 Leap up to 5 × Sage Power yards, then make either a Basic Attack: Unarmed or a Basic Attack: Weapon using a melee weapon you are wielding against a legal target. Use the chosen Basic Attack under the Sage Kata rules. On a full hit, add Sage Power Damage Dice and deal 3 × Sage Power Knockback. After the Knockback resolves, make an Athletics Status Roll against the target's Resistance. On a failure, they are knocked Prone. This Attack counts as Senjutsu.
 </details>
 
-<details class="sage-tradition" id="serpent-sage-panel" markdown="1">
+<details name="sage-tradition" class="sage-tradition" id="serpent-sage-panel" markdown="1">
 <summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐍</span><span class="sage-tradition-number">03</span><span class="sage-tradition-title">SERPENT SAGE<small>Coils, venom and relentless pursuit.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## SERPENT SAGE
@@ -314,7 +314,7 @@ Requires: Sage Rank 4\.
 Once per Sage Mode, as a Speed 3 Utility Action, you may spend 1 Sage Chakra to reduce one Bleed, Burn, Immobilization, Paralysis or Poison affecting you by 2 \+ Sage Power. Perfect Shedding cannot remove Wounds or penalties caused directly by a Wound.
 </details>
 
-<details class="sage-tradition" id="roc-sage-panel" markdown="1">
+<details name="sage-tradition" class="sage-tradition" id="roc-sage-panel" markdown="1">
 <summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦅</span><span class="sage-tradition-number">04</span><span class="sage-tradition-title">ROC SAGE<small>Aerial movement and mastery of the sky.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## ROC SAGE
@@ -340,7 +340,7 @@ While in Sage Mode, up to Sage Power yards of the distance you move during each 
 
 Cost: 1 Sage Chakra.
 
-Move up to 5 \+ (5 × Sage Power) yards. Sky-Borne Balance applies to this movement, and you may change direction once during it.
+Move up to 5 \+ (5 × Sage Power) yards. Sky-Borne Balance applies to this movement, and you may change direction once during it. If you finish unsupported in Sage Mode, you may hold that height for up to 3 IC. If your next main action comes due within that window, declare it from that height, then the suspension ends. It ends early if you move, are moved or leave Sage Mode. If still unsupported when it ends, begin Falling normally.
 
 ### ( <span lang="ja">鉤爪落とし</span> ) Kagizume Otoshi - Talon Dive
 {:#talon-dive-sage-kata .jutsu-technique}
@@ -351,7 +351,7 @@ Move up to 5 \+ (5 × Sage Power) yards. Sky-Borne Balance applies to this movem
 
 Cost: 1 Sage Chakra.
 
-Add Talon Dive to a damaging Melee Taijutsu Attack if you moved at least 5 yards downward immediately before declaring it. On a full hit, add Sage Power Damage Dice and increase Final Damage by 5% × Sage Power. The Attack counts as Senjutsu.
+Add Talon Dive to a damaging Melee Taijutsu Attack if you moved at least 5 yards downward immediately before declaring it. If you start the attack suspended by Updraft Step, you may descend using its normal Move with an Attack allowance. Count that descent toward the 5 yards and measure melee range from where you finish. On a full hit, add Sage Power Damage Dice and increase Final Damage by 5% × Sage Power. The Attack counts as Senjutsu.
 
 ### ( <span lang="ja">翼守り</span> ) Tsubasa Mamori - Wing Guard
 {:#wing-guard-sage-art .jutsu-technique}
@@ -385,7 +385,7 @@ Requires: Sage Rank 4\.
 You may use Gather Natural Chakra while unsupported in the air. While Gathering this way you remain suspended instead of Falling. Your Movement Speed is 0 unless another Sage Art specifically allows you to move while Gathering. When Gather resolves or is aborted, if you are still unsupported you immediately begin Falling.
 </details>
 
-<details class="sage-tradition" id="tortoise-sage-panel" markdown="1">
+<details name="sage-tradition" class="sage-tradition" id="tortoise-sage-panel" markdown="1">
 <summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐢</span><span class="sage-tradition-number">05</span><span class="sage-tradition-title">TORTOISE SAGE<small>Endurance, protection and unyielding defence.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## TORTOISE SAGE
@@ -446,7 +446,7 @@ Requires: Sage Rank 4\.
 Once per battle, using Block while Gathering Natural Chakra does not abort Gather. The Block still uses its normal Interrupt Speed and all other effects of the Attack resolve normally.
 </details>
 
-<details class="sage-tradition" id="moth-sage-panel" markdown="1">
+<details name="sage-tradition" class="sage-tradition" id="moth-sage-panel" markdown="1">
 <summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦋</span><span class="sage-tradition-number">06</span><span class="sage-tradition-title">MOTH SAGE<small>Powder, concealment and heightened senses.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## MOTH SAGE
@@ -513,7 +513,7 @@ Requires: Sage Rank 4\.
 You may use Gather Natural Chakra at Stealth Level 3 without reducing your Stealth level or Stealth TN for declaring Gather. All other Actions and all other causes of losing Stealth function normally.
 </details>
 
-<details class="sage-tradition" id="carrion-sage-panel" markdown="1">
+<details name="sage-tradition" class="sage-tradition" id="carrion-sage-panel" markdown="1">
 <summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦅</span><span class="sage-tradition-number">07</span><span class="sage-tradition-title">CARRION SAGE<small>Tracking, attrition and exploiting the wounded.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## CARRION SAGE
@@ -584,7 +584,7 @@ Cost: 1 Sage Chakra.
 Add Last Descent to a damaging Taijutsu Attack against a creature at 0 Vitality or suffering a Severe or Critical Wound. On a full hit, add 1 \+ Sage Power Damage Dice. The Attack counts as Senjutsu.
 </details>
 
-<details class="sage-tradition" id="fungal-sage-panel" markdown="1">
+<details name="sage-tradition" class="sage-tradition" id="fungal-sage-panel" markdown="1">
 <summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🍄</span><span class="sage-tradition-number">08</span><span class="sage-tradition-title">FUNGAL SAGE<small>Spores, roots and interconnected terrain.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## FUNGAL SAGE
@@ -655,7 +655,7 @@ Requires: Sage Rank 4 and Nature Pulse.
 While touching natural earth, living vegetation or your Mycelial Ground, double the range of Nature Pulse. You also increase Sage Sense by 5 for Survival rolls made to read disturbances, tracks or recent movement through that terrain.
 </details>
 
-<details class="sage-tradition" id="salamander-sage-panel" markdown="1">
+<details name="sage-tradition" class="sage-tradition" id="salamander-sage-panel" markdown="1">
 <summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦎</span><span class="sage-tradition-number">09</span><span class="sage-tradition-title">SALAMANDER SAGE<small>Regeneration, resilience and survival.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## SALAMANDER SAGE
@@ -996,9 +996,3 @@ Senjutsu — Senjutsu is a tag for an effect empowered by balanced Natural Chakr
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
-
-<script>
-document.querySelectorAll('[data-sage-link]').forEach(link=>link.addEventListener('click',()=>{const panel=document.getElementById(link.dataset.sageLink+'-panel');if(panel){document.querySelectorAll('.sage-tradition').forEach(item=>item.open=item===panel);setTimeout(()=>panel.scrollIntoView({behavior:'smooth',block:'start'}),30)}}));
-document.querySelectorAll('.sage-tradition').forEach(panel=>panel.addEventListener('toggle',()=>{if(panel.open){document.querySelectorAll('.sage-tradition').forEach(other=>{if(other!==panel)other.open=false})}}));
-const sageHash=location.hash.replace('#','');const sageTarget=document.getElementById(sageHash+'-panel')||document.getElementById(sageHash)?.closest('.sage-tradition');if(sageTarget){sageTarget.open=true;}
-</script>

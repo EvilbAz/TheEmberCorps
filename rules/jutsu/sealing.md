@@ -390,13 +390,11 @@ Effects: Choose one Fūinjutsu affecting the target. When the jutsu is cast or a
 
 <span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Mark</span></span>
 
-Implemented on a summoner, this removes any control the summoner has over their summoned creature, and in most cases will temporarily nullify the contract altogether.
-
 Chakra: 40  
 Speed: 16  
 Seal Speed: 20  
 Tags: Mark  
-Effects: On a full hit, choose one of the target’s active summoning contracts. Dismiss the creatures summoned through that contract. The target cannot call them again for 30 IC or until the mark is unsealed, whichever comes first. The mark then ends.
+Effects: On a full hit, choose one of the target’s active summoning contracts. Dismiss the creatures summoned through that contract. The target cannot call them again for 30 IC or until the mark is unsealed, whichever comes first. The mark then ends. Against a Monster Tamer, choose their deployed Tamed Monster and return it to its Beast Seal. The same release lock applies. Treat the return as a recall for Vitality, statuses and limited-use effects.
 
 #### ( <span lang="ja">高層開封</span> ) Kōsō Kaifū - Greater Unseal
 {:#koso-kaifu-greater-unseal .jutsu-technique}

@@ -73,7 +73,7 @@ Chain — Accuracy \+0, Parry \-1. A Basic Weapon Attack may be converted into a
 
 <h4 id="2-components">2. Components</h4>
 
-Components are ordinary workshop modifications purchased with Artisan Points. They replace the old Bottom, Middle, and Top Feature tiers.
+Components are ordinary workshop modifications purchased with Artisan Points.
 
 For every 6 AP spent on Components, increase the weapon's Base Damage by \+1 Damage Die and its Base Stamina by \+1. Structure costs, Elemental Upgrades, and Special Properties do not count toward this threshold.
 
@@ -2038,9 +2038,9 @@ A listed skill or Corps rank is the minimum required to buy and use that item. O
 #### Blank Scroll
 {:#blank-scroll}
 
-A large scroll. Most of the time these are carried rolled up to save space. They're useless, aside from the fact that a few sealing jutsu make use of them.
+A blank scroll for sealing jutsu.
 
-Cost: 1.25k Ryo
+Cost: 1,250 Ryō
 
 #### Blood Increasing Pill
 {:#blood-increasing-pill}
@@ -2104,7 +2104,7 @@ Cost: 0.5k Ryo per 5 Yards.
 #### Rope
 {:#rope}
 
-I refuse to explain what this is. Individual lengths of rope can be purchased up to 300 feet (100 yards), but there's nothing stopping you from tying a few together. Tying somebody up requires 10 yards of rope, and the person in question to not be resisting.
+Buy rope in lengths of up to 100 yards. You can tie lengths together. Tying somebody up requires 10 yards of rope, and the person in question to not be resisting.
 
 You can tie someone up with ropes. If so, roll Espionage \+10 to see how good your knots were. The result, or 20, is the TN for escaping. The user can try to slip the knots (Espionage skill roll, \+DEX/10) which takes 5 minutes to attempt (they can hide that they are doing so via an opposed Espionage roll). This can be attempted repeatedly.
 
@@ -2264,34 +2264,16 @@ As a Speed 5 Utility Action, spend the seal to read the exact Exertion of one Wi
 #### Compass
 {:#compass}
 
-A small, typically handheld device that has a needle inside a metal case (with a glass cover, so it can be seen) that points, approximately, to magnetic north when held level. These aren't exactly precise, but they're good enough most of the time. Notably, they can have trouble working underground or if they get zapped by a lightning jutsu. When trying to navigate the wilderness, having a compass gives a \+2 bonus to any Survival rolls. If you also have a map of the country you're in, this is raised to \+4.
+A compass gives +2 Survival to navigate the wilderness. With a map of the country, the navigation bonus is +4 total. The needle can be unreliable underground or after a lightning jutsu strikes it.
 
-Cost- 2.5k Ryo
+Cost: 2,500 Ryō
 
 #### Map
 {:#map}
 
-A map of a given country. It's usually a really, really good for
+A map comes in a scroll case and shows a country’s terrain, landmarks and settlements. Gain +4 on Survival checks where this information helps, such as tracking a traveller or finding shelter. A country map gives no bonus inside an unmapped cave.
 
-at least one person on every hunter team to have a map of any
-
-country they expect to be going through. These have only
-
-basic information about terrain, landmarks, and settlements.
-
-Maps come with scroll cases for ease and safety of
-
-Transportation.
-
-A map gives a \+4 bonus to any Survival rolls
-
-made in the appropriate country, within reason (they would
-
-help tracking someone, or finding shelter, but not exploring
-
-the inside of a cave).
-
-Cost- 5k Ryo
+Cost: 5,000 Ryō
 
 #### First Aid Kit
 {:#first-aid-kit}
@@ -2300,7 +2282,7 @@ Bandages, antiseptics and basic treatment supplies. Use a kit with [Stabilise]({
 
 A kit can also end non-Wound Bleed or Burn. This is a Touch Utility Action with Speed equal to twice the effect’s Severity, minimum 3. A single kit can treat one Bleed and one Burn before it is expended.
 
-Treating a Wound instead consumes the entire kit and takes Speed 15 per category: Minor 15, Major 30, Severe 45, Critical 60. Apply only the treatment benefits permitted by that Wound’s entry.
+Treating a Wound instead consumes the entire kit and takes Speed 15 per category: Minor 15, Major 30, Severe 45, Critical 60. If the Wound specifies its own treatment Speed, use that Speed. The Wound entry lists the benefits of treatment.
 
 Cost: 2,500 Ryō.
 
@@ -2316,7 +2298,7 @@ Cost: 2k Ryo
 #### Flashlight
 {:#flashlight}
 
-Flashlights are popular because hunter like to be able to see in low-light environments\! They're also useful because they can be turned off, or on, as needed. Quite handy for staying hidden when you hear unwanted company approaching.
+Switch the light off when you need to conceal your position.
 
 Flashlights have a battery life of about half an hour. <span id="spare-flashlight-batteries"></span>A spare set of batteries (for another half hour of use) costs 500 Ryo.
 
@@ -2345,9 +2327,9 @@ Cost: 20k Ryo
 #### Oxygen Tank
 {:#oxygen-tank}
 
-Tanks of compressed, breathable air, usually strapped to one's back. They're basically useless by themselves, but each comes with a hose that can be attached to an oyxgen mask. Each tank provides 30 minutes of breathable air.
+Connect the tank to an oxygen mask for 30 minutes of breathable air.
 
-Cost: 5k Ryo per tank5
+Cost: 5,000 Ryō per tank
 
 ### Infiltration
 {:#infiltration}

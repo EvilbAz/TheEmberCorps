@@ -4700,9 +4700,9 @@ Whenever you successfully apply Sealed Tenketsu to a target, increase the applie
 
 **Effects**
 
-This uses Ninjutsu Damage Bonus, instead of your Physical Damage Bonus, but all damage dealt is reduced by 20%. This technique reduces blocking’s effectiveness by 25%. If you strike an opponent wearing armor this attack cannot wound unless it was a called shot. Every time you hit someone with Jyuuken, you inflict Sealed Tenketsu 1\. Half of Jyuuken’s damage is dealt directly to an opponent’s HP while the rest is dealt to their vitality as normal (or hp is they run out of vitality. Jyuuken calculates wounding by taking the total damage and comparing it to the opponents hp wounding thresholds.
+This uses Ninjutsu Damage Bonus, instead of your Physical Damage Bonus, but all damage dealt is reduced by 20%. This technique reduces blocking’s effectiveness by 25%. If you strike an opponent wearing armor this attack cannot wound unless it was a called shot. Every time you hit someone with Jyuuken, you inflict Sealed Tenketsu 1\. Half of Jyuuken’s damage is dealt directly to an opponent’s HP while the rest is dealt to their vitality as normal (or HP once their Vitality runs out). Compare the total damage to the opponent’s HP Wound thresholds.
 
-This may also be added to any Unarmed Taijutsu, Melee Taijutsu Attack, Combo Attack or Finisher providing all of the above effects with the following changes: Stamina Cost is replaced with a Chakra Cost, \+8 (if it has both, add them together as a singular Chakra cost, without adding the normal \+8), and increasing its Speed by \+[4\.](http://4.If) If used as part of an Unarmed Taijutsu, reduce all damage die by 2 steps, to a minimum of d4.
+This may also be added to any Unarmed Taijutsu, Melee Taijutsu Attack, Combo Attack or Finisher providing all of the above effects with the following changes: Stamina Cost is replaced with a Chakra Cost, \+8 (if it has both, add them together as a singular Chakra cost, without adding the normal \+8), and increasing its Speed by +4. If used as part of an Unarmed Taijutsu, reduce all damage die by 2 steps, to a minimum of d4.
 
 Momentum: The combo jutsu gains all above effects of Jyuuken with the additions below
 
@@ -5498,7 +5498,9 @@ Your next non-Interrupt Action is scheduled **5 + 5L IC** after declaration, plu
 
 <span class="jutsu-badges"><span class="jutsu-rank-badge">E-Rank</span></span>
 
-Your manipulation of magnetic chakra has lots of potential uses\! All of the following have a Chakra 10 cost, and are considered to be E-Ranked Jiton Ninjutsu effects:
+Chakra: 10
+
+Choose one of these E-Rank Jiton effects:
 
 * When throwing weapons (either as part of a Jutsu or as a Multi-Throw) you can use CHA/8 in place of DEX/10 to determine how many you can throw. And you can use your NDB instead of PDB. This does NOT gain any bonuses or penalties based on the Magnetize of the target unless the thrown weapons had a Charge of their own.
 

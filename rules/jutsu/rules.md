@@ -38,7 +38,7 @@ Jutsu entries use the following fields.
 ### Stamina / Chakra
 {:#stamina-chakra}
 
-The technique's Stamina and Chakra cost, respectively.
+Roll Stamina against a listed Stamina cost and Chakra Exhaustion against a listed Chakra cost. If both are listed, choose which check to resolve first. [Fatigue]({{ '/rules/core/#fatigue-2' | relative_url }})
 
 ### Upkeep
 {:#upkeep}
@@ -69,7 +69,7 @@ The maximum distance to the target, in yards. An AoE may be centred anywhere wit
 | Line X, Y | Rectangle X yards wide and Y yards long | The lower of X and Y |
 | Cube X | Square X by X yards | X |
 
-To Dodge an AoE, compare the distance you could move during the attack’s Speed with the distance needed to escape its Area. Take −2 to Dodge per yard you fall short.
+To Dodge an AoE, compare the distance you could move during the attack’s Speed with the value in the table above. Take −2 to Dodge per yard you fall short.
 
 ### Speed
 {:#speed}
@@ -113,7 +113,7 @@ AoE | Affects an area.
 Self | Generally only affects you and for everything else its difficult to determine the source of
 
 Damage: Blunt, Slashing, Piercing, Energy  
-This determines the type of wounds the technique deals. If it doesn’t have one, then it can’t wound even if it deals enough damage to do so.
+Use the listed damage type first. If the technique omits it, check the [Wound damage types]({{ '/rules/wounds/#damage-types' | relative_url }}) for its element, unarmed attack or weapon. If neither the technique nor a default supplies a type, it cannot inflict a Wound.
 
 ### Effects
 {:#effects}
@@ -301,6 +301,8 @@ Monster Summoning allows a Hunter to call a trained creature into battle through
 {:#acquiring-a-monster}
 
 Use [Monster Taming’s Core Talent]({{ '/rules/talents/monster-taming/#core-talent-7' | relative_url }}) to acquire and train a creature.
+
+<span id="summoning-contracts"></span>
 
 ## Summoning and Commands
 {:#summoning-and-commands}
