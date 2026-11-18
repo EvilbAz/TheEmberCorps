@@ -79,6 +79,28 @@ In combat, **IC** means **Initiative Count**. Everyone shares one clock. Roll in
 
 **Speed tells you when you can act again.** Add your action’s final Speed to the count you acted on. A Speed 4 action on IC 0 puts your next action on IC 4. The action usually takes effect right away. **Delay** tells you if the effect lands later. A Speed 12, Delay 4 attack declared on IC 10 lands on 14, and your next action is on 22. Characters due on the same count act simultaneously.
 
+### Post your opening block
+{:#combat-block}
+
+Agree on a landmark and put everyone on the same map. “Five yards away” gets confusing as soon as a third Hunter moves. “Ren at the gate, Aya 5 yards west of the gate” lets everyone work out range. Roll initiative, then give whoever is tracking the fight one line they can paste:
+
+`[Name] | Next IC __ | Position __ yards east/west of __ | Vitality __/__ | HP __/__ | WP left __ | AP __ | Fatigue __ | Stamina penalty __ | Chakra Exhaustion penalty __ | Upkeep __ | Conditions and expiry __`
+
+After an action, post just what changed. “Aya next IC 5, still at the gate, spent 1 AP” is enough for the tracker. If a technique lands later, give it a separate entry on the clock: “Attack lands IC 14. Ren acts again IC 22.”
+
+### Five yards apart and your turn is up
+{:#first-ranged-turn}
+
+Ren wins initiative **21 to 19**. He starts at the gate on **IC 0**. Aya starts five yards west on **IC 2**. Ren takes a Speed 5 Rest, so he's due again on **5**. Aya gets to act on **2**. She can use a Speed 7 attack here. The three counts before Ren's turn tell her how soon he can answer, not how much Speed she's allowed to spend.
+
+Aya knows Water Sphere. Before posting, she checks three things:
+
+1. **Can it reach?** Water Sphere reaches 15 yards, so five is fine. If she wanted to punch instead, she'd measure how far she can close. With 25 AGI, a Speed 8 basic unarmed attack carries her up to **2 yards** toward Ren. From five yards out, she'd need to move closer first. [Move with an Attack]({{ '/rules/core/#move' | relative_url }})
+2. **Are her hands free, and when is she ready?** At zero gallons, Water Sphere has Seal Speed 5. With 30 DEX, Aya subtracts 3, leaving **2 counts of handseals**. She posts `(IC 2 · Perform Handseals · Speed 2 · ready IC 4)`. With a modified Seal Speed of zero she could form the signs and attack on IC 2. If she takes damage while sealing, check Chakra Control before carrying on. [Perform Handseals]({{ '/rules/core/#perform-handseals' | relative_url }})
+3. **What does the defender need?** On IC 4, with Ren still in range, Aya posts: *Aya cups the water between her palms and sends it at Ren.* `(Water Sphere at Ren · 0 gallons · range 15 yd · Chakra 5 · Speed 7 · ACC 13 · next IC 11)`. Her usual Accuracy is 10 + 3 from DEX. Ren rolls against **13**. Aya makes her separate Chakra Exhaustion check against **5**. [Water Sphere]({{ '/rules/jutsu/suiton/#mizudama-no-jutsu-water-sphere-technique' | relative_url }})
+
+Ren can defend on IC 4 even though his turn is due on 5. He posts `(Dodge · Speed 2 · 0 AP)` and rolls 11 + 2 for AGI = **13**. That matches Accuracy. Once both players settle any Willpower use, the dodge stands and there's no damage to roll. Ren changes his scheduled IC from **5 to 7**. Aya stays on **11**. If she passed her cost check, she records **1 Chakra Exhaustion penalty** for her next chakra check, even though Ren dodged. Both stay where they were. **Ren acts next.** [Willpower]({{ '/rules/core/#willpower-2' | relative_url }})
+
 ### Read the jutsu before you declare it
 {:#reading-jutsu}
 
@@ -100,12 +122,14 @@ Ren and Aya start a spar in melee range. Ren has 30 DEX. Aya has 20 AGI. Neither
 
 **Action Points (AP)** let you change the timing. You normally start combat with 0 and gain 5 at IC 20, 40 and each multiple of 20 after that, up to AGI/2. Spending 1 AP can cut an action’s Speed by 1, subject to its minimum. [Speed limits]({{ '/rules/core/#flow-of-time' | relative_url }}) · [Action Points]({{ '/rules/core/#action-points-2' | relative_url }})
 
+**When is 1 AP worth spending?** Against Ren's Speed 4 Foot Sweep, the ordinary Speed 3 Parry is too slow. If Aya has 1 AP and a suitable Parry, she can declare `(Parry · Speed 3 reduced to 2 · spend 1 AP)`. If her Dodge bonus is just as good, the Speed 2 Dodge already fits for free. On attack, reducing Speed 6 to 5 can force an opponent to spend AP on that same Parry, but it usually costs you one Speed's worth of Damage Bonus. Check the defender's options before spending.
+
 ### Damage, Wounds and Fatigue
 {:#damage}
 
 Damage comes out of Vitality first. If you have 12 Vitality left and take 20 damage after defenses, lose the 12 Vitality and mark 8 damage against HP. A single hit can also cause a **Wound** while you still have Vitality. Its severity depends on how much of your maximum pool the hit took. [Wound thresholds]({{ '/rules/wounds/#wound-categories' | relative_url }})
 
-**Stamina 8** on Foot Sweep means you roll against TN 8. For a technique with a Chakra cost, use your Chakra Exhaustion roll against that cost. A failed roll raises Fatigue one level and the action still resolves. Each roll also builds a penalty to later rolls of the same kind. When Fatigue rises, both accumulated penalties reset. Update the sheet before your next declaration. [Fatigue and Upkeep]({{ '/rules/core/#fatigue-2' | relative_url }})
+**Stamina 8** on Foot Sweep means you roll against TN 8. For a technique with a Chakra cost, use your Chakra Exhaustion roll against that cost. A failed roll raises Fatigue one level and the action still resolves. Record the cost divided by 5, rounded down, as a penalty to later rolls of the same kind. If Ren passes the Stamina 8 check, he marks 1 Stamina penalty. Next time he rolls Stamina, he subtracts 1. A basic Speed 5 Rest clears one point of that penalty. When Fatigue rises, both accumulated penalties reset. Update the sheet before your next declaration. [Fatigue and Upkeep]({{ '/rules/core/#fatigue-2' | relative_url }})
 
 ## Between scenes
 {:#xp}
