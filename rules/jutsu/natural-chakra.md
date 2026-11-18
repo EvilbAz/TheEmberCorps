@@ -13,16 +13,6 @@ permalink: "/rules/jutsu/natural-chakra/"
 # Natural Chakra
 {:#natural-chakra}
 
-Natural energy exists in the surrounding world. A Sage gathers it and balances it with their own physical and spiritual energy to form senjutsu chakra.
-
-The Natural Chakra Talent grants a Sage Tradition, Gather Natural Chakra, Sage Mode and Sage techniques.
-
-
-# AT A GLANCE
-{:#at-a-glance}
-
-Choose a [Sage Tradition](#sage-traditions), [Gather Natural Chakra](#gather-natural-chakra), then enter [Sage Mode](#sage-mode). Use the progression and resource rules below.
-
 ## Core Talent
 {:#core-talent}
 
@@ -33,17 +23,17 @@ Sage Chakra is a separate resource. It cannot pay normal Jutsu Chakra Costs and 
 ### Starting arts
 {:#starting-arts}
 
-| Tradition | Granted art | What you can do |
-| --- | --- | --- |
-| Wild | [Nature Pulse](#nature-pulse) | Read a crossing through water, brush or stone. |
-| Great Toad | [Pond-Leap](#pond-leap-sage-art) | Coil on solid ground and spring straight into a strike. |
-| Serpent | [Shed the Binding](#shed-the-binding-sage-art) | Leave a binding behind in a discarded skin. |
-| Roc | [Updraft Step](#updraft-step-sage-art) | Launch, pick a landing and catch a falling ally. |
-| Tortoise | [Still Shell](#still-shell-sage-art) | Gather under your shell and shelter a Hunter at your back. |
-| Moth | [Dust Veil](#dust-veil-sage-art) | Lay a curtain of scales across a sightline and watch it stir. |
-| Carrion | [Circle the Wounded](#circle-the-wounded-sage-art) | Follow retreating prey and call an opening for your team. |
-| Fungal | [Mycelial Ground](#mycelial-ground-sage-art) | Grow two patches and pass signals or Sage Arts between them. |
-| Salamander | [Regrowth](#regrowth-sage-art) | Draw an ally’s affliction onto your skin and shed it while resting. |
+| Tradition | Granted art |
+| --- | --- |
+| Wild | [Nature Pulse](#nature-pulse) |
+| Great Toad | [Pond-Leap](#pond-leap-sage-art) |
+| Serpent | [Shed the Binding](#shed-the-binding-sage-art) |
+| Roc | [Updraft Step](#updraft-step-sage-art) |
+| Tortoise | [Still Shell](#still-shell-sage-art) |
+| Moth | [Dust Veil](#dust-veil-sage-art) |
+| Carrion | [Circle the Wounded](#circle-the-wounded-sage-art) |
+| Fungal | [Mycelial Ground](#mycelial-ground-sage-art) |
+| Salamander | [Regrowth](#regrowth-sage-art) |
 
 **Existing Sages:** Add your starting art. If you already spent a selection on it, replace that selection with another eligible art from your Tradition or the general list. Use your current rank and keep the same number of Developments. The granted art satisfies prerequisites.
 
@@ -90,26 +80,7 @@ If damage gets through during Gather’s Delay, roll Chakra Control and exceed 1
 
 When Gather resolves **outside Sage Mode**, gain **3 Sage Chakra**. When it resolves **in Sage Mode**, gain **2**. Apply your pool maximum after any additional gain. An aborted Gather grants nothing.
 
-**First fight, starting empty.** Declare Gather on IC 0. With no modifiers or interruptions you gain 3 on IC 8, act again on IC 10, and enter Sage Mode on 10. Your next main action is on 13. A 1-point art leaves 2 for another art or a defence. If you Dodge on IC 5, Gather aborts before it pays out. If you Dodge on IC 9, you keep the 3 already gathered and add the Dodge’s Speed to your scheduled IC 10.
-
 Gather Natural Chakra is not a Jutsu and causes no Chakra Exhaustion. Any effect which reduces Gather Natural Chakra's Speed also reduces its Delay by the same amount. AP may reduce both values in this way; this is a specific exception to the normal rules for reducing Delay. Neither value may normally be reduced below 5\. If an effect specifically lowers Gather Natural Chakra's minimum Speed, it lowers its minimum Delay by the same amount. Gather's final Speed can never be lower than its current Delay; if an effect would cause this, increase its final Speed to match its Delay. You may Gather while already in Sage Mode. Speed reductions apply to Delay once, including those from Swift Communion, Deep Roots and Perfect Communion.
-
-### Sages on the clock
-{:#sage-turn-examples}
-
-- **Toad at the gate.** At Sage Power 1 you enter Mode on IC 10 and choose Springing. On IC 13, a target stands 5 yards away across a ditch. Spend 1 of your 3 Sage Chakra and combine Pond-Leap with a basic unarmed attack. Land in melee on the far bank. The attack is Speed 9, carries Springing’s +1 Accuracy, and a full hit adds Knockback 2. Without other modifiers you act again on 22.
-- **Roc above a quarry.** On IC 13, spend 1 to Updraft Step to a point 5 yards over a reachable melee target. On IC 16 spend 1 to link Talon Dive (your elective) to a basic unarmed attack and descend those 5 yards. Even at 25 AGI the Dive covers the descent. On a miss you still land if the ground supports you. If you Dodge at IC 14 without moving, your next main action moves to 18 and you dive on 18 instead. At Sage Power 3 you could Step 20 yards up, then dive those 20 yards to the same target. If it moves out of reach, choose another legal action from your perch.
-
-The following examples use unmodified Speeds. Assume enough Sage Chakra to remain in Mode after the listed costs.
-
-- **Wild, following a runner.** In Body on IC 13, touch the ground and spend 1 on Nature Pulse. Switch to Instinct and roll Survival against the trail’s concealment TN. You act again on 19. A failure leaves you in Instinct with no direction to relay.
-- **Toad, holding a gate.** Choose Steady when you enter Mode on IC 10. You can start Gather on 13 and still resist a shove on 15. At Power 1, a 2-yard Knockback moves you zero yards. Damage that gets through still calls for the usual Gather check.
-- **Serpent, caught in a clinch.** On your count declare Break Clinch with its legal X and spend 1 on Shed the Binding. Roll at the end of the escape’s Delay. At Power 1 a win lets you slip up to 3 yards. A loss leaves you in the clinch.
-- **Tortoise, covering a doorway.** Spend 1 on Stoneback on IC 13 and begin Gather with Still Shell on 16. At Power 1 you have DR 10 against a hit on 18 and can use Still Shell’s first Block. Check concentration if damage gets through. If Gather resolves normally on 24, the extra DR ends there.
-- **Moth, hiding from a patrol.** At Rank 4, already hidden at Level 2, Improve Hiding on 20. A current TN of 30 becomes 35 after the action penalty and change of level bonus. On 27 begin Gather without lowering it again. A guard who meets 35 on a Search has found you.
-- **Carrion, picking up a trail.** At Rank 1 spend 1 on Red Trail on 13. A bleeding quarry 18 yards away is in range. Compare your Search to its Stealth TN. On 17 you can spend 1 to Circle it if detected. If the Bleed ends and it has no other qualifying injury, it can retreat without triggering your pursuit.
-- **Fungal, screening a crossing.** At Rank 2, with Spore Veil and Hyphal Snare learned, place the veil on a dirt crossing on 13. On 17 the 3-yard cloud is still there. If you can perceive someone on the dirt within 15 yards, you can attempt Hyphal Snare through the spores with the remaining Visibility Penalty. The cloud clears on 23 even if nobody crosses.
-- **Salamander, treating a poisoned ally.** On 13, spend 1 on Regrowth at touch range. At Power 1 you can take both points of Poison 2 and give up the heal to shed one. You carry Poison 1 on its old clock. On 18 you can Rest to shed the remainder if still in Mode. That ally is eligible for Regrowth again on 33.
 
 ## SAGE MODE
 {:#sage-mode}
@@ -138,48 +109,18 @@ While Sage Mode is active:
 
 Sage Mode’s Upkeep uses normal Chakra rather than Sage Chakra. Normal exhaustion, Fatigue and Stamina penalties remain. The Mode ends with the scene.
 
-Pay Sage Chakra when you declare the effect. If you spend your last point, apply that effect with the Sage Power and Mode bonuses you had at declaration, then end Mode. For an attack or defence, resolve its roll, movement, damage and effects before ending Mode. A stance, mark, patch or perch is established when its action resolves. Its duration does not keep Mode alive. Spending your last point on Updraft Step therefore requires a landing if you want to avoid Falling. While a final-point effect is pending, you cannot spend more Sage Chakra or start another Sage Art. If the effect is aborted, the spent points stay spent and Mode ends. Effects expressly sustained by Mode end with it. A resolved hit, heal, movement or timed status keeps its result. You may end Sage Mode at Speed 0\.
+Pay Sage Chakra when you declare the effect. If you spend your last point, apply that effect with the Sage Power and Mode bonuses you had at declaration, then end Mode. For an attack or defence, resolve its roll, movement, damage and effects before ending Mode. A stance, mark, patch or perch is established when its action resolves. Its duration does not keep Mode alive. While a final-point effect is pending, you cannot spend more Sage Chakra or start another Sage Art. If the effect is aborted, the spent points stay spent and Mode ends. Effects expressly sustained by Mode end with it. A resolved hit, heal, movement or timed status keeps its result. You may end Sage Mode at Speed 0\.
 
 
 # SAGE TRADITIONS
 {:#sage-traditions}
 
-<div class="sage-directory" id="sage-directory"><div class="sage-directory-heading"><span>FIELD GUIDE / NINE TRADITIONS</span><h2>CHOOSE YOUR SAGE</h2><p>Every tradition is collected on this page. Select one below to open its full Signature Trait and Sage Arts without losing your place.</p></div><div class="sage-directory-grid"><a class="sage-directory-card" href="#wild-sage" data-sage-link="wild-sage"><span class="sage-symbol" aria-hidden="true">✦</span><span>01 / SAGE TRADITION</span><strong>WILD SAGE</strong><small>Read a route from tracks, stone or active Senjutsu.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#great-toad-sage" data-sage-link="great-toad-sage"><span class="sage-symbol" aria-hidden="true">🐸</span><span>02 / SAGE TRADITION</span><strong>GREAT TOAD SAGE</strong><small>Leap a ditch and strike on the same count.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#serpent-sage" data-sage-link="serpent-sage"><span class="sage-symbol" aria-hidden="true">🐍</span><span>03 / SAGE TRADITION</span><strong>SERPENT SAGE</strong><small>Reach across a gap in melee or slip a binding.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#roc-sage" data-sage-link="roc-sage"><span class="sage-symbol" aria-hidden="true">🦅</span><span>04 / SAGE TRADITION</span><strong>ROC SAGE</strong><small>Dive from a perch or catch a falling ally.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#tortoise-sage" data-sage-link="tortoise-sage"><span class="sage-symbol" aria-hidden="true">🐢</span><span>05 / SAGE TRADITION</span><strong>TORTOISE SAGE</strong><small>Trade an uninterrupted Gather for an ally’s safety.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#moth-sage" data-sage-link="moth-sage"><span class="sage-symbol" aria-hidden="true">🦋</span><span>06 / SAGE TRADITION</span><strong>MOTH SAGE</strong><small>Watch a crossing through a curtain of scales.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#carrion-sage" data-sage-link="carrion-sage"><span class="sage-symbol" aria-hidden="true">🦅</span><span>07 / SAGE TRADITION</span><strong>CARRION SAGE</strong><small>Follow wounded quarry and call a vulnerable part.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#fungal-sage" data-sage-link="fungal-sage"><span class="sage-symbol" aria-hidden="true">🍄</span><span>08 / SAGE TRADITION</span><strong>FUNGAL SAGE</strong><small>Grow linked patches for signals, searches and snares.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#salamander-sage" data-sage-link="salamander-sage"><span class="sage-symbol" aria-hidden="true">🦎</span><span>09 / SAGE TRADITION</span><strong>SALAMANDER SAGE</strong><small>Draw an affliction onto your own skin and shed it.</small><b aria-hidden="true">↗</b></a></div></div>
+<div class="sage-directory" id="sage-directory"><div class="sage-directory-grid"><a class="sage-directory-card" href="#wild-sage" data-sage-link="wild-sage"><span class="sage-symbol" aria-hidden="true">✦</span><strong>WILD SAGE</strong><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#great-toad-sage" data-sage-link="great-toad-sage"><span class="sage-symbol" aria-hidden="true">🐸</span><strong>GREAT TOAD SAGE</strong><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#serpent-sage" data-sage-link="serpent-sage"><span class="sage-symbol" aria-hidden="true">🐍</span><strong>SERPENT SAGE</strong><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#roc-sage" data-sage-link="roc-sage"><span class="sage-symbol" aria-hidden="true">🦅</span><strong>ROC SAGE</strong><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#tortoise-sage" data-sage-link="tortoise-sage"><span class="sage-symbol" aria-hidden="true">🐢</span><strong>TORTOISE SAGE</strong><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#moth-sage" data-sage-link="moth-sage"><span class="sage-symbol" aria-hidden="true">🦋</span><strong>MOTH SAGE</strong><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#carrion-sage" data-sage-link="carrion-sage"><span class="sage-symbol" aria-hidden="true">🦅</span><strong>CARRION SAGE</strong><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#fungal-sage" data-sage-link="fungal-sage"><span class="sage-symbol" aria-hidden="true">🍄</span><strong>FUNGAL SAGE</strong><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#salamander-sage" data-sage-link="salamander-sage"><span class="sage-symbol" aria-hidden="true">🦎</span><strong>SALAMANDER SAGE</strong><b aria-hidden="true">↗</b></a></div></div>
 
 
-Natural Chakra does not look the same in every body. A Sage Tradition is the shape given to Natural Chakra by the creature, place or lineage that taught you to understand it.
+A Sage must learn Natural Chakra through training with a Source. A Summon Contract alone does not grant it. Any appropriate Source can teach a Tradition.
 
-Most Sage Traditions are taught by Summon Tribes. Your Tradition determines the visible changes caused by Sage Mode, grants one Signature Trait, and gives access to a small list of Tradition Sage Arts. A Tradition may also alter one narrow rule for Gathering or spending Sage Chakra.
-
-Your Tradition changes what Natural Chakra rewards you for doing, but it does not replace the shared rules above. Unless the Tradition explicitly says otherwise, you still Gather Natural Chakra, use the same Sage Chakra pool, and enter Sage Mode normally.
-
-## BECOMING A SAGE
-{:#becoming-a-sage}
-
-Most shinobi are taught that chakra begins inside the body. Physical and spiritual energy are mixed, shaped through the coils and forced outward into the world. Natural Chakra asks for the opposite instinct. It is already there: in roots pushing through old stone, in rainwater trapped beneath the earth, in the heat rolling over ruined roads and in every living thing stubborn enough to keep growing.
-
-Sage training begins with stillness and careful balance. Too much natural energy overwhelms the body; too little cannot sustain Sage Mode.
-
-In the wilds around the Havens, this is not an abstract philosophy. The world is saturated with things that have survived too long, grown too large or adapted too completely to their surroundings. Great Beasts, ancient Summon Tribes, living forests, fungal colonies and stranger phenomena can all develop their own ways of balancing Natural Chakra. Those methods become Sage Traditions.
-
-### THE SOURCE
-{:#the-source}
-
-A Source is more than a scroll or a teacher willing to explain the theory. Natural Chakra has to be experienced under conditions where the student cannot fall back on ordinary habits. A Tortoise Sage may be made to hold a river crossing against impossible weight. A Roc Sage may be abandoned on a cliff with no safe path down. A Serpent Sage may spend days learning to distinguish patience from hesitation.
-
-Different Sources can teach the same Tradition differently. What remains consistent is the part of that training that survives translation: the instincts, body changes and Senjutsu methods recognised practitioners eventually share.
-
-### THE SHAPE OF SAGE MODE
-{:#the-shape-of-sage-mode}
-
-Sage Mode is visible. Natural Chakra does not sit politely inside a human body; it changes the way the body carries itself. Pupils alter, markings spread, skin or hair changes texture, the voice picks up an animal rasp, dust or spores trail from movement, or the air around the Sage seems to move a moment too late.
-
-These changes are cosmetic unless a Tradition or effect says otherwise. They normally fade when Sage Mode ends. The closer a Sage comes to Perfect Communion, the less the transformation resembles a disguise and the more it looks like the body remembering a shape it was always capable of taking.
-
-### TRADITIONS AND SUMMONS
-{:#traditions-and-summons}
-
-A Summon Contract does not automatically teach Natural Chakra. Some tribes guard their Sage teachings more fiercely than their contracts, some have lost the practice entirely, and some creatures capable of teaching Senjutsu have never belonged to a formal tribe at all. The Source requirement represents earning access to that knowledge in character.
+Sage Mode causes visible changes specific to your Tradition. These are cosmetic unless an effect says otherwise and normally fade when Mode ends.
 
 ## CHOOSING A SAGE TRADITION
 {:#choosing-a-sage-tradition}
@@ -191,14 +132,14 @@ Sage Kata count as Sage Arts for the purpose of learning and selecting them. Whe
 If your Source does not belong to an established Sage Tradition, use Wild Sage. Each Tradition’s starting art appears in the [starting arts table](#starting-arts).
 
 <details name="sage-tradition" class="sage-tradition" id="wild-sage-panel" markdown="1" open>
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">✦</span><span class="sage-tradition-number">01</span><span class="sage-tradition-title">WILD SAGE<small>Read a route from tracks, stone or active Senjutsu.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">✦</span><span class="sage-tradition-title">WILD SAGE</span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## WILD SAGE
 {:#wild-sage}
 
 **Starting art:** [Nature Pulse](#nature-pulse).
 
-A Wild Sage learned from a place, phenomenon, solitary creature or incomplete tradition rather than an established Summon Tribe. Their Sage Mode visibly reflects the environment in which they mastered it.
+Sage Mode Appearance — Your form reflects the environment where you mastered Natural Chakra.
 
 ### Open Communion — Signature Trait
 {:#open-communion-signature-trait}
@@ -213,22 +154,16 @@ Instinct — Increase Sage Sense by 5\.
 
 Spirit — Gain Sage Power to Chakra Control rolls.
 
-Wild Sage has no exclusive list of Tradition Arts or Kata. Its strength is flexibility: a Wild Sage builds entirely from General Sage Arts and Sage Kata, reflecting a discipline learned from a place, phenomenon or solitary teacher rather than a school with generations of named techniques.
-
-The Traditions below are established examples known in the wider world. Their names are human conveniences. A cliff-dwelling bird tribe may never call its teaching "Roc Sage," and a fungal network may not think of what it does as teaching at all. The entries below are complete Traditions and may be taught by any appropriate Source.
+Wild Sages choose from the General Sage Arts and Sage Kata.
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="great-toad-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐸</span><span class="sage-tradition-number">02</span><span class="sage-tradition-title">GREAT TOAD SAGE<small>Leap a ditch and strike on the same count.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐸</span><span class="sage-tradition-title">GREAT TOAD SAGE</span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## GREAT TOAD SAGE
 {:#great-toad-sage}
 
 **Starting art:** [Pond-Leap](#pond-leap-sage-art).
-
-Great Toad teachings are built on an uncomfortable contradiction: absolute stillness followed by absolute commitment. Their students are made to sit through rain, hunger, insects and insult without breaking concentration, then expected to cross a battlefield in one explosive movement the instant the moment is right.
-
-A Toad Sage is rarely graceful in the conventional sense. They settle low, read the field through vibration and pressure, then move with enough force that the ground seems surprised to still be beneath them.
 
 Sage Mode Appearance — The stance broadens and drops, the pupils flatten horizontally, and rough markings gather around the eyes, throat and shoulders. At higher Sage Ranks, hard landings kick up rings of dust or ripple standing water even when the Sage barely seems to move.
 
@@ -294,16 +229,12 @@ Leap up to 5 × Sage Power yards, then make either a Basic Attack: Unarmed or a 
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="serpent-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐍</span><span class="sage-tradition-number">03</span><span class="sage-tradition-title">SERPENT SAGE<small>Reach across a gap in melee or slip a binding.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐍</span><span class="sage-tradition-title">SERPENT SAGE</span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## SERPENT SAGE
 {:#serpent-sage}
 
 **Starting art:** [Shed the Binding](#shed-the-binding-sage-art).
-
-Serpent teachings treat safety as a habit to be broken. Distance can be crossed. Restraints can be slipped. Skin can be shed. A patient enemy can wait longer than you can. Their Sages learn to let Natural Chakra travel through the body in long, continuous lines rather than explosive bursts.
-
-Their training favours control over spectacle. A Serpent Sage wants the opponent committed, poisoned, bound or standing exactly where the next strike expects them to be.
 
 Sage Mode Appearance — Pupils narrow, the shoulders and spine seem unnaturally loose, and scale-like markings creep along the jaw, neck, arms or back. Canines may sharpen and movement becomes disturbingly economical.
 
@@ -361,16 +292,12 @@ Once per Sage Mode, as a Speed 3 Utility Action, you may spend 1 Sage Chakra to 
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="roc-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦅</span><span class="sage-tradition-number">04</span><span class="sage-tradition-title">ROC SAGE<small>Dive from a perch or catch a falling ally.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦅</span><span class="sage-tradition-title">ROC SAGE</span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## ROC SAGE
 {:#roc-sage}
 
 **Starting art:** [Updraft Step](#updraft-step-sage-art).
-
-Roc teachings begin by rejecting the idea that the battlefield is flat. Cliffs are roads. Rooftops are footholds. Falling is movement with a deadline. Their students learn to read open air the way other hunters read tracks.
-
-Roc Sages favour sudden relocation, rescue and attacks from angles ordinary footwork cannot create. Their greatest weakness is the same thing they prize: once enclosed, grounded or denied room to move, much of their advantage disappears.
 
 Sage Mode Appearance — Hair, cloth and loose equipment lift as though caught in a constant updraft. The eyes sharpen, feather-like chakra patterns form around the shoulders and forearms, and fast turns leave brief pinion-shaped trails in the air.
 
@@ -438,23 +365,19 @@ You may use Gather Natural Chakra while unsupported in the air. While Gathering 
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="tortoise-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐢</span><span class="sage-tradition-number">05</span><span class="sage-tradition-title">TORTOISE SAGE<small>Trade an uninterrupted Gather for an ally’s safety.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐢</span><span class="sage-tradition-title">TORTOISE SAGE</span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## TORTOISE SAGE
 {:#tortoise-sage}
 
 **Starting art:** [Still Shell](#still-shell-sage-art).
 
-Tortoise teachings are old, slow and deeply unimpressed by urgency. Their answer to danger is not always to avoid it. Sometimes the correct response is to become the place where the attack stops.
-
-Students are taught that endurance is not passive. Holding a doorway, sheltering another hunter or refusing to be moved can shape a battle as decisively as any strike. A Tortoise Sage spends Natural Chakra like masonry: layer by layer, exactly where the pressure will land.
-
 Sage Mode Appearance — The silhouette thickens, geometric or plate-like markings form across the back and limbs, breathing slows, and the feet seem to settle into the ground. At high ranks, impacts against the Sage can sound like blows against stone or old timber.
 
 ### Ancient Carapace — Signature Trait
 {:#ancient-carapace-signature-trait}
 
-While in Sage Mode, add 5 percentage points × Sage Power to Block’s reduction, capped at 75%. At Power 1 a basic Block reduces unarmed damage by 55% and weapon damage by 30%. You also gain Sage Power to Resistance rolls made against an Attack you Block. When you begin Prepare Blocking or Gather with Still Shell, name one willing adjacent ally. While you stay in place and that preparation continues, you may use Take The Hit for them at Speed 3 instead of 6. Use its normal roll and legality checks. On a successful intercept you may use your prepared Block once against the intercepted hit. This is the same Block that Sheltering Carapace grants outside preparation. If you attempt the intercept while Gathering, finish the interception and any permitted Block, then abort Gather whether the intercept succeeded or failed. Sheltering Carapace remains available when you have no Block prepared.
+While in Sage Mode, add 5 percentage points × Sage Power to Block’s reduction, capped at 75%. You also gain Sage Power to Resistance rolls made against an Attack you Block. When you begin Prepare Blocking or Gather with Still Shell, name one willing adjacent ally. While you stay in place and that preparation continues, you may use Take The Hit for them at Speed 3 instead of 6. Use its normal roll and legality checks. On a successful intercept you may use your prepared Block once against the intercepted hit. This is the same Block that Sheltering Carapace grants outside preparation. If you attempt the intercept while Gathering, finish the interception and any permitted Block, then abort Gather whether the intercept succeeded or failed. Sheltering Carapace remains available when you have no Block prepared.
 
 ### ( <span lang="ja">静かなる甲羅</span> ) Shizuka naru Kōra - Still Shell
 {:#still-shell-sage-art .jutsu-technique}
@@ -501,16 +424,12 @@ Once per battle, declare Unbroken Shell when you Block during Gather. Until that
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="moth-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦋</span><span class="sage-tradition-number">06</span><span class="sage-tradition-title">MOTH SAGE<small>Powder, concealment and heightened senses.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦋</span><span class="sage-tradition-title">MOTH SAGE</span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## MOTH SAGE
 {:#moth-sage}
 
 **Starting art:** [Dust Veil](#dust-veil-sage-art).
-
-Moth teachings treat perception as something physical. Air carries scent, dust, heat and vibration. Light reveals, but it also blinds. A battlefield is full of information before anyone makes a Search roll; most people are simply too loud inside their own heads to notice it.
-
-Moth Sages specialise in controlling that information. They obscure lines of sight, mark prey with almost invisible powder and move through confusion without surrendering their own awareness.
 
 Sage Mode Appearance — The eyes become glassy or faintly luminous, powder-fine scales drift from the skin or clothing, and wing-like patterns spread across the back, neck or temples. A motionless Moth Sage can look less asleep than intensely, unnervingly attentive.
 
@@ -572,16 +491,12 @@ You may use Gather Natural Chakra at Stealth Level 3 without reducing your Steal
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="carrion-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦅</span><span class="sage-tradition-number">07</span><span class="sage-tradition-title">CARRION SAGE<small>Follow wounded quarry and call a vulnerable part.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦅</span><span class="sage-tradition-title">CARRION SAGE</span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## CARRION SAGE
 {:#carrion-sage}
 
 **Starting art:** [Circle the Wounded](#circle-the-wounded-sage-art).
-
-Carrion traditions are taught by scavengers, corpse-crows, bone-pickers and predators clever enough to understand that the cleanest kill is often the one somebody else already started. They are not necessarily cruel. They are simply honest about injury.
-
-A Carrion Sage reads blood loss, limping footwork, ragged breathing and the tiny mistakes made by a creature trying to pretend it is not hurt. Their Senjutsu is strongest once the battlefield has become messy.
 
 Sage Mode Appearance — Features sharpen, dark markings gather around the eyes and nose, the teeth become more pronounced, and the Sage's attention repeatedly catches on blood, torn cloth and uneven movement. Even fresh blood can seem unnaturally vivid to them.
 
@@ -647,16 +562,12 @@ Add Last Descent to a damaging Taijutsu Attack against a creature at 0 Vitality,
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="fungal-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🍄</span><span class="sage-tradition-number">08</span><span class="sage-tradition-title">FUNGAL SAGE<small>Spores, roots and interconnected terrain.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🍄</span><span class="sage-tradition-title">FUNGAL SAGE</span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## FUNGAL SAGE
 {:#fungal-sage}
 
 **Starting art:** [Mycelial Ground](#mycelial-ground-sage-art).
-
-Fungal traditions begin with a lesson most humans dislike: the mushroom is not the organism. The visible body is temporary. The real creature is the network beneath it, spread through soil, root and rot, touching a hundred places at once.
-
-Fungal Sages are taught to think the same way. Position matters more than posture. Ground can carry information. A small patch of prepared terrain can become an extension of the Sage's senses or a trap that keeps an enemy exactly where the network wants them.
 
 Sage Mode Appearance — Pale branching lines spread beneath the skin, dust-like motes drift from movement, and the Sage may smell faintly of wet soil, bark or rain. Some develop temporary cap, lichen or shelf-like growths along hair, shoulders or clothing.
 
@@ -720,16 +631,12 @@ While touching natural earth, living vegetation or your Mycelial Ground, double 
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="salamander-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦎</span><span class="sage-tradition-number">09</span><span class="sage-tradition-title">SALAMANDER SAGE<small>Regeneration, resilience and survival.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦎</span><span class="sage-tradition-title">SALAMANDER SAGE</span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## SALAMANDER SAGE
 {:#salamander-sage}
 
 **Starting art:** [Regrowth](#regrowth-sage-art).
-
-Salamander teachings are about surviving the part where survival stops looking heroic. Heat, poison, exhaustion, torn muscle and choking air are treated as temporary problems to be managed long enough to reach safety or finish the fight.
-
-Their Sages are not immortal and do not regrow lost limbs or erase Wounds by wishing hard enough. What they learn is how to keep a damaged body useful: shed what can be shed, slow what can be slowed and spend Natural Chakra where the body is failing fastest.
 
 Sage Mode Appearance — Skin takes on a slick or patterned sheen, old scars darken, breath may steam in cool air, and minor cuts bead rather than run. During stronger techniques a thin translucent layer can peel away like shed skin.
 
@@ -792,7 +699,7 @@ Requires: Sage Rank 4\.
 Once per battle, when a Stamina or Chakra Exhaustion roll would advance you beyond maximum Fatigue and Incapacitate you, you may spend 2 Sage Chakra after the roll. The triggering Action resolves and you remain at maximum Fatigue instead, even if the normal Fatigue rules would cause that Action or technique to fail to activate. Refuse the Ash does not prevent Incapacitation caused by HP, Wounds or another effect, and you must have at least 2 Sage Chakra to use it.
 </details>
 
-<div class="sage-shared-note"><strong>SHARED SAGE ARTS</strong><p>The techniques below are shared options. Your tradition-specific Arts and Kata are listed inside its expandable section above.</p><a href="#sage-directory">↑ BACK TO SAGE TRADITIONS</a></div>
+<a href="#sage-directory">↑ BACK TO SAGE TRADITIONS</a>
 
 # SAGE ARTS
 {:#sage-arts}
@@ -1026,13 +933,14 @@ Make a Blunt Ninjutsu Attack against one creature. On a full hit, you may give u
 
 Cost: 1 Sage Chakra.
 
-Add Sage Break to a damaging Taijutsu or Ninjutsu Attack when it is declared. Ignore flat DR equal to Sage Power on this hit. Choose one percentage damage reduction from a defensive effect, including Block, and lower it by 5 percentage points × Sage Power, minimum zero. At Power 2, DR 12 becomes 10 and a 50% Block becomes 40%. Apply each at its usual mitigation step. A successful defence that avoids the attack still avoids it.
+Add Sage Break to a damaging Taijutsu or Ninjutsu Attack when it is declared. Ignore flat DR equal to Sage Power on this hit. Choose one percentage damage reduction from a defensive effect, including Block, and lower it by 5 percentage points × Sage Power, minimum zero. Apply each at its usual mitigation step. A successful defence that avoids the attack still avoids it.
 
 
 # MASTERY — PERFECT COMMUNION
 {:#mastery-perfect-communion}
 
-After taking three Natural Chakra Developments, your body no longer has to fight every step of the balancing process.
+Requires: Three Natural Chakra Developments.
+
 
 Reduce the base Speed of Gather Natural Chakra by 1 and its minimum Speed by 1\. Reduce Sage Mode's Upkeep by 1, minimum 0\.
 
