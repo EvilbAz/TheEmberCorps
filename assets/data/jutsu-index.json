@@ -9382,7 +9382,10 @@
     "tags": [
       "Sage Art"
     ],
-    "stats": {},
+    "stats": {
+      "speed": "4",
+      "cost": "1 Sage Chakra."
+    },
     "url": "/rules/jutsu/natural-chakra/#red-trail-sage-art"
   },
   {

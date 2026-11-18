@@ -94,11 +94,22 @@ When Gather resolves **outside Sage Mode**, gain **3 Sage Chakra**. When it reso
 
 Gather Natural Chakra is not a Jutsu and causes no Chakra Exhaustion. Any effect which reduces Gather Natural Chakra's Speed also reduces its Delay by the same amount. AP may reduce both values in this way; this is a specific exception to the normal rules for reducing Delay. Neither value may normally be reduced below 5\. If an effect specifically lowers Gather Natural Chakra's minimum Speed, it lowers its minimum Delay by the same amount. Gather's final Speed can never be lower than its current Delay; if an effect would cause this, increase its final Speed to match its Delay. You may Gather while already in Sage Mode. Speed reductions apply to Delay once, including those from Swift Communion, Deep Roots and Perfect Communion.
 
-### Two calls on the clock
+### Sages on the clock
 {:#sage-turn-examples}
 
 - **Toad at the gate.** At Sage Power 1 you enter Mode on IC 10 and choose Springing. On IC 13, a target stands 5 yards away across a ditch. Spend 1 of your 3 Sage Chakra and combine Pond-Leap with a basic unarmed attack. Land in melee on the far bank. The attack is Speed 9, carries Springing’s +1 Accuracy, and a full hit adds Knockback 2. Without other modifiers you act again on 22.
 - **Roc above a quarry.** On IC 13, spend 1 to Updraft Step to a point 5 yards over a reachable melee target. On IC 16 spend 1 to link Talon Dive (your elective) to a basic unarmed attack and descend those 5 yards. Even at 25 AGI the Dive covers the descent. On a miss you still land if the ground supports you. If you Dodge at IC 14 without moving, your next main action moves to 18 and you dive on 18 instead. At Sage Power 3 you could Step 20 yards up, then dive those 20 yards to the same target. If it moves out of reach, choose another legal action from your perch.
+
+The following examples use unmodified Speeds. Assume enough Sage Chakra to remain in Mode after the listed costs.
+
+- **Wild, following a runner.** In Body on IC 13, touch the ground and spend 1 on Nature Pulse. Switch to Instinct and roll Survival against the trail’s concealment TN. You act again on 19. A failure leaves you in Instinct with no direction to relay.
+- **Toad, holding a gate.** Choose Steady when you enter Mode on IC 10. You can start Gather on 13 and still resist a shove on 15. At Power 1, a 2-yard Knockback moves you zero yards. Damage that gets through still calls for the usual Gather check.
+- **Serpent, caught in a clinch.** On your count declare Break Clinch with its legal X and spend 1 on Shed the Binding. Roll at the end of the escape’s Delay. At Power 1 a win lets you slip up to 3 yards. A loss leaves you in the clinch.
+- **Tortoise, covering a doorway.** Spend 1 on Stoneback on IC 13 and begin Gather with Still Shell on 16. At Power 1 you have DR 10 against a hit on 18 and can use Still Shell’s first Block. Check concentration if damage gets through. If Gather resolves normally on 24, the extra DR ends there.
+- **Moth, hiding from a patrol.** At Rank 4, already hidden at Level 2, Improve Hiding on 20. A current TN of 30 becomes 35 after the action penalty and change of level bonus. On 27 begin Gather without lowering it again. A guard who meets 35 on a Search has found you.
+- **Carrion, picking up a trail.** At Rank 1 spend 1 on Red Trail on 13. A bleeding quarry 18 yards away is in range. Compare your Search to its Stealth TN. On 17 you can spend 1 to Circle it if detected. If the Bleed ends and it has no other qualifying injury, it can retreat without triggering your pursuit.
+- **Fungal, screening a crossing.** At Rank 2, with Spore Veil and Hyphal Snare learned, place the veil on a dirt crossing on 13. On 17 the 3-yard cloud is still there. If you can perceive someone on the dirt within 15 yards, you can attempt Hyphal Snare through the spores with the remaining Visibility Penalty. The cloud clears on 23 even if nobody crosses.
+- **Salamander, treating a poisoned ally.** On 13, spend 1 on Regrowth at touch range. At Power 1 you can take both points of Poison 2 and give up the heal to shed one. You carry Poison 1 on its old clock. On 18 you can Rest to shed the remainder if still in Mode. That ally is eligible for Regrowth again on 33.
 
 ## SAGE MODE
 {:#sage-mode}
@@ -192,7 +203,7 @@ A Wild Sage learned from a place, phenomenon, solitary creature or incomplete tr
 ### Open Communion — Signature Trait
 {:#open-communion-signature-trait}
 
-Whenever you enter Sage Mode, choose Body, Instinct or Spirit. When your Gather resolves in Mode, you may switch aspects. The selected benefit lasts until you switch or leave Mode.
+Whenever you enter Sage Mode, choose Body, Instinct or Spirit. When your Gather resolves in Mode, you may switch aspects. You may also switch when declaring Nature Pulse by adding 2 to its Speed. Choose the new aspect before measuring range or rolling. It stays selected even if the Search fails. The selected benefit lasts until you switch or leave Mode.
 
 When you use Nature Pulse, you can read the terrain in place of Searching for creatures. Touch a continuous natural surface and use Survival in place of Awareness. Within the Pulse’s usual range, Body finds a surface strong enough to support a named load, Instinct follows the freshest physical trail across a gap in its visible tracks, and Spirit locates a disturbance left by active Senjutsu. Name what you need before rolling. Use the scene’s Survival TN. For a concealed trail use its established concealment TN, or the concealing creature’s Stealth roll if none has been set. On success the GM gives one location or direction, or confirms there is no matching sign within reach.
 
@@ -224,9 +235,9 @@ Sage Mode Appearance — The stance broadens and drops, the pupils flatten horiz
 ### Stone-Bellied Patience — Signature Trait
 {:#stone-bellied-patience-signature-trait}
 
-On entering Sage Mode and whenever Gather resolves in Mode, choose Steady or Springing. A new choice replaces the previous one.
+On entering Sage Mode and whenever Gather resolves in Mode, choose Steady or Springing. A new choice replaces the previous one. For Steady, measure from the IC you enter Mode or finish Gathering. Apply its reduction to an incoming shove before checking whether you actually moved.
 
-Steady — Until the beginning of your next non-Interrupt Action, gain Sage Power to Resistance rolls and reduce Knockback you suffer by 2 × Sage Power yards, minimum 0\.
+Steady — For 10 IC, while you stay in place and in Mode, gain Sage Power to Resistance rolls and reduce Knockback you suffer by 2 × Sage Power yards, minimum 0\.
 
 Springing — Your next Taijutsu Attack gains Sage Power Accuracy. On a full hit, it also deals 2 × Sage Power Knockback. If you linked Ripple Strike, add both distances and resolve one shove, then check Ripple Strike’s Prone trigger once. This benefit ends when that Attack resolves or when you begin a different non-Interrupt Action.
 
@@ -311,6 +322,8 @@ While in Sage Mode, your Melee Taijutsu Attacks may originate up to Sage Power y
 Cost: 1 Sage Chakra.
 
 Use this as a Speed 1 Utility Action while suffering physical Immobilization, or as a Speed 1 Interrupt immediately after you gain physical Immobilization from restraints, bindings, grappling effects or terrain. Reduce that Immobilization by 2 \+ Sage Power. Shed the Binding cannot reduce Paralysis, mental effects or Immobilization caused by a Wound. If you clear the last physical Immobilization holding you in place, leave a hollow skin at your feet and slip up to 2 + Sage Power yards along a legal path. For the Interrupt, finish the triggering effect first and add the Interrupt’s final Speed to your scheduled IC. The slip cannot free you from a Clinch, Pin or separate restraint.
+
+If held in a Clinch or Pin, you can instead shed your skin as part of [Break Clinch or Escape Pin]({{ '/rules/jutsu/grapple/' | relative_url }}). Spend 1 Sage Chakra at declaration to add Sage Power to the Grapple Defense roll. Use the escape action’s normal Stamina, Speed and Delay. On success you may slip up to 2 + Sage Power yards after the grapple ends if your movement is legal. On failure you stay held and the point is spent.
 
 ### ( <span lang="ja">毒の交感</span> ) Doku no Kōkan - Venomous Communion
 {:#venomous-communion-sage-art .jutsu-technique}
@@ -459,7 +472,7 @@ While Gathering Natural Chakra, you are considered to be Preparing Blocking and 
 
 Cost: 1 Sage Chakra.
 
-Gain DR equal to 5 \+ (5 × Sage Power) until the beginning of your next non-Interrupt Action. Your Movement Speed is reduced by 50% while this effect lasts.
+Gain DR equal to 5 \+ (5 × Sage Power) until the beginning of your next non-Interrupt Action. Your Movement Speed is reduced by 50% while this effect lasts. If your next non-Interrupt Action is Prepare Blocking or a Gather that uses Still Shell, keep Stoneback through that preparation, including the hit that interrupts or ends it. The extension ends when the preparation resolves or is abandoned, you move, or Mode ends, whichever comes first. It applies to one preparation per use.
 
 ### ( <span lang="ja">大地の根</span> ) Daichi no Ne - Root the World
 {:#root-the-world-sage-art .jutsu-technique}
@@ -553,6 +566,8 @@ When a damaging Taijutsu or Ninjutsu Attack fully hits and deals at least 1 dama
 
 Requires: Sage Rank 4\.
 
+While hidden at Stealth Level 2 in Sage Mode, you may use [Improve Hiding]({{ '/rules/core/#improve-hiding' | relative_url }}) again to enter Level 3. Spend its normal Speed 7 and apply the usual −5 Stealth TN for taking an action. Replace the Level 2 bonus (+5) with the Level 3 bonus (+15) for observers you are still hidden from. An observer who already found you can still see you.
+
 You may use Gather Natural Chakra at Stealth Level 3 without reducing your Stealth level or Stealth TN for declaring Gather. All other Actions and all other causes of losing Stealth function normally.
 </details>
 
@@ -580,9 +595,11 @@ While in Sage Mode, increase Sage Sense by 5 for Awareness and Survival rolls ma
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span></span>
 
-Requires: Nature Pulse.
+\[Speed 4, Utility, Search\]
 
-Nature Pulse has double its normal range when used to Search for creatures suffering a Wound or Bleed. Against those creatures, reduce the final Visibility Penalty of the Search by an additional Sage Power, minimum 0\.
+Cost: 1 Sage Chakra.
+
+Use [Nature Pulse](#nature-pulse) at double range (20 × Sage Rank yards) to Search only for creatures that currently qualify for Blood on the Wind. Learning Red Trail grants this injured-quarry Search. Learn Nature Pulse separately to Search for other creatures and chakra sources. Use one action, one cost and one Search roll. Against those creatures, reduce the final Visibility Penalty of the Search by an additional Sage Power, minimum 0\.
 
 ### ( <span lang="ja">屍喰いの印</span> ) Shikabane Kui no Shirushi - Scavenger's Claim
 {:#scavenger-s-claim-sage-art .jutsu-technique}
@@ -668,7 +685,7 @@ Choose a point on solid ground within 10 yards. A radius of 2 \+ Sage Power yard
 
 Cost: 1 Sage Chakra.
 
-Choose a point within 10 yards. A radius of 2 \+ Sage Power yards fills with spores and imposes a Visibility Penalty equal to 2 \+ Sage Power under the normal rules for area-based Visibility. The veil lasts until the beginning of your next non-Interrupt Action. Reduce the Visibility Penalty you personally suffer from this Art by Sage Power before applying other reductions.
+Choose a point within 10 yards. A radius of 2 \+ Sage Power yards fills with spores and imposes a Visibility Penalty equal to 2 \+ Sage Power under the normal rules for area-based Visibility. The spores hang at the chosen point for 10 IC, even if Mode ends or the fungal patches unlink. Creating another Spore Veil ends your previous one. Reduce the Visibility Penalty you personally suffer from this Art by Sage Power before applying other reductions.
 
 ### ( <span lang="ja">菌糸の罠</span> ) Kinshi no Wana - Hyphal Snare
 {:#hyphal-snare-sage-art .jutsu-technique}
@@ -719,7 +736,7 @@ Sage Mode Appearance — Skin takes on a slick or patterned sheen, old scars dar
 ### Regenerative Balance — Signature Trait
 {:#regenerative-balance-signature-trait}
 
-When you complete a Rest in Sage Mode, reduce one Burn, Bleed or Poison affecting you by 1 + Sage Power, minimum 0. Your skin sheds this affliction even at zero Stamina penalty. A Status reduced to 0 this way ends. Regenerative Balance cannot heal Wounds.
+When you take the Speed 5 Rest action in Sage Mode, immediately reduce one Burn, Bleed or Poison affecting you by 1 + Sage Power, minimum 0. Your skin sheds this affliction even at zero Stamina penalty. A Status reduced to 0 this way ends. Regenerative Balance cannot heal Wounds.
 
 ### ( <span lang="ja">痛み抜け</span> ) Itami Nuke - Shed Pain
 {:#shed-pain-sage-art .jutsu-technique}
@@ -750,7 +767,7 @@ Cost: 1 Sage Chakra.
 
 Range: Self or Touch.
 
-Restore Vitality equal to 5% × Sage Power of your maximum Vitality, up to your normal maximum. Regrowth does not restore HP, heal Wounds or remove the effects of a Wound. Alternatively, place a hand on a willing adjacent creature as the Speed 5 action. They receive the Vitality based on their maximum. Record the recipient’s next eligible IC as the current IC + 20. This ally limit is shared across all Salamander Sages. A full-Vitality ally can receive a transfer and uses the same cooldown. You may also take up to 1 + Sage Power severity of one transferable Burn, Bleed or Poison from them. Reduce their severity by the amount you take. Apply it to yourself immediately for the remaining duration, using normal stacking rules. Wound effects, effects that forbid removal and effects you are immune to cannot be transferred.
+Restore Vitality equal to 5% × Sage Power of your maximum Vitality, up to your normal maximum. Regrowth does not restore HP, heal Wounds or remove the effects of a Wound. Alternatively, place a hand on a willing adjacent creature as the Speed 5 action. They receive the Vitality based on their maximum. Record the recipient’s next eligible IC as the current IC + 20. This ally limit is shared across all Salamander Sages. A full-Vitality ally can receive a transfer and uses the same cooldown. You may also take up to 1 + Sage Power severity of one transferable Burn, Bleed or Poison from them. Reduce their severity by the amount you take. Normally, apply it to yourself for the remaining duration using normal stacking rules. In place of restoring Vitality, you may shed 1 point of the transferred severity immediately. Only the remainder is applied to you and stacks. Transferring moves an existing effect and causes no extra damage tick at the moment of transfer. Keep its remaining tick schedule. Wound effects, effects that forbid removal and effects you are immune to cannot be transferred.
 
 ### ( <span lang="ja">脱皮抜け</span> ) Dappi Nuke - Molt Away
 {:#molt-away-sage-art .jutsu-technique}
