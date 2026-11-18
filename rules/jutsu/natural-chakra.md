@@ -26,14 +26,31 @@ Choose a [Sage Tradition](#sage-traditions), [Gather Natural Chakra](#gather-nat
 ## Core Talent
 {:#core-talent}
 
-Choose a Sage Tradition from a creature, Summon Tribe or other Source capable of teaching Natural Chakra. Gain Sage Rank 1, a maximum Sage Chakra of 4, Gather Natural Chakra, Sage Mode, your Tradition's Signature Trait, and one Sage Art or Sage Kata you meet the requirements for.
+Choose a Sage Tradition from a creature, Summon Tribe or other Source capable of teaching Natural Chakra. Gain Sage Rank 1, a maximum Sage Chakra of 4, Gather Natural Chakra, Sage Mode, your Tradition’s Signature Trait and starting art, and one other eligible Sage Art or Sage Kata of your choice.
 
 Sage Chakra is a separate resource. It cannot pay normal Jutsu Chakra Costs and spending it does not cause Chakra Exhaustion unless an effect specifically says otherwise. Sage Chakra is not Chakra, Stamina, AP or Willpower for effects which restore or modify those resources.
+
+### Starting arts
+{:#starting-arts}
+
+| Tradition | Granted art | What you can do |
+| --- | --- | --- |
+| Wild | [Nature Pulse](#nature-pulse) | Read a crossing through water, brush or stone. |
+| Great Toad | [Pond-Leap](#pond-leap-sage-art) | Coil on solid ground and spring straight into a strike. |
+| Serpent | [Shed the Binding](#shed-the-binding-sage-art) | Leave a binding behind in a discarded skin. |
+| Roc | [Updraft Step](#updraft-step-sage-art) | Launch, pick a landing and catch a falling ally. |
+| Tortoise | [Still Shell](#still-shell-sage-art) | Gather under your shell and shelter a Hunter at your back. |
+| Moth | [Dust Veil](#dust-veil-sage-art) | Lay a curtain of scales across a sightline and watch it stir. |
+| Carrion | [Circle the Wounded](#circle-the-wounded-sage-art) | Follow retreating prey and call an opening for your team. |
+| Fungal | [Mycelial Ground](#mycelial-ground-sage-art) | Grow two patches and pass signals or Sage Arts between them. |
+| Salamander | [Regrowth](#regrowth-sage-art) | Draw an ally’s affliction onto your skin and shed it while resting. |
+
+**Existing Sages:** Add your starting art. If you already spent a selection on it, replace that selection with another eligible art from your Tradition or the general list. Use your current rank and keep the same number of Developments. The granted art satisfies prerequisites.
 
 ## Deepening Natural Chakra
 {:#deepening-natural-chakra}
 
-Each time you Deepen Natural Chakra, increase your Sage Rank by 1 and learn one additional Sage Art or Sage Kata. Each Art or Kata learned this way is one Natural Chakra Development for the normal Talent rules; the Art or Kata granted by the Core Talent is not a Development. Natural Chakra may be Deepened up to four times, to a maximum Sage Rank of 5\. You gain Perfect Communion after the third Development as normal; the fourth Deepening remains available after Mastery, still costs a Talent Point, and is how Sage Rank 5 is normally reached. Unless an Art or Kata says otherwise, the same one cannot be selected more than once.
+Each time you Deepen Natural Chakra, increase your Sage Rank by 1 and learn one additional Sage Art or Sage Kata. Each Art or Kata learned this way is one Natural Chakra Development for the normal Talent rules; neither Core pick counts as a Development. Natural Chakra may be Deepened up to four times, to a maximum Sage Rank of 5\. You gain Perfect Communion after the third Development as normal; the fourth Deepening remains available after Mastery, still costs a Talent Point, and is how Sage Rank 5 is normally reached. Unless an Art or Kata says otherwise, the same one cannot be selected more than once.
 
 ## Sage Progression
 {:#sage-progression}
@@ -56,7 +73,7 @@ Sage Power is used by Sage Mode and several Sage Arts. Sage Damage is the Final 
 
 Sage Chakra represents Natural Chakra that has been successfully drawn in and balanced with your own physical and spiritual energy.
 
-You cannot hold more Sage Chakra than your maximum. Excess Sage Chakra is lost. If you become Incapacitated, you immediately lose all Sage Chakra and Sage Mode ends.
+Ordinary gains stop at your maximum. Only an effect that explicitly forces excess Natural Chakra into you can cause [Natural Imbalance](#natural-imbalance). If you become Incapacitated, you immediately lose all Sage Chakra and Sage Mode ends.
 
 Outside Sage Mode, Sage Chakra is unstable. If you take a Rest, leave the scene, or spend 20 consecutive IC without successfully using Gather Natural Chakra, all Sage Chakra you are holding disperses. Entering Sage Mode suspends this dispersal. When Sage Mode ends, any Sage Chakra you still hold is lost.
 
@@ -71,9 +88,17 @@ Until this Action resolves, your Movement Speed is 0\. You cannot declare anothe
 
 If you take damage while Gathering, make a Chakra Control roll using the normal interruption TN for maintaining Handseals. On a failure, Gather Natural Chakra is aborted.
 
-When Gather Natural Chakra resolves, gain 1 Sage Chakra, up to your maximum.
+When Gather resolves **outside Sage Mode**, gain **3 Sage Chakra**. When it resolves **in Sage Mode**, gain **2**. Apply your pool maximum after any additional gain. An aborted Gather grants nothing.
 
-Gather Natural Chakra is not a Jutsu and causes no Chakra Exhaustion. Any effect which reduces Gather Natural Chakra's Speed also reduces its Delay by the same amount. AP may reduce both values in this way; this is a specific exception to the normal rules for reducing Delay. Neither value may normally be reduced below 5\. If an effect specifically lowers Gather Natural Chakra's minimum Speed, it lowers its minimum Delay by the same amount. Gather's final Speed can never be lower than its current Delay; if an effect would cause this, increase its final Speed to match its Delay. You may Gather while already in Sage Mode.
+**First fight, starting empty.** Declare Gather on IC 0. With no modifiers or interruptions you gain 3 on IC 8, act again on IC 10, and enter Sage Mode on 10. Your next main action is on 13. A 1-point art leaves 2 for another art or a defence. If you Dodge on IC 5, Gather aborts before it pays out. If you Dodge on IC 9, you keep the 3 already gathered and add the Dodge’s Speed to your scheduled IC 10.
+
+Gather Natural Chakra is not a Jutsu and causes no Chakra Exhaustion. Any effect which reduces Gather Natural Chakra's Speed also reduces its Delay by the same amount. AP may reduce both values in this way; this is a specific exception to the normal rules for reducing Delay. Neither value may normally be reduced below 5\. If an effect specifically lowers Gather Natural Chakra's minimum Speed, it lowers its minimum Delay by the same amount. Gather's final Speed can never be lower than its current Delay; if an effect would cause this, increase its final Speed to match its Delay. You may Gather while already in Sage Mode. Speed reductions apply to Delay once, including those from Swift Communion, Deep Roots and Perfect Communion.
+
+### Two calls on the clock
+{:#sage-turn-examples}
+
+- **Toad at the gate.** At Sage Power 1 you enter Mode on IC 10 and choose Springing. On IC 13, a target stands 5 yards away across a ditch. Spend 1 of your 3 Sage Chakra and combine Pond-Leap with a basic unarmed attack. Land in melee on the far bank. The attack is Speed 9, carries Springing’s +1 Accuracy, and a full hit adds Knockback 2. Without other modifiers you act again on 22.
+- **Roc above a quarry.** On IC 13, spend 1 to Updraft Step to a point 5 yards over a reachable melee target. On IC 16 spend 1 to link Talon Dive (your elective) to a basic unarmed attack and descend those 5 yards. Even at 25 AGI the Dive covers the descent. On a miss you still land if the ground supports you. If you had to Dodge at IC 14, your next action would move to 18 and the three-count suspension would expire on 16.
 
 ## SAGE MODE
 {:#sage-mode}
@@ -102,13 +127,13 @@ While Sage Mode is active:
 
 Sage Mode’s Upkeep uses normal Chakra rather than Sage Chakra. Normal exhaustion, Fatigue and Stamina penalties remain. The Mode ends with the scene.
 
-If you reach 0 Sage Chakra, Sage Mode ends after the effect which spent your final Sage Chakra resolves. You may end Sage Mode at Speed 0\.
+Pay Sage Chakra when you declare the effect. If you spend your last point, apply that effect with the Sage Power and Mode bonuses you had at declaration, then end Mode. While a final-point effect is pending, you cannot spend more Sage Chakra or start another Sage Art. If the effect is aborted, the spent points stay spent and Mode ends. Effects expressly sustained by Mode end with it. A resolved hit, heal, movement or timed status keeps its result. You may end Sage Mode at Speed 0\.
 
 
 # SAGE TRADITIONS
 {:#sage-traditions}
 
-<div class="sage-directory" id="sage-directory"><div class="sage-directory-heading"><span>FIELD GUIDE / NINE TRADITIONS</span><h2>CHOOSE YOUR SAGE</h2><p>Every tradition is collected on this page. Select one below to open its full Signature Trait and Sage Arts without losing your place.</p></div><div class="sage-directory-grid"><a class="sage-directory-card" href="#wild-sage" data-sage-link="wild-sage"><span class="sage-symbol" aria-hidden="true">✦</span><span>01 / SAGE TRADITION</span><strong>WILD SAGE</strong><small>An untethered path shaped by the living world.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#great-toad-sage" data-sage-link="great-toad-sage"><span class="sage-symbol" aria-hidden="true">🐸</span><span>02 / SAGE TRADITION</span><strong>GREAT TOAD SAGE</strong><small>Patience, powerful leaps and battlefield impact.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#serpent-sage" data-sage-link="serpent-sage"><span class="sage-symbol" aria-hidden="true">🐍</span><span>03 / SAGE TRADITION</span><strong>SERPENT SAGE</strong><small>Coils, venom and relentless pursuit.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#roc-sage" data-sage-link="roc-sage"><span class="sage-symbol" aria-hidden="true">🦅</span><span>04 / SAGE TRADITION</span><strong>ROC SAGE</strong><small>Aerial movement and mastery of the sky.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#tortoise-sage" data-sage-link="tortoise-sage"><span class="sage-symbol" aria-hidden="true">🐢</span><span>05 / SAGE TRADITION</span><strong>TORTOISE SAGE</strong><small>Endurance, protection and unyielding defence.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#moth-sage" data-sage-link="moth-sage"><span class="sage-symbol" aria-hidden="true">🦋</span><span>06 / SAGE TRADITION</span><strong>MOTH SAGE</strong><small>Powder, concealment and heightened senses.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#carrion-sage" data-sage-link="carrion-sage"><span class="sage-symbol" aria-hidden="true">🦅</span><span>07 / SAGE TRADITION</span><strong>CARRION SAGE</strong><small>Tracking, attrition and exploiting the wounded.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#fungal-sage" data-sage-link="fungal-sage"><span class="sage-symbol" aria-hidden="true">🍄</span><span>08 / SAGE TRADITION</span><strong>FUNGAL SAGE</strong><small>Spores, roots and interconnected terrain.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#salamander-sage" data-sage-link="salamander-sage"><span class="sage-symbol" aria-hidden="true">🦎</span><span>09 / SAGE TRADITION</span><strong>SALAMANDER SAGE</strong><small>Regeneration, resilience and survival.</small><b aria-hidden="true">↗</b></a></div></div>
+<div class="sage-directory" id="sage-directory"><div class="sage-directory-heading"><span>FIELD GUIDE / NINE TRADITIONS</span><h2>CHOOSE YOUR SAGE</h2><p>Every tradition is collected on this page. Select one below to open its full Signature Trait and Sage Arts without losing your place.</p></div><div class="sage-directory-grid"><a class="sage-directory-card" href="#wild-sage" data-sage-link="wild-sage"><span class="sage-symbol" aria-hidden="true">✦</span><span>01 / SAGE TRADITION</span><strong>WILD SAGE</strong><small>Read a route from tracks, stone or active Senjutsu.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#great-toad-sage" data-sage-link="great-toad-sage"><span class="sage-symbol" aria-hidden="true">🐸</span><span>02 / SAGE TRADITION</span><strong>GREAT TOAD SAGE</strong><small>Leap a ditch and strike on the same count.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#serpent-sage" data-sage-link="serpent-sage"><span class="sage-symbol" aria-hidden="true">🐍</span><span>03 / SAGE TRADITION</span><strong>SERPENT SAGE</strong><small>Reach across a gap in melee or slip a binding.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#roc-sage" data-sage-link="roc-sage"><span class="sage-symbol" aria-hidden="true">🦅</span><span>04 / SAGE TRADITION</span><strong>ROC SAGE</strong><small>Dive from a perch or catch a falling ally.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#tortoise-sage" data-sage-link="tortoise-sage"><span class="sage-symbol" aria-hidden="true">🐢</span><span>05 / SAGE TRADITION</span><strong>TORTOISE SAGE</strong><small>Trade an uninterrupted Gather for an ally’s safety.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#moth-sage" data-sage-link="moth-sage"><span class="sage-symbol" aria-hidden="true">🦋</span><span>06 / SAGE TRADITION</span><strong>MOTH SAGE</strong><small>Watch a crossing through a curtain of scales.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#carrion-sage" data-sage-link="carrion-sage"><span class="sage-symbol" aria-hidden="true">🦅</span><span>07 / SAGE TRADITION</span><strong>CARRION SAGE</strong><small>Follow wounded quarry and call a vulnerable part.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#fungal-sage" data-sage-link="fungal-sage"><span class="sage-symbol" aria-hidden="true">🍄</span><span>08 / SAGE TRADITION</span><strong>FUNGAL SAGE</strong><small>Grow linked patches for signals, searches and snares.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#salamander-sage" data-sage-link="salamander-sage"><span class="sage-symbol" aria-hidden="true">🦎</span><span>09 / SAGE TRADITION</span><strong>SALAMANDER SAGE</strong><small>Draw an affliction onto your own skin and shed it.</small><b aria-hidden="true">↗</b></a></div></div>
 
 
 Natural Chakra does not look the same in every body. A Sage Tradition is the shape given to Natural Chakra by the creature, place or lineage that taught you to understand it.
@@ -152,20 +177,24 @@ When you learn Natural Chakra, choose the Sage Tradition taught by your Source. 
 
 Sage Kata count as Sage Arts for the purpose of learning and selecting them. Whenever Natural Chakra lets you learn a Sage Art or Sage Kata, choose a General Sage Art, a General Sage Kata, or an Art or Kata from your Tradition for which you meet the requirements. You cannot normally select Arts or Kata from another Tradition unless an effect explicitly allows it.
 
-If your Source does not belong to an established Sage Tradition, use Wild Sage.
+If your Source does not belong to an established Sage Tradition, use Wild Sage. Each Tradition’s starting art appears in the [starting arts table](#starting-arts).
 
 <details name="sage-tradition" class="sage-tradition" id="wild-sage-panel" markdown="1" open>
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">✦</span><span class="sage-tradition-number">01</span><span class="sage-tradition-title">WILD SAGE<small>An untethered path shaped by the living world.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">✦</span><span class="sage-tradition-number">01</span><span class="sage-tradition-title">WILD SAGE<small>Read a route from tracks, stone or active Senjutsu.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## WILD SAGE
 {:#wild-sage}
+
+**Starting art:** [Nature Pulse](#nature-pulse).
 
 A Wild Sage learned from a place, phenomenon, solitary creature or incomplete tradition rather than an established Summon Tribe. Their Sage Mode visibly reflects the environment in which they mastered it.
 
 ### Open Communion — Signature Trait
 {:#open-communion-signature-trait}
 
-Whenever you enter Sage Mode, choose Body, Instinct or Spirit. The chosen benefit lasts until Sage Mode ends.
+Whenever you enter Sage Mode, choose Body, Instinct or Spirit. When your Gather resolves in Mode, you may switch aspects. The selected benefit lasts until you switch or leave Mode.
+
+When you use Nature Pulse, you can read the terrain in place of Searching for creatures. Touch a continuous natural surface and use Survival in place of Awareness. Within the Pulse’s usual range, Body finds a surface strong enough to support a named load, Instinct follows the freshest physical trail across a gap in its visible tracks, and Spirit locates a disturbance left by active Senjutsu. Name what you need before rolling. Use the scene’s Survival TN, or oppose the concealing creature’s Stealth for a hidden trail. On success the GM gives one location or direction, or confirms there is no matching sign within reach.
 
 Body — Gain Sage Power to Resistance rolls.
 
@@ -179,10 +208,12 @@ The Traditions below are established examples known in the wider world. Their na
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="great-toad-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐸</span><span class="sage-tradition-number">02</span><span class="sage-tradition-title">GREAT TOAD SAGE<small>Patience, powerful leaps and battlefield impact.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐸</span><span class="sage-tradition-number">02</span><span class="sage-tradition-title">GREAT TOAD SAGE<small>Leap a ditch and strike on the same count.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## GREAT TOAD SAGE
 {:#great-toad-sage}
+
+**Starting art:** [Pond-Leap](#pond-leap-sage-art).
 
 Great Toad teachings are built on an uncomfortable contradiction: absolute stillness followed by absolute commitment. Their students are made to sit through rain, hunger, insects and insult without breaking concentration, then expected to cross a battlefield in one explosive movement the instant the moment is right.
 
@@ -193,7 +224,7 @@ Sage Mode Appearance — The stance broadens and drops, the pupils flatten horiz
 ### Stone-Bellied Patience — Signature Trait
 {:#stone-bellied-patience-signature-trait}
 
-Whenever Gather Natural Chakra resolves while you are in Sage Mode, choose Steady or Springing.
+On entering Sage Mode and whenever Gather resolves in Mode, choose Steady or Springing. A new choice replaces the previous one.
 
 Steady — Until the beginning of your next non-Interrupt Action, gain Sage Power to Resistance rolls and reduce Knockback you suffer by 2 × Sage Power yards, minimum 0\.
 
@@ -208,7 +239,7 @@ Springing — Your next Taijutsu Attack gains Sage Power Accuracy. On a full hit
 
 Cost: 1 Sage Chakra.
 
-Leap up to 5 × Sage Power yards to a legal location you can perceive. You may pass over creatures, gaps, low obstacles and difficult ground without reducing this distance. You must end the movement somewhere that can support you.
+Leap up to 5 × Sage Power yards to a legal location you can perceive. You may pass over creatures, gaps, low obstacles and difficult ground without reducing this distance. You must end the movement somewhere that can support you. With Springing ready, you may spend it and the normal 1 Sage Chakra to make this leap as the approach for one melee Taijutsu Attack. Declare both together. Add +1 Speed to the attack instead of taking the separate Speed 3 leap. Use the leap in place of Move with an Attack, retain Springing’s attack benefits, and check reach from the landing space. A leap alone still costs Speed 3.
 
 ### ( <span lang="ja">波紋打ち</span> ) Hamon Uchi - Ripple Strike
 {:#ripple-strike-sage-art .jutsu-technique}
@@ -219,7 +250,7 @@ Leap up to 5 × Sage Power yards to a legal location you can perceive. You may p
 
 Cost: 1 Sage Chakra.
 
-Add Ripple Strike to a damaging Melee Taijutsu Attack when it is declared. On a full hit, that Attack deals 2 × Sage Power Knockback. If the target is moved at least 3 yards by this Knockback, make an Athletics Status Roll against their Resistance. On a failure, they are knocked Prone.
+Add Ripple Strike to a damaging Melee Taijutsu Attack when it is declared. On a full hit, that Attack deals 2 × Sage Power Knockback. If this strike moves the target at least 2 yards, or solid terrain stops its Knockback early, make an Athletics Status Roll against their Resistance. If the target fails, they are knocked Prone.
 
 ### ( <span lang="ja">静水の耳</span> ) Seisui no Mimi - Still-Water Listening
 {:#still-water-listening-sage-art .jutsu-technique}
@@ -248,14 +279,16 @@ Requires: Sage Rank 4\.
 
 Cost: 2 Sage Chakra.
 
-Leap up to 5 × Sage Power yards, then make either a Basic Attack: Unarmed or a Basic Attack: Weapon using a melee weapon you are wielding against a legal target. Use the chosen Basic Attack under the Sage Kata rules. On a full hit, add Sage Power Damage Dice and deal 3 × Sage Power Knockback. After the Knockback resolves, make an Athletics Status Roll against the target's Resistance. On a failure, they are knocked Prone. This Attack counts as Senjutsu.
+Leap up to 5 × Sage Power yards, then make either a Basic Attack: Unarmed or a Basic Attack: Weapon using a melee weapon you are wielding against a legal target. Use the chosen Basic Attack under the Sage Kata rules. On a full hit, add Sage Power Damage Dice and deal 3 × Sage Power Knockback. After the Knockback resolves, make an Athletics Status Roll against the target's Resistance. If the target fails, they are knocked Prone. This Attack counts as Senjutsu.
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="serpent-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐍</span><span class="sage-tradition-number">03</span><span class="sage-tradition-title">SERPENT SAGE<small>Coils, venom and relentless pursuit.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐍</span><span class="sage-tradition-number">03</span><span class="sage-tradition-title">SERPENT SAGE<small>Reach across a gap in melee or slip a binding.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## SERPENT SAGE
 {:#serpent-sage}
+
+**Starting art:** [Shed the Binding](#shed-the-binding-sage-art).
 
 Serpent teachings treat safety as a habit to be broken. Distance can be crossed. Restraints can be slipped. Skin can be shed. A patient enemy can wait longer than you can. Their Sages learn to let Natural Chakra travel through the body in long, continuous lines rather than explosive bursts.
 
@@ -266,7 +299,7 @@ Sage Mode Appearance — Pupils narrow, the shoulders and spine seem unnaturally
 ### Coiled Reach — Signature Trait
 {:#coiled-reach-signature-trait}
 
-While in Sage Mode, your Melee Taijutsu Attacks may originate up to Sage Power yards beyond their normal reach. This does not increase your Threatened Area. This increased origin distance stacks with other effects which explicitly extend where an Attack may originate.
+While in Sage Mode, your Melee Taijutsu Attacks may originate up to Sage Power yards beyond their normal reach. This does not increase your Threatened Area. This increased origin distance stacks with other effects which explicitly extend where an Attack may originate. After a full melee Taijutsu hit from beyond your ordinary reach, you may immediately draw yourself along that line to an empty space in melee with the target. This movement is part of your attack. It requires a clear path and the ability to move, and grants no Grab or extra attack.
 
 ### ( <span lang="ja">戒め抜け</span> ) Imashime Nuke - Shed the Binding
 {:#shed-the-binding-sage-art .jutsu-technique}
@@ -277,14 +310,14 @@ While in Sage Mode, your Melee Taijutsu Attacks may originate up to Sage Power y
 
 Cost: 1 Sage Chakra.
 
-Use this as a Speed 1 Utility Action while suffering physical Immobilization, or as a Speed 1 Interrupt immediately after you gain physical Immobilization from restraints, bindings, grappling effects or terrain. Reduce that Immobilization by 2 \+ Sage Power. Shed the Binding cannot reduce Paralysis, mental effects or Immobilization caused by a Wound.
+Use this as a Speed 1 Utility Action while suffering physical Immobilization, or as a Speed 1 Interrupt immediately after you gain physical Immobilization from restraints, bindings, grappling effects or terrain. Reduce that Immobilization by 2 \+ Sage Power. Shed the Binding cannot reduce Paralysis, mental effects or Immobilization caused by a Wound. If you clear the last physical Immobilization holding you in place, leave a hollow skin at your feet and slip up to 2 + Sage Power yards along a legal path. Resolve the triggering attack first. The slip cannot free you from a Clinch, Pin or separate restraint.
 
 ### ( <span lang="ja">毒の交感</span> ) Doku no Kōkan - Venomous Communion
 {:#venomous-communion-sage-art .jutsu-technique}
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span></span>
 
-When a damaging Taijutsu or Ninjutsu Attack fully hits and deals at least 1 damage after mitigation, you may spend 1 Sage Chakra and make a Chakra Control Status Roll against the target's Resistance. On a failure, the target suffers Poison equal to 1 \+ Sage Power for 5 \+ (5 × Sage Power) IC. Reapplying this Poison refreshes its duration; it does not stack with itself.
+When a damaging Taijutsu or Ninjutsu Attack fully hits and deals at least 1 damage after mitigation, you may spend 1 Sage Chakra and make a Chakra Control Status Roll against the target's Resistance. If the target fails, they suffer Poison equal to 1 \+ Sage Power for 5 \+ (5 × Sage Power) IC. Reapplying this Poison refreshes its duration; it does not stack with itself.
 
 ### ( <span lang="ja">締め巻き</span> ) Shime Maki - Constricting Coil
 {:#constricting-coil-sage-art .jutsu-technique}
@@ -295,7 +328,7 @@ When a damaging Taijutsu or Ninjutsu Attack fully hits and deals at least 1 dama
 
 Cost: 1 Sage Chakra.
 
-Add Constricting Coil to a Melee Taijutsu Attack when it is declared. On a full hit, make an Athletics Status Roll against the target's Resistance. On a failure, they suffer Immobilization equal to 2 \+ Sage Power.
+Add Constricting Coil to a Melee Taijutsu Attack when it is declared. On a full hit, make an Athletics Status Roll against the target's Resistance. If the target fails, apply Immobilization 2 + Sage Power for 10 IC. A new application refreshes the duration.
 
 ### ( <span lang="ja">忍ぶ狩人</span> ) Shinobu Kariudo - Patient Predator
 {:#patient-predator-sage-art .jutsu-technique}
@@ -315,10 +348,12 @@ Once per Sage Mode, as a Speed 3 Utility Action, you may spend 1 Sage Chakra to 
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="roc-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦅</span><span class="sage-tradition-number">04</span><span class="sage-tradition-title">ROC SAGE<small>Aerial movement and mastery of the sky.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦅</span><span class="sage-tradition-number">04</span><span class="sage-tradition-title">ROC SAGE<small>Dive from a perch or catch a falling ally.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## ROC SAGE
 {:#roc-sage}
+
+**Starting art:** [Updraft Step](#updraft-step-sage-art).
 
 Roc teachings begin by rejecting the idea that the battlefield is flat. Cliffs are roads. Rooftops are footholds. Falling is movement with a deadline. Their students learn to read open air the way other hunters read tracks.
 
@@ -340,7 +375,7 @@ While in Sage Mode, up to Sage Power yards of the distance you move during each 
 
 Cost: 1 Sage Chakra.
 
-Move up to 5 \+ (5 × Sage Power) yards. Sky-Borne Balance applies to this movement, and you may change direction once during it. If you finish unsupported in Sage Mode, you may hold that height for up to 3 IC. If your next main action comes due within that window, declare it from that height, then the suspension ends. It ends early if you move, are moved or leave Sage Mode. If still unsupported when it ends, begin Falling normally.
+Move up to 5 \+ (5 × Sage Power) yards. Sky-Borne Balance applies to this movement, and you may change direction once during it. If you finish unsupported in Sage Mode, you may hold that height for up to 3 IC. If your next main action comes due within that window, declare it from that height, then the suspension ends. It ends early if you move, are moved or leave Sage Mode. If still unsupported when it ends, begin Falling normally. You may also use Updraft Step as a Speed 3 rescue Interrupt when a willing ally within the Step’s distance begins Falling. Spend its normal cost, fly to the ally along a clear path and carry them with the remaining distance to a surface that supports both of you. Declare a reachable landing before spending the cost. Resolve this after the triggering attack and before the first IC of falling. Add its final Speed to your scheduled IC. Only one rescue can resolve for the same fall.
 
 ### ( <span lang="ja">鉤爪落とし</span> ) Kagizume Otoshi - Talon Dive
 {:#talon-dive-sage-kata .jutsu-technique}
@@ -351,7 +386,7 @@ Move up to 5 \+ (5 × Sage Power) yards. Sky-Borne Balance applies to this movem
 
 Cost: 1 Sage Chakra.
 
-Add Talon Dive to a damaging Melee Taijutsu Attack if you moved at least 5 yards downward immediately before declaring it. If you start the attack suspended by Updraft Step, you may descend using its normal Move with an Attack allowance. Count that descent toward the 5 yards and measure melee range from where you finish. On a full hit, add Sage Power Damage Dice and increase Final Damage by 5% × Sage Power. The Attack counts as Senjutsu.
+Add Talon Dive to a damaging Melee Taijutsu Attack if you moved at least 5 yards downward immediately before declaring it. If you start above your target, you may dive toward it as the approach for this attack. Descend up to 5 yards or your usual Move with an Attack distance, whichever is greater. Use one approach and check melee range from the endpoint. A descent of at least 5 yards qualifies immediately, including on the IC your Updraft Step suspension ends. If you finish on a supporting surface, land there safely. Otherwise resume Falling from your new height. On a full hit, add Sage Power Damage Dice and increase Final Damage by 5% × Sage Power. The Attack counts as Senjutsu.
 
 ### ( <span lang="ja">翼守り</span> ) Tsubasa Mamori - Wing Guard
 {:#wing-guard-sage-art .jutsu-technique}
@@ -382,14 +417,16 @@ Choose one willing creature in Melee. Move yourself and that creature up to 3 \+
 
 Requires: Sage Rank 4\.
 
-You may use Gather Natural Chakra while unsupported in the air. While Gathering this way you remain suspended instead of Falling. Your Movement Speed is 0 unless another Sage Art specifically allows you to move while Gathering. When Gather resolves or is aborted, if you are still unsupported you immediately begin Falling.
+You may use Gather Natural Chakra while unsupported in the air. While Gathering this way you remain suspended instead of Falling. Your Movement Speed is 0 unless another Sage Art specifically allows you to move while Gathering. On a successful airborne Gather in Mode, you may keep your perch until your next main action, for up to 3 IC, using Updraft Step’s suspension rules. An aborted Gather gives no perch. If you are still unsupported when the perch ends, begin Falling.
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="tortoise-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐢</span><span class="sage-tradition-number">05</span><span class="sage-tradition-title">TORTOISE SAGE<small>Endurance, protection and unyielding defence.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🐢</span><span class="sage-tradition-number">05</span><span class="sage-tradition-title">TORTOISE SAGE<small>Trade an uninterrupted Gather for an ally’s safety.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## TORTOISE SAGE
 {:#tortoise-sage}
+
+**Starting art:** [Still Shell](#still-shell-sage-art).
 
 Tortoise teachings are old, slow and deeply unimpressed by urgency. Their answer to danger is not always to avoid it. Sometimes the correct response is to become the place where the attack stops.
 
@@ -400,14 +437,14 @@ Sage Mode Appearance — The silhouette thickens, geometric or plate-like markin
 ### Ancient Carapace — Signature Trait
 {:#ancient-carapace-signature-trait}
 
-While in Sage Mode, increase Block's percentage damage reduction by 5% × Sage Power, to the normal maximum of 75%. You also gain Sage Power to Resistance rolls made against an Attack you Block.
+While in Sage Mode, increase Block's percentage damage reduction by 5% × Sage Power, to the normal maximum of 75%. You also gain Sage Power to Resistance rolls made against an Attack you Block. When you begin Prepare Blocking or Gather with Still Shell, name one willing adjacent ally. While you stay in place and that preparation continues, you may use Take The Hit for them at Speed 3 instead of 6. Use its normal roll and legality checks. On an intercept you may use your prepared Block. If you intercept while Gathering, finish the interception and any permitted Block, then abort Gather without gaining chakra. Sheltering Carapace remains available when you have no Block prepared.
 
 ### ( <span lang="ja">静かなる甲羅</span> ) Shizuka naru Kōra - Still Shell
 {:#still-shell-sage-art .jutsu-technique}
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span></span>
 
-While Gathering Natural Chakra, you are considered to be Preparing Blocking and may use Block. Block is still an Interrupt and therefore normally aborts Gather after the Block resolves.
+While Gathering Natural Chakra, you are considered to be Preparing Blocking and may use Block. Once per Gather, you may Block and stay Gathering. Roll Chakra Control normally if damage gets through. A second Block before Gather resolves aborts it unless Unbroken Shell applies. Still Shell applies from declaration, including the IC you start Gathering, and also works outside Sage Mode.
 
 ### ( <span lang="ja">岩背</span> ) Iwase - Stoneback
 {:#stoneback-sage-art .jutsu-technique}
@@ -443,7 +480,7 @@ After you successfully use Take The Hit, you may spend 1 Sage Chakra to Block th
 
 Requires: Sage Rank 4\.
 
-Once per battle, using Block while Gathering Natural Chakra does not abort Gather. The Block still uses its normal Interrupt Speed and all other effects of the Attack resolve normally.
+Once per battle, declare Unbroken Shell when you Block during Gather. Until that Gather resolves, any number of legal Blocks preserve Gather, and damage from those Blocks automatically passes its concentration check. The Block still uses its normal Interrupt Speed and all other effects of the Attack resolve normally.
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="moth-sage-panel" markdown="1">
@@ -451,6 +488,8 @@ Once per battle, using Block while Gathering Natural Chakra does not abort Gathe
 
 ## MOTH SAGE
 {:#moth-sage}
+
+**Starting art:** [Dust Veil](#dust-veil-sage-art).
 
 Moth teachings treat perception as something physical. Air carries scent, dust, heat and vibration. Light reveals, but it also blinds. A battlefield is full of information before anyone makes a Search roll; most people are simply too loud inside their own heads to notice it.
 
@@ -472,7 +511,7 @@ While in Sage Mode, reduce the final Visibility Penalty applied to your Awarenes
 
 Cost: 1 Sage Chakra.
 
-Fill a radius of 2 \+ Sage Power yards centred on you with drifting scales. The area imposes a Visibility Penalty equal to 2 \+ Sage Power under the normal rules for area-based Visibility. The veil lasts until the beginning of your next non-Interrupt Action. Powder-Sense applies normally.
+Fill a radius of 2 + Sage Power yards with drifting scales. The area imposes a Visibility Penalty equal to 2 \+ Sage Power under the normal rules for area-based Visibility. Place the veil at your feet or centre it on a visible point within 5 yards. The scales hang at that point for 10 IC, including if you leave Mode. Creating another Dust Veil ends the first. While within 10 yards of its centre and in Mode, you feel which edge a moving creature crossed and on which IC. Hidden movement gives a disturbance you can Search, with no automatic identification or targeting. Powder-Sense applies normally.
 
 ### ( <span lang="ja">粉の印</span> ) Kona no Shirushi - Powder Mark
 {:#powder-mark-sage-art .jutsu-technique}
@@ -483,7 +522,7 @@ Fill a radius of 2 \+ Sage Power yards centred on you with drifting scales. The 
 
 Cost: 1 Sage Chakra.
 
-Choose one creature you can currently detect. Until Sage Mode ends or you mark a new creature, reduce that creature's Stealth TN against your Searches by 2 \+ Sage Power. Powder Mark does not prevent Stealth and does not reveal the target automatically.
+Choose one creature you can currently detect. Until Sage Mode ends or you mark a new creature, reduce that creature's Stealth TN against your Searches by 2 \+ Sage Power. Powder Mark does not prevent Stealth and does not reveal the target automatically. As part of placing the mark, choose a willing ally within 5 yards and dust their eyelids. While the mark lasts, that ally also gets the Search benefit against the marked creature and can see through your Dust Veil without its penalty.
 
 ### ( <span lang="ja">月翅流し</span> ) Tsukibane Nagashi - Moonwing Drift
 {:#moonwing-drift-sage-art .jutsu-technique}
@@ -494,7 +533,7 @@ Choose one creature you can currently detect. Until Sage Mode ends or you mark a
 
 Cost: 1 Sage Chakra.
 
-Move up to 3 \+ (3 × Sage Power) yards. If you began this movement in Stealth, the movement does not reduce your Stealth level. Declaring the Action still reduces your Stealth TN by 5 normally.
+Move up to 3 \+ (3 × Sage Power) yards. If you began this movement in Stealth, the movement does not reduce your Stealth level. Declaring the Action still reduces your Stealth TN by 5 normally. If you start in your Dust Veil while visible, you may instead use Moonwing Drift to Hide at its endpoint inside the veil. Roll Stealth normally against observers relying on sight. Other senses and searches work as usual.
 
 ### ( <span lang="ja">目潰し鱗粉</span> ) Metsubushi Rinpun - Blinding Scales
 {:#blinding-scales-sage-art .jutsu-technique}
@@ -514,10 +553,12 @@ You may use Gather Natural Chakra at Stealth Level 3 without reducing your Steal
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="carrion-sage-panel" markdown="1">
-<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦅</span><span class="sage-tradition-number">07</span><span class="sage-tradition-title">CARRION SAGE<small>Tracking, attrition and exploiting the wounded.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+<summary><span class="sage-symbol sage-symbol-small" aria-hidden="true">🦅</span><span class="sage-tradition-number">07</span><span class="sage-tradition-title">CARRION SAGE<small>Follow wounded quarry and call a vulnerable part.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## CARRION SAGE
 {:#carrion-sage}
+
+**Starting art:** [Circle the Wounded](#circle-the-wounded-sage-art).
 
 Carrion traditions are taught by scavengers, corpse-crows, bone-pickers and predators clever enough to understand that the cleanest kill is often the one somebody else already started. They are not necessarily cruel. They are simply honest about injury.
 
@@ -528,7 +569,7 @@ Sage Mode Appearance — Features sharpen, dark markings gather around the eyes 
 ### Blood on the Wind — Signature Trait
 {:#blood-on-the-wind-signature-trait}
 
-While in Sage Mode, increase Sage Sense by 5 for Awareness and Survival rolls made specifically to detect, Search for or track a creature suffering a Wound or Bleed. Against those creatures, also reduce your final Visibility Penalty by Sage Power, minimum 0\. A successful detection tells you that the creature is injured, not the exact Wound or its statistics.
+While in Sage Mode, increase Sage Sense by 5 for Awareness and Survival rolls made specifically to detect, Search for or track a creature suffering a Wound or Bleed. Against those creatures, also reduce your final Visibility Penalty by Sage Power, minimum 0\. A successful detection tells you that the creature is injured, not the exact Wound or its statistics. For Carrion features that require a Wound or Bleed, a Wild Hunt Monster at Wounded or a later Injury Gate, or with an active Open Wound, also qualifies. When you first detect an Open Wound in Mode, you may call its location to anyone who can hear. Attacking it still requires a targeted attack that can reach the location.
 
 ### ( <span lang="ja">紅の跡</span> ) Kurenai no Ato - Red Trail
 {:#red-trail-sage-art .jutsu-technique}
@@ -548,7 +589,7 @@ Nature Pulse has double its normal range when used to Search for creatures suffe
 
 Cost: 1 Sage Chakra.
 
-Add Scavenger's Claim to a damaging Taijutsu or Ninjutsu Attack against a creature suffering a Wound or Bleed. That Attack gains 10% \+ (5% × Sage Power) Wounding. Scavenger's Claim does not increase the Attack's Final Damage.
+Add Scavenger's Claim to a damaging Taijutsu or Ninjutsu Attack against a creature suffering a Wound or Bleed. That Attack gains 10% \+ (5% × Sage Power) Wounding. Scavenger's Claim does not increase the Attack's Final Damage. When declaring this attack against a Wild Hunt Monster with an Open Wound, you may trade the Wounding bonus for a handoff. On a full targeted hit to that location, an ally you name can exploit the same opening up to 5 IC after it would normally close. Only that ally’s first targeted hit there gets the extension. A broken part ends the benefit immediately and handoffs cannot extend one another.
 
 ### ( <span lang="ja">傷追いの輪</span> ) Kizuoi no Wa - Circle the Wounded
 {:#circle-the-wounded-sage-art .jutsu-technique}
@@ -559,7 +600,7 @@ Add Scavenger's Claim to a damaging Taijutsu or Ninjutsu Attack against a creatu
 
 Cost: 1 Sage Chakra.
 
-Choose one detected creature suffering a Wound or Bleed. Until Sage Mode ends or you choose a new target with Circle the Wounded, gain Sage Power to Defensive rolls against that creature and increase the distance of Move Actions and Actions with the Movement tag made directly toward it by 25%.
+Choose one detected creature to circle until Sage Mode ends or you choose another. Its injury activates the following benefits: gain Sage Power to Defensive rolls against it and increase movement directly toward it on Move or Movement actions by 25%. Once per enemy action, after your circled quarry voluntarily moves away, you may follow up to 3 + Sage Power yards toward it as a Speed 2 Interrupt. Add 2 to your scheduled IC. You must still detect the quarry and have a legal path. Forced movement grants no pursuit.
 
 ### ( <span lang="ja">屍喰いの交感</span> ) Shikabane Kui no Kōkan - Scavenger's Communion
 {:#scavenger-s-communion-sage-art .jutsu-technique}
@@ -568,7 +609,7 @@ Choose one detected creature suffering a Wound or Bleed. Until Sage Mode ends or
 
 Requires: Sage Rank 3\.
 
-Once per battle, when a hostile creature you can detect suffers a Major, Severe or Critical Wound, gain 1 Sage Chakra after that Wound resolves, up to your maximum.
+Once per battle, when a hostile creature you can detect suffers a Major, Severe or Critical Wound, gain 1 Sage Chakra after that Wound resolves, up to your maximum. A detected hostile Wild Hunt Monster crossing into Badly Injured or Critical can trigger the same once-per-battle gain.
 
 ### ( <span lang="ja">終の降下</span> ) Tsui no Kōka - Last Descent
 {:#last-descent-sage-kata .jutsu-technique}
@@ -581,7 +622,7 @@ Requires: Sage Rank 4\.
 
 Cost: 1 Sage Chakra.
 
-Add Last Descent to a damaging Taijutsu Attack against a creature at 0 Vitality or suffering a Severe or Critical Wound. On a full hit, add 1 \+ Sage Power Damage Dice. The Attack counts as Senjutsu.
+Add Last Descent to a damaging Taijutsu Attack against a creature at 0 Vitality, a creature suffering a Severe or Critical Wound, or a Critical Wild Hunt Monster. On a full hit, add 1 \+ Sage Power Damage Dice. The Attack counts as Senjutsu.
 </details>
 
 <details name="sage-tradition" class="sage-tradition" id="fungal-sage-panel" markdown="1">
@@ -589,6 +630,8 @@ Add Last Descent to a damaging Taijutsu Attack against a creature at 0 Vitality 
 
 ## FUNGAL SAGE
 {:#fungal-sage}
+
+**Starting art:** [Mycelial Ground](#mycelial-ground-sage-art).
 
 Fungal traditions begin with a lesson most humans dislike: the mushroom is not the organism. The visible body is temporary. The real creature is the network beneath it, spread through soil, root and rot, touching a hundred places at once.
 
@@ -610,7 +653,7 @@ While in Sage Mode and in contact with natural earth, living vegetation or an ar
 
 Cost: 1 Sage Chakra.
 
-Choose a point on solid ground within 10 yards. A radius of 2 \+ Sage Power yards around that point becomes Rocky Terrain with severity equal to Sage Power as mycelial growth spreads across the surface. You ignore Immobilization caused by your own Mycelial Ground. The area lasts until Sage Mode ends or you create a new Mycelial Ground.
+Choose a point on solid ground within 10 yards. A radius of 2 \+ Sage Power yards around that point becomes Rocky Terrain with severity equal to Sage Power as mycelial growth spreads across the surface. You ignore Immobilization caused by your own Mycelial Ground. Keep up to two patches in Mode. On creating a third, uproot one of the first two. Each patch must be placed within the normal 10 yards of you. Two patches on the same uninterrupted solid surface link while their centres are within 15 yards. While touching either patch you can speak quietly to willing creatures touching the other. You may also originate Spore Veil, Hyphal Snare or Nature Pulse from the other centre. Measure range there, pay the normal cost and make the normal rolls. An attack still requires you to perceive its target. Gaps in the surface break the link and Mode ending clears both patches.
 
 ### ( <span lang="ja">胞子の帳</span> ) Hōshi no Tobari - Spore Veil
 {:#spore-veil-sage-art .jutsu-technique}
@@ -634,7 +677,7 @@ Cost: 1 Sage Chakra.
 
 Range: 10 \+ (5 × Sage Power) yards.
 
-Make a Ninjutsu Attack against one creature standing on natural ground or within your Mycelial Ground. On a full hit, this Attack deals no damage; instead make a Chakra Control Status Roll against the target's Resistance. On a failure, they suffer Immobilization equal to 2 \+ Sage Power. Hyphal Snare counts as Senjutsu.
+Make a Ninjutsu Attack against one creature standing on natural ground or within your Mycelial Ground. On a full hit, this Attack deals no damage; instead make a Chakra Control Status Roll against the target's Resistance. If the target fails, apply Immobilization 2 + Sage Power for 10 IC. The strands remain rooted at the target’s starting space. Moving or being moved more than 2 yards from it ends this Immobilization. Hyphal Snare counts as Senjutsu.
 
 ### ( <span lang="ja">深根</span> ) Fukane - Deep Roots
 {:#deep-roots-sage-art .jutsu-technique}
@@ -661,6 +704,8 @@ While touching natural earth, living vegetation or your Mycelial Ground, double 
 ## SALAMANDER SAGE
 {:#salamander-sage}
 
+**Starting art:** [Regrowth](#regrowth-sage-art).
+
 Salamander teachings are about surviving the part where survival stops looking heroic. Heat, poison, exhaustion, torn muscle and choking air are treated as temporary problems to be managed long enough to reach safety or finish the fight.
 
 Their Sages are not immortal and do not regrow lost limbs or erase Wounds by wishing hard enough. What they learn is how to keep a damaged body useful: shed what can be shed, slow what can be slowed and spend Natural Chakra where the body is failing fastest.
@@ -670,7 +715,7 @@ Sage Mode Appearance — Skin takes on a slick or patterned sheen, old scars dar
 ### Regenerative Balance — Signature Trait
 {:#regenerative-balance-signature-trait}
 
-Whenever a Rest successfully reduces your current Stamina Penalty while you are in Sage Mode, also reduce one Burn, Bleed or Poison affecting you by 1 \+ Sage Power, minimum 0\. A Status reduced to 0 this way ends. Regenerative Balance cannot heal Wounds.
+When you complete a Rest in Sage Mode, reduce one Burn, Bleed or Poison affecting you by 1 + Sage Power, minimum 0. Your skin sheds this affliction even at zero Stamina penalty. A Status reduced to 0 this way ends. Regenerative Balance cannot heal Wounds.
 
 ### ( <span lang="ja">痛み抜け</span> ) Itami Nuke - Shed Pain
 {:#shed-pain-sage-art .jutsu-technique}
@@ -699,7 +744,7 @@ While in Sage Mode, gain Sage Power to Resistance rolls made to resist Burn, Poi
 
 Cost: 1 Sage Chakra.
 
-Restore Vitality equal to 5% × Sage Power of your maximum Vitality, up to your normal maximum. Regrowth does not restore HP, heal Wounds or remove the effects of a Wound.
+Restore Vitality equal to 5% × Sage Power of your maximum Vitality, up to your normal maximum. Regrowth does not restore HP, heal Wounds or remove the effects of a Wound. Alternatively, place a hand on a willing adjacent creature as the Speed 5 action. They receive the Vitality based on their maximum. A given ally may receive Regrowth once per 20 IC, across all Salamander Sages. You may also take up to 1 + Sage Power severity of one transferable Burn, Bleed or Poison from them. Reduce their severity by the amount you take. Apply it to yourself immediately for the remaining duration, using normal stacking rules. Wound effects, effects that forbid removal and effects you are immune to cannot be transferred.
 
 ### ( <span lang="ja">脱皮抜け</span> ) Dappi Nuke - Molt Away
 {:#molt-away-sage-art .jutsu-technique}
@@ -729,7 +774,7 @@ Once per battle, when a Stamina or Chakra Exhaustion roll would advance you beyo
 # SAGE ARTS
 {:#sage-arts}
 
-Unless an Art says otherwise, you must be in Sage Mode to use it. If an Art scales using Sage Power, use your current Sage Power when the effect is declared.
+Use active Arts in Sage Mode unless their text says otherwise. Passive changes to your pool, Gather or Mode entry apply whenever you perform the named action, including before entry. If an Art scales using Sage Power, use your current Sage Power when the effect is declared. When an Art adds Damage Dice, use the attack’s base die size. For mixed dice, use its smallest base damage die. An attack without base damage dice gains none.
 
 ## ( <span lang="ja">深き器</span> ) Fukaki Utsuwa - Deep Reservoir
 {:#deep-reservoir .jutsu-technique}
@@ -745,7 +790,7 @@ Increase your maximum Sage Chakra by 2\.
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span></span>
 
-Reduce the base Speed of Gather Natural Chakra by 2\. Its minimum Speed remains 5\.
+Reduce the base Speed of Gather Natural Chakra by 2\. Use Gather’s current minimums, including Perfect Communion if learned.
 
 ## ( <span lang="ja">安定の均衡</span> ) Antei no Kinkō - Stable Balance
 {:#stable-balance .jutsu-technique}
@@ -754,28 +799,28 @@ Reduce the base Speed of Gather Natural Chakra by 2\. Its minimum Speed remains 
 
 Reduce Sage Mode's Upkeep by 1, minimum 0\.
 
-## ( <span lang="ja">自然の眼</span> ) Shizen no Me - Nature'S Eyes
+## ( <span lang="ja">自然の眼</span> ) Shizen no Me - Nature's Eyes
 {:#nature-s-eyes .jutsu-technique}
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span></span>
 
 Increase Sage Sense by 5\. When you Search for a living creature or active chakra source, reduce your final Visibility Penalty by Sage Power, minimum 0\. This never reveals a creature which still successfully contests your Search.
 
-## ( <span lang="ja">自然の悟り</span> ) Shizen no Satori - Nature'S Understanding
+## ( <span lang="ja">自然の悟り</span> ) Shizen no Satori - Nature's Understanding
 {:#nature-s-understanding .jutsu-technique}
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span></span>
 
 Gain \+5 on Chakra Control and Survival rolls made specifically to identify, understand, manipulate or endure Natural Chakra, Senjutsu, Sage creatures or environments saturated with Natural Chakra. At Sage Rank 4+, this bonus becomes \+10.
 
-## ( <span lang="ja">仙人の修正</span> ) Sennin no Shūsei - Sage'S Correction
+## ( <span lang="ja">仙人の修正</span> ) Sennin no Shūsei - Sage's Correction
 {:#sage-s-correction .jutsu-technique}
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span></span>
 
 After making an Accuracy Roll, Defensive roll, Chakra Control roll, Resistance roll or other Skill roll but before its result is resolved, you may spend 1 Sage Chakra to add 2 \+ Sage Power to the roll. Sage's Correction does not modify static Accuracy and may be used only once per roll.
 
-## ( <span lang="ja">仙人の息</span> ) Sennin no Iki - Sage'S Breath
+## ( <span lang="ja">仙人の息</span> ) Sennin no Iki - Sage's Breath
 {:#sage-s-breath .jutsu-technique}
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span></span>
@@ -802,7 +847,7 @@ When declaring a damaging Ninjutsu Attack, you may spend 1 Sage Chakra. Choose o
 
 - Increase its Final Damage by 10% \+ (5% × Sage Power).
 
-Choose before making the Attack roll. The technique counts as Senjutsu.
+Choose on declaration, before the defender responds. Use the jutsu’s normal static or rolled Accuracy. The technique counts as Senjutsu.
 
 ## ( <span lang="ja">自然の守り</span> ) Shizen no Mamori - Nature Guard
 {:#nature-guard .jutsu-technique}
@@ -815,7 +860,7 @@ Cost: 1 Sage Chakra.
 
 Declare after you become the target of an Attack but before your defence is rolled. Gain 2 \+ Sage Power to one Dodge or Parry roll against that Attack. Nature Guard uses the normal Speed of the Defensive Interrupt you choose; it does not create a separate defence.
 
-## ( <span lang="ja">狩人の歩み</span> ) Kariudo no Ayumi - Predator'S Step
+## ( <span lang="ja">狩人の歩み</span> ) Kariudo no Ayumi - Predator's Step
 {:#predator-s-step .jutsu-technique}
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span></span>
@@ -833,9 +878,9 @@ Cost: 1 Sage Chakra.
 
 Make an Awareness Search for living creatures and active chakra sources within 10 × Sage Rank yards. You may Search even without line of sight, although walls, dense terrain, distance and overwhelming ambient chakra may still apply Visibility Penalty. Hidden creatures contest the Search normally with Stealth.
 
-On success, learn direction and rough distance. Nature Pulse does not reveal statistics, Jutsu, identity or other information that could not be inferred from the sensed chakra.
+On success, learn direction and rough distance. Nature Pulse does not reveal statistics, Jutsu, identity or other information that could not be inferred from the sensed chakra. When you detect someone, you can relay the bearing to an ally who can hear as part of the same action. They can act on that information or Search the indicated area. They must still detect a hidden target themselves to attack it directly.
 
-## ( <span lang="ja">仙人の回復</span> ) Sennin no Kaifuku - Sage'S Recovery
+## ( <span lang="ja">仙人の回復</span> ) Sennin no Kaifuku - Sage's Recovery
 {:#sage-s-recovery .jutsu-technique}
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Art</span></span>
@@ -858,7 +903,7 @@ When you declare Gather Natural Chakra, you may choose to remain mobile. If you 
 
 Requires: Sage Rank 4\.
 
-When Gather Natural Chakra resolves while you are in Sage Mode, you may immediately spend 1 AP. If you do, gain 1 additional Sage Chakra. You cannot gain more than 2 Sage Chakra from the same Gather Action.
+When Gather Natural Chakra resolves while you are in Sage Mode, you may immediately spend 1 AP. If you do, gain 1 additional Sage Chakra. This brings that Gather to 3 Sage Chakra before applying your maximum.
 
 ## ( <span lang="ja">仙人の器</span> ) Sennin no Utsuwa - Sage Reservoir
 {:#sage-reservoir .jutsu-technique}
@@ -908,7 +953,7 @@ Trigger: Successful Parry of a Melee Attack.
 
 Cost: 1 Sage Chakra.
 
-After the triggering Attack resolves, move up to Sage Power yards without spending AP. Sage Reversal is part of the successful Parry; it does not create a second Interrupt or change that Parry's Speed. This movement must follow a legal path and cannot move you through occupied spaces or terrain you could not normally cross.
+After the triggering Attack resolves, move up to Sage Power yards without spending AP. Sage Reversal is part of the successful Parry; it does not create a second Interrupt or change that Parry's Speed. This movement must follow a legal path. Instead, a willing adjacent ally may exchange spaces with you after the Parry. Both creatures must be able to move and occupy their new spaces. The exchange grants no extra attack and does not redirect the attack you just parried.
 
 ## ( <span lang="ja">大地の根</span> ) Daichi no Ne - Earthen Root
 {:#earthen-root .jutsu-technique}
@@ -919,9 +964,9 @@ After the triggering Attack resolves, move up to Sage Power yards without spendi
 
 Cost: 1 Sage Chakra.
 
-Until the beginning of your next non-Interrupt Action, gain 3 \+ Sage Power to Resistance rolls against forced movement, being knocked Prone, or effects which would physically displace you. Your Movement Speed is 0 while this effect lasts.
+Until the beginning of your next non-Interrupt Action, gain 3 \+ Sage Power to Resistance rolls against forced movement, being knocked Prone, or effects which would physically displace you. Your Movement Speed is 0 while this effect lasts. An adjacent willing ally may take hold of you. When a single effect would push or pull them away, you may roll Resistance in their place if the effect allows a roll, including this art’s bonus. Use one roll. On failure the ally moves normally and the grip breaks. The grip also ends if you separate or Earthen Root expires.
 
-## ( <span lang="ja">狩人の感覚</span> ) Kariudo no Kankaku - Hunter'S Sense
+## ( <span lang="ja">狩人の感覚</span> ) Kariudo no Kankaku - Hunter's Sense
 {:#hunter-s-sense .jutsu-technique}
 
 <span class="jutsu-badges"><span class="jutsu-keyword">Sage Kata</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Search</span></span>
@@ -943,7 +988,9 @@ Cost: 1 Sage Chakra.
 
 Range: 10 \+ (5 × Sage Power) yards.
 
-Make a Ninjutsu Attack against one creature. On a full hit, deal 2 \+ Sage Power Damage Dice \+ NDB. Natural Shock counts as Senjutsu and has no Element unless your Tradition gives it one.
+Damage: (2 + Sage Power)d8 + NDB × final Speed
+
+Make a Blunt Ninjutsu Attack against one creature. On a full hit, you may give up the dice to push the target up to 2 + Sage Power yards away. Apply the push if your Chakra Control Status Roll beats their Resistance. The NDB portion of the hit still deals damage. Natural Shock counts as Senjutsu and has no Element unless your Tradition gives it one.
 
 ## ( <span lang="ja">仙人崩し</span> ) Sennin Kuzushi - Sage Break
 {:#sage-break .jutsu-technique}

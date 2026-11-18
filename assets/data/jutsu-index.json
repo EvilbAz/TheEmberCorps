@@ -6455,7 +6455,7 @@
     "url": "/rules/clans/#hunter-s-recall"
   },
   {
-    "english": "Hunter'S Sense",
+    "english": "Hunter's Sense",
     "japanese": "Kariudo no Kankaku",
     "script": "狩人の感覚",
     "school": "Natural Chakra & Sage Mode",
@@ -8247,7 +8247,8 @@
     "stats": {
       "speed": "5",
       "cost": "1 Sage Chakra.",
-      "range": "10 + (5 × Sage Power) yards."
+      "range": "10 + (5 × Sage Power) yards.",
+      "damage": "(2 + Sage Power)d8 + NDB × final Speed"
     },
     "url": "/rules/jutsu/natural-chakra/#natural-shock"
   },
@@ -8298,7 +8299,7 @@
     "url": "/rules/jutsu/natural-chakra/#nature-without-thought"
   },
   {
-    "english": "Nature'S Eyes",
+    "english": "Nature's Eyes",
     "japanese": "Shizen no Me",
     "script": "自然の眼",
     "school": "Natural Chakra & Sage Mode",
@@ -8310,7 +8311,7 @@
     "url": "/rules/jutsu/natural-chakra/#nature-s-eyes"
   },
   {
-    "english": "Nature'S Understanding",
+    "english": "Nature's Understanding",
     "japanese": "Shizen no Satori",
     "script": "自然の悟り",
     "school": "Natural Chakra & Sage Mode",
@@ -9071,7 +9072,7 @@
     "url": "/rules/jutsu/bow/#precision-shot"
   },
   {
-    "english": "Predator'S Step",
+    "english": "Predator's Step",
     "japanese": "Kariudo no Ayumi",
     "script": "狩人の歩み",
     "school": "Natural Chakra & Sage Mode",
@@ -10159,7 +10160,7 @@
     "url": "/rules/clans/#senninka-sage-transformation"
   },
   {
-    "english": "Sage'S Breath",
+    "english": "Sage's Breath",
     "japanese": "Sennin no Iki",
     "script": "仙人の息",
     "school": "Natural Chakra & Sage Mode",
@@ -10171,7 +10172,7 @@
     "url": "/rules/jutsu/natural-chakra/#sage-s-breath"
   },
   {
-    "english": "Sage'S Correction",
+    "english": "Sage's Correction",
     "japanese": "Sennin no Shūsei",
     "script": "仙人の修正",
     "school": "Natural Chakra & Sage Mode",
@@ -10183,7 +10184,7 @@
     "url": "/rules/jutsu/natural-chakra/#sage-s-correction"
   },
   {
-    "english": "Sage'S Recovery",
+    "english": "Sage's Recovery",
     "japanese": "Sennin no Kaifuku",
     "script": "仙人の回復",
     "school": "Natural Chakra & Sage Mode",

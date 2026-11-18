@@ -106,14 +106,14 @@ Natural Chakra is the chakra of the living world. A shinobi normally produces ch
 #### Core Talent
 {:#core-talent-9}
 
-Choose a Sage Tradition from a creature, Summon Tribe or other valid Source capable of teaching Natural Chakra. Gain Sage Rank 1, a maximum Sage Chakra of 4, Gather Natural Chakra, Sage Mode, your Tradition's Signature Trait, and one Sage Art or Sage Kata you meet the requirements for.
+Choose a Sage Tradition from a creature, Summon Tribe or other valid Source capable of teaching Natural Chakra. Gain Sage Rank 1, a maximum Sage Chakra of 4, Gather Natural Chakra, Sage Mode, your Tradition’s Signature Trait and starting art, and one other eligible Sage Art or Sage Kata of your choice.
 
 #### Developments
 {:#developments-9}
 
-Natural Chakra uses Sage Arts and Sage Kata as its Developments. Each time you Deepen this Talent, increase your Sage Rank by 1 and learn one additional Sage Art or Sage Kata you qualify for; the selected Art or Kata is that Development. The Art or Kata granted by the Core Talent is not a Development. You may Deepen Natural Chakra up to four times, to a maximum Sage Rank of 5. Mastery is gained after the third Development as normal; the fourth Deepening remains available after Mastery and still costs a Talent Point.
+Natural Chakra uses Sage Arts and Sage Kata as its Developments. Each time you Deepen this Talent, increase your Sage Rank by 1 and learn one additional Sage Art or Sage Kata you qualify for; the selected Art or Kata is that Development. Neither Core pick counts as a Development. You may Deepen Natural Chakra up to four times, to a maximum Sage Rank of 5. Mastery is gained after the third Development as normal; the fourth Deepening remains available after Mastery and still costs a Talent Point.
 
-Use the Natural Chakra & Sage Mode rules for Sage Chakra, Gather Natural Chakra, Sage Mode, Sage Traditions, Sage Arts and Sage Kata.
+Find your [starting art and existing-character update]({{ '/rules/jutsu/natural-chakra/#starting-arts' | relative_url }}) in the Sage rules.
 
 #### Mastery
 {:#mastery-8}
