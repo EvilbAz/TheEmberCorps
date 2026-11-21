@@ -1,6 +1,6 @@
-/* Character Profile swatches: canvas, text, alternate row, calculated cell,
+/* Theme colours: canvas, text, alternate row, calculated cell,
    editable cell, header, highlight and link. */
-:root[data-palette="shotai"] {
+:root[data-palette="code"] {
   --bg: #080f0b;
   --text: #c6d5cb;
   --side: #112019;
@@ -30,7 +30,7 @@
   --accent: #ffcbac;
   --accent2: #ffe3d7;
 }
-:root[data-palette="abyss"] {
+:root[data-palette="deepwater"] {
   --bg: #091424;
   --text: #cbdce9;
   --side: #0f2033;
@@ -157,4 +157,28 @@
   0% {transform:translateX(-125%);opacity:0}
   35% {opacity:1}
   100% {transform:translateX(125%);opacity:0}
+}
+
+.home-v2 .corps-crest {
+  position:absolute; right:3%; top:18%; width:min(33%,23rem); color:var(--accent);
+  pointer-events:none; z-index:0; opacity:.72;
+}
+.corps-crest svg {display:block;width:100%;height:auto;filter:drop-shadow(0 1px 8px color-mix(in srgb,currentColor 22%,transparent))}
+.corps-crest svg>g {display:none}
+:root:not([data-emblem]) .mark-dark,
+:root[data-emblem="dark"] .mark-dark,
+:root[data-emblem="light"] .mark-light,
+:root[data-emblem="primal-dark"] .mark-primal-dark,
+:root[data-emblem="primal-light"] .mark-primal-light,
+:root[data-emblem="abyss-dark"] .mark-abyss-dark,
+:root[data-emblem="abyss-light"] .mark-abyss-light,
+:root[data-emblem="code"] .mark-code,
+:root[data-emblem="nw"] .mark-nw,
+:root[data-emblem="ember"] .mark-ember,
+:root[data-emblem="deepwater"] .mark-deepwater,
+:root[data-emblem="scroll"] .mark-scroll,
+:root[data-emblem="sakura"] .mark-sakura,
+:root[data-emblem="iron"] .mark-iron {display:inline}
+@media (max-width:720px) {
+  .home-v2 .corps-crest {width:clamp(44px,15%,75px);right:1rem;top:1rem;opacity:.85}
 }
