@@ -30,16 +30,6 @@
   --accent: #ffcbac;
   --accent2: #ffe3d7;
 }
-:root[data-palette="deepwater"] {
-  --bg: #091424;
-  --text: #cbdce9;
-  --side: #0f2033;
-  --surface: #172c40;
-  --line: #215675;
-  --header: #102c48;
-  --accent: #8ee0e9;
-  --accent2: #b5e7f0;
-}
 :root[data-palette="scroll"] {
   --bg: #f8e8c1;
   --text: #422917;
@@ -73,7 +63,7 @@
 :root[data-palette] {
   --surface2: color-mix(in srgb, var(--surface) 68%, var(--side));
   --muted: color-mix(in srgb, var(--text) 83%, var(--side));
-  --dim: color-mix(in srgb, var(--text) 72%, var(--side));
+  --dim: color-mix(in srgb, var(--text) 78%, var(--side));
   --steel: var(--dim);
   --deep-red: var(--header);
   --ink: var(--bg);
@@ -175,10 +165,119 @@
 :root[data-emblem="code"] .mark-code,
 :root[data-emblem="nw"] .mark-nw,
 :root[data-emblem="ember"] .mark-ember,
-:root[data-emblem="deepwater"] .mark-deepwater,
 :root[data-emblem="scroll"] .mark-scroll,
 :root[data-emblem="sakura"] .mark-sakura,
 :root[data-emblem="iron"] .mark-iron {display:inline}
 @media (max-width:720px) {
   .home-v2 .corps-crest {width:clamp(44px,15%,75px);right:1rem;top:1rem;opacity:.85}
+}
+
+/* Reading surfaces and controls share the same foreground in every layout. */
+:root[data-emblem="dark"] {--accent:#ff969c}
+:root[data-emblem="light"] {--accent:#902b40;--accent2:#29596a;--dim:#65555b}
+:root[data-palette="nw"] {--surface:#e1e8f0;--line:#8b9bb0}
+:root[data-emblem="primal-light"],
+:root[data-emblem="abyss-light"] {color-scheme:light;--ink:var(--bg);--header:var(--surface);--steel:var(--muted)}
+:root[data-emblem="primal-light"] {
+  --bg:#edf2e5;--side:#e1e9d6;--surface:#f7faef;--surface2:#d5e3c8;--line:#8d9f83;
+  --text:#1b3022;--muted:#364d3d;--dim:#415648;--accent:#285c33;--accent2:#24574e
+}
+:root[data-emblem="abyss-light"] {
+  --bg:#e7f2f5;--side:#d6e8ee;--surface:#f3fafb;--surface2:#c7e0e7;--line:#809faa;
+  --text:#152f40;--muted:#314f5b;--dim:#3c5663;--accent:#175474;--accent2:#384e83
+}
+:root[data-emblem] {--rail:color-mix(in srgb,var(--accent) 50%,var(--line));--panel:var(--surface)}
+:root[data-emblem][data-appearance="light"] :is(.sidebar,.topbar,.mc-join-panel,.mc-logo-meta,.ambient-panel,.search-panel,.timeline-present,.home-end,.discord-home,.lore-home-teaser) {
+  background:var(--side);color:var(--text)
+}
+:root[data-emblem][data-appearance="light"] :is(.book-card,.home-quicklinks a,.jutsu-type-card,.lore-dossier,.mc-mod-card,.mc-download,.mc-final-cta,.mc-callout,.mc-power-note,.mc-steps article,.mc-paths article,.mc-power-grid article,.mc-ninja-tips article,.mc-goal-board>div,.timeline-entry>div) {
+  background:var(--surface);color:var(--text);border-color:var(--line)
+}
+:root[data-emblem][data-appearance="light"] :is(.home-v2 .hero,.guide-hero,.mc-hero,.book-hero,.timeline-hero) {
+  background:radial-gradient(ellipse at 92% 32%,var(--surface2),transparent 55%),var(--bg)!important;
+  color:var(--text)
+}
+:root[data-emblem][data-appearance="light"] :is(.home-v2 .hero h1,.guide-hero h1,.mc-hero h1,.book-hero h1,.timeline-hero h1,.home-v2 .book-card h3,.lore-dossier h3) {color:var(--text)}
+:root[data-emblem][data-appearance="light"] :is(.mc-hero,.timeline-hero)::after {opacity:.1}
+:root[data-emblem] :is(.hero-kicker,.mc-kicker,.book-meta,.rail-label,.hero-index a,.home-v2 .hero-content>p,.card-top,.view-chapter,.catalog-count,.lore-profile-meta,.jf-toolbar label) {color:var(--muted)}
+:root[data-emblem] :is(.home-v2 .hero h1 span,.home-v2 .book-card .card-arrow,.book-meta a,.lore-alias) {color:var(--accent)}
+:root[data-emblem] :is(.home-v2 .hero-actions .primary-btn,.primary-btn,.guide-cta,.mc-download>a,.mc-final-cta>a,.mc-actions a:not(.mc-ghost),.ambient-control.primary) {
+  color:var(--bg);background:var(--accent);border-color:var(--accent)
+}
+:root[data-emblem] :is(.secondary-btn,.mc-ghost,.top-search,.ambient-toggle,.search-input-row input,.jf-controls select,.jf-controls input) {color:var(--text);background:var(--side);border-color:var(--line)}
+:root[data-emblem] .search-result mark {color:var(--text);background:color-mix(in srgb,var(--accent) 16%,var(--surface))}
+:root[data-emblem] :is(.prose,.guide-reading) table :is(th,td) {border-color:var(--line)}
+:root[data-emblem] :is(.prose,.guide-reading) thead th {background:var(--side);color:var(--text)}
+:root[data-emblem] :is(a,button,input,select,summary):focus-visible {outline:2px solid var(--accent);outline-offset:2px}
+
+@media screen {
+  :root[data-emblem] .cinder-runs {--panel:var(--surface,var(--bg));--gold:var(--accent2,var(--accent));--ember:var(--accent)}
+  .cinder-runs :is(.track,.tools,.chapter,.side,button) {background:var(--panel);color:var(--text)}
+  .cinder-runs :is(p,p em,.hero p) {color:var(--muted)}
+}
+
+/* A stamped border around the active crest, and registration marks on each volume. */
+.crest-rim {opacity:.55}
+.crest-ticks {opacity:.8;transform-origin:center}
+:root[data-emblem] .book-hero {
+  position:relative;isolation:isolate;padding:clamp(1.2rem,3vw,2.4rem);
+  border:1px solid var(--line);border-inline-start:3px solid var(--accent);
+  background:linear-gradient(110deg,var(--side) 48%,var(--surface));
+}
+.book-hero::after {
+  content:"";position:absolute;inset:0 0 0 auto;width:24%;z-index:-1;pointer-events:none;
+  background:repeating-linear-gradient(135deg,transparent 0 9px,var(--rail) 9px 10px);
+  mask-image:linear-gradient(90deg,transparent,black);opacity:.26
+}
+:root[data-emblem] .book-hero h1 {max-width:26ch;line-height:1.02;text-wrap:balance;color:var(--text)}
+:root[data-emblem] :is(.jutsu-type-card,.book-card,.lore-dossier) {
+  border-top-color:var(--rail);box-shadow:inset 0 1px color-mix(in srgb,var(--accent) 12%,transparent)
+}
+:root[data-emblem] .volume-link.selected {color:var(--text);border-left-color:var(--accent);background:var(--surface)}
+:root[data-emblem] .prose h2 {text-wrap:balance}
+@media (min-width:1050px) { .home-v2 .hero-content {max-width:65%} }
+@media (prefers-reduced-motion:no-preference) {
+  .crest-ticks {animation:palette-orbit 52s linear infinite}
+  .corps-crest svg>g {transform-origin:center;animation:crest-stamp .42s cubic-bezier(.2,.85,.3,1) both}
+  .book-hero::after {animation:registration-in .65s ease-out both}
+  .jutsu-type-card,.catalog-jumps a,.history-nav a {transition:border-color .2s,box-shadow .2s,translate .2s}
+  @media (hover:hover) {
+    :is(.jutsu-type-card,.catalog-jumps a,.history-nav a):hover {translate:0 -2px;border-color:var(--rail);box-shadow:0 3px 0 var(--rail)}
+  }
+  @supports (animation-timeline:scroll()) {
+    .site-shell .topbar::after {
+      content:"";position:absolute;inset:auto 0 -2px;height:2px;pointer-events:none;
+      background:var(--accent);transform-origin:left;animation:reading-progress linear both;animation-timeline:scroll(root block)
+    }
+  }
+}
+@keyframes reading-progress {from {transform:scaleX(0)} to {transform:scaleX(1)}}
+@keyframes registration-in {from {clip-path:inset(0 0 0 100%)} to {clip-path:inset(0)}}
+@keyframes crest-stamp {from {opacity:.25;transform:scale(.91) rotate(-4deg)} to {opacity:1;transform:none}}
+:root[data-emblem] .guide-cta {color:var(--bg)!important}
+:root[data-emblem] .guide-ic-track span {color:var(--bg);background:var(--accent)}
+:root[data-emblem] :is(.weapon-art-index,.armor-art-index) {
+  color:var(--text);background:var(--side);padding:.1rem .35rem;border-radius:2px
+}
+:root[data-emblem][data-appearance="light"] .home-v2 .hero-atmosphere {opacity:.45}
+:root[data-emblem][data-appearance="light"] :is(.hero-kicker,.mc-kicker,.hero-index a,.home-v2 .hero-content>p) {color:var(--text)}
+@media (prefers-reduced-motion:reduce) {
+  :root {scroll-behavior:auto}
+  :root *, :root *::before, :root *::after {animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+}
+:root[data-emblem="primal-light"] .home-v2 .hero {
+  background:linear-gradient(90deg,var(--bg) 14%,color-mix(in srgb,var(--bg) 96%,transparent) 48%,color-mix(in srgb,var(--bg) 64%,transparent)),url("../img/primal-forest.svg") right center/cover!important
+}
+:root[data-emblem="abyss-light"] .home-v2 .hero {
+  background:linear-gradient(90deg,var(--bg) 14%,color-mix(in srgb,var(--bg) 96%,transparent) 48%,color-mix(in srgb,var(--bg) 64%,transparent)),url("../img/abyss-depths.svg") right center/cover!important
+}
+:root[data-emblem][data-appearance="light"] .home-v2 .hero-actions .primary-btn:hover {background:var(--accent);color:var(--bg)}
+:root[data-emblem][data-appearance="light"] .home-v2 .hero-actions .secondary-btn {background:var(--side);color:var(--text);border-color:var(--line)}
+@media screen {
+  :root[data-emblem="primal-light"]:has(.cinder-runs) {
+    --bg:#edf2e5;--panel:#f7faef;--ink:#1b3022;--muted:#364d3d;--line:#8d9f83;--ember:#285c33;--gold:#24574e
+  }
+  :root[data-emblem="abyss-light"]:has(.cinder-runs) {
+    --bg:#e7f2f5;--panel:#f3fafb;--ink:#152f40;--muted:#314f5b;--line:#809faa;--ember:#175474;--gold:#384e83
+  }
 }

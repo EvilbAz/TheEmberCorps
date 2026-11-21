@@ -1,11 +1,15 @@
 // Read the original theme keys before first paint so returning readers keep their colours.
 (() => {
   const root = document.documentElement;
-  const schemes = {code:'dark', nw:'light', ember:'dark', deepwater:'dark', scroll:'light', sakura:'light', iron:'dark'};
+  const schemes = {code:'dark', nw:'light', ember:'dark', scroll:'light', sakura:'light', iron:'dark'};
   let selected;
   function apply(value, appearance) {
-    // Translate earlier saved IDs, including the two distinct blue palettes.
-    const previous = {'sheet-shotai':'code', 'sheet-abyss':'deepwater'};
+    // Retired ocean palettes use the original dark Abyss appearance.
+    if (value === 'deepwater' || value === 'sheet-abyss') {
+      value = 'abyss';
+      appearance = 'dark';
+    }
+    const previous = {'sheet-shotai':'code'};
     const palette = previous[value] || value?.replace(/^sheet-/, '');
     const isPalette = Object.hasOwn(schemes, palette);
     const theme = isPalette ? schemes[palette] : ['light','primal','abyss'].includes(value) ? value : 'dark';
