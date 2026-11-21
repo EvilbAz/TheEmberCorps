@@ -8,7 +8,7 @@ permalink: "/rules/standard-items/"
 ---
 {% include armor-card-styles.html %}
 <div class="armor-catalogue">
-<p class="catalog-intro">Browse field gear, medicines, tags and clan supplies. Select a card for its full rules.</p>
+
 <div class="catalog-jumps">
 <a href="#items-ninja-tools">Ninja Tools</a>
 <a href="#items-monster-hunting-gear">Monster Hunting Gear</a>

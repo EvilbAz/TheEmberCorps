@@ -4,7 +4,7 @@
     "volume": "Not Found",
     "number": "",
     "url": "/404.html",
-    "text": "TRAIL LOST. Whatever you were hunting isn't at this address. The six volumes are still in the archive. RETURN TO THE ARCHIVE ↗"
+    "text": "PAGE NOT FOUND Check the address or return to the rulebook. RETURN TO THE ARCHIVE ↗"
   },
   {
     "title": "New Player Guide",
@@ -14,11 +14,11 @@
     "text": "New Player Guide"
   },
   {
-    "title": "YOUR FIRST HUNTER.",
+    "title": "NEW PLAYER GUIDE",
     "volume": "New Player Guide",
     "number": "00",
     "url": "/guide/#welcome",
-    "text": "YOUR FIRST HUNTER. Play a shinobi from Haven Ember. Meet the other Hunters on Discord, take jobs together and track monsters into the Wastes. START READING ↘ JOIN THE DISCORD ↗ Make a Hunter Join a scene Roll a check Play your first fight Between hunts"
+    "text": "NEW PLAYER GUIDE START READING ↘ JOIN THE DISCORD ↗ Make a Hunter Join a scene Roll a check Play your first fight Between hunts"
   },
   {
     "title": "Make your first Hunter",
@@ -179,35 +179,35 @@
     "volume": "The Rulebook",
     "number": "",
     "url": "/",
-    "text": "THE EMBER CORPS ARCHIVE EDITION 1.0 THE WORLD HAS BLOOMED. HUNT IT. The old world is gone. Beyond the walls of Haven Ember, the Wastes belong to monsters. Make a Hunter and join a crew heading out from Haven Ember. JOIN THE DISCORD ↗ GET STARTED ↗ SEARCH THE RULES ⌕ EMBER CORPS / 1.0 ↓ EXPLORE THE ARCHIVE 狩 NEW PLAYER GUIDE THE JUTSU ARCHIVE WORLD & LORE TIMELINE OF EVENTS MINECRAFT SERVER"
+    "text": "NARUTO WORLD · RULEBOOK 1.0 THE EMBER CORPS A Naruto World tabletop campaign. Hunters take jobs in Haven Ember and track monsters into the Wastes. JOIN THE DISCORD ↗ GET STARTED ↗ SEARCH THE RULES ⌕ ↓ RULEBOOK VOLUMES 狩 NEW PLAYER GUIDE THE JUTSU ARCHIVE WORLD & LORE TIMELINE OF EVENTS MINECRAFT SERVER"
   },
   {
-    "title": "THE SIX VOLUMES.",
+    "title": "RULEBOOK VOLUMES",
     "volume": "The Rulebook",
     "number": "",
     "url": "/#volumes",
-    "text": "THE SIX VOLUMES. CURRENT: 1.0 VOLUME I ↗ I CORE RULES Character creation, attributes, skills, combat, wounds and downtime. OPEN VOLUME → VOLUME II ↗ II UNIQUES OPEN VOLUME → VOLUME III ↗ III CLANS & LINEAGES OPEN VOLUME → VOLUME IV ↗ IV JUTSU COMPENDIUM OPEN VOLUME → VOLUME V ↗ V TALENTS, RANKS & HUNTER CLASSES OPEN VOLUME → VOLUME VI ↗ VI EQUIPMENT & CRAFTING OPEN VOLUME → HAVEN EMBER & THE WASTES. The Bloom, the fall of the old nations, Haven Ember and the people whose names travel across the Wastes. EXPLORE WORLD & LORE ↗"
+    "text": "RULEBOOK VOLUMES VOLUME I ↗ I CORE RULES Character creation, attributes, skills, combat, wounds and downtime. OPEN VOLUME → VOLUME II ↗ II UNIQUES OPEN VOLUME → VOLUME III ↗ III CLANS & LINEAGES OPEN VOLUME → VOLUME IV ↗ IV JUTSU COMPENDIUM OPEN VOLUME → VOLUME V ↗ V TALENTS, RANKS & HUNTER CLASSES OPEN VOLUME → VOLUME VI ↗ VI EQUIPMENT & CRAFTING OPEN VOLUME → HAVEN EMBER & THE WASTES Read about the Bloom, Haven Ember and its Hunters. EXPLORE WORLD & LORE ↗"
   },
   {
-    "title": "HUNT TOGETHER.",
+    "title": "EMBER CORPS DISCORD",
     "volume": "The Rulebook",
     "number": "",
     "url": "/#community",
     "text": ""
   },
   {
-    "title": "HUNT TOGETHER.",
+    "title": "EMBER CORPS DISCORD",
     "volume": "The Rulebook",
     "number": "",
     "url": "/#discord-home-title",
-    "text": "HUNT TOGETHER. Meet fellow Hunters, find missions, share builds and help shape the Wastes. JOIN THE DISCORD ↗ VIEW LIVE SERVER ↓ OPEN DISCORD ↗ READY FOR THE WASTES? Create your Hunter using the current player rules. GET STARTED ↗"
+    "text": "EMBER CORPS DISCORD Find missions and meet the other players on Discord. JOIN THE DISCORD ↗ VIEW LIVE SERVER ↓ OPEN DISCORD ↗ CHARACTER CREATION GET STARTED ↗"
   },
   {
     "title": "World & Lore",
     "volume": "World & Lore",
     "number": "",
     "url": "/lore/",
-    "text": "THE WORLD BEYOND THE WALLS. What survived the fall of the old nations, who runs Haven Ember, and what its Hunters know about the Wastes. 01 / History 02 / The World 03 / Haven Ember 04 / Haven Figures 05 / Renowned Hunters 06 / The Uncharted World"
+    "text": "WORLD & LORE 01 / History 02 / The World 03 / Haven Ember 04 / Haven Figures 05 / Renowned Hunters 06 / The Uncharted World"
   },
   {
     "title": "History",
@@ -319,14 +319,14 @@
     "volume": "Minecraft Server",
     "number": "",
     "url": "/minecraft/",
-    "text": "EMBER CORPS / MINECRAFT 1.12.2 / PLAYER PACK 1.2.3 BUILD A HOME. HUNT THE WASTES. On the Ember Corps survival server, you play a ninja in the Wastes. Hunt with other players, explore, and build your shelters into Hunter outposts. DOWNLOAD PLAYER PACK ↓ HOW TO PLAY EMBER CORPS PLAYER PACK 1.2.3 EMBER CORPS SERVER JOIN THE WASTES SERVER ADDRESS 216.201.79.143:25565 Minecraft Java 1.12.2 GET THE PLAYER PACK ↓ BECOME A NINJA Choose your path and grow stronger HUNT & EXPLORE The wilds are full of threats BUILD TOGETHER Create outposts worth returning to QUEST & DISCOVER Learn the pack as you play"
+    "text": "EMBER CORPS / MINECRAFT 1.12.2 / PLAYER PACK 1.2.3 MINECRAFT SERVER On the Ember Corps survival server, you play a ninja in the Wastes. Hunt with other players, explore, and build your shelters into Hunter outposts. DOWNLOAD PLAYER PACK ↓ HOW TO PLAY EMBER CORPS PLAYER PACK 1.2.3 EMBER CORPS SERVER SERVER DETAILS SERVER ADDRESS 216.201.79.143:25565 Minecraft Java 1.12.2 GET THE PLAYER PACK ↓"
   },
   {
     "title": "Welcome to the Wastes",
     "volume": "Minecraft Server",
     "number": "",
     "url": "/minecraft/#what-is-it",
-    "text": "This is Ember Corps translated into Minecraft: a persistent world built around the fantasy of being a Hunter beyond the safety of Haven. You might spend one night tracking monsters through unfamiliar country, the next expanding a communal kitchen, and the next disappearing underground looking for something nobody else has found yet. Ninja abilities sit alongside dangerous creatures, strange ruins, farming, cooking, modular equipment, ritual magic, engineering and a much harsher wilderness than vanilla Minecraft. You do not need to know every mod before joining. The quest book introduces the important parts as you play. WHAT ARE WE TRYING TO DO? Explore the Wastes and leave your mark on them. Grow from a newly arrived ninja into an experienced Hunter, bring back rare discoveries, establish safe places beyond Haven and build a world that becomes richer because people actually lived in it."
+    "text": "The server runs a persistent world with ninja training, hunting, farming, cooking, engineering and ritual magic. The quest book introduces the mods as you play."
   },
   {
     "title": "Get the pack",
@@ -340,28 +340,28 @@
     "volume": "Minecraft Server",
     "number": "",
     "url": "/minecraft/#first-steps",
-    "text": "01 Choose Your Origin Your first major choice is what kind of ninja you are. Reveal your available Origins, read through them and choose the one that sounds the most fun to play. 02 Follow the Quest Book The quests are your tour through the pack. They introduce survival, ninja training, hunting, building, food, crafting and technology without expecting you to know everything immediately. 03 Make Somewhere Safe Get a bed, food, light and somewhere to store what you find. The world outside is dangerous enough that having a place to return to genuinely matters. 04 Go Hunting Once you have supplies and a few tricks of your own, head out. Explore, fight, loot, find new terrain and bring something useful—or at least a good story—back with you."
+    "text": "01 Choose Your Origin Your first major choice is what kind of ninja you are. Reveal your available Origins, read through them and choose the one that sounds the most fun to play. 02 Follow the Quest Book The quests are your tour through the pack. They introduce survival, ninja training, hunting, building, food, crafting and technology without expecting you to know everything immediately. 03 Make Somewhere Safe Get a bed, food, light and somewhere to store what you find. 04 Go Hunting Once you have supplies and a few tricks of your own, head out. Explore, fight, loot, find new terrain and bring something useful—or at least a good story—back with you."
   },
   {
     "title": "Controls",
     "volume": "Minecraft Server",
     "number": "",
     "url": "/minecraft/#controls",
-    "text": "Most of Minecraft works exactly as you expect. These are the extra controls worth knowing when you first join. If you ever lose a binding, press F7 to print your current Ember Corps controls. Action Default / How :--- :--- Charge chakra Hold Y Ninja dash Sprint, then use your Ninja Dash binding while you have stamina Wall movement Run into a wall while moving and use your ninja movement controls to climb; keep chakra and stamina available Origin Selection F6 Show Ember Corps controls F7 Voice chat menu V Push to talk Caps Lock Lock onto a target G Scout Zoom Hold Z View an item's recipe Hover it in JEI and press R See what an item is used for Hover it in JEI and press U Quest Log Esc → QUEST LOG You can rebind anything from Options → Controls. Movement feels faster than vanilla. You can step smoothly up blocks, use ninja movement abilities and lock the camera onto enemies during fights. Sneak when you want normal, careful movement. Use JEI whenever you are confused by an item. The item list beside your inventory is effectively your recipe book: hover something and press R to learn how to make it or U to see what it can become. CHAKRA IS YOUR LIFELINE Hold Y to charge chakra whenever you have breathing room. Your techniques and mobility depend on it, and running dry in the middle of a hunt can turn a winning fight into a very short trip home. Stamina matters too: dashing and repeated movement can leave you unable to escape when you need it most."
+    "text": "Press F7 to print your current Ember Corps controls. Action Default / How :--- :--- Charge chakra Hold Y Ninja dash Sprint, then use your Ninja Dash binding while you have stamina Wall movement Run into a wall while moving and use your ninja movement controls to climb; keep chakra and stamina available Origin Selection F6 Show Ember Corps controls F7 Voice chat menu V Push to talk Caps Lock Lock onto a target G Scout Zoom Hold Z View an item's recipe Hover it in JEI and press R See what an item is used for Hover it in JEI and press U Quest Log Esc → QUEST LOG You can rebind anything from Options → Controls. Movement feels faster than vanilla. You can step smoothly up blocks, use ninja movement abilities and lock the camera onto enemies during fights. Sneak when you want normal, careful movement. Use JEI whenever you are confused by an item. The item list beside your inventory is effectively your recipe book: hover something and press R to learn how to make it or U to see what it can become. CHAKRA IS YOUR LIFELINE Hold Y to charge chakra whenever you have breathing room. Your techniques and mobility depend on it, and running dry in the middle of a hunt can turn a winning fight into a very short trip home. Stamina matters too: dashing and repeated movement can leave you unable to escape when you need it most."
   },
   {
     "title": "Becoming a stronger ninja",
     "volume": "Minecraft Server",
     "number": "",
     "url": "/minecraft/#ninja-growth",
-    "text": "Your character has two kinds of growth to care about. Ninja XP advances your overall ninja progression, while individual Jutsu have their own XP. Using and training a technique improves that technique toward its next unlocks rather than instantly mastering your entire arsenal. Hold your Ninjutsu caster to inspect the techniques available to you and their progress. Training Scrolls are especially valuable: hold the scroll in your main hand and the appropriate caster in your offhand, then use the scroll to train the selected Jutsu. A training scroll grants +75 Jutsu XP when that technique can still gain XP, and is not consumed if it cannot. The quest book is one of your most reliable early sources of Ninja XP and Training Scrolls. Hunt, complete objectives, train the techniques you actually want to use and keep checking your caster as new options open up. 01 Charge Before Trouble Top up your chakra before leaving shelter, entering a cave or committing to a dangerous fight. 02 Mobility Keeps You Alive Dash to create distance, use vertical terrain and learn to move along walls instead of fighting everything from the ground. A ninja who can disengage gets another attempt. 03 Train Your Favourite Jutsu Jutsu improve individually. Put your Training Scrolls and practice into techniques you enjoy rather than expecting every ability to grow together. 04 Prepare Like a Hunter Ninja powers do not replace food, armour, storage or common sense. Carry supplies, know the route home and do not spend every resource before the real fight begins."
+    "text": "Your character has two kinds of growth to care about. Ninja XP advances your overall ninja progression, while individual Jutsu have their own XP. Using and training a technique improves that technique toward its next unlocks rather than instantly mastering your entire arsenal. Hold your Ninjutsu caster to inspect the techniques available to you and their progress. Training Scrolls are especially valuable: hold the scroll in your main hand and the appropriate caster in your offhand, then use the scroll to train the selected Jutsu. A training scroll grants +75 Jutsu XP when that technique can still gain XP, and is not consumed if it cannot. The quest book is one of your most reliable early sources of Ninja XP and Training Scrolls. Hunt, complete objectives, train the techniques you actually want to use and keep checking your caster as new options open up. 01 Charge Before Trouble Top up your chakra before leaving shelter, entering a cave or committing to a dangerous fight. 02 Mobility Keeps You Alive Dash to create distance, use vertical terrain and learn to move along walls instead of fighting everything from the ground. 03 Train Your Favourite Jutsu Jutsu improve individually. Put your Training Scrolls and practice into techniques you enjoy rather than expecting every ability to grow together. 04 Prepare Like a Hunter Ninja powers do not replace food, armour, storage or common sense. Carry supplies, know the route home and do not spend every resource before the real fight begins."
   },
   {
     "title": "Great powers of the ninja world",
     "volume": "Minecraft Server",
     "number": "",
     "url": "/minecraft/#great-powers",
-    "text": "The server starts you as a ninja. It does not expect you to stay ordinary. 眼 DŌJUTSU Eyes that change the fight Sharingan, Byakugan, Rinnegan and other rare eyes exist within the world. Dōjutsu can completely change what your character is capable of, and some of the rarest eye powers are prizes worth building an entire journey around. 尾 TAILED BEASTS Power with a heartbeat The Tailed Beasts are part of the world. Finding one is one thing; surviving the encounter and reaching the point where its power can become part of your story is another. They are major goals, not starter equipment. 禁 FORBIDDEN HEIGHTS There is always something beyond you Bloodline powers, transformations, advanced Jutsu and exceptionally rare discoveries can push a character far beyond their beginnings. The strongest rewards are things to chase, discover and earn through play. Discover rare powers through exploration and play."
+    "text": "眼 DŌJUTSU Eyes that change the fight Sharingan, Byakugan, Rinnegan and other rare eyes exist within the world. Dōjutsu can completely change what your character is capable of, and some of the rarest eye powers are prizes worth building an entire journey around. 尾 TAILED BEASTS Power with a heartbeat The Tailed Beasts are part of the world. Finding one is one thing; surviving the encounter and reaching the point where its power can become part of your story is another. They are major goals, not starter equipment. 禁 FORBIDDEN HEIGHTS There is always something beyond you Bloodline powers, transformations, advanced Jutsu and exceptionally rare discoveries can push a character far beyond their beginnings. The strongest rewards are things to chase, discover and earn through play. Discover rare powers through exploration and play."
   },
   {
     "title": "What can I do?",
@@ -389,14 +389,14 @@
     "volume": "Minecraft Server",
     "number": "",
     "url": "/minecraft/#survival",
-    "text": "Keep Inventory is enabled. Dying will not erase hours of equipment progress, but it still leaves you vulnerable for a while. Bring food. Bring light. Bring enough inventory space. Know roughly how you are getting home. If you see something enormous in the distance, remember that turning around is also a ninja technique. Loot beams help valuable drops stand out after fights, and backpacks let you stay away from home much longer than vanilla inventory would. As your outpost improves, preparing for expeditions becomes quicker and the places you can safely reach become farther away."
+    "text": "Keep Inventory is enabled. Dying will not erase hours of equipment progress, but it still leaves you vulnerable for a while. Carry food and torches, leave room for loot and mark the route home. Loot beams help valuable drops stand out after fights, and backpacks let you stay away from home much longer than vanilla inventory would. As your outpost improves, preparing for expeditions becomes quicker and the places you can safely reach become farther away."
   },
   {
     "title": "Play together",
     "volume": "Minecraft Server",
     "number": "",
     "url": "/minecraft/#multiplayer",
-    "text": "The server includes proximity voice chat. Press V to set up your microphone and use Caps Lock to talk. Voices become quieter with distance, so stumbling across another Hunter in the wild feels very different from sitting together at an outpost. You are free to wander alone, but the world is deliberately more fun when players rely on one another. Share discoveries. Build places together. Rescue somebody who went too far from home. Organise hunts. Leave supplies at distant shelters. Create things future players will stumble across. READY TO ENTER THE WASTES? Make a ninja. Pack your supplies. See how far you get. DOWNLOAD EMBER CORPS 1.2.3 ↗"
+    "text": "The server includes proximity voice chat. Press V to set up your microphone and use Caps Lock to talk. Voices become quieter with distance. Player pack DOWNLOAD EMBER CORPS 1.2.3 ↗"
   },
   {
     "title": "Clans & Lineages",
@@ -5506,7 +5506,7 @@
     "volume": "The Hunt Kitchen",
     "number": "I",
     "url": "/rules/cooking/",
-    "text": "At Haven Ember’s smokehouse, every parcel carries two marks. The first tells the cook what’s inside: collar, haunch, claw or coil. The second is the butcher’s note on the beast. A tortoise that spent its life bracing against the river gives a different stew from one that hauled prey beneath the bank."
+    "text": "The Hunt Kitchen"
   },
   {
     "title": "Cook for the Team",
@@ -5702,7 +5702,7 @@
     "volume": "Core Rules",
     "number": "I",
     "url": "/rules/core/",
-    "text": "Character creation, attributes, skills, advancement, abilities, combat, wounds and downtime. The Fall of the Old World Nobody agrees on exactly when the old world ended. The oldest surviving records speak of the Five Great Nations, hidden villages with armies of shinobi, great clans, Kage, and wars that could reshape the land. Konoha, Suna, Kiri, Kumo, and Iwa still survive in names, ruins, bloodlines, and half-trusted records. Then came what modern people call the Bloom. Natural chakra surged across the world. Animals changed. Forests grew in days. Rivers shifted course. Creatures developed chakra organs, elemental abilities, armour, regeneration, intelligence, and instincts that turned ordinary hunting into war. The nations tried to fight the new world as they had fought one another. They lost. Within generations, the map stopped being divided by borders. It became divided by what could kill you there. The World Now Humanity does not control the Wastes. It occupies small pieces of them. Most settlements survive because they possess something worth defending: water, fertile soil, an old reactor, a mine, a sealed archive, a defensible canyon, or access to a trade route. The land between Havens is claimed by predators, migrating herds, raider gangs, scavenger crews, cults, caravans, old-world defence systems, and creatures whose territories are measured in hundreds of miles. Maps are temporary. Information about where a creature sleeps, when it migrates, what it hunts, and what makes it flee can save more lives than a single powerful jutsu. Haven Ember Every player character begins in Haven Ember, one of the larger independent settlements surviving beyond the direct rule of any major power. Several thousand people live around an old underground water system and the remains of a pre-Fall transport hub. Scrap-built outer districts surround older inner walls reinforced with sealing arrays recovered and repaired over generations. Ember has farms, workshops, clinics, markets, shrines, garages, training yards, a monster-processing hall, and more people than its current resources comfortably support. Its greatest advantage is a large, organised Hunter corps willing to take anyone useful enough to help keep the settlement alive. The Ember Corps Every player character belongs to the wider Ember Corps. The Corps is not a standing army in the old sense. It is a loose network of hunters, scouts, medics, salvagers, couriers, guides, researchers, mechanics, negotiators, and combat hunters who form temporary crews for specific jobs. A mission is posted. A crew forms from whoever is available and suited to the work. They leave Ember, handle the problem, and return with whatever they managed to save, learn, recover, kill, or accidentally make worse. The next mission may have a completely different team. Characters are expected to be people who can work with others when it matters. Rivalries, grudges, factional disagreements, criminal histories, and ideological conflict are welcome. Refusing to cooperate with the wider community as a basic character premise is not."
+    "text": "The Fall of the Old World Nobody agrees on exactly when the old world ended. The oldest surviving records speak of the Five Great Nations, hidden villages with armies of shinobi, great clans, Kage, and wars that could reshape the land. Konoha, Suna, Kiri, Kumo, and Iwa still survive in names, ruins, bloodlines, and half-trusted records. Then came what modern people call the Bloom. Natural chakra surged across the world. Animals changed. Forests grew in days. Rivers shifted course. Creatures developed chakra organs, elemental abilities, armour, regeneration, intelligence, and instincts that turned ordinary hunting into war. The nations tried to fight the new world as they had fought one another. They lost. Within generations, the map stopped being divided by borders. It became divided by what could kill you there. The World Now Humanity does not control the Wastes. It occupies small pieces of them. Most settlements survive because they possess something worth defending: water, fertile soil, an old reactor, a mine, a sealed archive, a defensible canyon, or access to a trade route. The land between Havens is claimed by predators, migrating herds, raider gangs, scavenger crews, cults, caravans, old-world defence systems, and creatures whose territories are measured in hundreds of miles. Maps are temporary. Information about where a creature sleeps, when it migrates, what it hunts, and what makes it flee can save more lives than a single powerful jutsu. Haven Ember Every player character begins in Haven Ember, one of the larger independent settlements surviving beyond the direct rule of any major power. Several thousand people live around an old underground water system and the remains of a pre-Fall transport hub. Scrap-built outer districts surround older inner walls reinforced with sealing arrays recovered and repaired over generations. Ember has farms, workshops, clinics, markets, shrines, garages, training yards, a monster-processing hall, and more people than its current resources comfortably support. Its greatest advantage is a large, organised Hunter corps willing to take anyone useful enough to help keep the settlement alive. The Ember Corps Every player character belongs to the wider Ember Corps. The Corps is not a standing army in the old sense. It is a loose network of hunters, scouts, medics, salvagers, couriers, guides, researchers, mechanics, negotiators, and combat hunters who form temporary crews for specific jobs. A mission is posted. A crew forms from whoever is available and suited to the work. They leave Ember, handle the problem, and return with whatever they managed to save, learn, recover, kill, or accidentally make worse. The next mission may have a completely different team. Characters are expected to be people who can work with others when it matters. Rivalries, grudges, factional disagreements, criminal histories, and ideological conflict are welcome. Refusing to cooperate with the wider community as a basic character premise is not."
   },
   {
     "title": "Character Creation",
@@ -8922,7 +8922,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/",
-    "text": "Crafting, weapons, tools, pharmaceuticals and exploding tags."
+    "text": "Equipment & Crafting"
   },
   {
     "title": "Crafting",
@@ -9853,7 +9853,7 @@
     "volume": "Equipment & Crafting",
     "number": "VI",
     "url": "/rules/equipment/#poisons",
-    "text": "Poisons are nasty business, and one of the murkier aspects of ninja tactics. Certainly, before the days when shinobi had discovered the secrets of chakra manipulation, poisons were a vital part of their arsenal. The proper use of poisons, however, is hard to learn, and in most circumstances just isn't as useful as being able to shoot fireballs and run up walls. Some hunter, however, still find uses for them. This section is for them!"
+    "text": "Poisons are nasty business, and one of the murkier aspects of ninja tactics. Certainly, before the days when shinobi had discovered the secrets of chakra manipulation, poisons were a vital part of their arsenal. The proper use of poisons, however, is hard to learn, and in most circumstances just isn't as useful as being able to shoot fireballs and run up walls."
   },
   {
     "title": "Rules",
@@ -11085,7 +11085,7 @@
     "volume": "Hunting",
     "number": "I",
     "url": "/rules/hunting/",
-    "text": "Hunting Track dangerous beasts, learn how they fight, prepare for the encounter, then bring them down—or bring them home alive. 01 Up to 4 Hunters 02 No DT to Depart 03 Shared Intel 04 Kill or Capture Starting a Hunt Hunt Actions Intel Monster Tribes Combat Classes Go on the Hunt Hunt Combat Clinging Injury & Part Breaks Exertion Capture A Hunt is a GM-run job. Your team can track the creature, study it and prepare before facing it. Preparatory Hunt Actions use Downtime Slots, but going on the Hunt itself costs no Downtime . What you learn beforehand can give your team an advantage when the fight starts. 01 Find It Track the target and learn its territory. 02 Learn It Research its nature, habits and abilities. 03 Prepare Build the tools and advantages you need. 04 Confront It Arrange a time with your GM and Team, then go. No DT cost. 05 Finish It Kill, capture, drive off, or neutralise it. ---"
+    "text": "Hunting 01 Up to 4 Hunters 02 No DT to Depart 03 Shared Intel 04 Kill or Capture Starting a Hunt Hunt Actions Intel Monster Tribes Combat Classes Go on the Hunt Hunt Combat Clinging Injury & Part Breaks Exertion Capture A Hunt is a GM-run job. Your team can track the creature, study it and prepare before facing it. Preparatory Hunt Actions use Downtime Slots, but going on the Hunt itself costs no Downtime . What you learn beforehand can give your team an advantage when the fight starts. 01 Find It Track the target and learn its territory. 02 Learn It Research its nature, habits and abilities. 03 Prepare Build the tools and advantages you need. 04 Confront It Arrange a time with your GM and Team, then go. No DT cost. 05 Finish It Kill, capture, drive off, or neutralise it. ---"
   },
   {
     "title": "Starting a Hunt",
@@ -11190,7 +11190,7 @@
     "volume": "Bow Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/bow/#bow-bukijutsu",
-    "text": "Pick a clear line to your quarry. A well-placed arrow can pin it long enough to line up the next shot."
+    "text": ""
   },
   {
     "title": "E-Rank",
@@ -11610,7 +11610,7 @@
     "volume": "Chain Weapon Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/chain/#chain-weapon-bukijutsu",
-    "text": "Chain weapons catch limbs, drag enemies out of position and hold them at a distance."
+    "text": ""
   },
   {
     "title": "Weapon Grapples",
@@ -11785,7 +11785,7 @@
     "volume": "Club Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/club/#club-bukijutsu",
-    "text": "Clubs batter armor, break footing and send enemies reeling."
+    "text": ""
   },
   {
     "title": "E-Rank",
@@ -12170,7 +12170,7 @@
     "volume": "Doton · Earth",
     "number": "IV",
     "url": "/rules/jutsu/doton/#doton-earth-style",
-    "text": "Doton raises walls, breaks structures, and uses Stun and rough ground to hold enemies in place. On a boat or anywhere else without earth, most Doton techniques have nothing to work with. Some already supply their own material, like jutsu that have you spit up mud. Without earth, any Doton jutsu you use costs +5 base Chakra to create the earth yourself."
+    "text": "On a boat or anywhere else without earth, most Doton techniques have nothing to work with. Some already supply their own material, like jutsu that have you spit up mud. Without earth, any Doton jutsu you use costs +5 base Chakra to create the earth yourself."
   },
   {
     "title": "E-Rank",
@@ -12485,7 +12485,7 @@
     "volume": "Dual Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/dual/#dual-bukijutsu",
-    "text": "Draw their guard with one weapon. Strike with the other."
+    "text": ""
   },
   {
     "title": "E-Rank",
@@ -12772,7 +12772,7 @@
     "volume": "Fan Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/fan/#fan-bukijutsu",
-    "text": "Fans sweep enemies aside, turn projectiles and carry cutting winds across the battlefield."
+    "text": ""
   },
   {
     "title": "E-Rank",
@@ -13752,7 +13752,7 @@
     "volume": "Fūton · Wind",
     "number": "IV",
     "url": "/rules/jutsu/fuuton/#fuuton-wind-style",
-    "text": "Fūton turns aside projectiles, clears the air, and pushes enemies out of position. Blocking reduces the damage of Wind techniques by only 25%. For a jutsu with the Fan tag, a hand holding a fan counts as free when you determine Seal Speed. You get your full Seal Speed whether you’re wielding 1 fan or 2. Oh and if there’s no air or any gasses around (Even water has air in it), then you can’t use Fuuton, but… If you’re in a situation like that then you probably have bigger problems to worry about."
+    "text": "Blocking reduces the damage of Wind techniques by only 25%. For a jutsu with the Fan tag, a hand holding a fan counts as free when you determine Seal Speed. You get your full Seal Speed whether you’re wielding 1 fan or 2. Oh and if there’s no air or any gasses around (Even water has air in it), then you can’t use Fuuton, but… If you’re in a situation like that then you probably have bigger problems to worry about."
   },
   {
     "title": "E-Rank",
@@ -14886,7 +14886,7 @@
     "volume": "Katon · Fire",
     "number": "IV",
     "url": "/rules/jutsu/katon/#katon-fire-style",
-    "text": "Katon burns targets and keeps pressure on them. Ignite sets up follow-up attacks, and several techniques spread fire across a group. Katon jutsu won’t work while you’re completely submerged. You can submerge in an area with 1k+ Gallons if it can hold that much water, like a lake. Exploding Dice Katon jutsu often have !o>X this is called exploding dice and causes an additional roll whenever a target number is met. [[6d8!\\ Rolls six 8-sided dice, exploding any die that lands on a 2 or 1 [[6d8!>2]] => Rolls six 8-sided dice, exploding any die that lands on a 2 thru 8"
+    "text": "Katon jutsu won’t work while you’re completely submerged. You can submerge in an area with 1k+ Gallons if it can hold that much water, like a lake. Exploding Dice Katon jutsu often have !o>X this is called exploding dice and causes an additional roll whenever a target number is met. [[6d8!\\ Rolls six 8-sided dice, exploding any die that lands on a 2 or 1 [[6d8!>2]] => Rolls six 8-sided dice, exploding any die that lands on a 2 thru 8"
   },
   {
     "title": "E-Rank",
@@ -16090,7 +16090,7 @@
     "volume": "Polearm Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/polearm/#polearm-bukijutsu",
-    "text": "Keep the point between you and your opponent. If they want to reach you, they have to get past it."
+    "text": ""
   },
   {
     "title": "E-Rank",
@@ -16258,7 +16258,7 @@
     "volume": "Raiton · Lightning",
     "number": "IV",
     "url": "/rules/jutsu/raiton/#raiton-lightning-style",
-    "text": "Raiton closes distance, inflicts Paralysis, and rewards striking while an opponent is impaired. Raiton uses chakra to make lightning. Hitting water only shocks the people touching it if the jutsu says it does. Other properties of ordinary electricity also depend on the technique."
+    "text": "Raiton uses chakra to make lightning. Hitting water only shocks the people touching it if the jutsu says it does. Other properties of ordinary electricity also depend on the technique."
   },
   {
     "title": "E-Rank",
@@ -16559,7 +16559,7 @@
     "volume": "Jutsu Rules",
     "number": "IV",
     "url": "/rules/jutsu/rules/#guide",
-    "text": "Learning requirements, technique tags, elemental interactions and shared Jutsu rules."
+    "text": ""
   },
   {
     "title": "Jutsu Rules",
@@ -17147,7 +17147,7 @@
     "volume": "Suiton · Water",
     "number": "IV",
     "url": "/rules/jutsu/suiton/#suiton-water-style",
-    "text": "Suiton protects allies, controls movement, and leaves water behind for later techniques. Suiton needs water. A lake, a river or the water beneath a boat can supply it. A small stream won’t do. Most Suiton jutsu are costly and have little effect without enough water behind them. When you use the jutsu, declare how many Gallons of Water you invest. That number is G. Stay within the listed minimum and maximum (for example, 4 to 12 Gallons of Water) or the technique fails. A minimum of 0 lets you use the jutsu without spending water, though it will be weak. Only one quarter of Gallons invested in a Suiton jutsu are consumed (rounded up). The remaining Gallons are deposited back onto the battlefield after the technique resolves. Minimum Gallon requirements are checked when the technique is used, before any Gallons are returned. There are two primary ways to bring water into a battle where there otherwise is none: the first is to physically carry it, typically in a large gourd (see the Equipment chapter). The other is the D rank Water Creation Technique, which may add Gallons of Water to the Background, making those Gallons accessible to everybody in the battlefield until the Water is used up. Used water is typically scattered across the battlefield, or evaporates back into the atmosphere as pure chakra, meaning it cannot be used in a technique again--it is lost. You can't use water someone else is carrying into battle (Like through a Container), but water in the Background or environment is fair game."
+    "text": "Suiton needs water. A lake, a river or the water beneath a boat can supply it. A small stream won’t do. Most Suiton jutsu are costly and have little effect without enough water behind them. When you use the jutsu, declare how many Gallons of Water you invest. That number is G. Stay within the listed minimum and maximum (for example, 4 to 12 Gallons of Water) or the technique fails. A minimum of 0 lets you use the jutsu without spending water, though it will be weak. Only one quarter of Gallons invested in a Suiton jutsu are consumed (rounded up). The remaining Gallons are deposited back onto the battlefield after the technique resolves. Minimum Gallon requirements are checked when the technique is used, before any Gallons are returned. There are two primary ways to bring water into a battle where there otherwise is none: the first is to physically carry it, typically in a large gourd (see the Equipment chapter). The other is the D rank Water Creation Technique, which may add Gallons of Water to the Background, making those Gallons accessible to everybody in the battlefield until the Water is used up. Used water is typically scattered across the battlefield, or evaporates back into the atmosphere as pure chakra, meaning it cannot be used in a technique again--it is lost. You can't use water someone else is carrying into battle (Like through a Container), but water in the Background or environment is fair game."
   },
   {
     "title": "E-Rank",
@@ -17441,7 +17441,7 @@
     "volume": "Sword Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/sword/#sword-bukijutsu",
-    "text": "Watch how your opponent defends the first cut. Change the angle on the next one."
+    "text": ""
   },
   {
     "title": "E-Rank",
@@ -17609,7 +17609,7 @@
     "volume": "Thrown Bukijutsu",
     "number": "IV",
     "url": "/rules/jutsu/thrown/#thrown-bukijutsu",
-    "text": "Thrown weapons turn a handful of ninja tools into feints, traps and attacks from unexpected angles."
+    "text": ""
   },
   {
     "title": "E-Rank",
@@ -18085,7 +18085,7 @@
     "volume": "Jutsu Compendium",
     "number": "IV",
     "url": "/rules/jutsu/",
-    "text": "Browse the searchable jutsu table ↓ GETTING STARTED 04 ENTRIES Jutsu Rules ↗ Foundational mechanics, learning requirements and technique terminology. The Eight Gates ↗ Shadow Clones ↗ Natural Chakra & Sage Mode ↗ Sage traditions, natural chakra, Sage Arts and Kata. TAIJUTSU 03 ENTRIES Unarmed Taijutsu ↗ Strikes, counters, movement and close-range combat. Combo Taijutsu ↗ Openers, momentum, linked hits and finishing attacks. Grapple Taijutsu ↗ Clinches, pins, control and submission techniques. NINJUTSU & ELEMENTS 06 ENTRIES General Ninjutsu ↗ Universal non-elemental techniques and essential ninja arts. Doton · Earth ↗ Fūton · Wind ↗ Katon · Fire ↗ Raiton · Lightning ↗ Suiton · Water ↗ BUKIJUTSU 11 ENTRIES Bukijutsu Rules ↗ Weapon chains, stances, specials and universal techniques. Chakra Flow ↗ Elemental weapon coatings for primary and advanced natures. B-Rank Long Conduction ↗ Channel Chakra Flow through thrown and launched weapons. Sword Bukijutsu ↗ Club Bukijutsu ↗ Polearm Bukijutsu ↗ Fan Bukijutsu ↗ Chain Weapon Bukijutsu ↗ Dual Bukijutsu ↗ Bow Bukijutsu ↗ Thrown Bukijutsu ↗ SPECIALIST JUTSU 03 ENTRIES Genjutsu ↗ Medical Ninjutsu ↗ Fūinjutsu · Sealing ↗ Seals, storage, binding techniques and barrier arts. FERAL ELEMENTS 07 ENTRIES ✥ Feral Elements ↗ Feral Talents, shared Scar rules, Overrun and Feral combat flow. ◉ Abyss Release ↗ Suiton / Depth ϟ Storm Release ↗ Raiton / Charge ◇ Glass Release ↗ Doton / Shards ◎ Vacuum Release ↗ Fūton / Dead Air ♨ Cinder Release ↗ Katon / Ash ∅ Void Release ↗ Non-elemental / Null"
+    "text": "Browse the searchable jutsu table ↓ GETTING STARTED 04 ENTRIES Jutsu Rules ↗ The Eight Gates ↗ Shadow Clones ↗ Natural Chakra & Sage Mode ↗ TAIJUTSU 03 ENTRIES Unarmed Taijutsu ↗ Combo Taijutsu ↗ Grapple Taijutsu ↗ NINJUTSU & ELEMENTS 06 ENTRIES General Ninjutsu ↗ Doton · Earth ↗ Fūton · Wind ↗ Katon · Fire ↗ Raiton · Lightning ↗ Suiton · Water ↗ BUKIJUTSU 11 ENTRIES Bukijutsu Rules ↗ Chakra Flow ↗ B-Rank Long Conduction ↗ Channel Chakra Flow through thrown and launched weapons. Sword Bukijutsu ↗ Club Bukijutsu ↗ Polearm Bukijutsu ↗ Fan Bukijutsu ↗ Chain Weapon Bukijutsu ↗ Dual Bukijutsu ↗ Bow Bukijutsu ↗ Thrown Bukijutsu ↗ SPECIALIST JUTSU 03 ENTRIES Genjutsu ↗ Medical Ninjutsu ↗ Fūinjutsu · Sealing ↗ FERAL ELEMENTS 07 ENTRIES ✥ Feral Elements ↗ Feral Talents, shared Scar rules, Overrun and Feral combat flow. ◉ Abyss Release ↗ Suiton / Depth ϟ Storm Release ↗ Raiton / Charge ◇ Glass Release ↗ Doton / Shards ◎ Vacuum Release ↗ Fūton / Dead Air ♨ Cinder Release ↗ Katon / Ash ∅ Void Release ↗ Non-elemental / Null"
   },
   {
     "title": "Jutsu finder",
@@ -18225,7 +18225,7 @@
     "volume": "Pre-Made Armor",
     "number": "VI",
     "url": "/rules/standard-armor/",
-    "text": "Buy a piece at its shop price or spend downtime to craft it for the listed materials cost. All armor uses the normal Structure and Body Part rules. Mobile pieces are Layered, Protective pieces are Dense, and Encased pieces are Shaped; see Armor Category in Equipment. Bonuses and penalties stack as described in Equipment & Crafting. Illustrations are stylized workshop concepts. Head Torso / Abdomen Arms / Hands Legs / Feet Armor Penalties ↗"
+    "text": "Buy a piece at its shop price or spend downtime to craft it for the listed materials cost. All armor uses the normal Structure and Body Part rules. Mobile pieces are Layered, Protective pieces are Dense, and Encased pieces are Shaped; see Armor Category in Equipment. Bonuses and penalties stack as described in Equipment & Crafting. Head Torso / Abdomen Arms / Hands Legs / Feet Armor Penalties ↗"
   },
   {
     "title": "Head",
@@ -18260,7 +18260,7 @@
     "volume": "Item Catalogue",
     "number": "VI",
     "url": "/rules/standard-items/",
-    "text": "Browse field gear, medicines, tags and clan supplies. Select a card for its full rules. Ninja Tools Monster Hunting Gear Market Vegetables Camp Cookware Survival Infiltration Shinobi Pharmaceuticals Drug Delivery Gear Exploding Tags Special Projectiles Clan Supplies Ballistic Ammunition"
+    "text": "Ninja Tools Monster Hunting Gear Market Vegetables Camp Cookware Survival Infiltration Shinobi Pharmaceuticals Drug Delivery Gear Exploding Tags Special Projectiles Clan Supplies Ballistic Ammunition"
   },
   {
     "title": "Ninja Tools",
@@ -18358,7 +18358,7 @@
     "volume": "Pre-Made Weapons",
     "number": "VI",
     "url": "/rules/standard-weapons/",
-    "text": "Looking for protection? Browse the illustrated Pre-Made Armor Catalogue ↗ Compare ready-made weapons by class, price, Speed and Range. Open a pattern for its full equipment entry. Statistics below are quick references. The linked equipment entries contain complete traits, components and purchasing rules. Ammunition prices are for batches of ten. Insect Glaive Corps Vanguard Corps Ballistic Corps Small Weapons Medium Weapons Large Weapons Extreme Weapons Matched Weapons Bows Crossbows Kunai Launchers Shuriken Launchers Ready-Made Kunai & Shuriken Ready-Made Ammunition Monster-hunting weapons (6) Splitjaw Switch Axe Basalt Breaker Carapace Guardlance Jawbone Cleaver Raptor Fangs Ridgeback Heavy Bowgun"
+    "text": "Pre-Made Armor Catalogue ↗ Statistics below are quick references. The linked equipment entries contain complete traits, components and purchasing rules. Ammunition prices are for batches of ten. Insect Glaive Corps Vanguard Corps Ballistic Corps Small Weapons Medium Weapons Large Weapons Extreme Weapons Matched Weapons Bows Crossbows Kunai Launchers Shuriken Launchers Ready-Made Kunai & Shuriken Ready-Made Ammunition Monster-hunting weapons (6) Splitjaw Switch Axe Basalt Breaker Carapace Guardlance Jawbone Cleaver Raptor Fangs Ridgeback Heavy Bowgun"
   },
   {
     "title": "Small Weapons",
@@ -22824,7 +22824,7 @@
     "volume": "Talents, Ranks & Hunter Classes",
     "number": "V",
     "url": "/rules/talents/",
-    "text": "Milestone talents and rank benefits for long-term character growth."
+    "text": "Talents, Ranks & Hunter Classes"
   },
   {
     "title": "Talents, Ranks & Hunter Classes",
@@ -24588,7 +24588,7 @@
     "volume": "Getting Started",
     "number": "",
     "url": "/start/",
-    "text": "WELCOME TO HAVEN EMBER. Beyond Haven Ember, the Bloom has left dangerous territory and plenty worth recovering. The Corps sends Hunters into the Wastes to bring something back. NEW TO EMBER CORPS? Read the New Player Guide for help joining a scene on Discord or working out when your Hunter acts. BUILD YOUR HUNTER 01 READ CHARACTER CREATION Attributes, starting XP, skills, 6 UP and Standard or Realistic Mode. ↗ 02 CHOOSE YOUR HERITAGE Your Primary Heritage determines the traditions and powers you inherit. ↗ 03 DEFINE YOUR UNIQUES ↗ 04 LEARN YOUR TECHNIQUES ↗ 05 GET EQUIPPED Purchase equipment or use the crafting rules. ↗ Want your heritage decided by chance? See Realistic Mode and its full d100 lineage table in Character Creation. THE WEBSITE IS THE RULEBOOK. Use these pages as the current player rules. If you find a discrepancy, report it to staff so the website can be corrected. Character sheet — website style ↗ Character sheet — original style ↗"
+    "text": "GETTING STARTED NEW TO EMBER CORPS? Read the New Player Guide for help joining a scene on Discord or working out when your Hunter acts. BUILD YOUR HUNTER 01 READ CHARACTER CREATION Attributes, starting XP, skills, 6 UP and Standard or Realistic Mode. ↗ 02 CHOOSE YOUR HERITAGE Your Primary Heritage determines the traditions and powers you inherit. ↗ 03 DEFINE YOUR UNIQUES ↗ 04 LEARN YOUR TECHNIQUES ↗ 05 GET EQUIPPED Purchase equipment or use the crafting rules. ↗ Want your heritage decided by chance? See Realistic Mode and its full d100 lineage table in Character Creation. RULES CORRECTIONS Use these pages as the current player rules. If you find a discrepancy, report it to staff so the website can be corrected. Character sheet — website style ↗ Character sheet — original style ↗"
   },
   {
     "title": "Timeline of Events",
@@ -24598,60 +24598,60 @@
     "text": "Timeline of Events"
   },
   {
-    "title": "THE TIMELINE OF EMBER.",
+    "title": "HAVEN EMBER TIMELINE",
     "volume": "Timeline of Events",
     "number": "",
     "url": "/timeline/#history-top",
     "text": ""
   },
   {
-    "title": "THE TIMELINE OF EMBER.",
+    "title": "HAVEN EMBER TIMELINE",
     "volume": "Timeline of Events",
     "number": "",
     "url": "/timeline/#history-hunt",
     "text": ""
   },
   {
-    "title": "THE TIMELINE OF EMBER.",
+    "title": "HAVEN EMBER TIMELINE",
     "volume": "Timeline of Events",
     "number": "",
     "url": "/timeline/#history-haven",
     "text": ""
   },
   {
-    "title": "THE TIMELINE OF EMBER.",
+    "title": "HAVEN EMBER TIMELINE",
     "volume": "Timeline of Events",
     "number": "",
     "url": "/timeline/#history-crisis",
     "text": ""
   },
   {
-    "title": "THE TIMELINE OF EMBER.",
+    "title": "HAVEN EMBER TIMELINE",
     "volume": "Timeline of Events",
     "number": "",
     "url": "/timeline/#history-crown",
     "text": ""
   },
   {
-    "title": "THE TIMELINE OF EMBER.",
+    "title": "HAVEN EMBER TIMELINE",
     "volume": "Timeline of Events",
     "number": "",
     "url": "/timeline/#history-bloom",
     "text": ""
   },
   {
-    "title": "THE TIMELINE OF EMBER.",
+    "title": "HAVEN EMBER TIMELINE",
     "volume": "Timeline of Events",
     "number": "",
     "url": "/timeline/#history-compass",
     "text": ""
   },
   {
-    "title": "THE TIMELINE OF EMBER.",
+    "title": "HAVEN EMBER TIMELINE",
     "volume": "Timeline of Events",
     "number": "",
     "url": "/timeline/#history-ambient",
-    "text": "THE TIMELINE OF EMBER. The story of Ember Corps as it happened: hunts beyond the walls, disasters at home, and the scars left upon the Haven. Hunt Haven Crisis Calamity SCROLL THROUGH THE ARCHIVE ↓ 01 / AUG–SEP Before the Crown 02 / SEPTEMBER The Crown Beneath 03 / OCTOBER Beyond the Ruins 04 / PRESENT Ember today"
+    "text": "HAVEN EMBER TIMELINE Hunt Haven Crisis Calamity FIRST RECORDED HUNTS ↓ 01 / AUG–SEP Before the Crown 02 / SEPTEMBER The Crown Beneath 03 / OCTOBER Beyond the Ruins 04 / PRESENT Ember today"
   },
   {
     "title": "Before the Crown",

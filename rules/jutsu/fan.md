@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/fan/"
 # Fan Bukijutsu
 {:#fan-bukijutsu}
 
-*Fans sweep enemies aside, turn projectiles and carry cutting winds across the battlefield.*
-
 ## E-Rank
 {:#e-rank-13 .jutsu-rank-heading}
 

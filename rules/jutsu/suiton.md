@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/suiton/"
 # Suiton: Water Style
 {:#suiton-water-style}
 
-Suiton protects allies, controls movement, and leaves water behind for later techniques.
-
 Suiton needs water. A lake, a river or the water beneath a boat can supply it. A small stream won’t do.
 
 Most Suiton jutsu are costly and have little effect without enough water behind them.

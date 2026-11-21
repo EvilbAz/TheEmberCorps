@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/polearm/"
 # Polearm Bukijutsu
 {:#polearm-bukijutsu}
 
-*Keep the point between you and your opponent. If they want to reach you, they have to get past it.*
-
 ## E-Rank
 {:#e-rank-12 .jutsu-rank-heading}
 

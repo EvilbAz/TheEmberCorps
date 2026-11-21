@@ -6,7 +6,7 @@ description: "Start here: character creation, Discord roleplay, Initiative Count
 permalink: "/guide/"
 ---
 
-<div class="guide-hero" id="welcome"><div class="guide-hero-copy"><h1>YOUR FIRST<br><em>HUNTER.</em></h1><p>Play a shinobi from Haven Ember. Meet the other Hunters on Discord, take jobs together and track monsters into the Wastes.</p><div class="guide-hero-actions"><a class="guide-cta" href="#five-minute-version">START READING ↘</a><a class="guide-ghost" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">JOIN THE DISCORD ↗</a></div></div><div class="guide-hero-emblem ec-logo" aria-hidden="true"><span class="ec-monster"></span><span class="ec-letters"></span></div></div>
+<div class="guide-hero" id="welcome"><div class="guide-hero-copy"><h1>NEW PLAYER GUIDE</h1><div class="guide-hero-actions"><a class="guide-cta" href="#five-minute-version">START READING ↘</a><a class="guide-ghost" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">JOIN THE DISCORD ↗</a></div></div><div class="guide-hero-emblem ec-logo" aria-hidden="true"><span class="ec-monster"></span><span class="ec-letters"></span></div></div>
 
 <nav class="guide-quicknav" aria-label="Guide chapters"><a href="#five-minute-version">Make a Hunter</a><a href="#ic-and-ooc">Join a scene</a><a href="#skills">Roll a check</a><a href="#speed">Play your first fight</a><a href="#downtime">Between hunts</a></nav>
 

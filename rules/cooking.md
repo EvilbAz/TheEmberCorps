@@ -5,7 +5,7 @@ volume: "I"
 volume_slug: "core"
 permalink: "/rules/cooking/"
 ---
-At Haven Ember’s smokehouse, every parcel carries two marks. The first tells the cook what’s inside: collar, haunch, claw or coil. The second is the butcher’s note on the beast. A tortoise that spent its life bracing against the river gives a different stew from one that hauled prey beneath the bank.
+
 
 ## Cook for the Team
 {:#cook-for-the-team}

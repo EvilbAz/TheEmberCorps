@@ -6,7 +6,7 @@ volume_slug: "equipment"
 permalink: "/rules/equipment/"
 ---
 
-*Crafting, weapons, tools, pharmaceuticals and exploding tags.*
+
 
 # Crafting
 {:#crafting}
@@ -1207,7 +1207,7 @@ The following items require technology unavailable to ordinary crafters:
 
 Poisons are nasty business, and one of the murkier aspects of ninja tactics. Certainly, before the days when shinobi had discovered the secrets of chakra manipulation, poisons were a vital part of their arsenal. The proper use of poisons, however, is hard to learn, and in most circumstances just isn't as useful as being able to shoot fireballs and run up walls.
 
-Some hunter, however, still find uses for them. This section is for them\!
+
 
 ### Rules
 {:#rules}

@@ -7,7 +7,7 @@ talent_section: "overview"
 permalink: "/rules/talents/"
 ---
 
-Milestone talents and rank benefits for long-term character growth.
+
 
 # Talents, Ranks & Hunter Classes
 {:#talents-rank-benefits}

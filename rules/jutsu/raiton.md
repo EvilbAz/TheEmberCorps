@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/raiton/"
 # Raiton: Lightning Style
 {:#raiton-lightning-style}
 
-Raiton closes distance, inflicts Paralysis, and rewards striking while an opponent is impaired.
-
 Raiton uses chakra to make lightning. Hitting water only shocks the people touching it if the jutsu says it does. Other properties of ordinary electricity also depend on the technique.
 
 ## E-Rank

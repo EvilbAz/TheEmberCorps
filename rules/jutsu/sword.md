@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/sword/"
 # Sword Bukijutsu
 {:#sword-bukijutsu}
 
-*Watch how your opponent defends the first cut. Change the angle on the next one.*
-
 ## E-Rank
 {:#e-rank-10 .jutsu-rank-heading}
 

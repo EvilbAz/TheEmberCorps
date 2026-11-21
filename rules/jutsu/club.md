@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/club/"
 # Club Bukijutsu
 {:#club-bukijutsu}
 
-*Clubs batter armor, break footing and send enemies reeling.*
-
 ## E-Rank
 {:#e-rank-11 .jutsu-rank-heading}
 

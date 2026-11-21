@@ -1,6 +1,6 @@
 ---
 title: "Timeline of Events"
-description: "A living chronology of Ember Corps: the hunts, disasters and discoveries that shaped Haven Ember."
+description: "Hunts and events in Haven Ember, in chronological order."
 permalink: /timeline/
 ---
 <link rel="stylesheet" href="{{ '/assets/css/timeline-ambient.css' | relative_url }}">
@@ -44,11 +44,11 @@ permalink: /timeline/
       <svg class="history-seal-mark" viewBox="0 0 100 100"><use href="#history-haven"/></svg>
     </div>
     <div class="history-embers" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></div>
-    <h1>THE TIMELINE<br><span>OF EMBER.</span></h1>
-    <p class="lead">The story of Ember Corps as it happened: hunts beyond the walls, disasters at home, and the scars left upon the Haven.</p>
+    <h1>HAVEN EMBER TIMELINE</h1>
+
     <div class="timeline-legend"><span><i class="tl-dot hunt"></i> Hunt</span><span><i class="tl-dot haven"></i> Haven</span><span><i class="tl-dot crisis"></i> Crisis</span><span><i class="tl-dot calamity"></i> Calamity</span></div>
 
-    <a class="history-scroll-cue" href="#before-the-crown"><span>SCROLL THROUGH THE ARCHIVE</span><span aria-hidden="true">↓</span></a>
+    <a class="history-scroll-cue" href="#before-the-crown"><span>FIRST RECORDED HUNTS</span><span aria-hidden="true">↓</span></a>
   </header>
   <nav class="history-nav" aria-label="Timeline eras">
     <a href="#before-the-crown"><svg aria-hidden="true"><use href="#history-hunt"/></svg><span><small>01 / AUG–SEP</small>Before the Crown</span></a>

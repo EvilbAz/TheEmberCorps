@@ -1,6 +1,6 @@
 ---
 title: "Minecraft Server"
-description: "Enter the Ember Corps Minecraft server: become a ninja, hunt monsters, explore the Wastes and build a home worth defending."
+description: "Server address, player pack, controls and setup for Ember Corps Minecraft."
 permalink: "/minecraft/"
 ---
 
@@ -9,7 +9,7 @@ permalink: "/minecraft/"
   <div class="mc-scanline" aria-hidden="true"></div>
   <div class="mc-hero-copy">
     <span class="mc-kicker">EMBER CORPS / MINECRAFT 1.12.2 / PLAYER PACK 1.2.3</span>
-    <h1>BUILD A HOME.<br><em>HUNT THE WASTES.</em></h1>
+    <h1>MINECRAFT SERVER</h1>
     <p>On the Ember Corps survival server, you play a ninja in the Wastes. Hunt with other players, explore, and build your shelters into Hunter outposts.</p>
     <div class="mc-actions">
       <a href="https://drive.google.com/file/d/1mdnghHDn47iJoIKp18BVfbeyOLO8U4qJ/view" target="_blank" rel="noopener">DOWNLOAD PLAYER PACK ↓</a>
@@ -20,23 +20,15 @@ permalink: "/minecraft/"
 </section>
 
 <div class="mc-join-panel">
-  <div class="mc-join-status"><i></i><span>EMBER CORPS SERVER</span><strong>JOIN THE WASTES</strong></div>
+  <div class="mc-join-status"><i></i><span>EMBER CORPS SERVER</span><strong>SERVER DETAILS</strong></div>
   <div class="mc-ip"><span>SERVER ADDRESS</span><code>216.201.79.143:25565</code><small>Minecraft Java 1.12.2</small></div>
   <a href="#download">GET THE PLAYER PACK ↓</a>
 </div>
 
-<div class="mc-strip"><div><strong>BECOME A NINJA</strong><span>Choose your path and grow stronger</span></div><div><strong>HUNT & EXPLORE</strong><span>The wilds are full of threats</span></div><div><strong>BUILD TOGETHER</strong><span>Create outposts worth returning to</span></div><div><strong>QUEST & DISCOVER</strong><span>Learn the pack as you play</span></div></div>
-
 ## Welcome to the Wastes
 {:#what-is-it}
 
-This is Ember Corps translated into Minecraft: a persistent world built around the fantasy of being a Hunter beyond the safety of Haven.
-
-You might spend one night tracking monsters through unfamiliar country, the next expanding a communal kitchen, and the next disappearing underground looking for something nobody else has found yet. Ninja abilities sit alongside dangerous creatures, strange ruins, farming, cooking, modular equipment, ritual magic, engineering and a much harsher wilderness than vanilla Minecraft.
-
-You do **not** need to know every mod before joining. The quest book introduces the important parts as you play.
-
-<div class="mc-callout"><strong>WHAT ARE WE TRYING TO DO?</strong><p>Explore the Wastes and leave your mark on them. Grow from a newly arrived ninja into an experienced Hunter, bring back rare discoveries, establish safe places beyond Haven and build a world that becomes richer because people actually lived in it.</p></div>
+The server runs a persistent world with ninja training, hunting, farming, cooking, engineering and ritual magic. The quest book introduces the mods as you play.
 
 ## Get the pack
 {:#download}
@@ -56,14 +48,14 @@ The pack is already configured for the server. You should not need to assemble t
 <div class="mc-steps">
   <article><span>01</span><h3>Choose Your Origin</h3><p>Your first major choice is what kind of ninja you are. Reveal your available Origins, read through them and choose the one that sounds the most fun to play.</p></article>
   <article><span>02</span><h3>Follow the Quest Book</h3><p>The quests are your tour through the pack. They introduce survival, ninja training, hunting, building, food, crafting and technology without expecting you to know everything immediately.</p></article>
-  <article><span>03</span><h3>Make Somewhere Safe</h3><p>Get a bed, food, light and somewhere to store what you find. The world outside is dangerous enough that having a place to return to genuinely matters.</p></article>
+  <article><span>03</span><h3>Make Somewhere Safe</h3><p>Get a bed, food, light and somewhere to store what you find.</p></article>
   <article><span>04</span><h3>Go Hunting</h3><p>Once you have supplies and a few tricks of your own, head out. Explore, fight, loot, find new terrain and bring something useful—or at least a good story—back with you.</p></article>
 </div>
 
 ## Controls
 {:#controls}
 
-Most of Minecraft works exactly as you expect. These are the extra controls worth knowing when you first join. If you ever lose a binding, press **F7** to print your current Ember Corps controls.
+Press **F7** to print your current Ember Corps controls.
 
 | Action | Default / How |
 | :--- | :--- |
@@ -99,15 +91,13 @@ The quest book is one of your most reliable early sources of Ninja XP and Traini
 
 <div class="mc-ninja-tips">
   <article><span>01</span><h3>Charge Before Trouble</h3><p>Top up your chakra before leaving shelter, entering a cave or committing to a dangerous fight.</p></article>
-  <article><span>02</span><h3>Mobility Keeps You Alive</h3><p>Dash to create distance, use vertical terrain and learn to move along walls instead of fighting everything from the ground. A ninja who can disengage gets another attempt.</p></article>
+  <article><span>02</span><h3>Mobility Keeps You Alive</h3><p>Dash to create distance, use vertical terrain and learn to move along walls instead of fighting everything from the ground.</p></article>
   <article><span>03</span><h3>Train Your Favourite Jutsu</h3><p>Jutsu improve individually. Put your Training Scrolls and practice into techniques you enjoy rather than expecting every ability to grow together.</p></article>
   <article><span>04</span><h3>Prepare Like a Hunter</h3><p>Ninja powers do not replace food, armour, storage or common sense. Carry supplies, know the route home and do not spend every resource before the real fight begins.</p></article>
 </div>
 
 ## Great powers of the ninja world
 {:#great-powers}
-
-The server starts you as a ninja. It does **not** expect you to stay ordinary.
 
 <div class="mc-power-grid">
   <article><div class="mc-power-glyph">眼</div><span>DŌJUTSU</span><h3>Eyes that change the fight</h3><p>Sharingan, Byakugan, Rinnegan and other rare eyes exist within the world. Dōjutsu can completely change what your character is capable of, and some of the rarest eye powers are prizes worth building an entire journey around.</p></article>
@@ -165,19 +155,17 @@ Outposts are the heart of the server. They are places made by players for player
 
 **Keep Inventory is enabled.** Dying will not erase hours of equipment progress, but it still leaves you vulnerable for a while.
 
-Bring food. Bring light. Bring enough inventory space. Know roughly how you are getting home. If you see something enormous in the distance, remember that turning around is also a ninja technique.
+Carry food and torches, leave room for loot and mark the route home.
 
 Loot beams help valuable drops stand out after fights, and backpacks let you stay away from home much longer than vanilla inventory would. As your outpost improves, preparing for expeditions becomes quicker and the places you can safely reach become farther away.
 
 ## Play together
 {:#multiplayer}
 
-The server includes **proximity voice chat**. Press **V** to set up your microphone and use **Caps Lock** to talk. Voices become quieter with distance, so stumbling across another Hunter in the wild feels very different from sitting together at an outpost.
-
-You are free to wander alone, but the world is deliberately more fun when players rely on one another. Share discoveries. Build places together. Rescue somebody who went too far from home. Organise hunts. Leave supplies at distant shelters. Create things future players will stumble across.
+The server includes **proximity voice chat**. Press **V** to set up your microphone and use **Caps Lock** to talk. Voices become quieter with distance.
 
 <div class="mc-final-cta">
-  <span>READY TO ENTER THE WASTES?</span>
-  <h2>Make a ninja. Pack your supplies.<br>See how far you get.</h2>
+
+  <h2>Player pack</h2>
   <a href="https://drive.google.com/file/d/1mdnghHDn47iJoIKp18BVfbeyOLO8U4qJ/view" target="_blank" rel="noopener">DOWNLOAD EMBER CORPS 1.2.3 ↗</a>
 </div>

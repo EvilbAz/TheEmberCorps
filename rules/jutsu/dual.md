@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/dual/"
 # Dual Bukijutsu
 {:#dual-bukijutsu}
 
-*Draw their guard with one weapon. Strike with the other.*
-
 ## E-Rank
 {:#e-rank-15 .jutsu-rank-heading}
 

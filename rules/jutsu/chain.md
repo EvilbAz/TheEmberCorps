@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/chain/"
 # Chain Weapon Bukijutsu
 {:#chain-weapon-bukijutsu}
 
-*Chain weapons catch limbs, drag enemies out of position and hold them at a distance.*
-
 ## Weapon Grapples
 {:#weapon-grapples}
 

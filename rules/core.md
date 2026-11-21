@@ -6,7 +6,7 @@ volume_slug: "core"
 permalink: "/rules/core/"
 ---
 
-*Character creation, attributes, skills, advancement, abilities, combat, wounds and downtime.*
+
 
 **The Fall of the Old World**
 

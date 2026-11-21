@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/fuuton/"
 # Fuuton: Wind Style
 {:#fuuton-wind-style}
 
-Fūton turns aside projectiles, clears the air, and pushes enemies out of position.
-
 Blocking reduces the damage of Wind techniques by only 25%.
 
 For a jutsu with the Fan tag, a hand holding a fan counts as free when you determine Seal Speed. You get your full Seal Speed whether you’re wielding 1 fan or 2.

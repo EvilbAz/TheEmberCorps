@@ -41,8 +41,8 @@ permalink: "/rules/standard-weapons/"
 .weapon-catalogue .hunt-patterns summary{cursor:pointer;color:var(--text);font-weight:700}
 .weapon-catalogue .weapon-card[id]{scroll-margin-top:90px}
 </style>
-<div class="weapon-catalogue"><p class="catalog-note"><a href="{{ '/rules/standard-armor/' | relative_url }}">Looking for protection? Browse the illustrated Pre-Made Armor Catalogue ↗</a></p>
-<p class="catalog-intro">Compare ready-made weapons by class, price, Speed and Range. Open a pattern for its full equipment entry.</p>
+<div class="weapon-catalogue"><p class="catalog-note"><a href="{{ '/rules/standard-armor/' | relative_url }}">Pre-Made Armor Catalogue ↗</a></p>
+
 <p class="catalog-note">Statistics below are quick references. The linked equipment entries contain complete traits, components and purchasing rules. Ammunition prices are for batches of ten.</p>
 <div class="catalog-jumps"><a href="#catalog-insect-glaive-corps">Insect Glaive Corps</a><a href="#catalog-vanguard-corps">Vanguard Corps</a><a href="#catalog-ballistic-corps">Ballistic Corps</a><a href="#catalog-small-weapons">Small Weapons</a><a href="#catalog-medium-weapons">Medium Weapons</a><a href="#catalog-large-weapons">Large Weapons</a><a href="#catalog-extreme-weapons">Extreme Weapons</a><a href="#catalog-matched-weapons">Matched Weapons</a><a href="#catalog-bows-2">Bows</a><a href="#catalog-crossbows-2">Crossbows</a><a href="#catalog-kunai-launchers-2">Kunai Launchers</a><a href="#catalog-shuriken-launchers-2">Shuriken Launchers</a><a href="#catalog-projectiles">Ready-Made Kunai & Shuriken</a><a href="#catalog-ammunition">Ready-Made Ammunition</a></div>
 <details class="hunt-patterns"><summary>Monster-hunting weapons (6)</summary><nav class="catalog-jumps" aria-label="Monster-hunting weapon patterns"><a href="#pattern-splitjaw-switch-axe">Splitjaw Switch Axe</a><a href="#pattern-basalt-breaker">Basalt Breaker</a><a href="#pattern-carapace-guardlance">Carapace Guardlance</a><a href="#pattern-jawbone-cleaver">Jawbone Cleaver</a><a href="#pattern-raptor-fangs">Raptor Fangs</a><a href="#pattern-ridgeback-heavy-bowgun">Ridgeback Heavy Bowgun</a></nav></details>

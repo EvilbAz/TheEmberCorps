@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/rules/"
 # Guide
 {:#guide}
 
-Learning requirements, technique tags, elemental interactions and shared Jutsu rules.
-
 # Jutsu Rules
 {:#jutsu-rules}
 

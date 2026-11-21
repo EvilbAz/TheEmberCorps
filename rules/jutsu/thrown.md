@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/thrown/"
 # Thrown Bukijutsu
 {:#thrown-bukijutsu}
 
-*Thrown weapons turn a handful of ninja tools into feints, traps and attacks from unexpected angles.*
-
 ## E-Rank
 {:#e-rank-17 .jutsu-rank-heading}
 

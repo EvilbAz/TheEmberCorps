@@ -165,10 +165,10 @@
           </nav>
         {% endif %}
         <div class="reading-layout {% if page.jutsu_index %}catalog-reading{% endif %}"><article class="prose rulebook-content" id="rule-content">{{ content }}</article><aside class="reading-rail"><div class="rail-label">ON THIS PAGE</div><nav id="rail-toc" aria-label="Contents on this page"></nav><a class="back-top" href="#">↑ BACK TO TOP</a></aside></div>
-        <div class="book-bottom"><span>END OF VOLUME {{ page.volume }}</span><a href="{{ '/' | relative_url }}">Return to the archive →</a></div>
+        <div class="book-bottom"><a href="{{ '/' | relative_url }}">Return to the archive →</a></div>
       </div>
       {% else %}{% if page.url == '/guide/' %}<div class="guide-page"><article class="guide-reading">{{ content }}</article></div>{% elsif page.url == '/minecraft/' %}<div class="minecraft-page">{{ content }}</div>{% else %}{{ content }}{% endif %}{% endif %}
-      <footer class="footer"><span>CREATIVE COMMONS · EMBER CORPS · UNOFFICIAL NARUTO & MONSTER HUNTER FAN PROJECT</span><span>THE WASTES DON'T READ THEMSELVES.</span></footer>
+      <footer class="footer"><span>CREATIVE COMMONS · EMBER CORPS · UNOFFICIAL NARUTO & MONSTER HUNTER FAN PROJECT</span></footer>
     </main>
   </div>
 </div>

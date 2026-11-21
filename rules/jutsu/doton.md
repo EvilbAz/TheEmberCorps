@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/doton/"
 # Doton: Earth Style
 {:#doton-earth-style}
 
-Doton raises walls, breaks structures, and uses Stun and rough ground to hold enemies in place.
-
 On a boat or anywhere else without earth, most Doton techniques have nothing to work with. Some already supply their own material, like jutsu that have you spit up mud. Without earth, any Doton jutsu you use costs \+5 base Chakra to create the earth yourself.
 
 ## E-Rank

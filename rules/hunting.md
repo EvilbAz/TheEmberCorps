@@ -97,7 +97,7 @@ permalink: "/rules/hunting/"
 
 <div class="reference-directory hunting-directory">
   <h1>Hunting</h1>
-  <p class="reference-lead">Track dangerous beasts, learn how they fight, prepare for the encounter, then bring them down—or bring them home alive.</p>
+
   <div class="hunt-badges">
     <span class="hunt-badge"><strong>01</strong> Up to 4 Hunters</span>
     <span class="hunt-badge"><strong>02</strong> No DT to Depart</span>

@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/bow/"
 # Bow Bukijutsu
 {:#bow-bukijutsu}
 
-*Pick a clear line to your quarry. A well-placed arrow can pin it long enough to line up the next shot.*
-
 ## E-Rank
 {:#e-rank-16 .jutsu-rank-heading}
 

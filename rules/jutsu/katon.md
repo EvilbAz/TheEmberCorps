@@ -13,8 +13,6 @@ permalink: "/rules/jutsu/katon/"
 # Katon: Fire Style
 {:#katon-fire-style}
 
-Katon burns targets and keeps pressure on them. Ignite sets up follow-up attacks, and several techniques spread fire across a group.
-
 Katon jutsu won’t work while you’re completely submerged. You can submerge in an area with 1k+ Gallons if it can hold that much water, like a lake.
 
 Exploding Dice  
