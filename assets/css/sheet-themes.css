@@ -1,0 +1,160 @@
+/* Character Profile swatches: canvas, text, alternate row, calculated cell,
+   editable cell, header, highlight and link. */
+:root[data-palette="shotai"] {
+  --bg: #080f0b;
+  --text: #c6d5cb;
+  --side: #112019;
+  --surface: #1a3020;
+  --line: #315b23;
+  --header: #0e2316;
+  --accent: #96ecae;
+  --accent2: #aef2b9;
+}
+:root[data-palette="nw"] {
+  --bg: #ffffff;
+  --text: #151515;
+  --side: #f3f3f3;
+  --surface: #b7b7b7;
+  --line: #999999;
+  --header: #d9e8ff;
+  --accent: #123f78;
+  --accent2: #123f78;
+}
+:root[data-palette="ember"] {
+  --bg: #100f11;
+  --text: #e5e0dc;
+  --side: #1c191b;
+  --surface: #282528;
+  --line: #663038;
+  --header: #771f2b;
+  --accent: #ffcbac;
+  --accent2: #ffe3d7;
+}
+:root[data-palette="abyss"] {
+  --bg: #091424;
+  --text: #cbdce9;
+  --side: #0f2033;
+  --surface: #172c40;
+  --line: #215675;
+  --header: #102c48;
+  --accent: #8ee0e9;
+  --accent2: #b5e7f0;
+}
+:root[data-palette="scroll"] {
+  --bg: #f8e8c1;
+  --text: #422917;
+  --side: #f2d9a5;
+  --surface: #edd29a;
+  --line: #d3a36b;
+  --header: #edb04d;
+  --accent: #823927;
+  --accent2: #4b2416;
+}
+:root[data-palette="sakura"] {
+  --bg: #fff0f4;
+  --text: #48182f;
+  --side: #ffdde8;
+  --surface: #f9c6d9;
+  --line: #ec9fc0;
+  --header: #f291af;
+  --accent: #a51b57;
+  --accent2: #66163e;
+}
+:root[data-palette="iron"] {
+  --bg: #16191b;
+  --text: #dfe4e6;
+  --side: #202427;
+  --surface: #292e31;
+  --line: #505b60;
+  --header: #413823;
+  --accent: #f5c967;
+  --accent2: #ffe294;
+}
+:root[data-palette] {
+  --surface2: color-mix(in srgb, var(--surface) 68%, var(--side));
+  --muted: color-mix(in srgb, var(--text) 83%, var(--side));
+  --dim: color-mix(in srgb, var(--text) 72%, var(--side));
+  --steel: var(--dim);
+  --deep-red: var(--header);
+  --ink: var(--bg);
+  color-scheme: dark;
+}
+:root[data-palette][data-appearance="light"] {color-scheme: light}
+.sheet-theme-control {
+  position: relative; display: inline-flex; align-items: center; flex-shrink: 0;
+  border: 1px solid var(--line); border-radius: 5px; background: var(--side);
+}
+.palette-swatch {
+  position: absolute; left: .55rem; width: .7rem; height: .7rem; pointer-events: none;
+  border-radius: 50%; background: linear-gradient(135deg,var(--accent) 50%,var(--line) 50%);
+}
+.sheet-theme-control select {
+  max-width:clamp(6.6rem,13vw,10rem); min-height: 36px; padding: 0 .2rem 0 1.55rem; color: var(--text);
+  border: 0; background: transparent; font: 600 13px system-ui; cursor: pointer;
+}
+.sheet-theme-control option {color: var(--text); background: var(--side)}
+.sheet-theme-control:focus-within {outline: 2px solid var(--accent); outline-offset: 2px}
+:root[data-palette] :is(.home-v2 .hero,.mc-hero,.guide-hero,.timeline-hero,.book-hero,.cinder-runs .hero) {
+  background: radial-gradient(ellipse at 85% 32%, color-mix(in srgb,var(--header) 76%,transparent),transparent 54%),linear-gradient(118deg,var(--side),var(--bg));
+  color: var(--text);
+}
+:root[data-palette] :is(.home-v2 .hero h1,.guide-hero h1,.mc-hero h1,.timeline-hero h1) {color:var(--text)}
+:root[data-palette] .home-v2 .hero h1 span {color:var(--accent);text-shadow:none}
+:root[data-palette] :is(.home-v2 .hero-content>p,.mc-hero-copy p,.hero-index a,.hero-kicker) {color:var(--muted)}
+:root[data-palette] :is(.home-v2 .hero-actions .primary-btn,.primary-btn,.guide-cta,.mc-actions a:not(.mc-ghost)) {
+  background:var(--accent);color:var(--bg);border-color:var(--accent);
+}
+:root[data-palette] :is(.sidebar,.topbar,.book-card,.lore-dossier) {border-color:var(--line)}
+:root[data-palette] .home-v2 .hero-sun {
+  background:radial-gradient(circle,var(--accent) 0 1%,transparent 2% 26%,var(--line) 26.5% 27%,transparent 28% 44%,var(--line) 44.5% 45%,transparent 46%);
+  filter:none;opacity:.7;
+}
+.home-v2 .hero-atmosphere::after {
+  content:"";position:absolute;inset:5% -6% auto auto;width:min(54vw,620px);aspect-ratio:1;border-radius:50%;
+  background:repeating-conic-gradient(from 0deg,var(--accent) 0deg .5deg,transparent .5deg 9deg);
+  mask-image:radial-gradient(circle,transparent 54%,black 54.5% 56%,transparent 56.5%);opacity:.35;
+}
+:root[data-palette] .home-v2 .hero-embers i {background:var(--accent);box-shadow:0 0 8px var(--accent)}
+:root[data-palette] .volume-link.selected {background:linear-gradient(90deg,var(--surface),transparent)}
+:root[data-palette] .cinder-runs {--panel:var(--surface);--ink:var(--text);--ember:var(--accent);--gold:var(--accent2)}
+:root[data-palette] .cinder-runs :is(.side,.chapter,button,thead,th) {background:var(--side);color:var(--text)}
+@media (prefers-reduced-motion:no-preference) {
+  .hero-atmosphere::after {animation:palette-orbit 64s linear infinite}
+  .book-hero,.guide-hero-copy,.mc-hero-copy,.lore-index {animation:palette-arrive .45s ease-out both}
+  .sheet-theme-control,.home-v2 .book-card,.lore-dossier {transition:border-color .2s,box-shadow .25s,transform .25s}
+  @media (hover:hover) {
+    .home-v2 .book-card:hover,.home-v2 .book-card:focus-visible,.lore-dossier:hover {
+      transform:translateY(-3px);border-color:var(--accent);box-shadow:inset 0 2px var(--accent),0 12px 28px color-mix(in srgb,var(--header) 24%,transparent);
+    }
+  }
+}
+@keyframes palette-orbit {to {transform:rotate(1turn)}}
+@keyframes palette-arrive {from {opacity:.5;transform:translateY(8px)} to {opacity:1;transform:none}}
+/* Cinder Runs has its own layout and does not load the rulebook stylesheet. */
+:root:has(.cinder-runs):not([data-palette]) {--text:var(--ink);--side:var(--panel);--accent:var(--ember)}
+:root[data-theme="light"]:has(.cinder-runs):not([data-palette]) {
+  color-scheme:light;--bg:#ebe7e2;--panel:#f7f2ec;--ink:#302729;--muted:#625557;--line:#b7a7a3;--ember:#ad3546;--gold:#326b7c
+}
+:root[data-theme="primal"]:has(.cinder-runs) {
+  --bg:#0c1510;--panel:#192b20;--ink:#e0f1d7;--muted:#b4cda9;--line:#3d6046;--ember:#a5eb69;--gold:#7dd8aa
+}
+:root[data-theme="abyss"]:has(.cinder-runs) {
+  --bg:#09131f;--panel:#14293a;--ink:#e2f5ff;--muted:#adcbdc;--line:#36586c;--ember:#72d4f5;--gold:#9db8ff
+}
+@media (max-width:500px) {
+  .cinder-runs .topbar>span {display:none}
+}
+@media (prefers-reduced-motion:no-preference) {
+  .home-v2 .book-grid:focus-within .book-card:focus-visible {outline:2px solid var(--accent);outline-offset:3px}
+  .home-v2 .book-card::after {
+    content:"";position:absolute;inset:0;pointer-events:none;
+    background:linear-gradient(110deg,transparent 36%,color-mix(in srgb,var(--accent) 12%,transparent) 49%,transparent 62%);
+    transform:translateX(-125%);opacity:0;
+  }
+  .home-v2 .book-card:is(:hover,:focus-visible)::after {animation:palette-glint .75s ease-out}
+}
+@keyframes palette-glint {
+  0% {transform:translateX(-125%);opacity:0}
+  35% {opacity:1}
+  100% {transform:translateX(125%);opacity:0}
+}

@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/ambient-player.css' | relative_url }}?v=20261103-cleanup">
   <link rel="stylesheet" href="{{ '/assets/css/minecraft.css' | relative_url }}?v=20260930-mc-v1">
   <link rel="stylesheet" href="{{ '/assets/css/timeline.css' | relative_url }}?v=20261012-history-1">
-  <script>try{document.documentElement.dataset.theme=['dark','light','primal','abyss'].includes(localStorage.getItem('ember-theme'))?localStorage.getItem('ember-theme'):'dark';document.documentElement.dataset.appearance=localStorage.getItem('ember-appearance')||(['light','dark'].includes(document.documentElement.dataset.theme)?document.documentElement.dataset.theme:'dark')}catch(e){}</script>
+  {% include sheet-theme-head.html %}
 </head>
 <body data-base="{{ site.baseurl }}" data-volume="{{ page.volume_slug | default: '' }}" data-talent-section="{{ page.talent_section | default: '' }}" data-jutsu-index="{{ page.jutsu_index | default: false }}">
 <a class="skip-link" href="#main">Skip to content</a>
@@ -150,7 +150,7 @@
     <div class="ambient-progress" aria-hidden="true"><span data-ambient-progress></span></div>
     <div class="ambient-help"><span data-ambient-count>1 / 13</span> · Shuffled rotation. Plays as you browse. Shift-click ♫ for controls.</div>
   </div>
-</div><button class="primal-toggle" id="primal-toggle" type="button" aria-label="Enable Primal theme" aria-pressed="false" title="Primal mode">❧ <span>PRIMAL</span></button><button class="abyss-toggle" id="abyss-toggle" type="button" aria-label="Enable Abyss theme" aria-pressed="false" title="Abyss mode">≋ <span>ABYSS</span></button><button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle light or dark theme">◐</button></div>
+</div>{% include sheet-theme-control.html %}</div>
     </header>
     <main id="main">
       {% if page.volume_slug %}
@@ -176,7 +176,7 @@
  <div class="search-backdrop" id="search-backdrop"></div>
  <div class="search-panel"><div class="search-input-row"><span class="search-icon">⌕</span><input id="search-input" type="search" placeholder="Jutsu, clans, wounds, downtime..." autocomplete="off" spellcheck="false" aria-label="Search the entire field archive"><button id="search-close" type="button" aria-label="Close search">ESC</button></div><div id="search-info" class="search-info">SEARCH THE FIELD ARCHIVE</div><div class="search-results" id="search-results" aria-live="polite"><div class="empty-search">Type a rule, jutsu or keyword to begin.</div></div><div class="search-footer"><span>↑ ↓ Navigate &nbsp; ↵ Open &nbsp; ESC Close</span></div></div>
 </div>
-<script src="{{ '/assets/js/site.js' | relative_url }}?v=20261111-finder" defer></script>
+<script src="{{ '/assets/js/site.js' | relative_url }}?v=20261121-themes" defer></script>
 <script src="{{ '/assets/js/jutsu-finder.js' | relative_url }}" defer></script>
 <script src="{{ '/assets/js/timeline.js' | relative_url }}?v=20261103-cleanup" defer></script>
   <script src="{{ '/assets/js/ambient-player.js' | relative_url }}?v=20261112-music" defer></script>

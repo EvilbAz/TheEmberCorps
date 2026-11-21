@@ -106,23 +106,6 @@
       else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
     }
   });
-  const theme = $('#theme-toggle'), primal = $('#primal-toggle'), abyss = $('#abyss-toggle');
-  let appearance = document.documentElement.dataset.appearance || 'dark';
-  function setTheme(next) {
-    if (next === 'dark' || next === 'light') appearance = next;
-    document.documentElement.dataset.theme = next; document.documentElement.dataset.appearance = appearance;
-    try { localStorage.setItem('ember-theme',next); localStorage.setItem('ember-appearance',appearance); } catch {}
-    for (const [el,name] of [[primal,'primal'],[abyss,'abyss']]) {
-      const active = next === name; el?.setAttribute('aria-pressed',String(active));
-      el?.setAttribute('aria-label',(active ? 'Disable ' : 'Enable ') + name + ' theme');
-    }
-    theme?.setAttribute('aria-label','Switch to ' + (appearance === 'dark' ? 'light' : 'dark') + ' appearance');
-  }
-  setTheme(document.documentElement.dataset.theme || 'dark');
-  theme?.addEventListener('click', () => { appearance = appearance === 'dark' ? 'light' : 'dark'; setTheme(['primal','abyss'].includes(document.documentElement.dataset.theme) ? document.documentElement.dataset.theme : appearance); });
-  primal?.addEventListener('click', () => setTheme(document.documentElement.dataset.theme === 'primal' ? appearance : 'primal'));
-  abyss?.addEventListener('click', () => setTheme(document.documentElement.dataset.theme === 'abyss' ? appearance : 'abyss'));
-
   const keywordTones = [
     ['gold', /^(Combo|Opener|Finisher|Chain|Link|Charge|Preparation|Raiton|Storm)\b/i],
     ['orange', /^(Attack|Melee|Projectile|Weapon|Blunt|Piercing|Slashing|Energy|Katon|Cinder|Ballistic)$/i],
