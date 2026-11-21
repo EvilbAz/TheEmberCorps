@@ -217,8 +217,6 @@
 }
 
 /* A stamped border around the active crest, and registration marks on each volume. */
-.crest-rim {opacity:.55}
-.crest-ticks {opacity:.8;transform-origin:center}
 :root[data-emblem] .book-hero {
   position:relative;isolation:isolate;padding:clamp(1.2rem,3vw,2.4rem);
   border:1px solid var(--line);border-inline-start:3px solid var(--accent);
@@ -237,7 +235,6 @@
 :root[data-emblem] .prose h2 {text-wrap:balance}
 @media (min-width:1050px) { .home-v2 .hero-content {max-width:65%} }
 @media (prefers-reduced-motion:no-preference) {
-  .crest-ticks {animation:palette-orbit 52s linear infinite}
   .corps-crest svg>g {transform-origin:center;animation:crest-stamp .42s cubic-bezier(.2,.85,.3,1) both}
   .book-hero::after {animation:registration-in .65s ease-out both}
   .jutsu-type-card,.catalog-jumps a,.history-nav a {transition:border-color .2s,box-shadow .2s,translate .2s}
