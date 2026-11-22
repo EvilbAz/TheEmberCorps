@@ -146,13 +146,17 @@
     const heads = [...rule.querySelectorAll('h1,h2,h3,h4')]; let count = 0;
     for (const h of heads) if (!h.id) h.id = 'rule-section-' + (++count);
     const primary = heads.filter(h => h.matches('h1,h2'));
+    const isUniques = volume === 'uniques';
+    const firstCategory = heads.findIndex(h => h.matches('h2'));
+    const uniqueSections = heads.filter((h, index) => h.matches('h1,h2') || (index > firstCategory && firstCategory >= 0 && h.matches('h3')));
     const ranks = heads.filter(h => /^[A-S]-Rank$/i.test(h.textContent.trim()));
     ranks.forEach(h => h.classList.add('jutsu-rank-heading'));
-    const render = (dest,items) => { if (dest) dest.innerHTML = items.map(h => '<a href="#' + encodeURIComponent(h.id) + '" class="depth-' + (h.tagName === 'H1' ? 1 : 2) + '">' + escape(h.textContent.trim()) + '</a>').join(''); };
+    const render = (dest,items) => { if (dest) dest.innerHTML = items.map(h => '<a href="#' + encodeURIComponent(h.id) + '" class="depth-' + (h.tagName === 'H1' ? 1 : isUniques && h.tagName === 'H3' ? 3 : 2) + '">' + escape(h.textContent.trim()) + '</a>').join(''); };
     if (!isJutsu && !isClans && !isTalents && !['core','uniques','equipment'].includes(volume)) render($('#toc'),primary);
     const rail = $('#rail-toc');
+    rail?.classList.toggle('uniques-toc', isUniques);
     if (isClans && $('#toc')) rail.innerHTML = $('#toc').innerHTML;
-    else render(rail, isJutsu ? heads.filter(h => h.matches('h1,h2,h3') && !h.classList.contains('jutsu-technique')) : primary);
+    else render(rail, isJutsu ? heads.filter(h => h.matches('h1,h2,h3') && !h.classList.contains('jutsu-technique')) : isUniques ? uniqueSections : primary);
     if (isJutsu && ranks.length) {
       const jumps = document.createElement('nav'); jumps.className = 'jutsu-rank-jumps'; jumps.setAttribute('aria-label','Jump to jutsu rank');
       jumps.innerHTML = '<span>JUMP TO RANK</span>' + ranks.map(h => '<a href="#' + encodeURIComponent(h.id) + '">' + escape(h.textContent.trim()) + '</a>').join('');
@@ -166,7 +170,7 @@
         const entry = items.filter(i => i.isIntersecting).sort((a,b) => a.boundingClientRect.top - b.boundingClientRect.top)[0]; if (!entry) return;
         $$('.clan-toc a,#rail-toc a,.jutsu-rank-jumps a').forEach(a => { const active = a.hash === '#' + encodeURIComponent(entry.target.id); a.classList.toggle('active',active); if (active) a.setAttribute('aria-current','location'); else a.removeAttribute('aria-current'); });
       },{rootMargin:'-95px 0px -65% 0px'});
-      (isClans ? heads.filter(h => h.matches('h1')) : primary).forEach(h => observer.observe(h));
+      (isClans ? heads.filter(h => h.matches('h1')) : isUniques ? uniqueSections : primary).forEach(h => observer.observe(h));
     }
   }
   document.addEventListener('ember:page',initPage);

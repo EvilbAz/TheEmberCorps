@@ -689,3 +689,12 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 .jf-scroll td { overflow-wrap:anywhere; }
 @media(max-width:650px) { .jf-controls { grid-template-columns:repeat(2,minmax(0,1fr)); } }
 .jf-scroll .jutsu-keyword,.jf-scroll .jutsu-rank-badge { padding:.05rem .32rem; font-size:.67rem; margin:0 .15rem .16rem 0; white-space:nowrap; }
+
+/* Individual uniques remain visible beneath their category in the reading rail. */
+#rail-toc.uniques-toc { gap: 0; }
+#rail-toc.uniques-toc a { display: block; padding: 5px 4px; overflow-wrap: anywhere; }
+#rail-toc.uniques-toc a.depth-2 { padding-left: 0; margin-top: 14px; font-weight: 700; color: var(--text); }
+#rail-toc.uniques-toc a.depth-3 { padding-left: 12px; border-left: 1px solid var(--line); }
+#rail-toc.uniques-toc a:hover, #rail-toc.uniques-toc a.active { color: var(--accent); }
+#rail-toc.uniques-toc a.depth-3.active { border-left-color: var(--accent); }
+body[data-volume="uniques"] .reading-rail { scrollbar-width: thin; overscroll-behavior-y: contain; }
