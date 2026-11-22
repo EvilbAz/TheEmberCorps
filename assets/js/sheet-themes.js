@@ -25,7 +25,39 @@
     const bg = getComputedStyle(root).getPropertyValue('--bg').trim();
     if (bg) document.querySelector('meta[name="theme-color"]')?.setAttribute('content', bg);
   }
+  // The veil carries the outgoing canvas colour into the new palette.
+  // It lives outside page content and never takes focus or pointer input.
+  const motion = window.matchMedia?.('(prefers-reduced-motion: reduce)');
+  let veil;
+  function clearTransition() {
+    veil?.remove();
+    veil = undefined;
+    root.classList.remove('changing-theme');
+  }
+  function transitionTo(theme, mode) {
+    clearTransition();
+    const outgoing = getComputedStyle(root).getPropertyValue('--bg').trim();
+    if (!motion?.matches) root.classList.add('changing-theme');
+    apply(theme, mode);
+    if (motion?.matches) return;
+    const layer = document.createElement('div');
+    layer.className = 'theme-change';
+    layer.dataset.into = selected;
+    layer.setAttribute('aria-hidden', 'true');
+    layer.style.setProperty('--outgoing', outgoing);
+    document.body.append(layer);
+    veil = layer;
+    const finish = event => {
+      if (veil === layer && !event.pseudoElement && event.animationName === 'theme-clear') clearTransition();
+    };
+    layer.addEventListener('animationend', finish);
+    layer.addEventListener('animationcancel', finish);
+  }
+  motion?.addEventListener('change', clearTransition);
+  document.addEventListener('ember:before-page', clearTransition);
+  window.addEventListener('pagehide', clearTransition);
   function restore() {
+    clearTransition();
     let theme, appearance;
     try {
       theme = localStorage.getItem('ember-theme');
@@ -41,7 +73,7 @@
     picker.addEventListener('change', () => {
       const value = picker.value;
       const [theme, mode] = value.split('-');
-      apply(theme, mode);
+      transitionTo(theme, mode);
       try {
         localStorage.setItem('ember-theme', theme);
         localStorage.setItem('ember-appearance', root.dataset.appearance);
