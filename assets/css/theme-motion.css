@@ -1,92 +1,19 @@
-/* Only a deliberate selection plays a transition. Page loads keep the saved palette. */
 .theme-change {
   position:fixed; inset:0; z-index:9999; pointer-events:none; overflow:hidden;
-  contain:strict; color:var(--accent); --duration:760ms;
-  background:color-mix(in srgb,var(--outgoing) 22%,transparent);
-  animation:theme-clear var(--duration) linear both;
+  contain:strict; color:var(--accent);
+  animation:theme-clear 1150ms linear both;
 }
-.theme-change::before,.theme-change::after {
-  content:""; position:absolute; inset:0; pointer-events:none;
-  animation-duration:var(--duration); animation-fill-mode:both;
-  animation-timing-function:cubic-bezier(.22,.64,.25,1);
-}
+.theme-change svg {display:block;width:100%;height:100%;overflow:hidden}
+.theme-change svg g {transform-origin:0 0}
 .changing-theme :where(body,.sidebar,.topbar,.book-hero,.search-panel,.book-card,.volume-link,.sheet-theme-control) {
   transition:background-color .38s ease,color .28s ease,border-color .32s ease;
 }
-@keyframes theme-clear {0%,63% {opacity:1} 100% {opacity:0}}
-
-/* Dark: an eclipse closes around the page. Light: dawn travels up the horizon. */
-[data-into="dark"]::before {
-  background:radial-gradient(ellipse at center,transparent 38%,#12151cbb 63%,transparent 75%);
-  animation-name:eclipse-in;
+@keyframes theme-clear {
+  0% {opacity:1;background-color:color-mix(in srgb,var(--outgoing) 16%,transparent)}
+  36% {background-color:transparent}
+  72% {opacity:1}
+  100% {opacity:0;background-color:transparent}
 }
-@keyframes eclipse-in {from {transform:scale(2)} to {transform:scale(.7)}}
-[data-into="light"]::before {
-  background:linear-gradient(0deg,transparent 24%,#edc68685 45%,#fff6dcb0 49%,transparent 64%);
-  animation-name:dawn-rise;
-}
-@keyframes dawn-rise {from {transform:translateY(65%)} to {transform:translateY(-64%)}}
-
-/* A beast's rake and sunlight filtering through a canopy. */
-[data-into="primal-dark"]::before {
-  inset:-15%;background:linear-gradient(118deg,transparent 39%,#9ee77a99 39.2% 40%,transparent 40.3% 43%,#90d47588 43.2% 44.4%,transparent 44.7% 47%,#b3ef8c88 47.2% 48%,transparent 48.3%);
-  animation-name:claw-rake;
-}
-@keyframes claw-rake {from {clip-path:inset(0 0 100% 0);transform:translateX(5%)} to {clip-path:inset(0);transform:translateX(-6%)}}
-[data-into="primal-light"]::before {
-  background:repeating-conic-gradient(from 50deg at 8% -18%,transparent 0deg 9deg,#bddb8870 10deg 14deg,transparent 15deg 25deg);
-  transform-origin:8% 0;animation-name:canopy-sway;
-}
-@keyframes canopy-sway {from {transform:rotate(-8deg) scale(1.3);opacity:0} 35% {opacity:1} to {transform:rotate(6deg) scale(1.3)}}
-
-/* Deep pressure rings and a shallow, cresting tide. */
-[data-into="abyss-dark"]::before {
-  inset:-35%;background:repeating-radial-gradient(ellipse at 50% 70%,transparent 0 8%,#6fbfdf66 8.25% 8.6%,transparent 9% 15%);
-  animation-name:depth-pulse;transform-origin:50% 70%;
-}
-@keyframes depth-pulse {from {transform:scale(.45);opacity:0} 22% {opacity:1} to {transform:scale(1.2)}}
-[data-into="abyss-light"]::before {
-  inset:15% -30% -80%;border-radius:47% 53% 0 0;background:linear-gradient(#8fd3ddaa,#3989ab44 15%,transparent 56%);
-  animation-name:tide-lift;
-}
-@keyframes tide-lift {from {transform:translateY(60%) rotate(-7deg)} to {transform:translateY(-55%) rotate(6deg)}}
-
-/* A seal matrix scans in columns. NW sweeps a survey bearing from the corner. */
-[data-into="code"]::before {
-  background:repeating-linear-gradient(90deg,transparent 0 17px,#9af0af65 18px 19px),repeating-linear-gradient(0deg,transparent 0 11px,#9af0af55 12px 13px);
-  mask-image:linear-gradient(0deg,transparent 31%,black 48%,transparent 52%);animation-name:cipher-scan;
-}
-@keyframes cipher-scan {from {transform:translateY(-52%)} to {transform:translateY(52%)}}
-[data-into="nw"]::before {
-  inset:-150%;background:conic-gradient(from 0deg,transparent 0deg 312deg,#769ed44d 351deg,#285e9c99 359deg,transparent 360deg);
-  transform-origin:center;animation-name:compass-bearing;
-}
-@keyframes compass-bearing {from {transform:rotate(-165deg)} to {transform:rotate(115deg)}}
-
-/* Sparks drift up. A parchment roll casts a narrow moving fold. */
-[data-into="ember"]::before {
-  inset:-20%;background-image:radial-gradient(ellipse 2px 5px at 28% 71%,#ffb66e 80%,transparent),radial-gradient(ellipse 1.5px 3px at 79% 32%,#ffd1a2 75%,transparent),radial-gradient(ellipse 3px 7px at 51% 91%,#d6553d 70%,transparent);
-  background-size:97px 137px,163px 91px,283px 167px;animation-name:sparks-rise;
-}
-@keyframes sparks-rise {from {transform:translate(-2%,13%);opacity:0} 22% {opacity:.85} to {transform:translate(3%,-13%)}}
-[data-into="scroll"]::before {
-  background:linear-gradient(90deg,transparent 33%,#b8834059 45%,#fff0c4bb 49%,#79452377 50%,transparent 54%);animation-name:paper-unroll;
-}
-@keyframes paper-unroll {from {transform:translateX(-55%)} to {transform:translateX(65%)}}
-
-/* Petals tumble across the page. Iron plates slide apart along a bevel. */
-[data-into="sakura"]::before {
-  inset:-25%;background-image:radial-gradient(ellipse 5px 10px at 35% 40%,#cf5485a6 70%,transparent 80%),radial-gradient(ellipse 8px 4px at 71% 88%,#eb93afb3 70%,transparent 80%);
-  background-size:125px 164px,193px 119px;animation-name:petal-drift;
-}
-@keyframes petal-drift {from {transform:translate(-5%,-12%) rotate(-13deg);opacity:0} 30% {opacity:1} to {transform:translate(6%,11%) rotate(3deg)}}
-[data-into="iron"]::before,[data-into="iron"]::after {
-  background:repeating-linear-gradient(0deg,#75808733 0 1px,transparent 2px 4px),linear-gradient(110deg,#27303880,#b8c0bb55 49.5%,#e4bd6699 50%,#30383e66 50.5%);
-}
-[data-into="iron"]::before {clip-path:polygon(0 0,67% 0,33% 100%,0 100%);animation-name:plate-left}
-[data-into="iron"]::after {clip-path:polygon(67% 0,100% 0,100% 100%,33% 100%);animation-name:plate-right}
-@keyframes plate-left {to {transform:translateX(-70%)}}
-@keyframes plate-right {to {transform:translateX(70%)}}
 @media (prefers-reduced-motion:reduce) {
   .theme-change {display:none}
   .changing-theme :where(body,.sidebar,.topbar,.book-hero,.search-panel,.book-card,.volume-link,.sheet-theme-control) {transition:none}

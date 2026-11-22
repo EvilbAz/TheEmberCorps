@@ -47,6 +47,7 @@
     layer.style.setProperty('--outgoing', outgoing);
     document.body.append(layer);
     veil = layer;
+    window.drawThemeScene?.(layer, selected);
     const finish = event => {
       if (veil === layer && !event.pseudoElement && event.animationName === 'theme-clear') clearTransition();
     };
