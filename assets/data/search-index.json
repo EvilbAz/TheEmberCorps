@@ -1666,6 +1666,41 @@
     "text": "Qualifying Weapon: Medium or Large One-Handed Sword. The Charge Blade folds a guarding sword-frame into a two-handed axe head. The first form stores force; the second spends it. A Charge Blade begins in Sword Mode. Its shield and morph fittings have no Artisan Point cost and only function for a Vanguard using this Discipline. ● Sword Mode — While in Sword Mode, the weapon is treated as One-Handed, cannot receive the Two-Handed PDB bonus, and you gain Vanguard Guard. Once per Attack when you hit, gain Phial 1, maximum Phial 5. ● [Speed 2, Utility] Morph — Change between Sword Mode and Axe Mode. In Axe Mode, you lose Vanguard Guard from this Discipline and the weapon is treated as Two-Handed, gaining the normal Two-Handed PDB bonus if it was not already receiving it. This bonus cannot stack with another instance of Two-Handed. ● Phial Discharge — When declaring an Axe Mode Attack, you may spend up to 3 Phials. Add 1d8 Energy damage per Phial spent. This added damage is part of the same Attack and cannot independently inflict a Wound. ● Guard Point — Immediately after you successfully Block in Sword Mode, you may Morph into Axe Mode at Speed 0 after the Block fully resolves."
   },
   {
+    "title": "Hunting Chain — Haul Line",
+    "volume": "Clans & Lineages",
+    "number": "III",
+    "url": "/rules/clans/#hunting-chain-haul-line",
+    "text": "Qualifying Weapon: Any Chain. A chain hunter pays out line to reach a quarry, then follows the weight back in. ● Follow the Weight — Once per Action, after your Chain scores a full hit with a Basic Weapon Attack using its +5 Range option, you may spend 3 Stamina to move up to 2 yards directly toward the target. Resolve the hit first. ● Shorten the Line — While maintaining a Weapon Grapple with your Chain, you may spend 4 Stamina after winning a Grapple Roll against the held target to move yourself up to 2 yards toward it. Use this once per Action. The target stays in place. Both movements require a clear path and use your normal movement restrictions."
+  },
+  {
+    "title": "War Fan — Turning Wind",
+    "volume": "Clans & Lineages",
+    "number": "III",
+    "url": "/rules/clans/#war-fan-turning-wind",
+    "text": "Qualifying Weapon: Any Fan. The open ribs turn a blow aside. The closing stroke gives the hunter room to change footing. ● Turn the Fan — After you successfully Parry with your Fan, your next Basic Melee Weapon Attack with it against that attacker gains +2 Accuracy if made by the end of your next Action. Multiple Parries do not increase this bonus. ● Follow the Gust — Once per Action, when your Fan Bukijutsu moves a target with Knockback, you may spend 3 Stamina to move up to 2 yards toward the space it vacated. Move after the Knockback resolves, along a clear path, only if you can move normally."
+  },
+  {
+    "title": "Guard Baton — Cross Guard",
+    "volume": "Clans & Lineages",
+    "number": "III",
+    "url": "/rules/clans/#guard-baton-cross-guard",
+    "text": "Qualifying Weapon: Any Small or Medium Club, any Club wielded One-Handed, or a matched pair of One-Handed Clubs. A matched pair counts as one Vanguard Arm and uses one club’s statistics for these effects. Tonfa hunters meet a strike across the forearm, then turn the short end of the weapon into the opening. ● Cross Guard — You gain Vanguard Guard. When you declare it against a Melee Attack, you may spend 4 Stamina to increase its Damage Reduction from 25% to 35% for that Block. ● Return Stroke — After you successfully Parry a Melee Attack with your Club, your next Basic Melee Weapon Attack with it against that attacker gains +1 Damage Die if made by the end of your next Action. Multiple Parries do not increase this bonus."
+  },
+  {
+    "title": "Mantle Shield — Field Shelter",
+    "volume": "Clans & Lineages",
+    "number": "III",
+    "url": "/rules/clans/#mantle-shield-field-shelter",
+    "text": "Qualifying Weapon: A shield or umbrella built as a Club with Weapon Block (including the Guard Shield and Rain Umbrella). Escort hunters keep the rim close enough to shelter the person beside them. ● Shared Cover — When a single-target Attack targets a willing ally within 1 yard of you, you may declare your arm’s Weapon Block on their behalf before they declare a defense. Use the Block’s normal Interrupt timing. Pay its normal Speed and costs plus 4 Stamina. Apply its printed Damage Reduction to the ally. The ally uses this as their defense against that Attack. You must be able to Block the Attack yourself. ● Hold Fast — When you use this arm’s Weapon Block for yourself or an ally, you may spend 3 Stamina to reduce forced movement caused by that Attack to the protected creature by 2 yards, minimum 0. Apply this once after determining the distance."
+  },
+  {
+    "title": "Trail Pike — Measure the Ground",
+    "volume": "Clans & Lineages",
+    "number": "III",
+    "url": "/rules/clans/#trail-pike-measure-the-ground",
+    "text": "Qualifying Weapon: Any Polearm. Pike hunters keep the quarry on the point, giving ground when it gets inside the haft. ● Set the Point — When declaring a Basic Melee Weapon Attack with your Polearm against a target inside your Reach and outside its natural Melee Reach, you may add 3 Stamina for +1 Accuracy. ● Give Ground — After you successfully Parry a Melee Attack with your Polearm, you may spend 4 Stamina to move up to 2 yards directly away from the attacker. Resolve the defense first. You need a clear path and must be able to move normally."
+  },
+  {
     "title": "Abilities",
     "volume": "Clans & Lineages",
     "number": "III",
@@ -18491,7 +18526,7 @@
     "volume": "Pre-Made Weapons",
     "number": "VI",
     "url": "/rules/standard-weapons/#catalog-vanguard-corps",
-    "text": "Vanguard Corps 10 TYPES Great Sword True Charge CORPS RULES ↗ Long Sword Spirit Edge CORPS RULES ↗ Sword & Shield Hunter&x27;s Guard CORPS RULES ↗ Dual Blades Demon Mode CORPS RULES ↗ Hammer Impact Charge CORPS RULES ↗ Hunting Horn Echo Recital CORPS RULES ↗ Lance Iron Counter CORPS RULES ↗ Gunlance Sealed Shelling CORPS RULES ↗ Switch Axe Morph Gauge CORPS RULES ↗ Charge Blade Phial Engine CORPS RULES ↗"
+    "text": "Vanguard Corps 15 TYPES Great Sword True Charge CORPS RULES ↗ Long Sword Spirit Edge CORPS RULES ↗ Sword & Shield Hunter&x27;s Guard CORPS RULES ↗ Dual Blades Demon Mode CORPS RULES ↗ Hammer Impact Charge CORPS RULES ↗ Hunting Horn Echo Recital CORPS RULES ↗ Lance Iron Counter CORPS RULES ↗ Gunlance Sealed Shelling CORPS RULES ↗ Switch Axe Morph Gauge CORPS RULES ↗ Charge Blade Phial Engine CORPS RULES ↗ Hunting Chain Haul Line CORPS RULES ↗ War Fan Turning Wind CORPS RULES ↗ Guard Baton Cross Guard CORPS RULES ↗ Mantle Shield Field Shelter CORPS RULES ↗ Trail Pike Measure the Ground CORPS RULES ↗"
   },
   {
     "title": "Insect Glaive Corps",

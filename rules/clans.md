@@ -2228,6 +2228,71 @@ A Charge Blade begins in Sword Mode. Its shield and morph fittings have no Artis
 
 ● Guard Point — Immediately after you successfully Block in Sword Mode, you may Morph into Axe Mode at Speed 0 after the Block fully resolves.
 
+### Hunting Chain — Haul Line
+{:#hunting-chain-haul-line}
+
+<img src="{{ '/assets/img/corps-arms/hunting-chain-haul-line.svg' | relative_url }}" alt="Hand Chain" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
+**Qualifying Weapon:** Any Chain.
+
+A chain hunter pays out line to reach a quarry, then follows the weight back in.
+
+● Follow the Weight — Once per Action, after your Chain scores a full hit with a Basic Weapon Attack using its +5 Range option, you may spend 3 Stamina to move up to 2 yards directly toward the target. Resolve the hit first.
+
+● Shorten the Line — While maintaining a [Weapon Grapple]({{ '/rules/jutsu/chain/' | relative_url }}#weapon-grapples) with your Chain, you may spend 4 Stamina after winning a Grapple Roll against the held target to move yourself up to 2 yards toward it. Use this once per Action. The target stays in place. Both movements require a clear path and use your normal movement restrictions.
+
+### War Fan — Turning Wind
+{:#war-fan-turning-wind}
+
+<img src="{{ '/assets/img/corps-arms/war-fan-turning-wind.svg' | relative_url }}" alt="War Fan" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
+**Qualifying Weapon:** Any Fan.
+
+The open ribs turn a blow aside. The closing stroke gives the hunter room to change footing.
+
+● Turn the Fan — After you successfully Parry with your Fan, your next Basic Melee Weapon Attack with it against that attacker gains +2 Accuracy if made by the end of your next Action. Multiple Parries do not increase this bonus.
+
+● Follow the Gust — Once per Action, when your Fan Bukijutsu moves a target with Knockback, you may spend 3 Stamina to move up to 2 yards toward the space it vacated. Move after the Knockback resolves, along a clear path, only if you can move normally.
+
+### Guard Baton — Cross Guard
+{:#guard-baton-cross-guard}
+
+<img src="{{ '/assets/img/corps-arms/guard-baton-cross-guard.svg' | relative_url }}" alt="Tonfa / Buckler" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
+**Qualifying Weapon:** Any Small or Medium Club, any Club wielded One-Handed, or a matched pair of One-Handed Clubs. A matched pair counts as one Vanguard Arm and uses one club’s statistics for these effects.
+
+Tonfa hunters meet a strike across the forearm, then turn the short end of the weapon into the opening.
+
+● Cross Guard — You gain Vanguard Guard. When you declare it against a Melee Attack, you may spend 4 Stamina to increase its Damage Reduction from 25% to 35% for that Block.
+
+● Return Stroke — After you successfully Parry a Melee Attack with your Club, your next Basic Melee Weapon Attack with it against that attacker gains +1 Damage Die if made by the end of your next Action. Multiple Parries do not increase this bonus.
+
+### Mantle Shield — Field Shelter
+{:#mantle-shield-field-shelter}
+
+<img src="{{ '/assets/img/corps-arms/mantle-shield-field-shelter.svg' | relative_url }}" alt="Rain Umbrella (Ame-gasa)" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
+**Qualifying Weapon:** A shield or umbrella built as a Club with Weapon Block (including the Guard Shield and Rain Umbrella).
+
+Escort hunters keep the rim close enough to shelter the person beside them.
+
+● Shared Cover — When a single-target Attack targets a willing ally within 1 yard of you, you may declare your arm’s Weapon Block on their behalf before they declare a defense. Use the Block’s normal Interrupt timing. Pay its normal Speed and costs plus 4 Stamina. Apply its printed Damage Reduction to the ally. The ally uses this as their defense against that Attack. You must be able to Block the Attack yourself.
+
+● Hold Fast — When you use this arm’s Weapon Block for yourself or an ally, you may spend 3 Stamina to reduce forced movement caused by that Attack to the protected creature by 2 yards, minimum 0. Apply this once after determining the distance.
+
+### Trail Pike — Measure the Ground
+{:#trail-pike-measure-the-ground}
+
+<img src="{{ '/assets/img/corps-arms/trail-pike-measure-the-ground.svg' | relative_url }}" alt="Spear" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+
+**Qualifying Weapon:** Any Polearm.
+
+Pike hunters keep the quarry on the point, giving ground when it gets inside the haft.
+
+● Set the Point — When declaring a Basic Melee Weapon Attack with your Polearm against a target inside your Reach and outside its natural Melee Reach, you may add 3 Stamina for +1 Accuracy.
+
+● Give Ground — After you successfully Parry a Melee Attack with your Polearm, you may spend 4 Stamina to move up to 2 yards directly away from the attacker. Resolve the defense first. You need a clear path and must be able to move normally.
+
 ##
 
 ## Abilities
