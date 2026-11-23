@@ -2276,7 +2276,7 @@ Armor can further mitigate damage, usually by reducing the severity of Wounds th
 ### Willpower
 {:#willpower-2}
 
-Hunters are capable of incredible feats, and some are truly exceptional, performing astonishing deeds in the face of adversity. While you can be as determined (or not) as you please, Willpower represents your ability to use that determination to push yourself above and beyond your limits.
+**Natural 20s in combat.** When you roll a natural 20 on any d20 roll you make in combat, gain 1 temporary Willpower. This includes attack rolls, defenses such as Dodge and Parry, skill checks such as Resistance, and Stamina or Chakra Exhaustion rolls. You can hold only 1 temporary Willpower from natural 20s at a time. Once you spend it, another natural 20 can grant it again.
 
 You can spend Willpower any time you attack, or make a d20 roll, after you've seen the action's normal results. When you spend a point of Willpower, reroll whichever roll it was used on (or, in the case of an attack, make an Accuracy Roll). Willpower may not, however, be used to reroll Stamina or Chakra Exhaustion rolls.
 
@@ -2840,7 +2840,7 @@ Recover one Fatigue category per OOC hour unless an effect specifies a slower ra
 ### Willpower
 {:#willpower-3}
 
-You begin every scene with your full amount of Willpower. With the exception of some rare effects, you can't get Willpower back while in the middle of a scene.
+You begin every scene with your full amount of Willpower. During a scene, you recover spent Willpower only when an effect allows it. You can also gain [temporary Willpower from a natural 20 in combat](#willpower-2).
 
 ### Wounds
 {:#wounds-2}
