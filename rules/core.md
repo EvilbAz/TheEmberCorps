@@ -2276,7 +2276,7 @@ Armor can further mitigate damage, usually by reducing the severity of Wounds th
 ### Willpower
 {:#willpower-2}
 
-**Natural 20s in combat.** When you roll a natural 20 on any d20 roll you make in combat, gain 1 temporary Willpower. This includes attack rolls, defenses such as Dodge and Parry, skill checks such as Resistance, and Stamina or Chakra Exhaustion rolls. You can hold only 1 temporary Willpower from natural 20s at a time. Once you spend it, another natural 20 can grant it again.
+**Natural 20s in combat.** When you roll a natural 20 on any d20 roll you make in combat, gain 1 temporary Willpower. This includes attack rolls, defenses such as Dodge and Parry, skill checks such as Resistance, and Stamina or Chakra Exhaustion rolls. You can hold only 1 temporary Willpower from natural 20s at a time. Each scene, you can earn a total of 1 temporary Willpower this way per full 1,000 XP you have. Spending a point lets you earn another if you are still below your scene limit.
 
 You can spend Willpower any time you attack, or make a d20 roll, after you've seen the action's normal results. When you spend a point of Willpower, reroll whichever roll it was used on (or, in the case of an attack, make an Accuracy Roll). Willpower may not, however, be used to reroll Stamina or Chakra Exhaustion rolls.
 
