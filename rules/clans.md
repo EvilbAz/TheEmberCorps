@@ -2231,7 +2231,7 @@ A Charge Blade begins in Sword Mode. Its shield and morph fittings have no Artis
 ### Hunting Chain — Haul Line
 {:#hunting-chain-haul-line}
 
-<img src="{{ '/assets/img/corps-arms/hunting-chain-haul-line.svg' | relative_url }}" alt="Hand Chain" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+<img src="{{ '/assets/img/corps-arms/hunting-chain-haul-line.webp' | relative_url }}" alt="A hooked fang and hide-wrapped grip joined by heavy iron links" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
 
 **Qualifying Weapon:** Any Chain.
 
@@ -2244,7 +2244,7 @@ A chain hunter pays out line to reach a quarry, then follows the weight back in.
 ### War Fan — Turning Wind
 {:#war-fan-turning-wind}
 
-<img src="{{ '/assets/img/corps-arms/war-fan-turning-wind.svg' | relative_url }}" alt="War Fan" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+<img src="{{ '/assets/img/corps-arms/war-fan-turning-wind.webp' | relative_url }}" alt="A crimson membrane fan spread over hooked bone ribs" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
 
 **Qualifying Weapon:** Any Fan.
 
@@ -2257,7 +2257,7 @@ The open ribs turn a blow aside. The closing stroke gives the hunter room to cha
 ### Guard Baton — Cross Guard
 {:#guard-baton-cross-guard}
 
-<img src="{{ '/assets/img/corps-arms/guard-baton-cross-guard.svg' | relative_url }}" alt="Tonfa / Buckler" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+<img src="{{ '/assets/img/corps-arms/guard-baton-cross-guard.webp' | relative_url }}" alt="Paired jawbone tonfa with leather-wrapped side grips" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
 
 **Qualifying Weapon:** Any Small or Medium Club, any Club wielded One-Handed, or a matched pair of One-Handed Clubs. A matched pair counts as one Vanguard Arm and uses one club’s statistics for these effects.
 
@@ -2270,7 +2270,7 @@ Tonfa hunters meet a strike across the forearm, then turn the short end of the w
 ### Mantle Shield — Field Shelter
 {:#mantle-shield-field-shelter}
 
-<img src="{{ '/assets/img/corps-arms/mantle-shield-field-shelter.svg' | relative_url }}" alt="Rain Umbrella (Ame-gasa)" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+<img src="{{ '/assets/img/corps-arms/mantle-shield-field-shelter.webp' | relative_url }}" alt="A horn-rimmed shell shield with ochre markings" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
 
 **Qualifying Weapon:** A shield or umbrella built as a Club with Weapon Block (including the Guard Shield and Rain Umbrella).
 
@@ -2283,7 +2283,7 @@ Escort hunters keep the rim close enough to shelter the person beside them.
 ### Trail Pike — Measure the Ground
 {:#trail-pike-measure-the-ground}
 
-<img src="{{ '/assets/img/corps-arms/trail-pike-measure-the-ground.svg' | relative_url }}" alt="Spear" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
+<img src="{{ '/assets/img/corps-arms/trail-pike-measure-the-ground.webp' | relative_url }}" alt="A red-bound pike tipped with a barbed tusk" width="240" height="150" loading="lazy" style="display:block;max-width:100%;height:auto;background:#293239;border-radius:4px;border-left:3px solid #db9b72">
 
 **Qualifying Weapon:** Any Polearm.
 
