@@ -8,7 +8,7 @@ permalink: "/guide/"
 
 <div class="guide-hero" id="welcome"><div class="guide-hero-copy"><h1>NEW PLAYER GUIDE</h1><div class="guide-hero-actions"><a class="guide-cta" href="#five-minute-version">START READING ↘</a><a class="guide-ghost" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">JOIN THE DISCORD ↗</a></div></div><div class="guide-hero-emblem ec-logo" aria-hidden="true"><span class="ec-monster"></span><span class="ec-letters"></span></div></div>
 
-<nav class="guide-quicknav" aria-label="Guide chapters"><a href="#five-minute-version">Make a Hunter</a><a href="#ic-and-ooc">Join a scene</a><a href="#skills">Roll a check</a><a href="#speed">Play your first fight</a><a href="#downtime">Between hunts</a></nav>
+<nav class="guide-quicknav" aria-label="Guide chapters"><a href="#five-minute-version">Make a Hunter</a><a href="#basic-training-first">Choose skills</a><a href="#ic-and-ooc">Join a scene</a><a href="#skills">Roll a check</a><a href="#speed">Play your first fight</a><a href="#downtime">Between hunts</a></nav>
 
 ## Make your first Hunter
 {:#five-minute-version}
@@ -22,8 +22,54 @@ Start with something you’d like to do in a scene. “I track the beast and tri
 
 1. **Choose your heritage.** You have 6 Unique Points (UP). In Standard Mode, pick a Primary Heritage and pay its listed UP cost. In Realistic Mode, spend 1 UP to roll your heritage. That mode grants bonus XP and charges Base XP for rerolls. Choose any Creation Uniques you want now. You can save leftover UP. [Heritage costs]({{ '/rules/clans/#heritage-cost-index' | relative_url }}) · [Creation modes]({{ '/rules/core/#character-creation-modes' | relative_url }}) · [Uniques]({{ '/rules/uniques/' | relative_url }})
 2. **Set your attributes.** Strength (STR), Resilience (RES), Chakra (CHA), Dexterity (DEX) and Agility (AGI) start at 20 each. Distribute another 25 points, adding at most 10 to any one attribute. For the tracker above, DEX helps the sweep connect and AGI helps them act early and Dodge.
-3. **Assign your skills.** At the usual starting 500 Base XP, you have 25 Skill Points. One point buys one rank in any of the 14 skills, up to your rank limit. Bonus XP doesn’t grant more Skill Points. [Skills and limits]({{ '/rules/core/#skills' | relative_url }})
+3. **Assign your skills.** At the usual starting 500 Base XP, you have 25 Skill Points. One point buys one rank in any of the 14 skills, up to your rank limit. Bonus XP doesn’t grant more Skill Points. Start with the [Basic Training priorities](#basic-training-first) below. [Skills and limits]({{ '/rules/core/#skills' | relative_url }})
 4. **Spend XP and choose gear.** Buy attributes, abilities and jutsu. Pick an attack you qualify for and check how you’ll defend yourself. The basic Dodge is already available. If you want a weapon, you can buy a finished one from the catalogue. [Learning jutsu]({{ '/rules/jutsu/' | relative_url }}) · [Equipment]({{ '/rules/equipment/' | relative_url }})
+
+### Train Basic Training first
+{:#basic-training-first}
+
+**For most new Hunters, put 5 ranks each in Awareness, Espionage and Stealth, then spend 10 XP on Basic Training 1.** That uses 15 of your starting 25 Skill Points and leaves **10 points for your build**. Basic Training gives +1 Accuracy, +1 to defensive rolls and +1 to skill checks per purchased rank. It helps whether you swing a weapon, cast from the back line or spend the scene tracking a beast.
+
+Your lowest of those three skills sets the limit. At Awareness 10, Espionage 10 and Stealth 5, you can still buy only Basic Training 1. Once all three reach 10, you can buy rank 2. A bonus to a *roll* helps resolve the check. When an ability asks for *ranks*, use the ranks on your sheet. [Basic Training]({{ '/rules/core/#basic-training' | relative_url }}) · [Skill Focus]({{ '/rules/core/#skill-focus-skill' | relative_url }})
+
+**How Survival helps you Dodge.** At Survival 5 you can spend 6 XP on **Instinct 1** for +1 Dodge, or 10 XP on **Guarded 1** for +1 Parry. You can buy both. Survival 10 raises each purchase limit to 2. A hunter with Basic Training 1 and Instinct 1 has +2 on a Dodge roll from those abilities. Later, **Advanced Survival Tactics** offers another Dodge bonus once you have Basic Survival Tactics 5 and enough DEX for a rank. [Instinct]({{ '/rules/core/#instinct' | relative_url }}) · [Guarded]({{ '/rules/core/#guarded' | relative_url }}) · [Advanced Survival Tactics]({{ '/rules/core/#advanced-survival-tactics' | relative_url }})
+
+### What each skill buys you
+{:#skill-uses}
+
+| Skill | When you use it | What to look for on your build |
+| --- | --- | --- |
+| Awareness | Search for a hidden enemy or watch a delayed attack for a tell. | One of the three Basic Training skills. Scouts also use it to beat an opponent’s Espionage with **Read the Windup**. |
+| Espionage | Pick locks, sabotage a mechanism, set or disarm traps, or misdirect a watcher. | Counts toward Basic Training. Every 5 ranks allows another rank of **Cunning** for +1 Accuracy. At 20, **Cunning Blow** opens up a counterattack option. |
+| Stealth | Hide, cross cover with **Quiet Advance**, or lay a false trail. | Counts toward Basic Training. Ambushers use Stealth to stay hidden long enough to set up a Sneak Attack. |
+| Survival | Track a quarry, pick a route through rough ground, forage or bait a beast. | Every 5 ranks raises the limits for **Instinct** (Dodge), **Guarded** (Parry) and **Escape Artist** (Grapple Defense). Survival 5 also qualifies you for **Basic Survival Tactics**. |
+| Athletics | Vault an obstacle, climb or help a Prone ally stand. | **Healthy** improves Stamina rolls, **Runner** improves Move actions and **Grip Fighting** lets grapplers spend AP to gain Control on eligible moves. Athletics limits all three. |
+| Resistance | Resist physical statuses and poison, or **Brace Yourself** against Knockback. | Grapplers use it to buy **Pressure** for +1 Grapple Offense per rank. Blockers can buy **Fortitude** to improve Resistance rolls while blocking. |
+| Chakra Control | Steady a chakra device, trace a fault or keep your handseals going if you take damage. | Pairs with Ninshou for elemental jutsu. Every 5 ranks permits a rank of **Refined Chakra Control** for +1 on Chakra Exhaustion rolls, up to rank 10. **Wall Walking** requires 8. |
+| Ninshou | Read visible seals or a maintained technique, then explain its counter to an ally. | Elemental jutsu check both Ninshou and Chakra Control individually **and** their sum. Ordinary D-rank requirements are at least 5 in each and 15 combined. |
+| Diplomacy | Negotiate, rally bystanders or challenge someone to hear an offer. | Diplomacy 4 or Research 4 qualifies you to buy **Genjutsu Training**. Diplomacy also sets the limit for **Genjutsu Competence**, which improves offensive Genjutsu rolls. |
+| Research | Decode a seal, compare attack patterns or investigate a lead. | Every 5 ranks permits a rank of **Attentive** for +1 to Genjutsu rolls, and **General Knowledge** for better Medicine, Survival and Toxicology rolls. Seal specialists later need **Skill Focus: Research 5** for Advanced Seal Training. |
+| Lore | Identify a monster from signs, recognise an old crest or recall an earlier hunt. | Lore can replace the listed skill on **any Hunt roll**, including Track, Research, Study Weakness and Prepare. A hunt specialist can cover all four with one investment. |
+| Medicine | Diagnose a Wound. With 1 rank and a First Aid Kit, **Stabilise** can stop non-Wound Bleed or give treatment a Wound specifically permits. | Medicine limits **Doctor** for long-term care and **Anatomical Knowledge** for Taijutsu Wounding. Medicine 5 is also a prerequisite for **Senbon User**. |
+| Artisan | Craft or repair gear in your chosen discipline: Weapon, Armor or Craftsman. | Ranks determine which patterns you can make. For example, Artisan (Armor) 3 qualifies you to craft Hunter Half-Plate. Pick the discipline that covers the gear you want to build. |
+| Toxicology | Identify a toxin’s effects and route of exposure, or neutralize a coating before it is applied. | Check the rank on the compound or delivery tool you intend to use. For example, the Taper Inhaler requires Toxicology 5 and the Splitflow Injector requires 10. |
+
+[Skill actions, Speeds and TNs]({{ '/rules/skill-actions/' | relative_url }}) · [Elemental requirements and exceptions]({{ '/rules/jutsu/rules/#elemental-requirements' | relative_url }}) · [Equipment and crafting]({{ '/rules/equipment/' | relative_url }})
+
+### Spend your next 10 Skill Points
+{:#skill-builds}
+
+These are starting spreads after setting aside 15 points for Basic Training. Each spends the remaining 10. Buy the abilities you want separately with XP.
+
+| If you want to play… | Try these ranks | What they let you work toward |
+| --- | --- | --- |
+| A weapon fighter or skirmisher | Survival 5, Athletics 5 | Buy Guarded if you usually Parry, or Instinct if you Dodge. Healthy helps you keep paying Stamina for attacks. |
+| A grappler | Resistance 5, Athletics 5 | Buy Pressure for Grapple Offense and Grip Fighting for Control. If escaping holds matters more, swap Athletics for Survival 5 and buy Escape Artist. |
+| An elemental caster | Chakra Control 5, Ninshou 5 | You meet both individual D-rank minima. You still need 5 more combined ranks under the ordinary requirements, plus the relevant Elemental Aptitude. Refined Chakra Control is already available. |
+| A Genjutsu specialist | Diplomacy 5, Research 5 | Buy Genjutsu Training for entry-level techniques, then choose Genjutsu Competence for offense or Attentive for a bonus on all Genjutsu rolls. |
+| A scout or hunt leader | Survival 5, Lore 5 | Use Awareness to Search in combat, Survival to follow a trail in the field and Lore across the Hunt rolls. Survival also opens Instinct for when the quarry turns on you. |
+| A field medic or poison specialist | Medicine 5, Toxicology 5 | Carry a First Aid Kit for Bleed and field-treatable Wounds. Use Toxicology to identify what poisoned a patient and Medicine to assess their condition. |
+| A crafter who fights with their own gear | Artisan 5 in your chosen discipline, Survival 5 | Read the pattern’s Final AP before buying ranks. Pair your crafting investment with Guarded or Instinct for the fights where you use that gear. |
 
 ### What the numbers on your sheet do
 {:#sheet}
