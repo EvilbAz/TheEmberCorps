@@ -8,7 +8,7 @@ permalink: "/guide/"
 
 <div class="guide-hero" id="welcome"><div class="guide-hero-copy"><h1>NEW PLAYER GUIDE</h1><div class="guide-hero-actions"><a class="guide-cta" href="#five-minute-version">START READING ↘</a><a class="guide-ghost" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">JOIN THE DISCORD ↗</a></div></div><div class="guide-hero-emblem ec-logo" aria-hidden="true"><span class="ec-monster"></span><span class="ec-letters"></span></div></div>
 
-<nav class="guide-quicknav" aria-label="Guide chapters"><a href="#five-minute-version">Make a Hunter</a><a href="#basic-training-first">Choose skills</a><a href="#ic-and-ooc">Join a scene</a><a href="#skills">Roll a check</a><a href="#speed">Play your first fight</a><a href="#downtime">Between hunts</a></nav>
+<nav class="guide-quicknav" aria-label="Guide chapters"><a href="#five-minute-version">Make a Hunter</a><a href="#basic-training-first">Choose skills</a><a href="#ic-and-ooc">Join a scene</a><a href="#skills">Roll a check</a><a href="#speed">Play your first fight</a><a href="#combat-plans">Combat plans</a><a href="#downtime">Between hunts</a></nav>
 
 ## Make your first Hunter
 {:#five-minute-version}
@@ -200,6 +200,34 @@ Ren and Aya start a spar in melee range. Ren has 30 DEX. Aya has 20 AGI. Neither
 Damage comes out of Vitality first. If you have 12 Vitality left and take 20 damage after defenses, lose the 12 Vitality and mark 8 damage against HP. A single hit can also cause a **Wound** while you still have Vitality. Its severity depends on how much of your maximum pool the hit took. [Wound thresholds]({{ '/rules/wounds/#wound-categories' | relative_url }})
 
 **Stamina 8** on Foot Sweep means you roll against TN 8. For a technique with a Chakra cost, use your Chakra Exhaustion roll against that cost. A failed check adds one Fatigue level, plus one more per full 15 points you missed by. The action normally resolves. At Fatigue 5, another level incapacitates you. If the same check pushes you past incapacitation, the technique also fails. Record the cost divided by 5, rounded down, as a penalty to later rolls of the same kind. If Ren passes the Stamina 8 check, he marks 1 Stamina penalty. Next time he rolls Stamina, he subtracts 1. A basic Speed 5 Rest clears one point of that penalty. When Fatigue rises, both accumulated penalties reset. Update the sheet before your next declaration. [Fatigue and Upkeep]({{ '/rules/core/#fatigue-2' | relative_url }})
+
+## Make a combat plan
+{:#combat-plans}
+
+Before initiative, pick one thing you want to make happen. “Put the beast on the ground before our spear user acts” gives you a reason to choose Foot Sweep over a harder hit. Tell the spear user what you’re trying. Check your distance, what’s in each hand, and which defense you can use if the beast attacks first. Once initiative is rolled, compare your next IC with your ally’s and the target’s. A good setup gives someone time to use it.
+
+### Put a target down for an ally
+{:#sweep-setup}
+
+Suppose you act on IC 0, your spear user on IC 2 and the beast on IC 5. You’re in melee, the spear user is within Reach, and nobody is grappling. Use **Foot Sweep** on IC 0 (Speed 4, Stamina 8, +2 Accuracy). On a full hit the beast is Prone. Tell your ally immediately. While it stays down it takes −2 to defensive actions, so the spear user can attack on IC 2 with a better chance to land their hit. The beast can still defend. Standing costs it a Speed 2 action when it can act. If the sweep misses, call that too: your ally must use the beast’s ordinary defenses. If the beast would act before your ally, knocking it down may still cost it time, but the follow-up is less certain. [Foot Sweep]({{ '/rules/jutsu/unarmed/#deashi-harai-foot-sweep' | relative_url }}) · [Prone]({{ '/rules/core/#prone' | relative_url }})
+
+**Build around the opening.** Basic Training helps the sweep connect and helps you defend while waiting for your next IC. A hunter with the **Celerity** Talent can make the Speed 4 sweep Speed 3, putting their next action on IC 3 before any Interrupts. The spear user gets the Prone opening as soon as the sweep lands either way. Buy Celerity if getting *your own* follow-up sooner matters to you. [Basic Training]({{ '/rules/core/#basic-training' | relative_url }}) · [Celerity]({{ '/rules/talents/enhancements/#celerity' | relative_url }})
+
+### Pull a quarry back into reach
+{:#chain-setup}
+
+Your quarry has moved past the front line. With a drawn Hand Chain, open with **Ankle Catch** and declare the grapple option before rolling. That attempt has Delay 2. On a full hit you trade 20% final damage for a Weapon Clinch, then make the opposed checks for starting Control. Tell the party who is held, where they are and how much Control you have. The chain is now occupied. If the target is still held and you can use the Chain 2 follow-up, **Reel and Strike** can pull it toward you on a successful Grapple roll. At 4 current Control that’s up to 2 yards. Measure whether that puts it inside your ally’s Reach before committing. If it breaks free first, reassess the distance before attempting another catch. [Ankle Catch]({{ '/rules/jutsu/chain/#ankle-catch' | relative_url }}) · [Reel and Strike]({{ '/rules/jutsu/chain/#reel-and-strike' | relative_url }}) · [Weapon Grapples]({{ '/rules/jutsu/chain/#weapon-grapples' | relative_url }})
+
+**Buy for the roll that’s costing you the hold.** If the weapon attack keeps missing, Basic Training helps Accuracy, and **Weapon Savant** gives +1 Accuracy with your chosen proficient weapon family. If you hit but lose the opposed grapple roll, **Pressure** improves Grapple Offense. If the problem is having the wrong weapon in hand, the **Weapon Trained** Unique makes drawing and sheathing Speed 0. Each purchase solves a different part of the same exchange. [Weapon Savant]({{ '/rules/talents/capabilities/#weapon-savant' | relative_url }}) · [Pressure]({{ '/rules/core/#pressure' | relative_url }}) · [Weapon Trained]({{ '/rules/uniques/#weapon-trained' | relative_url }})
+
+### Cast before the target can move
+{:#casting-setup}
+
+Return to Aya’s [Water Sphere example](#first-ranged-turn). At five yards, her zero-gallon cast is in range with Chakra 5, Speed 7 and two counts of handseals after DEX. If Ren can move behind cover before her seals finish, check the line again before casting. A full Dodge with the **Blur** Unique gives Aya an immediate Speed 4 Move’s worth of distance. She can use that movement to open a gap when pressed, provided she has a legal path and keeps her intended target within the jutsu’s 15-yard range. [Water Sphere]({{ '/rules/jutsu/suiton/#mizudama-no-jutsu-water-sphere-technique' | relative_url }}) · [Blur]({{ '/rules/uniques/#blur' | relative_url }})
+
+With **Elemental Mastery** in Suiton, Aya has a choice on each cast. **Clean Release** removes the remaining two counts of seals in this example. Starting on IC 2, she can cast on 2 and act again on 9. If Ren is staying put and her Chakra Exhaustion penalty is building up, **Efficient Moulding** instead drops the Chakra cost from 5 to 2. She keeps the two counts of seals, casts on 4 and acts again on 11. **Refined Chakra Control** helps her exhaustion roll in either case. These counts assume no intervening Interrupt changes her schedule. [Elemental Mastery]({{ '/rules/talents/capabilities/#elemental-mastery' | relative_url }}) · [Refined Chakra Control]({{ '/rules/core/#refined-chakra-control' | relative_url }})
+
+At the usual 500 XP start, practise the opener with the jutsu, abilities and Uniques already on your sheet. The first ordinary Talent Point comes at **1,000 total XP**. After a fight, look at the post where your plan broke down: did you miss the attack, lose the opposed roll, or spend too long getting ready? That tells you which purchase would actually have changed the result. [Acquiring Talents]({{ '/rules/talents/#acquiring-talents' | relative_url }})
 
 ## Between scenes
 {:#xp}
