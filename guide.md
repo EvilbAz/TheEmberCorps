@@ -20,10 +20,34 @@ You begin with **500 XP at Stray rank**. Make a copy of either character sheet, 
 
 Start with something you’d like to do in a scene. “I track the beast and trip it when it turns on our medic” gives you two things to look up straight away — the Survival skill for tracking and Foot Sweep for fighting up close.
 
-1. **Choose your heritage.** You have 6 Unique Points (UP). In Standard Mode, pick a Primary Heritage and pay its listed UP cost. In Realistic Mode, spend 1 UP to roll your heritage. That mode grants bonus XP and charges Base XP for rerolls. Choose any Creation Uniques you want now. You can save leftover UP. [Heritage costs]({{ '/rules/clans/#heritage-cost-index' | relative_url }}) · [Creation modes]({{ '/rules/core/#character-creation-modes' | relative_url }}) · [Uniques]({{ '/rules/uniques/' | relative_url }})
+1. **Choose your heritage.** You have 6 Unique Points (UP). In Standard Mode, pick a Primary Heritage and pay its listed UP cost. In Realistic Mode, spend 1 UP to roll your heritage. That mode grants bonus XP and charges Base XP for rerolls. [Choose your Uniques](#choose-your-uniques) before assigning Skill Points. You can save leftover UP. [Heritage costs]({{ '/rules/clans/#heritage-cost-index' | relative_url }}) · [Creation modes]({{ '/rules/core/#character-creation-modes' | relative_url }}) · [Uniques]({{ '/rules/uniques/' | relative_url }})
 2. **Set your attributes.** Strength (STR), Resilience (RES), Chakra (CHA), Dexterity (DEX) and Agility (AGI) start at 20 each. Distribute another 25 points, adding at most 10 to any one attribute. For the tracker above, DEX helps the sweep connect and AGI helps them act early and Dodge.
 3. **Assign your skills.** At the usual starting 500 Base XP, you have 25 Skill Points. One point buys one rank in any of the 14 skills, up to your rank limit. Bonus XP doesn’t grant more Skill Points. Start with the [Basic Training priorities](#basic-training-first) below. [Skills and limits]({{ '/rules/core/#skills' | relative_url }})
 4. **Spend XP and choose gear.** Buy attributes, abilities and jutsu. Pick an attack you qualify for and check how you’ll defend yourself. The basic Dodge is already available. If you want a weapon, you can buy a finished one from the catalogue. [Learning jutsu]({{ '/rules/jutsu/' | relative_url }}) · [Equipment]({{ '/rules/equipment/' | relative_url }})
+
+### Choose your Uniques
+{:#choose-your-uniques}
+
+A **Unique** is a trait you buy with Unique Points (UP). It can change the actions you can take, the skills you need or what happens when a roll succeeds. Two Hunters can buy the same Dodge abilities and still fight differently. Give one of them **Blur**, for example, and a fully successful Dodge lets them immediately move as far as a Speed 4 Move. That matters to an archer trying to open a gap. [Blur]({{ '/rules/uniques/#blur' | relative_url }})
+
+**At creation, spend your 6 UP in this order.**
+
+1. Pay for your Primary Heritage. In Standard Mode, pay its listed cost. In Realistic Mode, the heritage roll costs 1 UP total.
+2. Decide whether you want any **Creation Uniques** before you finish the sheet. Each costs 1 UP. You may take up to two in total, including any **Clan Creation Uniques** you qualify for. For example, a Nara can spend one of those picks on **Long Shadow** to extend the range of shadow techniques and bend them around visible corners along a connected shadow. [Creation list]({{ '/rules/uniques/#creation-uniques' | relative_url }}) · [Clan Creation list]({{ '/rules/uniques/#clan-creation-uniques' | relative_url }})
+3. Use your remaining UP on ordinary **1-, 2- or 3-point Uniques** you qualify for, or save them. For example, a 2-UP Heritage and two Creation picks leave 2 UP. You could buy one 2-point Unique, take two different 1-point options, or keep the points for later. You can normally take each Unique once.
+
+**Choose around an action you expect to use often.** Read the drawback before spending the point, then apply any changes to your skills before allocating Skill Points.
+
+| If your Hunter wants to… | Pick to consider | What changes in play |
+| --- | --- | --- |
+| Hold the line | [Defender]({{ '/rules/uniques/#defender' | relative_url }}), Creation | Block becomes a Speed 4 Interrupt. Damage you take counts as 25% lower for Wounds when you Block. Your own attacks also count as 10% lower for Wounds. |
+| Track beasts and cast elemental jutsu | [Naturalist]({{ '/rules/uniques/#naturalist' | relative_url }}), Creation | Survival 5 meets the ordinary D-rank elemental skill requirement by itself. You can build around tracking and still learn elemental techniques with the appropriate Aptitude. Your maximum Research falls by 3 and you take −3 on Genjutsu rolls. |
+| Treat allies and make precise attacks | [Surgeon]({{ '/rules/uniques/#surgeon' | relative_url }}), Creation | Surgeon brings Medicine up to at least 5 without spending Skill Points. Your damaging attacks count as 20% higher for Wounds, but you take −1 on defensive rolls. |
+| Switch weapons to suit the quarry | [Weapon Trained]({{ '/rules/uniques/#weapon-trained' | relative_url }}), 1 UP | Draw and sheathe at Speed 0. Buy Weapon Focus once and apply it to the weapon you draw. You can pick this up after creation. |
+
+**Plan one upgrade ahead.** You gain 1 more UP at each of 2,000, 3,000, 4,500, 6,000 and 7,000 total XP. Spend UP between combats and events. To upgrade, meet the destination’s requirements, choose one eligible Unique you own and pay the difference in cost.
+
+For example, a Hunter with **Surgeon** (1 UP) and **Medicine 8** can spend **1 more UP** to upgrade to **Combat Medic** (2 UP). They gain Combat Medic’s treatment benefits and keep Surgeon’s effects, including its −1 to defensive rolls. Buying Combat Medic directly costs 2 UP, still requires Medicine 8 and gives only Combat Medic’s effects. On your sheet, record the original Creation pick beside the current Unique. It still occupies one of your two Creation slots through later upgrades. Ordinary source effects are replaced unless the upgrade explicitly keeps them. [Upgrade paths and inheritance]({{ '/rules/uniques/#keeping-creation-effects' | relative_url }})
 
 ### Train Basic Training first
 {:#basic-training-first}
