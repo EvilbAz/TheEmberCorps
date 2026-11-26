@@ -194,7 +194,11 @@
 
 /* Feral release sigils: intentionally stark, like stamped elemental marks. */
 .jutsu-atlas { display: block; margin: 1.5rem auto 2rem; max-width: 60rem; cursor: zoom-in; }
-.jutsu-atlas img { display: block; width: 100%; height: auto; }
+.chakra-chart { display: block; width: 100%; height: auto; font-family: "DM Sans", system-ui, sans-serif; }
+.jutsu-atlas-reader { padding: 1rem; min-width: 0; }
+.jutsu-atlas-reader > a { color: var(--text); margin-inline-end: 1rem; text-decoration: underline; }
+.jutsu-atlas-scroll { margin-top: 1rem; overflow-x: auto; }
+.jutsu-atlas-scroll .chakra-chart { min-width: 100rem; }
 .jutsu-type-card .jutsu-section-seal {
   width: 42px;
   height: 42px;

@@ -11,8 +11,8 @@ permalink: "/rules/jutsu/"
 
 <p><a href="#jutsu-finder">Browse the searchable jutsu table ↓</a></p>
 
-<a class="jutsu-atlas" href="{{ '/assets/img/jutsu-atlas.png' | relative_url }}" aria-label="Open the full-resolution Ember Corps chakra chart">
-  <img src="{{ '/assets/img/jutsu-atlas.png' | relative_url }}" width="4000" height="3840" alt="Ember Corps chakra chart showing elemental advantages, advanced and Feral releases, and the Senjutsu, weapon and taijutsu schools.">
+<a class="jutsu-atlas" href="{{ '/rules/jutsu/atlas/' | relative_url }}" aria-label="Open the full-size Ember Corps chakra chart">
+  {% include chakra-chart.svg %}
 </a>
 
 <div class="jutsu-catalog">
