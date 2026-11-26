@@ -41,15 +41,17 @@ During a combo, you may use a new Opener to change its Momentum. The new Opener 
 
 When a Combo ends, remove its Counter and bonuses. It ends when:
 
-- You Wait or take an action without the Combo tag, except when switching Openers as described above.
+- You Wait or take a non-Interrupt action without the Combo tag, except when switching Openers as described above.
 
-- You use any interrupt requiring seals.
+- You use an Interrupt that requires handseals. A seal-free Interrupt can be used without the Combo tag.
 
 - You execute a Finisher.
 
 - You attack a new Target.
 
 - You are Stunned.
+
+For example, at CC 2 you can use a basic Dodge or Parry and resume at CC 2 with the same Momentum, provided no other condition ends the Combo.
 
 Hitting a clone of your intended target does not break your combo, but it does not increase your combo counter.
 
