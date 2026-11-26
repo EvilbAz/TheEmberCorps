@@ -193,14 +193,16 @@
 .core-side-links a:hover,.core-side-links a.active{color:var(--text);border-left-color:var(--accent);background:var(--surface2)}
 
 /* Feral release sigils: intentionally stark, like stamped elemental marks. */
-.jutsu-feral-grid .jutsu-type-card{position:relative;overflow:hidden;padding-right:74px}
-.jutsu-feral-grid .feral-emblem{position:absolute;right:15px;top:50%;transform:translateY(-50%);display:grid;place-items:center;width:46px;height:46px;border:1px solid var(--line);background:var(--side);font-size:31px;font-weight:700;line-height:1;color:var(--accent)}
-.jutsu-feral-grid .jutsu-type-card:nth-child(2) .feral-emblem{color:#679bc1}
-.jutsu-feral-grid .jutsu-type-card:nth-child(3) .feral-emblem{color:#9e93d1}
-.jutsu-feral-grid .jutsu-type-card:nth-child(4) .feral-emblem{color:#9bbbc0}
-.jutsu-feral-grid .jutsu-type-card:nth-child(5) .feral-emblem{color:#8cb69f}
-.jutsu-feral-grid .jutsu-type-card:nth-child(6) .feral-emblem{color:#df6260}
-.jutsu-feral-grid .jutsu-type-card:nth-child(7) .feral-emblem{color:#c4b5ce}
+.jutsu-atlas { display: block; margin: 1.5rem auto 2rem; max-width: 60rem; cursor: zoom-in; }
+.jutsu-atlas img { display: block; width: 100%; height: auto; }
+.jutsu-type-card .jutsu-section-seal {
+  width: 42px;
+  height: 42px;
+  flex: none;
+  background: url("../img/jutsu-seals.png") no-repeat;
+  background-size: auto 100%;
+  background-position: calc(var(--seal-index) * -42px) 0;
+}
 
 /* World archive: field reports, not another rules volume. */
 .lore-page{max-width:1000px;margin:0 auto;padding-bottom:70px}
