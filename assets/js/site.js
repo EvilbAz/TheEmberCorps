@@ -177,3 +177,24 @@
   document.addEventListener('ember:before-page', () => closeSearch(false));
   initPage();
 })();
+
+/* Use the same vector chart for the overview and each enlarged school. */
+function setupAtlasFocus() {
+  const control = document.querySelector('.atlas-focus[hidden]');
+  if (!control) return;
+  const select = control.querySelector('select');
+  const panel = document.getElementById('atlas-detail');
+  const chart = panel.querySelector('svg');
+  const overview = chart.getAttribute('viewBox');
+  function showView() {
+    chart.setAttribute('viewBox', select.value);
+    panel.toggleAttribute('data-focused', select.value !== overview);
+    panel.toggleAttribute('data-wide', select.selectedOptions[0].hasAttribute('data-wide'));
+    panel.scrollLeft = (panel.scrollWidth - panel.clientWidth) / 2;
+  }
+  control.hidden = false;
+  select.addEventListener('change', showView);
+  showView();
+}
+setupAtlasFocus();
+document.addEventListener('ember:page', setupAtlasFocus);

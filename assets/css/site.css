@@ -193,12 +193,16 @@
 .core-side-links a:hover,.core-side-links a.active{color:var(--text);border-left-color:var(--accent);background:var(--surface2)}
 
 /* Feral release sigils: intentionally stark, like stamped elemental marks. */
-.jutsu-atlas { display: block; margin: 1.5rem auto 2rem; max-width: 60rem; cursor: zoom-in; }
+.jutsu-atlas { display: block; margin: 1.5rem auto 2rem; max-width: 78rem; cursor: zoom-in; }
 .chakra-chart { display: block; width: 100%; height: auto; font-family: "DM Sans", system-ui, sans-serif; }
 .jutsu-atlas-reader { padding: 1rem; min-width: 0; }
 .jutsu-atlas-reader > a { color: var(--text); margin-inline-end: 1rem; text-decoration: underline; }
 .jutsu-atlas-scroll { margin-top: 1rem; overflow-x: auto; }
 .jutsu-atlas-scroll .chakra-chart { min-width: 100rem; }
+.atlas-focus:not([hidden]) { display: inline-flex; align-items: center; gap: .5rem; margin: .4rem 0; }
+.atlas-focus select { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--line); padding: .35rem; }
+.jutsu-atlas-scroll[data-focused] .chakra-chart { min-width: 0; max-height: 85vh; }
+.jutsu-atlas-scroll[data-wide] .chakra-chart { min-width: 52rem; max-height: none; }
 .jutsu-type-card .jutsu-section-seal {
   width: 42px;
   height: 42px;
