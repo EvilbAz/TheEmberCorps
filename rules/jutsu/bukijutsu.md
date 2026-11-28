@@ -284,59 +284,10 @@ Speed: 3
 Tags: Chain X, Utility, Bukijutsu  
 Effects: Switch from one active Bukijutsu Stance to another you know without changing Chain value. Pay this technique’s Stamina and Speed instead of the new Stance’s activation costs. The old Stance ends and the new Upkeep begins.
 
-### B-Rank
-{:#universal-bukijutsu-b-rank .jutsu-rank-heading}
-
-#### ( <span lang="ja">武器砕き</span> ) Buki Kudaki - Weapon Breaker
-{:#weapon-breaker .jutsu-technique}
-
-<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Bukijutsu</span></span>
-
-Your strike bites into the weakest point of the weapon used to catch it.
-
-Rank: B  
-Stamina: \+10  
-Speed: \+2  
-Tags: Link, Bukijutsu  
-Effects: Use retroactively after your weapon Attack is successfully Parried or Blocked by a weapon. After that Defense resolves, inflict WDP equal to half the defending weapon’s damage-level threshold, rounded up. Use that weapon’s Durability + its wielder’s DEX/10. This is explicit weapon damage and applies once to that weapon per Attack.
-
-#### ( <span lang="ja">チャクラ強化</span> ) Chakura Kyōka - Chakra Reinforcement
-{:#chakra-reinforcement .jutsu-technique}
-
-<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu</span></span>
-
-You shape chakra around the weapon’s striking surface, changing the injury it inflicts.
-
-Rank: B  
-Chakra: 22  
-Upkeep: 5  
-Speed: 10  
-Tags: Utility, Self, Upkeep, Bukijutsu  
-Effects: Choose Blunt, Slashing, Piercing or Energy. One held weapon may deal that wound type and gains a Damage Bonus equal to half your NDB. Calculate this bonus when activating the technique, before bonuses granted by maintained weapon techniques.
-
-### A-Rank
-{:#universal-bukijutsu-a-rank .jutsu-rank-heading}
-
-#### ( <span lang="ja">チャクラ延伸</span> ) Chakura Enshin - Chakra Reach
-{:#chakra-reach .jutsu-technique}
-
-<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu</span></span>
-
-Shaped chakra extends the weapon’s edge, point, or striking line beyond its physical reach, carrying the threat several yards past the material weapon.
-
-Rank: A  
-Chakra: 20  
-Upkeep: 3  
-Speed: 10  
-Tags: Utility, Self, Upkeep, Bukijutsu  
-Effects: One Melee Weapon gains additional Reach equal to the greater of its unmodified Reach or your CHA/5. When striking through this extension, it does not trigger on-contact punishment caused solely by touching the defender. Attacks still need a clear path.
-
-
-## Chakra Flow
-{:#chakra-flow}
-
 ### C-Rank
-{:#chakra-flow-c-rank .jutsu-rank-heading}
+{:#universal-bukijutsu-c-rank .jutsu-rank-heading}
+
+<span id="chakra-flow"></span><span id="chakra-flow-c-rank"></span>
 
 #### ( <span lang="ja">チャクラ流し</span> ) Chakura Nagashi - Chakra Flow
 {:#chakura-nagashi-chakra-flow .jutsu-technique}
@@ -359,7 +310,7 @@ Your weapon may Parry elemental Projectile Jutsu up to C-Rank if strong against 
 
 Status Effects use Chakra Control against Resistance where applicable. Effects that apply a Status, Mark or terrain apply once per Attack Action.
 
-### Primary Elements
+##### Primary Elements
 
 **Doton - Mountain's Weight**
 
@@ -391,7 +342,7 @@ The weapon cannot be Parried by physical weapons and gains +2 Parry.
 
 The weapon gains +3 Reach, and its Attacks cannot be Blocked.
 
-### Advanced Elements
+##### Advanced Elements
 
 Advanced elements require their corresponding Heritage or another source of access.
 
@@ -451,7 +402,36 @@ Weapon Attacks gain Blast 4 and count as Bakuton Melee Attacks for the purpose o
 The weapon ignores 50% of the target's DR and deals double Final Damage against chakra-created Barriers and Constructs.
 
 ### B-Rank
-{:#chakra-flow-b-rank .jutsu-rank-heading}
+{:#universal-bukijutsu-b-rank .jutsu-rank-heading}
+
+#### ( <span lang="ja">武器砕き</span> ) Buki Kudaki - Weapon Breaker
+{:#weapon-breaker .jutsu-technique}
+
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Link</span> <span class="jutsu-keyword">Bukijutsu</span></span>
+
+Your strike bites into the weakest point of the weapon used to catch it.
+
+Rank: B  
+Stamina: \+10  
+Speed: \+2  
+Tags: Link, Bukijutsu  
+Effects: Use retroactively after your weapon Attack is successfully Parried or Blocked by a weapon. After that Defense resolves, inflict WDP equal to half the defending weapon’s damage-level threshold, rounded up. Use that weapon’s Durability + its wielder’s DEX/10. This is explicit weapon damage and applies once to that weapon per Attack.
+
+#### ( <span lang="ja">チャクラ強化</span> ) Chakura Kyōka - Chakra Reinforcement
+{:#chakra-reinforcement .jutsu-technique}
+
+<span class="jutsu-badges"><span class="jutsu-rank-badge">B-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu</span></span>
+
+You shape chakra around the weapon’s striking surface, changing the injury it inflicts.
+
+Rank: B  
+Chakra: 22  
+Upkeep: 5  
+Speed: 10  
+Tags: Utility, Self, Upkeep, Bukijutsu  
+Effects: Choose Blunt, Slashing, Piercing or Energy. One held weapon may deal that wound type and gains a Damage Bonus equal to half your NDB. Calculate this bonus when activating the technique, before bonuses granted by maintained weapon techniques.
+
+<span id="chakra-flow-b-rank"></span>
 
 #### ( <span lang="ja">チャクラ流し・遠隔伝導</span> ) Chakura Nagashi: Enkaku Dendō - Long Conduction
 {:#chakura-nagashi-enkaku-dendo-long-conduction .jutsu-technique}
@@ -474,3 +454,20 @@ Any Reach granted by Chakra Flow instead increases the weapon's Range by 5 yards
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
+
+### A-Rank
+{:#universal-bukijutsu-a-rank .jutsu-rank-heading}
+
+#### ( <span lang="ja">チャクラ延伸</span> ) Chakura Enshin - Chakra Reach
+{:#chakra-reach .jutsu-technique}
+
+<span class="jutsu-badges"><span class="jutsu-rank-badge">A-Rank</span> <span class="jutsu-keyword">Utility</span> <span class="jutsu-keyword">Self</span> <span class="jutsu-keyword">Upkeep</span> <span class="jutsu-keyword">Bukijutsu</span></span>
+
+Shaped chakra extends the weapon’s edge, point, or striking line beyond its physical reach, carrying the threat several yards past the material weapon.
+
+Rank: A  
+Chakra: 20  
+Upkeep: 3  
+Speed: 10  
+Tags: Utility, Self, Upkeep, Bukijutsu  
+Effects: One Melee Weapon gains additional Reach equal to the greater of its unmodified Reach or your CHA/5. When striking through this extension, it does not trigger on-contact punishment caused solely by touching the defender. Attacks still need a clear path.
