@@ -106,12 +106,28 @@
 <text x="1000.0" y="166.0" dy=".34em" text-anchor="middle" font-size="28" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Ice</text>
 <g class="seal-dust" aria-hidden="true"><use href="#seal-fx-snow" class="seal-mote" x="982.0" y="92.6" style="--drift:-8px;--rise:-16px;--lag:0s"/><use href="#seal-fx-snow" class="seal-mote" x="1018.3" y="92.6" style="--drift:7px;--rise:-20px;--lag:0.24s"/><use href="#seal-fx-snow" class="seal-mote" x="1026.6" y="112.3" style="--drift:12px;--rise:-11px;--lag:0.43s"/></g>
 </a>
-<polygon points="1390.0 794.3 1373.3 811.1 1349.5 811.1 1332.8 794.3 1332.8 770.6 1349.5 753.8 1373.3 753.8 1390.0 770.6" fill="#dce1e7" stroke="var(--text)" stroke-width="2"/>
-<text x="1361.4" y="782.4" dy=".34em" text-anchor="middle" font-size="23" font-weight="700" fill="#171b20">WIP</text>
-<text x="1361.4" y="831.4" dy=".34em" text-anchor="middle" font-size="25" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="4.5" paint-order="stroke">Wind + Lightning</text>
-<polygon points="1549.8 507.5 1533.0 524.3 1509.3 524.3 1492.5 507.5 1492.5 483.8 1509.3 467.0 1533.0 467.0 1549.8 483.8" fill="#dce1e7" stroke="var(--text)" stroke-width="2"/>
-<text x="1521.2" y="495.7" dy=".34em" text-anchor="middle" font-size="23" font-weight="700" fill="#171b20">WIP</text>
-<text x="1521.2" y="544.7" dy=".34em" text-anchor="middle" font-size="25" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="4.5" paint-order="stroke">Fire + Lightning</text>
+<g transform="translate(138.0 424.8)">
+<a class="atlas-seal" href="{{ '/rules/jutsu/atlas/#jinton-swift' | relative_url }}" aria-label="Jinton, Swift Release, Wind + Lightning" style="--tint:#99ebcc;--phase:-1.73s">
+<polygon class="seal-aura" points="1251.1 369.1 1234.8 385.3 1211.9 385.3 1195.6 369.1 1195.6 346.1 1211.9 329.9 1234.8 329.9 1251.1 346.1" aria-hidden="true"/>
+<g class="seal-face">
+<polygon points="1251.1 369.1 1234.8 385.3 1211.9 385.3 1195.6 369.1 1195.6 346.1 1211.9 329.9 1234.8 329.9 1251.1 346.1" fill="#99ebcc" stroke="var(--text)" stroke-width="2"/>
+<path transform="translate(1204.3 371.7) scale(0.03810 -0.03810)" fill="#171b20" d="M60 771C124 726 199 659 231 610L291 660C255 708 180 773 114 816ZM489 689V472H315V404H489V70H561V404H730V472H561V689ZM324 792V724H759C762 316 766 65 886 65C937 65 952 106 960 223C945 235 925 256 913 274C911 200 906 142 892 142C834 142 832 421 834 792ZM262 445H49V375H189V120C139 78 81 36 36 5L75 -72C129 -27 180 16 228 59C292 -20 382 -56 513 -61C624 -65 831 -63 940 -58C943 -35 956 1 965 18C846 10 622 7 513 12C397 16 309 51 262 124Z"/>
+</g>
+<text x="1223.4" y="406.6" dy=".34em" text-anchor="middle" font-size="28" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Swift<tspan x="1223.4" dy="1.1em" font-size="20">Jinton</tspan></text>
+<g class="seal-dust" aria-hidden="true"><use href="#seal-fx-gust" class="seal-mote" x="1205.3" y="333.2" style="--drift:-8px;--rise:-16px;--lag:0s"/><use href="#seal-fx-gust" class="seal-mote" x="1241.7" y="333.2" style="--drift:7px;--rise:-20px;--lag:0.24s"/><use href="#seal-fx-gust" class="seal-mote" x="1250.0" y="352.9" style="--drift:12px;--rise:-11px;--lag:0.43s"/></g>
+</a>
+</g>
+<g transform="translate(297.8 138.1)">
+<a class="atlas-seal" href="{{ '/rules/jutsu/atlas/#hosaton-radiation' | relative_url }}" aria-label="Hosaton, Radiation Release, Fire + Lightning" style="--tint:#dbea80;--phase:-1.73s">
+<polygon class="seal-aura" points="1251.1 369.1 1234.8 385.3 1211.9 385.3 1195.6 369.1 1195.6 346.1 1211.9 329.9 1234.8 329.9 1251.1 346.1" aria-hidden="true"/>
+<g class="seal-face">
+<polygon points="1251.1 369.1 1234.8 385.3 1211.9 385.3 1195.6 369.1 1195.6 346.1 1211.9 329.9 1234.8 329.9 1251.1 346.1" fill="#dbea80" stroke="var(--text)" stroke-width="2"/>
+<path transform="translate(1204.3 371.7) scale(0.03810 -0.03810)" fill="#171b20" d="M227 838V678H44V608H162V400C162 258 147 100 25 -30C43 -43 68 -63 81 -79C214 63 234 233 234 399V405H371C364 125 357 26 340 4C332 -8 324 -10 309 -10C294 -10 256 -9 214 -6C226 -25 233 -55 234 -76C277 -77 319 -77 343 -75C370 -72 387 -64 403 -42C430 -8 435 106 442 440C443 451 443 475 443 475H234V608H488V678H301V838ZM621 583H813C792 455 761 346 714 256C669 347 637 453 616 568ZM605 841C576 668 524 500 445 395C463 383 496 359 509 346C532 378 552 416 571 456C596 355 628 263 669 183C609 98 528 32 420 -16C434 -32 456 -65 463 -82C567 -31 647 34 710 114C764 32 832 -33 917 -78C928 -58 952 -29 969 -14C880 28 810 95 755 181C820 289 861 421 888 583H962V653H642C658 709 671 769 682 829Z"/>
+</g>
+<text x="1223.4" y="406.6" dy=".34em" text-anchor="middle" font-size="28" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Radiation<tspan x="1223.4" dy="1.1em" font-size="20">Hosaton</tspan></text>
+<g class="seal-dust" aria-hidden="true"><use href="#seal-fx-spark" class="seal-mote" x="1205.3" y="333.2" style="--drift:-8px;--rise:-16px;--lag:0s"/><use href="#seal-fx-spark" class="seal-mote" x="1241.7" y="333.2" style="--drift:7px;--rise:-20px;--lag:0.24s"/><use href="#seal-fx-spark" class="seal-mote" x="1250.0" y="352.9" style="--drift:12px;--rise:-11px;--lag:0.43s"/></g>
+</a>
+</g>
 <g transform="translate(424.1 16.3)">
 <a class="atlas-seal" href="{{ '/rules/clans/#kazekage-clan-jiton' | relative_url }}" aria-label="Magnetism" style="--tint:#d5b5e6;--phase:-5.19s">
 <polygon class="seal-aura" points="925.7 1103.5 909.5 1119.7 886.5 1119.7 870.3 1103.5 870.3 1080.5 886.5 1064.3 909.5 1064.3 925.7 1080.5" aria-hidden="true"/>
@@ -143,9 +159,17 @@
 <text x="638.6" y="831.4" dy=".34em" text-anchor="middle" font-size="28" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Wood</text>
 <g class="seal-dust" aria-hidden="true"><use href="#seal-fx-leaf" class="seal-mote" x="620.6" y="758.0" style="--drift:-8px;--rise:-16px;--lag:0s"/><use href="#seal-fx-leaf" class="seal-mote" x="656.9" y="758.0" style="--drift:7px;--rise:-20px;--lag:0.24s"/><use href="#seal-fx-leaf" class="seal-mote" x="665.2" y="777.7" style="--drift:12px;--rise:-11px;--lag:0.43s"/></g>
 </a>
-<polygon points="706.5 1120.2 689.8 1137.0 666.0 1137.0 649.3 1120.2 649.3 1096.5 666.0 1079.7 689.8 1079.7 706.5 1096.5" fill="#dce1e7" stroke="var(--text)" stroke-width="2"/>
-<text x="677.9" y="1108.3" dy=".34em" text-anchor="middle" font-size="23" font-weight="700" fill="#171b20">WIP</text>
-<text x="677.9" y="1157.3" dy=".34em" text-anchor="middle" font-size="25" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="4.5" paint-order="stroke">Lightning + Water</text>
+<g transform="translate(-545.5 750.7)">
+<a class="atlas-seal" href="{{ '/rules/jutsu/atlas/#ranton-storm' | relative_url }}" aria-label="Ranton, Storm Release, Lightning + Water" style="--tint:#a8b9ff;--phase:-1.73s">
+<polygon class="seal-aura" points="1251.1 369.1 1234.8 385.3 1211.9 385.3 1195.6 369.1 1195.6 346.1 1211.9 329.9 1234.8 329.9 1251.1 346.1" aria-hidden="true"/>
+<g class="seal-face">
+<polygon points="1251.1 369.1 1234.8 385.3 1211.9 385.3 1195.6 369.1 1195.6 346.1 1211.9 329.9 1234.8 329.9 1251.1 346.1" fill="#a8b9ff" stroke="var(--text)" stroke-width="2"/>
+<path transform="translate(1204.3 371.7) scale(0.03810 -0.03810)" fill="#171b20" d="M147 587V379C147 255 135 88 30 -32C45 -42 74 -69 85 -85C200 45 219 241 219 378V525H772C775 151 783 -81 906 -81C964 -81 978 -33 985 104C969 115 950 134 936 151C934 62 929 -8 912 -8C849 -8 844 244 845 587ZM274 337V135H463V23L223 13L229 -51L698 -24C709 -45 719 -64 725 -80L784 -57C763 -8 714 66 668 120L612 99C629 79 646 56 662 33L529 26V135H720V337H529V416C599 422 666 431 717 442L679 493C582 472 405 460 263 455C270 440 277 418 279 403C337 403 400 406 463 410V337ZM333 285H468V187H333ZM524 285H658V187H524ZM460 841V711H196V814H120V647H887V814H810V711H537V841Z"/>
+</g>
+<text x="1223.4" y="406.6" dy=".34em" text-anchor="middle" font-size="28" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Storm<tspan x="1223.4" dy="1.1em" font-size="20">Ranton</tspan></text>
+<g class="seal-dust" aria-hidden="true"><use href="#seal-fx-bolt" class="seal-mote" x="1205.3" y="333.2" style="--drift:-8px;--rise:-16px;--lag:0s"/><use href="#seal-fx-bolt" class="seal-mote" x="1241.7" y="333.2" style="--drift:7px;--rise:-20px;--lag:0.24s"/><use href="#seal-fx-bolt" class="seal-mote" x="1250.0" y="352.9" style="--drift:12px;--rise:-11px;--lag:0.43s"/></g>
+</a>
+</g>
 <a class="atlas-seal" href="{{ '/rules/clans/#futton' | relative_url }}" aria-label="Boil" style="--tint:#eca4a1;--phase:-10.38s">
 <polygon class="seal-aura" points="804.4 369.1 788.1 385.3 765.2 385.3 748.9 369.1 748.9 346.1 765.2 329.9 788.1 329.9 804.4 346.1" aria-hidden="true"/>
 <g class="seal-face">
@@ -216,7 +240,7 @@
 <polygon points="1249.5 984.4 1234.9 999.0 1214.2 999.0 1199.6 984.4 1199.6 963.7 1214.2 949.1 1234.9 949.1 1249.5 963.7" fill="#ffe16a" stroke="var(--text)" stroke-width="2"/>
 <path transform="translate(1207.4 986.7) scale(0.03429 -0.03429)" fill="#171b20" d="M147 587V379C147 255 135 88 30 -32C45 -42 74 -69 85 -85C200 45 219 241 219 378V525H772C775 151 783 -81 906 -81C964 -81 978 -33 985 104C969 115 950 134 936 151C934 62 929 -8 912 -8C849 -8 844 244 845 587ZM274 337V135H463V23L223 13L229 -51L698 -24C709 -45 719 -64 725 -80L784 -57C763 -8 714 66 668 120L612 99C629 79 646 56 662 33L529 26V135H720V337H529V416C599 422 666 431 717 442L679 493C582 472 405 460 263 455C270 440 277 418 279 403C337 403 400 406 463 410V337ZM333 285H468V187H333ZM524 285H658V187H524ZM460 841V711H196V814H120V647H887V814H810V711H537V841Z"/>
 </g>
-<text x="1224.5" y="1020.0" dy=".34em" text-anchor="middle" font-size="26" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Storm</text>
+<text x="1224.5" y="1020.0" dy=".34em" text-anchor="middle" font-size="26" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Storm<tspan x="1224.5" dy="1.1em" font-size="20">Feral</tspan></text>
 <g class="seal-dust" aria-hidden="true"><use href="#seal-fx-bolt" class="seal-mote" x="1208.3" y="952.1" style="--drift:-8px;--rise:-16px;--lag:0s"/><use href="#seal-fx-bolt" class="seal-mote" x="1241.0" y="952.1" style="--drift:7px;--rise:-20px;--lag:0.24s"/><use href="#seal-fx-bolt" class="seal-mote" x="1248.5" y="969.8" style="--drift:12px;--rise:-11px;--lag:0.43s"/></g>
 </a>
 <a class="atlas-seal" href="{{ '/rules/jutsu/doton/' | relative_url }}" aria-label="Earth" style="--tint:#d7a464;--phase:-0.22s">
