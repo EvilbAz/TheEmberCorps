@@ -5551,7 +5551,7 @@ Your next non-Interrupt Action is scheduled **5 + 5L IC** after declaration, plu
 
 **Starting Features**
 
-* Kazekage-blooded Jiton users begin with Elemental Aptitude for Raiton and Doton, and Elemental Affinity: Jiton, which includes Raiton and Doton.
+* Kazekage-blooded Jiton users begin with Elemental Aptitude for Fūton and Doton, and Elemental Affinity: Jiton, which includes Fūton and Doton.
 
 * Your controlled medium can be iron sand, gold dust, mineral grit, or another plausible particulate source. The mechanics are unchanged unless a technique says otherwise.
 
@@ -5576,13 +5576,11 @@ Choose one of these E-Rank Jiton effects:
 ### Jiton - Magnetism Release
 {:#jiton-magnetism-release}
 
-Any Doton or Raiton Technique can be converted into a Jiton technique, with the following effects:
+Any Doton or Fūton Technique can be converted into a Jiton technique, with the following effects:
 
 * \+5 Chakra cost
 
-* When you transform a Raiton or Doton technique into a Jiton technique, you must pick whether it's Positively Charged Jiton, or Negatively Charged Jiton. They always count as Severity 1 of the appropriate charge
-
-* Raiton gives Immob of the same Severity and Duration rather than Paralysis.
+* When you transform a Fūton or Doton technique into a Jiton technique, you must pick whether it's Positively Charged Jiton, or Negatively Charged Jiton. They always count as Severity 1 of the appropriate charge
 
 * All Jiton non-interrupt techniques have their base Speed increased by 1 per rank of Jutsu (1 for E, 3 for C, etc.). Thus, a Jiton Retsudotensho would be treated as a Speed 25 action for all purposes (including its minimum Speed after reductions), rather than 22\.
 
@@ -5596,7 +5594,7 @@ Any Doton or Raiton Technique can be converted into a Jiton technique, with the 
 
 * All Jiton techniques that parry may target all attacks regardless of tags or type.
 
-* If "Lightning Whip" or “Rock Smashing Staff” is turned into a Jiton Jutsu, then it gains the following Upgrade: (4) Your weapon gains a Charge of 1 or \-1. Max 1
+* If “Fan of Wind” or “Rock Smashing Staff” is turned into a Jiton Jutsu, then it gains the following Upgrade: (4) Your weapon gains a Charge of 1 or \-1. Max 1
 
 ### Living Magnet Field
 {:#living-magnet-field}

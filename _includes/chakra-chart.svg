@@ -50,8 +50,6 @@
 <path d="M 1131.1 845.4 C 1083.9 917.3 1028.8 1001.1 1000.0 1045.0" fill="none" stroke="color-mix(in srgb, #b58a05 78%, var(--text))" stroke-width="3"/>
 <path d="M 868.9 845.4 C 916.1 917.3 971.2 1001.1 1000.0 1045.0" fill="none" stroke="var(--bg)" stroke-width="10"/>
 <path d="M 868.9 845.4 C 916.1 917.3 971.2 1001.1 1000.0 1045.0" fill="none" stroke="color-mix(in srgb, #9d662e 78%, var(--text))" stroke-width="3"/>
-<polyline points="1000.0 1045.0 898.0 1092.0" fill="none" stroke="var(--dim)" stroke-width="2"/>
-<polyline points="1000.0 1045.0 1102.0 1092.0" fill="none" stroke="var(--dim)" stroke-width="2"/>
 <path d="M 1212.1 596.1 C 1499.9 673.7 1512.3 926.0 1322.1 1108.3" fill="none" stroke="var(--bg)" stroke-width="10"/>
 <path d="M 1212.1 596.1 C 1499.9 673.7 1512.3 926.0 1322.1 1108.3" fill="none" stroke="color-mix(in srgb, #208455 78%, var(--text))" stroke-width="3"/>
 <path d="M 868.9 845.4 C 853.8 1143.2 1089.9 1232.9 1322.1 1108.3" fill="none" stroke="var(--bg)" stroke-width="10"/>
@@ -114,6 +112,7 @@
 <polygon points="1549.8 507.5 1533.0 524.3 1509.3 524.3 1492.5 507.5 1492.5 483.8 1509.3 467.0 1533.0 467.0 1549.8 483.8" fill="#dce1e7" stroke="var(--text)" stroke-width="2"/>
 <text x="1521.2" y="495.7" dy=".34em" text-anchor="middle" font-size="23" font-weight="700" fill="#171b20">WIP</text>
 <text x="1521.2" y="544.7" dy=".34em" text-anchor="middle" font-size="25" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="4.5" paint-order="stroke">Fire + Lightning</text>
+<g transform="translate(424.1 16.3)">
 <a class="atlas-seal" href="{{ '/rules/clans/#kazekage-clan-jiton' | relative_url }}" aria-label="Magnetism" style="--tint:#d5b5e6;--phase:-5.19s">
 <polygon class="seal-aura" points="925.7 1103.5 909.5 1119.7 886.5 1119.7 870.3 1103.5 870.3 1080.5 886.5 1064.3 909.5 1064.3 925.7 1080.5" aria-hidden="true"/>
 <g class="seal-face">
@@ -123,6 +122,8 @@
 <text x="898.0" y="1141.0" dy=".34em" text-anchor="middle" font-size="28" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Magnetism</text>
 <g class="seal-dust" aria-hidden="true"><use href="#seal-fx-magnet" class="seal-mote" x="880.0" y="1067.6" style="--drift:-8px;--rise:-16px;--lag:0s"/><use href="#seal-fx-magnet" class="seal-mote" x="916.3" y="1067.6" style="--drift:7px;--rise:-20px;--lag:0.24s"/><use href="#seal-fx-magnet" class="seal-mote" x="924.6" y="1087.3" style="--drift:12px;--rise:-11px;--lag:0.43s"/></g>
 </a>
+</g>
+<g transform="translate(-102 -47)">
 <a class="atlas-seal" href="{{ '/rules/clans/#bakuton' | relative_url }}" aria-label="Explosion" style="--tint:#ffbd73;--phase:-6.92s">
 <polygon class="seal-aura" points="1129.7 1103.5 1113.5 1119.7 1090.5 1119.7 1074.3 1103.5 1074.3 1080.5 1090.5 1064.3 1113.5 1064.3 1129.7 1080.5" aria-hidden="true"/>
 <g class="seal-face">
@@ -132,9 +133,7 @@
 <text x="1102.0" y="1141.0" dy=".34em" text-anchor="middle" font-size="28" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="5" stroke-linejoin="round" paint-order="stroke">Explosion</text>
 <g class="seal-dust" aria-hidden="true"><use href="#seal-fx-burst" class="seal-mote" x="1084.0" y="1067.6" style="--drift:-8px;--rise:-16px;--lag:0s"/><use href="#seal-fx-burst" class="seal-mote" x="1120.3" y="1067.6" style="--drift:7px;--rise:-20px;--lag:0.24s"/><use href="#seal-fx-burst" class="seal-mote" x="1128.6" y="1087.3" style="--drift:12px;--rise:-11px;--lag:0.43s"/></g>
 </a>
-<polygon points="1350.7 1120.2 1334.0 1137.0 1310.2 1137.0 1293.5 1120.2 1293.5 1096.5 1310.2 1079.7 1334.0 1079.7 1350.7 1096.5" fill="#dce1e7" stroke="var(--text)" stroke-width="2"/>
-<text x="1322.1" y="1108.3" dy=".34em" text-anchor="middle" font-size="23" font-weight="700" fill="#171b20">WIP</text>
-<text x="1322.1" y="1157.3" dy=".34em" text-anchor="middle" font-size="25" font-weight="700" fill="var(--text)" stroke="var(--bg)" stroke-width="4.5" paint-order="stroke">Wind + Earth</text>
+</g>
 <a class="atlas-seal" href="{{ '/rules/clans/#senju' | relative_url }}" aria-label="Wood" style="--tint:#aad38d;--phase:-8.65s">
 <polygon class="seal-aura" points="666.3 793.9 650.1 810.1 627.1 810.1 610.9 793.9 610.9 770.9 627.1 754.7 650.1 754.7 666.3 770.9" aria-hidden="true"/>
 <g class="seal-face">
