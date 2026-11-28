@@ -180,6 +180,8 @@
 
 /* Use the same vector chart for the overview and each enlarged school. */
 function setupAtlasFocus() {
+  const preview = document.querySelector('.atlas-preview');
+  if (preview) preview.scrollLeft = (preview.scrollWidth - preview.clientWidth) / 2;
   const control = document.querySelector('.atlas-focus[hidden]');
   if (!control) return;
   const select = control.querySelector('select');
