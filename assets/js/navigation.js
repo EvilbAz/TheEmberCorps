@@ -51,8 +51,8 @@
   window.emberNavigate = navigate;
   document.addEventListener('click', e => {
     const a = e.target.closest('a[href]');
-    if (!a || e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || a.hasAttribute('download') || (a.target && a.target !== '_self') || a.dataset.fullNavigation !== undefined) return;
-    const url = new URL(a.href,location.href);
+    if (!a || e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || a.hasAttribute('download') || (a.getAttribute('target') && a.getAttribute('target') !== '_self') || a.dataset.fullNavigation !== undefined) return;
+    const url = new URL(a.getAttribute('href'),document.baseURI);
     if (url.origin !== location.origin || !(url.pathname === base + '/' || url.pathname.startsWith(base + '/')) || /\.[a-z0-9]+$/i.test(url.pathname)) return;
     if (url.pathname === location.pathname && url.search === location.search) {
       // Re-selecting this page must not reload the document and stop playback.

@@ -708,3 +708,26 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 #rail-toc.uniques-toc a:hover, #rail-toc.uniques-toc a.active { color: var(--accent); }
 #rail-toc.uniques-toc a.depth-3.active { border-left-color: var(--accent); }
 body[data-volume="uniques"] .reading-rail { scrollbar-width: thin; overscroll-behavior-y: contain; }
+
+/* Interactive chakra seals share their particle shapes with the school cards. */
+.jutsu-atlas { cursor: auto; }
+.atlas-seal { cursor: pointer; }
+.atlas-seal .seal-face { transform-box: fill-box; transform-origin: center; }
+.atlas-seal:is(:hover, :focus-visible) .seal-face polygon { stroke: var(--accent); stroke-width: 5; }
+.atlas-seal:is(:hover, :focus-visible) text { text-decoration: underline; }
+.seal-dust, .card-motes { pointer-events: none; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.seal-dust { color: color-mix(in srgb, var(--tint) 55%, var(--text)); }
+.jutsu-section-seal { position: relative; }
+.card-motes { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; color: var(--accent); }
+.seal-mote { opacity: 0; }
+@media (prefers-reduced-motion: no-preference) {
+  .atlas-seal .seal-face { animation: seal-breathe 12s ease-out var(--phase, 0s) infinite; }
+  .atlas-seal .seal-mote { animation: seal-drift 12s ease-out calc(var(--phase, 0s) + var(--lag, 0s)) infinite; }
+  .atlas-seal:is(:hover, :focus-visible, :active) .seal-mote,
+  .jutsu-type-card:is(:hover, :focus-visible, :active) .seal-mote { animation: seal-flurry 1.7s ease-out var(--lag, 0s) infinite; }
+  .jutsu-type-card:is(:hover, :focus-visible, :active) .jutsu-section-seal { animation: card-breathe 1.7s ease-in-out infinite; }
+}
+@keyframes seal-breathe { 0%, 14%, 100% { transform: scale(1); } 6% { transform: scale(1.055); } }
+@keyframes card-breathe { 50% { transform: scale(1.055); } }
+@keyframes seal-drift { 0%, 15%, 100% { opacity: 0; } 0% { transform: translate(0, 0); } 4% { opacity: .75; } 15%, 100% { transform: translate(var(--drift, -4px), var(--rise, -9px)); } }
+@keyframes seal-flurry { 0%, 85%, 100% { opacity: 0; } 0% { transform: translate(0, 0); } 20% { opacity: .85; } 85%, 100% { transform: translate(var(--drift, -4px), var(--rise, -9px)); } }
